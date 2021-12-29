@@ -3,7 +3,7 @@
 004_b,本回合中，任何指定一個相鄰友軍的攻擊的目標改為你，無視攻擊範圍。
 007_b,在接下來的6次指定你為目標的攻擊中，獲得<nobr>護盾<sprite name=Shield> *BShield*。</nobr>
 013_b,<nobr>本回合，</nobr>你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack>。</nobr>
-015_b,免疫接下來你受到的三次傷害。
+
 016_b,如果你的移動路徑為一條直線，執行
 022_t,消滅一個與你相鄰的被<nobr>擊暈<sprite name=Stun></nobr>的普通級別敵人。
 023_b,你可以將所有的<nobr>移動<sprite name=Move></nobr>行動轉化為等值的<nobr>攻擊<sprite name=Attack></nobr>行動。
@@ -1933,7 +1933,7 @@ difficult_terrain_tooltip,困難地形
 difficulty_high,高
 difficulty_low,低
 difficulty_medium,中
-difficulty_peaceful,和平： 少25%的敵軍
+
 difficulty_very_high,非常高
 dingledell,幽谷
 disadvantage,劣勢攻擊
@@ -4825,11 +4825,7 @@ gui_buy,買入
 gui_buy_confirmation_title,買入物品
 gui_buy_enhancement_confirmation_title,購買技能提升
 gui_buy_party_confirmation,你確定要解鎖這個玩家團隊嗎？
-gui_campaign,戰役模式
-gui_campaign_invalid_name,Enter a valid Campaign Name
-gui_campaign_repeated_name,該<color=#C53F3F>戰役名稱</color>已被使用，請輸入不同的名字。
-gui_campaign_ruleset,戰役模式規則集
-gui_cancel,取消
+
 gui_cancel_active_bonus,按一下圖示以取消啟動的技能
 gui_cancel_sending_error_report,取消錯誤報告……請稍候
 gui_cancel_town_records,取消城鎮記錄
@@ -4930,10 +4926,7 @@ gui_continue,繼續
 gui_continue_personal_quest_progression,繼續個人任務
 gui_copy,複製
 gui_core_quest,核心任務
-gui_create_campaign_enhancement,Ability Enhancements
-gui_create_campaign_enhancement_descr,Enhancements Settings cannot be modified once the Campaign starts. Choose wisely!
-gui_create_campaign_enhancement_original,Original
-gui_create_campaign_enhancement_variant,Updated
+
 gui_create_character_class_cards,起始技能卡
 gui_create_character_class_confirm,確認角色種類
 gui_create_character_class_roster_descr,選擇角色種類
@@ -4947,16 +4940,16 @@ gui_create_character_personal_quest_confirm,選擇個人任務
 gui_create_character_personal_quest_help,雇傭兵的個人任務是他們參加玩家團隊的理由。 <color=#EACF8C>要小心</color>  - 一旦個人任務完成，雇傭兵將退休，無法再使用。
 gui_create_character_personal_quest_help_title,選擇個人任務
 gui_create_character_personal_quest_tab,個人任務
-gui_create_error_report,創建錯誤報告
+
 gui_create_mod_confirmation,創建新的Mod
 gui_create_modconfig,創建Mod設定檔
-gui_create_modding,創建Mod
+
 gui_create_mods_desc,創建和管理您自己的個人模式並與Mod製作社區分享它們
-gui_create_mods_title,創建Mod
+
 gui_creator_class_repeated_tooltip,You can only have one Mercenary per class
 gui_credits,Credits
 gui_current_turn,目前的輪次
-gui_custom_mods_title,自訂Mod:
+
 gui_custom_rulesets_desc,啟動Mod將它們應用於遊戲的規則集。
 
 gui_default_attack,基本攻擊
@@ -4971,8 +4964,6 @@ gui_devotion_tooltip,"<size=+2><color=#EACF8C> 捐助</color></size>
 向大橡樹寺捐助金幣，以提高玩家團隊的奉獻等級。"
 gui_difficulty_brutal,Brutal
 
-gui_difficulty_descr_campaign,Difficulty Options can be changed during the game
-gui_difficulty_descr_campaign_v2,Difficulty settings can be modified during the game. These can be found in the Options menu
 
 
 gui_difficulty_select,選擇難度
@@ -5023,19 +5014,14 @@ gui_early_access_page_3_info,"在兩年的早期版本中，最終隨著戰役�
 Flaming Fowl 工作室"
 gui_early_access_page_3_title,謝謝！
 gui_early_access_page_4_title,教學和學習遊戲
-gui_early_access_title,歡迎來到黯淡港灣！
+
 gui_easy,容易
 gui_edit,編輯
 gui_effects,附加效果
-gui_element_air,氣
-gui_element_any,任意
-gui_element_dark,暗
-gui_element_earth,土
-gui_element_fire,火
-gui_element_ice,冰
+
 gui_element_infusion_created,{0}元素充能完畢！
 gui_element_infusion_creating,充能中...
-gui_element_light,光
+
 gui_element_status_inert,空格
 gui_element_status_infusing,充能中
 gui_element_status_strong,滿格
@@ -5148,7 +5134,7 @@ gui_gift_stun,您陷入眩暈狀態了
 gui_gift_win_gold,您獲得了{0}個金幣
 gui_gift_wound,您陷入流血狀態了
 gui_gift_xp,您獲得了{0} 點XP
-gui_gold_mode_selector_descr,Gold Settings cannot be modified once the game starts. Choose wisely!
+
 gui_guild,公會
 gui_guild_city,黯淡港灣
 gui_guild_enchantress,魔女
@@ -5171,10 +5157,8 @@ gui_guildmaster_tutorial_skip_ftue_intro,快速開始
 gui_guildmaster_tutorial_skip_ftue_intro_descr,跳過教學和介紹
 gui_guildmaster_tutorial_tutorial_descr,<color=#C2AF89FF>教學：</color>瞭解黯淡港灣的基本遊戲機制
 gui_hard,難的
-gui_herolevel,角色等級。
 
 
-gui_house_rules_advantage_original,Original: Can roll into a null modifier with advantage.
 gui_house_rules_advantage_original_tooltip,"<color=#F1DBAE>Original:</color> When attacking with Advantage, if a single Rolling Modifier is drawn, both Attack Modifiers will be applied to the attack. In Disadvantage, only the non-rolling Modifier will be applied.
 If both draws are Rolling Modifiers, keep drawing until a non-rolling modifier is drawn. In Advantage, all Modifiers are applied to the attack. In Disadvantage, only the non-rolling Modifier is applied to the attack."
 gui_house_rules_advantage_variant,Variant: Can't roll into a null modifier with advantage. *Recommended
@@ -5182,21 +5166,12 @@ gui_house_rules_advantage_variant_tooltip,"<color=#F1DBAE>Variant:</color> When 
 gui_house_rules_attack_modifiers,Attack Modifiers
 gui_house_rules_attack_modifiers_original,Original: x2 and x0 Attack Modifiers. *Recommended
 gui_house_rules_attack_modifiers_original_tooltip,Attack Modifier decks will contain x2 and x0 Attack Modifiers.
-gui_house_rules_attack_modifiers_variant,Variant: +2 and -2 Attack Modifiers.
-gui_house_rules_attack_modifiers_variant_tooltip,"x2 Attack modifiers will be replaced with +2
-x0 Attack modifiers will be replaced with -2"
-gui_house_rules_descr,House Rules can be modified during the game. These can be found in the Options Menu.
-gui_house_rules_line_of_sight,Line of Sight
-gui_house_rules_line_of_sight_original,Original: Standard LOS Rules.
+
 gui_house_rules_line_of_sight_original_tooltip,"If a character has line of sight, a line can be drawn from any corner of the attacker’s hex to any corner of the defender’s hex without touching any part of a wall."
 gui_house_rules_line_of_sight_variant,Variant: Centre Hex LOS Added. *Recommended
 gui_house_rules_line_of_sight_variant_tooltip,A line can be drawn from the centre or any corner of the attacker’s hex to the centre or any corner of the defender’s hex without touching any part of a wall.
-gui_house_rules_summon_movement,Summons Movement
-gui_house_rules_summon_movement_original,"Original: No Focus, No Move."
-gui_house_rules_summon_movement_original_tooltip,"If there are no enemies or no valid path to a hex from which the Summon can attack an enemy, the Summon will not move."
-gui_house_rules_summon_movement_variant,"Variant: No Focus, Move Choice. *Recommended"
-gui_house_rules_summon_movement_variant_tooltip,"If there are no enemies or no valid path to a hex from which the Summon can attack an enemy, the Mercenary who summoned them can choose whether the summon will move towards that Mercenary or will not move."
-gui_how_to_play,簡明規則書
+
+
 gui_improved_short_rest_active_bonus_tooltip,"在你的下一輪次期間，短休息將會擁有長休息的所有好處:
 -  <indent=%15>選擇燒祭一張棄牌堆的卡排並將所有其他棄牌堆的卡牌回手。</indent>
 -  <indent=%15>治療自身2滴血。</indent>
@@ -5273,12 +5248,9 @@ gui_linked_quest_invalid_choice,在接受這個任務之前，你必須返回黯
 gui_linked_quest_linkedquest_choice,如果你現在接受任務，你不會面對一條道路遇到
 
 
-gui_load_adventure_description,選擇存檔資料以恢復...
 gui_load_adventure_difficulty,困難:
 gui_load_adventure_gold,玩家團隊金幣:
-gui_load_adventure_items,物品:
-gui_load_adventure_location,地點:
-gui_load_adventure_quest,任務:
+
 gui_load_adventure_start_journey,準備開始新的旅程！
 gui_load_adventure_start_quest,準備開始一個新的任務！
 gui_load_campaign,載入戰役
@@ -5286,8 +5258,7 @@ gui_load_modconfig,載入Mod設定檔.
 gui_load_modding,載入Mod
 gui_load_party_slot_owner,所有者:
 gui_load_scenario,載入劇本
-gui_loading,載入中
-gui_loading_dots,載入中 ...
+
 gui_loading_state_compare,對比玩家狀態。請稍等...
 gui_loading_waiting_for_players,等待其他玩家......
 gui_loadout_enemies,敵人
@@ -5298,19 +5269,13 @@ gui_locked,鎖定
 gui_locked_card_tooltip,"尚未添加到掌握技能卡的卡保持<color=#CEAD5A>鎖定</color>除非花費解鎖點。
 選擇<color=#CEAD5A>重置雇傭兵 </color>重建掌握技能卡集。"
 gui_locked_object,未解鎖的{0}
-gui_long_rest,長休息
+
 gui_lose_card,"<sprite name=""Lost"">燒祭""{0}"""
 gui_lose_cards,"<sprite name=""Lost"">燒祭卡牌
 "
-gui_main_menu,主選單
-gui_main_menu_campaign_tooltip,"<color=#F1DBAE>Campaign</color>
-Play the Original boardgame campaign  as you face the horror beyond the walls of Gloomhaven in a 95 Quest Campaign.
-Campaign mode is very dangerous for new players, be prepared!"
 
-gui_main_menu_guildmaster_tooltip,<color=#F1DBAE>公會模式</color>
-A new Digital-only mode designed for players to master Gloomhaven's rules and Mercenaries with over 100 new missions.
-Guildmaster is a slightly more forgiving mode to play first!
-gui_main_menu_multiplayer_how_to_host,如何建立房間
+
+
 gui_main_menu_multiplayer_how_to_host_descr,"<size=+4><sprite name=""Pointer""></size><indent=20>While <color=#F1DBAE>in an existing Gloomhaven saved game</color>, click ""Esc"" to open the Pause menu and select ""Multiplayer"".
 </indent>
 <size=+4><sprite name=""Pointer""></size><indent=20>This will open the Multiplayer panel, on which you can <color=#F1DBAE>select ""建立房間""</color> to start a Multiplayer session.
@@ -5596,10 +5561,6 @@ gui_opt_interface_mouse_hover_outlines,禁用滑鼠懸停輪廓
 gui_opt_lang_apply,應用不同的語言需要遊戲重新載入
 gui_opt_lang_title,需要採取的行動
 
-gui_opt_shared_gold,共用金幣
-gui_opt_shared_gold_description,所有金幣都在公會中的所有雇傭兵分享
-gui_opt_split_gold,獨立金幣
-gui_opt_split_gold_description,每個雇傭兵管理個人金幣
 
 
 
@@ -5607,8 +5568,8 @@ gui_other_player_retirement_tooltip,"<size=+2><color=#EACF8C>退休</color></siz
 你的團隊中的一個雇傭兵馬上要退休。
 點擊按鈕以進行退休"
 gui_party,玩家團隊
-gui_party_assembly_enter_name,輸入公會名稱
-gui_party_assembly_enter_name_campaign,Enter Party Name
+
+
 gui_party_price,成本：{0}Renown
 gui_party_size,{0}個角色
 gui_partygold,玩家團隊擁有的金幣。
@@ -6344,53 +6305,32 @@ kailej_descr,凱爾地區的魔人城是南部沙漠中的寶石。它的塔和�
 keycode_altgr,Alt Gr
 keycode_backspace,倒退鍵
 keycode_break,Break
-keycode_capslock,Caps Lock鍵
+
 keycode_clear,Clear
-keycode_delete,Delete鍵
 keycode_downarrow,下箭頭
-keycode_end,End鍵
-keycode_escape,Escape鍵
+
 keycode_help,Help
-keycode_home,Home鍵
-keycode_insert,Insert鍵
+
 keycode_joystickbutton1,手柄B按鈕
 keycode_joystickbutton2,手柄X按鈕
 keycode_joystickbutton3,手柄Y按鈕
 keycode_joystickbutton4,手柄LB按鈕
 keycode_joystickbutton5,手柄RB按鈕
-keycode_keypaddivide,小鍵盤 /
-keycode_keypadequals,小鍵盤 =
-keycode_keypadminus,小鍵盤 -
-keycode_keypadmultiply,小鍵盤 *
-keycode_keypadperiod,小鍵盤 .
-keycode_keypadplus,小鍵盤 +
-keycode_leftalt,左Alt鍵
+
 keycode_leftapple,Left Apple
 keycode_leftarrow,左箭頭
-keycode_leftcommand,左Command鍵
-keycode_leftcontrol,左Control鍵
-keycode_leftshift,左Shift鍵
-keycode_leftwindows,左Windows鍵
-keycode_menu,Menu
-keycode_mouse1,滑鼠左鍵
-keycode_mouse2,滑鼠中鍵
+
+
 keycode_mouse3,滑鼠向後側鍵
 keycode_mouse4,滑鼠向前側鍵
-keycode_numlock,Numlock鍵
-keycode_pagedown,Page Down鍵
-keycode_pageup,Page Up鍵
-keycode_pause,Pause鍵
-keycode_print,Print鍵
+
+
 keycode_return,Return鍵
-keycode_rightalt,右Alt鍵
+
 keycode_rightapple,Right Apple
 keycode_rightarrow,右箭頭
-keycode_rightcommand,右Command
-keycode_rightcontrol,右Control
-keycode_rightshift,右Shift
-keycode_rightwindows,右Windows
-keycode_scrolllock,Scroll Lock鍵
-keycode_space,空白鍵
+
+
 keycode_sysreq,Sys Req
 keycode_tab,Tab鍵
 keycode_uparrow,上箭頭
