@@ -5074,7 +5074,7 @@ gui_error_retry,重試
 gui_error_return_to_map_button,返回冒險地圖
 gui_error_title,抱歉，發生錯誤了
 
-gui_exit_journey,放棄旅程
+
 gui_exit_shop,離開商店
 gui_exit_trainer,離開教官
 gui_exit_village,離開{0}
@@ -5747,13 +5747,11 @@ gui_short_rest_confirmation,執行短休息
 gui_side_quest,副任務
 gui_skin_off_tooltip,基本的皮膚
 gui_skin_on_tooltip,華麗的皮膚
-gui_skip,跳過
+
 gui_skip_ability,跳過技能
-gui_skip_action,跳過行動
-gui_skip_attack,跳過攻擊
-gui_skip_ftue,跳過教學
-gui_skip_mission,跳過任務
-gui_skip_movement,跳過移動
+
+
+
 gui_skip_pull,跳過拉近
 gui_skip_push,跳過推遠
 gui_spawner,怪物出生地
@@ -12151,8 +12149,7 @@ trainerdialogname,教官
 transferdooms,轉移厄運
 trap,陷阱
 treasure_chest_tooltip,財寶寶箱
-tutorial_2_help_004,選擇踐踏
-tutorial_2_help_005,選擇雁過拔毛
+
 tutorial_2_help_006,點擊“結束選擇”繼續
 tutorial_2_help_007,選擇雁過拔毛的下半區
 tutorial_2_help_008,選擇高亮顯示的房門格子
@@ -12180,11 +12177,6 @@ tutorial_2_help_024_4,點擊“跳過移動”按鈕跳過剩下的移動
 tutorial_2_help_024_5,點擊“結束”以繼續
 
 
-<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷</color></font></b></nobr>為灰色以指示其當前已經被丟棄（用於教學的緣故），因此，現在讓我們選擇<color=#a06e4b><b>蠻徒</b></color>的兩張可用卡牌。"
-tutorial_2_text_005,"看看<color=#a06e4b><b>蠻徒</b></color>在螢幕頂部旁邊的'<b>?</b>'改變為一串數字，這表示他的<color=#FADC99><b>時序值</b></color>為72。
-
-你選擇的第一張卡旁邊的數位確定了角色的<color=#FADC99><b>時序值</b></color>。時序值越小，角色越先採取行動。"
-tutorial_2_text_006,由於現在沒有其他角色存在，因此將立即進入<color=#a06e4b><b>蠻徒</b></color>的輪次。
 tutorial_2_text_007_1,現在是<color=#a06e4b><b>蠻徒</b></color>的輪次，到了選擇一個<color=#FADC99><b>行動</b></color>的時候了。每張卡牌的上半區和下半區分別表示一個<color=#FADC99><b>行動</b></color>，每個<color=#FADC99><b>行動</b></color>由一個或多個<color=#FADC99><b>技能</b></color>組成。
 tutorial_2_text_007_2,你每輪可以使用兩個<color=#FADC99><b>行動</b></color>，你可以選擇左邊的四種行動之一作為你的第一個<color=#FADC99><b>行動</b></color>——但請注意，你必須使用另一張卡的另一半區中的兩種行動之一作為你的第二個行動。
 tutorial_2_text_007_3,"例如，在這裡，你可以選擇<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>的上半區和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr>的下半區..."
