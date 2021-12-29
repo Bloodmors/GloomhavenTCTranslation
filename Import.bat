@@ -1,0 +1,1 @@
+copy LanguageExport.csv D:\SteamLibrary\steamapps\workshop\content\780290\2636924471\LangPacks\

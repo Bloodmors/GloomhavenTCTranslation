@@ -4917,7 +4917,7 @@ gui_confirmation_enable_perk_warning,一旦應用，就無法移除一個專精�
 gui_confirmation_end_session,返回單人模式繼續遊戲
 gui_confirmation_exit_game_map,將會存檔所有進度。
 gui_confirmation_exit_game_scenario,將會失去這一回合的所有進度。
-gui_confirmation_exit_game_title,退出遊戲
+
 gui_confirmation_exit_scenario,放棄劇本
 gui_confirmation_gui_restart_turn,將會失去當前輪次的所有進度。
 gui_confirmation_levelup_card,將此卡添加到您的可用技能卡中？
@@ -5345,14 +5345,14 @@ gui_lose_card,"<sprite name=""Lost"">燒祭""{0}"""
 gui_lose_cards,"<sprite name=""Lost"">燒祭卡牌
 "
 gui_main_menu,主選單
-gui_main_menu_campaign_tooltip,"<color=#F1DBAE>戰役模式</color>
+gui_main_menu_campaign_tooltip,"<color=#F1DBAE>Campaign</color>
 Play the Original boardgame campaign  as you face the horror beyond the walls of Gloomhaven in a 95 Quest Campaign.
 Campaign mode is very dangerous for new players, be prepared!"
-gui_main_menu_extras_tooltip,"<color=#F1DBAE>其他</color>
+gui_main_menu_extras_tooltip,"<color=#F1DBAE>Extras</color>
 Find all the full extent of Gloomhaven's rules in ""How to Play"", unleash your creative side in the ""Level Editor"" or make the game your own in ""Modding""."
-gui_main_menu_guildmaster_tooltip,「<color=#F1DBAE>公會模式</color>
+gui_main_menu_guildmaster_tooltip,<color=#F1DBAE>公會模式</color>
 A new Digital-only mode designed for players to master Gloomhaven's rules and Mercenaries with over 100 new missions.
-Guildmaster is a slightly more forgiving mode to play first!」
+Guildmaster is a slightly more forgiving mode to play first!
 gui_main_menu_multiplayer_how_to_host,如何建立房間
 gui_main_menu_multiplayer_how_to_host_descr,"<size=+4><sprite name=""Pointer""></size><indent=20>While <color=#F1DBAE>in an existing Gloomhaven saved game</color>, click ""Esc"" to open the Pause menu and select ""Multiplayer"".
 </indent>
@@ -5370,8 +5370,7 @@ gui_main_menu_multiplayer_how_to_host_descr,"<size=+4><sprite name=""Pointer""><
 gui_main_menu_multiplayer_how_to_host_title,Host a Session
 gui_main_menu_multiplayer_tooltip,"<color=#F1DBAE>Multiplayer</color>
 Join an existing Multiplayer game using an invite code."
-gui_main_menu_options_tooltip,"<color=#F1DBAE>設置</color>
-變更遊戲的設定以契合你的遊玩風格。"
+
 gui_main_menu_tutorial_tooltip,"<color=#F1DBAE>Tutorial</color>
 New to Gloomhaven? Play the Tutorial to familiarise yourself with the basic mechanics of Gloomhaven.
 This can also be experienced as part of the intro to the Guildmaster mode."
@@ -5716,14 +5715,9 @@ gui_opt_shared_gold,共用金幣
 gui_opt_shared_gold_description,所有金幣都在公會中的所有雇傭兵分享
 gui_opt_split_gold,獨立金幣
 gui_opt_split_gold_description,每個雇傭兵管理個人金幣
-gui_opt_video,顯示
-gui_opt_video_borderless,無邊框模式
-gui_opt_video_borderlesswindowed,無邊框模式
-gui_opt_video_display,顯示模式
-gui_opt_video_fullscreen,全螢幕模式
-gui_opt_video_resolution,解析度
-gui_opt_video_windowed,視窗模式
-gui_options,設置
+
+
+
 gui_other_player_retirement_tooltip,"<size=+2><color=#EACF8C>退休</color></size>
 你的團隊中的一個雇傭兵馬上要退休。
 點擊按鈕以進行退休"
