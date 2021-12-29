@@ -1624,10 +1624,14 @@ compendium_areaeffects_4,"Some area effect attacks have a ranged attribute, allo
 
 You can only attack enemies in hexes you have line of sight to."
 compendium_areaeffects_title,Area Effects
-compendium_attackeffects_1,"Abilities can have effects that apply to the target after damage from the attack is resolved. Attack effects are applied regardless of whether the corresponding attack does damage. Some actions can also have these effects as a standalone ability without an attack, and in such cases the target of the effect is written on the ability card."
-compendium_attackeffects_2,"<b>PUSH X:</b> The target is forced to move X hexes in a direction specified by the attacker, but each hex moved must place the target farther away from the attacker than it was previously. If there are no viable hexes into which to push the target, the push ends. The target can be pushed through its allies, but not its enemies."
-compendium_attackeffects_3,"<b>PULL X:</b> The target is forced to move X hexes in a direction specified by the attacker, but each hex moved must place the target closer to the attacker than it was previously. If there are no viable hexes into which to pull the target, the pull ends. The target can be pulled through its allies, but not its enemies."
-compendium_attackeffects_4,"<b>PIERCE X:</b> Up to X points of the target’s Shield are ignored for the attack. Unlike other effects, pierce is applied while calculating the accompanying attack damage instead of afterwards."
+compendium_attackeffects_1,"Abilities can have effects that apply to the target after damage from the attack is resolved. Attack effects are applied regardless of whether the corresponding attack does damage. Some actions can also have these effects as a standalone ability without an attack, and in such cases the target of the effect is written on the ability card.
+"
+compendium_attackeffects_2,"<b>PUSH X:</b> The target is forced to move X hexes in a direction specified by the attacker, but each hex moved must place the target farther away from the attacker than it was previously. If there are no viable hexes into which to push the target, the push ends. The target can be pushed through its allies, but not its enemies.
+"
+compendium_attackeffects_3,"<b>PULL X:</b> The target is forced to move X hexes in a direction specified by the attacker, but each hex moved must place the target closer to the attacker than it was previously. If there are no viable hexes into which to pull the target, the pull ends. The target can be pulled through its allies, but not its enemies.
+"
+compendium_attackeffects_4,"<b>PIERCE X:</b> Up to X points of the target’s Shield are ignored for the attack. Unlike other effects, pierce is applied while calculating the accompanying attack damage instead of afterwards.
+"
 compendium_attackeffects_5,"<b>ADD TARGET:</b> If a character triggers this effect with an attack action, the character may add an additional target within range to their attack. All added effects and conditions of the attack action are applied to the target as well, except for effects that would result in additional targets outside of the original added target."
 compendium_attackeffects_title,Attack Effects
 compendium_attackmodifiers_1,"When attacking, the base attack value written on the card can be modified by three types of values in the following order. These steps are repeated for each individual enemy targeted by the attack:
@@ -1684,7 +1688,8 @@ compendium_exhaustion,"A character can become exhausted in one of two ways:
 
 In either case, the character is removed from the scenario, and can no longer participate in the scenario in any way. There is no coming back from being exhausted during a scenario, and thus it should be avoided at all costs. If all characters become exhausted during a scenario, the scenario is lost. It is therefore recommended that you try to not let this happen!"
 compendium_exhaustion_title,Exhaustion
-compendium_gainingexperience_1,"Some ability card's actions have an experience value attached to them indicated by the shield icon with a number within, where the number is the amount of XP to be granted upon use of the action. A character must use one or more of the abilities in an action to earn experience this way."
+compendium_gainingexperience_1,"Some ability card's actions have an experience value attached to them indicated by the shield icon with a number within, where the number is the amount of XP to be granted upon use of the action. A character must use one or more of the abilities in an action to earn experience this way.
+"
 compendium_gainingexperience_2,"Sometimes the action's text specifies that experience is only earned by consuming an elemental infusion by having it as part of the on-consume effect, or only if a certain condition is met (e.g. only if the attacked target is adjacent to one or more of the attacker’s allies) Some persistent active bonuses grant experience when a certain instance of that bonus' trigger condition is reached, as denoted by their accompanying tracker. (See <b>Active Bonuses</b>)
 
 Additionally in Guildmaster mode, at the end of each adventure, each character in the party will gain experience based on the adventure difficulty. More difficult adventures will award you more experience, but beware – if you fail an adventure, you will lose all progress since the last village!"
@@ -5341,7 +5346,8 @@ gui_locked_card_tooltip,"Cards that haven't been added to Mastered Abilities rem
 Choose <color=#CEAD5A>Reset Mercenary</color> to rebuild the Mastered Ability set."
 gui_locked_object,Locked {0}
 gui_long_rest,Long rest
-gui_lose_card,"<sprite name=""Lost""> Burn ""{0}"""
+gui_lose_card,"<sprite name=""Lost""> Burn ""{0}""
+"
 gui_lose_cards,"<sprite name=""Lost""> Burn Cards
 "
 gui_main_menu,Main Menu
@@ -6633,7 +6639,8 @@ message_complete_achievement_1_1_nightshroudreachlevel2_2,How does he want to re
 message_complete_achievement_1_1_nightshroudreachlevel2_3,By killing them and dissecting their corpses.
 message_complete_achievement_1_1_nightshroudreachlevel2_4,"Oh, ‘that’ kind of research?"
 message_complete_achievement_1_1_nightshroudreachlevel2_5,Yes. First he’s suggesting heading to The Pyre to collect Spirit ectoplasm.
-message_complete_achievement_1_1_plagueheraldreachlevel2_1,"The Plagueherald has been studying how best to save Demonsgate from disease, and believes it has come across a breakthrough. "
+message_complete_achievement_1_1_plagueheraldreachlevel2_1,"The Plagueherald has been studying how best to save Demonsgate from disease, and believes it has come across a breakthrough. 
+"
 message_complete_achievement_1_1_plagueheraldreachlevel2_2,"Are you sure you’re talking about the glorified cloud of bugs that likes infecting things?
 "
 message_complete_achievement_1_1_plagueheraldreachlevel2_3,"The Plagueherald thought disease helped the other races. When the Enchantress managed to convince it otherwise, its hive began studying Demonsgate to create a magical cure-all instead."
@@ -6833,7 +6840,8 @@ message_end_quest_story_nightshroud_2_1,"Most of the Harrowers dissipated after 
 message_end_quest_story_nightshroud_2_2, Do we know ‘why’ he is doing this?
 message_end_quest_story_nightshroud_2_3,"It’s something to do with a Rot affecting the land, next he wants to take down some Lurkers in Crystal Hollow."
 message_end_quest_story_nightshroud_3_1,"The Nightshroud has started his experiment with the creature’s remains, he hopes it will give us an insight into the origin of the Rot."
-message_end_quest_story_nightshroud_3_2," I hope so too, as then I can move back into the Guild when the terrible smells have gone."
+message_end_quest_story_nightshroud_3_2," I hope so too, as then I can move back into the Guild when the terrible smells have gone.
+"
 message_end_quest_story_nightshroud_3_3,"Staying above the tavern is costing me a fortune, and I seem to be spending more time drinking!"
 message_end_quest_story_plagueherald_1_1,I can’t believe we just saved a Harrower hive. Why would we do that?
 message_end_quest_story_plagueherald_1_2,"Well, we fight to protect Demonsgate and her continent, and these peaceful Harrowers do live here. The Captain of The Guard even agreed to watch other known Harrower hives after the attack."
@@ -6866,7 +6874,8 @@ message_end_quest_story_sawbones_1_1,"After having the Enchantress magically rem
 message_end_quest_story_sawbones_1_2,"Oh what, did she curse the town in heartbroken rage because her ex was from Demonspire Hollow?"
 message_end_quest_story_sawbones_1_3,"Close. One of the local cobblers ruined her favourite boots, actually. But the local curse was just a side effect. If the journal is to be believed, this ritual was a strengthening spell, directed at something more sinister taking place within Blackrock Asylum."
 message_end_quest_story_sawbones_1_4,"Great. So we save the village, and end up going straight to prison anyway..."
-message_end_quest_story_sawbones_2_1,"Well, that was odd. Ritual suicide by mercenary definitely isn’t someting we’ve seen before. "
+message_end_quest_story_sawbones_2_1,"Well, that was odd. Ritual suicide by mercenary definitely isn’t someting we’ve seen before. 
+"
 message_end_quest_story_sawbones_2_2,"There’s more. According to the Inox’s letter, the Red Talons invited his tribe to help them complete this ritual to level the Saltmarsh Flats, in an effort to cripple the healing magic of Demonsgate."
 message_end_quest_story_sawbones_2_3,"Wait, isn’t that the School of the Great Oak’s whole deal? Why target the Saltmarsh Flats?"
 message_end_quest_story_sawbones_2_4,"The Saltmarsh Flats is home to the School’s best healers, including your Sawbones. Our healers even secretly keep all of their ancient texts in the village hall, in case of an accident at the School. "
@@ -6920,9 +6929,12 @@ message_end_quest_story_undeadcommander_1,It seems that Melody has tracked Swagg
 message_end_quest_story_undeadcommander_2,"We may not have got much else from this quest, but I did find this er… Skull on the floor."
 message_end_quest_story_undeadcommander_3,"Not even I can sell this, so here you go, it gives me the creeps."
 message_end_quest_story_wingedhorror_1,I think that was the most horrifying demon we’ve ever defeated. My ears will have nightmares for years.
-message_end_quest_story_wingedhorror_2,"On another good note, the School and its Great Oak are safe. The Sawbones is already helping the staff, students and records get moved back in."
-message_end_quest_story_wingedhorror_3,"The City Guard also recovered more of the Red Talons’ documents. It appears the Winged Horror is only summoned by rituals involving extreme suffering, and they take almost a decade to fully complete. We’ll have to be vigilant."
-message_end_quest_story_wingedhorror_4,"As for the Horror’s vomit, that solid lump was one of the power cores for the School’s defenses. It’s not a tome on construction magic, but it’s something."
+message_end_quest_story_wingedhorror_2,"On another good note, the School and its Great Oak are safe. The Sawbones is already helping the staff, students and records get moved back in.
+"
+message_end_quest_story_wingedhorror_3,"The City Guard also recovered more of the Red Talons’ documents. It appears the Winged Horror is only summoned by rituals involving extreme suffering, and they take almost a decade to fully complete. We’ll have to be vigilant.
+"
+message_end_quest_story_wingedhorror_4,"As for the Horror’s vomit, that solid lump was one of the power cores for the School’s defenses. It’s not a tome on construction magic, but it’s something.
+"
 message_end_quest_story_wingedhorror_5,"What a whole lot of use that power core was... but you don’t look a gift-demon in the mouth, I guess. I’ve put it into storage for you: we’ll get more use out of the core than the School."
 message_end_quest_travel_amberhill_1,"So the City Guard are killing people now? That’s definitely not the kind of protection I pay my taxes for — though I do, er, definitely pay my taxes."
 message_end_quest_travel_amberhill_2,"Luckily, Amberhill is known for their enchanted wearables, made with a local magical Amber tree. "
@@ -7624,7 +7636,8 @@ personalquest_fearless_stand_objective_desc,Kill 20 Elite monsters
 personalquest_fearless_stand_objective_progress_tooltip,Elite monsters killed:
 personalquest_fearless_stand_objective_progress_tooltip_empty,No Elite monsters killed yet.
 personalquest_finding_the_cure,Finding the Cure
-personalquest_finding_the_cure_completed,"Before leaving, you thank your band of mercenaries for their help, then make haste to your village. You wonder what mysteries await Gloomhaven, but soon all you can think of is home — hopefully you’re not too late. Hopefully you won’t need to watch anyone else die. "
+personalquest_finding_the_cure_completed,"Before leaving, you thank your band of mercenaries for their help, then make haste to your village. You wonder what mysteries await Gloomhaven, but soon all you can think of is home — hopefully you’re not too late. Hopefully you won’t need to watch anyone else die. 
+"
 personalquest_finding_the_cure_desc,"<b>Kill 8 Forest Imps. Then unlock the scenario ""Forgotten Grove"" and follow it to a conclusion.</b> 
 
 At first it was just a cough. One of your neighbors keeping you up at night. But then it spread and got worse. Blood, boils, and death. The elder says a cure can be found deep inside the Dagger Forest; the Forest Imps know the way. If you can gather enough of their essence, you may be able to find the way yourself."
@@ -7849,7 +7862,8 @@ quest_campaign_003_outro_gh_2,"“They were thieves and murderers,” she says b
 quest_campaign_003_outro_gh_3,"""I have one more task I would like you to perform. I require a diamond of considerable size for a customer, but I cannot find one anywhere in the city."""
 quest_campaign_003_outro_gh_4,"“There is a diamond mine, however, in the southern mountains long since lost to the wilderness. I’ve heard reports that it is now overrun with Vermlings, no doubt with some other more intelligent force behind them."" "
 quest_campaign_003_outro_gh_5,"""If you can fight your way in and grab the biggest diamond you can find, I will give you a considerable reward. Now leave me in peace.” Jekserah’s two massive Inox bodyguards step forward, directing you to leave the manor."
-quest_campaign_003_outro_gh_6,"Outside, contemplating your new task, you hear a small voice behind you. “She’s not looking for profit, you know.”"
+quest_campaign_003_outro_gh_6,"Outside, contemplating your new task, you hear a small voice behind you. “She’s not looking for profit, you know.”
+"
 quest_campaign_003_outro_gh_7,You turn around to see a female Quatryl step out of the alley beside Jekserah’s house. She’s clad in dark leather armor and holds a conspicuous contraption full of whirring gears and topped with a conical metal piece connected to a tube.
 quest_campaign_003_outro_gh_8,"“Argeise, city guard,” she says, introducing herself. “I know, I don’t exactly look the part, but if anyone isn’t what they appear to be, it’s that Valrath you’ve been talking to. Sure, she’s a merchant, but she’s up to something far more sinister."""
 quest_campaign_003_outro_gh_9,"“She’s been trying to overthrow the military in Gloomhaven for as long as I’ve been here, and we’re all very curious about what her current machinations are."""
@@ -8091,7 +8105,8 @@ The relief, however, is short-lived. The room is swarming with menacing green ma
 quest_campaign_026_list,Descend into the Cistern
 quest_campaign_026_name,Ancient Cistern
 quest_campaign_026_outro_gh_1,"“It’s part of a ritual,” says a bespectacled Quatryl, staring down at your crude writing. “I am not myself entirely familiar with the specifics, but it seems to be a ritual to ‘welspar’...err, corrupt."""
-quest_campaign_026_outro_gh_2,"I believe such corruption would require the use of a conduit.” The Quatryl peers even more intently at the writings. “Ah, here! Something referred to as ‘The Artifact,’ housed at the Temple of Elements.”"
+quest_campaign_026_outro_gh_2,"I believe such corruption would require the use of a conduit.” The Quatryl peers even more intently at the writings. “Ah, here! Something referred to as ‘The Artifact,’ housed at the Temple of Elements.”
+"
 quest_campaign_026_outro_gh_3,"The Quatryl rushes over to a bookcase overflowing with texts, “Ah, interesting! I’ve heard of that before.” He disappears behind a large stack of tomes."
 quest_campaign_026_outro_gh_4,"“Yes! The Temple of the Elements.” His head pops out above the books. “The Temple of the Elements, said to house the Vessel of the Elements, a powerful ancient artifact capable of giving shape and power to the elemental residues around us."""
 quest_campaign_026_outro_gh_5,"“The book says the temple isn’t even that far from here—somewhere around the fork in the Serpent’s Kiss River. If you’re looking to get the bottom of the corruption, I’d start there.”"
@@ -8300,7 +8315,8 @@ quest_campaign_041_outro_travel_1,You place the small earthen pots in the center
 quest_campaign_041_outro_travel_2,"It is difficult to notice at first, but, over time, a faint tremor in the floor and walls begins to grow until it is difficult to even keep your footing. You barely dodge out of the way as a large rock falls from the ceiling."
 quest_campaign_041_outro_travel_3,"Then there is a flash of light, and before you floats a swirling green mist in the shape of many long, intertwined tendrils."
 quest_campaign_041_outro_travel_4,"“I had almost forgotten what it felt like to not be imprisoned.” For once you hear the Voice not from inside your own head, but emanating from the figure in front of you. "
-quest_campaign_041_outro_travel_5,"“It is quite wondrous. I am sure that before too long, I will forget the horrid feeling of powerlessness."""
+quest_campaign_041_outro_travel_5,"“It is quite wondrous. I am sure that before too long, I will forget the horrid feeling of powerlessness.""
+"
 quest_campaign_041_outro_travel_6,"“It is time to leave this realm,” the Voice says. “There is much to be remedied from my prolonged absence. But first, I must give you a proper thanks. I shall hold up my end of the bargain and bestow upon you great power and wealth.”"
 quest_campaign_041_outro_travel_7,"The green light spreads forth and illuminates you, providing you with the most wonderful feeling of warmth. And then it is gone."
 quest_campaign_041_outro_travel_8,"All that is left is a stone tablet in the center of the room with strange, cryptic markings you can't decipher."
@@ -8777,7 +8793,8 @@ quest_campaign_080_desc,What are these military loyalists up to?
 quest_campaign_080_intro,"The Quartermaster stands up and clears his throat. “And I would say that next time you’d better think twice about messing with my sister, but we all know there isn’t going to be a next time for you lot. Not after the Vigil is done with you!” He turns and stomps out the door, which promptly closes behind him.
 
 Fifteen minutes later, you are out of your shackles and hastily opening the door to your cell, ready to kill anyone foolish enough to stand in your way."
-quest_campaign_080_intro_travel_1,"You awake, face pressed against the cold stone of a dungeon floor, and try to remember the events that brought you to this moment."
+quest_campaign_080_intro_travel_1,"You awake, face pressed against the cold stone of a dungeon floor, and try to remember the events that brought you to this moment.
+"
 quest_campaign_080_intro_travel_10,"“Take this. Wait about fifteen minutes for me to conclude my business and be well on my way, then unlock your shackles and run like mad."""
 quest_campaign_080_intro_travel_11,“Don’t try to take them all on. There are too many. It looks as though they are holding your equipment in the far room. Just get to that and then make your way to the stables. They’ll have a much harder time catching you if you’re on horseback.”
 quest_campaign_080_intro_travel_2,"You were investigating a stronghold in the Watcher Mountains, supposedly owned by a group of militant humans known as the Vigil. "
@@ -8977,7 +8994,8 @@ quest_job_fellhounds_intro,"The mayor of the local town informs you of increasin
 quest_job_fellhounds_list,"The local area has become overrun with packs of ravenous dogs, find the cause"
 quest_job_fellhounds_name,Fell Hounds
 quest_job_firecult_desc,Cultist gatherings are summoning violent creatures. Destroy the threat.
-quest_job_firecult_intro,"Rumours of a large Cultist presence have led you to a dungeon’s door, long forgotten in the forest. Smoke rolls out from the hallway as you open the door, and carries the faint sound of incomprehensible mantras. On your guard, you continue into the dungeon until the chanting is deafening, and the heat inside crushing. Looking into the next room, you feel your eyes deceive you. Cultists recite unholy words in the room’s centre, but around them is every manner of flaming monster. The Cultists begin to speak understandably: ‘we give thanks to the gods of Flame for bringing us together in worship… and for providing us with the sport of mercenaries.’ You are discovered!"
+quest_job_firecult_intro,"Rumours of a large Cultist presence have led you to a dungeon’s door, long forgotten in the forest. Smoke rolls out from the hallway as you open the door, and carries the faint sound of incomprehensible mantras. On your guard, you continue into the dungeon until the chanting is deafening, and the heat inside crushing. Looking into the next room, you feel your eyes deceive you. Cultists recite unholy words in the room’s centre, but around them is every manner of flaming monster. The Cultists begin to speak understandably: ‘we give thanks to the gods of Flame for bringing us together in worship… and for providing us with the sport of mercenaries.’ You are discovered!
+"
 quest_job_firecult_list,Stop a dangerous cult meeting
 quest_job_firecult_name,Like Moths...
 quest_job_imps_spirits_forest_desc,A community has contacted us after villagers have been terrified by ghosts haunting the outlying farms.
@@ -9869,7 +9887,8 @@ scenario_campaign_006_success_1,"After the terrible shrieks and moans of the und
 scenario_campaign_006_success_2,"You raise your weapon, but the grin on his silhouetted face isn’t menacing in a way that calls for arms. It is menacing in a way you’ve never experienced before."
 scenario_campaign_006_success_3,"“Well done, sirs,” the figure lilts. “My, my, but you do have a way about you, don’t you? And you’ve certainly gotten our attention now, removing this troublesome crypt of its rogue undead element. We very much prefer our undead to be the controllable variety, now don’t we?”"
 scenario_campaign_006_success_4,"There is a long pause as the figure stares at you, still grinning."
-scenario_campaign_006_success_5,"“Well, perhaps you’d be so kind as to do us another favor? After which we’ll be mostly settled on the whole issue of you murdering some of my brethren.” He stops grinning."
+scenario_campaign_006_success_5,"“Well, perhaps you’d be so kind as to do us another favor? After which we’ll be mostly settled on the whole issue of you murdering some of my brethren.” He stops grinning.
+"
 scenario_campaign_006_success_6,"“There’s a necromancer in Gloomhaven. Been giving us a spot of trouble, sending mercenaries out to do her dirty work against us. Maybe you’ve met her."" "
 scenario_campaign_006_success_7,"“Kill Jekserah. Bring her head to our headquarters, and we’ll see about letting you live."""
 scenario_campaign_007_objective_1,Loot all 5 Ornate Chests with a Loot action (not end-of-turn looting)
@@ -10063,7 +10082,8 @@ scenario_campaign_033_scenario_modifier_1,The door to the final room will open o
 scenario_campaign_033_success_1,You round the corner just as a ball of fire flies in your direction. It explodes on the far wall and collapses the tunnel behind you. 
 scenario_campaign_033_success_2,"You break into a full sprint and, within minutes, emerge from the mountain and continue speeding into the surrounding foothills. "
 scenario_campaign_034_objective_1,Kill the Elder Drake
-scenario_campaign_034_success_1,"With one final blood-curdling screech, the giant drake falls off its perch and crashes to the snowy ground. It appears to still be alive, but its breaths are weak and shallow."
+scenario_campaign_034_success_1,"With one final blood-curdling screech, the giant drake falls off its perch and crashes to the snowy ground. It appears to still be alive, but its breaths are weak and shallow.
+"
 scenario_campaign_034_success_2,"“Bloodthirsty and obtuse. I don’t know why I should have expected more,” the drake whispers. “Congratulations on your stunning success."""
 scenario_campaign_034_success_3,"""I’m sure you will be heralded as heroes upon your triumphant return. Adorned in crowns of gold and cloaks of silk. Riches will be laden upon you and five thousand...”"
 scenario_campaign_034_success_4,The drake’s whispers trail off and the breathing stops. 
@@ -10099,7 +10119,8 @@ scenario_campaign_038_start_3,"Soon the whole camp is bustling with hostile acti
 
 If you want a guide, it looks as though you'll need to keep him alive. "
 scenario_campaign_038_success_1,"With the last of the Inox and their golems dead, the Orchid drops his sword and falls to his knees."
-scenario_campaign_038_success_2,"“Thank you,” he says. “They killed my family when they came. They said my children were not strong enough workers.”"
+scenario_campaign_038_success_2,"“Thank you,” he says. “They killed my family when they came. They said my children were not strong enough workers.”
+"
 scenario_campaign_038_success_3,"The Orchid dips his fingers in a pool of blood and begins to paint his face with it. “I thought killing them all would help, but I still feel hollow."""
 scenario_campaign_038_success_4,"“I owe you a debt for what you have done. I will gladly lead you into the western forest. On the way, however, I would like to check on a neighboring Orchid village. I fear that this may not be the last of the slaving Inox tribe.”"
 scenario_campaign_038_success_5,"The Orchid stands and turns to you, his face now a red mask of ferocity and hatred. “I am called Redthorn. Follow me.”"
@@ -10191,7 +10212,8 @@ scenario_campaign_050_success_1,You secure the last of the armory stock just as 
 scenario_campaign_051_objective_1,Kill the Gloom
 scenario_campaign_051_start_1,The Aesther flashes its blades in a mesmerizing dance.
 scenario_campaign_051_start_2,"“Come then, brave lambs. Who will be the first to embrace the Gloom?”"
-scenario_campaign_051_success_1,"Two swords fall to the stone floor with a sharp ring. The Aesther stands limp, a look of shock on his wounded face."
+scenario_campaign_051_success_1,"Two swords fall to the stone floor with a sharp ring. The Aesther stands limp, a look of shock on his wounded face.
+"
 scenario_campaign_051_success_2,"“How dare you,” he mutters. The voice that was once smooth and hypnotic is now gravely and dark. “I have waited thousands of years, and you presume to rob me of the fruits of my labors?”"
 scenario_campaign_051_success_3,"The Aesther’s mouth drops slack in death, but still the figure stands, as if held up by invisible strings."
 scenario_campaign_051_success_4,"“You can destroy my vessel and banish me from this plane, but it will never be enough. I am eternal. I will return. I will feast on this world once again!”"
@@ -10226,7 +10248,8 @@ scenario_campaign_055_success_3,"You quickly open the cache and find a detailed 
 scenario_campaign_055_success_4,"With this map, you feel your quest is finally nearing its end."
 scenario_campaign_056_objective_1,Kill all enemies 
 scenario_campaign_056_objective_2,Protect at least one captive Orchid
-scenario_campaign_056_room_4_1,"You reach the main bandit encampment in a large, open clearing. Looking beyond the formidable force of enemies before you, you see a group of ragged Orchids off to one side—more victims of these monsters."
+scenario_campaign_056_room_4_1,"You reach the main bandit encampment in a large, open clearing. Looking beyond the formidable force of enemies before you, you see a group of ragged Orchids off to one side—more victims of these monsters.
+"
 scenario_campaign_056_room_4_2,"The captive Orchids notice your arrival and use the opportunity to slip out of their bonds and overwhelm one of their distracted captors. You smile, knowing your family will be avenged this day."
 scenario_campaign_056_room_4_3,The bandits look back and forth between you and the escaping captives in a panic. One of the guards hefts his sword and charges. “Kill them all! No one shall escape!”
 scenario_campaign_056_success_1,"With the last of the bandits dead, one of the surviving captives approaches your group and falls to his knees."
@@ -10287,7 +10310,8 @@ scenario_campaign_062_misc_4,"""You wish to disturb us here? Free my prisoners f
 scenario_campaign_062_misc_5,"Out of the pile of bones, a form begins to take shape. It is a massive collection of skulls, ribs, femurs, and others bones, which create a fearsome beast of malice."
 scenario_campaign_062_objective_1,Kill the Hungry Soul
 scenario_campaign_062_objective_2,Kill 10 Living Bones
-scenario_campaign_062_success_1,"With one final blow, the mass of remains blasts apart and a great burst of light shoots through the room, returning the remaining enemies to inanimate bone."
+scenario_campaign_062_success_1,"With one final blow, the mass of remains blasts apart and a great burst of light shoots through the room, returning the remaining enemies to inanimate bone.
+"
 scenario_campaign_062_success_2,“Thank you travelers.” A disembodied voice echoes through your head. 
 scenario_campaign_062_success_3,"“I tried to save these people, but instead damned them to eternal torment. You have now freed us, and we are forever grateful.”"
 scenario_campaign_062_success_4,"You call out to the voice, desperate to know what happened in Eastport, why the demons attacked, and where they came from."
@@ -10323,7 +10347,8 @@ scenario_campaign_067_success_3,"What it learned, however, was that it was a sou
 scenario_campaign_067_success_4,You also find a glowing power core inside the golem’s body.
 scenario_campaign_068_objective_1,Kill all enemies 
 scenario_campaign_068_objective_2,Protect the tree 
-scenario_campaign_068_success_1,"With the final creature destroyed, you are finally able to turn your attention to the tree and put out the blaze. It is heavily charred, but it should survive."
+scenario_campaign_068_success_1,"With the final creature destroyed, you are finally able to turn your attention to the tree and put out the blaze. It is heavily charred, but it should survive.
+"
 scenario_campaign_068_success_2,"“I cannot thank you enough for what you have done, strangers,” the old Inox says. "
 scenario_campaign_068_success_3,"“I don’t know why you showed up when you did, but I believe it was the work of the spirits. You are a miracle!”"
 scenario_campaign_068_success_4,"The woman scratches her head. “I cannot fathom what would cause drakes to travel so far south, though. Perhaps there is something working against the spirits as well.”"
@@ -10346,7 +10371,8 @@ scenario_campaign_072_objective_1,Destroy the Left Tree
 scenario_campaign_072_objective_2,Kill all Oozes
 scenario_campaign_072_objective_3,Destroy the Middle Tree
 scenario_campaign_072_objective_4,Destroy the Right Tree
-scenario_campaign_072_success_1,"The green mold covering the ground ripples and convulses as the final tree crashes to the earth. Maybe it’s your imagination, but you can almost hear it screaming."
+scenario_campaign_072_success_1,"The green mold covering the ground ripples and convulses as the final tree crashes to the earth. Maybe it’s your imagination, but you can almost hear it screaming.
+"
 scenario_campaign_072_success_2,"Then all the slime turns brown and becomes still. You are not sure this land will ever grow crops again, but you neutralized the threat. "
 scenario_campaign_072_success_3,Hopefully that is enough for Greymare to hold up his end of the bargain.
 scenario_campaign_072_tree,Tree
@@ -10457,11 +10483,13 @@ Twice during the scenario, when the crystal suffers damage, any mercenary may bu
 scenario_campaign_084_scenario_modifier_2,"The left room will reveal at the start of the fourth round, the right room at the start of the sixth round, and the top room at the start of the ninth round. "
 scenario_campaign_084_start_1,“My call has been answered in the nick of time.” An otherworldly voice fills the cavern.
 scenario_campaign_084_start_2,"“Please, they have come to destroy me. I beg for your assistance.”"
-scenario_campaign_084_success_1,"As the last demon falls, the earth trembles yet again and the light from the crystal fades. Terrifying noises echo throughout the chamber and you brace for more demons to attack."
+scenario_campaign_084_success_1,"As the last demon falls, the earth trembles yet again and the light from the crystal fades. Terrifying noises echo throughout the chamber and you brace for more demons to attack.
+"
 scenario_campaign_084_success_2,"Instead, the voice returns. “I thank you for your intervention. My meditation had gone on for much longer than expected, and the demons were hunting for me, so I sent out a shard to call for help.”"
 scenario_campaign_084_success_3,"Light begins to return to the cavern, and you see a glowing Orchid standing in front of you, massive crystals protruding from his head, back, and shoulders. "
 scenario_campaign_084_success_4,"“I know now what must happen. Please, keep the shard as a token of my thanks. You should now be able to control its power.”"
-scenario_campaign_085_room_5_1,"Entering the inner sanctum, you find a group of Sun Demons gathered around two altars, defending them from the last remnants of the Night Demon army."
+scenario_campaign_085_room_5_1,"Entering the inner sanctum, you find a group of Sun Demons gathered around two altars, defending them from the last remnants of the Night Demon army.
+"
 scenario_campaign_085_room_5_2,"“We thank you for distracting our foes long enough for us take this chamber,” one of the Sun Demons says. "
 scenario_campaign_085_room_5_3,“Now begone! We will take this temple’s power for our own and destroy all those foolish enough to stand in our way!”
 scenario_campaign_085_room_5_4,You are familiar enough with demons to know that handing a sacred temple over to them is a bad idea. It looks as though you will just have to destroy them all.
@@ -10501,7 +10529,8 @@ scenario_campaign_088_room_2_4,The gargantuan Lurker pushes the figure up agains
 scenario_campaign_088_room_2_5,"In a flash, the figure is encased in a cage of ice and you are finally able to recognize who it is: the Summoner. You were meant to come and save her."
 scenario_campaign_088_room_2_6,"Even if you have to tear off that thing’s claw and use it to dispel the ice, well, then that is exactly what you will do."
 scenario_campaign_088_success_1,"You touch the dead claw to the prison, and the ice vanishes. "
-scenario_campaign_089_success_1,"You look around at the blood-soaked floors of the assassins’ den, coming to grips with the carnage you caused."
+scenario_campaign_089_success_1,"You look around at the blood-soaked floors of the assassins’ den, coming to grips with the carnage you caused.
+"
 scenario_campaign_089_success_2,"“A job well done,” the Nightshroud says, silently emerging from the shadows. "
 scenario_campaign_089_success_3,"“I wasn’t sure you had it in you, but this is true assassin’s work. Every last one of the syndicate met their end tonight. They thought to hunt us, but we were hunting them.”"
 scenario_campaign_089_success_4,"He holds out a bag of gold to you. “It is only right that I share part of my commission with you. I was hired by a rival guild in the Capital to remove the Sin-Ra."" "
@@ -10513,7 +10542,8 @@ scenario_campaign_090_objective_1,Kill all Demons to close the Rift
 scenario_campaign_090_objective_2,You lose if no mercenaries are alive and present in the Material Plane
 scenario_campaign_090_objective_3,Kill all Living Spirits to close the Rift
 scenario_campaign_090_objective_4,You lose if no mercenaries are alive and present in both planes
-scenario_campaign_090_success_1,"The rift crackles with dark energy and pulses with a chaotic aggression, fighting against its destruction. You take a step towards it and it explodes in a flash of brilliant light."
+scenario_campaign_090_success_1,"The rift crackles with dark energy and pulses with a chaotic aggression, fighting against its destruction. You take a step towards it and it explodes in a flash of brilliant light.
+"
 scenario_campaign_090_success_2,"When your vision returns, you find yourself once again standing in a field, with the Spellweaver looking into the distance. "
 scenario_campaign_090_success_3,"She reaches out her hand, probing the night air with her fingers. Eventually, she is satisfied that the rift is gone and turns towards you."
 scenario_campaign_090_success_4,"“Thank you for your help,” she says. “I know you don’t normally work without payment."" "
@@ -10627,7 +10657,8 @@ scenario_job_demonaltars_start_1,"I hate Demons… so spidery… Thankfully, the
 scenario_job_demonaltars_start_2,There is something allowing them in – you’ll need to find it and destroy it to curb this infestation.
 scenario_job_demonaltars_start_3,Those pressure plates aren’t natural. I’m willing to bet that whatever is causing this is behind whatever they open!
 scenario_job_demonaltars_success_1,"As the last Altar is destroyed, the Demons dissipate back into their realm. You are left alone in an empty room inside an empty cave."
-scenario_job_demonaltars_success_2,"Those Altars were placed here, and hidden purposefully. I have a feeling this won’t be the only time you’ll be doing a job like this."
+scenario_job_demonaltars_success_2,"Those Altars were placed here, and hidden purposefully. I have a feeling this won’t be the only time you’ll be doing a job like this.
+"
 scenario_job_demonicdissent_sm1_desc,At the start of each round Light & Dark Elements are set to Strong 
 scenario_job_demonicdissent_start_1,"As expected, you find Demons in the first room. What you don’t expect is that they are fighting each other! This must be the cause of the tremors."
 scenario_job_demonicdissent_start_2,There are many Demons here. Use their disagreements to help you defeat them all.
@@ -10668,7 +10699,8 @@ scenario_job_savvasaid_success_1,"With the animals dead or driven away, the Savv
 scenario_job_savvasaid_success_2,It seems the Savvas are discovering more and more of their history around Gloomhaven. We should expect to hear from more Savvas that require our services.
 scenario_job_savvasinfighting_start_1,"It appears these Savvas are fighting over which discipline is the most powerful, and are catching villages in the crossfire..."
 scenario_job_savvasinfighting_start_2,"Luckily for us, they seem to be just as eager to fight each other as they are to fight you. Use this to your advantage as you drive them away!"
-scenario_job_savvasinfighting_success_1,"As another Savvas falls, the others begin to retreat in disbelief. The local settlements are safe, for now."
+scenario_job_savvasinfighting_success_1,"As another Savvas falls, the others begin to retreat in disbelief. The local settlements are safe, for now.
+"
 scenario_job_savvasinfighting_success_2,"These Savvas’ pursuit of power led them to fight each other without regard for those they deem inferior, and it seems many of them feel this way. I don’t think this will be the last group of warring Savvas you encounter."
 scenario_job_snakes_undead_map_intro,"You accept the job to clear a crypt of Giant Snakes, which sounds like a routine job. When you meet the landowner who offered the job, he seems a little vague about the actual problem: yes, there are snakes, but he’s cagey about anything else down there. He insists the job is just to clear an old crypt. You reluctantly agree and head to the area. The crypt seems normal enough from the outside, and as you head in, you see discarded snakeskin..."
 scenario_job_snakes_undead_scenario_intro,There are certainly snakes here... But the landowner forgot to mention the Undead...
@@ -11303,7 +11335,8 @@ scenario_story_nightshroud_1_start_1,"This is unfortunate, we are a LONG way und
 scenario_story_nightshroud_1_start_2,"Yes, there are a lot of corridors to pass through until we see daylight again."
 scenario_story_nightshroud_1_start_3,But we also must kill enough Living Spirits on the way to ensure the Nightshroud recovers enough research!
 scenario_story_nightshroud_1_success_1,You escape out of the crypt with the samples.
-scenario_story_nightshroud_2_room_2_1,"They’ve managed to activate some Stone Golems in defence, avoid them if you can."
+scenario_story_nightshroud_2_room_2_1,"They’ve managed to activate some Stone Golems in defence, avoid them if you can.
+"
 scenario_story_nightshroud_2_room_4_1,"Hounds this way, they are too fast to outrun!"
 scenario_story_nightshroud_2_sm1_desc,Enemies start muddled
 scenario_story_nightshroud_2_start_1,"We’ve certainly got the drop on them, but I can’t see any Harrowers in here."
@@ -11374,7 +11407,8 @@ scenario_story_quartermaster_3_success_2,"The Quartermaster has confirmed the Un
 scenario_story_quartermaster_3_success_3,"I assume it would have been less than a quarter, but Living Bones do have those extra arms..."
 scenario_story_quartermaster_3_success_4,"HOWEVER, he did come across a strange artifact. Come back, and we’ll take a look."
 scenario_story_quartermaster_character_fail_objective,Lose if the Quartermaster is exhausted
-scenario_story_sawbones_1_room_2_1,"Deeper in the forest, you come across a group of Inox and cultists, joined in what appears to be a ritual. Upon seeing you, the cultists get behind the Inox as they form a protective line. "
+scenario_story_sawbones_1_room_2_1,"Deeper in the forest, you come across a group of Inox and cultists, joined in what appears to be a ritual. Upon seeing you, the cultists get behind the Inox as they form a protective line. 
+"
 scenario_story_sawbones_1_room_2_2,"Well, that was hardly much of a walk into the forest. How did no one else see these idiots from the village?"
 scenario_story_sawbones_1_room_2_3,"I’m more worried about these tribal Inox being in league with humans, especially cultists. Clear them out – I fear we have stumbled onto something important. "
 scenario_story_sawbones_1_start_1,How exactly do you get a head-wound lacing a shoe?
@@ -11392,9 +11426,12 @@ scenario_story_sawbones_2_success_2,"“Are you really so easily fooled?” The 
 scenario_story_sawbones_2_success_3,"“After years of planning, our collective deaths completed this ritual. Years of planning, and you finally unleashed the Horror yourselves! It’s glor–”"
 scenario_story_sawbones_2_success_4,"You finish him off before he can finish his sentence off. Behind you, the Sawbones holds up a letter he has discovered on one of the Inox warriors. "
 scenario_story_sawbones_2_success_5,"Luckily, the Sawbones also found the keys to the door. You leave before you have to explain yourselves to the nuns."
-scenario_story_sawbones_3_room_2_1,"Harrowers, Inox, Cultists, and demons... all together? Why aren’t they killing each other?"
-scenario_story_sawbones_3_room_2_2,"The Inox roar a battlecry at you as the others laugh. “Without your healers,” one of the Inox shouts, “you cannot stop the Inox from regaining the lands you’ve taken from us!”"
-scenario_story_sawbones_3_room_2_3,"This is truly disturbing, but sadly the village is too far gone. Don’t waste time fighting.   "
+scenario_story_sawbones_3_room_2_1,"Harrowers, Inox, Cultists, and demons... all together? Why aren’t they killing each other?
+"
+scenario_story_sawbones_3_room_2_2,"The Inox roar a battlecry at you as the others laugh. “Without your healers,” one of the Inox shouts, “you cannot stop the Inox from regaining the lands you’ve taken from us!”
+"
+scenario_story_sawbones_3_room_2_3,"This is truly disturbing, but sadly the village is too far gone. Don’t waste time fighting.   
+"
 scenario_story_sawbones_3_start_1,Demons? Inside the Saltmarsh Flats? Such a large presence of interplanar evil will tear this place apart!
 scenario_story_sawbones_3_start_2,"Speaking of a large presence, did anyone else see the giant winged demon claw itself through the void?"
 scenario_story_sawbones_3_start_3,"Never mind that! The city is collapsing, and one of you is wearing a pair of boots I really want to sell again. Get out!"
@@ -11507,7 +11544,8 @@ scenario_story_sunkeeper_3_start_2,‘Your confidence will be your undoing… Ki
 scenario_story_sunkeeper_3_start_3,"I don’t know who that was, but the route we came in from is blocked."
 scenario_story_sunkeeper_3_start_4,Our best bet is to kill the Harrowers in charge and get out of here!
 scenario_story_sunkeeper_3_success_1,"As you leave this place, the Sunkeeper waves something in her hand, apparently she grabbed something off a Harrower as it died.
-"
+
+"
 scenario_story_sunkeeper_3_win_objective,Kill both Harrower Infesters
 scenario_story_sunkeeper_character_fail_objective,Lose if the Sunkeeper is exhausted
 scenario_story_tinkerer_1_room_4_1,"In this room is the remains of what seems to be an old summoning portal, and an old battered chest."
@@ -11543,18 +11581,21 @@ scenario_story_undeadcommander_start_2,"‘You’ have released the lock? This i
 scenario_story_undeadcommander_start_3,"As the voice goes silent, undead and demons materialise and attack…"
 scenario_story_undeadcommander_start_4,"We need to push forwards, he must be in a later room!"
 scenario_story_undeadcommander_success_1,"With a scream, the remains of Swagger fall to dust on the ground, it seems the Soothsinger now has nothing to fear."
-scenario_story_wingedhorror_room_2_1,"As you push on through the School’s occupiers, a hellish, high-pitched screeching shakes the walls. “I am returned, humans,” it warbles. “You will know nothing but pain!”"
+scenario_story_wingedhorror_room_2_1,"As you push on through the School’s occupiers, a hellish, high-pitched screeching shakes the walls. “I am returned, humans,” it warbles. “You will know nothing but pain!”
+"
 scenario_story_wingedhorror_room_2_2,Sounds like you’re getting close.
 scenario_story_wingedhorror_room_2_3,Yeah. Ow. Please kill it before it screams again.
 scenario_story_wingedhorror_room_3_1,"As you enter the Great Oak’s room, you see a giant winged demon swooping around and desperately clawing at the walls of the room."
 scenario_story_wingedhorror_room_3_2,"Unless you stop it, it’s going to bring the School down on top of you, one way or another."
-scenario_story_wingedhorror_room_3_3,"When it notices you, the Winged Horror lands before you. “You,” it shrieks, “have kept me and my children outside this realm long enough. You will not survive to save it again!”"
+scenario_story_wingedhorror_room_3_3,"When it notices you, the Winged Horror lands before you. “You,” it shrieks, “have kept me and my children outside this realm long enough. You will not survive to save it again!”
+"
 scenario_story_wingedhorror_room_3_4,It looks like we have a reputation outside of this realm after all.
 scenario_story_wingedhorror_room_3_5,"I’ll have to raise our rates, once my ears stop bleeding. "
 scenario_story_wingedhorror_start_1,"It is a mostly forgotten fact, but the Great Oak’s room in the School’s centre holds up the entire School. If that room falls, the School falls."
 scenario_story_wingedhorror_start_2,"And remember, without the School, no one will buy all the weird magical things we find in crypts. Think of the profit cuts!"
 scenario_story_wingedhorror_start_3,Just focus on getting past these guards as fast as possible. There is no time to waste. 
-scenario_story_wingedhorror_success_1,"The giant demon screeches again, and all the demons and imps around it dematerialize. The Horror’s screams and limbs flail uncontrollably as it succumbs to its wounds."
+scenario_story_wingedhorror_success_1,"The giant demon screeches again, and all the demons and imps around it dematerialize. The Horror’s screams and limbs flail uncontrollably as it succumbs to its wounds.
+"
 scenario_story_wingedhorror_success_2,"Eventually, it quiets down to a whimper. “Beaten by a human,” it wails. “I feel…” With a retch, it vomits up a solid lump, then lies still."
 scenario_story_wingedhorror_success_3,"You look around in shock, and see that any remaining Inox have already fled, and that the Sawbones is tending to the School’s wounded as if the Horror didn’t exist."
 scenario_story_wingedhorror_win_objective,Kill all Enemies in All Rooms

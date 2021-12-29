@@ -196,8 +196,8 @@
 258_t,一名<nobr>射程範圍<sprite name=Range>3以內</nobr>的召喚物夥伴執行
 260_b,所有<nobr>射程範圍<sprite name=Range>3以內</nobr>的召喚物夥伴執行
 261_t,當你處於<nobr>隱身<sprite name=Invisible></nobr>，在你接下來的四次攻擊行動之後，執行“<nobr>攻擊<sprite name=Attack> 2</nobr>，<nobr>射程範圍<sprite name=Range> 3</nobr>”
-263_b,本回合，將你的所有<nobr>攻擊<sprite name=Attack></nobr>技能卡的效果翻倍（最後計算），<sprite name=XP1>。
-263_t,本回合，將你的所有<nobr>移動<sprite name=Move></nobr>技能卡的效果翻倍（最後計算），<sprite name=XP1>。
+263_b,本回合，將你的所有<nobr>攻擊<sprite name=Attack></nobr>能力卡的效果翻倍（最後計算），<sprite name=XP1>。
+263_t,本回合，將你的所有<nobr>移動<sprite name=Move></nobr>能力卡的效果翻倍（最後計算），<sprite name=XP1>。
 266_t,則消滅一個普通級別目標，<sprite name=XP1>。
 268_t,如果你處於<nobr>隱身<sprite name=Invisible></nobr>，為你的攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。
 270_b,在你接下來的四次攻擊行動之前，執行“<nobr>移動<sprite name=Move> 2</nobr>”。
@@ -326,14 +326,14 @@
 405_b,當指定此敵人為目標時，為你和所有盟友的攻擊附加<nobr>+X攻擊力<sprite name=Attack></nobr>，X是射程範圍和同敵人距離的差值。
 406_b,將所有啟動的<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>轉移到你<nobr>射程範圍<sprite name=Range>4以內</nobr>的一個敵人上。
 406_t,強迫目標向離它最近的敵人移動至多三格。
-407_t,給一名相鄰的盟友一張“<nobr>醫療包</nobr>”技能卡。
+407_t,給一名相鄰的盟友一張“<nobr>醫療包</nobr>”能力卡。
 408_b,本回合，你的所有治療行動同時對你，及與目標相鄰的盟友生效。
 409_b,本回合，你的所有近戰攻擊將指定所有相鄰的敵人為目標。
 410_b,將此卡放置到一名相鄰盟友的啟動區，並視為其擁有此卡。
 412_b,移除一名相鄰的盟友身上的所有負面狀態。
 412_t,移除治療目標身上所有的負面狀態。
 414_b,本回合，你和所有盟友免疫所有負面狀態。
-414_t,給一名相鄰的盟友一張“大型醫療包”技能卡。
+414_t,給一名相鄰的盟友一張“大型醫療包”能力卡。
 415_t,在你接下來的四個行動輪中，執行一次“<nobr>治療<sprite name=Heal>2</nobr>，<nobr>射程範圍<sprite name=Range>1</nobr>”行動。
 416_t,在你的每個行動輪開始時，移除任意一名盟友身上的一個負面狀態。
 429_b,所有相鄰的盟友可以執行一次“<nobr>移動<sprite name=Move>2</nobr>”行動。
@@ -341,12 +341,12 @@
 433_b,在你的每個行動輪開始時，執行一次“<nobr>治療<sprite name=Heal>1</nobr>，目標為自己”行動。
 437_t,移除相鄰盟友身上所有的負面狀態。
 439_t,消滅一個帶有至少兩種負面狀態的，相鄰的，普通級別敵人。
-440_b,給所有相鄰的盟友一張“大型醫療包”技能卡。
-440_t,給所有相鄰的盟友一張“<nobr>醫療包</nobr>”技能卡。
+440_b,給所有相鄰的盟友一張“大型醫療包”能力卡。
+440_t,給所有相鄰的盟友一張“<nobr>醫療包</nobr>”能力卡。
 441_b,本回合，為你的所有治療行動附加<nobr>+4治療<sprite name=Heal></nobr>。
 441_t,在你接下來的六次治療行動前，移除目標的所有負面狀態。
 443_b,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>至多兩張他棄牌堆的卡牌。
-443_t,移除治療目標身上所有的負面狀態並給他一張“大型醫療包”技能卡。
+443_t,移除治療目標身上所有的負面狀態並給他一張“大型醫療包”能力卡。
 445_t_1,你可以將所有的<nobr>攻擊<sprite name=Attack></nobr>和<nobr>移動<sprite name=Move></nobr>行動轉化為額外1點的<nobr>治療<sprite name=Heal></nobr>行動。
 445_t_2,在此情況下，<nobr>射程範圍<sprite name=Range></nobr>為1，並忽略所有<nobr>攻擊<sprite name=Attack></nobr>的附加效果。
 446_t,消滅目的地區域中所有損失了10點或以上生命值的敵人。
@@ -597,7 +597,7 @@ ability_card_glasshammer,琉璃錘,,,,,,,,,,,,,,,
 ability_card_gloomdarts,蝕心鏢,,,,,,,,,,,,,,,
 ability_card_gloriousbolt,輝煌脈衝,,,,,,,,,,,,,,,
 ability_card_gnawinghorde,齧噬部落,,,,,,,,,,,,,,,
-ability_card_grabandgo,雁過拔毛,,,,,,,,,,,,,,,
+ability_card_grabandgo,順手牽羊,,,,,,,,,,,,,,,
 ability_card_graspingthevoid,攫取虛空,,,,,,,,,,,,,,,
 ability_card_graspingvermin,抓住害蟲,,,,,,,,,,,,,,,
 ability_card_gravelvortex,礫石渦旋,,,,,,,,,,,,,,,
@@ -725,7 +725,7 @@ ability_card_primalduality,雙生原素,,,,,,,,,,,,,,,
 ability_card_proficiency,熟能生巧,,,,,,,,,,,,,,,
 ability_card_protectiveblessing,守護祝福,,,,,,,,,,,,,,,
 ability_card_provoketerror,激發恐怖,,,,,,,,,,,,,,,
-ability_card_provokingroar,嘲諷,,,,,,,,,,,,,,,
+ability_card_provokingroar,嘲諷戰吼,,,,,,,,,,,,,,,
 ability_card_proximitymine,近距地雷,,,,,,,,,,,,,,,
 ability_card_psychicprojection,精神投射,,,,,,,,,,,,,,,
 ability_card_pullthestrings,撥弦,,,,,,,,,,,,,,,
@@ -909,7 +909,7 @@ adventure_achievement_1_1_beasttyrantreachlevel2_desc,獸王達到2級,,,,,,,,,,
 adventure_achievement_1_1_berserkerreachlevel2,野蠻人,,,,,,,,,,,,,,,
 adventure_achievement_1_1_berserkerreachlevel2_desc,狂戰士達到2級,,,,,,,,,,,,,,,
 adventure_achievement_1_1_brutereachlevel2,坦克,,,,,,,,,,,,,,,
-adventure_achievement_1_1_brutereachlevel2_desc,蠻徒達到2級,,,,,,,,,,,,,,,
+adventure_achievement_1_1_brutereachlevel2_desc,野蠻人達到2級,,,,,,,,,,,,,,,
 adventure_achievement_1_1_buffallies,大公無私,,,,,,,,,,,,,,,
 adventure_achievement_1_1_buffallies_desc,強化，祝福或治療一名盟友40次,,,,,,,,,,,,,,,
 adventure_achievement_1_1_controlallies,威風堂堂,,,,,,,,,,,,,,,
@@ -1203,11 +1203,11 @@ adventure_achievement_berserker_2_desc,狂戰士使出20次造成6點以上傷�
 adventure_achievement_berserker_3,有藥嗎？食物也成,,,,,,,,,,,,,,,
 adventure_achievement_berserker_3_desc,狂戰士被治療200點生命值,,,,,,,,,,,,,,,
 adventure_achievement_brute_1,貫石斧,,,,,,,,,,,,,,,
-adventure_achievement_brute_1_desc,蠻徒用近戰攻擊殺死50個敵人,,,,,,,,,,,,,,,
+adventure_achievement_brute_1_desc,野蠻人用近戰攻擊殺死50個敵人,,,,,,,,,,,,,,,
 adventure_achievement_brute_2,我絕不會倒下,,,,,,,,,,,,,,,
-adventure_achievement_brute_2_desc,蠻徒通過護盾格擋50點傷害,,,,,,,,,,,,,,,
+adventure_achievement_brute_2_desc,野蠻人通過護盾格擋50點傷害,,,,,,,,,,,,,,,
 adventure_achievement_brute_3,不屈,,,,,,,,,,,,,,,
-adventure_achievement_brute_3_desc,蠻徒對自己使用30次治療技能,,,,,,,,,,,,,,,
+adventure_achievement_brute_3_desc,野蠻人對自己使用30次治療技能,,,,,,,,,,,,,,,
 adventure_achievement_cragheart_1,土元素使,,,,,,,,,,,,,,,
 adventure_achievement_cragheart_1_desc,裂心石人消耗40次土元素,,,,,,,,,,,,,,,
 adventure_achievement_cragheart_2,投石巨星,,,,,,,,,,,,,,,
@@ -1408,7 +1408,7 @@ beasttyrantbear_tooltip,"<b><size=120%><sprite name=""Heal"">： {0}   <sprite n
 <line-height=50%>
 <line-height=100%>你可以焚燒卡牌來阻止對熊的傷害。當熊的血量掉到1點以下時，它精疲力盡，不能再回到劇本中。
 <line-height=50%>
-<line-height=100%>獸王特有“口令”行動，它允許熊去代替獸王執行技能卡。"
+<line-height=100%>獸王特有“口令”行動，它允許熊去代替獸王執行能力卡。"
 berserker,狂羚戰士,,,,,,,,,,,,,,,
 berserker_adventure_description,狂羚戰士們是那些已經投身於他們的力量和憤怒的羚角族戰士。狂羚戰士將會竭盡全力保護她的朋友們的安全，甚至不惜犧牲她自己的生命。她的技能圍繞著高輸出，通過自我傷害將輸出推到更高的數值。這使她成為一個極其危險的戰鬥人員，無論是對她的敵人還是她自己,,,,,,,,,,,,,,,
 berserker_difficulty,高,,,,,,,,,,,,,,,
@@ -1447,10 +1447,10 @@ boss_primedemon21_special,傳送祭壇和召喚魔怪,,,,,,,,,,,,,,,
 boss_thebetrayer_fear,強迫所有傭兵和他們的召喚物去先手進行<nobr>“移動<sprite name=Move> 4”</nobr>，終點盡可能的遠離暗靈叛徒。,,,,,,,,,,,,,,,
 boss_thebetrayer_teleport,強迫所有的傭兵和他們的召喚物移動到最相鄰的格子，然後強迫一個傭兵代替他們的輪次執行以下行動：,,,,,,,,,,,,,,,
 boss_wingedhorror_special1,孵化所有的蛋,,,,,,,,,,,,,,,
-brute,蠻徒,,,,,,,,,,,,,,,
-brute_adventure_description,"蠻徒利用他巨大的體型和力量去支配他巨大的劍和令人印象深刻的盾牌，受雇于向那些出價最高的人以謀生。
-蠻徒們最好用作近戰部隊頂在前排吸收傷害，保護後排脆弱的遠端輸出，並最好裝備使他們長時間續命的物品！",,,,,,,,,,,,,,,
-brute_description,蠻徒利用他巨大的體型和力量去支配他巨大的劍和令人印象深刻的盾牌，受雇于向那些出價最高的人以謀生。,,,,,,,,,,,,,,,
+brute,野蠻人,,,,,,,,,,,,,,,
+brute_adventure_description,"野蠻人利用他巨大的體型和力量去支配他巨大的劍和令人印象深刻的盾牌，受雇于向那些出價最高的人以謀生。
+野蠻人們最好用作近戰部隊頂在前排吸收傷害，保護後排脆弱的遠端輸出，並最好裝備使他們長時間續命的物品！",,,,,,,,,,,,,,,
+brute_description,野蠻人利用他巨大的體型和力量去支配他巨大的劍和令人印象深刻的盾牌，受雇于向那些出價最高的人以謀生。,,,,,,,,,,,,,,,
 brute_difficulty,低,,,,,,,,,,,,,,,
 brute_role,近戰輸出/肉盾,,,,,,,,,,,,,,,
 brute_skin_alt,骷髏甲,,,,,,,,,,,,,,,
@@ -1612,19 +1612,19 @@ compendium_advantageanddisadvantage_1,一些攻擊可能從效果或站位中獲
 compendium_advantageanddisadvantage_2,具有<b>優勢</b>的攻擊將抽取兩張修正卡並選擇其中結果更好的進行結算。,,,,,,,,,,,,,,,
 compendium_advantageanddisadvantage_3,具有<b>劣勢</b>的攻擊將抽取兩張修正卡並選擇其中結果更差的進行結算。,,,,,,,,,,,,,,,
 compendium_advantageanddisadvantage_title,優勢和劣勢,,,,,,,,,,,,,,,
-compendium_adventuremode,"在黯淡港灣的公會模式中，你是魔門鎮雇傭軍的領導者。該地區處於危險之中，這裡有擁有各種技能的怪物，讓人們擔心村莊的安全。
+compendium_adventuremode,"在黯淡港灣的會長模式中，你是魔門鎮雇傭軍的領導者。該地區處於危險之中，這裡有擁有各種技能的怪物，讓人們擔心村莊的安全。
 
 你的公會的目標是通過征服困擾著這裡土地的邪惡之物來恢復這些村莊之間的貿易路線——這樣做會有很多黃金！
 ",,,,,,,,,,,,,,,
-compendium_adventuremode_title,公會模式,,,,,,,,,,,,,,,
-compendium_areaeffects_1,某些技能卡上的某些效果或道具卡上其他能力將允許你在攻擊和使用效果時瞄準多個格子。在這種情況下，在卡牌上將顯示效果作用的能力範圍。你可以旋轉技能區域，你可以在設置中的“目標控制”選項中查看快速鍵。,,,,,,,,,,,,,,,
+compendium_adventuremode_title,會長模式,,,,,,,,,,,,,,,
+compendium_areaeffects_1,某些能力卡上的某些效果或道具卡上其他能力將允許你在攻擊和使用效果時瞄準多個格子。在這種情況下，在卡牌上將顯示效果作用的能力範圍。你可以旋轉技能區域，你可以在設置中的“目標控制”選項中查看快速鍵。,,,,,,,,,,,,,,,
 compendium_areaeffects_2,卡牌上的紅色六邊形表示受效果影響的格子。,,,,,,,,,,,,,,,
 compendium_areaeffects_3,灰色六邊形表示目前該角色所在的格子。包含有灰色格子的區域攻擊將被視作近戰攻擊。,,,,,,,,,,,,,,,
 compendium_areaeffects_4,"一些區域效果攻擊具有射程的屬性，能夠從遠處瞄準一組敵人。只要有一個紅色格子在射程範圍內即可，而且這個格子不需要包含敵人（可以使用<b>，</b>鍵或<b>。</b>鍵或<b>R</b>鍵旋轉範圍效果圖案）。
 
 請注意，使用區域效果時，雖然瞄準時只要有一個紅色格子在視線範圍內即可實現瞄準，但區域效果只能作用於角色視線中的目標，視線之外的目標即使被區域效果範圍涵蓋在內也無法受到影響。",,,,,,,,,,,,,,,
 compendium_areaeffects_title,區域效果,,,,,,,,,,,,,,,
-compendium_attackeffects_1,"攻擊效果會在攻擊結算後附加在目標上。無論相應的攻擊是否造成傷害，都會施加攻擊能力效果。在沒有攻擊的情況下，某些行動也可以使這些攻擊效果作為技能生效，並且在這種情況下，攻擊效果的目標要求會標注在技能卡上。"
+compendium_attackeffects_1,"攻擊效果會在攻擊結算後附加在目標上。無論相應的攻擊是否造成傷害，都會施加攻擊能力效果。在沒有攻擊的情況下，某些行動也可以使這些攻擊效果作為技能生效，並且在這種情況下，攻擊效果的目標要求會標注在能力卡上。"
 ,,,,,,,,,,,,,,,
 compendium_attackeffects_2,"<b>推遠 X:</b>使目標被迫在攻擊者指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更遠離攻擊者。如果沒有可以繼續使目標移動的格子，則無法繼續推遠目標。目標可以在被推遠時通過其友軍所在的格子，但無法通過其敵人所在的格子。
 ",,,,,,,,,,,,,,,
@@ -1649,19 +1649,19 @@ compendium_blessandcurse_3,<b>詛咒：</b>如果目標被詛咒，則將詛咒�
 compendium_blessandcurse_title,祝福和詛咒,,,,,,,,,,,,,,,
 compendium_cardlayout,"<b>1.卡牌名稱
 </b>
-每個玩家角色技能卡都有一個唯一的的卡牌名稱。
+每個玩家角色能力卡都有一個唯一的的卡牌名稱。
 
 <b>2.時序值
 
 </b>
-每個角色選擇的第一張技能卡的時序值決定了該角色在本回合中何時進行行動。
+每個角色選擇的第一張能力卡的時序值決定了該角色在本回合中何時進行行動。
 
 <b> 3.行動</b>
 每張卡牌的上半或是下半部分表示可以在角色輪次中選取的行動，每個行動包含一個或多個技能（例如移動，攻擊等）。必須從其中一張卡的上半區或者下半區中選擇第一個行動，然後從另外一張卡的另一個半區中選擇第二個行動。
 
 <b>4.基礎行動
 </b>
-除了技能卡上的主要行動外，所有技能卡還可以使用基礎行動來替代主要行動。所有卡牌的基礎行動相同：上半區基礎行動為<b>攻擊2</b>，下半區基礎行動為<b>移動2</b>。",,,,,,,,,,,,,,,
+除了能力卡上的主要行動外，所有能力卡還可以使用基礎行動來替代主要行動。所有卡牌的基礎行動相同：上半區基礎行動為<b>攻擊2</b>，下半區基礎行動為<b>移動2</b>。",,,,,,,,,,,,,,,
 compendium_cardlayout_title,卡牌佈局,,,,,,,,,,,,,,,
 compendium_consumingelements_1,"可以通過消耗螢幕右側的元素跟蹤器中的強烈或衰弱狀態中的元素（參見<b>充能元素</b>）以在行動卡上增加某些技能或強化某些效果。
 
@@ -1672,7 +1672,7 @@ compendium_consumingelements_2,"如果以這種方式消耗了一個元素，則
 
 怪物在對應元素可用的情況下始終選擇消耗元素，如果是消耗任一元素，它們會隨機選擇一個可用的元素進行消耗。",,,,,,,,,,,,,,,
 compendium_consumingelements_title,消耗元素,,,,,,,,,,,,,,,
-compendium_discardedandburned_1,"如果技能卡的主要行動的右下角沒有符號，則在使用主要行動後會丟棄該卡，並且將在該角色的卡牌列表中呈現出灰色。通過執行休息，可以在場景中再次使用被丟棄的卡（見<b>休息</b>）。
+compendium_discardedandburned_1,"如果能力卡的主要行動的右下角沒有符號，則在使用主要行動後會丟棄該卡，並且將在該角色的卡牌列表中呈現出灰色。通過執行休息，可以在場景中再次使用被丟棄的卡（見<b>休息</b>）。
 
 但是，卡牌主要行動的右下角可能具有以下特殊符號：",,,,,,,,,,,,,,,
 compendium_discardedandburned_2,"<b>燒毀</b>
@@ -1688,7 +1688,7 @@ compendium_exhaustion,"一個角色會因兩種方式之一而筋疲力盡：
 
 在上述任何一種情況下，角色都會從場景中離開，並且不能以任何方式繼續參加場景。在場景中，沒有方法可以結束筋疲力盡狀態，因此應該不計代價避免該情況。如果在場景中所有角色都筋疲力盡，那麼場景會失敗。因此建議你盡力不要讓這種情況發生！",,,,,,,,,,,,,,,
 compendium_exhaustion_title,筋疲力盡,,,,,,,,,,,,,,,
-compendium_gainingexperience_1,某些技能卡的行動上，有一個包含數位的星形符號，其中的數位代表角色執行該行動時會獲得的XP。角色必須成功執行至少一個技能才能獲得相應的XP。,,,,,,,,,,,,,,,
+compendium_gainingexperience_1,某些能力卡的行動上，有一個包含數位的星形符號，其中的數位代表角色執行該行動時會獲得的XP。角色必須成功執行至少一個技能才能獲得相應的XP。,,,,,,,,,,,,,,,
 compendium_gainingexperience_2,"有時卡牌上會具體說明，僅在滿足某個條件時（例如， 消耗某種指定元素）授予經驗，或當啟動獎勵觸發了特定次數時授予經驗，次數要求如其XP跟蹤器所示（見<b>啟動獎勵</b>）。
 
 此外，在每次冒險成功結束時，參與本次冒險的每個角色都將根據冒險困難度獲得經驗。更困難的冒險將獎勵你更多的經驗，要注意——即使你冒險失敗了，你也不會失去在冒險過程中獲得的經驗值，大膽冒險吧！",,,,,,,,,,,,,,,
@@ -1704,21 +1704,21 @@ compendium_infusingelements_title,元素充能,,,,,,,,,,,,,,,
 compendium_initiative_1,"時序值決定玩家角色和怪物的輪次順序.
 
 每個角色選擇的第一張牌決定了這個角色的在這一輪次中的時序值——越小的數值代表角色越早就可以行動. 你可以通過點擊金黃色的時序值來更改兩張卡牌被選擇的次序。",,,,,,,,,,,,,,,
-compendium_initiative_2,"玩家角色在選擇技能卡時，尚不知道怪物將抽取的技能卡會是什麼。因此，你必須嘗試在不知道怪物何時採取何種行動的情況下評估特定角色應採取的的行動。
+compendium_initiative_2,"玩家角色在選擇能力卡時，尚不知道怪物將抽取的能力卡會是什麼。因此，你必須嘗試在不知道怪物何時採取何種行動的情況下評估特定角色應採取的的行動。
 
-一旦所有玩家角色和怪物都選擇了他們的卡牌，螢幕頂部的時序值跟蹤器就會更新並根據角色和怪物的時序值進行排序——從最低數值最先開始，最後一次最高。兩名玩家時序相同時會根據另一張卡牌（即未被選擇作為角色時序值的卡牌）的時序值進行排序，玩家時序與怪物相同時玩家先行動。請注意，同一類型的所有怪物每個回合都會使用相同的技能卡，從而具有相同的時序值，因此即使在該怪物類型多次出現的情況下，時序值追蹤器中的每一個同類型怪物也將具有相同的時序值。",,,,,,,,,,,,,,,
+一旦所有玩家角色和怪物都選擇了他們的卡牌，螢幕頂部的時序值跟蹤器就會更新並根據角色和怪物的時序值進行排序——從最低數值最先開始，最後一次最高。兩名玩家時序相同時會根據另一張卡牌（即未被選擇作為角色時序值的卡牌）的時序值進行排序，玩家時序與怪物相同時玩家先行動。請注意，同一類型的所有怪物每個回合都會使用相同的能力卡，從而具有相同的時序值，因此即使在該怪物類型多次出現的情況下，時序值追蹤器中的每一個同類型怪物也將具有相同的時序值。",,,,,,,,,,,,,,,
 compendium_initiative_title,時序值,,,,,,,,,,,,,,,
 compendium_itemslots,"當不在場景中時，角色可以在各種庫存槽中裝備道具卡。請注意，角色不能擁有任何完全重複的道具卡。
 
 每個角色只能裝備一個<b>頭部</b>道具，一個<b>軀幹</b>道具，一個<b>腿部</b>道具，最多兩個<b>單手</b>道具<b><i>或</i></b> 一個<b>雙手</b>道具，和數量不超過角色等級一半(向上取整)的<b>小物品</b>。",,,,,,,,,,,,,,,
 compendium_itemslots_title,裝備槽,,,,,,,,,,,,,,,
-compendium_levellingup_1,在公會模式中，當一個角色具有其升級所需經驗量（在其XP條上指示），並處於地圖選擇頁面時，它們可以升級。,,,,,,,,,,,,,,,
-compendium_levellingup_2,在升級後，他們的最大生命值將會增加，他們可以在每個級別獲得兩張待解鎖的新技能卡並從待解鎖卡牌中選擇一張將其解鎖。此卡會在接下來的旅行中可用。通過解鎖更多的角色技能卡，你可以升級和自訂隊伍角色的技能卡池，調整卡片以更好地互相搭配，或是進行角色之間的協作，這也可以磨煉你的策略。,,,,,,,,,,,,,,,
+compendium_levellingup_1,在會長模式中，當一個角色具有其升級所需經驗量（在其XP條上指示），並處於地圖選擇頁面時，它們可以升級。,,,,,,,,,,,,,,,
+compendium_levellingup_2,在升級後，他們的最大生命值將會增加，他們可以在每個級別獲得兩張待解鎖的新能力卡並從待解鎖卡牌中選擇一張將其解鎖。此卡會在接下來的旅行中可用。通過解鎖更多的角色能力卡，你可以升級和自訂隊伍角色的能力卡池，調整卡片以更好地互相搭配，或是進行角色之間的協作，這也可以磨煉你的策略。,,,,,,,,,,,,,,,
 compendium_levellingup_title,升級,,,,,,,,,,,,,,,
 compendium_loot_1,<b>拾取X：</b>拾取技能允許一個角色在X範圍內拾取所有的金幣堆和寶箱。這個動作不受怪物或障礙的影響，但請注意該技能的實際效果範圍會受到視線範圍的限制。,,,,,,,,,,,,,,,
 compendium_loot_2,"除了拾取能力之外，在每個玩家角色行動輪次結束時，此玩家角色將自動拾取他們現在佔據的格子中的所有黃金。玩家角色的召喚物不執行此效果。
 
-在公會模式中，這筆錢在玩家隊伍內的所有雇傭軍之間分享。
+在會長模式中，這筆錢在玩家隊伍內的所有雇傭軍之間分享。
 ",,,,,,,,,,,,,,,
 compendium_loot_title,拾取,,,,,,,,,,,,,,,
 compendium_meleeandranged_1,<b>攻擊X：</b>攻擊技能允許一個角色對在其攻擊範圍內的敵人造成X點傷害。角色和怪物無法攻擊他們各自的友軍。有兩種類型的攻擊，近戰和遠程：,,,,,,,,,,,,,,,
@@ -1726,7 +1726,7 @@ compendium_meleeandranged_2,近戰攻擊沒有被指定射程，被認為具有�
 compendium_meleeandranged_3,遠程攻擊被指定了<b>射程Y：</b>，這意味著Y格內的任一敵人都可以通過該攻擊來指定。任何指定相鄰的敵人的遠距攻擊都會處於劣勢狀態（見<b>優勢和劣勢</b>）。,,,,,,,,,,,,,,,
 compendium_meleeandranged_4,只能對視線中的敵人進行攻擊，視線是指兩個角色所在格的角對角連線中至少有一條線不與牆壁線相交（按住<b>L</b>鍵並拖拽游標查看視線）。此外，任何指定範圍的技能也只能對視線內的目標執行。如果非技能未指定範圍，則不需要視線。另請注意，被牆分隔鄰邊的兩個格子不被視為相鄰，並且不能通過牆壁計算距離。,,,,,,,,,,,,,,,
 compendium_meleeandranged_title,近戰和遠程,,,,,,,,,,,,,,,
-compendium_monsterattacks,"只有<b>攻擊</b>技能是出現在怪物技能卡上，怪物才會攻擊。傷害是基於技能的攻擊值計算的。
+compendium_monsterattacks,"只有<b>攻擊</b>技能是出現在怪物能力卡上，怪物才會攻擊。傷害是基於技能的攻擊值計算的。
 
 怪物將始終攻擊他們所專注的敵人，但如果怪物可以攻擊多個目標，它將攻擊其焦點的敵人和盡可能多的其他敵人以最大效果。如果怪物有多目標攻擊，它將在正常焦點規則之後選擇其它攻擊的焦點，除了它已經攻擊的目標。
 
@@ -1741,18 +1741,18 @@ compendium_monsterfocus,"在執行能力卡上的動作之前，每個單個怪�
 4.<b>最早</b>，當多名敵方<b>最近</b>時，在回合中更早行動的角色更優先成為焦點，玩家的召喚物被認為比其召喚者行動早，同一玩家先召喚的比後召喚的早，精英怪物比普通怪物早，同級別同種怪序號順序小的怪比序號大的怪早。
 5.<b>最優</b>，依照前四條確認第一焦點，怪物會盡力在不劣勢地攻擊第一焦點的前提下(禁足\混亂時可能無法避免劣勢)，盡可能攻擊到更多敵人(對每個角色進行焦點優先順序判定，並選取名列前茅者，目標數不會超過本次攻擊行動的目標上限，攻擊全體則無限制)。",,,,,,,,,,,,,,,
 compendium_monsterfocus_title,怪物焦點,,,,,,,,,,,,,,,
-compendium_monstermovement_1,"只有在其技能卡上存在<b>移動</b>，怪物才可以在其輪次中移動。它可以移動的距離不能超過其移動值。
+compendium_monstermovement_1,"只有在其能力卡上存在<b>移動</b>，怪物才可以在其輪次中移動。它可以移動的距離不能超過其移動值。
 
 如果怪物有移動能力但是其能力卡沒有攻擊（或者失去了攻擊能力），則它將使用其移動力來盡可能接近其焦點目標（裝的就像它能近戰攻擊似的），沿著消耗總移動力最少的路徑前進。
 
 如果怪物在移動後有攻擊能力，那麼它將移動儘量少的格子，只要能夠攻擊其焦點敵人。如果它是單目標近戰攻擊，它將簡單地朝著焦點目標移動到能攻擊的地方，如果它是多目標攻擊，它將會走到盡可能攻擊更多的敵人(必須包括焦點)的地方。能攻擊到的敵人數量不發生改變時只會花費最少的移動力。",,,,,,,,,,,,,,,
 compendium_monstermovement_2,如果怪物將要執行遠距攻擊，它將在其攻擊距離內執行其最佳攻擊。怪物可能會通過移動遠離其焦點，直到它可以在沒有<b>劣勢</b>的情況下對焦點執行遠距攻擊。當執行遠距攻擊的怪物無法通過移動避免對焦點目標<b>劣勢</b>時（比如處於混亂狀態），怪物將被迫停在原地，對焦點目標進行<b>劣勢</b>攻擊。,,,,,,,,,,,,,,,
-compendium_monstermovement_3,即使怪物無法進入攻擊範圍，它仍然將使用其移動力來盡可能接近其焦點。 技能卡上除<b>攻擊</b>之外的技能不會以任何方式影響怪物的移動，此時它將根據上述規則移動，然後盡可能地使用其他能力。,,,,,,,,,,,,,,,
+compendium_monstermovement_3,即使怪物無法進入攻擊範圍，它仍然將使用其移動力來盡可能接近其焦點。 能力卡上除<b>攻擊</b>之外的技能不會以任何方式影響怪物的移動，此時它將根據上述規則移動，然後盡可能地使用其他能力。,,,,,,,,,,,,,,,
 compendium_monstermovement_4,沒有<b>飛行</b>特性的怪物在確定焦點和移動時認為負面格子（危險地帶和陷阱）是障礙，除非通過這些格子移動是他們可以抵達焦點的唯一方法。在這種情況下，它們將通過最少數量的負面格子作為可以抵達焦點的移動路徑並承擔任何後果。,,,,,,,,,,,,,,,
 compendium_monstermovement_title,怪物移動,,,,,,,,,,,,,,,
-compendium_monsterturns,"怪物的決定由其技能卡和焦點系統控制，在輪到他們的回合時自動做出選擇。所有怪物都將只執行技能卡上列出的能力。除非在其卡上列出這些行動，否則它們也不會移動或攻擊。
+compendium_monsterturns,"怪物的決定由其能力卡和焦點系統控制，在輪到他們的回合時自動做出選擇。所有怪物都將只執行能力卡上列出的能力。除非在其卡上列出這些行動，否則它們也不會移動或攻擊。
 
-怪物的技能卡是每類怪物分別抽取的，而不是每個怪物。這意味著，場景中所有同類型怪物在同一輪次中都會使用相同的能力。
+怪物的能力卡是每類怪物分別抽取的，而不是每個怪物。這意味著，場景中所有同類型怪物在同一輪次中都會使用相同的能力。
 
 同一怪物類型中精英級別首先行動，如果板上存在多個同一類型的精英或普通怪物，則同級別怪物以昇冪編號依次行動。同一類型的所有怪物處於同一輪次，所以時序值跟蹤器不會單獨展示每一隻怪物的行動順序。",,,,,,,,,,,,,,,
 compendium_monsterturns_title,怪物輪次,,,,,,,,,,,,,,,
@@ -1791,7 +1791,7 @@ compendium_restsandrecoveringcards,"丟棄的卡可以通過執行以下類型�
 
 1.<b>短休息：</b>在卡選擇期間，你可以短休息。隨機燒毀一張丟棄的卡牌並將所有其他丟棄的卡牌回收到手牌中。如果你十分想要保留這張被隨機選擇出的卡，你可以選擇<b>遭受1點傷害</b>，並再次從其他被丟棄的卡牌中隨機選取另一張來燒毀，每次<b>短休息</b>只能重新選擇一次。
 
-2.<b>長休息：</b>選擇長休息可以代替選擇技能卡，你可以自己挑選一張被丟棄的卡，將其燒毀，以執行<b>治療2，自身 </b>，同時回收所有其他被丟棄的卡片並刷新所有磨損了的裝備卡，本回合的時序值為<b>99</b>。",,,,,,,,,,,,,,,
+2.<b>長休息：</b>選擇長休息可以代替選擇能力卡，你可以自己挑選一張被丟棄的卡，將其燒毀，以執行<b>治療2，自身 </b>，同時回收所有其他被丟棄的卡片並刷新所有磨損了的裝備卡，本回合的時序值為<b>99</b>。",,,,,,,,,,,,,,,
 compendium_restsandrecoveringcards_title,休息和回收卡片,,,,,,,,,,,,,,,
 compendium_retaliate,"<b>反擊X：</b>擁有反擊的角色會在遭受攻擊而沒有死亡或筋疲力盡後會對攻擊者造成X點傷害（遭受反擊傷害不會觸發反擊）。反擊也可以具有<b>射程Y</b>，這意味著反擊效果會對距離Y以內的任何攻擊者生效而不是僅影響近戰範圍。
 
@@ -1799,11 +1799,11 @@ compendium_retaliate,"<b>反擊X：</b>擁有反擊的角色會在遭受攻擊�
 compendium_retaliate_title,反擊,,,,,,,,,,,,,,,
 compendium_roundsummary,"一個場景包括一系列回合，直到玩家符合場景的勝利條件或失敗條件。一回合包括以下階段：
 
-• <indent=15><b>選擇技能卡：</b>
+• <indent=15><b>選擇能力卡：</b>
 每個玩家角色，要麼選擇兩張牌，要麼選擇執行長休息。選擇的第一張卡片為本回合該角色的時序值（在卡選擇期間也可以執行短休息以回收丟棄卡）。</indent>
 
-• <indent=15><b>揭露怪物技能卡：</b>
-對於目前在場的每個怪物類型，揭露一張怪物技能卡，所有同類型的怪物都將在回合中使用相同的技能卡。然後根據角色和怪物的技能卡時序值更新螢幕頂部的時序值跟蹤器。</indent>
+• <indent=15><b>揭露怪物能力卡：</b>
+對於目前在場的每個怪物類型，揭露一張怪物能力卡，所有同類型的怪物都將在回合中使用相同的能力卡。然後根據角色和怪物的能力卡時序值更新螢幕頂部的時序值跟蹤器。</indent>
 
 • <indent=15><b>行動階段：</b>
 從時序值最小的一方開始，玩家和怪物將依次行動。怪物只能採取行動卡上的行動，玩家角色選擇各自所選卡片上的行動。玩家角色也可以在自己輪次時使用物品卡。</indent>
@@ -1814,7 +1814,7 @@ compendium_roundsummary_title,回合構成,,,,,,,,,,,,,,,
 compendium_section_abilitiesattack,技能——攻擊,,,,,,,,,,,,,,,
 compendium_section_abilitiesmove,技能——移動,,,,,,,,,,,,,,,
 compendium_section_abilitiesother,技能——其他,,,,,,,,,,,,,,,
-compendium_section_abilitycards,技能卡,,,,,,,,,,,,,,,
+compendium_section_abilitycards,能力卡,,,,,,,,,,,,,,,
 compendium_section_damageandexhaustion,傷害和筋疲力盡,,,,,,,,,,,,,,,
 compendium_section_effectsandconditions,附加效果和狀態,,,,,,,,,,,,,,,
 compendium_section_elements,元素,,,,,,,,,,,,,,,
@@ -1852,7 +1852,7 @@ compendium_takingdamage,"每當玩家角色即將以任何形式受到傷害時�
 compendium_takingdamage_title,承受傷害,,,,,,,,,,,,,,,
 compendium_traps,"當一個角色走入或被強制移入陷阱時，陷阱被觸發。飛行和跳躍不受陷阱的影響。當陷阱被觸發時，它會造成一些負面影響，然後從地圖上移除。陷阱也可以通過特定行動解除，以將其從板上移除而不會遭受其負面影響。
 
-將游標懸停在一個陷阱上來查看該陷阱效果。角色和怪物還可能通過技能卡在地圖上建立具有特殊效果的陷阱。",,,,,,,,,,,,,,,
+將游標懸停在一個陷阱上來查看該陷阱效果。角色和怪物還可能通過能力卡在地圖上建立具有特殊效果的陷阱。",,,,,,,,,,,,,,,
 compendium_traps_title,陷阱,,,,,,,,,,,,,,,
 compendium_usingabilites,"在玩家角色的輪次開始時，你可以介紹你所選擇的兩張牌。你現在可以選擇用於兩個行動中的第一個行動用於在輪次中執行，記住，另一卡上的相反一半上的主要行動或基礎行動將必須是你的第二個動作。
 
@@ -1933,20 +1933,20 @@ destroyobstacle,摧毀障礙物,,,,,,,,,,,,,,,
 difficult_terrain_tooltip,困難地形,,,,,,,,,,,,,,,
 difficulty_blessed,受祝福的人：英雄們以2張的祝福(x2)卡開始每個劇本,,,,,,,,,,,,,,,
 difficulty_brutal_enemies,殘酷的環境：怪物、陷阱、金幣將會高2級,,,,,,,,,,,,,,,
-difficulty_campaign_easy,容易： -1 劇本等級修正,,,,,,,,,,,,,,,
-difficulty_campaign_hard,困難： +1 劇本等級修正,,,,,,,,,,,,,,,
-difficulty_campaign_insane,殘酷： +2 劇本等級修正,,,,,,,,,,,,,,,
-difficulty_campaign_normal,普通： 標準劇本等級修正,,,,,,,,,,,,,,,
+difficulty_campaign_easy,容易：-1 劇本等級修正,,,,,,,,,,,,,,,
+difficulty_campaign_hard,困難：+1 劇本等級修正,,,,,,,,,,,,,,,
+difficulty_campaign_insane,殘酷：+2 劇本等級修正,,,,,,,,,,,,,,,
+difficulty_campaign_normal,普通：標準劇本等級修正,,,,,,,,,,,,,,,
 difficulty_cursed,受詛咒的人：英雄們以2張的詛咒(x0)卡開始每個劇本,,,,,,,,,,,,,,,
 difficulty_deadly_enemies,地獄的環境：怪物、陷阱、金幣將會高3級,,,,,,,,,,,,,,,
 difficulty_easy_enemies,簡單的環境：怪物、陷阱、金幣將會低1級,,,,,,,,,,,,,,,
 difficulty_hard_enemies,困難的環境：怪物、陷阱、金幣將會高1級,,,,,,,,,,,,,,,
-difficulty_healthy,健康的身體： 英雄們多擁有25%的生命值,,,,,,,,,,,,,,,
+difficulty_healthy,健康的身體：英雄們的生命值多25%,,,,,,,,,,,,,,,
 difficulty_high,高,,,,,,,,,,,,,,,
 difficulty_insane_enemies,殘酷的環境：怪物、陷阱、金幣將會高2級,,,,,,,,,,,,,,,
 difficulty_low,低,,,,,,,,,,,,,,,
 difficulty_medium,中,,,,,,,,,,,,,,,
-difficulty_peaceful,和平條約：少25%的敵人,,,,,,,,,,,,,,,
+difficulty_peaceful,和平條約：敵人少25%,,,,,,,,,,,,,,,
 difficulty_very_high,非常高,,,,,,,,,,,,,,,
 dingledell,幽谷,,,,,,,,,,,,,,,
 disadvantage,劣勢攻擊,,,,,,,,,,,,,,,
@@ -1998,7 +1998,7 @@ elementalist_strengths,"- <indent=%15>技能有大量的搭配方式</indent>
 - <indent=%15>善於元素充能</indent>",,,,,,,,,,,,,,,
 elementalist_weaknesses,"- <indent=%15>如果沒有其他元素充能者搭配會比較弱</indent>
 - <indent=%15>可能有的輪次不太能有發揮</indent>
-- <indent=%15>有時技能卡的佈置會讓人頭痛</indent>",,,,,,,,,,,,,,,
+- <indent=%15>有時能力卡的佈置會讓人頭痛</indent>",,,,,,,,,,,,,,,
 elite,精英,,,,,,,,,,,,,,,
 elitecultist,邪教信徒精英,,,,,,,,,,,,,,,
 emerald marauders,翡翠掠奪者,,,,,,,,,,,,,,,
@@ -2039,10 +2039,10 @@ enhancement_summonmove,召喚物移動力,,,,,,,,,,,,,,,
 enhancement_summonrange,召喚物射程,,,,,,,,,,,,,,,
 enhancement_wound,流血,,,,,,,,,,,,,,,
 error_choreo_00001,無法處理玩家精力耗盡,,,,,,,,,,,,,,,
-error_choreo_00002,無法處理玩家選擇技能卡或長休息,,,,,,,,,,,,,,,
-error_choreo_00003,無法處理玩家已選擇技能卡或長休息,,,,,,,,,,,,,,,
-error_choreo_00004,無法處理怪物選擇技能卡,,,,,,,,,,,,,,,
-error_choreo_00005,無法處理怪物已選擇技能卡,,,,,,,,,,,,,,,
+error_choreo_00002,無法處理玩家選擇能力卡或長休息,,,,,,,,,,,,,,,
+error_choreo_00003,無法處理玩家已選擇能力卡或長休息,,,,,,,,,,,,,,,
+error_choreo_00004,無法處理怪物選擇能力卡,,,,,,,,,,,,,,,
+error_choreo_00005,無法處理怪物已選擇能力卡,,,,,,,,,,,,,,,
 error_choreo_00006,無法處理開始行動輪,,,,,,,,,,,,,,,
 error_choreo_00007,無法處理行動選擇,,,,,,,,,,,,,,,
 error_choreo_00008,無法處理長休息,,,,,,,,,,,,,,,
@@ -2061,7 +2061,7 @@ error_choreo_00020,無法處理所選擇的攻擊焦點,,,,,,,,,,,,,,,
 error_choreo_00021,無法處理行動者正在選擇行動獎勵增益的目標,,,,,,,,,,,,,,,
 error_choreo_00022,Could not process Update Attack Focus After Attack Effect InlineSubAbility,,,,,,,,,,,,,,,
 error_choreo_00023,無法處理正在攻擊,,,,,,,,,,,,,,,
-error_choreo_00024,無法處理目標技能卡的射程,,,,,,,,,,,,,,,
+error_choreo_00024,無法處理目標能力卡的射程,,,,,,,,,,,,,,,
 error_choreo_00025,無法處理已進行攻擊,,,,,,,,,,,,,,,
 error_choreo_00026,無法處理受到攻擊,,,,,,,,,,,,,,,
 error_choreo_00027,無法處理受襲並被擊殺,,,,,,,,,,,,,,,
@@ -2221,8 +2221,8 @@ error_choreo_00180,無法進行啟動目標,,,,,,,,,,,,,,,
 error_choreo_00181,無法進行等待自動記錄,,,,,,,,,,,,,,,
 error_choreo_00182,無法進行自動記錄,,,,,,,,,,,,,,,
 error_choreo_00183,無法完成對已選擇的格子的處理,,,,,,,,,,,,,,,
-error_choreo_00184,無法進行選擇技能卡的UI顯示,,,,,,,,,,,,,,,
-error_choreo_00185,無法進行選擇技能卡的UI隱藏,,,,,,,,,,,,,,,
+error_choreo_00184,無法進行選擇能力卡的UI顯示,,,,,,,,,,,,,,,
+error_choreo_00185,無法進行選擇能力卡的UI隱藏,,,,,,,,,,,,,,,
 error_choreo_00186,Could not process Select Lose Cards,,,,,,,,,,,,,,,
 error_choreo_00187,Could not process Start Turn Active Bonus Triggered,,,,,,,,,,,,,,,
 error_choreo_00188,Could not process Select Extra Turn Cards,,,,,,,,,,,,,,,
@@ -4161,11 +4161,11 @@ event_road_campaign_60_intro,"你們發現遠方升起了濃煙，不禁歎了�
 ,,,,,,,,,,,,,,,
 你們從那些屍體當中找到了一個倖存者，他悲歎地向你講述著一位在商隊裡的護衛，他是一個身型巨大的羚牛族，當時鼠人族發起進攻，他彷佛主動扔下武器就這樣接受了自己死亡的命運。
 ,,,,,,,,,,,,,,,
-就在這時，你們在那些殘骸當中發現了那個羚牛族的屍體，他正是你們那個蠻徒前隊友，他身上佈滿被撕得血肉模糊的傷口。蠻徒眼中的火焰早已消失，你們就這樣看著他，感覺他顯得異常的渺小。",,,,,,,,,,,,,,,
+就在這時，你們在那些殘骸當中發現了那個羚牛族的屍體，他正是你們那個野蠻人前隊友，他身上佈滿被撕得血肉模糊的傷口。野蠻人眼中的火焰早已消失，你們就這樣看著他，感覺他顯得異常的渺小。",,,,,,,,,,,,,,,
 event_road_campaign_60_option_a,恭敬地埋葬死者並且為他們哀悼。,,,,,,,,,,,,,,,
 event_road_campaign_60_option_b,找尋有沒有值錢的東西，將它們拿走然後悄然離開。,,,,,,,,,,,,,,,
 event_road_campaign_60_result_a,你們後悔之前沒有花時間與他敘舊，然而現在只能花時間將他妥善安葬，然後為他強壯的身軀以及高尚的品格做出沉重的哀悼。那個倖存者感謝了你們的幫助，之後你們忍著悲痛繼續踏上了自己的旅程。,,,,,,,,,,,,,,,
-event_road_campaign_60_result_b,你們在這個蠻徒的屍體旁邊找到了一把斧頭，這大概就是他死前所扔掉的武器。在這片殘骸當中你們也找不到什麼值錢的東西，於是你們默默無言地撿起這把斧頭然後繼續踏上旅程。,,,,,,,,,,,,,,,
+event_road_campaign_60_result_b,你們在這個野蠻人的屍體旁邊找到了一把斧頭，這大概就是他死前所扔掉的武器。在這片殘骸當中你們也找不到什麼值錢的東西，於是你們默默無言地撿起這把斧頭然後繼續踏上旅程。,,,,,,,,,,,,,,,
 event_road_campaign_61_intro,"當你們向著一片小樹林前行的時候，聽到西邊傳來一陣女人的尖叫聲。你們靜靜地走近，透過樹叢瞥到多個發光的生物。
 ,,,,,,,,,,,,,,,
 那些是旭日惡魔，也許就是之前向你們問話的那些。當你們繼續靠近，便看到他們正在圍成一圈，中間有一個身穿護甲的煉魔族女人正被綁在樹上，他們正向那個女人進行拷問，以獲取某種情報。看到這個情景，你們的猜測得到了證實，而且那個女人正是你們那個執日者前隊友。
@@ -4544,10 +4544,10 @@ ftue_2.2,點擊<color=#EACF8C>第一個角色槽</color>打開角色選擇面板
 ftue_3,使用角色選擇面板，你可以建立、查看和增添傭兵到你的當前團隊。 現在它看起來像銅頸山脈一樣一無所有，所以最好<color=#EACF8C>點擊“新傭兵”</color>以建立你的第一個角色！,,,,,,,,,,,,,,,
 ftue_3.2,點擊“<color=#EACF8C>新傭兵</color>”按鈕去建立一個角色,,,,,,,,,,,,,,,
 ftue_4,"下一步你將選擇一個<color=#EACF8C>起始角色種類</color>。
-每個角色擁有獨特的技能和遊戲方式。隨著你的等級提升，可獲取新技能卡並解鎖更多角色種類。
+每個角色擁有獨特的技能和遊戲方式。隨著你的等級提升，可獲取新能力卡並解鎖更多角色種類。
 點擊角色的頭像以瞭解他們的更多資訊並選擇任意一個成為你的第一個傭兵！",,,,,,,,,,,,,,,
 ftue_4.2,選擇<color=#EACF8C>六個起始角色種類</color>中的一個,,,,,,,,,,,,,,,
-ftue_4.3,"不錯的選擇！現在記住，外表不代表一切，傭兵的技能卡才代表著他們戰鬥中的行動能力。你能點擊“<color=#EACF8C>起始技能卡</color>”按鈕去判斷他對你的團隊這是不是正確的傭兵。
+ftue_4.3,"不錯的選擇！現在記住，外表不代表一切，傭兵的能力卡才代表著他們戰鬥中的行動能力。你能點擊“<color=#EACF8C>起始能力卡</color>”按鈕去判斷他對你的團隊這是不是正確的傭兵。
 一旦你確定你的決定，點擊“<color=#EACF8C>選擇傭兵</color>”按鈕以繼續。",,,,,,,,,,,,,,,
 ftue_5,選擇<color=#EACF8C>兩個個人任務</color>之一,,,,,,,,,,,,,,,
 ftue_6,祝賀！你已經建立成功你的第一個傭兵！現在記住，你需要<color=#EACF8C>最少兩個傭兵</color>出去尋找冒險。構建一個戰鬥中成員之間互補的傭兵團隊是很重要的。,,,,,,,,,,,,,,,
@@ -4595,18 +4595,18 @@ gloomhaven_street_travellers_district,旅人大街,,,,,,,,,,,,,,,
 gloomhaven_street_university,學院,,,,,,,,,,,,,,,
 gloomhaven_street_ward_of_scales,天秤街區,,,,,,,,,,,,,,,
 gloomhaven_street_west_barracks,城西軍營,,,,,,,,,,,,,,,
-glossary_action,行動是玩家角色和怪物如何在幽暗迷城中進行它們的輪次，由一個或多個技能卡組成。,,,,,,,,,,,,,,,
+glossary_action,行動是玩家角色和怪物如何在幽暗迷城中進行它們的輪次，由一個或多個能力卡組成。,,,,,,,,,,,,,,,
 glossary_addtarget,附加額外攻擊目標。,,,,,,,,,,,,,,,
 glossary_advantage,優勢攻擊：具有優勢的攻擊者將抽取兩張攻擊修正卡並使用其中更好（數值更高）的那張。,,,,,,,,,,,,,,,
 glossary_air,元素充能 - 氣：用氣元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能同一輪次連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。,,,,,,,,,,,,,,,
 glossary_any,元素充能 - 任意元素：用你選擇的元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。具有任意元素充能標識的怪物行動時隨機選擇一個元素進行充能。,,,,,,,,,,,,,,,
-glossary_attack,攻擊：“攻擊 X”技能卡使得單位以基礎值X去攻擊射程內的一個敵人。,,,,,,,,,,,,,,,
+glossary_attack,攻擊：“攻擊 X”能力卡使得單位以基礎值X去攻擊射程內的一個敵人。,,,,,,,,,,,,,,,
 glossary_attackdefault,基本攻擊：放棄使用卡牌的上半區行動，並進行一個“攻擊 2”的行動。此行動依然棄牌。,,,,,,,,,,,,,,,
 glossary_attackersgaindisadvantage,攻擊者陷入劣勢攻擊：任意針對這名單位的攻擊將陷入劣勢攻擊。,,,,,,,,,,,,,,,
 glossary_augment,竊靈劍師特效賦能：無論何時竊靈劍師進行近戰攻擊時，場上的角色特效攻擊將被使用。,,,,,,,,,,,,,,,
 glossary_aura,光環：“光環”的效果僅當它的目標在光環射程範圍內被啟動。如果移動出光環的射程範圍，光環外的目標們將失去被賦予的任何效果。,,,,,,,,,,,,,,,
 glossary_bless,祝福：被祝福的單位添加一張祝福(x2)卡進入他們的攻擊修正卡堆。當被抽後，攻擊造成雙倍傷害，並且這張祝福(x2)卡從攻擊修正卡堆移除。,,,,,,,,,,,,,,,
-glossary_command,獸王特效口令：帶“口令”的行動使得獸王的熊而非獸王釋放技能卡。,,,,,,,,,,,,,,,
+glossary_command,獸王特效口令：帶“口令”的行動使得獸王的熊而非獸王釋放能力卡。,,,,,,,,,,,,,,,
 glossary_condition,0,,,,,,,,,,,,,,,
 glossary_consumeair,消耗元素 - 氣,,,,,,,,,,,,,,,
 glossary_consumeany,消耗元素 - 任意,,,,,,,,,,,,,,,
@@ -4662,7 +4662,7 @@ glossary_fear,強迫所有傭兵和他們的召喚物按照時序值次序進行
 glossary_fire,元素充能 - 火：用火元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。,,,,,,,,,,,,,,,
 glossary_flying,飛行：飛行的單位將會在他們的移動期間完全忽視所有單位、障礙物、格子上的地面效果和陷阱，包括他們最後要去的格子。但是最後要去的格子不能被其他單位佔據。當佔據障礙物格子上方的飛行單位停止飛行，這個單位會承受傷害，傷害值等同於單位觸發陷阱，並移動到最近的空格子（“空”指沒有任何陷阱、障礙物、單位、打開的門等）。最後這句太難準確翻譯了！,,,,,,,,,,,,,,,
 glossary_greyhex,灰格子顯示著使用者的位置，意味著該攻擊範圍為近戰範圍攻擊，因此攻擊範圍只能圍繞著這個格子（使用者）。,,,,,,,,,,,,,,,
-glossary_heal,治療：“治療 X” 技能卡使單位讓在技能射程內的目標回復X點生命值。,,,,,,,,,,,,,,,
+glossary_heal,治療：“治療 X” 能力卡使單位讓在技能射程內的目標回復X點生命值。,,,,,,,,,,,,,,,
 glossary_hitarea,顯示攻擊的效果範圍。紅格子是目標施法範圍，灰格子是近戰範圍攻擊時攻擊者的位置。,,,,,,,,,,,,,,,
 glossary_ice,元素充能 - 冰：用冰元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。,,,,,,,,,,,,,,,
 glossary_immobilize,禁足：被禁足的單位不能進行任何移動技能。在被影響單位下一輪次結束時，禁足狀態將移除。,,,,,,,,,,,,,,,
@@ -4672,12 +4672,12 @@ glossary_invsmallitem,隨身物品背包,,,,,,,,,,,,,,,
 glossary_jump,跳躍：跳躍可以讓玩家在移動路線過程中忽略所有的單位、障礙物、地面效果和陷阱。最後要去的格子將被看作一格正常移動。,,,,,,,,,,,,,,,
 glossary_kill,擊殺：擊殺技能將直接殺死滿足任何擊殺條件的目標，不需要再去減少他們的生命值到0。,,,,,,,,,,,,,,,
 glossary_light,元素充能 - 光：用光元素充滿戰場（僅針對己方玩家），可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合的己方單位被一次性消耗掉。,,,,,,,,,,,,,,,
-glossary_loot,拾取：“拾取 X”技能卡使得單位撿起距離為X的範圍內且在視線內的所有金幣和財寶格子，不受怪物或障礙物影響。,,,,,,,,,,,,,,,
-glossary_lost,焚燒（燒牌）： 表示這張卡牌在使用後將不會進入棄牌堆，因此卡牌不能通過休息回手（但是可以通過某些回手技能卡）。,,,,,,,,,,,,,,,
-glossary_move,移動： “移動 X”技能卡使得一名單位在地圖上移動至多X個格子。,,,,,,,,,,,,,,,
+glossary_loot,拾取：“拾取 X”能力卡使得單位撿起距離為X的範圍內且在視線內的所有金幣和財寶格子，不受怪物或障礙物影響。,,,,,,,,,,,,,,,
+glossary_lost,焚燒（燒牌）： 表示這張卡牌在使用後將不會進入棄牌堆，因此卡牌不能通過休息回手（但是可以通過某些回手能力卡）。,,,,,,,,,,,,,,,
+glossary_move,移動： “移動 X”能力卡使得一名單位在地圖上移動至多X個格子。,,,,,,,,,,,,,,,
 glossary_movedefault,基本移動：放棄使用卡牌的下半區行動，並進行一個“移動 2”的行動。此行動依然棄牌。,,,,,,,,,,,,,,,
 glossary_muddle,混亂： 混亂的單位將會在他所有的攻擊中陷入攻擊劣勢。混亂狀態在被施法單位下一輪次結束時被移除。,,,,,,,,,,,,,,,
-glossary_noenhancement,這個技能卡以後可以被提升，變得更加強力。,,,,,,,,,,,,,,,
+glossary_noenhancement,這個能力卡以後可以被提升，變得更加強力。,,,,,,,,,,,,,,,
 glossary_permanentlylost,永久焚燒：表示這張卡牌不能從燒牌堆中通過任何方式回手。,,,,,,,,,,,,,,,
 glossary_persistent,持續性效果獎勵：表示這個效果的持續過程沒有限期或者持續到卡上指定的條件被滿足。,,,,,,,,,,,,,,,
 glossary_pierce,穿透：“穿透 X”攻擊效果忽視多達X點的目標護甲值。,,,,,,,,,,,,,,,
@@ -4691,7 +4691,7 @@ glossary_refresh,刷新：允許一個玩家角色重新獲得一定數量乃至
 glossary_rest,0,,,,,,,,,,,,,,,
 glossary_retaliate,反傷：所有單位反傷射程內的攻擊者將會直接受到X點反傷傷害。如果射程值未指定，那麼僅對相鄰的攻擊者起作用。多個反傷效果將會疊加。,,,,,,,,,,,,,,,
 glossary_round,回合效果獎勵：表示這個效果持續到回合結束。,,,,,,,,,,,,,,,
-glossary_self,這個技能卡的目標為單位自身。,,,,,,,,,,,,,,,
+glossary_self,這個能力卡的目標為單位自身。,,,,,,,,,,,,,,,
 glossary_shield,護甲：所有打在有護甲的單位身上的攻擊減少X點。多個護甲效果將會疊加。護甲效果只能應用於“攻擊”技能傷害，即不能阻止其它形式的傷害。,,,,,,,,,,,,,,,
 glossary_sleep,睡眠：睡眠的單位不能在這一輪釋放任何技能，也不能使用任何物品。當任何非友軍單位傷害、被放置一個負面狀態、移動終點在睡眠單位旁邊時，睡眠狀態被移除。 單位仍必須在本輪次選擇兩張卡牌或選擇休息，當然行動不起作用，卡牌被直接棄置。長休息將如常進行。除非被單位直接控制，單位的召喚物和友軍將不攻擊睡眠的目標。當醒來後，單位將按規則行動，好像剛剛出生一樣。,,,,,,,,,,,,,,,
 glossary_song,戰歌：場上的戰歌效果將被持續，直到另一首戰歌牌被打出。,,,,,,,,,,,,,,,
@@ -4708,7 +4708,7 @@ glossary_xp1,1XP：向玩家角色授予1點經驗值。,,,,,,,,,,,,,,,
 glossary_xp2,2XP：向玩家角色授予2點經驗值。,,,,,,,,,,,,,,,
 glossary_xp3,3XP：向玩家角色授予3點經驗值。,,,,,,,,,,,,,,,
 glossary_xp6,6XP：向玩家角色授予6點經驗值。,,,,,,,,,,,,,,,
-glossary_xparrow,XP獎勵跟蹤區：此跟蹤區顯示持續性技能卡如何在持續期間授予玩家XP獎勵。技能卡的每一次持續作用將會讓獎勵跟蹤區移動到下一個圓形槽，此時若圓形槽上標記了XP獎勵，該獎勵會被授予玩家。 打出的持續性獎勵技能卡會顯示在時序跟蹤區的角色頭像旁邊，你可以將滑鼠停留在卡片之上，查看XP獎勵跟蹤區，時序跟蹤區在螢幕頂部。,,,,,,,,,,,,,,,
+glossary_xparrow,XP獎勵跟蹤區：此跟蹤區顯示持續性能力卡如何在持續期間授予玩家XP獎勵。能力卡的每一次持續作用將會讓獎勵跟蹤區移動到下一個圓形槽，此時若圓形槽上標記了XP獎勵，該獎勵會被授予玩家。 打出的持續性獎勵能力卡會顯示在時序跟蹤區的角色頭像旁邊，你可以將滑鼠停留在卡片之上，查看XP獎勵跟蹤區，時序跟蹤區在螢幕頂部。,,,,,,,,,,,,,,,
 goal_chest_tooltip,華美的寶箱,,,,,,,,,,,,,,,
 goalchest,華美的寶箱,,,,,,,,,,,,,,,
 gold,金幣,,,,,,,,,,,,,,,
@@ -4721,9 +4721,9 @@ gui_abandon_quest_mp_host_tooltip,只有主機可以放棄任務,,,,,,,,,,,,,,,
 gui_abandon_quest_phase_tooltip,You can abandon the quest at the start of the round or on your mercenaries turn during action selection,,,,,,,,,,,,,,,
 gui_abandon_quest_while_players_joining_mp_tooltip,當前有玩家正在加入，期間不能放棄任務。,,,,,,,,,,,,,,,
 gui_abilities_table,已掌握的技能,,,,,,,,,,,,,,,
-gui_ability_cards,技能卡,,,,,,,,,,,,,,,
-gui_ability_table,已掌握的技能卡,,,,,,,,,,,,,,,
-gui_ability_table_tooltip,<color=#CEAD5A>已掌握的技能卡</color>是傭兵可以在劇本中執行的行動。,,,,,,,,,,,,,,,
+gui_ability_cards,能力卡,,,,,,,,,,,,,,,
+gui_ability_table,已掌握的能力卡,,,,,,,,,,,,,,,
+gui_ability_table_tooltip,<color=#CEAD5A>已掌握的能力卡</color>是傭兵可以在劇本中執行的行動。,,,,,,,,,,,,,,,
 gui_accept_city_event,接受城市事件,,,,,,,,,,,,,,,
 gui_accept_city_event_tip,所有玩家必須在開始前接受城市事件,,,,,,,,,,,,,,,
 gui_accept_quest,接受任務,,,,,,,,,,,,,,,
@@ -4777,7 +4777,7 @@ gui_adv_tutorial_intro,在向路鎮旅館喝酒時，你無意中聽到了兩個
 gui_adv_tutorial_intro_title,歡迎，傭兵們！,,,,,,,,,,,,,,,
 gui_adv_tutorial_wayward,顯然，你尚未準備好攻擊他的基地，所以準備離開向路鎮並開始突襲一些當地的墓室群以搜尋知識資訊和一些更好的設備。,,,,,,,,,,,,,,,
 gui_adventure,冒險模式,,,,,,,,,,,,,,,
-gui_adventure2,公會模式,,,,,,,,,,,,,,,
+gui_adventure2,會長模式,,,,,,,,,,,,,,,
 gui_adventure_complete,完成！,,,,,,,,,,,,,,,
 gui_ally,隊友,,,,,,,,,,,,,,,
 gui_announce_retirement,宣佈退休,,,,,,,,,,,,,,,
@@ -4789,7 +4789,7 @@ gui_assemble_party_new_character_desc,"一個新的傭兵已被添加到名單�
 該角色當前被隱藏以避免不需要的劇透。
 ,,,,,,,,,,,,,,,
 點擊高亮的傭兵標誌來揭曉新的角色！",,,,,,,,,,,,,,,
-gui_assembly_abilities,技能卡：,,,,,,,,,,,,,,,
+gui_assembly_abilities,能力卡：,,,,,,,,,,,,,,,
 gui_assembly_error_quest_min_heroe,這個任務必需要<color=#C53F3F>一個傭兵</color>才能開始,,,,,,,,,,,,,,,
 gui_assembly_error_quest_min_heroes,任務至少需要<color=#C53F3F> {0} 個傭兵 </color>才能開始,,,,,,,,,,,,,,,
 gui_assembly_error_quest_required_heroes,{0} 必須在玩家團隊中,,,,,,,,,,,,,,,
@@ -4808,7 +4808,7 @@ gui_assembly_party_remove_hero,移除角色,,,,,,,,,,,,,,,
 gui_assembly_party_repeated_name,換一個名字。你不能在兩個不同的團隊上使用相同的名字。,,,,,,,,,,,,,,,
 gui_assembly_party_reveal_character,揭曉傭兵,,,,,,,,,,,,,,,
 gui_assembly_party_roster,傭兵,,,,,,,,,,,,,,,
-gui_assembly_party_select_hero_tip,選擇任一可用的傭兵，將其添加他們到團隊中，或進一步的詳細資訊查看其技能卡清單,,,,,,,,,,,,,,,
+gui_assembly_party_select_hero_tip,選擇任一可用的傭兵，將其添加他們到團隊中，或進一步的詳細資訊查看其能力卡清單,,,,,,,,,,,,,,,
 gui_assembly_party_select_hero_tip_title,添加角色,,,,,,,,,,,,,,,
 gui_assembly_party_start,你準備好開始了！,,,,,,,,,,,,,,,
 gui_assembly_party_tip,一個玩家團隊至少需要2個傭兵才能開始冒險,,,,,,,,,,,,,,,
@@ -4816,11 +4816,11 @@ gui_assembly_remove_hero,"移除
 傭兵",,,,,,,,,,,,,,,
 gui_assembly_select_hero,選擇傭兵,,,,,,,,,,,,,,,
 gui_attack_modifiers,攻擊修正卡,,,,,,,,,,,,,,,
-gui_attack_modifiers_description,執行一張攻擊技能卡時，為每個目標單獨使用攻擊修正卡,,,,,,,,,,,,,,,
+gui_attack_modifiers_description,執行一張攻擊能力卡時，為每個目標單獨使用攻擊修正卡,,,,,,,,,,,,,,,
 gui_autosave,自動記錄,,,,,,,,,,,,,,,
 gui_autosave_explanation,此遊戲使用自動記錄功能。當你看到自動記錄圖示時，請不要關閉遊戲。,,,,,,,,,,,,,,,
-gui_avoid_damage_burn_tooltip,選擇1個傭兵的可用技能卡來燃燒，避免受到物理傷害。,,,,,,,,,,,,,,,
-gui_avoid_damage_discard_tooltip,選擇2個傭兵廢棄技能卡燃燒並避免受到物理傷害。,,,,,,,,,,,,,,,
+gui_avoid_damage_burn_tooltip,選擇1個傭兵的可用能力卡來燃燒，避免受到物理傷害。,,,,,,,,,,,,,,,
+gui_avoid_damage_discard_tooltip,選擇2個傭兵廢棄能力卡燃燒並避免受到物理傷害。,,,,,,,,,,,,,,,
 gui_back,回上層選單,,,,,,,,,,,,,,,
 gui_battle_goals,戰鬥目標,,,,,,,,,,,,,,,
 gui_battle_goals_tip,在進入地牢之前為每個傭兵選擇一個戰鬥目標。,,,,,,,,,,,,,,,
@@ -4846,28 +4846,28 @@ gui_cancel,取消,,,,,,,,,,,,,,,
 gui_cancel_active_bonus,按一下圖示以取消啟動的技能,,,,,,,,,,,,,,,
 gui_cancel_sending_error_report,取消錯誤報告……請稍候,,,,,,,,,,,,,,,
 gui_cancel_town_records,取消城鎮記錄,,,,,,,,,,,,,,,
-gui_card_cannot_be_enhanced,此技能卡<color=#C53F3FFF>不能被提升</color>,,,,,,,,,,,,,,,
-gui_card_fully_enhanced,這種技能卡已被<color=#5FD6E5>完全提升</color>,,,,,,,,,,,,,,,
-gui_card_not_enhanced,此技能卡<color=#FCC951>沒有提升過</color>,,,,,,,,,,,,,,,
+gui_card_cannot_be_enhanced,此能力卡<color=#C53F3FFF>不能被提升</color>,,,,,,,,,,,,,,,
+gui_card_fully_enhanced,這種能力卡已被<color=#5FD6E5>完全提升</color>,,,,,,,,,,,,,,,
+gui_card_not_enhanced,此能力卡<color=#FCC951>沒有提升過</color>,,,,,,,,,,,,,,,
 gui_card_section_burnt,已焚燒的,,,,,,,,,,,,,,,
-gui_card_section_burnt_tooltip,燒牌堆的技能卡,,,,,,,,,,,,,,,
-gui_card_section_burnt_tooltip_descr,使用右下角的燒卡圖示的技能卡在使用後被焚燒，並且可能無法通過休息恢復。它們通常僅可用一次，但可以用一些特定的恢復技能卡恢復。,,,,,,,,,,,,,,,
+gui_card_section_burnt_tooltip,燒牌堆的能力卡,,,,,,,,,,,,,,,
+gui_card_section_burnt_tooltip_descr,使用右下角的燒卡圖示的能力卡在使用後被焚燒，並且可能無法通過休息恢復。它們通常僅可用一次，但可以用一些特定的恢復能力卡恢復。,,,,,,,,,,,,,,,
 gui_card_section_discarded,已棄置的,,,,,,,,,,,,,,,
-gui_card_section_discarded_tooltip,棄牌堆的技能卡,,,,,,,,,,,,,,,
-gui_card_section_discarded_tooltip_descr,在使用後，沒有燒卡圖示的技能卡被棄置，並且將在該角色的卡列表中呈現出灰色。通過執行休息，可以在場景中再次回手棄置的卡。,,,,,,,,,,,,,,,
+gui_card_section_discarded_tooltip,棄牌堆的能力卡,,,,,,,,,,,,,,,
+gui_card_section_discarded_tooltip_descr,在使用後，沒有燒卡圖示的能力卡被棄置，並且將在該角色的卡列表中呈現出灰色。通過執行休息，可以在場景中再次回手棄置的卡。,,,,,,,,,,,,,,,
 gui_change_party,改變玩家團隊,,,,,,,,,,,,,,,
 gui_character_name_repeated,傭兵名字已經被使用了，請換一個名字。,,,,,,,,,,,,,,,
 gui_character_retired,{0}退休了！,,,,,,,,,,,,,,,
-gui_characters_exhausted_tip,由於缺乏可用的技能卡而精力耗盡,,,,,,,,,,,,,,,
+gui_characters_exhausted_tip,由於缺乏可用的能力卡而精力耗盡,,,,,,,,,,,,,,,
 gui_characters_exhausted_title,精力耗盡,,,,,,,,,,,,,,,
-gui_characters_multiple_exhausted_tip,由於缺乏可用的技能卡而精力耗盡,,,,,,,,,,,,,,,
-gui_choose_abilities_tip,選擇要執行的技能卡,,,,,,,,,,,,,,,
-gui_choose_ability,選擇技能卡,,,,,,,,,,,,,,,
+gui_characters_multiple_exhausted_tip,由於缺乏可用的能力卡而精力耗盡,,,,,,,,,,,,,,,
+gui_choose_abilities_tip,選擇要執行的能力卡,,,,,,,,,,,,,,,
+gui_choose_ability,選擇能力卡,,,,,,,,,,,,,,,
 gui_choose_ability_ability_card_mobileresponse,選擇要移除的一個負面狀態,,,,,,,,,,,,,,,
 gui_choose_ability_item_name_minorcurepotion,選擇你自己身上的一個負面狀態以移除,,,,,,,,,,,,,,,
 gui_choose_ability_target_ability_card_mobileresponse,選擇一名友軍身上的一個負面狀態以移除,,,,,,,,,,,,,,,
 gui_choose_actor_prevent_damage,任何傭兵必須燒一張卡牌,,,,,,,,,,,,,,,
-gui_choose_actor_prevent_damage_host_tip,作為主機進行建議，誰應該去焚燒一張技能卡,,,,,,,,,,,,,,,
+gui_choose_actor_prevent_damage_host_tip,作為主機進行建議，誰應該去焚燒一張能力卡,,,,,,,,,,,,,,,
 gui_choose_actor_prevent_damage_tip_title,否定傷害,,,,,,,,,,,,,,,
 gui_choose_element_consume,選擇要消耗的元素,,,,,,,,,,,,,,,
 gui_choose_element_infuse,選擇1個元素進行充能,,,,,,,,,,,,,,,
@@ -4920,12 +4920,12 @@ gui_confirmation_exit_game_scenario,將會失去這一回合的進度,,,,,,,,,,,
 gui_confirmation_exit_game_title,退出遊戲,,,,,,,,,,,,,,,
 gui_confirmation_exit_scenario,放棄劇本,,,,,,,,,,,,,,,
 gui_confirmation_gui_restart_turn,將會失去當前輪次的所有進度。,,,,,,,,,,,,,,,
-gui_confirmation_levelup_card,將此卡添加到你的可用技能卡中？,,,,,,,,,,,,,,,
+gui_confirmation_levelup_card,將此卡添加到你的可用能力卡中？,,,,,,,,,,,,,,,
 gui_confirmation_party_locked,你現在不能改變傭兵。,,,,,,,,,,,,,,,
 gui_confirmation_party_locked_title,該玩家團隊被鎖定了,,,,,,,,,,,,,,,
 gui_confirmation_perk_missing_remove_condition,鎖定的專精項目,,,,,,,,,,,,,,,
 gui_confirmation_perk_missing_remove_condition_warning,此專精項目不能被選擇，因為你的牌堆中沒有必需的攻擊修正卡。,,,,,,,,,,,,,,,
-gui_confirmation_restart_message,當前回合的所有進度都將丟失。所有傭兵都將返回技能卡選擇階段。,,,,,,,,,,,,,,,
+gui_confirmation_restart_message,當前回合的所有進度都將丟失。所有傭兵都將返回能力卡選擇階段。,,,,,,,,,,,,,,,
 gui_confirmation_restart_title,重新開始回合,,,,,,,,,,,,,,,
 gui_confirmation_return_mainmenu,回到主選單,,,,,,,,,,,,,,,
 gui_confirmation_return_mainmenu_map,將會儲存所有進度,,,,,,,,,,,,,,,
@@ -4949,7 +4949,7 @@ gui_create_campaign_enhancement,能力強化,,,,,,,,,,,,,,,
 gui_create_campaign_enhancement_descr,強化設定在遊戲開始後就無法變更，謹慎選擇！,,,,,,,,,,,,,,,
 gui_create_campaign_enhancement_original,原始設定,,,,,,,,,,,,,,,
 gui_create_campaign_enhancement_variant,新版設定,,,,,,,,,,,,,,,
-gui_create_character_class_cards,起始技能卡,,,,,,,,,,,,,,,
+gui_create_character_class_cards,起始能力卡,,,,,,,,,,,,,,,
 gui_create_character_class_confirm,確認角色種類,,,,,,,,,,,,,,,
 gui_create_character_class_roster_descr,選擇角色種類,,,,,,,,,,,,,,,
 gui_create_character_class_roster_title,建立角色,,,,,,,,,,,,,,,
@@ -5019,7 +5019,7 @@ gui_early_access_page_1_info_1,"它在這裡！你們很多人一直在等待這
 完整的戰役模式現在可以用了！
 是時候敲開一些敵人的頭骨了！",,,,,,,,,,,,,,,
 gui_early_access_page_1_info_2,有95個場景和分支故事線，戰役是原版桌遊的完整複製品！,,,,,,,,,,,,,,,
-gui_early_access_page_1_info_3,"對於任何第一次加入我們的新玩家，我們建議你在感受戰役模式的力量之前先花一段時間在公會模式磨練磨練！
+gui_early_access_page_1_info_3,"對於任何第一次加入我們的新玩家，我們建議你在感受戰役模式的力量之前先花一段時間在會長模式磨練磨練！
 ,,,,,,,,,,,,,,,
 至少，在你被強盜反復刺傷之前學習一下這個教學！",,,,,,,,,,,,,,,
 gui_early_access_page_1_info_4,我們已經在努力進行下一個更新了，並且我們有一些令人興奮的計畫，在未來會製作更多的內容，所以不用擔心，我們仍在努力！,,,,,,,,,,,,,,,
@@ -5034,7 +5034,7 @@ gui_early_access_page_2_info_2,如果你想瞭解更多或參與社區，請點�
 gui_early_access_page_2_title,加入玩家社區,,,,,,,,,,,,,,,
 gui_early_access_page_3_info,"在兩年的早期版本中，最終隨著戰役模式的發佈達到1.0正式版本，我們只是想借此機會對所有的早期訪問玩家表示巨大的感謝。你們每個人都在某種程度上為最終的結果做出了貢獻，如果沒有你們的幫助和支持，我們真的不可能做到這一點。
 ,,,,,,,,,,,,,,,
-我們自2019年7月以來已經走了很長的路，有了全新的公會模式，多人模式和現在的戰役模式，更不用說我們逐漸添加了所有角色、怪物和物品了！這是一個巨大的項目，但因為從社區收到的熱情，我們喜歡它的每一分鐘。
+我們自2019年7月以來已經走了很長的路，有了全新的會長模式，多人模式和現在的戰役模式，更不用說我們逐漸添加了所有角色、怪物和物品了！這是一個巨大的項目，但因為從社區收到的熱情，我們喜歡它的每一分鐘。
 ,,,,,,,,,,,,,,,
 希望我們不辱使命。
 ,,,,,,,,,,,,,,,
@@ -5064,7 +5064,7 @@ gui_enable_dlc_confirmation,Once a DLC is enabled on a save it cannot return to 
 gui_enabled,Enabled,,,,,,,,,,,,,,,
 gui_enchantment_points,技能附魔點數,,,,,,,,,,,,,,,
 gui_enchantment_points_tooltip,"<size=+2><color=#EACF8C>技能附魔點數</color></size>
-每次黯淡港灣財富等級增加時，賺取一定的技能附魔點數<sprite name=""Enchantress_Icon"">。 你可以在想要提升的技能卡上使用附魔點數。一旦技能卡被附魔，你可以對技能進行和卡上槽數一致的技能提升。",,,,,,,,,,,,,,,
+每次黯淡港灣財富等級增加時，賺取一定的技能附魔點數<sprite name=""Enchantress_Icon"">。 你可以在想要提升的能力卡上使用附魔點數。一旦能力卡被附魔，你可以對技能進行和卡上槽數一致的技能提升。",,,,,,,,,,,,,,,
 gui_encounter,遭遇事件,,,,,,,,,,,,,,,
 gui_encounter_received,你收到了,,,,,,,,,,,,,,,
 gui_end_extra_turn,結束額外的輪次,,,,,,,,,,,,,,,
@@ -5076,19 +5076,19 @@ gui_end_turn,結束{0}的輪次,,,,,,,,,,,,,,,
 gui_enemieskilled,這是你為了贏下劇本必須完成的目標。下面的進度條顯示了目標的進度。,,,,,,,,,,,,,,,
 gui_enemy2,敵人隊伍2,,,,,,,,,,,,,,,
 gui_enhance,提升,,,,,,,,,,,,,,,
-gui_enhancement_card_cant_be_enhanced,"這個<sprite name=""Card_Icon"">技能卡是<color=#CEAD5A>不可提升型</color>",,,,,,,,,,,,,,,
-gui_enhancement_card_fully_enhanced,"這個<sprite name=""Card_Icon"">技能卡已經<color=#CEAD5A>完全提升</color>",,,,,,,,,,,,,,,
-gui_enhancement_card_not_enhanced,"這個<sprite name=""Card_Icon"">技能卡<color=#CEAD5A>未被提升</color>",,,,,,,,,,,,,,,
-gui_enhancement_cards_enhanced,"所有<sprite name=""Card_Icon""> 技能卡都已<color=#CEAD5A>完全提升</color>",,,,,,,,,,,,,,,
+gui_enhancement_card_cant_be_enhanced,"這個<sprite name=""Card_Icon"">能力卡是<color=#CEAD5A>不可提升型</color>",,,,,,,,,,,,,,,
+gui_enhancement_card_fully_enhanced,"這個<sprite name=""Card_Icon"">能力卡已經<color=#CEAD5A>完全提升</color>",,,,,,,,,,,,,,,
+gui_enhancement_card_not_enhanced,"這個<sprite name=""Card_Icon"">能力卡<color=#CEAD5A>未被提升</color>",,,,,,,,,,,,,,,
+gui_enhancement_cards_enhanced,"所有<sprite name=""Card_Icon""> 能力卡都已<color=#CEAD5A>完全提升</color>",,,,,,,,,,,,,,,
 gui_enhancement_cost_base,基本成本,,,,,,,,,,,,,,,
 gui_enhancement_cost_card_level,卡牌級別,,,,,,,,,,,,,,,
-gui_enhancement_cost_existing,現有的技能卡提升,,,,,,,,,,,,,,,
+gui_enhancement_cost_existing,現有的能力卡提升,,,,,,,,,,,,,,,
 gui_enhancement_cost_original,原價,,,,,,,,,,,,,,,
-gui_enhancement_filter,技能卡提升：<color=white>{0}</color>,,,,,,,,,,,,,,,
+gui_enhancement_filter,能力卡提升：<color=white>{0}</color>,,,,,,,,,,,,,,,
 gui_enhancement_mode_original,原始： Permanent Enhancements will affect all current and future Mercenaries of the same class. Enhancements cannot be sold.,,,,,,,,,,,,,,,
 gui_enhancement_mode_variant,"Updated: Temporary Enhancements will affect individual Mercenaries, and can be removed to regain 75% of their original cost. The costs have also been rebalanced to encourage experimentation. *Recommended",,,,,,,,,,,,,,,
-gui_enhancements,技能卡提升,,,,,,,,,,,,,,,
-gui_enhancements_tooltip,此頁面允許你為所有技能卡添加提升功能。選擇技能卡，然後選擇提升槽，然後將要添加到該槽的提升功能。請注意，不同的提升功能成本為不同的基礎金額，並且該成本由卡上已經上的提升次數和它的技能卡類型進行了修改。當你移除提升時，可以恢復其原始成本。,,,,,,,,,,,,,,,
+gui_enhancements,能力卡提升,,,,,,,,,,,,,,,
+gui_enhancements_tooltip,此頁面允許你為所有能力卡添加提升功能。選擇能力卡，然後選擇提升槽，然後將要添加到該槽的提升功能。請注意，不同的提升功能成本為不同的基礎金額，並且該成本由卡上已經上的提升次數和它的能力卡類型進行了修改。當你移除提升時，可以恢復其原始成本。,,,,,,,,,,,,,,,
 gui_enhancements_unavailable,沒有可進行的提升,,,,,,,,,,,,,,,
 gui_enter_name,輸入名字,,,,,,,,,,,,,,,
 gui_enter_village,進入村莊,,,,,,,,,,,,,,,
@@ -5126,29 +5126,29 @@ gui_first_retired_characters_story_2,你曾聽說過硬幣區的城鎮記錄大�
 gui_frontendtutorial_01_description,邁出身為傭兵的第一步從來都不是容易的。開始教學，學習一些基本的黯淡港灣機制吧！,,,,,,,,,,,,,,,
 gui_frontendtutorial_01_tilte,1.基本,,,,,,,,,,,,,,,
 gui_frontendtutorial_02_description,你邁出第一步了？真不錯。現在是時候去學習些重要的事情了，比如殺死敵人並拾取金幣。,,,,,,,,,,,,,,,
-gui_frontendtutorial_02_tilte,2.雁過拔毛,,,,,,,,,,,,,,,
+gui_frontendtutorial_02_tilte,2.順手牽羊,,,,,,,,,,,,,,,
 gui_frontendtutorial_03_description,組合你已經學習到的技巧放倒強盜弓箭手。你會用到一些其他的方法去穿過那些煩人的陷阱。,,,,,,,,,,,,,,,
 gui_frontendtutorial_03_tilte,3.熠步生輝,,,,,,,,,,,,,,,
 gui_frontendtutorial_04_description,瞭解你站在哪裡，根據敵人的資訊找到地牢裡最好的移動位置。,,,,,,,,,,,,,,,
 gui_frontendtutorial_04_tilte,4.不要靠太近,,,,,,,,,,,,,,,
 gui_frontendtutorial_05_description,瞭解攻擊修正卡，包括它們如何作用、如何影響你的每一次的每一個攻擊。,,,,,,,,,,,,,,,
 gui_frontendtutorial_05_tilte,5.攻擊修正卡,,,,,,,,,,,,,,,
-gui_frontendtutorial_06_description,《野蠻人》在與""復生的骷髏""們苦鬥。用盡一切辦法讓它們永遠的死去。,,,,,,,,,,,,,,,
+gui_frontendtutorial_06_description,<color=#a06e4b><b>野蠻人</b></color>在與《復生的骷髏》們苦鬥。用盡一切辦法讓它們永遠的死去。,,,,,,,,,,,,,,,
 gui_frontendtutorial_06_tilte,6.我是野蠻人,,,,,,,,,,,,,,,
-gui_frontendtutorial_07_description,《惡棍》有兩柄飛刀，還有一堆要撿的金幣，她可不想留下半毛錢。,,,,,,,,,,,,,,,
+gui_frontendtutorial_07_description,<color=#a06e4b><b>惡棍</b></color>有兩柄飛刀，還有一堆要撿的金幣，她可不想留下半毛錢。,,,,,,,,,,,,,,,
 gui_frontendtutorial_07_tilte,7.暗夜刀鋒,,,,,,,,,,,,,,,
-gui_frontendtutorial_08_description,《織咒師》是一個強大的職業，但在激烈的戰鬥中很脆弱，你該好好學習如何充分利用元素。,,,,,,,,,,,,,,,
+gui_frontendtutorial_08_description,<color=#a06e4b><b>織咒師</b></color>是一個強大的職業，但在激烈的戰鬥中很脆弱，你該好好學習如何充分利用元素。,,,,,,,,,,,,,,,
 gui_frontendtutorial_08_tilte,8.掌握元素,,,,,,,,,,,,,,,
-gui_frontendtutorial_09_description,《工匠》屬於靈活機智的職業，難道流個血就能難住他們嗎？,,,,,,,,,,,,,,,
+gui_frontendtutorial_09_description,<color=#a06e4b><b>工匠</b></color>屬於靈活機智的職業，難道流個血就能難住他們嗎？,,,,,,,,,,,,,,,
 gui_frontendtutorial_09_tilte,9.大腦勝過肌肉,,,,,,,,,,,,,,,
-gui_frontendtutorial_10_description,四個""復生的骷髏""已經圍住了《岩石心》，時間不多了，你能不能突圍並全部殺死他們呢？,,,,,,,,,,,,,,,
+gui_frontendtutorial_10_description,四個《復生的骷髏》已經圍住了<color=#a06e4b><b>岩石心</b></color>，時間不多了，你能不能突圍並全部殺死他們呢？,,,,,,,,,,,,,,,
 gui_frontendtutorial_10_tilte,10.岩石心臟,,,,,,,,,,,,,,,
 gui_frontendtutorial_11_description,當你能召喚點什麼東西為你做事的時候，何必所有戰鬥親力親為呢？,,,,,,,,,,,,,,,
 gui_frontendtutorial_11_tilte,11.精神高於物質,,,,,,,,,,,,,,,
 gui_gained_gold,玩家團隊已賺取的金幣:,,,,,,,,,,,,,,,
 gui_gained_health,獲得{0}點生命值,,,,,,,,,,,,,,,
 gui_gained_level,獲得{0}級別,,,,,,,,,,,,,,,
-gui_gift_ability_card,你收到了一張技能卡,,,,,,,,,,,,,,,
+gui_gift_ability_card,你收到了一張能力卡,,,,,,,,,,,,,,,
 gui_gift_advantage,你獲得了攻擊優勢,,,,,,,,,,,,,,,
 gui_gift_bless,你被祝福了,,,,,,,,,,,,,,,
 gui_gift_curse,你被詛咒了,,,,,,,,,,,,,,,
@@ -5204,39 +5204,50 @@ gui_guild_worldmap,世界地圖,,,,,,,,,,,,,,,
 gui_guildmaster_difficulty_title,難度,,,,,,,,,,,,,,,
 gui_guildmaster_invalid_name,輸入了無效的名稱,,,,,,,,,,,,,,,
 gui_guildmaster_repeated_name,該<color=#C53F3F>公會名</color>已被使用。請輸入不同的名稱。,,,,,,,,,,,,,,,
-gui_guildmaster_ruleset,公會模式規則集,,,,,,,,,,,,,,,
+gui_guildmaster_ruleset,會長模式規則集,,,,,,,,,,,,,,,
 gui_guildmaster_start_game,開始遊戲,,,,,,,,,,,,,,,
 gui_guildmaster_tutorial_full,全部教學,,,,,,,,,,,,,,,
 gui_guildmaster_tutorial_introduction_descr,<color=#C2AF89FF>介紹：</color>體驗初始故事和解謎任務,,,,,,,,,,,,,,,
 gui_guildmaster_tutorial_skip_ftue,故事介紹,,,,,,,,,,,,,,,
 gui_guildmaster_tutorial_skip_ftue_intro,快速開始,,,,,,,,,,,,,,,
 gui_guildmaster_tutorial_skip_ftue_intro_descr,跳過教學和介紹,,,,,,,,,,,,,,,
-gui_guildmaster_tutorial_tutorial_descr,<color=#C2AF89FF>教學：</color>瞭解黯淡港灣的基本遊戲機制,,,,,,,,,,,,,,,
+gui_guildmaster_tutorial_tutorial_descr,<color=#C2AF89FF>教學：</color>瞭解黯淡港灣的基本遊戲規則,,,,,,,,,,,,,,,
 gui_hard,難的,,,,,,,,,,,,,,,
 gui_herolevel,角色等級。,,,,,,,,,,,,,,,
 gui_house_rules,自改規則,,,,,,,,,,,,,,,
-gui_house_rules_advantage,優勢 / 劣勢,,,,,,,,,,,,,,,
-gui_house_rules_advantage_original,原始： Can roll into a null modifier with advantage.,,,,,,,,,,,,,,,
-gui_house_rules_advantage_original_tooltip,"<color=#F1DBAE>原始：</color> When attacking with Advantage, if a single Rolling Modifier is drawn, both 攻擊修正卡 will be applied to the attack. In Disadvantage, only the non-rolling Modifier will be applied.,,,,,,,,,,,,,,,
-If both draws are Rolling Modifiers, keep drawing until a non-rolling modifier is drawn. In Advantage, all Modifiers are applied to the attack. In Disadvantage, only the non-rolling Modifier is applied to the attack.",,,,,,,,,,,,,,,
-gui_house_rules_advantage_variant,變體： Can't roll into a null modifier with advantage. *Recommended,,,,,,,,,,,,,,,
-gui_house_rules_advantage_variant_tooltip,"<color=#F1DBAE>變體：</color> When attacking with Advantage or Disadvantage, if the first 攻擊修正卡 is a Rolling Modifier, keep drawing until a non-rolling Modifier is drawn. Then draw one additional 攻擊修正卡, ignore any rolling icon. With Advantage, all Rolling Modifiers are applied to the better of the two final draws. With Disadvantage, all Rolling Modifiers are ignored and the worst of the last two draws will be applied.",,,,,,,,,,,,,,,
+gui_house_rules_advantage,優勢或劣勢,,,,,,,,,,,,,,,
+gui_house_rules_advantage_original,原始：可能在有優勢狀態下抽到""失手"",,,,,,,,,,,,,,,
+gui_house_rules_advantage_original_tooltip,"在有優勢或是劣勢狀態下進行攻擊時：
+【如果只抽到一張有""連抽""圖示的修正卡】
+* 在有優勢狀態時，兩張攻擊修正卡都將套用至攻擊中
+* 在有劣勢狀態時，只有沒有""連抽""圖示的修正卡套用至攻擊中。
+【如果兩張都是有""連抽""圖示的修正卡】就持續抽卡直到出現沒有""連抽""圖示的修正卡為止
+* 在有優勢狀態時，全部的攻擊修正卡都將套用至攻擊中
+* 在有劣勢狀態時，只有沒有""連抽""圖示的修正卡套用至攻擊中。",,,,,,,,,,,,,,,
+gui_house_rules_advantage_variant,<color=#ED1F18>【推薦】</color>變體：不會在有優勢狀態下抽到""失手"",,,,,,,,,,,,,,,
+gui_house_rules_advantage_variant_tooltip,"在有優勢或是劣勢狀態下進行攻擊時：
+【如果第一張攻擊修正卡有""連抽""圖示】就持續抽卡直到出現沒有""連抽""圖示的修正卡為止
+然後再抽一張攻擊修正卡，此卡無論是否有""連抽""圖示都將忽視此圖示效果。
+* 在有優勢狀態時，選擇最佳的兩張攻擊修正卡套用至攻擊中
+* 在有劣勢狀態時，選擇兩張最糟且沒有""連抽""圖示的修正卡套用至攻擊中。",,,,,,,,,,,,,,,
 gui_house_rules_attack_modifiers,攻擊修正卡,,,,,,,,,,,,,,,
-gui_house_rules_attack_modifiers_original,【推薦】原始：x2 與 x0 攻擊修正卡。,,,,,,,,,,,,,,,
+gui_house_rules_attack_modifiers_original,<color=#ED1F18>【推薦】</color>原始：x2 與 x0 攻擊修正卡,,,,,,,,,,,,,,,
 gui_house_rules_attack_modifiers_original_tooltip,攻擊修正卡牌庫將會包含 x2 與 x0 的攻擊修正卡。,,,,,,,,,,,,,,,
-gui_house_rules_attack_modifiers_variant,變體： +2 與 -2 攻擊修正卡。,,,,,,,,,,,,,,,
-gui_house_rules_attack_modifiers_variant_tooltip,"x2 的攻擊修正卡 將會替換成 +2
-x0 的攻擊修正卡 將會替換成 -2",,,,,,,,,,,,,,,
+gui_house_rules_attack_modifiers_variant,變體： +2 與 -2 攻擊修正卡,,,,,,,,,,,,,,,
+gui_house_rules_attack_modifiers_variant_tooltip,"x2 的攻擊修正卡 將會替換成 +2。
+x0 的攻擊修正卡 將會替換成 -2。",,,,,,,,,,,,,,,
 gui_house_rules_descr,自改規則也可以在進入遊戲後調整。可以在設置選單中找到此設定。,,,,,,,,,,,,,,,
 gui_house_rules_line_of_sight,視線,,,,,,,,,,,,,,,
-gui_house_rules_line_of_sight_original,原始：標準的視線規則。,,,,,,,,,,,,,,,
-gui_house_rules_line_of_sight_original_tooltip,"If a character has line of sight, a line can be drawn from any corner of the attacker’s hex to any corner of the defender’s hex without touching any part of a wall.",,,,,,,,,,,,,,,
-gui_house_rules_line_of_sight_variant,【推薦】變體： Centre Hex LOS Added.,,,,,,,,,,,,,,,
-gui_house_rules_line_of_sight_variant_tooltip,A line can be drawn from the centre or any corner of the attacker’s hex to the centre or any corner of the defender’s hex without touching any part of a wall.,,,,,,,,,,,,,,,
+gui_house_rules_line_of_sight_original,原始：標準的視線規則,,,,,,,,,,,,,,,
+gui_house_rules_line_of_sight_original_tooltip,"角色的視線計算方法為：
+從攻擊方格子的任一角，能連一條直線到防禦方格子的任一角，中間不能碰到任何牆壁。",,,,,,,,,,,,,,,
+gui_house_rules_line_of_sight_variant,<color=#ED1F18>【推薦】</color>變體：加入格子中心的視線規則,,,,,,,,,,,,,,,
+gui_house_rules_line_of_sight_variant_tooltip,"角色的視線計算方法為：
+從攻擊方格子的任一角或中心點，能連一條直線到防禦方格子的任一角或中心點，中間不能碰到任何牆壁。",,,,,,,,,,,,,,,
 gui_house_rules_summon_movement,召喚物移動,,,,,,,,,,,,,,,
-gui_house_rules_summon_movement_original,"原始：沒有目標，不移動。",,,,,,,,,,,,,,,
+gui_house_rules_summon_movement_original,"原始：沒有目標，不移動",,,,,,,,,,,,,,,
 gui_house_rules_summon_movement_original_tooltip,"如果沒有敵人或可攻擊的敵人無有效的路徑可以觸及，召喚物將不移動。",,,,,,,,,,,,,,,
-gui_house_rules_summon_movement_variant,"【推薦】變體：沒有目標，可選移動。",,,,,,,,,,,,,,,
+gui_house_rules_summon_movement_variant,"<color=#ED1F18>【推薦】</color>變體：沒有目標，可選是否移動",,,,,,,,,,,,,,,
 gui_house_rules_summon_movement_variant_tooltip,"如果沒有敵人或可攻擊的敵人無有效的路徑可以觸及，該召喚物的主人可以選擇將召喚物移動朝自己移動或不移動。",,,,,,,,,,,,,,,
 gui_how_to_play,簡易規則書,,,,,,,,,,,,,,,
 gui_improved_short_rest_active_bonus_tooltip,"在你的下一輪次期間，短休息將會擁有長休息的所有好處:
@@ -5299,14 +5310,14 @@ gui_level_editor_multiple_levels_same_name,具有相同名稱的多個關卡。�
 gui_level_editor_play,進行遊戲,,,,,,,,,,,,,,,
 gui_level_up_outside_gloomhaven,你們必須返回黯淡港灣升級,,,,,,,,,,,,,,,
 gui_levelup,{0}級！,,,,,,,,,,,,,,,
-gui_levelup_available_cards,<color=#CEAD5A>{0}</color>技能卡可用了！,,,,,,,,,,,,,,,
+gui_levelup_available_cards,<color=#CEAD5A>{0}</color>能力卡可用了！,,,,,,,,,,,,,,,
 gui_levelup_button,升級！,,,,,,,,,,,,,,,
 gui_levelup_character,已達到{0}級,,,,,,,,,,,,,,,
 gui_levelup_choose_card,將1個新卡添加到{0}的卡牌堆上,,,,,,,,,,,,,,,
-gui_levelup_new_cards,進一步的技能卡,,,,,,,,,,,,,,,
-gui_levelup_new_cards_tooltip,"<color=#CEAD5A>進一步的技能卡</color>是那些不使其成為傭兵掌握技能卡集的人。
-升級後，可以將1個鎖定卡添加到掌握的技能卡中",,,,,,,,,,,,,,,
-gui_levelup_received_cards,"你剛收到<sprite name=""Card_Icon""><color=#CEAD5A> {0}新技能卡！</color>
+gui_levelup_new_cards,進一步的能力卡,,,,,,,,,,,,,,,
+gui_levelup_new_cards_tooltip,"<color=#CEAD5A>進一步的能力卡</color>是那些不使其成為傭兵掌握能力卡集的人。
+升級後，可以將1個鎖定卡添加到掌握的能力卡中",,,,,,,,,,,,,,,
+gui_levelup_received_cards,"你剛收到<sprite name=""Card_Icon""><color=#CEAD5A> {0}新能力卡！</color>
 選擇<color=#CEAD5A>一個</color>永久添加到傭兵的卡牌堆",,,,,,,,,,,,,,,
 gui_levelup_wealth_button_tooltip,升級以匹配當前的黯淡港灣財富等級。,,,,,,,,,,,,,,,
 gui_linked_quest_choose_tooltip,繼續{0}或返回黯淡港灣,,,,,,,,,,,,,,,
@@ -5337,8 +5348,8 @@ gui_loadout_enter_scenario,進入地牢,,,,,,,,,,,,,,,
 gui_loadout_overview,概述,,,,,,,,,,,,,,,
 gui_loadout_special_rules,特別規則,,,,,,,,,,,,,,,
 gui_locked,鎖定,,,,,,,,,,,,,,,
-gui_locked_card_tooltip,"尚未添加到掌握技能卡的卡保持<color=#CEAD5A>鎖定</color>除非花費解鎖點。
-選擇<color=#CEAD5A>重置傭兵 </color>重建掌握技能卡集。",,,,,,,,,,,,,,,
+gui_locked_card_tooltip,"尚未添加到掌握能力卡的卡保持<color=#CEAD5A>鎖定</color>除非花費解鎖點。
+選擇<color=#CEAD5A>重置傭兵 </color>重建掌握能力卡集。",,,,,,,,,,,,,,,
 gui_locked_object,未解鎖的{0},,,,,,,,,,,,,,,
 gui_long_rest,長休息,,,,,,,,,,,,,,,
 gui_lose_card,"<sprite name=""Lost"">焚燒""{0}""",,,,,,,,,,,,,,,
@@ -5350,9 +5361,9 @@ gui_main_menu_campaign_tooltip,"<color=#F1DBAE>戰役模式</color>
 戰役模式對於新玩家來說是非常危險的，準備好再出發！",,,,,,,,,,,,,,,
 gui_main_menu_extras_tooltip,"<color=#F1DBAE>其他</color>
 你可以在""簡易規則書""中找到黯淡港灣的全部規則；在""關卡編輯器""中盡情釋放你的創作能力；在""Mod管理""中自定義你的遊戲。",,,,,,,,,,,,,,,
-gui_main_menu_guildmaster_tooltip,"<color=#F1DBAE>公會模式</color>
+gui_main_menu_guildmaster_tooltip,"<color=#F1DBAE>會長模式</color>
 只有數位版才有的全新模式，目的在讓玩家掌握黯淡港灣的規則和傭兵，共有100多個新任務。
-公會模式相對來說是一個比較友善的模式，可以優先選擇遊玩！",,,,,,,,,,,,,,,
+會長模式相對來說是一個比較友善的模式，可以優先選擇遊玩！",,,,,,,,,,,,,,,
 gui_main_menu_multiplayer_how_to_host,如何建立房間,,,,,,,,,,,,,,,
 gui_main_menu_multiplayer_how_to_host_descr,"<size=+4><sprite name=""Pointer""></size><indent=20>While <color=#F1DBAE>in an existing Gloomhaven saved game</color>, click ""Esc"" to open the Pause menu and select ""Multiplayer"".
 </indent>
@@ -5373,7 +5384,7 @@ gui_main_menu_multiplayer_tooltip,"<color=#F1DBAE>多人遊戲</color>
 gui_main_menu_options_tooltip,"<color=#F1DBAE>設置</color>
 變更遊戲的設定以契合你的遊玩風格。",,,,,,,,,,,,,,,
 gui_main_menu_tutorial_tooltip,"<color=#F1DBAE>教學</color>
-第一次來到黯淡港灣？透過遊玩教學可以熟悉黯淡港灣的基本機制。你也可以當成是公會模式的前導",,,,,,,,,,,,,,,
+第一次來到黯淡港灣？透過遊玩教學可以熟悉黯淡港灣的基本機制。你也可以當成是會長模式的前導",,,,,,,,,,,,,,,
 gui_manage_mods,管理Mod,,,,,,,,,,,,,,,
 gui_manage_mods_title,管理Mod,,,,,,,,,,,,,,,
 gui_medium,中等的,,,,,,,,,,,,,,,
@@ -5389,8 +5400,8 @@ gui_mod_created,Mod'{0}'已建立,,,,,,,,,,,,,,,
 gui_mod_customlevels_type,自製關卡Mod,,,,,,,,,,,,,,,
 gui_mod_deleted,Mod'{0}'已被刪除,,,,,,,,,,,,,,,
 gui_mod_global_type,全域Mod,,,,,,,,,,,,,,,
-gui_mod_guildmaster,加入了Mod的公會模式,,,,,,,,,,,,,,,
-gui_mod_guildmaster_type,公會模式Mod,,,,,,,,,,,,,,,
+gui_mod_guildmaster,加入了Mod的會長模式,,,,,,,,,,,,,,,
+gui_mod_guildmaster_type,會長模式Mod,,,,,,,,,,,,,,,
 gui_mod_has_executables,Mod已經執行,,,,,,,,,,,,,,,
 gui_mod_invalid_type,無效的Mod類型,,,,,,,,,,,,,,,
 gui_mod_is_active,啟動的,,,,,,,,,,,,,,,
@@ -5441,7 +5452,7 @@ gui_modding_file_conflict,檔衝突,,,,,,,,,,,,,,,
 gui_modding_file_conflict_desc,Mod之間存在衝突！,,,,,,,,,,,,,,,
 gui_modding_finish_edit_ruleset,完成編輯,,,,,,,,,,,,,,,
 gui_modding_finish_edit_ruleset_confirmation,編輯此規則集將刪除所有現有的保存資料,,,,,,,,,,,,,,,
-gui_modding_guildmaster_mod,公會模式Mod,,,,,,,,,,,,,,,
+gui_modding_guildmaster_mod,會長模式Mod,,,,,,,,,,,,,,,
 gui_modding_hash_compare_fail_message,自上次編譯以來，當前的規則集已被修改。你需要重新編譯該規則，以便播放。,,,,,,,,,,,,,,,
 gui_modding_hash_compare_fail_title,雜湊比較失敗,,,,,,,,,,,,,,,
 gui_modding_invalid_ruleset_char,規則集的名稱不能包含作業系統的目錄名稱不支援的任何字元,,,,,,,,,,,,,,,
@@ -5553,7 +5564,7 @@ gui_multiplayer_readying,準備...,,,,,,,,,,,,,,,
 gui_multiplayer_remove_user,移除用戶,,,,,,,,,,,,,,,
 gui_multiplayer_start_session,建立房間,,,,,,,,,,,,,,,
 gui_multiplayer_unreadying,取消準備......,,,,,,,,,,,,,,,
-gui_multiplayer_view_player_deck,<color=#F1DBAE>查看</color> {0} <color=#F1DBAE>的技能卡卡牌堆</color>,,,,,,,,,,,,,,,
+gui_multiplayer_view_player_deck,<color=#F1DBAE>查看</color> {0} <color=#F1DBAE>的能力卡卡牌堆</color>,,,,,,,,,,,,,,,
 gui_multiplayer_waiting_players_reward,等待玩家返回到世界地圖……,,,,,,,,,,,,,,,
 gui_multiplayer_warning_text_waitingforcharassignment,等待所有玩家完成角色安排,,,,,,,,,,,,,,,
 gui_multiplayer_warning_text_waitingforconnectingplayerstojoin,新玩家目前正在加入遊戲。等待每個人都加入後，開始進程。,,,,,,,,,,,,,,,
@@ -5565,7 +5576,7 @@ gui_neutral,中立的,,,,,,,,,,,,,,,
 gui_new,開始新遊戲,,,,,,,,,,,,,,,
 gui_new_adventure,新冒險,,,,,,,,,,,,,,,
 gui_new_campaign,新戰役,,,,,,,,,,,,,,,
-gui_new_card_notification,添加了新的技能卡，它低於當前級別。出於這個原因，我們會給你有機會<color=#CEAD5A>免費重置你的技能卡堆 </color>，並嘗試一些你可能已經錯過的技能！,,,,,,,,,,,,,,,
+gui_new_card_notification,添加了新的能力卡，它低於當前級別。出於這個原因，我們會給你有機會<color=#CEAD5A>免費重置你的能力卡堆 </color>，並嘗試一些你可能已經錯過的技能！,,,,,,,,,,,,,,,
 gui_new_card_notification_title,已添加新卡牌！,,,,,,,,,,,,,,,
 gui_new_character,新的傭兵,,,,,,,,,,,,,,,
 gui_new_quest_location_title,新任務地點！,,,,,,,,,,,,,,,
@@ -5706,7 +5717,7 @@ gui_opt_graphics_soft_particles,軟粒子,,,,,,,,,,,,,,,
 gui_opt_graphics_texture_quality,紋理品質,,,,,,,,,,,,,,,
 gui_opt_graphics_vsync,垂直同步,,,,,,,,,,,,,,,
 gui_opt_interface,介面,,,,,,,,,,,,,,,
-gui_opt_interface_ability_focus_outlines,禁用技能卡焦點輪廓,,,,,,,,,,,,,,,
+gui_opt_interface_ability_focus_outlines,禁用能力卡焦點輪廓,,,,,,,,,,,,,,,
 gui_opt_interface_mouse_hover_outlines,禁用滑鼠懸停輪廓,,,,,,,,,,,,,,,
 gui_opt_lang_apply,應用不同的語言需要遊戲重新載入,,,,,,,,,,,,,,,
 gui_opt_lang_title,需要採取的行動,,,,,,,,,,,,,,,
@@ -5760,7 +5771,7 @@ gui_perks_legend_add,添加:,,,,,,,,,,,,,,,
 gui_perks_legend_quantity,數量:,,,,,,,,,,,,,,,
 gui_perks_legend_remove,移除:,,,,,,,,,,,,,,,
 gui_perks_points,{0}個可用的專精點數,,,,,,,,,,,,,,,
-gui_perks_tooltip,歡迎來到<b>專精專案</b>頁面。在這裡，你可以使用任何你已獲得的<b>專精項目</b>去添加，刪除或替換現有的<b>攻擊修正卡</b>。看看你的技能卡和物品，並決定什麼<b>攻擊修正卡</b>最適合你的角色，但要小心:一旦使用，<b>專精項目</b>不能撤銷！,,,,,,,,,,,,,,,
+gui_perks_tooltip,歡迎來到<b>專精專案</b>頁面。在這裡，你可以使用任何你已獲得的<b>專精項目</b>去添加，刪除或替換現有的<b>攻擊修正卡</b>。看看你的能力卡和物品，並決定什麼<b>攻擊修正卡</b>最適合你的角色，但要小心:一旦使用，<b>專精項目</b>不能撤銷！,,,,,,,,,,,,,,,
 gui_persistent_bonuses,永久福利,,,,,,,,,,,,,,,
 gui_personal_quest_completed,個人任務完成！,,,,,,,,,,,,,,,
 gui_personal_quest_conceal_tooltip,其他玩家將無法看到你的個人任務,,,,,,,,,,,,,,,
@@ -5839,8 +5850,8 @@ gui_report_softlock,報告程式鎖死,,,,,,,,,,,,,,,
 gui_report_softlock_descr,如果你因<color=#EACF8C>程式鎖死</color>而退出，請等待我們的更新解決BUG。,,,,,,,,,,,,,,,
 gui_reset,重置,,,,,,,,,,,,,,,
 gui_reset_character_level,重置傭兵,,,,,,,,,,,,,,,
-gui_reset_character_level_confirmation,重置技能卡,,,,,,,,,,,,,,,
-gui_reset_character_level_tooltip,"<color=#CEAD5A>重置傭兵</color>將使得傭兵掌握的技能卡和專精專案返回到起始狀態，並允許你重建角色為當前級別或以下的級別。
+gui_reset_character_level_confirmation,重置能力卡,,,,,,,,,,,,,,,
+gui_reset_character_level_tooltip,"<color=#CEAD5A>重置傭兵</color>將使得傭兵掌握的能力卡和專精專案返回到起始狀態，並允許你重建角色為當前級別或以下的級別。
 重置傭兵不會影響傭兵當前的XP。",,,,,,,,,,,,,,,
 gui_reset_party,重置玩家團隊,,,,,,,,,,,,,,,
 gui_restart,重新開始,,,,,,,,,,,,,,,
@@ -5900,7 +5911,7 @@ gui_scenario_mod_set_elements_waning,"{0}將在{1}設為半格
 ",,,,,,,,,,,,,,,
 gui_scenario_mod_set_elements_waning_inert,"{0}將設為半格，{1}將在{2}時設為空格
 ",,,,,,,,,,,,,,,
-gui_scenario_mod_trigger_ability,"{0}技能卡將在{1}時觸發
+gui_scenario_mod_trigger_ability,"{0}能力卡將在{1}時觸發
 ",,,,,,,,,,,,,,,
 gui_scenario_mod_trigger_end_round,回合的結束,,,,,,,,,,,,,,,
 gui_scenario_mod_trigger_end_turn,輪次的結束,,,,,,,,,,,,,,,
@@ -5988,15 +5999,15 @@ gui_tooltip_element_infusing,元素充能。當前角色的輪次結束後，此
 gui_tooltip_element_strong,滿格元素。此元素可用於本回合的其餘部分和整個下一輪。一旦使用掉，其他單位不可再使用。,,,,,,,,,,,,,,,
 gui_tooltip_element_waning,半格元素。該元素可用於本回合的其餘部分。一旦使用掉，其他單位不可再使用。,,,,,,,,,,,,,,,
 gui_tooltip_extra_turn,立即選擇兩張卡牌打出。,,,,,,,,,,,,,,,
-gui_tooltip_extra_turn_both_actions_later,選擇一張時序值比{0}更高的技能卡。,,,,,,,,,,,,,,,
-gui_tooltip_extra_turn_both_actions_later_second_card,選擇第二張技能卡（這張卡不能幫你更改行動時序）。,,,,,,,,,,,,,,,
+gui_tooltip_extra_turn_both_actions_later,選擇一張時序值比{0}更高的能力卡。,,,,,,,,,,,,,,,
+gui_tooltip_extra_turn_both_actions_later_second_card,選擇第二張能力卡（這張卡不能幫你更改行動時序）。,,,,,,,,,,,,,,,
 gui_tooltip_extra_turn_bottom_action,打出一張卡立即執行其下半區行動。,,,,,,,,,,,,,,,
 gui_tooltip_extra_turn_top_action,打出一張卡立即執行其上半區行動。,,,,,,,,,,,,,,,
 gui_tooltip_forgo_actions_for_companion,放棄你的上半區或(和)上半區行動用以增加熊的攻擊力或（和）移動力。,,,,,,,,,,,,,,,
 gui_tooltip_helpbox improved_short_rest_title,<color=#B52828>無法停止的破壞</color>。,,,,,,,,,,,,,,,
 gui_tooltip_item_single_target_tip,選擇一個目標以使用該物品。,,,,,,,,,,,,,,,
 gui_tooltip_item_single_target_title,單目標物品。,,,,,,,,,,,,,,,
-gui_tooltip_long_rest,焚燒一張技能卡，然後獲得2點血。,,,,,,,,,,,,,,,
+gui_tooltip_long_rest,焚燒一張能力卡，然後獲得2點血。,,,,,,,,,,,,,,,
 gui_tooltip_not_enough_targets_selected,沒有選擇足夠的目標,,,,,,,,,,,,,,,
 gui_tooltip_player_disarmed,"{0}被<color=#A050E0>繳械</color><size=180%><sprite name=""HoverDisarmed""></size>了。",,,,,,,,,,,,,,,
 gui_tooltip_player_immobilized,"{0}被<color=#A050E0>禁足</color><size=180%><sprite name=""HoverImmobilized""></size>了。",,,,,,,,,,,,,,,
@@ -6008,12 +6019,12 @@ gui_tooltip_player_wounded,"{0}陷入<color=#A050E0>流血</color><size=180%><sp
 gui_tooltip_remove_conditions,移除自己的所有負面狀態。,,,,,,,,,,,,,,,
 gui_tooltip_select_destroy_obstacle,選擇要摧毀的一個障礙。,,,,,,,,,,,,,,,
 gui_tooltip_select_destroy_obstacles,選擇要摧毀的幾個障礙。,,,,,,,,,,,,,,,
-gui_tooltip_select_discard_card,選擇要棄置的一張技能卡。,,,,,,,,,,,,,,,
+gui_tooltip_select_discard_card,選擇要棄置的一張能力卡。,,,,,,,,,,,,,,,
 gui_tooltip_select_discard_card_title,棄置一張卡。,,,,,,,,,,,,,,,
-gui_tooltip_select_discard_cards,選擇要棄置的{0}張技能卡。,,,,,,,,,,,,,,,
+gui_tooltip_select_discard_cards,選擇要棄置的{0}張能力卡。,,,,,,,,,,,,,,,
 gui_tooltip_select_discard_cards_title,棄置{0}張卡。,,,,,,,,,,,,,,,
-gui_tooltip_select_lose_card,選擇焚燒1張技能卡。,,,,,,,,,,,,,,,
-gui_tooltip_select_lose_cards,選擇焚燒{0}張技能卡。,,,,,,,,,,,,,,,
+gui_tooltip_select_lose_card,選擇焚燒1張能力卡。,,,,,,,,,,,,,,,
+gui_tooltip_select_lose_cards,選擇焚燒{0}張能力卡。,,,,,,,,,,,,,,,
 gui_tooltip_select_recover_card,選擇回手1張棄牌堆的卡牌。,,,,,,,,,,,,,,,
 gui_tooltip_select_recover_cards,選擇回手{0}張棄牌堆的卡牌。,,,,,,,,,,,,,,,
 gui_tooltip_select_recover_discarded_card,選擇回手1張棄牌堆的卡牌。,,,,,,,,,,,,,,,
@@ -6023,15 +6034,15 @@ gui_tooltip_select_recover_lost_card,選擇回手1張被焚燒的卡。,,,,,,,,,
 gui_tooltip_select_recover_lost_cards,選擇回手{0}張被焚燒的卡。,,,,,,,,,,,,,,,
 gui_tooltip_select_summon_movement,Choose to move the Summoned Ally towards its Summoner,,,,,,,,,,,,,,,
 gui_tooltip_select_summon_movement_title,Summon Movement,,,,,,,,,,,,,,,
-gui_tooltip_shields,護甲：一個帶護甲的角色減少X點所受到的攻擊。護甲值可以疊加。護甲僅適用於技能卡的“攻擊”傷害，不會阻止其他形式的傷害。,,,,,,,,,,,,,,,
+gui_tooltip_shields,護甲：一個帶護甲的角色減少X點所受到的攻擊。護甲值可以疊加。護甲僅適用於能力卡的“攻擊”傷害，不會阻止其他形式的傷害。,,,,,,,,,,,,,,,
 gui_tooltip_short_rest,隨機焚燒一張棄牌堆的卡牌以恢復所有其他棄牌堆的卡牌。如果你不想焚燒抽到的卡，你可以選擇扣掉一點血拿走這張卡，並重抽一張卡進行焚燒。,,,,,,,,,,,,,,,
 gui_tooltip_short_rest_warning,需要2張或以上棄牌堆的卡牌。,,,,,,,,,,,,,,,
 gui_tooltip_single_target,選擇一個單體目標。,,,,,,,,,,,,,,,
-gui_tooltip_start_turn,讓每個角色選擇兩個技能卡打出或選擇休息。,,,,,,,,,,,,,,,
+gui_tooltip_start_turn,讓每個角色選擇兩個能力卡打出或選擇休息。,,,,,,,,,,,,,,,
 gui_tooltip_summon,召喚{0},,,,,,,,,,,,,,,
 gui_tooltip_summon_select_hex,選擇一個格子來召喚{0},,,,,,,,,,,,,,,
 gui_tooltip_take_quest_item,確認從相鄰的傭兵拿走可攜帶的任務物品,,,,,,,,,,,,,,,
-gui_tooltip_title_ability_choosing,技能卡選擇,,,,,,,,,,,,,,,
+gui_tooltip_title_ability_choosing,能力卡選擇,,,,,,,,,,,,,,,
 gui_tooltip_title_deal_damage,傷害結算階段,,,,,,,,,,,,,,,
 gui_tooltip_title_start_turn,開始輪次,,,,,,,,,,,,,,,
 gui_tooltip_transfer_doom,將厄運從已死的目標轉移到另一個目標。,,,,,,,,,,,,,,,
@@ -6047,7 +6058,7 @@ gui_travel,旅行,,,,,,,,,,,,,,,
 gui_turn_off_tutorial,關閉教學,,,,,,,,,,,,,,,
 gui_tutorial,教學,,,,,,,,,,,,,,,
 gui_tutorial_01_description,近戰攻擊和移動,,,,,,,,,,,,,,,
-gui_tutorial_01_instructions,裂心石人這一回合只有兩張技能卡。你現在必須啟動一張卡的上半區和另一張卡的下半區（以任意順序）來殺死強盜衛兵。,,,,,,,,,,,,,,,
+gui_tutorial_01_instructions,裂心石人這一回合只有兩張能力卡。你現在必須啟動一張卡的上半區和另一張卡的下半區（以任意順序）來殺死強盜衛兵。,,,,,,,,,,,,,,,
 gui_tutorial_01_title,近戰攻擊和移動,,,,,,,,,,,,,,,
 gui_tutorial_exit,退出教學,,,,,,,,,,,,,,,
 gui_tutorial_victory,勝利！,,,,,,,,,,,,,,,
@@ -6074,16 +6085,16 @@ gui_wait_players_confirm_enter_scenario,進入戰鬥,,,,,,,,,,,,,,,
 gui_wait_players_confirm_quest,已選擇的任務,,,,,,,,,,,,,,,
 gui_wait_players_confirm_tip,等待玩家確認......,,,,,,,,,,,,,,,
 gui_wait_players_confirm_town_records,已選擇的城鎮記錄,,,,,,,,,,,,,,,
-gui_warning_cancel_selected_cards,在你重新選擇技能卡之前先點擊取消,,,,,,,,,,,,,,,
+gui_warning_cancel_selected_cards,在你重新選擇能力卡之前先點擊取消,,,,,,,,,,,,,,,
 gui_warning_equip_max_cards,你不能再裝備更多卡牌了！,,,,,,,,,,,,,,,
 gui_warning_select_cards_other_player,你只能為你控制的傭兵選擇卡牌,,,,,,,,,,,,,,,
 gui_watch_personal_quest_progress,查看結果,,,,,,,,,,,,,,,
 gui_watch_retirement,查看退休,,,,,,,,,,,,,,,
 gui_wealth_level_unlockes_items,新物品現已進入庫存！下次你去新市場的時候就可以買到！,,,,,,,,,,,,,,,
-gui_wrong_ability_deck,無效的<color=#C53F3FFF>技能卡牌堆 </color>,,,,,,,,,,,,,,,
-gui_wrong_ability_deck_character,{0}的技能卡卡牌堆不完整,,,,,,,,,,,,,,,
-gui_wrong_ability_deck_characters,{0}的技能卡卡牌堆不完整,,,,,,,,,,,,,,,
-gui_wrong_inventory,錯誤的技能卡,,,,,,,,,,,,,,,
+gui_wrong_ability_deck,無效的<color=#C53F3FFF>能力卡牌堆 </color>,,,,,,,,,,,,,,,
+gui_wrong_ability_deck_character,{0}的能力卡卡牌堆不完整,,,,,,,,,,,,,,,
+gui_wrong_ability_deck_characters,{0}的能力卡卡牌堆不完整,,,,,,,,,,,,,,,
+gui_wrong_inventory,錯誤的能力卡,,,,,,,,,,,,,,,
 gui_xp_progress,XP {0},,,,,,,,,,,,,,,
 gui_xpbar,經驗條顯示了你升級的進度。你可以在地圖或玩家團隊選擇頁面上進行升級。,,,,,,,,,,,,,,,
 hail,黑爾,,,,,,,,,,,,,,,
@@ -6130,25 +6141,25 @@ inoxguardelite,羚角族守衛精英,,,,,,,,,,,,,,,
 inoxshaman,羚角族薩滿,,,,,,,,,,,,,,,
 inoxshamanelite,羚角族薩滿精英,,,,,,,,,,,,,,,
 instead,代替,,,,,,,,,,,,,,,
-intro_abilitycardpanel_1,"傭兵每次升級時都會解鎖更強大的技能卡。
-探尋<color=#EACF8C>更加強力的技能卡組合</color>並根據你將要面對的敵人類型合理調整卡組。
-選擇正確的技能卡對抗敵人將使你立於不敗之地。",,,,,,,,,,,,,,,
-intro_abilitycardpanel_2,你可以在技能卡介面上<color=#EACF8C>調整要帶進地牢的卡組</color>。每一位元傭兵可以攜帶的卡組容量不同，並且進入地牢時必須將卡組填滿。將滑鼠懸停在技能卡上可以查看詳細資訊。,,,,,,,,,,,,,,,
+intro_abilitycardpanel_1,"傭兵每次升級時都會解鎖更強大的能力卡。
+探尋<color=#EACF8C>更加強力的能力卡組合</color>並根據你將要面對的敵人類型合理調整卡組。
+選擇正確的能力卡對抗敵人將使你立於不敗之地。",,,,,,,,,,,,,,,
+intro_abilitycardpanel_2,你可以在能力卡介面上<color=#EACF8C>調整要帶進地牢的卡組</color>。每一位元傭兵可以攜帶的卡組容量不同，並且進入地牢時必須將卡組填滿。將滑鼠懸停在能力卡上可以查看詳細資訊。,,,,,,,,,,,,,,,
 intro_battlegoals,"在進入地牢之前，每個傭兵必須<color=#EACF8C>在兩個戰鬥目標中選擇一個</color>。
 戰鬥目標是傭兵在地牢中要盡力達成的秘密任務。失敗不會帶來懲罰，但成功完成將會獲得額外的經驗獎勵，這將會讓你在之後的戰鬥中更加得心應手。",,,,,,,,,,,,,,,
 intro_cityquest,"你們解鎖了一個<color=#EACF8C>城鎮任務</color>！
 你可以通過按一下城鎮地圖按鈕或按一下日誌中的新任務查看。",,,,,,,,,,,,,,,
-intro_enchantress,在此介面你可以為你所有技能卡進行附魔。首先選擇技能卡，然後選擇附魔槽，就可以將你希望的附魔效果附加到該附魔槽位上。請注意，不同的附魔會對應不同的附魔基礎成本，而且同一張卡附魔次數越多成本越高。當你移除附魔時，其附魔成本將恢復到最初的狀態。,,,,,,,,,,,,,,,
+intro_enchantress,在此介面你可以為你所有能力卡進行附魔。首先選擇能力卡，然後選擇附魔槽，就可以將你希望的附魔效果附加到該附魔槽位上。請注意，不同的附魔會對應不同的附魔基礎成本，而且同一張卡附魔次數越多成本越高。當你移除附魔時，其附魔成本將恢復到最初的狀態。,,,,,,,,,,,,,,,
 intro_equipmentpanel,"你可以在裝備面板找到傭兵可以攜帶的<color=#EACF8C>各類道具</color>。按一下道具槽將顯示該名傭兵所擁有的此類型的全部道具。
 如果道具槽為灰色，則表示你目前沒有此類型的道具。",,,,,,,,,,,,,,,
 intro_itemdesign,"你解鎖了一張新的道具設計圖！
 當你發現一張道具設計圖後，<color=#EACF8C>商店</color>就會開始出售該道具。",,,,,,,,,,,,,,,
 intro_levelup_1,"恭喜！你升級了！
-每次傭兵升級，你都可以<color=#EACF8C>從兩張技能卡中選擇一張</color>。你未選擇的卡將仍可以在下次升級時被選擇。
+每次傭兵升級，你都可以<color=#EACF8C>從兩張能力卡中選擇一張</color>。你未選擇的卡將仍可以在下次升級時被選擇。
 同時，升級還會為傭兵解鎖一個新的增益點。",,,,,,,,,,,,,,,
 intro_levelup_2,"傭兵升級時，<color=#EACF8C>團隊等級</color>也會提升。團隊等級將影響地牢中敵人的強度、陷阱的傷害和拾取物的價值。
 等等，你該不會以為提升團隊等級會讓遊戲變得越來越簡單吧？",,,,,,,,,,,,,,,
-intro_levelup_3,"新的技能卡已經添加到傭兵的技能卡介面中。
+intro_levelup_3,"新的能力卡已經添加到傭兵的能力卡介面中。
 如果你打算在下一個地牢中使用它，<color=#EACF8C>別忘了裝備上</color>！",,,,,,,,,,,,,,,
 intro_linkedquest,"你偶爾會遇到系列任務。
 遊戲鼓勵你一個接一個地完成系列任務。通過直接開始系列任務，你將<color=#EACF8C>避免觸發道路遭遇（它們往往會走向負面的效果）</color>。
@@ -6167,7 +6178,7 @@ intro_personalquest_2,"離別總是苦澀的，但前行總是伴隨著一些不
 完成個人任務並退休傭兵是<color=#EACF8C>解鎖新角色</color>的主要途徑。",,,,,,,,,,,,,,,
 intro_prosperity,"黯淡港灣的繁榮度受到了你的所作所為的影響。每當獲得足夠的繁榮度，黯淡港灣財富等級將會上升。
 增加黯淡港灣的財富等級將解鎖<color=#EACF8C>商人商店的新道具</color>，並將允許你此後建立的新角色提升到不高於當前黯淡港灣財富等級的等級。",,,,,,,,,,,,,,,
-intro_quest,現在可能是個檢查傭兵的<color=#EACF8C>技能卡和裝備</color>，以確保他們做好了戰鬥準備的時機。在任務描述中，你可以看到你將面臨的敵人。將滑鼠懸停在他們身上來查看他們的詳細資訊。,,,,,,,,,,,,,,,
+intro_quest,現在可能是個檢查傭兵的<color=#EACF8C>能力卡和裝備</color>，以確保他們做好了戰鬥準備的時機。在任務描述中，你可以看到你將面臨的敵人。將滑鼠懸停在他們身上來查看他們的詳細資訊。,,,,,,,,,,,,,,,
 intro_reputation,玩家團隊的聲譽受到你行為的影響。 聲譽將影響商人商店中的<color=#EACF8C>物品的售價</color>以及某些遭遇的結果。善良的行為通常會獲得獎勵，但它們可能沒那麼有趣...如何選擇取決於你。,,,,,,,,,,,,,,,
 intro_temple_1,"每當向聖橡樹神廟捐贈10個金幣時，傭兵都會受到祝福。
 被祝福的傭兵將在下一個地牢中<color=#EACF8C>獲得兩張額外的x2攻擊修正卡</color>。",,,,,,,,,,,,,,,
@@ -6181,7 +6192,7 @@ ironwoodcamp,鐵木營地,,,,,,,,,,,,,,,
 item,道具,,,,,,,,,,,,,,,
 item_amuletoflife,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>1，</nobr>自身”。,,,,,,,,,,,,,,,
 item_ancientdrill,在你進行近戰攻擊時，對你的整個攻擊行動附加<nobr>+2攻擊<sprite name=Attack></nobr>和<nobr>2穿透<sprite name=Pierce></nobr>。,,,,,,,,,,,,,,,
-item_balancedblade,當你使用技能卡上半部分的預設行動時，將<nobr>“攻擊<sprite name=Attack>2”</nobr>改為<nobr>“攻擊<sprite name=Attack>4”</nobr>。,,,,,,,,,,,,,,,
+item_balancedblade,當你使用能力卡上半部分的預設行動時，將<nobr>“攻擊<sprite name=Attack>2”</nobr>改為<nobr>“攻擊<sprite name=Attack>4”</nobr>。,,,,,,,,,,,,,,,
 item_battleaxe,在你對單個目標使用近戰攻擊時，將攻擊改為執行以下步驟：,,,,,,,,,,,,,,,
 item_blackcard_1,選擇一個相鄰的非精英或精英敵人。,,,,,,,,,,,,,,,
 item_blackcard_2,你對目標敵人的所有攻擊均獲得<nobr>+1攻擊<sprite name=Attack></nobr>。,,,,,,,,,,,,,,,
@@ -6192,8 +6203,8 @@ item_blinkingcape,在你的行動輪中，執行一次<nobr>“移動<sprite nam
 item_bloodyaxe,在你進行近戰攻擊時，損失2點生命值並對整個攻擊行動輪<nobr>+1攻擊<sprite name=Attack></nobr>。,,,,,,,,,,,,,,,
 item_bootsofdashing,在你執行移動行動時，對你的一次移動附加<nobr>+3移動力<sprite name=Move></nobr>。,,,,,,,,,,,,,,,
 item_bootsoflevitation,獲得飛行。,,,,,,,,,,,,,,,
-item_bootsofquickness,在一個回合開始時，當所有技能卡被揭示之後，你可以選擇讓你的時序值增加或者減少20點。,,,,,,,,,,,,,,,
-item_bootsofspeed,在一個回合開始時，當所有技能卡被揭示之後，你可以選擇讓你的時序值增加或者減少10點。,,,,,,,,,,,,,,,
+item_bootsofquickness,在一個回合開始時，當所有能力卡被揭示之後，你可以選擇讓你的時序值增加或者減少20點。,,,,,,,,,,,,,,,
+item_bootsofspeed,在一個回合開始時，當所有能力卡被揭示之後，你可以選擇讓你的時序值增加或者減少10點。,,,,,,,,,,,,,,,
 item_bootsofsprinting,在你執行移動行動時，對你的一次移動附加<nobr>+4移動力<sprite name=Move></nobr>。,,,,,,,,,,,,,,,
 item_bootsofstriding,在你執行移動行動時，對你的一次移動附加<nobr>+2移動力<sprite name=Move></nobr>。,,,,,,,,,,,,,,,
 item_brilliantblade,在你進行近戰攻擊時，<sprite name=ConsumeLight>並對你的單次攻擊附加<nobr>+2攻擊<sprite name=Attack></nobr>。,,,,,,,,,,,,,,,
@@ -6203,7 +6214,7 @@ item_circletofelements,在你的行動輪中，<sprite name=ConsumeAny>並生成
 item_cloakofinvisibility,在你的行動輪中，獲得<nobr>隱身<sprite name=Invisible>。</nobr>,,,,,,,,,,,,,,,
 item_cloakofphasing,獲得飛行。當處於障礙物格子時，你被視為<nobr>隱身<sprite name=Invisible></nobr>並且你無法攻擊。,,,,,,,,,,,,,,,
 item_cloakofpockets,你可以額外攜帶兩個<sprite name=InvSmallItem>道具。,,,,,,,,,,,,,,,
-item_comfortableshoes,當你使用技能卡下半部分的預設行動時，將<nobr>“移動<sprite name=Move>2”</nobr>改為<nobr>“移動<sprite name=Move>3”</nobr>。,,,,,,,,,,,,,,,
+item_comfortableshoes,當你使用能力卡下半部分的預設行動時，將<nobr>“移動<sprite name=Move>2”</nobr>改為<nobr>“移動<sprite name=Move>3”</nobr>。,,,,,,,,,,,,,,,
 item_crystalofzenith,在你的行動輪結束時，如果與無瑕者相鄰，你可以對其造成兩倍於團隊中傭兵數量的傷害。,,,,,,,,,,,,,,,
 item_curiousgear,在你的行動輪中，解除所有<nobr>射程範圍<sprite name=Range>2</nobr>以內的陷阱。,,,,,,,,,,,,,,,
 item_dampeningring,在你的行動輪中，消耗至多2個元素而不產生任何效果。,,,,,,,,,,,,,,,
@@ -6416,7 +6427,7 @@ item_scrollofpower,在一個盟友進行攻擊時，對其整個攻擊行動輪�
 item_scrollofstamina,在你的行動輪中，<nobr>範圍<sprite name=Range>5</nobr>以內的一名盟友可以<nobr>回收<sprite name=Recover></nobr>至多2張在其棄牌堆裡的卡牌。,,,,,,,,,,,,,,,
 item_secondchancering,在你的行動輪結束時，從手牌中打出兩張卡並按照新主導卡的時序值來進行一個額外的行動輪（新的時序值必須比你當前時序值高）,,,,,,,,,,,,,,,
 item_secondskin,移除你攻擊修正牌堆裡的2張-1卡。,,,,,,,,,,,,,,,
-item_serenesandals,當你使用技能卡下半部分的預設行動時，將<nobr>“移動<sprite name=Move>2”</nobr>改為<nobr>“移動<sprite name=Move>4”</nobr>。,,,,,,,,,,,,,,,
+item_serenesandals,當你使用能力卡下半部分的預設行動時，將<nobr>“移動<sprite name=Move>2”</nobr>改為<nobr>“移動<sprite name=Move>4”</nobr>。,,,,,,,,,,,,,,,
 item_shadowarmor,當敵人即將對你造成傷害時，取消該次傷害。,,,,,,,,,,,,,,,
 item_shoesofhappiness,若在你自己的行動輪中移動了6個或者更多格子，則獲得<sprite name=XP1>。,,,,,,,,,,,,,,,
 item_skullbaneaxe,在你對行屍，怨靈或骷髏進行近戰攻擊時，對你的單次攻擊附加<nobr>+5攻擊<sprite name=Attack></nobr>。,,,,,,,,,,,,,,,
@@ -6444,7 +6455,7 @@ item_towershield,當你因為攻擊而受到傷害時，對此次攻擊獲得<no
 item_tremorblade,在你進行近戰攻擊時，<sprite name=ConsumeEarth>並對你的單次攻擊附加<nobr>+2攻擊<sprite name=Attack></nobr>。,,,,,,,,,,,,,,,
 item_unstableexplosives_1,在你對單個目標使用近戰攻擊時，將攻擊改為執行以下步驟：,,,,,,,,,,,,,,,
 item_unstableexplosives_2,所有位於攻擊區域的盟友損失3點生命值。,,,,,,,,,,,,,,,
-item_versatiledagger,當你使用技能卡上半部分的預設行動時，將<nobr>“攻擊<sprite name=Attack>2”</nobr>改為<nobr>“攻擊<sprite name=Attack>3”</nobr>。,,,,,,,,,,,,,,,
+item_versatiledagger,當你使用能力卡上半部分的預設行動時，將<nobr>“攻擊<sprite name=Attack>2”</nobr>改為<nobr>“攻擊<sprite name=Attack>3”</nobr>。,,,,,,,,,,,,,,,
 item_volatilebomb,在你對單個目標使用遠距攻擊時，將攻擊改為執行以下步驟：,,,,,,,,,,,,,,,
 item_wallshield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>4</nobr>。,,,,,,,,,,,,,,,
 item_wandofbrilliance,在你的行動輪中，生成光元素。,,,,,,,,,,,,,,,
@@ -6548,11 +6559,11 @@ loading_tip_011,你可以通過長按Tab來查看相同類型的敵人們之間�
 loading_tip_012,你可以通過消耗元素來增強一個技能。在確認技能釋放之前，點擊元素選擇框使用對應元素。,,,,,,,,,,,,,,,
 loading_tip_013,當你打開一扇門時，準備好面對更多的敵人！,,,,,,,,,,,,,,,
 loading_tip_014,在出發前選擇好你的玩家團隊——一旦出發後，你將無法再更換團隊成員。,,,,,,,,,,,,,,,
-loading_tip_015,對於那些在公會模式中非常艱難的任務，你可以考慮先在寺廟中祈求祝福。,,,,,,,,,,,,,,,
-loading_tip_016,你有機會在公會模式的職業任務中遇到一個寶箱！在完成劇本目標前務必把寶箱撿起來！,,,,,,,,,,,,,,,
+loading_tip_015,對於那些在會長模式中非常艱難的任務，你可以考慮先在寺廟中祈求祝福。,,,,,,,,,,,,,,,
+loading_tip_016,你有機會在會長模式的職業任務中遇到一個寶箱！在完成劇本目標前務必把寶箱撿起來！,,,,,,,,,,,,,,,
 loading_tip_017,當裝備新物品時請注意——它們將會綁定到那個傭兵身上。如果你想換到其他人身上，則必須支付一些費用解綁。,,,,,,,,,,,,,,,
 loading_tip_018,你可以通過完成成就解鎖更多附魔類型，也可以通過探索地圖為每個傭兵解鎖更多的附魔槽。,,,,,,,,,,,,,,,
-loading_tip_019,公會模式的旅行和職業任務等級將會隨著遊戲的進行而改變。故事和聖者遺物任務往往更難！,,,,,,,,,,,,,,,
+loading_tip_019,會長模式的旅行和職業任務等級將會隨著遊戲的進行而改變。故事和聖者遺物任務往往更難！,,,,,,,,,,,,,,,
 loading_tip_020,不是所有通關劇本的方式都是消滅所有敵人——請務必檢查你的劇本目標。,,,,,,,,,,,,,,,
 loading_tip_021,召喚夥伴很有用，但它們往往比較莽撞 —— 若想讓它們活下來，就得幫它們吸引火力！,,,,,,,,,,,,,,,
 loading_tip_022,如果你不確定你將行動得過早還是過晚，請考慮挑選兩張不管行動早晚都能發揮效用的牌。,,,,,,,,,,,,,,,
@@ -6567,7 +6578,7 @@ loading_tip_030,流血<sprite name=Wound>使得單位在每一輪次開始時受
 loading_tip_031,禁足<sprite name=Immobilize>將使得單位不能進行任何移動技能，直到該單位下一輪次結束。,,,,,,,,,,,,,,,
 loading_tip_032,繳械<sprite name=Disarm> 將使得一個單位不能進行任何攻擊技能，直到下一輪次結束。,,,,,,,,,,,,,,,
 loading_tip_033,眩暈<sprite name=Stun>將阻止一個單位執行任何行動或使用道具，直到該單位下一輪次結束。,,,,,,,,,,,,,,,
-loading_tip_034,眩暈<sprite name=Stun>的角色仍然需要選擇本輪次的兩張技能卡，但會被直接棄牌。長休息將會如常進行。,,,,,,,,,,,,,,,
+loading_tip_034,眩暈<sprite name=Stun>的角色仍然需要選擇本輪次的兩張能力卡，但會被直接棄牌。長休息將會如常進行。,,,,,,,,,,,,,,,
 loading_tip_035,混亂<sprite name=Muddle>將使得單位一直處於劣勢攻擊，直到該單位下一輪次結束。,,,,,,,,,,,,,,,
 loading_tip_036,詛咒 <sprite name=Curse>將一張詛咒卡(x0)加入了目標的攻擊修正卡牌堆。當這張卡被抽到時，攻擊不造成傷害，同時詛咒卡被移除。,,,,,,,,,,,,,,,
 loading_tip_037,隱身<sprite name=Invisible>的單位不會被視為目標，敵人也不能以他為目標。在該單位下一輪次結束時，隱身狀態將自動移除。怪物們將隱身單位視為障礙物。,,,,,,,,,,,,,,,
@@ -6619,7 +6630,7 @@ message_complete_achievement_1_1_beasttyrantreachlevel2_3,他是個好人！,,,,
 message_complete_achievement_1_1_beasttyrantreachlevel2_4,作為回報，他們將會幫助我們對抗從甜水地擴散開的腐蝕。,,,,,,,,,,,,,,,
 message_complete_achievement_1_1_berserkerreachlevel2_1,我們得到消息稱監督者已經回到了黯淡港灣。,,,,,,,,,,,,,,,
 message_complete_achievement_1_1_berserkerreachlevel2_2,他很危險，並且他曾與狂戰士部落有過聯繫，所以我將讓她負責調查。你們需要找到並幹掉他。,,,,,,,,,,,,,,,
-message_complete_achievement_1_1_brutereachlevel2_1,一個老朋友聯繫蠻徒幫他做一筆商隊護衛的任務，去看看吧。,,,,,,,,,,,,,,,
+message_complete_achievement_1_1_brutereachlevel2_1,一個老朋友聯繫野蠻人幫他做一筆商隊護衛的任務，去看看吧。,,,,,,,,,,,,,,,
 message_complete_achievement_1_1_cragheartreachlevel2_1,到了裂心石人開始朝覲他們這片地區的神聖石人族聖地的時候了。風之神殿也在那裡。,,,,,,,,,,,,,,,
 message_complete_achievement_1_1_doomstalkerreachlevel2_1,末日行者遺憾地發現他在南盾村外的佈置在上次任務中被破壞了，他想把那些人揪出來。,,,,,,,,,,,,,,,
 message_complete_achievement_1_1_doomstalkerreachlevel2_2,城市守衛沒辦法搞定嗎？,,,,,,,,,,,,,,,
@@ -6696,10 +6707,10 @@ message_end_quest_story_2d_4,"你現在能看到的是<b>世界地圖</b>。你�
 ,,,,,,,,,,,,,,,
 壞消息是邊境已經充斥著各種討厭的怪物——強盜土匪，不死生物，邪教徒們，你懂的。好消息是你會幫我們恢復到達隱藏在迷霧中的其他定居點的道路。",,,,,,,,,,,,,,,
 message_end_quest_story_2d_5,在我們能幹點什麼之前，我們首先需要給公會雇點傭兵。讓我們從真正招募老窮鬼<b>蠻子</b>開始，他會……重新陷入些麻煩之中。,,,,,,,,,,,,,,,
-message_end_quest_story_3a_1,<b>蠻徒</b>肯定能吸收不少傷害，但跑的真不快，,,,,,,,,,,,,,,,
+message_end_quest_story_3a_1,<b>野蠻人</b>肯定能吸收不少傷害，但跑的真不快，,,,,,,,,,,,,,,,
 message_end_quest_story_3a_2,得到足夠的資金是讓我們的公會起飛的關鍵。你知道什麼人擅長……emm，撈錢麼？,,,,,,,,,,,,,,,
 message_end_quest_story_3a_3,我只知道這個女人——她也是一個在擋道者身上開洞的高手。她正在“解放”一些黃金，我們要搭把手麼？,,,,,,,,,,,,,,,
-message_end_quest_story_3b_1,作為一個公會，我們要做的第一件事情就是重建絞架嶺到西邊的貿易路線。我們有點小小的麻煩就是沿路林地中的強盜，但在蠻徒和凶徒的幫助下，這小菜一碟。,,,,,,,,,,,,,,,
+message_end_quest_story_3b_1,作為一個公會，我們要做的第一件事情就是重建絞架嶺到西邊的貿易路線。我們有點小小的麻煩就是沿路林地中的強盜，但在野蠻人和凶徒的幫助下，這小菜一碟。,,,,,,,,,,,,,,,
 message_end_quest_story_3b_2,它會給你這工作急需的一些經驗，並且在道路暢通後將一些新的<b>道具</b>放進倉庫中。走，讓我們敲碎這些強盜的腦殼！,,,,,,,,,,,,,,,
 message_end_quest_story_4a_1,是時候讓你瞭解一些魔法的基礎知識了。我知道一個<b>織魔師</b>能給你露兩手，我最後一次得知她的消息是她在絞架嶺附近的叢林中研究一些石陣。現在這地方這麼多怪物，我們得確保她的安全。,,,,,,,,,,,,,,,
 message_end_quest_story_5a_1,那是充斥著魔力的元素學校。也許我們能招募到一個高科技人才？我發誓那裡前不久有一個智元族<b>機匠</b>帶著一個能量核心或者其他造物在酒館裡閒逛。,,,,,,,,,,,,,,,
@@ -6738,7 +6749,7 @@ message_end_quest_story_7c_1,"現在，你已經結束了你的教學。你的�
 我們用你迄今為止獲得的所有錢為你整理了一套初始裝備，但你看中的其他裝備仍需要你花錢購買。",,,,,,,,,,,,,,,
 message_end_quest_story_7c_10,選擇你的團隊，武裝他們，然後你就準備好出發了。祝你好運，會長！,,,,,,,,,,,,,,,
 message_end_quest_story_7c_11,多人遊戲現已啟用。,,,,,,,,,,,,,,,
-message_end_quest_story_7c_2,"左側的面板是用於選擇團隊的陣容，並且在解鎖更多內容時自訂其技能卡和道具。現在你還可以在每個任務中帶上最多4個你自由選擇的傭兵。
+message_end_quest_story_7c_2,"左側的面板是用於選擇團隊的陣容，並且在解鎖更多內容時自訂其能力卡和道具。現在你還可以在每個任務中帶上最多4個你自由選擇的傭兵。
 ,,,,,,,,,,,,,,,
 但請注意，劇本的難度會隨著玩家角色的數量改變。除非你曾經玩過<b>黯淡港灣</b>，否則建議保持2個角色來確保決策的可控性！",,,,,,,,,,,,,,,
 message_end_quest_story_7c_3,當裝備道具時，注意裝備道具的傭兵將與其綁定。你可以付出一定代價來解綁，但請試著直接將其給予合適的傭兵。,,,,,,,,,,,,,,,
@@ -6814,7 +6825,7 @@ message_end_quest_story_elementalist_3_2,但他沒能回來吧？或者說他在
 message_end_quest_story_elementalist_3_3,看起來沒有。其外，我們發現傳送門旁邊的牆上刻著一些奇怪的符號。他們看起來有點類似音符？,,,,,,,,,,,,,,,
 message_end_quest_story_highcultist_1,在你離開後我們清掃了整個區域，結果了更多的一些邪教徒。 我們還發現了這個香爐，估計會很有用。,,,,,,,,,,,,,,,
 message_end_quest_story_highcultist_2,此外，高階邪教徒已經死了，感覺元素又重回平衡。幹的好。,,,,,,,,,,,,,,,
-message_end_quest_story_inoxbodyguard_1,我懷疑那可能就是我們最後一次見到羚牛族首領了，但蠻徒終於大仇得報。,,,,,,,,,,,,,,,
+message_end_quest_story_inoxbodyguard_1,我懷疑那可能就是我們最後一次見到羚牛族首領了，但野蠻人終於大仇得報。,,,,,,,,,,,,,,,
 message_end_quest_story_inoxbodyguard_2,我希望更多的人能帶著這些超強的斧頭！,,,,,,,,,,,,,,,
 message_end_quest_story_jekserah_1,召喚師告訴我，根據傑西拉的筆記，我們找回的書中有一個專為我們剛清理了的聖所寫出的咒語。,,,,,,,,,,,,,,,
 message_end_quest_story_jekserah_2,傑西拉知道召喚師肯定會對此感興趣。看起來她在利用我們給她做黑活……,,,,,,,,,,,,,,,
@@ -8741,7 +8752,7 @@ quest_campaign_076_outro_gh_1,然而，當你回到黯淡港灣，來到當初�
 quest_campaign_076_outro_gh_2,你問遍了睡獅酒館裡的所有的人，奇怪的是似乎沒有任何人記得曾經見過這個老頭。,,,,,,,,,,,,,,,
 quest_campaign_076_outro_gh_3,經過幾個小時的尋找，你們開始懷疑整件事情說不定都是一場夢而已。但那些巢靈族確實存在，這一點是毋庸置疑的。,,,,,,,,,,,,,,,
 quest_campaign_076_outro_gh_4,也許那個老混蛋只是不想付你們工錢而逃之夭夭。你們做的這麼辛苦，到頭來卻是一場空，那個老混蛋最好不要再次出現在你們面前。,,,,,,,,,,,,,,,
-quest_campaign_076_scenario_modifier_1,所有角色在場景開始前先棄掉三張技能卡，作為場景效果。,,,,,,,,,,,,,,,
+quest_campaign_076_scenario_modifier_1,所有角色在場景開始前先棄掉三張能力卡，作為場景效果。,,,,,,,,,,,,,,,
 quest_campaign_076_scenario_modifier_2,"當一面牆被摧毀時，所有與該牆相鄰的敵人會被陷入擊暈狀態<sprite name=""Stun"">",,,,,,,,,,,,,,,
 quest_campaign_077_desc,阻止守夜人調查災變,,,,,,,,,,,,,,,
 quest_campaign_077_intro,"在你們出發之前，多明尼克警告你們，說守夜人組織的安保設施遠比這座城市的其他任何地方都更為先進。警報聲一旦響起，所有的出口都將關閉，然後你們會被趕來的無數守衛所淹沒，直到被無情地殺死。
@@ -9153,7 +9164,7 @@ quest_relic_remotespider_intro,你們在黃銅綠洲上遇到了斯甘威，他�
 quest_relic_remotespider_list,幫助斯甘威擊敗一些野蠻的鼠人族,,,,,,,,,,,,,,,
 quest_relic_remotespider_name,進入蝮蛇坑洞,,,,,,,,,,,,,,,
 quest_relic_remotespider_unlock_1,你們已經使用很多次毒藥了，所以我想找一個能讓你用得上專業知識的物品。,,,,,,,,,,,,,,,
-quest_relic_remotespider_unlock_2,一個蠻徒的老盟友說他可以幫忙。斯甘威，告訴他們你和我說的那些東西。,,,,,,,,,,,,,,,
+quest_relic_remotespider_unlock_2,一個野蠻人的老盟友說他可以幫忙。斯甘威，告訴他們你和我說的那些東西。,,,,,,,,,,,,,,,
 quest_relic_remotespider_unlock_3,我知道一組和蛇共處的野生鼠人族…骯髒的生物。他們想搞到一個老舊的機匠設備並在其中灌注蛇毒。,,,,,,,,,,,,,,,
 quest_relic_remotespider_unlock_4,不幸的是，他們一直在騷擾我的部族。如果你們幫我追蹤他們，你就能搞到這玩意。,,,,,,,,,,,,,,,
 quest_relic_resonantcrystal_desc,奇怪的地下衝擊一直困擾著絞架嶺，因為一顆星落到了地球，去調查了！,,,,,,,,,,,,,,,
@@ -9233,10 +9244,10 @@ quest_relic_steelring_name,區區一戒指,,,,,,,,,,,,,,,
 quest_relic_steelring_unlock_1,我看到你們已經學會了處理疼痛，所以我覺得你們已經可以接受一個更加危險的任務了。,,,,,,,,,,,,,,,
 quest_relic_steelring_unlock_2,在石板城下方的詛咒墓穴中隱藏著一枚保護之戒，它可以有效幫上我們的任務，但是你需要多加小心。,,,,,,,,,,,,,,,
 quest_relic_steelring_unlock_3,那裡不僅有邪教徒們和不死族，墓穴本身就會損害你的健康。記得帶上額外的治療藥品！,,,,,,,,,,,,,,,
-quest_story_3a_desc,蠻徒發現自己再次陷入了危險的處境，把他平安帶出來，他肯定會加入公會的。,,,,,,,,,,,,,,,
-quest_story_3a_intro,教官讓你前往魔門鎮墓地，在剛進門的地方你發現了一座陵墓。你走入陵墓，在黑暗中沿著一條滿是破碎骨頭的道路前行，隨後你聽到了深處傳來的打鬥聲。在一個房間裡你發現了受傷的蠻徒正獨自面對一群不死族。,,,,,,,,,,,,,,,
-quest_story_3a_list,將蠻徒招募至公會,,,,,,,,,,,,,,,
-quest_story_3a_name,我是蠻徒,,,,,,,,,,,,,,,
+quest_story_3a_desc,野蠻人發現自己再次陷入了危險的處境，把他平安帶出來，他肯定會加入公會的。,,,,,,,,,,,,,,,
+quest_story_3a_intro,教官讓你前往魔門鎮墓地，在剛進門的地方你發現了一座陵墓。你走入陵墓，在黑暗中沿著一條滿是破碎骨頭的道路前行，隨後你聽到了深處傳來的打鬥聲。在一個房間裡你發現了受傷的野蠻人正獨自面對一群不死族。,,,,,,,,,,,,,,,
+quest_story_3a_list,將野蠻人招募至公會,,,,,,,,,,,,,,,
+quest_story_3a_name,我是野蠻人,,,,,,,,,,,,,,,
 quest_story_3b_desc,教官給你標記出了第二個潛在夥伴的位置。,,,,,,,,,,,,,,,
 quest_story_3b_intro,教官給你標記出小鎮郊區的一處地穴廢墟，那裡強盜們屍橫遍野，很多屍體上還插著武器。很明顯他們在發現攻擊者之前就被消滅了。,,,,,,,,,,,,,,,
 quest_story_3b_list,將凶徒招募至公會,,,,,,,,,,,,,,,
@@ -9299,7 +9310,7 @@ quest_story_brute_1_desc,薩默特地區周圍的道路還是經常被叢林裡�
 quest_story_brute_1_intro,有些人認為你與鼠人族的友誼有一點點奇怪，但是你從小就瞭解司卡波威特。作為一個遊歷全國的大商人，他不是最誠實的那一個，但他總能在你們部落的香料和護衛生意中大賺一筆。今天你要和他一起再去一次荒涼海岸。雖然自從你們重新開闢了道路，減少了野生鼠人族襲擊，對他來說這仍然不安全。旅途的大部分時間都是安然無事，你聽到森林裡傳來了嚎叫聲，當你們正在談論過去的時光。獵犬...但是誰或什麼東西把它們趕到路邊的?,,,,,,,,,,,,,,,
 quest_story_brute_1_list,和一個老朋友在薩默特地區附近進行日常的守衛巡邏工作。,,,,,,,,,,,,,,,
 quest_story_brute_1_name,老夥計們,,,,,,,,,,,,,,,
-quest_story_brute_1_reward,解鎖蠻徒故事線任務,,,,,,,,,,,,,,,
+quest_story_brute_1_reward,解鎖野蠻人故事線任務,,,,,,,,,,,,,,,
 quest_story_brute_2_desc,斯甘威一直忙於搜尋有關羚牛族叛徒的資訊，在黃銅綠洲附近的營地與他見面。,,,,,,,,,,,,,,,
 quest_story_brute_2_intro,你抵達了鼠人族村莊，在篝火旁遇到了斯甘威。他向你招了招手，並表示他的鼠人族哨兵在鷹山頂北部發現一群羚牛族入侵者正在集結，他們身上的標記和襲擊你的人一樣。他還沒來得及告訴你更多細節，號角就被吹響了：村莊正在遭受攻擊。看起來他的調查反而讓羚牛族找到了他的營地！,,,,,,,,,,,,,,,
 quest_story_brute_2_list,斯甘威持有關於羚牛族叛徒的資訊,,,,,,,,,,,,,,,
@@ -9671,9 +9682,9 @@ quest_travel_silverwick_desc,銀燈芯基地的採礦村曾是來自東部山脈
 quest_travel_silverwick_intro,幾個來自魔門鎮的商人請求你調查為什麼最近銀燈芯基地停止了貿易。當你離開黑石瘋人院的時候，你看到惡魔入侵的證據到處都是：一片片被燒毀的土地或被大地上撕裂的裂縫。在路上，你發現了一輛滿載著銀礦的馬車。馬車的兩側被燒焦了，周圍躺著燒焦的屍體。顯然，這就是沒有交易者通過的原因了。從你能所知的跡象來看，燒過的痕跡通向附近的一片樹林，於是你朝那個方向去調查。,,,,,,,,,,,,,,,
 quest_travel_silverwick_list,銀燈芯基地已經幾個月沒有傳來消息了,,,,,,,,,,,,,,,
 quest_travel_silverwick_name,滅火器,,,,,,,,,,,,,,,
-quest_travel_southshield_desc,在把鼠人族從薩默特地區趕走後，他們加入了的南部的羚牛族部落，並阻止任何商隊進入南盾村。蠻徒想維持這個地區的和平。,,,,,,,,,,,,,,,
-quest_travel_southshield_intro,有蠻徒在前面帶路，你把薩默特地區的景象和氣息留在身後，走出南門。當代表安全的城牆漸漸遠去，你瞥見一些影子在你左邊的森林邊緣追蹤著你。第二天，你發現森林一直延伸到海岸邊緣，你別無選擇，只能冒險進入。當天色漸暗，你準備搭起帳篷過夜時，你敏銳地意識到襲擊迫在眉睫…,,,,,,,,,,,,,,,
-quest_travel_southshield_list,幫助蠻徒打破鼠人族和羚牛族在南盾村附近建立的危險聯盟,,,,,,,,,,,,,,,
+quest_travel_southshield_desc,在把鼠人族從薩默特地區趕走後，他們加入了的南部的羚牛族部落，並阻止任何商隊進入南盾村。野蠻人想維持這個地區的和平。,,,,,,,,,,,,,,,
+quest_travel_southshield_intro,有野蠻人在前面帶路，你把薩默特地區的景象和氣息留在身後，走出南門。當代表安全的城牆漸漸遠去，你瞥見一些影子在你左邊的森林邊緣追蹤著你。第二天，你發現森林一直延伸到海岸邊緣，你別無選擇，只能冒險進入。當天色漸暗，你準備搭起帳篷過夜時，你敏銳地意識到襲擊迫在眉睫…,,,,,,,,,,,,,,,
+quest_travel_southshield_list,幫助野蠻人打破鼠人族和羚牛族在南盾村附近建立的危險聯盟,,,,,,,,,,,,,,,
 quest_travel_southshield_name,難以置信的聯盟,,,,,,,,,,,,,,,
 quest_travel_spitepeak_desc,你知道石人族領袖躲在惡意峰。是時候幹掉他們了。,,,,,,,,,,,,,,,
 quest_travel_spitepeak_intro,在重建家園的過程中，你離開了落石村的聚居地。多虧你及時趕到，才阻止了這場大規模屠殺。你幾乎就快要看到遠處的惡意峰，一個被毀了部分的塔，它曾經是許多強大的法師的家，似乎法師們現在又住了回去。關於魔法陷阱和送客法術的謠言滿天飛，這意味著在法師內鬥把塔頂掀掉後，這座塔並沒有被修好。當你走近高塔時，你發現上面的窗戶上飄浮著奇怪的五彩燈光，但沒有人出來迎接你。看起來你得冒險進去…,,,,,,,,,,,,,,,
@@ -10710,8 +10721,8 @@ scenario_job_twotribes_success_1,叢林的地面上散落著屍體，但你勝�
 scenario_job_vermling_cave_sm1_desc,所有敵人的攻擊都附帶中毒和流血,,,,,,,,,,,,,,,
 scenario_job_vermling_cave_sm2_desc,所有敵人開始時處於中毒和流血狀態,,,,,,,,,,,,,,,
 scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附近的地穴,,,,,,,,,,,,,,,
-scenario_puzzle_2a_01,"歡迎來到你的第一場訓練關！你已經學會了基礎操作，現在你必須幫助重傷的<color=#A06E4B><b>蠻徒</b></color>解決這個<color=#C53F3F><b>強盜弓箭手<link=""Glossary_Elite"">精英</link></b></color>，這可是比普通級別的敵人強得多的對手，當心點！",,,,,,,,,,,,,,,
-scenario_puzzle_2a_02,"蠻徒只剩最後一點生命值了，哪怕是一點傷害都會讓他<b><color=#FADC99><link=""Glossary_Exhausted"">筋疲力盡</link></color></b>。因此，接下來你需要通過<b><color=#FADC99><link=""Glossary_Lost"">移除</link></color></b>一張手牌的方式來避免一次任意傷害。
+scenario_puzzle_2a_01,"歡迎來到你的第一場訓練關！你已經學會了基礎操作，現在你必須幫助重傷的<color=#A06E4B><b>野蠻人</b></color>解決這個<color=#C53F3F><b>強盜弓箭手<link=""Glossary_Elite"">精英</link></b></color>，這可是比普通級別的敵人強得多的對手，當心點！",,,,,,,,,,,,,,,
+scenario_puzzle_2a_02,"野蠻人只剩最後一點生命值了，哪怕是一點傷害都會讓他<b><color=#FADC99><link=""Glossary_Exhausted"">筋疲力盡</link></color></b>。因此，接下來你需要通過<b><color=#FADC99><link=""Glossary_Lost"">移除</link></color></b>一張手牌的方式來避免一次任意傷害。
 ,,,,,,,,,,,,,,,
 （在訓練關中，攻擊修正卡池全部被設置成<b><color=#FFA414> +0 </color></b>，所以暫時不用考慮它們。）",,,,,,,,,,,,,,,
 scenario_puzzle_2a_03,"你本輪的目標為：
@@ -10720,8 +10731,8 @@ scenario_puzzle_2a_03,"你本輪的目標為：
 → <link=""Glossary_Loot""><b><color=#FADC99>拾取</color></b><sprite name=Loot></link>她掉落的金幣
 <line-height=20%>
 </line-height>相信你能夠完成任務！",,,,,,,,,,,,,,,
-scenario_puzzle_2a_04,"當心！<b><color=#A06E4B>蠻徒</color></b>只剩下最後一點生命值了，意味著你無法承擔更多傷害…再試一次吧，但是這次要選擇<b><color=#FADC99><link=""Glossary_Lost"">移除</link></color></b>一張手牌來避免傷害。",,,,,,,,,,,,,,,
-scenario_puzzle_2a_05,"能夠活下來倒是還算不錯，但你的目標是殺死<nobr><color=#C53F3F>強盜弓箭手<link=""Glossary_Elite"">精英</link></color></nobr>。或許你手牌裡有張帶有<nobr><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color><sprite name=Attack></nobr>的技能卡可以一次性造成足夠的傷害？再試一次吧。",,,,,,,,,,,,,,,
+scenario_puzzle_2a_04,"當心！<b><color=#A06E4B>野蠻人</color></b>只剩下最後一點生命值了，意味著你無法承擔更多傷害…再試一次吧，但是這次要選擇<b><color=#FADC99><link=""Glossary_Lost"">移除</link></color></b>一張手牌來避免傷害。",,,,,,,,,,,,,,,
+scenario_puzzle_2a_05,"能夠活下來倒是還算不錯，但你的目標是殺死<nobr><color=#C53F3F>強盜弓箭手<link=""Glossary_Elite"">精英</link></color></nobr>。或許你手牌裡有張帶有<nobr><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color><sprite name=Attack></nobr>的能力卡可以一次性造成足夠的傷害？再試一次吧。",,,,,,,,,,,,,,,
 scenario_puzzle_2a_06,"嘣！<b><font=""MarcellusAlt SDF""><color=#F5E3B0>力劈華山</color></font></b>是一張強力卡牌，但是強大的力量總是伴隨著代價。和<b><font=""MarcellusAlt SDF""><color=#F5E3B0>力劈華山</color></font></b>的上半部分類似，行動描述右下角包含燃燒符號的<b><color=#FADC99><link=""Glossary_Action"">行動</link></color></b>在使用過後會將卡片<b><color=#FADC99><link=""Glossary_Lost"">移除</link></color></b>，這意味著在這個劇本中你無法再次使用這張卡。現在，該撿起那些金幣了！",,,,,,,,,,,,,,,
 scenario_puzzle_2a_07,"做的不錯。隨著敵人被消滅乾淨並且目標也已經完成，劇本一般就到此結束了，那個寶箱會被留在這裡。但是在訓練關中，我會給你一個新的目標：<b><color=#FADC99><link=""Glossary_Loot"">拾取</link></color></b>那個寶箱！",,,,,,,,,,,,,,,
 scenario_puzzle_2a_08,"在一頭栽進那個陷阱之前，你可能想先得到一些恢復。我建議你進行一個<b><color=#FADC99>長休息</color></b>，這會讓你執行一個<b>“<color=#FADC99><link=""Glossary_Heal""> 治療</link></color></b><b> 2 ”</b>的技能並且回收足夠多的棄牌堆的卡牌，足以讓你承擔陷阱的<b>2</b>點傷害並且接近寶箱。",,,,,,,,,,,,,,,
@@ -10729,7 +10740,7 @@ scenario_puzzle_2a_09,噢！看著就很疼！<color=#FADC99><b>短休息</b></c
 scenario_puzzle_2a_10,"那<b><color=#FADC99><link=""Glossary_Loot"">拾取</link></color></b>寶箱的事就不管了？雖然聽上去很疼，但是下次你必須得踩上陷阱才能到達寶箱。",,,,,,,,,,,,,,,
 scenario_puzzle_2a_11,"喔，那雙<font=""MarcellusAlt SDF""><b><color=#F8F8F8>闊步靴</color></b></font>在你需要一些額外移動力的時候就能夠派上用場了。好了，現在前往下一場訓練吧！",,,,,,,,,,,,,,,
 scenario_puzzle_2a_12,不貪財的傭兵不是好傭兵；在你有機會的時候最好站在金幣上結束你的回合！,,,,,,,,,,,,,,,
-scenario_puzzle_2a_13,"在你殺死<b><color=#C53F3F>弓箭手</color></b>後，你需要移動到金幣上來<b><color=#FADC99><link=""Glossary_Loot"">拾取</link></color></b><sprite name=Loot>它。或許你手牌裡有張帶有<b><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color></b><sprite name=Attack>的技能卡可以一次性造成足夠的傷害？再試一次吧。",,,,,,,,,,,,,,,
+scenario_puzzle_2a_13,"在你殺死<b><color=#C53F3F>弓箭手</color></b>後，你需要移動到金幣上來<b><color=#FADC99><link=""Glossary_Loot"">拾取</link></color></b><sprite name=Loot>它。或許你手牌裡有張帶有<b><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color></b><sprite name=Attack>的能力卡可以一次性造成足夠的傷害？再試一次吧。",,,,,,,,,,,,,,,
 scenario_puzzle_2a_ht_01,移除一張手牌以避免傷害,,,,,,,,,,,,,,,
 scenario_puzzle_2a_ht_02,選擇一張棄牌堆裡的卡牌將其移除,,,,,,,,,,,,,,,
 scenario_puzzle_2a_ht_03,移動到陷阱上並承受傷害,,,,,,,,,,,,,,,
@@ -10753,21 +10764,21 @@ scenario_puzzle_2b_05,"你第一個回合的目標為：
 </line-height>祝你好運！",,,,,,,,,,,,,,,
 scenario_puzzle_2b_06,她非常敏捷還是遠距攻擊，你需要快速行動來接近她 ——別忘了用上靴子！,,,,,,,,,,,,,,,
 scenario_puzzle_2b_07,"這裡的關鍵是越過那些陷阱，因此你需要利用帶有<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b><sprite name=Jump></link>效果的<link=""Glossary_Move""><b><color=#FADC99>移動</color></b><sprite name=Move></link>來避免傷害。",,,,,,,,,,,,,,,
-scenario_puzzle_2b_08,"你做到了！你不僅是造成了可觀的傷害，更得益於你用<b><font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷</color></font></b>施加的<link=""Glossary_Disarm""><b><color=#FADC99>繳械</color></b><sprite name=Disarm></link>狀態，使得<b><color=#C53F3F>弓箭手</color></b>在她的行動輪中無法進行攻擊。",,,,,,,,,,,,,,,
+scenario_puzzle_2b_08,"你做到了！你不僅是造成了可觀的傷害，更得益於你用<b><font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷戰吼</color></font></b>施加的<link=""Glossary_Disarm""><b><color=#FADC99>繳械</color></b><sprite name=Disarm></link>狀態，使得<b><color=#C53F3F>弓箭手</color></b>在她的行動輪中無法進行攻擊。",,,,,,,,,,,,,,,
 scenario_puzzle_2b_09,"現在她的生命值不多了，你應該能夠給她致命一擊。你本輪的目標為：
 <line-height=20%>
 </line-height>→ 殺死<b><color=#C53F3F>弓箭手</color></b>
 → 跳過陷阱並<link=""Glossary_Loot""><b><color=#FADC99>拾取</color></b></link>寶箱
 <line-height=20%>
 </line-height>我希望你能在本回合中完成上面這兩個目標！",,,,,,,,,,,,,,,
-scenario_puzzle_2b_11,如果你想在本輪中比<b><color=#C53F3F>弓箭手</color></b>更早行動，那麼你需要確保你選擇的第一張技能卡具有較低的時序值。,,,,,,,,,,,,,,,
+scenario_puzzle_2b_11,如果你想在本輪中比<b><color=#C53F3F>弓箭手</color></b>更早行動，那麼你需要確保你選擇的第一張能力卡具有較低的時序值。,,,,,,,,,,,,,,,
 scenario_puzzle_2b_12,"我想我曾和你說過要<link=""Glossary_Loot""><b><color=#FADC99>拾取</color></b><sprite name=Loot></link>那個寶箱吧？我相信只要你能夠做出更明智的選擇，你是可以在本回合中完成兩個目標的。",,,,,,,,,,,,,,,
 scenario_puzzle_2b_13,"已經累到不能再次<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b><sprite name=Jump></link>了嗎？也許你需要儘快進行一次<link=""Glossary_Rest""><b><color=#FADC99>休息</color></b></link>一下…為了拿回你的手牌，就像以前那樣，對嗎？",,,,,,,,,,,,,,,
 scenario_puzzle_2b_14,"休息、攻擊、<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b></link>、拾取寶箱，幹得漂亮！下一關中那瓶藥劑肯定能夠派上用場。",,,,,,,,,,,,,,,
 scenario_puzzle_2b_15,"別忘了，在執行一個<link=""Glossary_Move""><b><color=#FADC99>移動</color></b><sprite name=Move></link>技能的過程中，你可以使用像是<b><font=""MarcellusAlt SDF""><color=#F8F8F8>闊步靴</color></font></b>這樣的<b>道具</b>來提升你的移動範圍。",,,,,,,,,,,,,,,
 scenario_puzzle_2b_16,"別忘了<link=""Glossary_Short Rest""><b><color=#FADC99>短休息</color></b></link>允許你回收棄牌堆的卡牌，並且在你即將進行的行動輪中就可以投入使用。
 ,,,,,,,,,,,,,,,
-但是<link=""Glossary_Long Rest""><b><color=#FADC99>長休息</color></b></link>作為選擇兩張技能卡的替代，需要消耗整個行動輪(你依然可以做一些常規的事情例如使用道具)，並且為該角色提供99的時序值。也就是說，無法在本回合幫你取得勝利！",,,,,,,,,,,,,,,
+但是<link=""Glossary_Long Rest""><b><color=#FADC99>長休息</color></b></link>作為選擇兩張能力卡的替代，需要消耗整個行動輪(你依然可以做一些常規的事情例如使用道具)，並且為該角色提供99的時序值。也就是說，無法在本回合幫你取得勝利！",,,,,,,,,,,,,,,
 scenario_puzzle_2b_obj_01,跳躍通過這些陷阱並且在弓箭手執行攻擊前對其施加繳械狀態,,,,,,,,,,,,,,,
 scenario_puzzle_2b_obj_02,在本回合中殺死弓箭手,,,,,,,,,,,,,,,
 scenario_puzzle_2b_obj_03,跳躍通過陷阱並且拾取寶箱,,,,,,,,,,,,,,,
@@ -10778,7 +10789,7 @@ scenario_puzzle_2c_02,"這次你的目標非常簡單：
 <line-height=20%>
 </line-height>
 如果敵人造成了任何一點傷害你就必須重新來過！",,,,,,,,,,,,,,,
-scenario_puzzle_2c_03,你需要打開<b><color=#A06E4B>蠻徒</color></b>面前的這扇門來離開這個房間，但是別忘了下一個房間裡的敵人也會在本回合中執行行動。,,,,,,,,,,,,,,,
+scenario_puzzle_2c_03,你需要打開<b><color=#A06E4B>野蠻人</color></b>面前的這扇門來離開這個房間，但是別忘了下一個房間裡的敵人也會在本回合中執行行動。,,,,,,,,,,,,,,,
 scenario_puzzle_2c_04,你問我有什麼建議？儘快採取動作，觀察敵人準備執行什麼行動。我預設了一個安全的位置可以讓你脫離所有敵人的攻擊範圍。現在，讓我看看你能否存活下來！,,,,,,,,,,,,,,,
 scenario_puzzle_2c_05,"看上去<b><color=#C53F3F>弓箭手</color></b>抓到你了。你需要儘快移動並且脫離她的<link=""Glossary_Range""><b><color=#FADC99>射程</color></b><sprite name=Range></link>，別忘了在她的行動揭示後立刻把滑鼠懸停在她的身上來進行查看。再試一次吧。",,,,,,,,,,,,,,,
 scenario_puzzle_2c_06,別忘了在當前行動輪結束以後，新揭示的敵人也會按照行動輪順位進行行動。現在，找到我說的那個安全位置吧…,,,,,,,,,,,,,,,
@@ -10789,7 +10800,7 @@ scenario_puzzle_2c_10,你可以通過去到這個房間裡更深的地方來脫�
 scenario_puzzle_2c_11,你避開了<b><color=#C53F3F>弓箭手</color></b>的追擊，幹得漂亮！,,,,,,,,,,,,,,,
 scenario_puzzle_2c_12,但是你沒有避開這個<b><color=#C53F3F>衛兵</color></b>，這就表現不太好了…我猜或許有辦法阻止他的攻擊？,,,,,,,,,,,,,,,
 scenario_puzzle_2c_13,精彩絕倫！你表現得越來越專業了！,,,,,,,,,,,,,,,
-scenario_puzzle_2c_14,"那個<link=""Glossary_Disarm""><b><color=#FADC99>繳械</color></b></link>怎麼樣？真是一個相當不錯的狀態效果，對吧？並且還有很低的<b> 10 </b>時序值，使得<font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷</color></font>成為一張非常靈活的卡牌來回避一些小規模摩擦。",,,,,,,,,,,,,,,
+scenario_puzzle_2c_14,"那個<link=""Glossary_Disarm""><b><color=#FADC99>繳械</color></b></link>怎麼樣？真是一個相當不錯的狀態效果，對吧？並且還有很低的<b> 10 </b>時序值，使得<font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷戰吼</color></font>成為一張非常靈活的卡牌來回避一些小規模摩擦。",,,,,,,,,,,,,,,
 scenario_puzzle_2c_15,接下來是最後一場訓練，完成後你就已經準備就緒，可以去探索世界並為我們的公會招募傭兵了！,,,,,,,,,,,,,,,
 scenario_puzzle_2c_16,你受到了攻擊！注意敵人這一輪的移動範圍。你需要避開所有敵人！,,,,,,,,,,,,,,,
 scenario_puzzle_2c_obj_1,在2個回合內不要受到任何攻擊,,,,,,,,,,,,,,,
@@ -10801,7 +10812,7 @@ scenario_puzzle_2d_03,"在本場訓練關中，<b><color=#C53F3F>弓箭手</colo
 scenario_puzzle_2d_04,"<link=""Glossary_Range"">遠程</link><link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>在攻擊一個相鄰格子裡的目標時會處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>。這會導致攻擊方抽取兩張攻擊修正卡牌而不是抽一張，然後採用更差的那張。
 ,,,,,,,,,,,,,,,
 因為這些<b><color=#C53F3F>弓箭手</color></b>只剩兩張攻擊修正卡牌了，如果他們攻擊時處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態，他們會把兩張都抽出來並且被迫選擇<b><color=#A050E0> x0 </color></b>而不是<b><color=#D92727> x2 </color></b>作為較差的結果來進行結算，也就是說造成0點傷害！當你在生命條旁邊看到閃爍的紫色符號時<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態就會生效。",,,,,,,,,,,,,,,
-scenario_puzzle_2d_05,"現在你只能讓一名<b><color=#C53F3F>弓箭手</color></b>處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態，所以你還需要用遠距攻擊把另一個殺死。這應該不難，因為我在<b><color=#A06E4B>蠻徒</color></b>的攻擊修正卡池裡面塞滿了<b><color=#FFA414> +1 </color></b>攻擊修正卡牌。
+scenario_puzzle_2d_05,"現在你只能讓一名<b><color=#C53F3F>弓箭手</color></b>處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態，所以你還需要用遠距攻擊把另一個殺死。這應該不難，因為我在<b><color=#A06E4B>野蠻人</color></b>的攻擊修正卡池裡面塞滿了<b><color=#FFA414> +1 </color></b>攻擊修正卡牌。
 ,,,,,,,,,,,,,,,
 你的目標為：
 <line-height=20%>
@@ -10822,25 +10833,25 @@ scenario_puzzle_2d_14,你已經完成了基礎訓練關卡——是時候給你�
 scenario_puzzle_2d_obj_01,站在一個弓箭手旁邊並且殺死另一個,,,,,,,,,,,,,,,
 scenario_puzzle_2d_obj_02,殺死剩餘的弓箭手,,,,,,,,,,,,,,,
 scenario_puzzle_2d_obj_03,在本回合中拾取寶箱,,,,,,,,,,,,,,,
-scenario_puzzle_3a_01,"讓我們來仔細看看每個角色分別能夠做些什麼。在這個劇本中，<b>蠻徒</b>要面對兩個<b> 1 </b>級的<b>骷髏精英</b> —意味著它們的屬性相比<b> 0 </b>級時更高一些。
+scenario_puzzle_3a_01,"讓我們來仔細看看每個角色分別能夠做些什麼。在這個劇本中，<b>野蠻人</b>要面對兩個<b> 1 </b>級的<b>骷髏精英</b> —意味著它們的屬性相比<b> 0 </b>級時更高一些。
 ,,,,,,,,,,,,,,,
-在回合開始時你看到的揭露出來的“怪物技能卡”由那個怪物的種類和從對應種類的怪物技能牌堆中抽出的基本技能卡共同決定。因此，有時候它們能夠移動的更遠或者獲得更高的攻擊力，更別說這兩個骷髏還是<link=""Glossary_Elite""><b>精英</b></link>級別的了！",,,,,,,,,,,,,,,
+在回合開始時你看到的揭露出來的“怪物能力卡”由那個怪物的種類和從對應種類的怪物技能牌堆中抽出的基本能力卡共同決定。因此，有時候它們能夠移動的更遠或者獲得更高的攻擊力，更別說這兩個骷髏還是<link=""Glossary_Elite""><b>精英</b></link>級別的了！",,,,,,,,,,,,,,,
 scenario_puzzle_3a_02,"注意它們有一個先天的<b><link=""Glossary_Shield"">護盾</link></b><b> 1 </b>效果，用<sprite name=Shield>圖示來顯示。每一點<b><link=""Glossary_Shield"">護盾</link></b>效果可以阻擋一點來自於<b><link=""Glossary_Attack"">攻擊</link></b>的傷害。
 ,,,,,,,,,,,,,,,
 然而，當使用帶有<b><link=""Glossary_Pierce"">穿透</link></b><sprite name=Pierce>效果的<b><link=""Glossary_Attack"">攻擊</link></b>時可以忽略<b><link=""Glossary_Shield"">護盾</link></b>的部分效果。",,,,,,,,,,,,,,,
 scenario_puzzle_3a_04,"嗯…我得到了一些可靠情報，在這個回合中這些<b>骷髏</b>將進行不止一次攻擊。然而你的牌不多了，無法承擔移除更多卡牌的代價，所以這時候要想活下去，你需要給自己啟動一些<b><link=""Glossary_Shield"">護盾</link></b>。
 ,,,,,,,,,,,,,,,
 順便說一下，雖然這些敵人的<b><link=""Glossary_Shield"">護盾</link></b>是先天的持續效果，平時像是<b><link=""Glossary_Shield"">護盾</link></b>這樣的<b>啟動獎勵</b>都會伴隨著一個<link=""Glossary_Round""><b>回合</b></link><sprite name=Round>或是<link=""Glossary_Persistent""><b>持續</b></link><sprite name=Persistent>圖示。",,,,,,,,,,,,,,,
-scenario_puzzle_3a_05,"看到了嗎？<b>骷髏</b>的技能卡可以讓它們多次指定同一個敵人為<b><link=""Glossary_Target"">目標</link></b><sprite name=Target>，不必去以不同敵人為目標。你需要用一些<b><link=""Glossary_Shield"">護盾</link></b>來阻擋傷害。",,,,,,,,,,,,,,,
+scenario_puzzle_3a_05,"看到了嗎？<b>骷髏</b>的能力卡可以讓它們多次指定同一個敵人為<b><link=""Glossary_Target"">目標</link></b><sprite name=Target>，不必去以不同敵人為目標。你需要用一些<b><link=""Glossary_Shield"">護盾</link></b>來阻擋傷害。",,,,,,,,,,,,,,,
 scenario_puzzle_3a_06,"下次別忘了在你的行動輪中使用<b><font=""MarcellusAlt SDF""><color=#F8F8F8>次級治療藥水</color></font></b>！",,,,,,,,,,,,,,,
 scenario_puzzle_3a_07,這個時候逃跑可不能幫助你取得勝利。給我回來砸碎這堆骨頭！,,,,,,,,,,,,,,,
 scenario_puzzle_3a_08,"你確實殺死了一些<b>骷髏</b>，但是如果你移除了卡牌，下個回合就沒有足夠的牌可以用了。別忘了使用藥水和<b><link=""Glossary_Shield"">護盾</link></b>技能。",,,,,,,,,,,,,,,
-scenario_puzzle_3a_09,"哇哦，那可真是猛烈地攻擊！還好，你的<b><link=""Glossary_Shield"">護盾</link></b>幫你阻擋了足夠多的傷害，所以<b>蠻徒</b>還活著。真是驚險！",,,,,,,,,,,,,,,
+scenario_puzzle_3a_09,"哇哦，那可真是猛烈地攻擊！還好，你的<b><link=""Glossary_Shield"">護盾</link></b>幫你阻擋了足夠多的傷害，所以<b>野蠻人</b>還活著。真是驚險！",,,,,,,,,,,,,,,
 scenario_puzzle_3a_10,最終目標：殺死剩下的<b>骷髏</b>——祝你好運，它可是非常的皮糙肉厚！,,,,,,,,,,,,,,,
 scenario_puzzle_3a_11,"給你個小提示：或許你可以試著利用<b><link=""Glossary_Push"">強推</link></b>加陷阱的組合？記住<b><link=""Glossary_Shield"">護盾</link></b>只能阻擋來自於<b><link=""Glossary_Attack"">攻擊</link></b>的傷害，但是對於來自於像是陷阱這樣的直接傷害不會起到任何作用！",,,,,,,,,,,,,,,
 scenario_puzzle_3a_12,他這一回合不會很快進行行動，所以你也許可以在他有機會幹掉你之前殺死他！,,,,,,,,,,,,,,,
 scenario_puzzle_3a_13,"別忘了執行短休息來拿回<font=""MarcellusAlt SDF""><color=#F5E3B0><b>守護之力</b></color></font>以便把骷髏<b>強推</b>到陷阱上。",,,,,,,,,,,,,,,
-scenario_puzzle_3a_14,又一次拯救了<b>蠻徒</b>！我聽說他不想再獨自冒險了，所以他願意成為你公會裡的第一名傭兵！恭喜！,,,,,,,,,,,,,,,
+scenario_puzzle_3a_14,又一次拯救了<b>野蠻人</b>！我聽說他不想再獨自冒險了，所以他願意成為你公會裡的第一名傭兵！恭喜！,,,,,,,,,,,,,,,
 scenario_puzzle_3a_15,讓我們離開這個佈滿灰塵的墓穴看看還有誰能夠招募吧。,,,,,,,,,,,,,,,
 scenario_puzzle_3a_16,"你的目標為：
 <line-height=20%>
@@ -10858,7 +10869,7 @@ scenario_puzzle_3b_02,"你的第一個目標為：
 </line-height>→ 本回合在敵人行動前殺死<b> 3 </b>個<b>弓箭手</b>
 <line-height=20%>
 </line-height>你肯定得用些能夠同時瞄準不止一個<b><link=""Glossary_Target"">目標</link></b><sprite name=Target>的東西！",,,,,,,,,,,,,,,
-scenario_puzzle_3b_03,<b>弓箭手</b>打到你了。<b>凶徒</b>有一些超低時序值的技能卡，選擇其中一張來首位行動。,,,,,,,,,,,,,,,
+scenario_puzzle_3b_03,<b>弓箭手</b>打到你了。<b>凶徒</b>有一些超低時序值的能力卡，選擇其中一張來首位行動。,,,,,,,,,,,,,,,
 scenario_puzzle_3b_04,"還不夠，你需要在同一個回合中殺死所有三名弓箭手！如果你將<font=""MarcellusAlt SDF""><color=#F5E3B0><b>飛刀</b></color></font>和<font=""MarcellusAlt SDF""><color=#F5E3B0><b>煙幕彈</b></color></font>以恰當的方式組合的話就能將所有<b>弓箭手</b>全部擊敗！",,,,,,,,,,,,,,,
 scenario_puzzle_3b_05,"哈哈！在單個行動輪中瞄準多個目標的感覺不錯吧？最後一個目標：
 <line-height=20%>
@@ -10866,7 +10877,7 @@ scenario_puzzle_3b_05,"哈哈！在單個行動輪中瞄準多個目標的感覺
 <line-height=20%>
 </line-height> 小提示——有時一張卡牌的上半部分也會允許你執行<b>移動</b>技能！",,,,,,,,,,,,,,,
 scenario_puzzle_3b_06,"<b><link=""Glossary_Loot"">拾取</link></b>技能會撿起所示射程距離內的<i>所有</i>金幣，所以好好想想你應該站在哪裡進行<b><link=""Glossary_Loot"">拾取</link></b>吧！",,,,,,,,,,,,,,,
-scenario_puzzle_3b_07,"你需要在<link=""Glossary_Loot""><b>拾取</b></link>前先進行<b><link=""Glossary_Move"">移動</link></b>，而且不是所有<b><link=""Glossary_Move"">移動</link></b>技能都在技能卡的下半部分！",,,,,,,,,,,,,,,
+scenario_puzzle_3b_07,"你需要在<link=""Glossary_Loot""><b>拾取</b></link>前先進行<b><link=""Glossary_Move"">移動</link></b>，而且不是所有<b><link=""Glossary_Move"">移動</link></b>技能都在能力卡的下半部分！",,,,,,,,,,,,,,,
 scenario_puzzle_3b_08,漂亮！暫時就讓我來替你保管這些金幣吧…,,,,,,,,,,,,,,,
 scenario_puzzle_3b_09,因為你在這個劇本中的幫助，<b>凶徒</b>已經同意加入公會——意味著現在我們擁有足夠多的傭兵來進行正式的任務！,,,,,,,,,,,,,,,
 scenario_puzzle_3b_obj_01,本回合中在敵人行動前殺死3個弓箭手,,,,,,,,,,,,,,,
@@ -10875,7 +10886,7 @@ scenario_puzzle_4a_01,好了，這是你第一場正式的戰鬥。看上去需�
 scenario_puzzle_4a_02,回憶下我之前教過你的內容，並且在沒有做好準備前不要進入第二個房間。這次你可以通過點擊白色格子來改變角色的起始位置，所以在你第一個回合開始前選擇合適的陣型吧！,,,,,,,,,,,,,,,
 scenario_puzzle_4a_03,"順便說一句，如果你難以辨認灌木後的障礙物或是敵人，你可以按下<b>Tab</b>鍵來高亮它們。
 ,,,,,,,,,,,,,,,
-你也可以通過這個方式看到同一類型怪物之間的行動順序。所有同一類怪物只抽一張技能卡，因此他們的<b>時序值</b>也是相同的，同種怪物之間的行動順序由他們的階層和編號決定，精英階層會比普通階層優先行動，同階層之間按照編號昇冪依次進行行動。",,,,,,,,,,,,,,,
+你也可以通過這個方式看到同一類型怪物之間的行動順序。所有同一類怪物只抽一張能力卡，因此他們的<b>時序值</b>也是相同的，同種怪物之間的行動順序由他們的階層和編號決定，精英階層會比普通階層優先行動，同階層之間按照編號昇冪依次進行行動。",,,,,,,,,,,,,,,
 scenario_puzzle_5a_01,這一位是<b>織魔師</b>，一名能夠利用大自然元素的強大卻又脆弱的施法者。幸虧我們成功找到她了，這裡的強盜可真多！,,,,,,,,,,,,,,,
 scenario_puzzle_5a_02,"為了讓她擺脫這個困境，你需要利用戰場中的元素力量。元素的充能情況顯示在螢幕的右側，表示哪種魔法元素可以被使用。在這個劇本中，<b><link=""Glossary_Ice"">冰</link></b>元素已經充能完畢了，但是一般情況下使用帶有元素符號的動作充能出來的元素只會維持兩個回合，並且在執行充能的那個行動輪結束之後才允許被消耗，即不能同一個行動輪中先充能再立刻使用。",,,,,,,,,,,,,,,
 scenario_puzzle_5a_03,"本回合的目標為：
@@ -10905,8 +10916,8 @@ scenario_puzzle_5b_01,來見見<b>機匠</b>！他是團隊中重要的輔助角
 scenario_puzzle_5b_02,"目前他正處於<b><link=""Glossary_Wound"">流血</link></b><sprite name=Wound>狀態，這會讓他在每個行動輪開始時受到一點傷害，因此你需要儘快用<b><font=""MarcellusAlt SDF""><color=#F8F8F8>次級治療藥水</color></font></b>對他進行<link=""Glossary_Heal""><b>治療</b></link>。",,,,,,,,,,,,,,,
 scenario_puzzle_5b_03,"看看這個房間裡敵人所在的位置，我建議你這個回合儘量晚一些行動。有時採取較慢的動作並讓敵人來接近你是更好的選擇，並且還不用冒著被攻擊的風險。之後你就可以使用<b>機匠</b>那聞名遐邇的<b>區域</b>攻擊來同時對多個敵人造成一些傷害！
 ,,,,,,,,,,,,,,,
-你可以注意到類似的技能所影響的區域範圍和形狀會標示在技能卡上。",,,,,,,,,,,,,,,
-scenario_puzzle_5b_04,別忘了使用<b>道具</b>，你能用的東西不是只有技能卡牌！,,,,,,,,,,,,,,,
+你可以注意到類似的技能所影響的區域範圍和形狀會標示在能力卡上。",,,,,,,,,,,,,,,
+scenario_puzzle_5b_04,別忘了使用<b>道具</b>，你能用的東西不是只有能力卡牌！,,,,,,,,,,,,,,,
 scenario_puzzle_5b_05,"你沒能成功命中三個敵人。有時等這些壞傢伙來接近你也是不錯的選擇，試著先選中<font=""MarcellusAlt SDF""><color=#F5E3B0>墨水炸彈</color></font>然後再選中<font=""MarcellusAlt SDF""><color=#F5E3B0>毒性電擊</color></font>來讓敵人在<b>機匠</b>的行動輪開始前走進他的<b><link=""Glossary_Range"">射程</link></b>。",,,,,,,,,,,,,,,
 scenario_puzzle_5b_06,"你可能注意到了在你處於<b><link=""Glossary_Wound"">流血</link></b><sprite name=Wound>狀態的時候執行<b><link=""Glossary_Heal"">治療</link></b>技能，角色不僅會回復生命值還會移除<b><link=""Glossary_Wound"">流血</link></b><sprite name=Wound>狀態。
 ,,,,,,,,,,,,,,,
@@ -10954,7 +10965,7 @@ scenario_puzzle_7b_03,"你本回合的目標為：
 <line-height=20%>
 </line-height>一個重要提示：當你和你的<b><link=""Glossary_Summon"">召喚物</link></b>距離相同時，敵人會優先專注於你的召喚物。好好利用這一點！",,,,,,,,,,,,,,,
 scenario_puzzle_7b_04,"使用<font=""MarcellusAlt SDF""><color=#F5E3B0><b>齧噬部落</b></color></font>來召喚一個“鼠群”，它能協助你戰勝這些惡魔！",,,,,,,,,,,,,,,
-scenario_puzzle_7b_05,"雖然你的<b><link=""Glossary_Push"">強推</link></b>技能卡已經被<link=""Glossary_burn"">移除</link>了，但是或許有其他辦法來讓一個敵人強制<b><link=""Glossary_Move"">移動</link></b>到陷阱上來承受一些直接傷害？",,,,,,,,,,,,,,,
+scenario_puzzle_7b_05,"雖然你的<b><link=""Glossary_Push"">強推</link></b>能力卡已經被<link=""Glossary_burn"">移除</link>了，但是或許有其他辦法來讓一個敵人強制<b><link=""Glossary_Move"">移動</link></b>到陷阱上來承受一些直接傷害？",,,,,,,,,,,,,,,
 scenario_puzzle_7b_06,"你的最終目標為：
 <line-height=20%>
 </line-height>→ 殺死剩餘的暗夜惡魔
@@ -11176,12 +11187,12 @@ scenario_story_brute_2_start_1,我的偵察兵回報，羚牛族戰士和人類�
 scenario_story_brute_2_start_2,我們會在這裡全力抵抗。如果我們拿下了他們之中足夠多的目標，他們就會潰敗。我的族人會幫忙。,,,,,,,,,,,,,,,
 scenario_story_brute_2_success_1,面對你的堅定信念，攻擊者掉頭逃回了森林之中。看上去你已經贏得了勝利！,,,,,,,,,,,,,,,
 scenario_story_brute_3_room_2,羚牛族薩滿正在這個房間中召喚惡魔。必須阻止他們！,,,,,,,,,,,,,,,
-scenario_story_brute_3_sm1_desc,蠻徒永久強化,,,,,,,,,,,,,,,
+scenario_story_brute_3_sm1_desc,野蠻人永久強化,,,,,,,,,,,,,,,
 scenario_story_brute_3_start_1,意識到羚牛族與惡魔共事令你滿腔怒火，你向前撲了過去，勢必要摧毀他們！,,,,,,,,,,,,,,,
 scenario_story_brute_3_success_1,你不知道已經有多少惡魔被召喚出來，但任何令他的這支大軍進一步擴大的行為都應該被阻止。,,,,,,,,,,,,,,,
 scenario_story_brute_3_success_2,在角落裡的一本書中，你找到了進入叛徒藏身處的方法——只要他的部隊先讓開路！,,,,,,,,,,,,,,,
-scenario_story_brute_character_fail_objective,如果蠻徒精疲力竭，則失敗,,,,,,,,,,,,,,,
-scenario_story_brute_scabwit_character_fail_objective,如果蠻徒或斯甘威精疲力竭，則失敗,,,,,,,,,,,,,,,
+scenario_story_brute_character_fail_objective,如果野蠻人精疲力竭，則失敗,,,,,,,,,,,,,,,
+scenario_story_brute_scabwit_character_fail_objective,如果野蠻人或斯甘威精疲力竭，則失敗,,,,,,,,,,,,,,,
 scenario_story_captainoftheguard_fail_objective,如果瘟疫使者或末日行者精疲力竭，則失敗,,,,,,,,,,,,,,,
 scenario_story_captainoftheguard_immunitysm1_desc,團隊免疫中毒狀態,,,,,,,,,,,,,,,
 scenario_story_captainoftheguard_room_2_1,好吧，如果你想要更多那些從巢靈族巢穴來的傭兵和城市衛兵一同共事的證據，我猜那些寵物蛇就是了。不過，那些亞龍是新來的。,,,,,,,,,,,,,,,
@@ -11270,7 +11281,7 @@ scenario_story_highcultist_room_2_4,‘Your Boon has been granted!‘ A number o
 scenario_story_highcultist_start_1,As you walk down stone steps carved from the same black material, you struggle to remember the name... obsidian?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 scenario_story_highcultist_start_2,When you enter the first chamber, you realise this is not going to be an easy battle. Cultists and Demons bar your way forwards.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 scenario_story_highcultist_success_1,After an intense battle, the High Cultist and his followers are dead.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-scenario_story_inoxbodyguard_fail_objective,如果蠻徒或凶徒精疲力竭，則失敗,,,,,,,,,,,,,,,
+scenario_story_inoxbodyguard_fail_objective,如果野蠻人或凶徒精疲力竭，則失敗,,,,,,,,,,,,,,,
 scenario_story_inoxbodyguard_room_3_1,The door swings open, and he stands in the room holding a giant axe.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 scenario_story_inoxbodyguard_room_3_2,I used your chieftain‘s own axe to kill him you know. He died in one swing. I expect you to do the same.,,,,,,,,,,,,,,,
 scenario_story_inoxbodyguard_sm1_desc,At the start of each round the Dark Element is set to Strong,,,,,,,,,,,,,,,
@@ -11960,7 +11971,7 @@ scenarioability_88_lurkerclawmovedebuff,持有利爪的傭兵從所有移動行�
 scenarioability_88_movedebuff,在整個劇本進程中，所有友方單位在所有移動行動中<nobr>-1移動力<sprite name=Move>。,,,,,,,,,,,,,,,
 scenarioability_damageprimedemonwhendamaged,惡魔領主和惡魔祭壇共用血量、時序值和免疫能力。惡魔領主不受任何直接傷害，必須攻擊惡魔祭壇。,,,,,,,,,,,,,,,
 scenarioability_invulnerable,免疫所有傷害。,,,,,,,,,,,,,,,
-scenarioability_lootgoalchest,可以跳過技能卡的下半部分行動來<nobr>拾取<sprite name=Loot></nobr>相鄰的寶箱。,,,,,,,,,,,,,,,
+scenarioability_lootgoalchest,可以跳過能力卡的下半部分行動來<nobr>拾取<sprite name=Loot></nobr>相鄰的寶箱。,,,,,,,,,,,,,,,
 scenarioability_pierceinvulnerable,可以對無敵的單位造成傷害。,,,,,,,,,,,,,,,
 scenarioability_untargetable,不會成為任何技能的目標。,,,,,,,,,,,,,,,
 schoolofthegreatoak,聖橡樹學校,,,,,,,,,,,,,,,
@@ -12057,7 +12068,7 @@ soothsinger_adventure_description,智人族們不僅是工程師中的大師，�
 soothsinger_difficulty,高,,,,,,,,,,,,,,,
 soothsinger_role,遠端輔助,,,,,,,,,,,,,,,
 soothsinger_strengths,"- <indent=%15>遠距離、強有力的Buff技能</indent>
-- <indent=%15>技能卡下半區有著多樣的選擇</indent>
+- <indent=%15>能力卡下半區有著多樣的選擇</indent>
 - <indent=%15>善於群體控制</indent>",,,,,,,,,,,,,,,
 soothsinger_weaknesses,"- <indent=%15>可憐的傷害輸出</indent>
 - <indent=%15>玩家團隊越小，強度越弱</indent>
@@ -12355,9 +12366,9 @@ transferdooms,轉移厄運,,,,,,,,,,,,,,,
 trap,陷阱,,,,,,,,,,,,,,,
 treasure_chest_tooltip,財寶寶箱,,,,,,,,,,,,,,,
 tutorial_2_help_004,選擇踐踏,,,,,,,,,,,,,,,
-tutorial_2_help_005,選擇雁過拔毛,,,,,,,,,,,,,,,
+tutorial_2_help_005,選擇順手牽羊,,,,,,,,,,,,,,,
 tutorial_2_help_006,點擊“結束選擇”繼續,,,,,,,,,,,,,,,
-tutorial_2_help_007,選擇雁過拔毛的下半區,,,,,,,,,,,,,,,
+tutorial_2_help_007,選擇順手牽羊的下半區,,,,,,,,,,,,,,,
 tutorial_2_help_008,選擇高亮顯示的房門格子,,,,,,,,,,,,,,,
 tutorial_2_help_009,點擊開門按鈕以確認移動,,,,,,,,,,,,,,,
 tutorial_2_help_010,將游標懸停在螢幕頂部的時序跟蹤器中的強盜守衛肖像上,,,,,,,,,,,,,,,
@@ -12381,43 +12392,43 @@ tutorial_2_help_024_2,選擇包含金幣的高亮顯示的格子,,,,,,,,,,,,,,,
 tutorial_2_help_024_3,按一下“確認移動”按鈕繼續,,,,,,,,,,,,,,,
 tutorial_2_help_024_4,點擊“跳過移動”按鈕跳過剩下的移動,,,,,,,,,,,,,,,
 tutorial_2_help_024_5,點擊“結束”以繼續,,,,,,,,,,,,,,,
-tutorial_2_text_001,歡迎，會長！我是公會 <b>訓練師</b>，我將引導你建立自己的雇傭軍公會。首先，我們將通過瞭解<color=#a06e4b><b>蠻徒</b></color>來進行這一引導教學。,,,,,,,,,,,,,,,
-tutorial_2_text_002_1,我想在我們進行行動之前，你會想要熟悉如何調整你對戰場的視角，因此讓我們看看如何控制視角的變化。,,,,,,,,,,,,,,,
-tutorial_2_text_002_2,"<align=center><b>W A S D</b><color=#CCCCCC>——平移視角</color>
+tutorial_2_text_001,歡迎，會長！我是公會<b>訓練師</b>，我將引導你建立自己的傭兵公會。首先，第一個教學我們將帶你瞭解<color=#a06e4b><b>野蠻人</b></color>。,,,,,,,,,,,,,,,
+tutorial_2_text_002_1,在我們進行動作之前，你可能會想要熟悉如何調整戰場的視角，就讓我們來看看如何控制視角的變化吧！,,,,,,,,,,,,,,,
+tutorial_2_text_002_2,"<align=center><b>W A S D</b><color=#CCCCCC> － 平移視角</color>
 <line-height=20%>
-<line-height=100%><b>Q E</b><color=#CCCCCC>——順/逆時針旋轉視角</color>
+<line-height=100%><b>Q E</b><color=#CCCCCC> － 順/逆時針旋轉視角</color>
 <line-height=20%>
-<line-height=100%><b>+/-或滑鼠輪向前/向後</b><color=#CCCCCC>——縮放視角
-,,,,,,,,,,,,,,,
+<line-height=100%><b>+/-或滑鼠輪向前/向後</b><color=#CCCCCC> － 縮放視角
+
 你還可以按住滑鼠滾輪通過持續拖動滑鼠來旋轉視角。</color></align>
-,,,,,,,,,,,,,,,
+
 現在請你嘗試熟悉上述操作，然後在你覺得自己已經準備好了的時候點擊繼續。",,,,,,,,,,,,,,,
-tutorial_2_text_003,"在<b>黯淡港灣</b>中，你將控制一隊傭兵，每個傭兵都配備了一組<color=#FADC99><b>技能卡</b></color>。請注意，這些卡牌將成為你的傭兵將探索地下城、打擊敵人和掠奪寶藏的關鍵！
-,,,,,,,,,,,,,,,
-在每一輪的開始階段，首先要做的是為每位傭兵選擇兩張卡牌。",,,,,,,,,,,,,,,
-tutorial_2_text_004,"在本教學中，<color=#a06e4b><b>蠻徒</b></color> 只有三張卡牌，你可以在螢幕的左側看到高亮的：<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr>、<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷</color></font></b></nobr>。
-,,,,,,,,,,,,,,,
-<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷</color></font></b></nobr>為灰色以指示其當前已經被丟棄（用於教學的緣故），因此，現在讓我們選擇<color=#a06e4b><b>蠻徒</b></color>的兩張可用卡牌。",,,,,,,,,,,,,,,
-tutorial_2_text_005,"看看<color=#a06e4b><b>蠻徒</b></color>在螢幕頂部旁邊的'<b>?</b>'改變為一串數字，這表示他的<color=#FADC99><b>時序值</b></color>為72。
+tutorial_2_text_003,"在<b>黯淡港灣</b>中，你將控制一隊傭兵，每個傭兵都有自己的<color=#FADC99><b>能力卡</b></color>牌庫。請注意！這些卡牌將成為你的傭兵將探索地下城、打擊敵人和掠奪寶藏的關鍵！
+
+在每回合的開始，首先要做的是為每位傭兵選擇兩張卡牌。",,,,,,,,,,,,,,,
+tutorial_2_text_004,"在本教學中，<color=#a06e4b><b>野蠻人</b></color>只有三張卡牌，你可以在螢幕的左側看到閃爍的：<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>順手牽羊</color></font></b></nobr>、<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷戰吼</color></font></b></nobr>。
+
+<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷戰吼</color></font></b></nobr>為灰色以指示其當前已經被丟棄（用於教學的緣故），因此，現在讓我們選擇<color=#a06e4b><b>野蠻人</b></color>的兩張可用卡牌。",,,,,,,,,,,,,,,
+tutorial_2_text_005,"看看<color=#a06e4b><b>野蠻人</b></color>在螢幕頂部旁邊的'<b>?</b>'改變為一串數字，這表示他的<color=#FADC99><b>時序值</b></color>為72。
 ,,,,,,,,,,,,,,,
 你選擇的第一張卡旁邊的數位確定了角色的<color=#FADC99><b>時序值</b></color>。時序值越小，角色越先採取行動。",,,,,,,,,,,,,,,
-tutorial_2_text_006,由於現在沒有其他角色存在，因此將立即進入<color=#a06e4b><b>蠻徒</b></color>的輪次。,,,,,,,,,,,,,,,
-tutorial_2_text_007_1,現在是<color=#a06e4b><b>蠻徒</b></color>的輪次，到了選擇一個<color=#FADC99><b>行動</b></color>的時候了。每張卡牌的上半區和下半區分別表示一個<color=#FADC99><b>行動</b></color>，每個<color=#FADC99><b>行動</b></color>由一個或多個<color=#FADC99><b>技能</b></color>組成。,,,,,,,,,,,,,,,
+tutorial_2_text_006,由於現在沒有其他角色存在，因此將立即進入<color=#a06e4b><b>野蠻人</b></color>的輪次。,,,,,,,,,,,,,,,
+tutorial_2_text_007_1,現在是<color=#a06e4b><b>野蠻人</b></color>的輪次，到了選擇一個<color=#FADC99><b>行動</b></color>的時候了。每張卡牌的上半區和下半區分別表示一個<color=#FADC99><b>行動</b></color>，每個<color=#FADC99><b>行動</b></color>由一個或多個<color=#FADC99><b>技能</b></color>組成。,,,,,,,,,,,,,,,
 tutorial_2_text_007_2,你每輪可以使用兩個<color=#FADC99><b>行動</b></color>，你可以選擇左邊的四種行動之一作為你的第一個<color=#FADC99><b>行動</b></color>——但請注意，你必須使用另一張卡的另一半區中的兩種行動之一作為你的第二個行動。,,,,,,,,,,,,,,,
-tutorial_2_text_007_3,"例如，在這裡，你可以選擇<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>的上半區和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr>的下半區...",,,,,,,,,,,,,,,
-tutorial_2_text_007_4,"...或選擇<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>的下半區和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr>的上半區。",,,,,,,,,,,,,,,
-tutorial_2_text_007_5,"<color=#a06e4b><b>蠻徒</b></color>在這個房間裡沒有什麼可做的，所以你應該通過<color=#FADC99><b>移動</b></color>能力看看門後有什麼。
+tutorial_2_text_007_3,"例如，在這裡，你可以選擇<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>的上半區和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>順手牽羊</color></font></b></nobr>的下半區...",,,,,,,,,,,,,,,
+tutorial_2_text_007_4,"...或選擇<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>的下半區和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>順手牽羊</color></font></b></nobr>的上半區。",,,,,,,,,,,,,,,
+tutorial_2_text_007_5,"<color=#a06e4b><b>野蠻人</b></color>在這個房間裡沒有什麼可做的，所以你應該通過<color=#FADC99><b>移動</b></color>能力看看門後有什麼。
 ,,,,,,,,,,,,,,,
-<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr>的底部允許<color=#a06e4b><b>蠻徒</b></color>移動四個格子，足以通過這扇門。讓我們開始吧！",,,,,,,,,,,,,,,
+<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>順手牽羊</color></font></b></nobr>的底部允許<color=#a06e4b><b>野蠻人</b></color>移動四個格子，足以通過這扇門。讓我們開始吧！",,,,,,,,,,,,,,,
 tutorial_2_text_010,這個房間內你將遇見你的第一個敵人，一個<color=#C53F3F><b>強盜守衛</b></color>！像玩家角色一樣，怪物也會選擇他們的<color=#FADC99><b>時序值與行動</b></color>——讓我們通過游標懸停在他的肖像上來瞭解<color=#C53F3F><b>強盜</b></color>在這一回合的計畫。,,,,,,,,,,,,,,,
 tutorial_2_text_011_1,"你可以看到<color=#C53F3F><b>強盜</b></color>的意圖：他計畫 <color=#FADC99><b>移動</b></color>和<color=#FADC99><b>攻擊</b></color>！
 ,,,,,,,,,,,,,,,
 雖然玩家角色每個輪次擁有兩個<color=#FADC99><b>動作</b></color>，而怪物只擁有一個——儘管這一個行動經常包括多個<color=#FADC99><b>技能</b></color>。",,,,,,,,,,,,,,,
-tutorial_2_text_011_2,"請注意，這個<color=#C53F3F><b>強盜</b></color>比<color=#a06e4b><b>蠻徒</b></color>具有更低的<color=#FADC99><b>時序值</b></color>，所以本回合如果他還是可見的，那麼他本應在<color=#a06e4b><b>蠻徒</b></color>之前行動。
+tutorial_2_text_011_2,"請注意，這個<color=#C53F3F><b>強盜</b></color>比<color=#a06e4b><b>野蠻人</b></color>具有更低的<color=#FADC99><b>時序值</b></color>，所以本回合如果他還是可見的，那麼他本應在<color=#a06e4b><b>野蠻人</b></color>之前行動。
 ,,,,,,,,,,,,,,,
-然而目前已經是<color=#a06e4b><b>蠻徒</b></color>的輪次了，所以只有在你完成當前輪次之後才會輪到<color=#C53F3F><b>強盜</b></color>的輪次。",,,,,,,,,,,,,,,
+然而目前已經是<color=#a06e4b><b>野蠻人</b></color>的輪次了，所以只有在你完成當前輪次之後才會輪到<color=#C53F3F><b>強盜</b></color>的輪次。",,,,,,,,,,,,,,,
 tutorial_2_text_011_3,"讓我們的 <color=#a06e4b><b>蠻子</b></color>更加接近敵人吧，直到我們能夠使用<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b>上半區的</nobr><color=#FADC99><b>攻擊</b></color> 作為第二個<color=#FADC99><b>行動</b></color>！",,,,,,,,,,,,,,,
-tutorial_2_text_012,"由於你已經使用過了<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr>，它就被<color=#FADC99><b>棄置</b></color>了，它將在你休息時返回到手牌中，在那之前你將不能再使用這張卡牌。
+tutorial_2_text_012,"由於你已經使用過了<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>順手牽羊</color></font></b></nobr>，它就被<color=#FADC99><b>棄置</b></color>了，它將在你休息時返回到手牌中，在那之前你將不能再使用這張卡牌。
 ,,,,,,,,,,,,,,,
 現在，是時候<color=#FADC99><b>攻擊</b></color>了！",,,,,,,,,,,,,,,
 tutorial_2_text_015_1,"每當你<color=#FADC99><b>攻擊</b></color>時，都會從角色的攻擊修正卡池中抽取<color=#FADC99><b>攻擊修正卡</b></color>附加在你的<color=#FADC99><b>攻擊</b></color>上。
@@ -12426,48 +12437,48 @@ tutorial_2_text_015_1,"每當你<color=#FADC99><b>攻擊</b></color>時，都會
 tutorial_2_text_015_2,本教學中，我們將只有<b><color=#FFA414>+0</color></b>修正卡，以保持相對簡單的難度。我們將在以後探索其他的<color=#FADC99><b>攻擊修正卡</b></color>！,,,,,,,,,,,,,,,
 tutorial_2_text_016_1,"現在是<color=#C53F3F><b>強盜</b></color>的輪次。正如我們之前在卡上看到的那樣，他打算<color=#FADC99><b>移動</b></color>，然後執行近戰<color=#FADC99><b>攻擊</b></color><b>3</b>。
 ,,,,,,,,,,,,,,,
-但是，由於<color=#a06e4b><b>蠻徒</b></color>已經在他的近戰攻擊範圍內，他將放棄移動直接進行<color=#FADC99><b>攻擊</b></color>。",,,,,,,,,,,,,,,
+但是，由於<color=#a06e4b><b>野蠻人</b></color>已經在他的近戰攻擊範圍內，他將放棄移動直接進行<color=#FADC99><b>攻擊</b></color>。",,,,,,,,,,,,,,,
 tutorial_2_text_016_2,哎喲！雖然怪物總是直接受到傷害，但只要玩家的角色即將遭受傷害，就會獲得三種選擇：,,,,,,,,,,,,,,,
 tutorial_2_text_016_3,"首先，你可以簡單地讓你的角色承受傷害。但是，如果角色的生命值減少到<b>0</b>，則該角色會<color=#FADC99><b>筋疲力盡</b></color>，這意味著它們不再能在本場景中行動。
 ,,,,,,,,,,,,,,,
 如果你的所有傭兵都<color=#FADC99><b>筋疲力盡</b></color>了，本次冒險將會以你的失敗而告終！",,,,,,,,,,,,,,,
-tutorial_2_text_016_4,其次，你可以選擇<color=#FADC99><b>燒毀</b></color>兩張棄置的技能卡， 而不是受到傷害。如果技能卡被<color=#FADC99><b>燒毀</b></color>，它就無法再通過休息恢復。,,,,,,,,,,,,,,,
-tutorial_2_text_016_5,但是，如果你在這裡<color=#FADC99><b>燒毀</b></color>兩張<color=#a06e4b><b>蠻徒</b></color>的技能卡，他的下一個輪次將沒有足夠的卡片可以選擇，因此也會<color=#FADC99><b>筋疲力盡</b></color>！,,,,,,,,,,,,,,,
-tutorial_2_text_016_6,最後，你可以選擇<color=#FADC99><b>燒毀</b></color>一張手牌。此選項處於灰色，因為<color=#a06e4b><b>蠻徒</b></color>現在已經丟棄了所有的卡牌。,,,,,,,,,,,,,,,
+tutorial_2_text_016_4,其次，你可以選擇<color=#FADC99><b>燒毀</b></color>兩張棄置的能力卡， 而不是受到傷害。如果能力卡被<color=#FADC99><b>燒毀</b></color>，它就無法再通過休息恢復。,,,,,,,,,,,,,,,
+tutorial_2_text_016_5,但是，如果你在這裡<color=#FADC99><b>燒毀</b></color>兩張<color=#a06e4b><b>野蠻人</b></color>的能力卡，他的下一個輪次將沒有足夠的卡片可以選擇，因此也會<color=#FADC99><b>筋疲力盡</b></color>！,,,,,,,,,,,,,,,
+tutorial_2_text_016_6,最後，你可以選擇<color=#FADC99><b>燒毀</b></color>一張手牌。此選項處於灰色，因為<color=#a06e4b><b>野蠻人</b></color>現在已經丟棄了所有的卡牌。,,,,,,,,,,,,,,,
 tutorial_2_text_016_7,"如果條件允許，選擇承受傷害通常比通過<color=#FADC99><b>燒毀</b></color>卡牌抵消傷害更加明智，因為這樣能夠避免卡牌耗盡而無法完成場景！
 ,,,,,,,,,,,,,,,
-現在，讓我們選擇承受傷害，這也就三點傷害，<color=#a06e4b><b>蠻徒</b></color>有足夠的生命值能夠活下來。",,,,,,,,,,,,,,,
+現在，讓我們選擇承受傷害，這也就三點傷害，<color=#a06e4b><b>野蠻人</b></color>有足夠的生命值能夠活下來。",,,,,,,,,,,,,,,
 tutorial_2_text_017,<color=#C53F3F><b>強盜</b></color>的輪次現在結束。由於他是最後一個行動的角色，因此這一回合也宣告結束，在這之後新一個回合將會開始。,,,,,,,,,,,,,,,
-tutorial_2_text_018_1,"在技能卡選擇期間，如果你的棄牌堆至少有兩張卡牌，那麼你可以執行<color=#FADC99><b>長休息</b></color>或<color=#FADC99><b>短休息</b></color>回收其中的一部分。
+tutorial_2_text_018_1,"在能力卡選擇期間，如果你的棄牌堆至少有兩張卡牌，那麼你可以執行<color=#FADC99><b>長休息</b></color>或<color=#FADC99><b>短休息</b></color>回收其中的一部分。
 ,,,,,,,,,,,,,,,
-目前<color=#a06e4b><b>蠻徒</b></color>丟棄了所有的技能卡（<color=#FADC99><b>長休息</b></color>不被算作一張卡牌），因此他將不得不休息。",,,,,,,,,,,,,,,
+目前<color=#a06e4b><b>野蠻人</b></color>丟棄了所有的能力卡（<color=#FADC99><b>長休息</b></color>不被算作一張卡牌），因此他將不得不休息。",,,,,,,,,,,,,,,
 tutorial_2_text_018_2,<color=#FADC99><b>短休息</b></color>將隨機燒毀一張丟棄的卡牌，但你將立即回收剩下的棄牌堆中的卡牌——所以你可以借此在本回合開始前立即回收卡牌。,,,,,,,,,,,,,,,
 tutorial_2_text_018_3,<color=#FADC99><b>長休息</b></color>將佔用一個輪次，雖然本回合你的時序值為<b>99</b>，但是你不但可以自己挑選要燒毀的卡牌來取代隨機選擇卡牌，而且該角色將執行“<b>治療2</b>”的行動並重置所有橫置的道具卡！,,,,,,,,,,,,,,,
-tutorial_2_text_018_4,如果本回合選擇<color=#FADC99><b>長休息</b></color>而<color=#C53F3F><b>強盜</b></color>選擇了攻擊卡，則玩家作為<color=#a06e4b><b>蠻徒</b></color>既沒有足以承受傷害的生命值，也沒有足夠的卡牌可以燒毀，所以讓我們選擇<color=#FADC99><b>短休息</b></color>。,,,,,,,,,,,,,,,
-tutorial_2_text_019,"<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr> 已隨機被選擇為即將焚燒的卡牌。
+tutorial_2_text_018_4,如果本回合選擇<color=#FADC99><b>長休息</b></color>而<color=#C53F3F><b>強盜</b></color>選擇了攻擊卡，則玩家作為<color=#a06e4b><b>野蠻人</b></color>既沒有足以承受傷害的生命值，也沒有足夠的卡牌可以燒毀，所以讓我們選擇<color=#FADC99><b>短休息</b></color>。,,,,,,,,,,,,,,,
+tutorial_2_text_019,"<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>順手牽羊</color></font></b></nobr> 已隨機被選擇為即將焚燒的卡牌。
 ,,,,,,,,,,,,,,,
-每次短休息時將要燒牌前，你都可以選擇失去一點生命值來再次隨機抽取一張卡牌來換掉當前抽到的卡牌，但是現在<color=#a06e4b><b>蠻徒</b></color>僅有1點生命值了，我們就沒有這個選擇了！",,,,,,,,,,,,,,,
-tutorial_2_text_020_1,"你可以看到<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr>現在是深紅色的，表示它已被燒毀，不可再用於當前的場景。",,,,,,,,,,,,,,,
-tutorial_2_text_020_2,"作為交換，<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷</color></font></b></nobr>已回收，可再次使用！",,,,,,,,,,,,,,,
-tutorial_2_text_020_3,"現在<color=#a06e4b><b>蠻徒</b></color>以及<color=#C53F3F><b>強盜</b></color>都處於瀕死的邊緣，所以誰能在回合中首先發起攻擊至關重要！
+每次短休息時將要燒牌前，你都可以選擇失去一點生命值來再次隨機抽取一張卡牌來換掉當前抽到的卡牌，但是現在<color=#a06e4b><b>野蠻人</b></color>僅有1點生命值了，我們就沒有這個選擇了！",,,,,,,,,,,,,,,
+tutorial_2_text_020_1,"你可以看到<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>順手牽羊</color></font></b></nobr>現在是深紅色的，表示它已被燒毀，不可再用於當前的場景。",,,,,,,,,,,,,,,
+tutorial_2_text_020_2,"作為交換，<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷戰吼</color></font></b></nobr>已回收，可再次使用！",,,,,,,,,,,,,,,
+tutorial_2_text_020_3,"現在<color=#a06e4b><b>野蠻人</b></color>以及<color=#C53F3F><b>強盜</b></color>都處於瀕死的邊緣，所以誰能在回合中首先發起攻擊至關重要！
 ,,,,,,,,,,,,,,,
-記住，你所選擇的第一張卡牌將決定<color=#a06e4b><b>蠻徒</b></color>的時序值，所以讓我們首先選擇時序值為<b>10</b><nobr>的<b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷</color></font></b></nobr>來最大化<color=#a06e4b><b>蠻徒</b></color>拿到先手的概率。",,,,,,,,,,,,,,,
+記住，你所選擇的第一張卡牌將決定<color=#a06e4b><b>野蠻人</b></color>的時序值，所以讓我們首先選擇時序值為<b>10</b><nobr>的<b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷戰吼</color></font></b></nobr>來最大化<color=#a06e4b><b>野蠻人</b></color>拿到先手的概率。",,,,,,,,,,,,,,,
 tutorial_2_text_022,"現在我們與<color=#C53F3F><b>強盜</b></color>在同一個房間裡，我們可以看到敵人每一輪都在玩家選定卡牌後抽取他們的能力卡，所以在選擇卡牌的時候你不會知道他們將會做什麼，或者提前知道他們每一輪的時序值。
 ,,,,,,,,,,,,,,,
-看起來<color=#C53F3F><b>強盜</b></color>計畫再次使用<color=#FADC99><b>移動</b></color>和<color=#FADC99><b>攻擊</b></color>，但因為你選擇使用更加快速的<b>10</b>時序值卡牌，而他選擇了時序值為<b>50</b>的較慢卡牌！因此他將無法進行任何行動，直到<color=#a06e4b><b>蠻徒</b></color>的輪次結束。 讓我們幹掉他！",,,,,,,,,,,,,,,
+看起來<color=#C53F3F><b>強盜</b></color>計畫再次使用<color=#FADC99><b>移動</b></color>和<color=#FADC99><b>攻擊</b></color>，但因為你選擇使用更加快速的<b>10</b>時序值卡牌，而他選擇了時序值為<b>50</b>的較慢卡牌！因此他將無法進行任何行動，直到<color=#a06e4b><b>野蠻人</b></color>的輪次結束。 讓我們幹掉他！",,,,,,,,,,,,,,,
 tutorial_2_text_024_1,"幹掉他了！你看到地板上<color=#C53F3F><b>強盜</b></color>掉落的那些金幣了嗎？要拾取它，你需要使用<color=#FADC99><b>拾取</b></color>技能。
 ,,,,,,,,,,,,,,,
 請務必牢記：<b>黯淡港灣</b>的一個重要規則是你無法帶走沒有被拾取的財寶——如果你想要得到它，請務必在場景結束之前拾取它！",,,,,,,,,,,,,,,
-tutorial_2_text_024_2,"<color=#FADC99><b>拾取</b></color>技能也可以出現在技能卡上，但在這裡收集它的最簡單方法是停在包含金幣的格子上結束你的回合。
+tutorial_2_text_024_2,"<color=#FADC99><b>拾取</b></color>技能也可以出現在能力卡上，但在這裡收集它的最簡單方法是停在包含金幣的格子上結束你的回合。
 ,,,,,,,,,,,,,,,
-因此，我們需要讓我們的<color=#a06e4b><b>蠻徒</b></color>在他的剩餘行動結束之前進行移動。",,,,,,,,,,,,,,,
-tutorial_2_text_024_3,"但是，等一下...看看<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷</color></font></b></nobr>。
+因此，我們需要讓我們的<color=#a06e4b><b>野蠻人</b></color>在他的剩餘行動結束之前進行移動。",,,,,,,,,,,,,,,
+tutorial_2_text_024_3,"但是，等一下...看看<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷戰吼</color></font></b></nobr>。
 ,,,,,,,,,,,,,,,
-它的下半部分沒有<color=#FADC99><b>移動</b></color>技能，所以如何才能移動<color=#a06e4b><b>蠻徒</b></color>到達金幣所在的格子呢？",,,,,,,,,,,,,,,
+它的下半部分沒有<color=#FADC99><b>移動</b></color>技能，所以如何才能移動<color=#a06e4b><b>野蠻人</b></color>到達金幣所在的格子呢？",,,,,,,,,,,,,,,
 tutorial_2_text_024_4,"這是<color=#FADC99><b>基礎行動</b></color>！中央時序值的左側和右側是兩個小的<color=#FADC99><b>預設動作</b></color>按鈕。
 ,,,,,,,,,,,,,,,
 這些允許角色執行基礎的近戰<color=#FADC99><b>攻擊</b></color><b>2</b>而不是上半區行動或基礎的<color=#FADC99><b>移動</b></color><b>2</b>而不是下半區行動。",,,,,,,,,,,,,,,
-tutorial_2_text_024_5,由於你只需要讓</color><color=#a06e4b><b>蠻徒</b></color><color=#FADC99><b>移動</b>一格就能達金幣，我們可以使用下面的跳過按鈕跳過剩餘的移動。,,,,,,,,,,,,,,,
+tutorial_2_text_024_5,由於你只需要讓</color><color=#a06e4b><b>野蠻人</b></color><color=#FADC99><b>移動</b>一格就能達金幣，我們可以使用下面的跳過按鈕跳過剩餘的移動。,,,,,,,,,,,,,,,
 tutorial_2_text_025_1,幹得漂亮！你不僅擊敗了...孤身一人的<color=#C53F3F><b>強盜守衛</b></color>，你甚至設法拿走了他的金幣！,,,,,,,,,,,,,,,
 tutorial_2_text_025_2,基礎知識已經講完了，現在是時候讓你體驗一些更加危險的情景了。,,,,,,,,,,,,,,,
 twohexobstacle,兩格障礙物,,,,,,,,,,,,,,,

@@ -597,7 +597,7 @@ ability_card_glasshammer,琉璃錘
 ability_card_gloomdarts,蝕心鏢
 ability_card_gloriousbolt,輝煌脈衝
 ability_card_gnawinghorde,齧噬部落
-ability_card_grabandgo,雁過拔毛
+
 ability_card_graspingthevoid,攫取虛空
 ability_card_graspingvermin,抓住害蟲
 ability_card_gravelvortex,礫石渦旋
@@ -725,7 +725,7 @@ ability_card_primalduality,雙生原素
 ability_card_proficiency,熟能生巧
 ability_card_protectiveblessing,守護祝福
 ability_card_provoketerror,激發恐怖
-ability_card_provokingroar,嘲諷
+
 ability_card_proximitymine,近距地雷
 ability_card_psychicprojection,精神投射
 ability_card_pullthestrings,撥弦
@@ -843,7 +843,7 @@ ability_card_throwingknives,飛刀
 ability_card_throwvoice,聲音投射
 ability_card_tinkererstools,機匠工具包
 ability_card_toxicbolt,毒性電擊
-ability_card_trample,踐踏
+
 ability_card_tranquiltrill,無言戰慄
 ability_card_tremulantcyclone,戰慄旋風
 ability_card_triage,傷情鑒定
@@ -5144,32 +5144,14 @@ gui_guild_merchant,商人
 gui_guild_temple,大橡樹寺
 gui_guild_townrecords,城鎮記錄之敘事記錄
 
-gui_guild_worldmap,世界地圖
+
 gui_guildmaster_difficulty_title,難度
 gui_guildmaster_invalid_name,Enter a valid Guild Name
 gui_guildmaster_repeated_name,該<color=#C53F3F>公會名</color>已被使用。請輸入不同的名稱。
-gui_guildmaster_ruleset,公會模式規則集
+
 gui_guildmaster_start_game,開始遊戲
-gui_guildmaster_tutorial_full,全部教學
-gui_guildmaster_tutorial_introduction_descr,<color=#C2AF89FF>介紹：</color>體驗初始故事和解謎任務
-gui_guildmaster_tutorial_skip_ftue,故事介紹
-gui_guildmaster_tutorial_skip_ftue_intro,快速開始
-gui_guildmaster_tutorial_skip_ftue_intro_descr,跳過教學和介紹
-gui_guildmaster_tutorial_tutorial_descr,<color=#C2AF89FF>教學：</color>瞭解黯淡港灣的基本遊戲機制
+
 gui_hard,難的
-
-
-gui_house_rules_advantage_original_tooltip,"<color=#F1DBAE>Original:</color> When attacking with Advantage, if a single Rolling Modifier is drawn, both Attack Modifiers will be applied to the attack. In Disadvantage, only the non-rolling Modifier will be applied.
-If both draws are Rolling Modifiers, keep drawing until a non-rolling modifier is drawn. In Advantage, all Modifiers are applied to the attack. In Disadvantage, only the non-rolling Modifier is applied to the attack."
-gui_house_rules_advantage_variant,Variant: Can't roll into a null modifier with advantage. *Recommended
-gui_house_rules_advantage_variant_tooltip,"<color=#F1DBAE>Variant:</color> When attacking with Advantage or Disadvantage, if the first Attack Modifier is a Rolling Modifier, keep drawing until a non-rolling Modifier is drawn. Then draw one additional Attack Modifier, ignore any rolling icon. With Advantage, all Rolling Modifiers are applied to the better of the two final draws. With Disadvantage, all Rolling Modifiers are ignored and the worst of the last two draws will be applied."
-gui_house_rules_attack_modifiers,Attack Modifiers
-gui_house_rules_attack_modifiers_original,Original: x2 and x0 Attack Modifiers. *Recommended
-gui_house_rules_attack_modifiers_original_tooltip,Attack Modifier decks will contain x2 and x0 Attack Modifiers.
-
-gui_house_rules_line_of_sight_original_tooltip,"If a character has line of sight, a line can be drawn from any corner of the attacker’s hex to any corner of the defender’s hex without touching any part of a wall."
-gui_house_rules_line_of_sight_variant,Variant: Centre Hex LOS Added. *Recommended
-gui_house_rules_line_of_sight_variant_tooltip,A line can be drawn from the centre or any corner of the attacker’s hex to the centre or any corner of the defender’s hex without touching any part of a wall.
 
 
 gui_improved_short_rest_active_bonus_tooltip,"在你的下一輪次期間，短休息將會擁有長休息的所有好處:
@@ -12196,21 +12178,7 @@ tutorial_2_help_024_2,選擇包含金幣的高亮顯示的格子
 tutorial_2_help_024_3,按一下“確認移動”按鈕繼續
 tutorial_2_help_024_4,點擊“跳過移動”按鈕跳過剩下的移動
 tutorial_2_help_024_5,點擊“結束”以繼續
-tutorial_2_text_001,歡迎，會長！我是公會 <b>訓練師</b>，我將引導你建立自己的雇傭軍公會。首先，我們將通過瞭解<color=#a06e4b><b>蠻徒</b></color>來進行這一引導教學。
-tutorial_2_text_002_1,我想在我們進行行動之前，你會想要熟悉如何調整你對戰場的視角，因此讓我們看看如何控制視角的變化。
-tutorial_2_text_002_2,"<align=center><b>W A S D</b><color=#CCCCCC>——平移視角</color>
-<line-height=20%>
-<line-height=100%><b>Q E</b><color=#CCCCCC>——順/逆時針旋轉視角</color>
-<line-height=20%>
-<line-height=100%><b>+/-或滑鼠輪向前/向後</b><color=#CCCCCC>——縮放視角
 
-你還可以按住滑鼠滾輪通過持續拖動滑鼠來旋轉視角。</color></align>
-
-現在請你嘗試熟悉上述操作，然後在你覺得自己已經準備好了的時候點擊繼續。"
-tutorial_2_text_003,"在<b>黯淡港灣</b>中，你將控制一隊雇傭兵，每個傭兵都配備了一組<color=#FADC99><b>技能卡</b></color>。請注意，這些卡牌將成為你的雇傭兵將探索地下城、打擊敵人和掠奪寶藏的關鍵！
-
-在每一輪的開始階段，首先要做的是為每位雇傭兵選擇兩張卡牌。"
-tutorial_2_text_004,"在本教學中，<color=#a06e4b><b>蠻徒</b></color> 只有三張卡牌，你可以在螢幕的左側看到高亮的：<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr>、<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷</color></font></b></nobr>。
 
 <nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷</color></font></b></nobr>為灰色以指示其當前已經被丟棄（用於教學的緣故），因此，現在讓我們選擇<color=#a06e4b><b>蠻徒</b></color>的兩張可用卡牌。"
 tutorial_2_text_005,"看看<color=#a06e4b><b>蠻徒</b></color>在螢幕頂部旁邊的'<b>?</b>'改變為一串數字，這表示他的<color=#FADC99><b>時序值</b></color>為72。
