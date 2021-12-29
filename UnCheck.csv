@@ -1498,11 +1498,8 @@ card,卡牌
 cavebear,洞穴熊
 cavebearelite,洞穴熊精英
 chest,寶箱
-cityarcher,城市弓箭手
-cityarcherelite,城市弓箭手精英
-cityguard,城市守衛
-cityguardelite,城市守衛精英
-closed_door_tooltip,關閉的門
+
+
 combat_log_action_skipped,{0}跳過{1}行動
 combat_log_activate_carryable_quest_item,{0}撿起了{1}
 combat_log_activate_chestdamage,{0}打開{1}並受到{2}點傷害
@@ -4917,9 +4914,7 @@ gui_confirmation_perk_missing_remove_condition,鎖定的專精項目
 gui_confirmation_perk_missing_remove_condition_warning,此專精項目不能被選擇，因為您的牌堆中沒有必需的攻擊修正卡。
 gui_confirmation_restart_message,當前回合的所有進度都將丟失。所有雇傭兵都將返回技能卡選擇階段。
 gui_confirmation_restart_title,重新開始回合
-gui_confirmation_return_mainmenu,返回主選單
-gui_confirmation_return_mainmenu_map,所有進度都將保存。
-gui_confirmation_return_mainmenu_scenario,最後一回合的進度將會丟失。
+
 gui_confirmation_sell,出售{0}
 gui_confirmation_sell_equipped,{0}當前被{1}裝備，無論如何都要出售？
 gui_confirmation_sell_receive,收到：
@@ -5162,7 +5157,7 @@ gui_guild_mercenarylog,城鎮記錄之傭兵記錄
 gui_guild_merchant,商人
 gui_guild_temple,大橡樹寺
 gui_guild_townrecords,城鎮記錄之敘事記錄
-gui_guild_trainer,教官
+
 gui_guild_worldmap,世界地圖
 gui_guildmaster_difficulty_title,難度
 gui_guildmaster_invalid_name,Enter a valid Guild Name
@@ -5329,9 +5324,7 @@ gui_main_menu_multiplayer_how_to_host_descr,"<size=+4><sprite name=""Pointer""><
 </indent>
 <size=+4><sprite name=""Pointer""></size><indent=20>When in Multiplayer, players can join while on the <color=#F1DBAE>World Map or the Card selection phase</color> inside a Scenario.
 </indent>"
-gui_main_menu_multiplayer_how_to_host_title,Host a Session
-gui_main_menu_multiplayer_tooltip,"<color=#F1DBAE>Multiplayer</color>
-Join an existing Multiplayer game using an invite code."
+
 
 
 gui_medium,中等的
@@ -5497,18 +5490,17 @@ gui_multiplayer_invite_code,邀請碼
 gui_multiplayer_join,多人遊戲
 gui_multiplayer_join_session_descr,"You can <color=#F1DBAE>join a hosted game</color> and be given control over one or more mercenaries from the host's game. 
 To do so, you must <color=#F1DBAE>first receive an Invite Code</color> from the host. Once you have the invite code you must enter it in the box below and submit it to start playing with friends!"
-gui_multiplayer_join_session_title,加入多人遊戲：
-gui_multiplayer_join_session_title_v2,Play With Friends
-gui_multiplayer_joining_session,載入場景...
+
+
 gui_multiplayer_locked_party_not_hq_tooltip,在你返回到黯淡港灣或進入一個場景之前，多人遊戲會被鎖住。
 gui_multiplayer_locked_tooltip,完成完整教學後，多人遊戲將解鎖。
 gui_multiplayer_my_turn,你的<color=#F1DBAE>輪次</color>
 gui_multiplayer_party,角色
 gui_multiplayer_player_turn,{0} 的<color=#F1DBAE>輪次</color>
-gui_multiplayer_readying,準備...
+
 gui_multiplayer_remove_user,移除用戶
-gui_multiplayer_start_session,主持多人遊戲
-gui_multiplayer_unreadying,取消準備......
+
+
 gui_multiplayer_view_player_deck,<color=#F1DBAE>查看</color> {0} <color=#F1DBAE>的技能卡卡牌堆</color>
 gui_multiplayer_waiting_players_reward,等待玩家返回到世界地圖……
 gui_multiplayer_warning_text_waitingforcharassignment,等待所有玩家完成角色安排
@@ -5518,15 +5510,13 @@ gui_multiplayer_warning_text_waitingformycharassignment,等待主機給我分配
 gui_multiplayer_warning_title_progression_disabled,被禁用的進程
 gui_negative_conditions,負面狀態
 gui_neutral,中立的
-gui_new,開始新遊戲
-gui_new_adventure,新冒險
-gui_new_campaign,新戰役
+
 gui_new_card_notification,添加了新的技能卡，它低於當前級別。出於這個原因，我們會給你有機會<color=#CEAD5A>免費重置你的技能卡堆 </color>，並嘗試一些你可能已經錯過的技能！
 gui_new_card_notification_title,已添加新卡牌！
-gui_new_character,新的雇傭兵
+
 gui_new_quest_location_title,新任務地點！
-gui_new_ruleset,新規則集:
-gui_no_mods_message,"您已創建新的自訂規則集！
+
+
 <color=#f3ddab>通過按一下下面的連結訪問創意工坊 </color>並將Mod添加到您的規則集中！"
 gui_notification_assign_all_my_slots,在冒險之前，必須分配給主機任一空的成員槽
 gui_notification_city_event_selected,{0} 已經選擇了一個城鎮事件！
@@ -5957,7 +5947,7 @@ gui_use_item_movement_tip,切換顯示的物品以將其效果添加到移動
 gui_use_item_title,使用物品
 gui_validate,驗證
 gui_view_alt_cards_tip,按住alt查看所有卡
-gui_visit_workshop,流覽創意工坊
+
 gui_wait_players_confirm_city_event,已選擇的城市事件
 gui_wait_players_confirm_enter_scenario,進入戰鬥
 gui_wait_players_confirm_quest,已選擇的任務
@@ -6468,16 +6458,15 @@ loading_tip_042,注意，移除負面狀態的技能或者物品（例如醫療�
 loading_tip_043,詛咒卡有10張的上限，此規則分別適用於傭兵的攻擊修正牌堆和怪物的攻擊修正牌堆。試圖向任一攻擊修正牌堆添加第11張詛咒卡，都是無效的！
 loading_tip_044,所有的攻擊修正牌堆有一個共用的祝福卡牌堆上限（10張）。當場上的祝福卡達到10張上限，試圖向任一攻擊修正牌堆添加第11張祝福卡，都是無效的！
 loading_tip_045,僅剩下兩張牌在棄牌堆裡？短休息將導致你直接出局，但長休息至少能讓你在本回合做一個肉盾！
-loading_tip_046,遊戲時多喝水，保持水分充足！
-loading_tip_047,你可以通過按數字鍵1-4來查看對應角色的所有卡牌。
+
+
 loading_tip_048,如果一個非攻擊性角色試圖移動到一個位置但路線被阻擋不可達，那麼該角色將不會移動。
 loading_tip_049,你可以選擇讓你的團隊裡有2個、3個或者4個雇傭兵——但如何計算劇本的困難程度取決你帶了多少人。
 loading_tip_050,在道路和城市事件中做出的選擇可能會影響世界線的走向，導致新的任務和事件觸發。
 loading_tip_051,You can use Ctrl+Click to ping a tile in Multiplayer.
 loading_tip_052,"Unlike normal chests, you do not get to keep quest items looted from Ornate Chests if you fail the scenario."
 loading_tip_053,"Summons can only be summoned onto empty hexes - traps, difficult terrain and even gold will block summons!"
-loading_tip_054,
-loading_tip_055,
+
 locked_door_tooltip,鎖住的門
 loggingcamp,伐木營地
 loggingcamp_descr,在附近叢林的多次羚角族掠奪之後，這個營地最近被遺棄了。營地南面被熊匆忙一場的印記證明了這一事實，地上豎著大量的木制十字架。
@@ -7074,8 +7063,8 @@ normal,普通的
 objective_tile_tooltip,作為達成目標的一部分，請站在這裡。
 obsidianbluff,火山岩石崖
 obsidianbluff_descr,從高山上的有利位置，你可以欣賞到凱爾地區和北部沙漠的美景。
-obstacle,障礙物
-obstacle_tooltip,障礙物
+
+
 oldhut,老舊小屋
 ondeath,論死亡
 onehexobstacle,一格的障礙物
