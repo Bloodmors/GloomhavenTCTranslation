@@ -1931,19 +1931,9 @@ denofrazors,剃刀巢穴
 desertedcamp,被遺棄的營地
 destroyobstacle,摧毀障礙物
 difficult_terrain_tooltip,困難地形
-difficulty_blessed,被祝福的：英雄們以2張的祝福(x2)卡開始每個劇本
-difficulty_brutal_enemies,"Brutal: Monsters, Traps and Gold will be 2 levels higher"
-difficulty_campaign_easy,容易： -1 劇本等級修正
-difficulty_campaign_hard,困難： +1 劇本等級修正
-difficulty_campaign_insane,瘋狂： +2 劇本等級修正
-difficulty_campaign_normal,普通： 標準劇本等級修正
-difficulty_cursed,受詛咒：英雄們以2張的詛咒(x0)卡開始每個劇本
-difficulty_deadly_enemies,"Deadly: Monsters, Traps and Gold will be 3 levels higher"
-difficulty_easy_enemies,簡單的敵軍：怪物、陷阱、金幣將會低1級
-difficulty_hard_enemies,困難的敵軍：怪物、陷阱、金幣將會高1級
-difficulty_healthy,健康： 英雄們多擁有25%的生命值
+
+
 difficulty_high,高
-difficulty_insane_enemies,瘋狂的敵軍：怪物、陷阱、金幣將會高2級
 difficulty_low,低
 difficulty_medium,中
 difficulty_peaceful,和平： 少25%的敵軍
@@ -4905,7 +4895,7 @@ gui_confirm_pull,確認拉近
 gui_confirm_push,確認推遠
 gui_confirm_targets,確認目標
 gui_confirm_use_item,使用物品
-gui_confirmation,你確定嗎？
+
 gui_confirmation_abandon_adventure_scenario,本劇本您將以失敗結束，並返回地圖介面。您將保留任何已賺取的金幣，經驗值XP和成就進度。
 gui_confirmation_abandon_single_scenario,本劇本您將以失敗結束，並返回主選單。
 gui_confirmation_buy,購買{0}
@@ -4915,7 +4905,7 @@ gui_confirmation_cancel_discard_ability,{0}將被棄置
 gui_confirmation_enable_perk,獲得{0}個{1}/{2}
 gui_confirmation_enable_perk_warning,一旦應用，就無法移除一個專精項目
 gui_confirmation_end_session,返回單人模式繼續遊戲
-gui_confirmation_exit_game_map,將會存檔所有進度。
+
 gui_confirmation_exit_game_scenario,將會失去這一回合的所有進度。
 
 gui_confirmation_exit_scenario,放棄劇本
@@ -4985,14 +4975,11 @@ gui_devotion_level,奉獻等級{0}
 gui_devotion_tooltip,"<size=+2><color=#EACF8C> 捐助</color></size>
 向大橡樹寺捐助金幣，以提高玩家團隊的奉獻等級。"
 gui_difficulty_brutal,Brutal
-gui_difficulty_deadly,Deadly
+
 gui_difficulty_descr_campaign,Difficulty Options can be changed during the game
 gui_difficulty_descr_campaign_v2,Difficulty settings can be modified during the game. These can be found in the Options menu
-gui_difficulty_easy,簡單
-gui_difficulty_friendly,Friendly
-gui_difficulty_hard,困難
-gui_difficulty_insane,瘋狂
-gui_difficulty_normal,普通
+
+
 gui_difficulty_select,選擇難度
 
 gui_disabled,Disabled
@@ -5118,28 +5105,9 @@ gui_finish,結束
 gui_finish_target_select,完成目標選擇
 gui_first_retired_characters_story_1,在與團隊意志最堅定的雇傭兵中的一個冷靜卻又深情的告別之後，你發現自己想知道是否可能其他人也在建造著黯淡港灣的未來，卻最終只能默默地離開這座城市。
 gui_first_retired_characters_story_2,你曾聽說過硬幣區的城鎮記錄大樓，但從未去過。你心中確定它會是能滿足你好奇心的最佳地點，它在該區的核心深處，你向著這個龐大圓形建築的位置走去。
-gui_frontendtutorial_01_description,邁出身為雇傭兵的第一步從來都不是容易的。開始教學，學習一些基本的黯淡港灣機制吧！
-gui_frontendtutorial_01_tilte,1.基本
-gui_frontendtutorial_02_description,你邁出第一步了？真不錯。現在是時候去學習些重要的事情了，比如殺死敵人並拾取金幣。
-gui_frontendtutorial_02_tilte,2.雁過拔毛
-gui_frontendtutorial_03_description,連接你已經學習到的技巧放倒強盜弓箭手。你會用到一些其他的幫助去穿過那些煩人的陷阱。
-gui_frontendtutorial_03_tilte,3.翼步生輝
-gui_frontendtutorial_04_description,瞭解你站在哪裡，根據敵人的資訊找到地牢裡最好的移動位置。
-gui_frontendtutorial_04_tilte,4.不要靠近
-gui_frontendtutorial_05_description,瞭解攻擊修正卡，包括它們如何作用、如何影響你的每一次的每一個攻擊。
-gui_frontendtutorial_05_tilte,5.攻擊修正卡
-gui_frontendtutorial_06_description,蠻徒在與不死族骷髏們苦鬥。用盡一切辦法讓它們永遠的死去。
-gui_frontendtutorial_06_tilte,6.我是羚角族的戰士
-gui_frontendtutorial_07_description,刺客有兩柄飛刀，而且要撿很多金幣，她每一枚都想帶走。
-gui_frontendtutorial_07_tilte,7.暗夜刀鋒
-gui_frontendtutorial_08_description,織咒師們是一個強大的種族，但在激烈的戰鬥中很脆弱。學習如何充分利用元素。
-gui_frontendtutorial_08_tilte,8.掌握元素
-gui_frontendtutorial_09_description,機工巧匠們屬於靈活機智的種族，難道流血流血就能難住他們嗎？
-gui_frontendtutorial_09_tilte,9.大腦支配肉體
-gui_frontendtutorial_10_description,四個不死族骷髏已經圍住了裂心石人，時間不多了，你能不能突圍並全部殺死他們呢？
-gui_frontendtutorial_10_tilte,10.石頭心
-gui_frontendtutorial_11_description,當你能召喚點什麼東西為你做事的時候，何必所有戰鬥親力親為呢？
-gui_frontendtutorial_11_tilte,11.思想支配物質
+
+
+
 gui_gained_gold,玩家團隊已賺取的金幣:
 gui_gained_health,獲得{0}點生命值
 gui_gained_level,獲得{0}級別
@@ -5209,8 +5177,8 @@ gui_guildmaster_tutorial_skip_ftue_intro_descr,跳過教學和介紹
 gui_guildmaster_tutorial_tutorial_descr,<color=#C2AF89FF>教學：</color>瞭解黯淡港灣的基本遊戲機制
 gui_hard,難的
 gui_herolevel,角色等級。
-gui_house_rules,House Rules
-gui_house_rules_advantage,Advantage/Disadvantage
+
+
 gui_house_rules_advantage_original,Original: Can roll into a null modifier with advantage.
 gui_house_rules_advantage_original_tooltip,"<color=#F1DBAE>Original:</color> When attacking with Advantage, if a single Rolling Modifier is drawn, both Attack Modifiers will be applied to the attack. In Disadvantage, only the non-rolling Modifier will be applied.
 If both draws are Rolling Modifiers, keep drawing until a non-rolling modifier is drawn. In Advantage, all Modifiers are applied to the attack. In Disadvantage, only the non-rolling Modifier is applied to the attack."
@@ -5308,8 +5276,8 @@ gui_linked_quest_choose_tooltip,繼續{0}或返回黯淡港灣
 gui_linked_quest_headquarters_choice,回到黯淡港灣
 gui_linked_quest_invalid_choice,在接受這個任務之前，你必須返回黯淡港灣
 gui_linked_quest_linkedquest_choice,如果你現在接受任務，你不會面對一條道路遇到
-gui_load,載入
-gui_load_adventure,載入冒險
+
+
 gui_load_adventure_description,選擇存檔資料以恢復...
 gui_load_adventure_difficulty,困難:
 gui_load_adventure_gold,玩家團隊金幣:
@@ -5365,9 +5333,7 @@ gui_main_menu_multiplayer_how_to_host_title,Host a Session
 gui_main_menu_multiplayer_tooltip,"<color=#F1DBAE>Multiplayer</color>
 Join an existing Multiplayer game using an invite code."
 
-gui_main_menu_tutorial_tooltip,"<color=#F1DBAE>Tutorial</color>
-New to Gloomhaven? Play the Tutorial to familiarise yourself with the basic mechanics of Gloomhaven.
-This can also be experienced as part of the intro to the Guildmaster mode."
+
 gui_medium,中等的
 gui_mind_control,心靈控制
 gui_mind_control_action,這個單位，在一個行動期間，將受到的心靈控制的影響。
@@ -5630,7 +5596,7 @@ gui_opt_control_reset,重置
 
 
 
-gui_opt_difficulty,困難度
+
 
 
 
@@ -5968,7 +5934,7 @@ gui_trainer_introduction,歡迎來到訓練營。此屏包含所有您可以去�
 gui_trainer_title,羚角族教官
 gui_travel,旅行
 gui_turn_off_tutorial,關閉教學
-gui_tutorial,教學
+
 gui_tutorial_01_description,近戰攻擊和移動
 gui_tutorial_01_instructions,裂心石人這一回合只有兩張技能卡。您現在必須啟動一張卡的上半區和另一張卡的下半區（以任意順序）來殺死強盜衛兵。
 gui_tutorial_01_title,近戰攻擊和移動
@@ -12455,10 +12421,10 @@ xis_hexesmovedthisturn,X 是這一輪次你已經移動的格子數量。
 xis_hpdiff, X 是你的最大生命值和當前生命值的差值。
 xis_lostcardcount,X 是你已經燒祭的卡牌數。
 xis_numberofsummonedallies,X 是所有召喚物夥伴的數量。
-xp,經驗值
+
 xp_per5damage,每造成5點傷害獲得<sprite name=XP1>。
 xp_perattackperformed,每進行一次攻擊獲得<sprite name=XP1>。
 xp_perenemy,每指定一個敵人作為目標獲得<sprite name=XP1>。
 xp_pertwoenemiestargeted,每指定兩個敵人作為目標獲得<sprite name=XP1>。
-yes,是
+
 zephyr,旋風
