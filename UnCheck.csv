@@ -1668,9 +1668,9 @@ compendium_discardedandburned_1,"如果技能卡的主要行動的右下角沒�
 
 但是，卡牌主要行動的右下角可能具有以下特殊符號："
 compendium_discardedandburned_2,"<b>燒毀</b>
-被燒毀的卡牌無法通過休息恢復，這些卡通常只能使用一次，除非使用某些卡牌上具有的<b>回收被燒毀卡牌</b>技能使被燒毀卡牌返回手牌中。"
+被燒毀的卡牌無法通過休息回收，這些卡通常只能使用一次，除非使用某些卡牌上具有的<b>回收被燒毀卡牌</b>技能使被燒毀卡牌返回手牌中。"
 compendium_discardedandburned_3,"<b>永久燒毀</b>
-被永久燒毀的卡牌無法通過任何方式在當前場景中被恢復，僅能在當前場景結束時被恢復。"
+被永久燒毀的卡牌無法通過任何方式在當前場景中被回收，僅能在當前場景結束時被恢復。"
 compendium_discardedandburned_title,棄牌和燒牌
 compendium_exhaustion,"一個角色會因兩種方式之一而筋疲力盡：
 
@@ -1685,7 +1685,7 @@ compendium_gainingexperience_2,"有時卡牌上會具體說明，僅在滿足某
 
 此外，在每次冒險成功結束時，參與本次冒險的每個角色都將根據冒險困難度獲得經驗。更困難的冒險將獎勵你更多的經驗，要注意——即使你冒險失敗了，你也不會失去在冒險過程中獲得的經驗值，大膽冒險吧！"
 compendium_gainingexperience_title,獲得經驗
-compendium_heal_1,<b>治療X：</b>能力允許一名該技能範圍內的角色或其友軍恢復X點生命值。
+compendium_heal_1,<b>治療X：</b>能力允許一名該技能範圍內的角色或其友軍回復X點生命值。
 compendium_heal_2,當治療能力僅附帶<b>自身</b>屬性時，該治療能力只能作用于施法者本人。
 compendium_heal_title,治療
 compendium_infusingelements_1,一些技能具有與它們相關的元素親和力。如果使用了包含以下元素符號之一的行動，它將在當前角色輪次結束後充能該元素至強烈狀態，在能充能任一元素的情況下，系統將提示你選擇要充能的元素。如果怪物卡具有充能任一元素的效果，則隨機選擇任一元素。
@@ -5796,7 +5796,7 @@ gui_tooltip_select_recover_lost_cards,選擇回手{0}張被燒祭的卡。
 gui_tooltip_select_summon_movement,Choose to move the Summoned Ally towards its Summoner
 gui_tooltip_select_summon_movement_title,Summon Movement
 gui_tooltip_shields,護甲：一個帶護甲的角色減少X點所受到的攻擊。護甲值可以疊加。護甲僅適用於技能卡的“攻擊”傷害，不會阻止其他形式的傷害。
-gui_tooltip_short_rest,隨機燒祭一張棄牌堆的卡牌以恢復所有其他棄牌堆的卡牌。如果您不想燒祭抽到的卡，您可以選擇扣掉一點血拿走這張卡，並重抽一張卡進行燒祭。
+
 gui_tooltip_short_rest_warning,需要2張或以上棄牌堆的卡牌。
 gui_tooltip_single_target,選擇一個單體目標。
 gui_tooltip_start_turn,讓每個角色選擇兩個技能卡打出或選擇休息。
@@ -6226,7 +6226,6 @@ kailej,凱爾地區
 kailej_descr,凱爾地區的魔人城是南部沙漠中的寶石。它的塔和山尖可以在數英里外看到，對向南旅行穿越暴風地的人們來說是一個很受歡迎的歇腳點。
 
 
-
 keyport,奇波特港
 keyport_descr,奇波特港是西海的主要貿易樞紐，日漸富強。有傳言說商人公會計畫在當地發動政變，為了預防起見，光明的駐軍得到了加強。
 kill,擊殺
@@ -6451,7 +6450,7 @@ message_end_quest_story_7c_10,選擇你的團隊，武裝他們，然後你就�
 message_end_quest_story_7c_11,多人遊戲現已啟用。
 message_end_quest_story_7c_2,"左側的面板是用於選擇團隊的陣容，並且在解鎖更多內容時自訂其技能卡和道具。現在你還可以在每個任務中帶上最多4個你自由選擇的傭兵。
 
-但請注意，劇本的難度會隨著玩家角色的數量改變。除非你曾經玩過<b>黯淡港灣</b>，否則建議保持2個角色來確保決策的可控性！"
+但請注意，劇本的難度會隨著玩家角色的數量改變。除非你曾經玩過<color=#BA7956><b>黯淡港灣</b></color>，否則建議保持2個角色來確保決策的可控性！"
 message_end_quest_story_7c_3,當裝備道具時，注意裝備道具的傭兵將與其綁定。你可以付出一定代價來解綁，但請試著直接將其給予合適的傭兵。
 message_end_quest_story_7c_4,為了幫助你在完成培訓後繼續提升你的技術，我提供了一系列成就供你達成。這些成就可以通過螢幕底部的<b>教官</b>按鈕查看。
 message_end_quest_story_7c_5,完成這些挑戰將給予公會更多的獎金，任務，和地點。有時甚至會是回收強大遺物的任務！
