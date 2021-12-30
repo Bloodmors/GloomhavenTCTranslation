@@ -5677,7 +5677,7 @@ gui_results_objective,目標
 gui_results_reward,領取您的獎勵！
 gui_results_stats,統計項目
 gui_results_total,全部的
-gui_results_win,勝利！
+
 gui_results_winrate,劇本勝率
 gui_results_xp,獲得經驗值
 
@@ -12135,38 +12135,7 @@ treasure_chest_tooltip,財寶寶箱
 
 
 
-tutorial_2_help_018_1,點擊“短休息”按鈕
-tutorial_2_help_018_2,點擊“是”以繼續
-tutorial_2_help_020,選擇嘲諷
-tutorial_2_help_021_1,選擇踐踏
-tutorial_2_help_021_2,按一下“結束選擇”繼續
-tutorial_2_help_023_1,選擇踐踏的上半區
-tutorial_2_help_023_2,選擇強盜守衛作為攻擊目標
-tutorial_2_help_023_3,按一下“確認目標”按鈕以執行攻擊
-tutorial_2_help_024_1,按一下嘲諷的基礎移動按鈕
-tutorial_2_help_024_2,選擇包含金幣的高亮顯示的格子
-tutorial_2_help_024_3,按一下“確認移動”按鈕繼續
-tutorial_2_help_024_4,點擊“跳過移動”按鈕跳過剩下的移動
-tutorial_2_help_024_5,點擊“結束”以繼續
 
-
-
-
-tutorial_2_text_024_1,"幹掉他了！你看到地板上<color=#C53F3F><b>強盜</b></color>掉落的那些金幣了嗎？要拾取它，你需要使用<color=#FADC99><b>拾取</b></color>技能。
-
-請務必牢記：<b>黯淡港灣</b>的一個重要規則是你無法帶走沒有被拾取的財寶——如果你想要得到它，請務必在場景結束之前拾取它！"
-tutorial_2_text_024_2,"<color=#FADC99><b>拾取</b></color>技能也可以出現在技能卡上，但在這裡收集它的最簡單方法是停在包含金幣的格子上結束你的回合。
-
-因此，我們需要讓我們的<color=#a06e4b><b>蠻徒</b></color>在他的剩餘行動結束之前進行移動。"
-tutorial_2_text_024_3,"但是，等一下...看看<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷</color></font></b></nobr>。
-
-它的下半部分沒有<color=#FADC99><b>移動</b></color>技能，所以如何才能移動<color=#a06e4b><b>蠻徒</b></color>到達金幣所在的格子呢？"
-tutorial_2_text_024_4,"這是<color=#FADC99><b>基礎行動</b></color>！中央時序值的左側和右側是兩個小的<color=#FADC99><b>預設動作</b></color>按鈕。
-
-這些允許角色執行基礎的近戰<color=#FADC99><b>攻擊</b></color><b>2</b>而不是上半區行動或基礎的<color=#FADC99><b>移動</b></color><b>2</b>而不是下半區行動。"
-tutorial_2_text_024_5,由於你只需要讓</color><color=#a06e4b><b>蠻徒</b></color><color=#FADC99><b>移動</b>一格就能達金幣，我們可以使用下面的跳過按鈕跳過剩餘的移動。
-tutorial_2_text_025_1,幹得漂亮！你不僅擊敗了...孤身一人的<color=#C53F3F><b>強盜守衛</b></color>，你甚至設法拿走了他的金幣！
-tutorial_2_text_025_2,基礎知識已經講完了，現在是時候讓你體驗一些更加危險的情景了。
 twohexobstacle,兩格障礙物
 ui_augment_group_tooltip_cgflurry,損失 X 生命值以在這次攻擊增加 X 點攻擊力。
 ui_augment_group_tooltip_cgmaw,損失 X 生命值以在這次攻擊增加 X 點攻擊力。
