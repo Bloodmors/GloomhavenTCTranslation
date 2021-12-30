@@ -1614,8 +1614,7 @@ compendium_advantageanddisadvantage_3,具有<b>劣勢</b>的攻擊將抽取兩�
 compendium_advantageanddisadvantage_title,優勢和劣勢,,,,,,,,,,,,,,,
 compendium_adventuremode,"在黯淡港灣的會長模式中，你是魔門鎮雇傭軍的領導者。該地區處於危險之中，這裡有擁有各種技能的怪物，讓人們擔心村莊的安全。
 
-你的公會的目標是通過征服困擾著這裡土地的邪惡之物來恢復這些村莊之間的貿易路線 – 這樣做會有很多黃金！
-",,,,,,,,,,,,,,,
+你的公會的目標是通過征服困擾著這裡土地的邪惡之物來恢復這些村莊之間的貿易路線 – 這樣做會有很多黃金！",,,,,,,,,,,,,,,
 compendium_adventuremode_title,會長模式,,,,,,,,,,,,,,,
 compendium_areaeffects_1,某些能力卡上的某些效果或道具卡上其他能力將允許你在攻擊和使用效果時瞄準多個格子。在這種情況下，在卡上將顯示效果作用的能力範圍。你可以旋轉技能區域，你可以在設置中的“目標控制”選項中查看快速鍵。,,,,,,,,,,,,,,,
 compendium_areaeffects_2,卡上的紅色六邊形表示受效果影響的格子。,,,,,,,,,,,,,,,
@@ -1625,13 +1624,9 @@ compendium_areaeffects_4,"一些區域效果攻擊具有射程的屬性，能夠
 請注意，使用區域效果時，雖然瞄準時只要有一個紅色格子在視線範圍內即可實現瞄準，但區域效果只能作用於角色視線中的目標，視線之外的目標即使被區域效果範圍涵蓋在內也無法受到影響。",,,,,,,,,,,,,,,
 compendium_areaeffects_title,區域效果,,,,,,,,,,,,,,,
 compendium_attackeffects_1,"攻擊效果會在攻擊結算後附加在目標上。無論相應的攻擊是否造成傷害，都會施加攻擊能力效果。在沒有攻擊的情況下，某些行動也可以使這些攻擊效果作為技能生效，並且在這種情況下，攻擊效果的目標要求會標注在能力卡上。"
-,,,,,,,,,,,,,,,
-compendium_attackeffects_2,"<b>推遠 X：</b>使目標被迫在攻擊者指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更遠離攻擊者。如果沒有可以繼續使目標移動的格子，則無法繼續推遠目標。目標可以在被推遠時通過其友軍所在的格子，但無法通過其敵人所在的格子。
-",,,,,,,,,,,,,,,
-compendium_attackeffects_3,"<b>拉近 X：</b>使目標被迫在攻擊者指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更接近攻擊者。如果沒有可以繼續使目標移動的格子，則無法繼續拉近目標。目標可以在被拉近時通過其友軍所在的格子，但無法通過其敵人所在的格子。
-",,,,,,,,,,,,,,,
-compendium_attackeffects_4,"<b>穿刺 X：</b>忽略目標最多X點護盾進行攻擊。與其他效果不同，穿刺會在攻擊造成傷害時進行結算，而不是在攻擊後附加。
-",,,,,,,,,,,,,,,
+compendium_attackeffects_2,"<b>推遠 X：</b>使目標被迫在攻擊者指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更遠離攻擊者。如果沒有可以繼續使目標移動的格子，則無法繼續推遠目標。目標可以在被推遠時通過其友軍所在的格子，但無法通過其敵人所在的格子。"
+compendium_attackeffects_3,"<b>拉近 X：</b>使目標被迫在攻擊者指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更接近攻擊者。如果沒有可以繼續使目標移動的格子，則無法繼續拉近目標。目標可以在被拉近時通過其友軍所在的格子，但無法通過其敵人所在的格子。"
+compendium_attackeffects_4,"<b>穿刺 X：</b>忽略目標最多X點護盾進行攻擊。與其他效果不同，穿刺會在攻擊造成傷害時進行結算，而不是在攻擊後附加。"
 compendium_attackeffects_5,"<b>增加目標：</b>如果角色用攻擊行動觸發增加目標的效果，則角色可以在攻擊範圍內選取額外的目標進行攻擊。攻擊行動本身的所有附加效果和條件也適用於額外選擇的目標（不包含“增加目標”效果本身）。",,,,,,,,,,,,,,,
 compendium_attackeffects_title,攻擊效果,,,,,,,,,,,,,,,
 compendium_attackmodifiers_1,"攻擊時，將卡的攻擊數值之上，按以下順序計算額外的傷害。對成為攻擊目標的每個敵人單獨重複這些步驟：
@@ -5037,7 +5032,7 @@ gui_early_access_page_3_info,"在兩年的早期版本中，最終隨著戰役�
 我們自2019年7月以來已經走了很長的路，有了全新的會長模式，多人模式和現在的戰役模式，更不用說我們逐漸添加了所有角色、怪物和物品了！這是一個巨大的項目，但因為從社區收到的熱情，我們喜歡它的每一分鐘。
 
 希望我們不辱使命。
-,,,,,,,,,,,,,,,
+
 Flaming Fowl 工作室",,,,,,,,,,,,,,,
 gui_early_access_page_3_title,謝謝！,,,,,,,,,,,,,,,
 gui_early_access_page_4_title,教學和學習遊戲,,,,,,,,,,,,,,,
@@ -5495,11 +5490,11 @@ gui_modding_wait_loading_ruleset,請稍等。載入'{0}',,,,,,,,,,,,,,,
 gui_modding_welcome_desc,"你需要做的第一件事是建立自訂規則集。
 
 
-,,,,,,,,,,,,,,,
+
 只要Mods不編輯相同的檔，每個自訂規則集都可以應用多個Mod。如果發生這種情況，將顯示警告消息。
 
 
-,,,,,,,,,,,,,,,
+
 從Steam 創意工坊下載的Mod不會官方答疑支持，因此如果你有任何問題，請聯繫Mod 貢獻者。我們也無法保證你不會在這些模式下不被劇透。",,,,,,,,,,,,,,,
 gui_modding_welcome_title,歡迎來到黯淡港灣的Mod管理！,,,,,,,,,,,,,,,
 gui_monster_card,怪物,,,,,,,,,,,,,,,
@@ -8282,11 +8277,11 @@ quest_campaign_039_desc,找出神器與這裡連結的原因,,,,,,,,,,,,,,,
 quest_campaign_039_intro,"不幸的是，當你們的眼睛適應了黑暗後，你們發現這裡十分熱鬧。身穿黑袍的生物和製造這些風雪的惡魔正在洞穴深處等著你們。
 
 
-,,,,,,,,,,,,,,,
+
 從狂嘯的寒風中傳來一聲巨響：“這裡不歡迎你們，凡人。等待你們的只有死亡的懷抱。”
 
 
-,,,,,,,,,,,,,,,
+
 你們舉起武器，雖然在暴風雪中幾乎看不清方向，但你們依舊下定決心要讓對面那些生物擁抱死亡。",,,,,,,,,,,,,,,
 quest_campaign_039_intro_travel_1,你們在銅頸山脈的山峰上艱難跋涉，抱怨著黑爾讓你們去的每個地方都是這種寸草不生之地。你們來到目的地的山麓，仰望著兩座山峰中更高的那個。,,,,,,,,,,,,,,,
 quest_campaign_039_intro_travel_2,這座高聳的颶風是如此陡峭，讓你們望而卻步。想要直接攀登簡直是癡人說夢。幸好，另一座山峰的坡度要緩很多。你們決定開始攀爬較緩的那座山峰，希望在更高的地方能有其他更簡單的路通向主峰。,,,,,,,,,,,,,,,
@@ -8307,7 +8302,7 @@ quest_campaign_040_intro_gh_2,關於這座墳墓的景象不斷傳入你們的�
 quest_campaign_040_intro_gh_3,"“容器和公會的首領埋在了一起，而墳墓的設計就是為了殺死所有膽敢闖入的人，”神秘聲音說道，“這將會是你們面臨的最艱難的任務。在進入墓室之前，你們必須先關閉圍繞它所建的防禦網。”
 
 
-,,,,,,,,,,,,,,,
+
 “我可以告訴你們進去的道路。但是到達之後，你們必須分頭行動，克服苦痛的挑戰，然後同時啟動設置在兩側房間裡的開關。他們以為可以在我面前隱藏自己的秘密，那真是大錯特錯!”",,,,,,,,,,,,,,,
 quest_campaign_040_list,找到最後一個容器,,,,,,,,,,,,,,,
 quest_campaign_040_name,遠古防禦網,,,,,,,,,,,,,,,
@@ -10120,11 +10115,11 @@ scenario_campaign_038_objective_2,保護這名花晶族人,,,,,,,,,,,,,,,
 scenario_campaign_038_start_1,‘Yes, I can guide you through the deeper forest,‘ the Orchid says. ‘But I cannot abandon my brethren or let what these Inox are doing go unanswered.‘ He moves over to a guard‘s corpse and picks up a blade.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 scenario_campaign_038_start_2,“You can help me if you want, but either way, blood must be spilled in this place.“ The Orchid rushes forward at a group of Inox, yelling wildly. ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 scenario_campaign_038_start_3,"Soon the whole camp is bustling with hostile activity.
-,,,,,,,,,,,,,,,
+
 If you want a guide, it looks as though you'll need to keep him alive. ",,,,,,,,,,,,,,,
 scenario_campaign_038_success_1,With the last of the Inox and their golems dead, the Orchid drops his sword and falls to his knees.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 scenario_campaign_038_success_2,"‘Thank you,‘ he says. ‘They killed my family when they came. They said my children were not strong enough workers.‘
-",,,,,,,,,,,,,,,
+"
 scenario_campaign_038_success_3,The Orchid dips his fingers in a pool of blood and begins to paint his face with it. ‘I thought killing them all would help, but I still feel hollow.“,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 scenario_campaign_038_success_4,‘I owe you a debt for what you have done. I will gladly lead you into the western forest. On the way, however, I would like to check on a neighboring Orchid village. I fear that this may not be the last of the slaving Inox tribe.‘,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 scenario_campaign_038_success_5,The Orchid stands and turns to you, his face now a red mask of ferocity and hatred. ‘I am called Redthorn. Follow me.‘,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
