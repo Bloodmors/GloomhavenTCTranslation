@@ -4875,10 +4875,10 @@ gui_completed_personal_quest_progress_tip_male,{0}已經邁出了朝著<color=#E
 gui_completed_personal_quest_tip_female,{0}已經<color=#EACF8C>完成了她的個人任務</color>，人物並沒有任何動機再去探索那些充滿怪物的廢墟
 gui_completed_personal_quest_tip_male,{0}已經<color=#EACF8C>完成了他的個人任務</color>，人物並沒有任何動機再去探索那些充滿怪物的廢墟
 gui_conditions_effects,狀態和附加效果
-gui_confirm,確認
+
 gui_confirm_action,確認行動
-gui_confirm_attack,確認攻擊
-gui_confirm_movement,確認移動
+
+
 gui_confirm_pull,確認拉近
 gui_confirm_push,確認推遠
 gui_confirm_targets,確認目標
@@ -4894,10 +4894,9 @@ gui_confirmation_enable_perk,獲得{0}個{1}/{2}
 gui_confirmation_enable_perk_warning,一旦應用，就無法移除一個專精項目
 gui_confirmation_end_session,返回單人模式繼續遊戲
 
-gui_confirmation_exit_game_scenario,將會失去這一回合的所有進度。
 
 gui_confirmation_exit_scenario,放棄劇本
-gui_confirmation_gui_restart_turn,將會失去當前輪次的所有進度。
+
 gui_confirmation_levelup_card,將此卡添加到您的可用技能卡中？
 gui_confirmation_party_locked,你現在不能改變雇傭兵。
 gui_confirmation_party_locked_title,該玩家團隊被鎖定了
@@ -4909,8 +4908,7 @@ gui_confirmation_restart_title,重新開始回合
 gui_confirmation_sell,出售{0}
 gui_confirmation_sell_equipped,{0}當前被{1}裝備，無論如何都要出售？
 gui_confirmation_sell_receive,收到：
-gui_confirmation_skip_ftue,黯淡港灣是一個需要入門學習的遊戲。在正式開始前，建議您通過整個教學。
-gui_confirmation_skip_mission,黯淡港灣是一個需要入門學習的遊戲。在正式開始前，建議您通過整個教學。
+
 gui_confirmation_start_adventure,開始一段旅程
 gui_confirmation_turn_off_tutorial,您關閉了教學，將無法繼續它，除非您創建一個新遊戲並重新開始。
 gui_confirmation_turn_off_tutorial_multiplayer,多人遊戲已開始，教學將會關閉。
@@ -4952,18 +4950,15 @@ gui_default_move,基本移動
 gui_delete,刪除
 gui_delete_character,刪除角色
 gui_delete_character_confirmation,擁有的角色將返回商人的商店供應，所有物品所擁有的所有物品都消失了
-gui_delete_party_confirmation,你想刪除這個存檔嗎？
+
 gui_delete_warning,這個操作無法撤銷。你確定要繼續嗎？
 gui_devotion_level,奉獻等級{0}
 gui_devotion_tooltip,"<size=+2><color=#EACF8C> 捐助</color></size>
 向大橡樹寺捐助金幣，以提高玩家團隊的奉獻等級。"
-gui_difficulty_brutal,Brutal
 
 
 
-gui_difficulty_select,選擇難度
 
-gui_disabled,Disabled
 gui_discard_card,"棄置""{0}""
 "
 gui_discard_cards,"棄置卡牌
@@ -5055,8 +5050,7 @@ gui_enhancements_unavailable,沒有可進行的提升
 
 gui_enter_village,進入村莊
 gui_equipped,已裝備的
-gui_error_continue_button,繼續
-gui_error_exit_game_button,退出遊戲
+
 gui_error_load_checkpoint_button,重置存檔到檢查點
 gui_error_main_menu_button,轉到主選單
 gui_error_rebuild_ruleset_button,重建規則集
@@ -6292,7 +6286,7 @@ livingcorpseelite,不死憎惡精英
 livingspirit,不死精神體
 livingspiritelite,不死精神體精英
 loading_tip_001,儘量選擇承受傷害，損失相應的生命值，而不是選擇燒祭卡牌來抵擋傷害——比起恢復燒牌堆的卡牌，回復生命值更容易！
-loading_tip_002,注意陷阱！它們會不定時發光讓你更容易發現它們。
+
 loading_tip_003,你可以使用強推和拉近技能來強迫敵人觸發陷阱。
 loading_tip_004,你可以通過按Tab來高亮關卡中的物品和單位。
 loading_tip_005,你可以通過長按Alt來查看所有雇傭兵的手牌和物品。
