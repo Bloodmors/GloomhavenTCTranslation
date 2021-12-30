@@ -5085,8 +5085,6 @@ gui_finish_target_select,完成目標選擇
 gui_first_retired_characters_story_1,在與團隊意志最堅定的雇傭兵中的一個冷靜卻又深情的告別之後，你發現自己想知道是否可能其他人也在建造著黯淡港灣的未來，卻最終只能默默地離開這座城市。
 gui_first_retired_characters_story_2,你曾聽說過硬幣區的城鎮記錄大樓，但從未去過。你心中確定它會是能滿足你好奇心的最佳地點，它在該區的核心深處，你向著這個龐大圓形建築的位置走去。
 
-
-
 gui_gained_gold,玩家團隊已賺取的金幣:
 gui_gained_health,獲得{0}點生命值
 gui_gained_level,獲得{0}級別
@@ -5142,7 +5140,6 @@ gui_guild_merchant,商人
 gui_guild_temple,大橡樹寺
 gui_guild_townrecords,城鎮記錄之敘事記錄
 
-
 gui_guildmaster_difficulty_title,難度
 gui_guildmaster_invalid_name,Enter a valid Guild Name
 gui_guildmaster_repeated_name,該<color=#C53F3F>公會名</color>已被使用。請輸入不同的名稱。
@@ -5150,7 +5147,6 @@ gui_guildmaster_repeated_name,該<color=#C53F3F>公會名</color>已被使用。
 gui_guildmaster_start_game,開始遊戲
 
 gui_hard,難的
-
 
 gui_improved_short_rest_active_bonus_tooltip,"在你的下一輪次期間，短休息將會擁有長休息的所有好處:
 -  <indent=%15>選擇燒祭一張棄牌堆的卡排並將所有其他棄牌堆的卡牌回手。</indent>
@@ -5205,7 +5201,6 @@ gui_leave,離開
 gui_level,等級
 
 
-
 gui_level_editor_load_exisiting_party,載入現有玩家團隊
 
 gui_level_editor_multiple_levels_same_name,具有相同名稱的多個關卡。在自訂關卡目錄中保存一個副本。
@@ -5226,7 +5221,6 @@ gui_linked_quest_choose_tooltip,繼續{0}或返回黯淡港灣
 gui_linked_quest_headquarters_choice,回到黯淡港灣
 gui_linked_quest_invalid_choice,在接受這個任務之前，你必須返回黯淡港灣
 gui_linked_quest_linkedquest_choice,如果你現在接受任務，你不會面對一條道路遇到
-
 
 gui_load_adventure_difficulty,困難:
 gui_load_adventure_gold,玩家團隊金幣:
@@ -5250,8 +5244,6 @@ gui_locked_card_tooltip,"尚未添加到掌握技能卡的卡保持<color=#CEAD5
 選擇<color=#CEAD5A>重置雇傭兵 </color>重建掌握技能卡集。"
 gui_locked_object,未解鎖的{0}
 
-
-
 gui_main_menu_multiplayer_how_to_host_descr,"<size=+4><sprite name=""Pointer""></size><indent=20>While <color=#F1DBAE>in an existing Gloomhaven saved game</color>, click ""Esc"" to open the Pause menu and select ""Multiplayer"".
 </indent>
 <size=+4><sprite name=""Pointer""></size><indent=20>This will open the Multiplayer panel, on which you can <color=#F1DBAE>select ""建立房間""</color> to start a Multiplayer session.
@@ -5265,8 +5257,6 @@ gui_main_menu_multiplayer_how_to_host_descr,"<size=+4><sprite name=""Pointer""><
 </indent>
 <size=+4><sprite name=""Pointer""></size><indent=20>When in Multiplayer, players can join while on the <color=#F1DBAE>World Map or the Card selection phase</color> inside a Scenario.
 </indent>"
-
-
 
 gui_medium,中等的
 gui_mind_control,心靈控制
@@ -6055,39 +6045,39 @@ item_mountainhammer,Item_MountainHammer PLACEHOLDER
 item_mountainhammer_1,召喚戰爭英靈
 item_mountainhammer_2,生命值：4 移動力：1
 item_mountainhammer_3,攻擊力：3 距離：-
-item_name_amuletoflife,生命項鍊
+
 item_name_ancientdrill,遠古鑽頭
 item_name_balancedblade,平衡之刃
-item_name_battleaxe,戰斧
+
 item_name_blackcard,黑暗卡牌
 item_name_blackcenser,暗黑能爐
 item_name_blackknife,暗黑匕首
 item_name_blinkingcape,閃現披風
 item_name_bloodyaxe,嗜血巨斧
-item_name_bootsofdashing,疾行靴
+
 item_name_bootsoflevitation,漂浮靴
 item_name_bootsofquickness,迅捷之靴
 item_name_bootsofspeed,速度之靴
 item_name_bootsofsprinting,衝刺靴
-item_name_bootsofstriding,闊步靴
+
 item_name_brilliantblade,光輝之刃
 item_name_chainhood,鎖鏈頭盔
-item_name_chainmail,鎖子甲
+
 item_name_circletofelements,元素頭環
-item_name_cloakofinvisibility,隱形斗篷
+
 item_name_cloakofphasing,相位斗篷
-item_name_cloakofpockets,寶藏斗篷
+
 item_name_comfortableshoes,舒適便鞋
 item_name_crystalofzenith,天頂晶體
-item_name_curiousgear,陷阱拆除套組
+
 item_name_dampeningring,抑能指環
 item_name_doomedcompass,厄運羅盤
 item_name_doompowder,厄運粉
 item_name_drakescalearmor,亞龍麟護甲
 item_name_drakescaleboots,亞龍麟靴子
 item_name_drakescalehelm,亞龍麟頭盔
-item_name_eagle-eyegoggles,鷹眼護目鏡
-item_name_empoweringtalisman,充能護符
+
+
 item_name_endurancefootwraps,耐力綁腿
 item_name_falconfigurine,鷹之雕像
 item_name_fleabittenshawl,跳蚤披肩
@@ -6097,51 +6087,44 @@ item_name_giantremotespider,巨型遙控蜘蛛
 item_name_halberd,戰戟
 item_name_hawkhelm,雄鷹頭盔
 item_name_heartofthebetrayer,背叛者之心
-item_name_heatershield,扇形盾
+
 item_name_heavybasinet,重型鋼盔
-item_name_heavygreaves,重型脛甲
+
 item_name_helixring,雙生環戒
 item_name_helmofthemountain,山嶺頭盔
 item_name_hidearmor,獸皮甲
 item_name_hookedchain,鎖鏈鉤
-item_name_hornedhelm,角盔
+
 item_name_infernoblade,獄炎之刃
-item_name_ironhelmet,鐵制頭盔
-item_name_jaggedsword,鋸齒劍
-item_name_leatherarmor,軟皮甲
-item_name_longspear,長矛
+
+
 item_name_luckyeye,幸運之眼
 item_name_magmawaders,熔岩行者
-item_name_majorcurepotion,高級靈藥
-item_name_majorhealingpotion,高級治療藥水
-item_name_majormanapotion,高級法力藥水
-item_name_majorpowerpotion,高級力量藥水
-item_name_majorstaminapotion,高級精力藥水
+
+
 item_name_maskofterror,恐怖面具
-item_name_minorcurepotion,次級靈藥
-item_name_minorhealingpotion,次級治療藥水
-item_name_minormanapotion,次級法力藥水
-item_name_minorpowerpotion,次級力量藥水
-item_name_minorstaminapotion,次級精力藥水
-item_name_moonearring,月之耳墜
+
+
+
+
 item_name_mountainhammer,山嶺戰錘
 item_name_necklaceofteeth,尖牙項鍊
 item_name_nightblade,暗夜之刃
 item_name_occultdagger,神秘匕首
 item_name_orbofdawn,黎明法球
 item_name_orboftwilight,暮光法球
-item_name_pendantofdarkpacts,黑暗誓約飾墜
+
 item_name_piercingbow,穿刺弓
 item_name_platemail,板甲
 item_name_poisondagger,淬毒匕首
 item_name_powercore,能量核心
 item_name_protectivecharm,守護魔符
-item_name_reapingscythe,收割巨鐮
+
 item_name_remotespider,遙控蜘蛛
 item_name_resonantcrystal,共振水晶
 item_name_ringofbrutality,殘暴之戒
 item_name_ringofhaste,急促之戒
-item_name_ringofskulls,顱骨指環
+
 item_name_robesofevocation,喚能法袍
 item_name_robesofsummoning,召喚法袍
 item_name_rocketboots,火箭靴
@@ -6154,10 +6137,10 @@ item_name_secondskin,貼身軟甲
 item_name_serenesandals,輕盈涼鞋
 item_name_shadowarmor,暗影盔甲
 item_name_shoesofhappiness,歡快之鞋
-item_name_skullbaneaxe,骨禍斧
+
 item_name_skullofhatred,憎恨頭顱
 item_name_sphereofmidnight,午夜法球
-item_name_spikedshield,尖刺盾
+
 item_name_splintmail,板條甲
 item_name_staffofelements,元素法杖
 item_name_staffofeminence,卓越之杖
@@ -6169,9 +6152,8 @@ item_name_steelring,鋼鐵指環
 item_name_steelsabatons,鋼鐵鎧靴
 item_name_stormblade,風暴之刃
 item_name_studdedleather,鑲釘皮甲
-item_name_stunpowder,致暈粉
-item_name_sunearring,太陽耳墜
-item_name_superhealingpotion,超級治療藥水
+
+
 item_name_swordedgearmor,劍刃護甲
 item_name_telescopiclens,望遠鏡
 item_name_thiefshood,盜賊兜帽
@@ -6189,8 +6171,8 @@ item_name_wandofstorms,風暴魔杖
 item_name_wandoftremors,戰慄魔杖
 item_name_warhammer,戰錘
 item_name_wavecrest,波浪項鍊
-item_name_weightednet,重捕網
-item_name_wingedshoes,飛翼鞋
+
+
 item_necklaceofteeth,每當你在自己的行動輪中消滅一個敵人時，執行一次<nobr>“治療<sprite name=Heal>1，</nobr>自身”。
 item_nightblade,在你進行近戰攻擊時，<sprite name=ConsumeDark>並對你的單次攻擊附加<nobr>+2攻擊<sprite name=Attack></nobr>。
 item_occultdagger,在你攻擊收割者時，獲得<nobr>穿透<sprite name=Pierce>4。</nobr>
@@ -12130,10 +12112,6 @@ trainerdialogname,教官
 transferdooms,轉移厄運
 trap,陷阱
 treasure_chest_tooltip,財寶寶箱
-
-
-
-
 
 
 twohexobstacle,兩格障礙物
