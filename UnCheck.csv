@@ -6,7 +6,7 @@
 
 016_b,如果你的移動路徑為一條直線，執行
 022_t,消滅一個與你相鄰的被<nobr>擊暈<sprite name=Stun></nobr>的普通級別敵人。
-023_b,你可以將所有的<nobr>移動<sprite name=Move></nobr>行動轉化為等值的<nobr>攻擊<sprite name=Attack></nobr>行動。
+023_b,你可以將所有的<nobr>移動<sprite name=Move></nobr>能力轉化為等值的<nobr>進攻<sprite name=Attack></nobr>行動。
 026_b,本回合中，你對處於<nobr>繳械<sprite name=Disarm></nobr>，<nobr>禁足<sprite name=Immobilize></nobr>，<nobr>擊暈<sprite name=Stun></nobr>狀態敵人的攻擊附加<nobr>+3攻擊力<sprite name=Attack>。</nobr>
 030_t_1,在相鄰的一個空格子內創建一個造成6點傷害的陷阱。
 030_t_2,當敵人觸發陷阱時獲得<sprite name=XP2>。
@@ -16,16 +16,16 @@
 043_b_1,一名在你<nobr>射程<sprite name=Range>2</nobr>以內的盟友可以<nobr>回收<sprite name=Recover></nobr>一張其棄牌堆的卡牌。
 043_b_2,則最多兩張棄牌。
 043_t,在一個相鄰的空格子內創建一個2點傷害的附加中毒<sprite name=Poison>的陷阱。
-044_t,你接下來的4次治療行動附加<nobr>+2治療值<sprite name=Heal>。</nobr>
+044_t,你接下來的4次治療能力附加<nobr>+2治療值<sprite name=Heal>。</nobr>
 045_b,<nobr>射程範圍<sprite name=Range>3</nobr>內的一名友軍可以<nobr>回收<sprite name=Recover></nobr>一張他的燒牌堆的卡牌。
 047_b,在一個相鄰的空格子內創建一個附加擊暈<sprite name=Stun>的陷阱。
 049_t,召喚戰鬥機器
 051_t,一名相鄰友軍可以<nobr>重置<sprite name=Refresh></nobr>他的一個已消耗的隨身物品<sprite name=InvSmallItem>。
 052_t_1,消滅目的地區域內當前生命值<nobr>小於或等於5</nobr>的所有敵人。
 052_t_2,每消滅一個敵人獲得<sprite name=XP1>。
-053_b,在你接下來的四個行動輪結束時，每輪可以選擇一名<nobr>射程範圍<sprite name=Range>3</nobr>內的友軍<nobr>回收<sprite name=Recover></nobr>一張他的棄牌堆的卡牌。
+053_b,在你接下來的四個輪次結束時，每輪可以選擇一名<nobr>射程範圍<sprite name=Range>3</nobr>內的友軍<nobr>回收<sprite name=Recover></nobr>一張他的棄牌堆的卡牌。
 053_t,在相鄰的一個空格子內創建一個造成4傷害並附加<nobr>混亂<sprite name=Muddle></nobr>的陷阱。
-054_t,在你接下來的五個行動輪結束時，執行一次<nobr>“攻擊<sprite name=Attack>2，</nobr><nobr>射程範圍<sprite name=Range>5”</nobr>的行動。
+054_t,在你接下來的五個行動輪結束時，執行一次<nobr>“進攻<sprite name=Attack>2，</nobr><nobr>射程範圍<sprite name=Range>5”</nobr>的行動。
 055_t,召喚殺戮機器
 057_t,所有<nobr>射程範圍<sprite name=Range>3以內</nobr>的召喚物夥伴都<nobr>可以執行</nobr>
 058_b_1,本回合中所有與你相鄰的盟友在他們的所有攻擊中附加<nobr>+2攻擊力<sprite name=Attack></nobr>。
@@ -54,7 +54,7 @@
 087_t_1,目標為和你在相同房間的敵人
 087_t_2,所有和你在相同房間的友軍損失2點生命值。
 088_b,你接下來4次指定不與任何友軍相鄰的敵軍的攻擊附加<nobr>+2攻擊力<sprite name=Attack>。</nobr>
-088_t,+2攻擊<sprite name=Attack></nobr>且當目標與任何友軍相鄰時獲得<sprite name=XP1>。
+088_t,+2進攻<sprite name=Attack></nobr>且當目標與任何友軍相鄰時獲得<sprite name=XP1>。
 090_t,你的下一次在隱形<sprite name=Invisible></nobr>時的攻擊，翻倍攻擊值並獲得<sprite name=XP2>。
 091_t,當目標不與任何它的盟友相鄰時獲得<nobr>+2攻擊力<sprite name=Attack></nobr>並且獲得<sprite name=XP1>。
 092_t,解除一個相鄰的陷阱。
@@ -195,8 +195,8 @@
 258_b,與任意一名召喚物夥伴交換位置。
 258_t,一名<nobr>射程範圍<sprite name=Range>3以內</nobr>的召喚物夥伴執行
 260_b,所有<nobr>射程範圍<sprite name=Range>3以內</nobr>的召喚物夥伴執行
-261_t,當你處於<nobr>隱身<sprite name=Invisible></nobr>，在你接下來的四次攻擊行動之後，執行“<nobr>攻擊<sprite name=Attack> 2</nobr>，<nobr>射程範圍<sprite name=Range> 3</nobr>”
-263_b,本回合，將你的所有<nobr>攻擊<sprite name=Attack></nobr>技能卡的效果翻倍（最後計算），<sprite name=XP1>。
+261_t,當你處於<nobr>隱身<sprite name=Invisible></nobr>，在你接下來的四次攻擊行動之後，執行“<nobr>進攻<sprite name=Attack> 2</nobr>，<nobr>射程範圍<sprite name=Range> 3</nobr>”
+263_b,本回合，將你的所有<nobr>進攻<sprite name=Attack></nobr>技能卡的效果翻倍（最後計算），<sprite name=XP1>。
 263_t,本回合，將你的所有<nobr>移動<sprite name=Move></nobr>技能卡的效果翻倍（最後計算），<sprite name=XP1>。
 266_t,則消滅一個普通級別目標，<sprite name=XP1>。
 268_t,如果你處於<nobr>隱身<sprite name=Invisible></nobr>，為你的攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。
@@ -204,7 +204,7 @@
 271_b,移動到任意一個未被佔用的格子。你不能穿過一扇上鎖的門。
 274_t,如果你處於<nobr>隱身<sprite name=Invisible></nobr>，附加<nobr>擊暈<sprite name=Stun></nobr>並獲得<sprite name=XP1>。
 277_t,<line-height=110%>在接下來你的三個行動輪結束時，如果<size=150%><voffset=-3><sprite name=Dark></voffset></size>不處於激發狀態，充能<size=150%><voffset=-3><sprite name=Dark></voffset></size>。
-279_b,如果你處於<nobr>隱身<sprite name=Invisible></nobr>，在你接下來的四次移動行動之後，執行“<nobr>攻擊<sprite name=Attack> 2</nobr>，指定所有相鄰敵人為目標”。
+279_b,如果你處於<nobr>隱身<sprite name=Invisible></nobr>，在你接下來的四次移動行動之後，執行“<nobr>進攻<sprite name=Attack> 2</nobr>，指定所有相鄰敵人為目標”。
 283_t_1,在你的所有攻擊中獲得優勢。
 283_t_2,你可以指定<nobr>隱身<sprite name=Invisible></nobr>敵人為目標。
 286_t,如果你處於<nobr>隱身<sprite name=Invisible></nobr>，附加<nobr>中毒<sprite name=Poison></nobr>，<nobr>混亂<sprite name=Muddle></nobr>，<nobr>流血<sprite name=Wound></nobr>並獲得<sprite name=XP1>。
@@ -258,7 +258,7 @@
 343_b,你免疫所有的負面狀態。
 343_t,為你以及所有相鄰的盟友施加<nobr>流血<sprite name=Wound></nobr>以附加<nobr>強推<sprite name=Push>2，</nobr><nobr>禁足<sprite name=Immobilize>。</nobr>
 345_b,本回合，為你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>，<sprite name=XP1>。
-345_t,在接下來五次你受到傷害時，執行一次<nobr>“攻擊<sprite name=Attack> 3”</nobr>行動，即使你的射程範圍內沒有敵人，依然執行此行動。
+345_t,在接下來五次你受到傷害時，執行一次<nobr>“進攻<sprite name=Attack> 3”</nobr>行動，即使你的射程範圍內沒有敵人，依然執行此行動。
 346_t,免疫你接下來將受到的五次傷害。
 347_b,你可以損失至多5點生命值。
 347_t,你每對一個敵人造成傷害，執行一次“<nobr>治療<sprite name=Heal>2</nobr>，目標為自己”的行動。
@@ -283,9 +283,9 @@
 373_b,強迫所有目的地區域內的敵人執行一次<nobr>“移動<sprite name=Move>2”</nobr>行動，並由你操控移動的方向。
 374_t,所有盟友為他們的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
 375_b,兩名<nobr>射程範圍<sprite name=Range>3以內</nobr>的盟友<nobr>可以執行</nobr>
-375_t,強迫所有你經過的敵人執行一次<nobr>“攻擊<sprite name=Attack>3”</nobr>的行動，並由你指定攻擊的目標。
+375_t,強迫所有你經過的敵人執行一次<nobr>“進攻<sprite name=Attack>3”</nobr>的行動，並由你指定攻擊的目標。
 376_b,當你指定此敵人為目標時，為你的所有攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>。
-376_t,接下來四次當有<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>的敵人死亡時，執行一次“<nobr>攻擊<sprite name=Attack>2</nobr>，<nobr>射程範圍<sprite name=Range>5</nobr>”的行動。
+376_t,接下來四次當有<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>的敵人死亡時，執行一次“<nobr>進攻<sprite name=Attack>2</nobr>，<nobr>射程範圍<sprite name=Range>5</nobr>”的行動。
 377_b,此敵人的<nobr>攻擊力<sprite name=Attack></nobr>，<nobr>移動力<sprite name=Move></nobr>以及<nobr>射程範圍<sprite name=Range></nobr>均減少1點。
 377_t_1,在一個相鄰的空格子中創建一個4點傷害的附加<nobr>擊暈<sprite name=Stun></nobr>的陷阱。
 377_t_2,當敵人觸發陷阱時獲得<sprite name=XP2>。
@@ -308,7 +308,7 @@
 391_t_1,你的每個行動輪中，你可以在一次指定<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>敵人為目標的攻擊中獲得優勢。
 391_t_2,所有敵人失去<nobr>隱身<sprite name=Invisible></nobr>並且它們不可再獲得<nobr>隱身<sprite name=Invisible></nobr>。
 392_b,本回合，當你指定<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>敵人為目標時，為你的所有攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>。
-393_b,當此敵人死亡時，執行一次“<nobr>攻擊<sprite name=Attack>2</nobr>，<nobr>射程範圍<sprite name=Range>3</nobr>，<nobr>目標<sprite name=Target>3</nobr>”的行動。
+393_b,當此敵人死亡時，執行一次“<nobr>進攻<sprite name=Attack>2</nobr>，<nobr>射程範圍<sprite name=Range>3</nobr>，<nobr>目標<sprite name=Target>3</nobr>”的行動。
 394_t,如果目標帶有<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>，為你的攻擊附加<nobr>+3攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。
 395_b,指定此敵人為目標時，你和所有盟友的攻擊獲得優勢。
 396_t_1,在相鄰的一個空格子內創建一個造成2點傷害附加<nobr>流血<sprite name=Wound></nobr>的陷阱。
@@ -347,14 +347,14 @@
 441_t,在你接下來的六次治療行動前，移除目標的所有負面狀態。
 443_b,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>至多兩張他棄牌堆的卡牌。
 443_t,移除治療目標身上所有的負面狀態並給他一張“大型醫療包”技能卡。
-445_t_1,你可以將所有的<nobr>攻擊<sprite name=Attack></nobr>和<nobr>移動<sprite name=Move></nobr>行動轉化為額外1點的<nobr>治療<sprite name=Heal></nobr>行動。
-445_t_2,在此情況下，<nobr>射程範圍<sprite name=Range></nobr>為1，並忽略所有<nobr>攻擊<sprite name=Attack></nobr>的附加效果。
+445_t_1,你可以將所有的<nobr>進攻<sprite name=Attack></nobr>和<nobr>移動<sprite name=Move></nobr>行動轉化為額外1點的<nobr>治療<sprite name=Heal></nobr>行動。
+445_t_2,在此情況下，<nobr>射程範圍<sprite name=Range></nobr>為1，並忽略所有<nobr>進攻<sprite name=Attack></nobr>的附加效果。
 446_t,消滅目的地區域中所有損失了10點或以上生命值的敵人。
 449_b,在你的每次攻擊行動中，你可以<sprite name=ConsumeAny>來為整個攻擊附加+1攻擊力<sprite name=Attack>。
 450_b_1,<line-height=100%>在你的每個行動輪結束時，你可以生成<voffset=-3><size=150%><sprite name=Any></size></voffset>。
 450_b_2,從你的所有攻擊中扣除-1攻擊力<sprite name=Attack>。
 459_b,本回合，所有指定你為目標的攻擊獲得劣勢。
-463_t_1,此攻擊<sprite name=Attack>可以彈射到目標<nobr>射程範圍<sprite name=Range>2以內</nobr>的下一個目標
+463_t_1,此進攻<sprite name=Attack>可以彈射到目標<nobr>射程範圍<sprite name=Range>2以內</nobr>的下一個目標
 463_t_2,每次彈射的攻擊力<sprite name=Attack>降低1點（最少為1點），至多彈射四次。
 468_t,指定所有在受治療單位<nobr>射程範圍<sprite name=Range>2以內</nobr>的敵人為目標。
 469_b_1,召喚幻影分身
@@ -1312,10 +1312,7 @@ amberhill_descr,琥珀嶺村位於魔門鎮和奇波特港的路線中間。 它
 ancientartillery,古炮怪
 ancientartilleryelite,古炮怪精英
 and,和
-anisotropic_filtering_disable,禁用
-anisotropic_filtering_enable,啟用
-anisotropic_filtering_forceenable,強制啟用
-antialiasing_render_disabled,禁用
+
 antialiasing_render_dlaa,DLAA
 antialiasing_render_fxaa,FXAA
 antialiasing_render_fxaa1presetb,FXAA1預設B
@@ -1713,7 +1710,7 @@ compendium_levellingup_title,升級
 compendium_loot_1,<b>拾取X：</b>拾取技能允許一個角色在X範圍內拾取所有的金幣堆和寶箱。這個動作不受怪物或障礙的影響，但請注意該技能的實際效果範圍會受到視線範圍的限制。
 compendium_loot_2,"除了拾取能力之外，在每個玩家角色行動輪次結束時，此玩家角色將自動拾取他們現在佔據的格子中的所有黃金。玩家角色的召喚物不執行此效果。
 
-在公會模式中，這筆錢在玩家隊伍內的所有雇傭軍之間分享。
+在公會模式中，這筆錢在玩家團隊內的所有雇傭軍之間分享。
 "
 compendium_loot_title,拾取
 compendium_meleeandranged_1,<b>攻擊X：</b>攻擊技能允許一個角色對在其攻擊範圍內的敵人造成X點傷害。角色和怪物無法攻擊他們各自的友軍。有兩種類型的攻擊，近戰和遠程：
@@ -4862,12 +4859,8 @@ gui_city_event_cancel,取消城市事件
 gui_city_quest_description,{0}任務開放！
 gui_cleartargets,撤銷目標
 
-
-
 gui_combatlog_player_turn,{0}，準備好！
 
-
-gui_commit,確認
 
 gui_compile,編譯
 gui_completed_personal_quest_progress_tip_female,{0}已經邁出了朝著<color=#EACF8C>完成了她的個人任務</color>前進的第一步。繼續看看未來的東西。
@@ -4893,9 +4886,6 @@ gui_confirmation_cancel_discard_ability,{0}將被棄置
 gui_confirmation_enable_perk,獲得{0}個{1}/{2}
 gui_confirmation_enable_perk_warning,一旦應用，就無法移除一個專精項目
 gui_confirmation_end_session,返回單人模式繼續遊戲
-
-
-gui_confirmation_exit_scenario,放棄劇本
 
 gui_confirmation_levelup_card,將此卡添加到您的可用技能卡中？
 gui_confirmation_party_locked,你現在不能改變雇傭兵。
@@ -5015,10 +5005,10 @@ gui_element_status_inert,空格
 gui_element_status_infusing,充能中
 gui_element_status_strong,滿格
 gui_element_status_waning,半格
-gui_enable,Enable
+
 gui_enable_dlc,Enable DLC
 gui_enable_dlc_confirmation,Once a DLC is enabled on a save it cannot return to its previous settings.
-gui_enabled,Enabled
+
 gui_enchantment_points,技能附魔點數
 gui_enchantment_points_tooltip,"<size=+2><color=#EACF8C>技能附魔點數</color></size>
 每次黯淡港灣財富等級增加時，賺取一定的技能附魔點數<sprite name=""Enchantress_Icon"">。 您可以在想要提升的技能卡上使用附魔點數。一旦技能卡被附魔，您可以對技能進行和卡上槽數一致的技能提升。"
@@ -5487,7 +5477,7 @@ gui_objective_reach_round_lose,遊戲進行到第{0}回合，則失敗
 gui_objective_reach_round_win,存活至少{0}回合
 gui_ok,好的
 gui_on_attack_conditions_title,On-攻擊條件
-gui_on_death_adjacent,On death: 攻擊<sprite name=Attack> {0}。針對所有鄰近的敵人。
+gui_on_death_adjacent,On death: 進攻<sprite name=Attack> {0}。針對所有鄰近的敵人。
 gui_open_door,開門
 
 
@@ -5960,23 +5950,23 @@ ironbell_descr,這座小堡壘擁有鐵鐘the Iron Bell，這是一種數百年�
 ironwoodcamp,鐵木營地
 item,道具
 item_amuletoflife,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>1，</nobr>自身”。
-item_ancientdrill,在你進行近戰攻擊時，對你的整個攻擊行動附加<nobr>+2攻擊<sprite name=Attack></nobr>和<nobr>2穿透<sprite name=Pierce></nobr>。
-item_balancedblade,當你使用技能卡上半部分的預設行動時，將<nobr>“攻擊<sprite name=Attack>2”</nobr>改為<nobr>“攻擊<sprite name=Attack>4”</nobr>。
+item_ancientdrill,在你進行近戰攻擊時，對你的整個攻擊行動附加<nobr>+2進攻<sprite name=Attack></nobr>和<nobr>2穿透<sprite name=Pierce></nobr>。
+item_balancedblade,當你使用技能卡上半部分的預設行動時，將<nobr>“進攻<sprite name=Attack>2”</nobr>改為<nobr>“進攻<sprite name=Attack>4”</nobr>。
 item_battleaxe,在你對單個目標使用近戰攻擊時，將攻擊改為執行以下步驟：
 item_blackcard_1,選擇一個相鄰的非精英或精英敵人。
-item_blackcard_2,你對目標敵人的所有攻擊均獲得<nobr>+1攻擊<sprite name=Attack></nobr>。
-item_blackcard_activetext,{0}所有對被選中的敵人的攻擊獲得<nobr>+1攻擊<sprite name=Attack></nobr>。
+item_blackcard_2,你對目標敵人的所有攻擊均獲得<nobr>+1進攻<sprite name=Attack></nobr>。
+item_blackcard_activetext,{0}所有對被選中的敵人的攻擊獲得<nobr>+1進攻<sprite name=Attack></nobr>。
 item_blackcenser,在你的行動輪中，<nobr>混亂<sprite name=Muddle></nobr><nobr>射程範圍<sprite name=Range>2</nobr>以內的所有敵人。
 item_blackknife,在你進行近戰攻擊時，對你的單次攻擊附加<nobr>詛咒<sprite name=Curse></nobr>。
 item_blinkingcape,在你的行動輪中，執行一次<nobr>“移動<sprite name=Move>4，</nobr><nobr>跳躍<sprite name=Jump>”</nobr>。
-item_bloodyaxe,在你進行近戰攻擊時，損失2點生命值並對整個攻擊行動輪<nobr>+1攻擊<sprite name=Attack></nobr>。
+item_bloodyaxe,在你進行近戰攻擊時，損失2點生命值並對整個攻擊行動輪<nobr>+1進攻<sprite name=Attack></nobr>。
 item_bootsofdashing,在你執行移動行動時，對你的一次移動附加<nobr>+3移動力<sprite name=Move></nobr>。
 item_bootsoflevitation,獲得飛行。
 item_bootsofquickness,在一個回合開始時，當所有技能卡被揭示之後，你可以選擇讓你的時序值增加或者減少20點。
 item_bootsofspeed,在一個回合開始時，當所有技能卡被揭示之後，你可以選擇讓你的時序值增加或者減少10點。
 item_bootsofsprinting,在你執行移動行動時，對你的一次移動附加<nobr>+4移動力<sprite name=Move></nobr>。
 item_bootsofstriding,在你執行移動行動時，對你的一次移動附加<nobr>+2移動力<sprite name=Move></nobr>。
-item_brilliantblade,在你進行近戰攻擊時，<sprite name=ConsumeLight>並對你的單次攻擊附加<nobr>+2攻擊<sprite name=Attack></nobr>。
+item_brilliantblade,在你進行近戰攻擊時，<sprite name=ConsumeLight>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_chainhood,當你與三個或者更多怪物相鄰時，獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_chainmail,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_circletofelements,在你的行動輪中，<sprite name=ConsumeAny>並生成任意一個元素。
@@ -5997,12 +5987,12 @@ item_empoweringtalisman,在你的行動輪中，<nobr>重置<sprite name=Refresh
 item_endurancefootwraps,若在你自己的行動輪中的移動了4個或更多格子，則執行一次<nobr>“治療<sprite name=Heal>1，自身”</nobr>行動。
 item_falconfigurine,召喚玉鷹
 item_fleabittenshawl,當敵人進行攻擊目標判定時，你的時序值始終視為99。
-item_frigidblade,在你進行近戰攻擊時，<sprite name=ConsumeIce>並對你的單次攻擊附加<nobr>+2攻擊<sprite name=Attack></nobr>。
+item_frigidblade,在你進行近戰攻擊時，<sprite name=ConsumeIce>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_fueledfalchion,在你對單個目標使用近戰攻擊時，該攻擊目標以及所有與其相鄰的敵人損失1點生命值。
 item_giantremotespider,在你的行動輪中，執行一次<nobr>“拾取<sprite name=Loot>1”</nobr> 。
 item_halberd,在你執行單一目標的近戰攻擊行動時，你可以攻擊兩格以內的任意一個敵人。
 item_hawkhelm,當你進行遠距攻擊時，對你的整個攻擊行動輪附加<nobr>+1射程<sprite name=Range></nobr>。
-item_heartofthebetrayer,在你的行動輪中，強迫一個<nobr>射程範圍<sprite name=Range> 3以內</nobr>的敵人執行一次<nobr>攻擊<sprite name=Attack>+0</nobr>，<nobr>射程範圍<sprite name=Range>+0</nobr>行動，由你操控整個行動。
+item_heartofthebetrayer,在你的行動輪中，強迫一個<nobr>射程範圍<sprite name=Range> 3以內</nobr>的敵人執行一次<nobr>進攻<sprite name=Attack>+0</nobr>，<nobr>射程範圍<sprite name=Range>+0</nobr>行動，由你操控整個行動。
 item_heatershield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>1</nobr>。
 item_heavybasinet,你免疫擊暈<sprite name=Stun>和混亂<sprite name=Muddle>
 item_heavygreaves,你免疫所有由敵人和劇本機制所造成的強制移動行動
@@ -6010,8 +6000,8 @@ item_helixring,在你的行動輪中，<sprite name=ConsumeLight><sprite name=Co
 item_helmofthemountain,當你受到攻擊時，如果<sprite name=Earth>處於強烈，則對攻擊者施加<sprite name=Immobilize>。
 item_hidearmor,在下兩次受到以你為攻擊目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_hookedchain,當你進行遠距攻擊時，對你的整個攻擊行動附加<nobr>拉近<sprite name=Pull>2</nobr>。
-item_hornedhelm,若在你自己的行動輪中移動了4個或者更多格子，對你此行動輪的下一次近戰攻擊附加<nobr>+1攻擊<sprite name=Attack></nobr>。
-item_infernoblade,在你進行近戰攻擊時，<sprite name=ConsumeFire>並對你的單次攻擊附加<nobr>+2攻擊<sprite name=Attack></nobr>。
+item_hornedhelm,若在你自己的行動輪中移動了4個或者更多格子，對你此行動輪的下一次近戰攻擊附加<nobr>+1進攻<sprite name=Attack></nobr>。
+item_infernoblade,在你進行近戰攻擊時，<sprite name=ConsumeFire>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_ironhelmet,當你受到攻擊時，將敵人抽到的任何x2攻擊修正卡牌視為其抽到了一張+0攻擊修正卡牌。
 item_jaggedsword,在你進行近戰攻擊時，對你的單次攻擊附加<nobr>流血<sprite name=Wound></nobr>。
 item_leatherarmor,<size=80%>在下兩次受到攻擊時，攻擊者均獲得劣勢。
@@ -6021,13 +6011,13 @@ item_magmawaders,忽略危險地形的傷害。每個行動輪中首次進入危
 item_majorcurepotion,在你的行動輪中，移除自身的所有負面狀態。此道具可以在你處於<nobr>擊暈<sprite name=Stun></nobr>狀態時使用。
 item_majorhealingpotion,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>5，</nobr>自身”。
 item_majormanapotion,在你的行動輪中，生成任意兩個元素。
-item_majorpowerpotion,在你進行攻擊時，對你的整個攻擊行動輪附加<nobr>+2攻擊<sprite name=Attack></nobr>。
+item_majorpowerpotion,在你進行攻擊時，對你的整個攻擊行動輪附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_majorstaminapotion,在你的行動輪中，<nobr>回收<sprite name=Recover></nobr>至多2張在你棄牌堆裡的卡牌。
 item_maskofterror,在你進行近戰攻擊時，附加<nobr>強推<sprite name=Push>1。</nobr>
 item_minorcurepotion,在你的行動輪中，移除自身一個負面狀態。此道具可以在你處於<nobr>擊暈<sprite name=Stun></nobr>狀態時使用。
 item_minorhealingpotion,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”。
 item_minormanapotion,在你的行動輪中，生成任意一個元素。
-item_minorpowerpotion,在你進行攻擊時，對你的整個攻擊行動輪附加<nobr>+1攻擊<sprite name=Attack></nobr>。
+item_minorpowerpotion,在你進行攻擊時，對你的整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_minorstaminapotion,在你的行動輪中，<nobr>回收<sprite name=Recover></nobr>至多1張在你棄牌堆裡的卡牌。
 item_moonearring,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>所有你已使用的道具。
 item_mountainhammer,Item_MountainHammer PLACEHOLDER
@@ -6163,7 +6153,7 @@ item_name_wavecrest,波浪項鍊
 
 
 item_necklaceofteeth,每當你在自己的行動輪中消滅一個敵人時，執行一次<nobr>“治療<sprite name=Heal>1，</nobr>自身”。
-item_nightblade,在你進行近戰攻擊時，<sprite name=ConsumeDark>並對你的單次攻擊附加<nobr>+2攻擊<sprite name=Attack></nobr>。
+item_nightblade,在你進行近戰攻擊時，<sprite name=ConsumeDark>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_occultdagger,在你攻擊收割者時，獲得<nobr>穿透<sprite name=Pierce>4。</nobr>
 item_orbofdawn,在你的行動輪中，消耗<nobr>暗元素<sprite name=ConsumeDark>並充能<nobr>光元素<sprite name=Light>。
 item_orboftwilight,在你的行動輪中，消耗<nobr>光元素<sprite name=ConsumeLight></nobr>並充能<nobr>暗元素<sprite name=Dark></nobr>。
@@ -6179,32 +6169,32 @@ item_resonantcrystal,在你的行動輪中，摧毀一個相鄰的障礙物。
 item_ringofbrutality,在你的行動輪結束時，從手牌中打出一張卡並立即執行卡的上半部分行動。
 item_ringofhaste,在你的行動輪結束時，從手牌中打出一張卡並立即執行卡的下半部分行動。
 item_ringofskulls,召喚骷髏
-item_robesofevocation,在你進行攻擊時，<sprite name=ConsumeAny>並對你的整個攻擊行動輪攻擊附加<nobr>+1攻擊<sprite name=Attack></nobr>。
+item_robesofevocation,在你進行攻擊時，<sprite name=ConsumeAny>並對你的整個攻擊行動輪攻擊附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_robesofsummoning,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>2，目標為召喚物夥伴”。
 item_rocketboots,在你執行移動行動時，對你的一次移動附加<nobr>+3移動力<sprite name=Move></nobr>和<nobr>跳躍<sprite name=Jump></nobr>。
-item_sacrificialrobes,在你進行遠距攻擊時，損失3點生命值並對整個攻擊行動輪附加<nobr>+1攻擊<sprite name=Attack></nobr>。
+item_sacrificialrobes,在你進行遠距攻擊時，損失3點生命值並對整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_scrollofhealing,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>3，<nobr></nobr>範圍<sprite name=Range>5”</nobr>。
-item_scrollofpower,在一個盟友進行攻擊時，對其整個攻擊行動輪附加<nobr>+1攻擊<sprite name=Attack></nobr>。
+item_scrollofpower,在一個盟友進行攻擊時，對其整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_scrollofstamina,在你的行動輪中，<nobr>範圍<sprite name=Range>5</nobr>以內的一名盟友可以<nobr>回收<sprite name=Recover></nobr>至多2張在其棄牌堆裡的卡牌。
 item_secondchancering,在你的行動輪結束時，從手牌中打出兩張卡並按照新主導卡的時序值來進行一個額外的行動輪（新的時序值必須比你當前時序值高）
 item_secondskin,移除你攻擊修正牌堆裡的2張-1卡。
 item_serenesandals,當你使用技能卡下半部分的預設行動時，將<nobr>“移動<sprite name=Move>2”</nobr>改為<nobr>“移動<sprite name=Move>4”</nobr>。
 item_shadowarmor,當敵人即將對你造成傷害時，取消該次傷害。
 item_shoesofhappiness,若在你自己的行動輪中移動了6個或者更多格子，則獲得<sprite name=XP1>。
-item_skullbaneaxe,在你對行屍，怨靈或骷髏進行近戰攻擊時，對你的單次攻擊附加<nobr>+5攻擊<sprite name=Attack></nobr>。
+item_skullbaneaxe,在你對行屍，怨靈或骷髏進行近戰攻擊時，對你的單次攻擊附加<nobr>+5進攻<sprite name=Attack></nobr>。
 item_skullofhatred,在你的行動輪中，<nobr>詛咒<sprite name=Curse></nobr>所有相鄰的敵人。
 item_sphereofmidnight,在你的行動輪結束時，如果與無瑕者相鄰，你可以對其造成兩倍於團隊中傭兵數量的傷害。
 item_spikedshield,當你因為<nobr>攻擊</nobr>而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>反擊<sprite name=Retaliate>2</nobr>。
 item_splintmail,在下四次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_staffofelements,在你的行動輪中，生成任意一個元素。
-item_staffofeminence,當你進行遠距攻擊時，<sprite name=ConsumeAny>並對你的整個攻擊行動輪附加<nobr>+1攻擊<sprite name=Attack></nobr>。
+item_staffofeminence,當你進行遠距攻擊時，<sprite name=ConsumeAny>並對你的整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_staffofsummoning,在你的行動輪中，操控<nobr>範圍<sprite name=Range>3以內</nobr>的一個召喚物夥伴執行一次“<nobr>移動/移動力<sprite name=Move>3</nobr>”。
 item_staffofxorn,當你進行遠距攻擊時，對你的整個攻擊行動附加<nobr>中毒<sprite name=Poison></nobr>和<nobr>混亂<sprite name=Muddle></nobr>。
 item_starearring,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>所有你已使用的道具，執行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”，並<nobr>回收<sprite name=Recover></nobr>至多2張在你棄牌堆裡的卡牌。
 item_steamarmor,在下五次受到以你為目標所造成的傷害時，獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_steelring,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>4</nobr>。
 item_steelsabatons,若在你自己的行動輪中移動了1個或者更少格子，則你此回合獲得<nobr>護盾<sprite name=Shield>1</nobr>。
-item_stormblade,在你進行近戰攻擊時，<sprite name=ConsumeAir>並對你的單次攻擊附加<nobr>+2攻擊<sprite name=Attack></nobr>。
+item_stormblade,在你進行近戰攻擊時，<sprite name=ConsumeAir>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_studdedleather,在下兩次受到攻擊時，攻擊者獲得劣勢；如果你在此期間承受了傷害，則獲得<nobr>護盾<sprite name=Shield>1</nobr>。
 item_stunpowder,在你進行近戰攻擊時，對你的單次攻擊附加<nobr>擊暈<sprite name=Stun></nobr>。
 item_sunearring,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>所有你已使用的道具並執行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”。
@@ -6213,10 +6203,10 @@ item_swordedgearmor,在下三次受到以你為目標所造成的傷害時，各
 item_telescopiclens,當你進行遠距攻擊時，對你的整個攻擊行動輪附加<nobr>+2射程<sprite name=Range></nobr>。
 item_thiefshood,當你執行<nobr>“拾取<sprite name=Loot>1”</nobr>時，改為執行一次<nobr>“拾取<sprite name=Loot>2”</nobr>。
 item_towershield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>2</nobr>。
-item_tremorblade,在你進行近戰攻擊時，<sprite name=ConsumeEarth>並對你的單次攻擊附加<nobr>+2攻擊<sprite name=Attack></nobr>。
+item_tremorblade,在你進行近戰攻擊時，<sprite name=ConsumeEarth>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_unstableexplosives_1,在你對單個目標使用近戰攻擊時，將攻擊改為執行以下步驟：
 item_unstableexplosives_2,所有位於攻擊區域的盟友損失3點生命值。
-item_versatiledagger,當你使用技能卡上半部分的預設行動時，將<nobr>“攻擊<sprite name=Attack>2”</nobr>改為<nobr>“攻擊<sprite name=Attack>3”</nobr>。
+item_versatiledagger,當你使用技能卡上半部分的預設行動時，將<nobr>“進攻<sprite name=Attack>2”</nobr>改為<nobr>“進攻<sprite name=Attack>3”</nobr>。
 item_volatilebomb,在你對單個目標使用遠距攻擊時，將攻擊改為執行以下步驟：
 item_wallshield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>4</nobr>。
 item_wandofbrilliance,在你的行動輪中，生成光元素。
@@ -6234,38 +6224,9 @@ jekserah,傑西拉
 jump,跳躍
 kailej,凱爾地區
 kailej_descr,凱爾地區的魔人城是南部沙漠中的寶石。它的塔和山尖可以在數英里外看到，對向南旅行穿越暴風地的人們來說是一個很受歡迎的歇腳點。
-keycode_altgr,Alt Gr
-keycode_backspace,倒退鍵
-keycode_break,Break
-
-keycode_clear,Clear
-keycode_downarrow,下箭頭
-
-keycode_help,Help
-
-keycode_joystickbutton1,手柄B按鈕
-keycode_joystickbutton2,手柄X按鈕
-keycode_joystickbutton3,手柄Y按鈕
-keycode_joystickbutton4,手柄LB按鈕
-keycode_joystickbutton5,手柄RB按鈕
-
-keycode_leftapple,Left Apple
-keycode_leftarrow,左箭頭
 
 
-keycode_mouse3,滑鼠向後側鍵
-keycode_mouse4,滑鼠向前側鍵
 
-
-keycode_return,Return鍵
-
-keycode_rightapple,Right Apple
-keycode_rightarrow,右箭頭
-
-
-keycode_sysreq,Sys Req
-keycode_tab,Tab鍵
-keycode_uparrow,上箭頭
 keyport,奇波特港
 keyport_descr,奇波特港是西海的主要貿易樞紐，日漸富強。有傳言說商人公會計畫在當地發動政變，為了預防起見，光明的駐軍得到了加強。
 kill,擊殺
@@ -11209,8 +11170,8 @@ scenario_story_soothsinger_3_start_4,殺死所有其他人，只有那個邪教�
 scenario_story_soothsinger_3_success_1,隨著不死族和惡魔們死了，你發現一個藏在桌子下面的邪教徒，現在該審問他了。
 scenario_story_soothsinger_3_win_objective,殺死除了那個邪教徒之外的所有敵人
 scenario_story_soothsinger_character_fail_objective,如果暢歌者精疲力竭，則失敗
-scenario_story_spellweaver_1_sm1_desc,織魔師在遠程攻擊時獲得<nobr>+1 攻擊<sprite name=Attack></nobr>
-scenario_story_spellweaver_1_sm2_desc,森林小妖在遠程攻擊中獲得<nobr>+1 攻擊<sprite name=Attack></nobr>
+scenario_story_spellweaver_1_sm1_desc,織魔師在遠程攻擊時獲得<nobr>+1 進攻<sprite name=Attack></nobr>
+scenario_story_spellweaver_1_sm2_desc,森林小妖在遠程攻擊中獲得<nobr>+1 進攻<sprite name=Attack></nobr>
 scenario_story_spellweaver_1_sm3_desc,在每個回合的開始時將冰元素移至強烈。
 scenario_story_spellweaver_1_start_1,由於這些小妖們在周圍，你沒辦法調查該區域。你必須要趕走他們。
 scenario_story_spellweaver_1_start_2,此外，場面上似乎無論是你的還是他們的攻擊都變得更危險了。
@@ -11291,7 +11252,7 @@ scenario_story_tinkerer_2_start_4,顯然，邪教徒們控制著這裡，我認�
 scenario_story_tinkerer_2_success_1,最後一個邪教徒死去之後，魔像立刻停止了運動。所有剩下的強盜都進入了灌木叢中。終於，你可以自由地探索這座神廟了。
 scenario_story_tinkerer_2_success_2,這裡有大量的資訊。文檔描述了如何操控元素，以及如何打開通往惡魔領域的傳送門。盡是些異端邪說。
 scenario_story_tinkerer_2_success_3,雖然這是異端邪說，但我們也應該研究它！它有助於我們研究邪教徒的計畫，並找到阻止他們的辦法。
-scenario_story_tinkerer_3_sm1_desc,英雄們獲得<nobr>+1 攻擊<sprite name=Attack></nobr>
+scenario_story_tinkerer_3_sm1_desc,英雄們獲得<nobr>+1 進攻<sprite name=Attack></nobr>
 scenario_story_tinkerer_3_sm2_desc,英雄們擁有永久<nobr>+1 護盾<sprite name=Shield></nobr>
 scenario_story_tinkerer_3_start_1,這個烈光惡魔似乎有些不同：他對暗夜惡魔有著攻擊性。也許我們可以跟他進行交流？
 scenario_story_tinkerer_3_start_2,它似乎仍然對我們抱有敵意，那麼儘量讓暗夜惡魔遠離他。充能光元素應該可以説明他維持生命。
@@ -12091,8 +12052,6 @@ town_records_scenario077complete_9,他一屁股坐倒在椅子上。“這聽起
 trainerdialogname,教官
 transferdooms,轉移厄運
 
-
-
 twohexobstacle,兩格障礙物
 ui_augment_group_tooltip_cgflurry,損失 X 生命值以在這次攻擊增加 X 點攻擊力。
 ui_augment_group_tooltip_cgmaw,損失 X 生命值以在這次攻擊增加 X 點攻擊力。
@@ -12119,7 +12078,7 @@ unlockquest,解鎖新人物
 unlocktemple,解鎖寺廟
 unlocktrainer,解鎖教官
 unnamedlocation,未命名地點
-v_sync_quality_disabled,禁用
+
 v_sync_quality_every_second_v_blank,垂直行掃描每秒60幀
 v_sync_quality_every_v_blank, 垂直行掃描每秒30幀
 vaultsofpus,膿液墓穴
