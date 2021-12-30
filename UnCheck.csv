@@ -12143,11 +12143,6 @@ treasure_chest_tooltip,財寶寶箱
 
 
 
-tutorial_2_help_011_1,選擇強盜守衛旁邊高亮顯示的格子
-tutorial_2_help_011_2,點擊“確認移動”按鈕繼續
-tutorial_2_help_012,選擇踐踏的上半區
-tutorial_2_help_013,選擇強盜守衛作為攻擊目標
-tutorial_2_help_014,按一下“確認目標”按鈕進行攻擊！
 tutorial_2_help_015,點擊“結束按鈕”以繼續
 tutorial_2_help_016,選擇承受傷害
 tutorial_2_help_018_1,點擊“短休息”按鈕
@@ -12166,16 +12161,6 @@ tutorial_2_help_024_5,點擊“結束”以繼續
 
 
 
-
-雖然玩家角色每個輪次擁有兩個<color=#FADC99><b>動作</b></color>，而怪物只擁有一個——儘管這一個行動經常包括多個<color=#FADC99><b>技能</b></color>。"
-tutorial_2_text_011_2,"請注意，這個<color=#C53F3F><b>強盜</b></color>比<color=#a06e4b><b>蠻徒</b></color>具有更低的<color=#FADC99><b>時序值</b></color>，所以本回合如果他還是可見的，那麼他本應在<color=#a06e4b><b>蠻徒</b></color>之前行動。
-
-然而目前已經是<color=#a06e4b><b>蠻徒</b></color>的輪次了，所以只有在你完成當前輪次之後才會輪到<color=#C53F3F><b>強盜</b></color>的輪次。"
-tutorial_2_text_011_3,"讓我們的 <color=#a06e4b><b>蠻子</b></color>更加接近敵人吧，直到我們能夠使用<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b>上半區的</nobr><color=#FADC99><b>攻擊</b></color> 作為第二個<color=#FADC99><b>行動</b></color>！"
-tutorial_2_text_012,"由於你已經使用過了<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr>，它就被<color=#FADC99><b>棄置</b></color>了，它將在你休息時返回到手牌中，在那之前你將不能再使用這張卡牌。
-
-現在，是時候<color=#FADC99><b>攻擊</b></color>了！"
-tutorial_2_text_015_1,"每當你<color=#FADC99><b>攻擊</b></color>時，都會從角色的攻擊修正卡池中抽取<color=#FADC99><b>攻擊修正卡</b></color>附加在你的<color=#FADC99><b>攻擊</b></color>上。
 
 在這種情況下，你可以在<color=#C53F3F><b>強盜守衛</b></color>的生命條上方看到<b><color=#FFA414>+0</color></b>修正卡被抽取，所以你的<color=#FADC99><b>攻擊</b></color>仍然造成了它的基礎值<b>3</b>點傷害。"
 tutorial_2_text_015_2,本教學中，我們將只有<b><color=#FFA414>+0</color></b>修正卡，以保持相對簡單的難度。我們將在以後探索其他的<color=#FADC99><b>攻擊修正卡</b></color>！
