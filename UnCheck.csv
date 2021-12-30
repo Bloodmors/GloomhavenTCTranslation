@@ -4866,12 +4866,12 @@ gui_city_event_blocked,"<size=+2><color=#EACF8C>城市遭遇</color></size>
 gui_city_event_cancel,取消城市事件
 gui_city_quest_description,{0}任務開放！
 gui_cleartargets,撤銷目標
-gui_close,關閉
-gui_combatlog_end_round,回合結束
-gui_combatlog_end_turn,{0}的輪次結束
+
+
+
 gui_combatlog_player_turn,{0}，準備好！
-gui_combatlog_start_round,回合
-gui_combatlog_start_turn,{0}的輪次
+
+
 gui_commit,確認
 
 gui_compile,編譯
@@ -5038,8 +5038,8 @@ gui_encounter_received,你收到了
 gui_end_extra_turn,結束額外的輪次
 gui_end_pull,結束拉近
 gui_end_push,結束推遠
-gui_end_round,結束回合
-gui_end_selection,結束選擇
+
+
 gui_end_turn,結束{0}的輪次
 gui_enemieskilled,這是你為了贏下劇本必須完成的目標。下面的進度條顯示了目標的進度。
 gui_enemy2,敵軍隊伍2
@@ -5440,10 +5440,7 @@ To do so, you must <color=#F1DBAE>first receive an Invite Code</color> from the 
 
 
 gui_multiplayer_locked_party_not_hq_tooltip,在你返回到黯淡港灣或進入一個場景之前，多人遊戲會被鎖住。
-gui_multiplayer_locked_tooltip,完成完整教學後，多人遊戲將解鎖。
-gui_multiplayer_my_turn,你的<color=#F1DBAE>輪次</color>
-gui_multiplayer_party,角色
-gui_multiplayer_player_turn,{0} 的<color=#F1DBAE>輪次</color>
+
 
 gui_multiplayer_remove_user,移除用戶
 
@@ -5666,14 +5663,9 @@ gui_reset_character_level_confirmation,重置技能卡
 gui_reset_character_level_tooltip,"<color=#CEAD5A>重置雇傭兵</color>將使得雇傭兵掌握的技能卡和專精專案返回到起始狀態，並允許您重建角色為當前級別或以下的級別。
 重置雇傭兵不會影響雇傭兵當前的XP。"
 gui_reset_party,重置玩家團隊
-gui_restart,重新開始
-gui_restart_round,重新開始回合
-gui_restart_round_gamemode_tooltip,You cannot restart the round during the tutorial.
-gui_restart_round_mp_host_tooltip,Only the host can restart the round
-gui_restart_round_phase_tooltip,You can restart the round at the start of the round or on your mercenaries turn during action selection
-gui_restart_round_while_players_joining_mp_tooltip,正有玩家加入多人遊戲。該期間不能重新開始回合。
-gui_restart_turn,重新開始輪次
-gui_result_lose_exit,返回地圖
+
+
+
 gui_result_win_exit,退出地牢
 gui_results_accomplishments,成就
 gui_results_chests,拾取寶箱數
@@ -5756,13 +5748,12 @@ gui_skip_pull,跳過拉近
 gui_skip_push,跳過推遠
 gui_spawner,怪物出生地
 gui_spawner_information,下一輪
-gui_speed_up_tooltip,"<size=+2> <color=#EACF8C>快進</color></size>
-按此按鈕以增加動畫速度"
+
 gui_stadia_friends,朋友們
 gui_start,開始
 gui_start_campaign,開始戰役
 gui_start_multiplayer_wrong_phase_tooltip,開始多人遊戲僅在卡選擇階段或世界地圖上可用
-gui_start_round_banner,回合{0}
+
 gui_starting_perk_points,初始專精項目
 gui_starting_perk_points_tooltip,"<size=+2> <color=#EACF8C>初始專精項目</color> </size>
 任何未來新加入的雇傭兵獲得的雇傭兵的初始專精項目數等於1加上之前退休的雇傭兵擁有的最高初始專精項目數。"
@@ -5784,8 +5775,7 @@ gui_temple_confirmation,"在下一個任務，<color=#{1}>{0} <sprite name=""{2}
 gui_temple_confirmation_title,給予佈施
 gui_temple_description,"捐助大橡樹寺並收到x2 <font=""MarcellusAlt SDF""><color=#A78634>Bless</color></font> <sprite name=""Bless""> 修正卡可在下一個任務中使用。"
 gui_temple_devotion_level,您持續的捐款一直是庇護所乃至整個城市的真正福音。這肯定會對這座城市產生明顯的影響，但放心吧，我們總是會充分使用外部的援助。
-gui_tooltip_ability_choosing_1,啟動任一卡的上半或下半區。
-gui_tooltip_ability_choosing_2,啟動另外一張卡對應相反的半區。
+
 gui_tooltip_activebonus_target_selection_137,選擇目標以添加+3攻擊 <sprite name=Attack>。
 gui_tooltip_add_doom,打出一個厄運將移除任何其他場上的厄運並棄置它們。
 gui_tooltip_add_target_modifier,添加目標的修正卡
@@ -5851,7 +5841,7 @@ gui_tooltip_start_turn,讓每個角色選擇兩個技能卡打出或選擇休息
 gui_tooltip_summon,召喚{0}
 gui_tooltip_summon_select_hex,選擇一個格子來召喚{0}
 gui_tooltip_take_quest_item,確認從相鄰的雇傭兵拿走可攜帶的任務物品
-gui_tooltip_title_ability_choosing,技能卡選擇
+
 gui_tooltip_title_deal_damage,傷害結算階段
 gui_tooltip_title_start_turn,開始輪次
 gui_tooltip_transfer_doom,將厄運從已死的目標轉移到另一個目標。
@@ -5876,8 +5866,7 @@ gui_tutorial_victory_info,"恭喜，你通過了教學，現在是應用你的�
 有關黯淡港灣規則的更多資訊，請查看主功能表中的【簡明規則書】部分，它在遊戲進行時的暫停功能表中也可找到並查看。
 
 祝你好運！"
-gui_undo,撤銷
-gui_undo_waypoint,撤銷路線
+
 gui_unequipped,未被裝備
 gui_unknown,未知
 gui_unready,未準備
@@ -6317,7 +6306,7 @@ keycode_uparrow,上箭頭
 keyport,奇波特港
 keyport_descr,奇波特港是西海的主要貿易樞紐，日漸富強。有傳言說商人公會計畫在當地發動政變，為了預防起見，光明的駐軍得到了加強。
 kill,擊殺
-kill all enemies,殺死所有敵軍
+
 kill_allnormalenemiesintargetedarea,殺死目的地區域內的所有非精英怪
 kill_oneadjacentenemy,殺死一個相鄰的敵人。
 kill_oneadjacentnormalenemy,殺死一個相鄰的非精英敵人。
@@ -11379,7 +11368,7 @@ scenario_story_wingedhorror_start_3,請把注意力放在儘快地通過這些�
 scenario_story_wingedhorror_success_1,這只巨大的惡魔再次尖叫，然後所有的惡魔和圍繞它的小妖消失了。隨著傷口的痛楚慢慢地殺死他，它恐怖的尖叫聲和不受控制的肢體揮打充斥著周圍。
 scenario_story_wingedhorror_success_2,最終，它的動靜安靜下來，變成嗚咽聲。 “被一個人類打了”，它哀號道， “我感到……”隨著一陣幹嘔，它嘔吐出一個堅實的團塊，然後躺下不動了。
 scenario_story_wingedhorror_success_3,你在吃驚地環顧四周，看到剩下的羚牛族每個都已逃走，鋸骨醫者正在照顧學校的傷患，好像恐懼魔沒有從存在過一般。
-scenario_story_wingedhorror_win_objective,殺死所有房間的所有敵人
+
 scenario_travel_amberhill_start_1,不對外人開放？他們以為自己算老幾？
 scenario_travel_amberhill_start_2,好吧，我想我知道為什麼從來沒有商人活著回來了。
 scenario_travel_amberhill_start_3,他們顯然不會就這麼輕易把你放走。把他們幹掉，我們就能進一步調查了。
@@ -12150,11 +12139,10 @@ transferdooms,轉移厄運
 trap,陷阱
 treasure_chest_tooltip,財寶寶箱
 
-tutorial_2_help_006,點擊“結束選擇”繼續
-tutorial_2_help_007,選擇雁過拔毛的下半區
-tutorial_2_help_008,選擇高亮顯示的房門格子
-tutorial_2_help_009,點擊開門按鈕以確認移動
-tutorial_2_help_010,將游標懸停在螢幕頂部的時序跟蹤器中的強盜守衛肖像上
+
+
+
+
 tutorial_2_help_011_1,選擇強盜守衛旁邊高亮顯示的格子
 tutorial_2_help_011_2,點擊“確認移動”按鈕繼續
 tutorial_2_help_012,選擇踐踏的上半區
@@ -12177,15 +12165,7 @@ tutorial_2_help_024_4,點擊“跳過移動”按鈕跳過剩下的移動
 tutorial_2_help_024_5,點擊“結束”以繼續
 
 
-tutorial_2_text_007_1,現在是<color=#a06e4b><b>蠻徒</b></color>的輪次，到了選擇一個<color=#FADC99><b>行動</b></color>的時候了。每張卡牌的上半區和下半區分別表示一個<color=#FADC99><b>行動</b></color>，每個<color=#FADC99><b>行動</b></color>由一個或多個<color=#FADC99><b>技能</b></color>組成。
-tutorial_2_text_007_2,你每輪可以使用兩個<color=#FADC99><b>行動</b></color>，你可以選擇左邊的四種行動之一作為你的第一個<color=#FADC99><b>行動</b></color>——但請注意，你必須使用另一張卡的另一半區中的兩種行動之一作為你的第二個行動。
-tutorial_2_text_007_3,"例如，在這裡，你可以選擇<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>的上半區和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr>的下半區..."
-tutorial_2_text_007_4,"...或選擇<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>的下半區和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr>的上半區。"
-tutorial_2_text_007_5,"<color=#a06e4b><b>蠻徒</b></color>在這個房間裡沒有什麼可做的，所以你應該通過<color=#FADC99><b>移動</b></color>能力看看門後有什麼。
 
-<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr>的底部允許<color=#a06e4b><b>蠻徒</b></color>移動四個格子，足以通過這扇門。讓我們開始吧！"
-tutorial_2_text_010,這個房間內你將遇見你的第一個敵人，一個<color=#C53F3F><b>強盜守衛</b></color>！像玩家角色一樣，怪物也會選擇他們的<color=#FADC99><b>時序值與行動</b></color>——讓我們通過游標懸停在他的肖像上來瞭解<color=#C53F3F><b>強盜</b></color>在這一回合的計畫。
-tutorial_2_text_011_1,"你可以看到<color=#C53F3F><b>強盜</b></color>的意圖：他計畫 <color=#FADC99><b>移動</b></color>和<color=#FADC99><b>攻擊</b></color>！
 
 雖然玩家角色每個輪次擁有兩個<color=#FADC99><b>動作</b></color>，而怪物只擁有一個——儘管這一個行動經常包括多個<color=#FADC99><b>技能</b></color>。"
 tutorial_2_text_011_2,"請注意，這個<color=#C53F3F><b>強盜</b></color>比<color=#a06e4b><b>蠻徒</b></color>具有更低的<color=#FADC99><b>時序值</b></color>，所以本回合如果他還是可見的，那麼他本應在<color=#a06e4b><b>蠻徒</b></color>之前行動。
