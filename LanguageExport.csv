@@ -1336,10 +1336,10 @@ augment_discardreminder,當你的另一張<nobr><color=#A7B3D2>角色特效賦�
 augment_onyourmeleeattacks,你的近戰攻擊：,,,,,,,,,,,,,,,
 aura,光環,,,,,,,,,,,,,,,
 banditarcher,強盜弓箭手,,,,,,,,,,,,,,,
-banditarcherelite,強盜弓箭手精英,,,,,,,,,,,,,,,
+banditarcherelite,【精英】強盜弓箭手,,,,,,,,,,,,,,,
 banditcommander,強盜指揮官,,,,,,,,,,,,,,,
 banditguard,強盜守衛,,,,,,,,,,,,,,,
-banditguardelite,強盜守衛精英,,,,,,,,,,,,,,,
+banditguardelite,【精英】強盜守衛,,,,,,,,,,,,,,,
 battleboar,豪豬,,,,,,,,,,,,,,,
 battlebot,戰鬥機器,,,,,,,,,,,,,,,
 battlegoal_agressor,侵略者,,,,,,,,,,,,,,,
@@ -1564,7 +1564,7 @@ combat_log_hexes,格子,,,,,,,,,,,,,,,
 combat_log_immune,{0}可防止{1}至{2},,,,,,,,,,,,,,,
 combat_log_infuse_element,{0}元素正在被充能,,,,,,,,,,,,,,,
 combat_log_infusing_element,{0}正在對{1}元素進行充能,,,,,,,,,,,,,,,
-combat_log_invulnerable,{0}因免傷而受到了<b><color=#f76767> 0 </color></b>點傷害,,,,,,,,,,,,,,,
+combat_log_invulnerable,{0}因免傷而受到了<color=#f76767><b> 0 </b></color>點傷害,,,,,,,,,,,,,,,
 combat_log_kill,{0}殺死了{1},,,,,,,,,,,,,,,
 combat_log_long_rest,{0}進行長休息，並焚燒了{1},,,,,,,,,,,,,,,
 combat_log_long_rest_no_card,{0}進行長休息,,,,,,,,,,,,,,,
@@ -1633,14 +1633,14 @@ compendium_attackmodifiers_1,"攻擊時，將卡的攻擊數值之上，按以�
 
 首先計算攻擊者的攻擊補正。這些補正包括啟動中的獎勵卡，物品，其他來源的獎勵與懲罰（例如，中毒會+1攻擊）。
 
-接下來，從攻擊者的攻擊修正卡池中抽取攻擊修正卡並計算。這會出現在被攻擊者的生命條上方。通過在角色模型上懸停游標以顯示其資訊面板，可以看到攻擊修正卡池，每種攻擊修正卡下方的點數表示這種卡的剩餘數量。當一個角色的攻擊修正卡池中自帶的<b><color=#A050E0>x0</color></b>或<b><color=#D92727>x2</color></b>被抽取後的回合結束時或是已經抽出了全部的攻擊修正卡而角色仍在攻擊時該角色的攻擊修正卡池進行洗牌。",,,,,,,,,,,,,,,
+接下來，從攻擊者的攻擊修正卡牌庫中抽取攻擊修正卡並計算。這會出現在被攻擊者的生命條上方。通過在角色模型上懸停游標以顯示其資訊面板，可以看到攻擊修正卡牌庫，每種攻擊修正卡下方的點數表示這種卡的剩餘數量。當一個角色的攻擊修正卡牌庫中自帶的<color=#A050E0><b>x0</b></color>或<color=#D92727><b>x2</b></color>被抽取後的回合結束時或是已經抽出了全部的攻擊修正卡而角色仍在攻擊時該角色的攻擊修正卡牌庫進行洗牌。",,,,,,,,,,,,,,,
 compendium_attackmodifiers_2,"最後，計算被攻擊方的防守獎勵。根據每個角色的護盾或其他防禦獎勵減少對其的攻擊傷害。
 
 請注意：由於每個目標單獨計算，因此相同的攻擊動作最終可能對每個敵人造成不同的傷害。",,,,,,,,,,,,,,,
 compendium_attackmodifiers_title,攻擊修正,,,,,,,,,,,,,,,
 compendium_blessandcurse_1,詛咒和祝福與其他效果不同，它們不是持續效果，而是添加額外的攻擊修正卡到目標的修正卡池中。,,,,,,,,,,,,,,,
-compendium_blessandcurse_2,<b>祝福：</b>如果目標被祝福，則將祝福（<b><color=#D92727>x2</color></b>）卡放置到目標的剩餘攻擊修正卡池中。當通過<b>攻擊</b>揭示此卡時，它將從攻擊修正卡池中刪除。,,,,,,,,,,,,,,,
-compendium_blessandcurse_3,<b>詛咒：</b>如果目標被詛咒，則將詛咒（<b><color=#A050E0>x0</color></b>）卡放置到目標的剩餘攻擊修正卡池中。當通過<b>攻擊</b>揭示此卡時，它將從攻擊修正卡池中刪除。,,,,,,,,,,,,,,,
+compendium_blessandcurse_2,<b>祝福：</b>如果目標被祝福，則將祝福（<color=#D92727><b>x2</b></color>）卡放置到目標的剩餘攻擊修正卡牌庫中。當通過<b>攻擊</b>揭示此卡時，它將從攻擊修正卡牌庫中刪除。,,,,,,,,,,,,,,,
+compendium_blessandcurse_3,<b>詛咒：</b>如果目標被詛咒，則將詛咒（<color=#A050E0><b>x0</b></color>）卡放置到目標的剩餘攻擊修正卡牌庫中。當通過<b>攻擊</b>揭示此卡時，它將從攻擊修正卡牌庫中刪除。,,,,,,,,,,,,,,,
 compendium_blessandcurse_title,祝福和詛咒,,,,,,,,,,,,,,,
 compendium_cardlayout,"<b>1.卡名稱
 </b>
@@ -1804,7 +1804,7 @@ compendium_roundsummary,"一個劇本包括一系列回合，直到玩家符合�
 從優先權最小的一方開始，玩家和怪物將依次行動。怪物只能採取行動卡上的行動，玩家角色選擇各自所選卡片上的行動。玩家角色也可以在自己輪次時使用物品卡。</indent>
 
 • <indent=15><b>回合結束：</b>
-回合內啟動效果結束，依照效果將其丟棄或焚燒，元素從強烈降為衰減，從衰減降為惰性，如果有修正卡池的默認<b><color=#A050E0>x0</color></b>或<b><color=#D92727>x2</color></b>被抽出，則將該修正卡池洗牌。</indent>",,,,,,,,,,,,,,,
+回合內啟動效果結束，依照效果將其丟棄或焚燒，元素從強烈降為衰減，從衰減降為惰性，如果有修正卡池的默認<color=#A050E0><b>x0</b></color>或<color=#D92727><b>x2</b></color>被抽出，則將該修正卡池洗牌。</indent>",,,,,,,,,,,,,,,
 compendium_roundsummary_title,回合構成,,,,,,,,,,,,,,,
 compendium_section_abilitiesattack,技能 – 攻擊,,,,,,,,,,,,,,,
 compendium_section_abilitiesmove,技能 – 移動,,,,,,,,,,,,,,,
@@ -1908,8 +1908,8 @@ cursedretreat,被詛咒的靜修所,,,,,,,,,,,,,,,
 cursekeep,詛咒,,,,,,,,,,,,,,,
 cursekeep_descr,這個石頭堡壘坐落在守望者山的北部邊界，它是Gloomhaven城和魔門鎮城市守衛們的主要訓練營。,,,,,,,,,,,,,,,
 curseshort,詛咒,,,,,,,,,,,,,,,
-daggerforest,匕首叢林,,,,,,,,,,,,,,,
-damage,傷害值,,,,,,,,,,,,,,,
+daggerforest,尖刀森林,,,,,,,,,,,,,,,
+damage,傷害,,,,,,,,,,,,,,,
 darkrider,暗黑騎師,,,,,,,,,,,,,,,
 decayingsepulcher,腐朽墳墓,,,,,,,,,,,,,,,
 decayingtombs,腐朽陵墓,,,,,,,,,,,,,,,
@@ -1952,7 +1952,7 @@ disarmtrap,拆卸陷阱,,,,,,,,,,,,,,,
 diseasedcopse,破敗林地,,,,,,,,,,,,,,,
 do nothing,不執行任何技能,,,,,,,,,,,,,,,
 doom,角色特效厄運,,,,,,,,,,,,,,,
-doom_discardremindertext,當敵人死亡或另一個<nobr><b><color=#39BEED>厄運</color></b><sprite name=Doom></nobr>被打出，丟棄這張卡。,,,,,,,,,,,,,,,
+doom_discardremindertext,當敵人死亡或另一個<nobr><color=#39BEED><b>厄運</b></color><sprite name=Doom></nobr>被打出，丟棄這張卡。,,,,,,,,,,,,,,,
 doom_marktext,將一個敵人標記為<b><color=#39BEED>被降厄的</color>。,,,,,,,,,,,,,,,
 doomcrushers,末日突襲隊,,,,,,,,,,,,,,,
 doomstalker,末日行者,,,,,,,,,,,,,,,
@@ -3251,7 +3251,7 @@ event_city_campaign_58_intro,"“他們至少也有五十只，我對天發誓�
 event_city_campaign_58_option_a,和那些醉鬼一同嘲笑講故事的男子。,,,,,,,,,,,,,,,
 event_city_campaign_58_option_b,讓那群人安靜下來，並從那個男子那裡瞭解更多被襲擊的細節。,,,,,,,,,,,,,,,
 event_city_campaign_58_result_a,你們靠過去和那些醉漢一起嘲笑這名男子。過了一會，他終於放棄了，顯得十分無奈，只好盯著自己的酒杯，沉默了好一陣子。不過他所說的故事能讓人當成笑話，說上好幾個星期。,,,,,,,,,,,,,,,
-event_city_campaign_58_result_b,好不容易讓那群醉鬼安靜下來，並把這個衣衫不整的男子帶到酒館一處僻靜的角落，好讓他說出整件事情的經過。據他說，他實際上是一名地痞小混混，之前和同伴一齊前往匕首叢林採伐木頭。然而遇到了獸王，他帶著一群野獸軍隊， 在那群樵夫伐木的時候發起了進攻。儘管這名男子在戰鬥中逃了出來，不過他在混亂之中還聽見憤怒之靈發出駭人的嚎叫聲，他保證以上所說的都是事實。,,,,,,,,,,,,,,,
+event_city_campaign_58_result_b,好不容易讓那群醉鬼安靜下來，並把這個衣衫不整的男子帶到酒館一處僻靜的角落，好讓他說出整件事情的經過。據他說，他實際上是一名地痞小混混，之前和同伴一齊前往尖刀森林採伐木頭。然而遇到了獸王，他帶著一群野獸軍隊， 在那群樵夫伐木的時候發起了進攻。儘管這名男子在戰鬥中逃了出來，不過他在混亂之中還聽見憤怒之靈發出駭人的嚎叫聲，他保證以上所說的都是事實。,,,,,,,,,,,,,,,
 event_city_campaign_59_intro,"你們正往陷沒市集區走去，想看看有沒有便宜的補給物品，卻發現有一群人聚集在不遠之處。你們擠開人群靠了過去，看到一堆屍體躺在大街上，它們皮膚表面爬滿許多昆蟲，而且佈滿怪異的膿瘡。
 
 你身邊的一名婦人驚恐地尖叫著，並快步跑開。而其他的圍觀者則不斷向前推擠，想找個好位置，以便觀看這幅可怕的景象。",,,,,,,,,,,,,,,
@@ -4835,7 +4835,7 @@ gui_buy_enhancement_confirmation_title,購買技能提升,,,,,,,,,,,,,,,
 gui_buy_party_confirmation,你確定要解鎖這個玩家團隊嗎？,,,,,,,,,,,,,,,
 gui_campaign,戰役模式,,,,,,,,,,,,,,,
 gui_campaign_invalid_name,輸入了無效的名稱,,,,,,,,,,,,,,,
-gui_campaign_repeated_name,該名稱已被使用，請輸入不同的名字。,,,,,,,,,,,,,,,
+gui_campaign_repeated_name,該名稱已被使用，請輸入不同的名稱。,,,,,,,,,,,,,,,
 gui_campaign_ruleset,戰役模式規則集,,,,,,,,,,,,,,,
 gui_cancel,取消,,,,,,,,,,,,,,,
 gui_cancel_active_bonus,按一下圖示以取消啟動的技能,,,,,,,,,,,,,,,
@@ -4869,7 +4869,7 @@ gui_choose_element_infuse,選擇1個元素進行充能,,,,,,,,,,,,,,,
 gui_choose_elements_consume,選擇要消耗的{0}元素,,,,,,,,,,,,,,,
 gui_choose_elements_infuse,選擇要充能的{0}元素,,,,,,,,,,,,,,,
 gui_choose_item_to_lose,選擇要犧牲的物品,,,,,,,,,,,,,,,
-gui_choose_other_card,換一張卡,,,,,,,,,,,,,,,
+gui_choose_other_card,換一張牌,,,,,,,,,,,,,,,
 gui_city_encounter,城市遭遇事件,,,,,,,,,,,,,,,
 gui_city_encounter_tooltip,"<size=+4><color=#F3DDABFF>城市遭遇事件</color></size>
 你們每次到黯淡港灣時，只能完成1個城市遭遇事件。",,,,,,,,,,,,,,,
@@ -4901,7 +4901,8 @@ gui_confirm_push,確認推遠,,,,,,,,,,,,,,,
 gui_confirm_targets,確認目標,,,,,,,,,,,,,,,
 gui_confirm_use_item,使用物品,,,,,,,,,,,,,,,
 gui_confirmation,你確定嗎？,,,,,,,,,,,,,,,
-gui_confirmation_abandon_adventure_scenario,本劇本你將以失敗結束，並返回地圖介面。你將保留任何已賺取的金幣，經驗值XP和成就進度。,,,,,,,,,,,,,,,
+gui_confirmation_abandon_adventure_scenario,"本劇本你將以失敗告終，並返回地圖介面
+你將保留已拾取的金幣，經驗值和成就進度",,,,,,,,,,,,,,,
 gui_confirmation_abandon_single_scenario,本劇本你將以失敗結束，並返回主選單。,,,,,,,,,,,,,,,
 gui_confirmation_buy,購買{0},,,,,,,,,,,,,,,
 gui_confirmation_buy_cost,成本,,,,,,,,,,,,,,,
@@ -5198,7 +5199,7 @@ gui_guild_trainer,教官,,,,,,,,,,,,,,,
 gui_guild_worldmap,世界地圖,,,,,,,,,,,,,,,
 gui_guildmaster_difficulty_title,難度,,,,,,,,,,,,,,,
 gui_guildmaster_invalid_name,輸入了無效的名稱,,,,,,,,,,,,,,,
-gui_guildmaster_repeated_name,該名稱已被使用，請輸入不同的名字。,,,,,,,,,,,,,,,
+gui_guildmaster_repeated_name,該名稱已被使用，請輸入不同的名稱。,,,,,,,,,,,,,,,
 gui_guildmaster_ruleset,會長模式規則集,,,,,,,,,,,,,,,
 gui_guildmaster_start_game,開始遊戲,,,,,,,,,,,,,,,
 gui_guildmaster_tutorial_full,全部教學,,,,,,,,,,,,,,,
@@ -5214,23 +5215,23 @@ gui_house_rules_advantage,優勢或劣勢,,,,,,,,,,,,,,,
 gui_house_rules_advantage_original,原始：可能在有優勢狀態下抽到""失手"",,,,,,,,,,,,,,,
 gui_house_rules_advantage_original_tooltip,"在有優勢或是劣勢狀態下進行攻擊時：
 【如果只抽到一張有""連抽""圖示的修正卡】
-* 在有優勢狀態時，兩張攻擊修正卡都將套用至攻擊中
+* 在有優勢狀態時，兩張攻擊修正卡都將套用至攻擊中。
 * 在有劣勢狀態時，只有沒有""連抽""圖示的修正卡套用至攻擊中。
 【如果兩張都是有""連抽""圖示的修正卡】就持續抽卡直到出現沒有""連抽""圖示的修正卡為止
-* 在有優勢狀態時，全部的攻擊修正卡都將套用至攻擊中
+* 在有優勢狀態時，全部的攻擊修正卡都將套用至攻擊中。
 * 在有劣勢狀態時，只有沒有""連抽""圖示的修正卡套用至攻擊中。",,,,,,,,,,,,,,,
 gui_house_rules_advantage_variant,<color=#ED1F18>【推薦】</color>變體：不會在有優勢狀態下抽到""失手"",,,,,,,,,,,,,,,
 gui_house_rules_advantage_variant_tooltip,"在有優勢或是劣勢狀態下進行攻擊時：
-【如果第一張攻擊修正卡有""連抽""圖示】就持續抽卡直到出現沒有""連抽""圖示的修正卡為止
-然後再抽一張攻擊修正卡，此卡無論是否有""連抽""圖示都將忽視此圖示效果。
-* 在有優勢狀態時，選擇最佳的兩張攻擊修正卡套用至攻擊中
+【如果第一張攻擊修正卡有""連抽""圖示】就持續抽卡直到出現沒有""連抽""圖示的修正卡為止，
+然後再抽一張攻擊修正卡，此卡無論是否有""連抽""圖示都將忽視此圖示效果
+* 在有優勢狀態時，選擇最佳的兩張攻擊修正卡套用至攻擊中。
 * 在有劣勢狀態時，選擇兩張最糟且沒有""連抽""圖示的修正卡套用至攻擊中。",,,,,,,,,,,,,,,
 gui_house_rules_attack_modifiers,攻擊修正卡,,,,,,,,,,,,,,,
 gui_house_rules_attack_modifiers_original,<color=#ED1F18>【推薦】</color>原始：x2 與 x0 攻擊修正卡,,,,,,,,,,,,,,,
-gui_house_rules_attack_modifiers_original_tooltip,攻擊修正卡庫將會包含 x2 與 x0 的攻擊修正卡。,,,,,,,,,,,,,,,
-gui_house_rules_attack_modifiers_variant,變體： +2 與 -2 攻擊修正卡,,,,,,,,,,,,,,,
-gui_house_rules_attack_modifiers_variant_tooltip,"x2 的攻擊修正卡 將會替換成 +2。
-x0 的攻擊修正卡 將會替換成 -2。",,,,,,,,,,,,,,,
+gui_house_rules_attack_modifiers_original_tooltip,攻擊修正卡庫將會包含 <color=orange>x2</color> 與 <color=orange>x0</color> 的攻擊修正卡。,,,,,,,,,,,,,,,
+gui_house_rules_attack_modifiers_variant,變體：+2 與 -2 攻擊修正卡,,,,,,,,,,,,,,,
+gui_house_rules_attack_modifiers_variant_tooltip,"<color=orange>x2</color> 的攻擊修正卡 將會替換成 <color=orange>+2</color>。
+<color=orange>x0</color> 的攻擊修正卡 將會替換成 <color=orange>-2</color>。",,,,,,,,,,,,,,,
 gui_house_rules_descr,自改規則也可以在進入遊戲後調整。可以在設置選單中找到此設定。,,,,,,,,,,,,,,,
 gui_house_rules_line_of_sight,視線,,,,,,,,,,,,,,,
 gui_house_rules_line_of_sight_original,原始：標準的視線規則,,,,,,,,,,,,,,,
@@ -5885,7 +5886,7 @@ gui_retirement,退休,,,,,,,,,,,,,,,
 gui_retirement_cancel_selected_quest_confirmation,你的團隊中的一個傭兵已經完成了它的個人任務。你繼續冒險之前，必須先讓他退休。,,,,,,,,,,,,,,,
 gui_retry,重試,,,,,,,,,,,,,,,
 gui_reward_trap,陷阱！,,,,,,,,,,,,,,,
-gui_reward_treasure,找到了財寶寶箱！,,,,,,,,,,,,,,,
+gui_reward_treasure,找到了寶箱！,,,,,,,,,,,,,,,
 gui_round_bonuses,回合獎勵,,,,,,,,,,,,,,,
 gui_sandbox,沙箱,,,,,,,,,,,,,,,
 gui_scenario_mod_add_conditions_to_abilities,所有技能都將添加{0},,,,,,,,,,,,,,,
@@ -5967,7 +5968,7 @@ gui_temple_bless_unavailable,被祝福的傭兵,,,,,,,,,,,,,,,
 gui_temple_confirm,捐助,,,,,,,,,,,,,,,
 gui_temple_confirmation,"在下一個任務，<color=#{1}>{0} <sprite name=""{2}"" color=#{1}></color> 獲得 x2 <sprite name=""Bless""><color=#A78634>祝福</color>修正卡",,,,,,,,,,,,,,,
 gui_temple_confirmation_title,給予佈施,,,,,,,,,,,,,,,
-gui_temple_description,"捐助大橡樹寺並收到x2 <font=""MarcellusAlt SDF""><color=#A78634>Bless</color></font><sprite name=""Bless""> 修正卡可在下一個任務中使用。",,,,,,,,,,,,,,,
+gui_temple_description,"捐助大橡樹寺並收到x2 <font=""MarcellusAlt SDF""><color=#A78634>Bless</color></font><sprite name=""Bless"">修正卡可在下一個任務中使用。",,,,,,,,,,,,,,,
 gui_temple_devotion_level,你持續的捐款一直是庇護所乃至整個城市的真正福音。這肯定會對這座城市產生明顯的影響，但放心吧，我們總是會充分使用外部的援助。,,,,,,,,,,,,,,,
 gui_tooltip_ability_choosing_1,啟動任意牌的頂部或底部。,,,,,,,,,,,,,,,
 gui_tooltip_ability_choosing_2,啟動另一張牌的另一半部。,,,,,,,,,,,,,,,
@@ -7606,10 +7607,10 @@ personalquest_battle_legend_objective_progress_tooltip,Perk Points earned from B
 personalquest_battle_legend_objective_progress_tooltip_empty,No Perk Points earned yet.,,,,,,,,,,,,,,,
 personalquest_elemental_samples,元素樣本,,,,,,,,,,,,,,,
 personalquest_elemental_samples_completed,這個城市沒被科學家擠滿真是一個奇跡。實際上鑒於探索黯淡港灣和其周邊的危險程度，這並不意外，但這就是這群傭兵發揮作用的時候了。研究結果不言而喻：這裡的元素濃度空前的高，這展現出的可能性於你而言是無止境的。懷著對那些傭兵幫助的感激，你開始準備回到你在荒野的孤塔的長途旅行 – 你必須儘快找出使用這些力量的最佳方法，不會太久的：很快就將會有其他元素追求者來到黯淡港灣。,,,,,,,,,,,,,,,
-personalquest_elemental_samples_desc,"<b>在以下地區各完成一個劇本：黯淡港灣，匕首叢林，留客沼澤，守望者山和迷霧海</b>
+personalquest_elemental_samples_desc,"<b>在以下地區各完成一個劇本：黯淡港灣，尖刀森林，留客沼澤，守望者山和迷霧海</b>
 
 這個世界是如此迷人，尤其是黯淡港灣和它附近的地區。如此多引人入勝的現象，還有如此多極具研究價值的樣本等待著你去收集。但這些地方也同樣充滿危險，最好找幾個可靠的幫手與你同行。",,,,,,,,,,,,,,,
-personalquest_elemental_samples_objective_desc,在以下地區各完成一個劇本：黯淡港灣，匕首叢林，留客沼澤，守望者山和迷霧海。,,,,,,,,,,,,,,,
+personalquest_elemental_samples_objective_desc,在以下地區各完成一個劇本：黯淡港灣，尖刀森林，留客沼澤，守望者山和迷霧海。,,,,,,,,,,,,,,,
 personalquest_elemental_samples_objective_progress_tooltip,Scenarios in different regions completed：,,,,,,,,,,,,,,,
 personalquest_elemental_samples_objective_progress_tooltip_empty,No scenarios completed yet.,,,,,,,,,,,,,,,
 personalquest_eternal_wanderer,永恆的漫遊者,,,,,,,,,,,,,,,
@@ -7632,7 +7633,7 @@ personalquest_finding_the_cure,找尋解藥,,,,,,,,,,,,,,,
 personalquest_finding_the_cure_completed,在離開前，你向傭兵團隊表達了最真摯的感謝，然後就趕緊回到了村莊。你當然想知道黯淡港灣背後的謎團，但你現在只想趕快回到家鄉 – 希望為時不晚。你不想要再看到別人的死亡了。,,,,,,,,,,,,,,,
 personalquest_finding_the_cure_desc,"<b>擊殺8只森林小妖。之後解鎖劇本“被遺忘的果林”並按照劇本說明繼續</b>
 
-領居的咳嗽聲讓你在夜裡輾轉難眠。起初只是咳嗽，但隨後症狀就不斷加深並出現了傳播現象。患者會七孔流血，生出疥瘡，最終痛苦死去。村裡的長老說在匕首叢林的深處藏著解藥，而森林小妖知曉通往那個地方的方法。如果能夠收集足夠多森林小妖身上的精粹的話，或許就能尋覓到解藥的所在地。",,,,,,,,,,,,,,,
+領居的咳嗽聲讓你在夜裡輾轉難眠。起初只是咳嗽，但隨後症狀就不斷加深並出現了傳播現象。患者會七孔流血，生出疥瘡，最終痛苦死去。村裡的長老說在尖刀森林的深處藏著解藥，而森林小妖知曉通往那個地方的方法。如果能夠收集足夠多森林小妖身上的精粹的話，或許就能尋覓到解藥的所在地。",,,,,,,,,,,,,,,
 personalquest_finding_the_cure_objective_desc,擊殺8只森林小妖。之後解鎖劇本“被遺忘的果林”並按照劇本說明繼續。,,,,,,,,,,,,,,,
 personalquest_finding_the_cure_objective_progress_tooltip,Forest Imps killed：,,,,,,,,,,,,,,,
 personalquest_finding_the_cure_objective_progress_tooltip_empty,No Forest Imps killed yet.,,,,,,,,,,,,,,,
@@ -7711,13 +7712,13 @@ personalquest_seeker_of_xorn_objective_step3_desc,按照劇本“冰晶宮殿”
 personalquest_seeker_of_xorn_progress_completed_step_0,你剛從地穴出來時就感覺到索恩對你的呼喚變得比這麼多年來的更強了：你最後前往的三個地穴中有些東西 – 你錯過了的東西。他命令你在找到之前不能停下，所以你回到了地穴，最終找到了索恩想讓你發現的東西...,,,,,,,,,,,,,,,
 personalquest_take_back_the_trees,奪回樹林,,,,,,,,,,,,,,,
 personalquest_take_back_the_trees_completed,你沒法將你的村子復原，但得知那些將其奪走的人已經為他們犯下的罪行贖罪就夠了。在你從強盜手中救下的花晶族的幫助下，你可以按照心中所想的樣子重建村落。不再對戰鬥渴望的你向至親的戰友告別，離開了黯淡港灣回到樹林中生活。你相信叢林會為你的朋友們善行帶來回報的。,,,,,,,,,,,,,,,
-personalquest_take_back_the_trees_desc,"<b>在匕首叢林內完成三個劇本。之後解鎖劇本“迷霧叢林”並按照劇本說明繼續</b>
+personalquest_take_back_the_trees_desc,"<b>在尖刀森林內完成三個劇本。之後解鎖劇本“迷霧叢林”並按照劇本說明繼續</b>
 
 那群人突然來到樹林宣稱他們對這片土地擁有主權並要求你們交付稅金。每次你們把這群強盜擊退之後，他們就會帶著更多的人捲土重來。現在你的家人不是被殺就是被俘。你需要外出尋求援助，並希望找到他們的老巢，然後把所有問題一次性解決。",,,,,,,,,,,,,,,
-personalquest_take_back_the_trees_objective_desc,在匕首叢林內完成三個劇本。之後解鎖劇本“迷霧叢林”並按照劇本說明繼續。,,,,,,,,,,,,,,,
+personalquest_take_back_the_trees_objective_desc,在尖刀森林內完成三個劇本。之後解鎖劇本“迷霧叢林”並按照劇本說明繼續。,,,,,,,,,,,,,,,
 personalquest_take_back_the_trees_objective_progress_tooltip,"""Dagger Forest"" scenarios completed：",,,,,,,,,,,,,,,
 personalquest_take_back_the_trees_objective_progress_tooltip_empty,"No ""Dagger Forest"" scenarios completed yet.",,,,,,,,,,,,,,,
-personalquest_take_back_the_trees_objective_step0_desc,在匕首叢林內完成三個劇本。（階段目標）,,,,,,,,,,,,,,,
+personalquest_take_back_the_trees_objective_step0_desc,在尖刀森林內完成三個劇本。（階段目標）,,,,,,,,,,,,,,,
 personalquest_take_back_the_trees_objective_step1_desc,按照劇本“迷霧叢林”的劇本說明繼續。,,,,,,,,,,,,,,,
 personalquest_take_back_the_trees_objective_step2_desc,按照劇本“強盜的樹林”的劇本說明繼續。,,,,,,,,,,,,,,,
 personalquest_take_back_the_trees_progress_completed_step_0,你有點難以置信。就在剛剛你找到了你一直想要的東西。但你清楚你在那些樹裡看到的是什麼：找到那些屠殺你們村子的人並糾正一切的方法。一個奪回樹林的方法。,,,,,,,,,,,,,,,
@@ -7839,13 +7840,13 @@ quest_campaign_002_intro,"你們將腳邊橫七豎八的屍體踢開，向著地
 quest_campaign_002_list,擊殺強盜指揮。,,,,,,,,,,,,,,,
 quest_campaign_002_name,墓中賊窩,,,,,,,,,,,,,,,
 quest_campaign_002_outro_gh_1,你們和傑西拉在“睡獅”酒館裡再次碰面，把文書交給她的同時收取了之前商定好的報酬。,,,,,,,,,,,,,,,
-quest_campaign_002_outro_gh_2,“你們知道，”她在酒館的嘈雜聲中對你們低聲耳語，“如果你們感興趣的話，我這裡還有其他任務可以交給你去做。匕首叢林的一個羚牛族部落劫持了我去往首都的物資車。”,,,,,,,,,,,,,,,
+quest_campaign_002_outro_gh_2,“你們知道，”她在酒館的嘈雜聲中對你們低聲耳語，“如果你們感興趣的話，我這裡還有其他任務可以交給你去做。尖刀森林的一個羚牛族部落劫持了我去往首都的物資車。”,,,,,,,,,,,,,,,
 quest_campaign_002_outro_gh_3,“我和軍方說過，但他們什麼都沒做，”她啐了一口，“我可以告訴你們這個營地的方位。如果你們替我前去殺雞儆猴的話，我會再付給你們更多報酬。”,,,,,,,,,,,,,,,
 quest_campaign_002_outro_gh_4,她把一張簡陋的森林地圖擺在桌上並起身離開，身上的首飾隨著走動叮噹作響。“事情完成後再來找我吧。”,,,,,,,,,,,,,,,
 quest_campaign_002_scenario_modifier_1,所有角色以3張詛咒卡開始劇本,,,,,,,,,,,,,,,
 quest_campaign_002_scenario_modifier_2,只有強盜頭領才可能在第二間房間裡打開那些門。,,,,,,,,,,,,,,,
 quest_campaign_003_desc,給所有和傑西拉敵對的羚牛族上一課,,,,,,,,,,,,,,,
-quest_campaign_003_intro,你們進入匕首叢林並按照傑西拉提供的簡易地圖尋找營地的位置。它隱藏的很好，但是你們跟隨著地圖上的標記一路前進，最終還是在森林旁的一片小空地上發現了一群密集的木屋。現在要做的就是進去做好殺雞儆猴的工作。,,,,,,,,,,,,,,,
+quest_campaign_003_intro,你們進入尖刀森林並按照傑西拉提供的簡易地圖尋找營地的位置。它隱藏的很好，但是你們跟隨著地圖上的標記一路前進，最終還是在森林旁的一片小空地上發現了一群密集的木屋。現在要做的就是進去做好殺雞儆猴的工作。,,,,,,,,,,,,,,,
 quest_campaign_003_intro_travel_1,這麼說，這位商人想要對那些商隊掠奪者殺一儆百？這聽上去還算合情合理。再說了，只要有了合適的價錢，不管你們做什麼都是合情合理的。,,,,,,,,,,,,,,,
 quest_campaign_003_list,擊殺所有掠奪者,,,,,,,,,,,,,,,
 quest_campaign_003_name,羚牛族營地,,,,,,,,,,,,,,,
@@ -8038,7 +8039,7 @@ quest_campaign_020_desc,你已經找到了她，現在結束這一切吧,,,,,,,,
 quest_campaign_020_intro,"歷經了各種曲折之後，你們找到了這個隱藏在森林之中的遠古陵墓。一 根粗壯的樹幹則幾乎將它的入口完全堵死。而這幢建築看上去歷史久遠，像是被時間所遺忘一樣。
 
 你們費力地擠過攔路的樹幹，走進墓中黑暗的大廳，之後點亮火把並安靜地等待著。那些居住在墓穴裡的生物蠢蠢欲動，雖然很輕微，但是在你左邊確實傳來了蹣跚的腳步聲。你們循聲過去打開一扇石門，在火把的映照之下，你們看到自己面前出現了不少亡靈的身影。看來傑西拉正在努力重建她的不死軍團。",,,,,,,,,,,,,,,
-quest_campaign_020_intro_travel_1,有一件事非常確定：沒有他人的幫助你們永遠也沒法找到傑西拉的老巢。要不是有手上這張詳盡的地圖，你們幾個小時前就已經完全迷失在匕首叢林的深處了。,,,,,,,,,,,,,,,
+quest_campaign_020_intro_travel_1,有一件事非常確定：沒有他人的幫助你們永遠也沒法找到傑西拉的老巢。要不是有手上這張詳盡的地圖，你們幾個小時前就已經完全迷失在尖刀森林的深處了。,,,,,,,,,,,,,,,
 quest_campaign_020_list,擊殺傑西拉,,,,,,,,,,,,,,,
 quest_campaign_020_name,死靈法師的聖所,,,,,,,,,,,,,,,
 quest_campaign_020_outro_gh_1,你們回到了黯淡港灣，將傑西拉的頭顱交給了衛兵隊長，領取了豐厚的賞金。“如果你們感興趣的話，我還有一些工作要交給你們。”他一臉嚴峻地說道。,,,,,,,,,,,,,,,
@@ -8172,7 +8173,7 @@ quest_campaign_031_outro_gh_1,“老天，這聯結比我預測中消失的還�
 quest_campaign_031_outro_gh_2,“不過現在這個調譜已經被切斷了，神器也再次取得了完美的平衡。”黑爾用手拿起元素容器，細細端詳，“真是件稀世珍品。”,,,,,,,,,,,,,,,
 quest_campaign_031_outro_gh_3,“不過先將這些樂子放在一旁，如果你們想要查出是誰有能力做出這種同調的話，我這裡有一些可供參考的線索。”她放下容器，然後憑空拿出一張地圖，放在了快要散架的桌上。,,,,,,,,,,,,,,,
 quest_campaign_031_outro_gh_4,“在神器與永夜位元面的連結切斷後，我在瞬間從三個不同的地方感受到對神器的拉扯。它一直被用作能量源，然而在能量耗盡之後，這種拉扯也幾乎在同時停下了。”,,,,,,,,,,,,,,,
-quest_campaign_031_outro_gh_5,“我現在給你們指出這三個地點的位置，”黑爾洋洋得意地在地圖上作下標記，“這兒，其中一個就在迷霧海的海底深處。另一個地點在匕首叢林森林最為黑暗的地方。最後一個則在銅頸山脈的山頂上。”,,,,,,,,,,,,,,,
+quest_campaign_031_outro_gh_5,“我現在給你們指出這三個地點的位置，”黑爾洋洋得意地在地圖上作下標記，“這兒，其中一個就在迷霧海的海底深處。另一個地點在尖刀森林森林最為黑暗的地方。最後一個則在銅頸山脈的山頂上。”,,,,,,,,,,,,,,,
 quest_campaign_031_outro_gh_6,黑爾站起身來，向神器伸出手：“那麼這個東西就交給我來保管了。”,,,,,,,,,,,,,,,
 quest_campaign_031_outro_gh_7,你們帶著斷然否決的表情看著她。“好吧好吧，”她說，“你們可以帶著它。也許它跟著你們反而會更加安全。不過你們得向我保證，下次要給我些時間好好研究它。”,,,,,,,,,,,,,,,
 quest_campaign_031_outro_travel_1,正深陷恐懼之中的你們，發現自己突然間回到了曲骨酒館，而黑爾就站在你們面前。,,,,,,,,,,,,,,,
@@ -8266,8 +8267,8 @@ quest_campaign_038_intro,"當到達花晶族營地時，眼前所見與你們心
 幸運的是，這些羚牛族從不掩蓋自己的蹤跡。你們跟隨著他們留下的蹤跡來到了森林深處，最終找到了一處奴隸勞工營 – 羚牛族衛兵監視著一群衣衫襤褸的花晶族和人類，並督促著他們去建造包括投石車在內的種種戰爭機器。
 
 這個營地的戒備並不是十分森嚴，因此在消滅了幾個關鍵位置的崗哨之後，你們便成功潛入進去，解救了一名花晶族人。",,,,,,,,,,,,,,,
-quest_campaign_038_intro_gh_1,“匕首叢林的這塊區域是個佈滿荊棘與怨靈的迷宮，”黑爾指著地圖上第二塊區域說道，“只靠你們自己的話永遠沒法找到腐化之源。”,,,,,,,,,,,,,,,
-quest_campaign_038_intro_gh_2,"“你們需要一位元嚮導 – 一位對匕首叢林比對自己還要瞭解的嚮導，”黑爾說道，“有一群生活在此的花晶族住民或許能夠幫助你們。”
+quest_campaign_038_intro_gh_1,“尖刀森林的這塊區域是個佈滿荊棘與怨靈的迷宮，”黑爾指著地圖上第二塊區域說道，“只靠你們自己的話永遠沒法找到腐化之源。”,,,,,,,,,,,,,,,
+quest_campaign_038_intro_gh_2,"“你們需要一位元嚮導 – 一位對尖刀森林比對自己還要瞭解的嚮導，”黑爾說道，“有一群生活在此的花晶族住民或許能夠幫助你們。”
 
 於是你們出發去尋找他們。",,,,,,,,,,,,,,,
 quest_campaign_038_list,調查附結在此處的神器,,,,,,,,,,,,,,,
@@ -8338,7 +8339,7 @@ quest_campaign_043_intro,這地圖並不怎麼樣，但依舊指引你來到了�
 quest_campaign_043_intro_gh_1,“哦，所以你們真覺得我可以幫你們水下呼吸？你們真是可愛啊，”黑爾滿懷憤怒的盯著你們，“你們以為我是誰啊，真的是無所不能的嗎？我甚至連從哪入手都不知道！”,,,,,,,,,,,,,,,
 quest_campaign_043_intro_gh_2,黑爾轉過身開始彳亍。“沒錯，你們需要亞龍鱗片 – 它能夠在水中濾出空氣。而且......如果考慮到水元素的獨特性......”,,,,,,,,,,,,,,,
 quest_campaign_043_intro_gh_3,你們現在早已習慣了她這樣的行為，所以耐心地等著她回來。你們等了一個小時左右。,,,,,,,,,,,,,,,
-quest_campaign_043_intro_gh_4,“好吧是的。你們激起了我的興趣。我接受你們的請求。給我帶來一些亞龍鱗片，我再看看能做些什麼。據我所知在匕首叢林的北部邊界有一個亞龍巢穴。我會給你們畫張地圖的。”,,,,,,,,,,,,,,,
+quest_campaign_043_intro_gh_4,“好吧是的。你們激起了我的興趣。我接受你們的請求。給我帶來一些亞龍鱗片，我再看看能做些什麼。據我所知在尖刀森林的北部邊界有一個亞龍巢穴。我會給你們畫張地圖的。”,,,,,,,,,,,,,,,
 quest_campaign_043_list,獲得水下呼吸的能力,,,,,,,,,,,,,,,
 quest_campaign_043_name,亞龍巢穴,,,,,,,,,,,,,,,
 quest_campaign_043_outro_gh_1,你們回來後，黑爾安靜地接過了沾滿血跡的鱗片，然後又消失了整整兩個小時。當她回來時，將數個藍色的小球交給了你們。,,,,,,,,,,,,,,,
@@ -8392,16 +8393,16 @@ quest_campaign_047_list,調查石構建築,,,,,,,,,,,,,,,
 quest_campaign_047_name,迷視巢穴,,,,,,,,,,,,,,,
 quest_campaign_047_scenario_modifier_1,所有角色以3張詛咒卡開始劇本,,,,,,,,,,,,,,,
 quest_campaign_047_scenario_modifier_2,在每回合結束時，所有仍位於第一個房間的角色以及角色召喚物損失等同於自身等級+3點生命值。任何方式都無法強制漠視之眼移動或改變位置。,,,,,,,,,,,,,,,
-quest_campaign_048_desc,跟著瑞德索爾進入匕首叢林，查明他與神器之間的聯繫。,,,,,,,,,,,,,,,
+quest_campaign_048_desc,跟著瑞德索爾進入尖刀森林，查明他與神器之間的聯繫。,,,,,,,,,,,,,,,
 quest_campaign_048_intro,"“這裡曾是森林之心，”瑞德索爾輕聲說道，“任何尋常手段都沒法來到這裡。它曾是一個既美麗又安全的藏身之處。但隨著它的到來，如今這裡只剩下無盡的恐懼和夢魘。”
 
 她低頭看著腳下黑色的土地：“說真的，這片土地是我的心魔，以至於我無法幫助你們與這頭在陰影中作祟的怪物戰鬥。如果你們能夠倖存的話，我會繼續為你們領路。”
 
 瑞德索爾消失在了迷霧之中。與此同時你們注意到有著其他身影在視野邊緣不斷晃動著。隨後你們聽到一陣陣馬蹄聲如同一道道劈向樹林的雷聲一般離你們越來越近。腳下的地面也開始輕微顫抖。",,,,,,,,,,,,,,,
-quest_campaign_048_intro_travel_1,瑞德索爾帶領著你們深入匕首叢林。穿行在枝繁葉茂的林中小徑，隨著周邊植被愈發茂密，你們逐漸迷失了方向。,,,,,,,,,,,,,,,
+quest_campaign_048_intro_travel_1,瑞德索爾帶領著你們深入尖刀森林。穿行在枝繁葉茂的林中小徑，隨著周邊植被愈發茂密，你們逐漸迷失了方向。,,,,,,,,,,,,,,,
 quest_campaign_048_intro_travel_2,所有的荊棘、灌木與枝葉在你們看來都是令人絕望的相似。有時候路看起來已經完全堵死，但這名花晶族人總能找到通行的方法。,,,,,,,,,,,,,,,
 quest_campaign_048_intro_travel_3,最終，一團灰色濃霧開始在你們周圍彌漫。你們發現自己來到了一片死寂的空地。,,,,,,,,,,,,,,,
-quest_campaign_048_list,進入匕首叢林,,,,,,,,,,,,,,,
+quest_campaign_048_list,進入尖刀森林,,,,,,,,,,,,,,,
 quest_campaign_048_name,暗影原野,,,,,,,,,,,,,,,
 quest_campaign_048_outro_travel_1,瑞德索爾從不斷散去的薄霧中現出身形。“我不知道你們是怎麼做到的，但我已經能夠感受到森林正在重燃生機。這也許需要很久，但我相信有朝一日森林之心一定會復舊如初。”,,,,,,,,,,,,,,,
 quest_campaign_048_outro_travel_2,“謝謝你們，”這名花晶族男子露出了微笑，“來吧，讓我帶你們返回文明世界。”,,,,,,,,,,,,,,,
@@ -8509,12 +8510,12 @@ quest_campaign_054_name,冰晶宮殿,,,,,,,,,,,,,,,
 quest_campaign_054_scenario_modifier_1,"所有穴居熊的攻擊附加中毒<sprite name=""Poison"">。",,,,,,,,,,,,,,,
 quest_campaign_054_scenario_modifier_2,只有裝備了索恩的法杖的角色才能對殺戮幽魂造成傷害,,,,,,,,,,,,,,,
 quest_campaign_055_desc,你是否對那些摧毀村莊的人進行了復仇？,,,,,,,,,,,,,,,
-quest_campaign_055_intro,"這一小塊被樹枝扯下的布料 – 在你們上次闖入匕首叢林時就見過它 – 你們絕不會認錯那特殊的紫色紋路。這塊小小的布料對你們意義非凡。
+quest_campaign_055_intro,"這一小塊被樹枝扯下的布料 – 在你們上次闖入尖刀森林時就見過它 – 你們絕不會認錯那特殊的紫色紋路。這塊小小的布料對你們意義非凡。
 
 你們找到了一條小路，並沿著它繼續前行。直到完全被霧氣籠罩時，你們才意識到自己可能已經迷路了。但你們堅信只要霧氣散去就可以繼續前行。
 
 你們就這樣在此等待了好幾天，而濃霧依舊籠罩著你們的道路，沒有一絲散掉的跡象。你們在這些天裡只在想一件事，就是向那些強盜復仇。這些濃霧曾經阻攔了你們整整三天，但如今意志堅定的你們不會為任何事物所阻擋。",,,,,,,,,,,,,,,
-quest_campaign_055_list,追捕匕首叢林的強盜,,,,,,,,,,,,,,,
+quest_campaign_055_list,追捕尖刀森林的強盜,,,,,,,,,,,,,,,
 quest_campaign_055_name,迷霧叢林,,,,,,,,,,,,,,,
 quest_campaign_055_scenario_modifier_1,所有傭兵以3張額外的 -1 攻擊修正卡開始劇本,,,,,,,,,,,,,,,
 quest_campaign_056_desc,為死在強盜手中的人復仇,,,,,,,,,,,,,,,
@@ -8536,10 +8537,10 @@ quest_campaign_058_intro,你們準備好武器，包圍了鉤爪海岸上的這�
 quest_campaign_058_list,摧毀會議,,,,,,,,,,,,,,,
 quest_campaign_058_name,血腥小屋,,,,,,,,,,,,,,,
 quest_campaign_058_scenario_modifier_1,只有尋求“復仇”的傭兵可以拾取目標寶箱。,,,,,,,,,,,,,,,
-quest_campaign_059_desc,可以治癒你的村莊瘟疫的植物就藏在匕首叢林的深處,,,,,,,,,,,,,,,
+quest_campaign_059_desc,可以治癒你的村莊瘟疫的植物就藏在尖刀森林的深處,,,,,,,,,,,,,,,
 quest_campaign_059_intro,這個裝置確實證明了自己能夠派上用場。在茂密的叢林中艱苦跋涉了整整一天之後，按照通常的套路來說，你們應該是來到了一片格外幽靜，而且與世隔絕的樹林。或者說，至少應該是一片和平的樹林才對。然而可悲的是這片樹林裡滿是憤怒的野獸，它們總渴望自己的尖牙利齒能在你們這些不速之客身上撕咬一番。,,,,,,,,,,,,,,,
 quest_campaign_059_intro_gh_1,從那些被你們殺死的森林小妖身上提取精髓，這道工序令人感到非常噁心。然而任何事情都無法成為你拯救自己村莊的阻礙。再說你見過村裡曾有一位老鐵匠發生雙眼不斷出血的狀況，那時的場面比起現在這個要更加糟糕。,,,,,,,,,,,,,,,
-quest_campaign_059_intro_gh_2,帶著足夠多的精粹，你們出發前往學院的煉金大樓。那裡的一名研究員曾答應幫助你們尋找一種生長在匕首叢林深處的治療植物。,,,,,,,,,,,,,,,
+quest_campaign_059_intro_gh_2,帶著足夠多的精粹，你們出發前往學院的煉金大樓。那裡的一名研究員曾答應幫助你們尋找一種生長在尖刀森林深處的治療植物。,,,,,,,,,,,,,,,
 quest_campaign_059_intro_gh_3,“要想把其中有用的成分分離出來需要花上些時間，”那個承諾幫忙的智元族人一邊說著，一邊把這些精髓液體倒進了一個大燒杯，“不過，一旦分離完成， 我應該能製作出一個類似羅盤的束西，它會在樹林裡指引你們前往正確的地方。”,,,,,,,,,,,,,,,
 quest_campaign_059_intro_gh_4,等了一個星期，那名智元族人終於通知你們回到她的實驗室，然後遞給你們一個圓型裝置。“它應該能派上用場！”,,,,,,,,,,,,,,,
 quest_campaign_059_list,找到藥用植物,,,,,,,,,,,,,,,
@@ -8815,7 +8816,7 @@ quest_campaign_080_scenario_modifier_0,一名角色在拾取目標寶箱之前�
 quest_campaign_080_scenario_modifier_1,每名角色只能拾取一個目標寶箱。,,,,,,,,,,,,,,,
 quest_campaign_081_desc,按照行維族人所指的方向找到硬幣描繪的地方...,,,,,,,,,,,,,,,
 quest_campaign_081_intro,這座建築物似乎已被遺棄，但一旦你們踏入建築，就將被這裡迷人的景色所震撼：一道永恆暮光跨越在穹頂之上。時間停滯在晨昏分界的那一刻，為整個房間渲染了一層奇異的光輝。然而在環顧四周之後，你們發現這裡似乎並不歡迎你們。一群光與暗的惡魔正不斷向你們逼近。,,,,,,,,,,,,,,,
-quest_campaign_081_intro_travel_1,在你們前往那個行維族人所指地點的路上，天空變得烏雲密佈，而就在你們快要到達那座隱藏在匕首叢林之中的小神廟時，天上下起了毛毛細雨。,,,,,,,,,,,,,,,
+quest_campaign_081_intro_travel_1,在你們前往那個行維族人所指地點的路上，天空變得烏雲密佈，而就在你們快要到達那座隱藏在尖刀森林之中的小神廟時，天上下起了毛毛細雨。,,,,,,,,,,,,,,,
 quest_campaign_081_list,進入特殊儀式地點,,,,,,,,,,,,,,,
 quest_campaign_081_name,蝕之神廟,,,,,,,,,,,,,,,
 quest_campaign_081_scenario_modifier_1,在每回合開始時，將光元素與暗元素移動至激發，將火，風，冰，土元素移動至惰化,,,,,,,,,,,,,,,
@@ -8910,7 +8911,7 @@ quest_campaign_091_desc,那名男子的囈語會是真的嗎？,,,,,,,,,,,,,,,
 quest_campaign_091_intro,"“啊，森林之靈說你們會前來幫我，”他說道，“你們若能再早一點過來就好了。你瞧，這些破壞已經嚴重褻瀆了我的先祖，我現在唯一能聽到的就是他們無邊無際的悲鳴聲。”
 
 拜託你們一定要幫助我趕走這些人類，並且讓森林之靈再次平靜下來。這片森林已經無法再承受更多的傷害。”你們點頭稱是，隨後在他的帶領下穿過灌木叢，來到了伐木營地的週邊。",,,,,,,,,,,,,,,
-quest_campaign_091_intro_travel_1,按照酒館那個樵夫所指引的方向，你們走入了匕首叢林，來到一片滿是樹樁和碎葉的林中空地。你們聽到遠處傳來一些人類工程隊伐木的喧囂聲。,,,,,,,,,,,,,,,
+quest_campaign_091_intro_travel_1,按照酒館那個樵夫所指引的方向，你們走入了尖刀森林，來到一片滿是樹樁和碎葉的林中空地。你們聽到遠處傳來一些人類工程隊伐木的喧囂聲。,,,,,,,,,,,,,,,
 quest_campaign_091_intro_travel_2,這時你們身後的樹叢突然發出沙沙的怪聲。你們轉身看到了一隻滿身傷痕的裝甲巨熊，它瞪著你們，而熊的上面坐著一個鼠人，他正是你們那個獸王前隊友。,,,,,,,,,,,,,,,
 quest_campaign_091_list,調查醉漢的故事,,,,,,,,,,,,,,,
 quest_campaign_091_name,無序荒野,,,,,,,,,,,,,,,
@@ -10238,7 +10239,7 @@ scenario_campaign_054_success_2,Suddenly a voice echoes through the palace： �
 scenario_campaign_054_success_3,The vortex condenses into a sphere that hits the Seeker in the chest faster than you can react. The Seeker falls to the ground dead.,,,,,,,,,,,,,,,
 scenario_campaign_054_success_4,You rush to the corpse, only to find horrendous insects bursting out of its skin. You step back in horror as the grotesque insect horde arises and speaks. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 scenario_campaign_054_success_5,‘I am reborn! The plague walks the earth once more!‘,,,,,,,,,,,,,,,
-scenario_campaign_055_objective_1,拾取第三房間內的財寶寶箱,,,,,,,,,,,,,,,
+scenario_campaign_055_objective_1,拾取第三房間內的寶箱,,,,,,,,,,,,,,,
 scenario_campaign_055_start_1,You collect yourself and step into the unknown.,,,,,,,,,,,,,,,
 scenario_campaign_055_success_1,The fog seems to be sapping your strength as you stumble through it, one painful step at a time. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 scenario_campaign_055_success_2,Just when you think you can‘t make it any farther, however, you find a hidden cache of supplies marked with the purple emblem of your quarry.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -10715,64 +10716,64 @@ scenario_job_twotribes_success_1,叢林的地面上散落著屍體，但你勝�
 scenario_job_vermling_cave_sm1_desc,所有敵人的攻擊都附帶中毒和流血,,,,,,,,,,,,,,,
 scenario_job_vermling_cave_sm2_desc,所有敵人開始時處於中毒和流血狀態,,,,,,,,,,,,,,,
 scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附近的地穴,,,,,,,,,,,,,,,
-scenario_puzzle_2a_01,"歡迎來到你的第一場訓練關卡！你已經學會了基礎操作，現在你必須幫助重傷的<color=#A06E4B><b>野蠻人</b></color>解決這個<color=#C53F3F><b>強盜弓箭手<link=""Glossary_Elite"">精英</link></b></color>，這可是比普通級別的敵人強得多的對手，當心點！",,,,,,,,,,,,,,,
-scenario_puzzle_2a_02,"<color=#A06E4B><b>野蠻人</b></color>只剩最後一點生命值了，哪怕是一點傷害都會讓他<b><color=#FADC99><link=""Glossary_Exhausted"">筋疲力盡</link></color></b>。因此，接下來你需要通過<b><color=#FADC99><link=""Glossary_Lost"">移除</link></color></b>一張手牌的方式來避免一次任意傷害。
+scenario_puzzle_2a_01,"歡迎來到你的第一場訓練關卡！你已經學會了基礎操作，現在你必須幫助重傷的<color=#A06E4B><b>野蠻人</b></color>解決這個<color=#C53F3F><b>【精英】強盜弓箭手</b></color>，這可是比普通敵人還強的對手，千萬小心！",,,,,,,,,,,,,,,
+scenario_puzzle_2a_02,"<color=#A06E4B><b>野蠻人</b></color>只剩最後1點生命值了，哪怕是一丁點傷害都會讓他<color=#FADC99><b>筋疲力盡</b></color>。因此，接下來你需要通過<color=#FADC99><b>焚燒</b></color>一張手牌的方式來避免一次傷害。
 
-（在訓練關中，攻擊修正卡池全部被設置成<b><color=#FFA414> +0 </color></b>，所以暫時不用考慮它們。）",,,,,,,,,,,,,,,
-scenario_puzzle_2a_03,"你本輪的目標為：
+（在訓練關卡中，攻擊修正卡牌庫全部都是<color=orange><b> +0 </b></color>修正卡，所以暫時不用考慮它們。）",,,,,,,,,,,,,,,
+scenario_puzzle_2a_03,"你本回合的目標為：
 <line-height=20%>
-</line-height>→ 使用單次<link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b><sprite name=Attack></link>殺死<b><color=#C53F3F>弓箭手</color></b>
-→ <link=""Glossary_Loot""><b><color=#FADC99>拾取</color></b><sprite name=Loot></link>她掉落的金幣
+<line-height=100%>→ 使用單次<color=#FADC99><b>攻擊</b></color><sprite name=Attack>殺死<color=#C53F3F><b>強盜弓箭手</b></color>
+→ <color=#FADC99><b>拾取</b></color><sprite name=Loot>她掉落的金幣
 <line-height=20%>
-</line-height>相信你能夠完成任務！",,,,,,,,,,,,,,,
-scenario_puzzle_2a_04,"當心！<b><color=#A06E4B>野蠻人</color></b>只剩下最後一點生命值了，意味著你無法承擔更多傷害...再試一次吧，但是這次要選擇<b><color=#FADC99><link=""Glossary_Lost"">移除</link></color></b>一張手牌來避免傷害。",,,,,,,,,,,,,,,
-scenario_puzzle_2a_05,"能夠活下來倒是還算不錯，但你的目標是殺死<nobr><color=#C53F3F>強盜弓箭手<link=""Glossary_Elite"">精英</link></color></nobr>。或許你手牌裡有張帶有<nobr><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color><sprite name=Attack></nobr>的能力卡可以一次性造成足夠的傷害？再試一次吧。",,,,,,,,,,,,,,,
-scenario_puzzle_2a_06,"嘣！<b><font=""MarcellusAlt SDF""><color=#F5E3B0>力劈華山</color></font></b>是一張強力卡，但是強大的力量總是伴隨著代價。和<b><font=""MarcellusAlt SDF""><color=#F5E3B0>力劈華山</color></font></b>的頂部類似，行動描述右下角包含燃燒符號的<b><color=#FADC99><link=""Glossary_Action"">行動</link></color></b>在使用過後會將卡片<b><color=#FADC99><link=""Glossary_Lost"">移除</link></color></b>，這意味著在這個劇本中你無法再次使用這張卡。現在，該撿起那些金幣了！",,,,,,,,,,,,,,,
-scenario_puzzle_2a_07,"做的不錯。隨著敵人被消滅乾淨並且目標也已經完成，劇本一般就到此結束了，那個寶箱會被留在這裡。但是在訓練關中，我會給你一個新的目標：<b><color=#FADC99><link=""Glossary_Loot"">拾取</link></color></b>那個寶箱！",,,,,,,,,,,,,,,
-scenario_puzzle_2a_08,"在一頭栽進那個陷阱之前，你可能想先得到一些恢復。我建議你進行一個<b><color=#FADC99>長休息</color></b>，這會讓你執行一個<b>“<color=#FADC99><link=""Glossary_Heal""> 治療</link></color></b><b> 2 ”</b>的技能並且回收足夠多的棄牌堆的牌，足以讓你承擔陷阱的<b>2</b>點傷害並且接近寶箱。",,,,,,,,,,,,,,,
-scenario_puzzle_2a_09,噢！看著就很疼！<color=#FADC99><b>短休息</b></color>在你想立刻獲得一些卡時是不錯的選擇，但是它不能提供<b><color=#FADC99>長休息</color></b>的治療部分...下次確保選擇正確的休息方式！,,,,,,,,,,,,,,,
-scenario_puzzle_2a_10,"那<b><color=#FADC99><link=""Glossary_Loot"">拾取</link></color></b>寶箱的事就不管了？雖然聽上去很疼，但是下次你必須得踩上陷阱才能到達寶箱。",,,,,,,,,,,,,,,
-scenario_puzzle_2a_11,"喔，那雙<font=""MarcellusAlt SDF""><b><color=#F8F8F8>飛跨之靴</color></b></font>在你需要一些額外移動力的時候就能夠派上用場了。好了，現在前往下一場訓練吧！",,,,,,,,,,,,,,,
+<line-height=100%>相信你能夠完成任務！",,,,,,,,,,,,,,,
+scenario_puzzle_2a_04,"當心！<color=#A06E4B><b>野蠻人</b></color>只剩下最後1點生命值了，這意味著他無法承擔更多傷害......再試一次吧！但這次要選擇<color=#FADC99><b>焚燒</b></color>一張手牌來避免傷害。",,,,,,,,,,,,,,,
+scenario_puzzle_2a_05,"能夠活下來是還算不錯，但你的目標是殺死<nobr><color=#C53F3F>【精英】強盜弓箭手</color></nobr>。或許你手牌裡有張帶有<nobr><color=#FADC99>攻擊</color><sprite name=Attack></nobr>的能力卡可以一次性造成足夠的傷害？再試一次吧！",,,,,,,,,,,,,,,
+scenario_puzzle_2a_06,"嘣！<color=#F5E3B0>力劈華山</color>是一張強牌，但是強大的力量總是伴隨著代價。在<color=#F5E3B0>力劈華山</color>的頂部，動作描述的右下角有著燃燒符號，此類的<color=#FADC99>動作</color>在使用過後會將卡片<color=#FADC99>焚燒</color>，這意味著在這個劇本中你無法再次使用這張卡。現在，該撿起那些金幣了！",,,,,,,,,,,,,,,
+scenario_puzzle_2a_07,"做的不錯！敵人被消滅乾淨並且目標也完成了，劇本一般就到此結束了，那個寶箱會被留在這裡。但是在訓練關卡中，我會給你一個新的目標：<color=#FADC99>拾取</color>那個寶箱！",,,,,,,,,,,,,,,
+scenario_puzzle_2a_08,"在一頭栽進那個陷阱之前，你可能想先恢復一些生命值。我建議你進行一個<color=#FADC99>長休息</color>，這會讓你執行一個<color=#FADC99><b>治療</></color><b> 2 </b>的能力並且回收棄牌堆的牌，足以讓你承擔陷阱的<b> 2 </b>點傷害並且接近寶箱。",,,,,,,,,,,,,,,
+scenario_puzzle_2a_09,噢！看著就很疼！<color=#FADC99><b>短休息</b></color>在你想立刻獲得一些卡時是不錯的選擇，但是它不能提供<color=#FADC99><b>長休息</b></color>的治療部分...下次確保選擇正確的休息方式！,,,,,,,,,,,,,,,
+scenario_puzzle_2a_10,"那<color=#FADC99><b><link=""Glossary_Loot"">拾取</link></b></color>寶箱的事就不管了？雖然聽上去很疼，但是下次你必須得踩上陷阱才能到達寶箱。",,,,,,,,,,,,,,,
+scenario_puzzle_2a_11,"喔，那雙<font=""MarcellusAlt SDF""><color=#F8F8F8><b>飛跨之靴</b></color></font>在你需要一些額外移動力的時候就能夠派上用場了。好了，現在前往下一場訓練吧！",,,,,,,,,,,,,,,
 scenario_puzzle_2a_12,不貪財的傭兵不是好傭兵；在你有機會的時候最好站在金幣上結束你的回合！,,,,,,,,,,,,,,,
-scenario_puzzle_2a_13,"在你殺死<b><color=#C53F3F>弓箭手</color></b>後，你需要移動到金幣上來<b><color=#FADC99><link=""Glossary_Loot"">拾取</link></color></b><sprite name=Loot>它。或許你手牌裡有張帶有<b><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color></b><sprite name=Attack>的能力卡可以一次性造成足夠的傷害？再試一次吧。",,,,,,,,,,,,,,,
-scenario_puzzle_2a_ht_01,移除一張手牌以避免傷害,,,,,,,,,,,,,,,
-scenario_puzzle_2a_ht_02,選擇一張棄牌堆裡的牌將其移除,,,,,,,,,,,,,,,
+scenario_puzzle_2a_13,"在你殺死<color=#C53F3F><b>強盜弓箭手</b></color>後，你需要移動到金幣上來<color=#FADC99><b><link=""Glossary_Loot"">拾取</link></b></color><sprite name=Loot>它。或許你手牌裡有張帶有<color=#FADC99><b><link=""Glossary_Attack"">攻擊</link></b></color><sprite name=Attack>的能力卡可以一次性造成足夠的傷害？再試一次吧。",,,,,,,,,,,,,,,
+scenario_puzzle_2a_ht_01,焚燒一張手牌以避免傷害,,,,,,,,,,,,,,,
+scenario_puzzle_2a_ht_02,選擇一張棄牌堆裡的牌將其焚燒,,,,,,,,,,,,,,,
 scenario_puzzle_2a_ht_03,移動到陷阱上並承受傷害,,,,,,,,,,,,,,,
 scenario_puzzle_2a_ht_04,移動到寶箱上並跳過剩餘的移動,,,,,,,,,,,,,,,
 scenario_puzzle_2a_ht_05,選擇另一個行動並跳過它以結束你的行動輪,,,,,,,,,,,,,,,
-scenario_puzzle_2a_obj_01,用單次攻擊殺死弓箭手,,,,,,,,,,,,,,,
-scenario_puzzle_2a_obj_03,拾取弓箭手掉落的金幣,,,,,,,,,,,,,,,
+scenario_puzzle_2a_obj_01,在一回合內殺死【精英】強盜弓箭手,,,,,,,,,,,,,,,
+scenario_puzzle_2a_obj_03,拾取【精英】強盜弓箭手掉落的金幣,,,,,,,,,,,,,,,
 scenario_puzzle_2a_obj_04,進行一次長休息,,,,,,,,,,,,,,,
 scenario_puzzle_2a_obj_05,拾取寶箱,,,,,,,,,,,,,,,
 scenario_puzzle_2a_tb_01,,,,,,,,,,,,,,,,
 scenario_puzzle_2a_tb_02,,,,,,,,,,,,,,,,
-scenario_puzzle_2b_01,"現在，你已經學會了基礎的<b><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color></b>和<b><color=#FADC99><link=""Glossary_Move"">移動</link></color></b>技能，但是這次我們要嘗試使用一些帶有<b><color=#FADC99>附加效果</color></b>的技能。",,,,,,,,,,,,,,,
-scenario_puzzle_2b_02,"在現在這種情況下，一個帶有<b><color=#FADC99><link=""Glossary_Jump"">跳躍</link></color></b><sprite name=Jump>效果的<b><color=#FADC99><link=""Glossary_Move"">移動</link></color></b>行動可以起到奇效。<b><color=#FADC99><link=""Glossary_Jump"">跳躍</link></color></b><sprite name=Jump>允許你穿越障礙物或者敵人、還可以在不觸發陷阱的情況下越過陷阱，只要你保證最後停留的那個格子是空的就行。",,,,,,,,,,,,,,,
-scenario_puzzle_2b_03,"你上次撿到的那雙<b><font=""MarcellusAlt SDF""><color=#F8F8F8>飛跨之靴</color></font></b>能夠為一個<b><color=#FADC99><link=""Glossary_Move"">移動</link></color></b>技能提供兩個格子的額外移動力。這會允許你在這個行動輪中走的更遠。",,,,,,,,,,,,,,,
-scenario_puzzle_2b_04,"你所能夠造成的傷害都還不足以一擊必殺，但是如果你動作夠快，你也許可以在她進行<b><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color></b>前給她施加<nobr><link=""Glossary_Disarm""><b><color=#FADC99>繳械</color></b><sprite name=Disarm></link></nobr>狀態！",,,,,,,,,,,,,,,
+scenario_puzzle_2b_01,"現在，你已經學會了基礎的<color=#FADC99><b><link=""Glossary_Attack"">攻擊</link></b></color>和<color=#FADC99><b><link=""Glossary_Move"">移動</link></b></color>技能，但是這次我們要嘗試使用一些帶有<color=#FADC99><b>附加效果</b></color>的技能。",,,,,,,,,,,,,,,
+scenario_puzzle_2b_02,"在現在這種情況下，一個帶有<color=#FADC99><b><link=""Glossary_Jump"">跳躍</link></b></color><sprite name=Jump>效果的<color=#FADC99><b><link=""Glossary_Move"">移動</link></b></color>行動可以起到奇效。<color=#FADC99><b><link=""Glossary_Jump"">跳躍</link></b></color><sprite name=Jump>允許你穿越障礙物或者敵人、還可以在不觸發陷阱的情況下越過陷阱，只要你保證最後停留的那個格子是空的就行。",,,,,,,,,,,,,,,
+scenario_puzzle_2b_03,"你上次撿到的那雙<b><font=""MarcellusAlt SDF""><color=#F8F8F8>飛跨之靴</color></font></b>能夠為一個<color=#FADC99><b><link=""Glossary_Move"">移動</link></b></color>技能提供兩個格子的額外移動力。這會允許你在這個行動輪中走的更遠。",,,,,,,,,,,,,,,
+scenario_puzzle_2b_04,"你所能夠造成的傷害都還不足以一擊必殺，但是如果你動作夠快，你也許可以在她進行<color=#FADC99><b><link=""Glossary_Attack"">攻擊</link></b></color>前給她施加<nobr><link=""Glossary_Disarm""><color=#FADC99><b>繳械</b></color><sprite name=Disarm></link></nobr>狀態！",,,,,,,,,,,,,,,
 scenario_puzzle_2b_05,"你第一個回合的目標為：
 <line-height=20%>
-</line-height>→ 用一個帶有<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b><sprite name=Jump></link>的移動來無傷穿過陷阱
-→ 在<b><color=#C53F3F>弓箭手</color></b>執行攻擊前對她施加<color=#FADC99><link=""Glossary_Disarm""><b>繳械</b></link></color>狀態
+</line-height>→ 用一個帶有<link=""Glossary_Jump""><color=#FADC99><b>跳躍</b></color><sprite name=Jump></link>的移動來無傷穿過陷阱
+→ 在<color=#C53F3F><b>強盜弓箭手</b></color>執行攻擊前對她施加<color=#FADC99><link=""Glossary_Disarm""><b>繳械</b></link></color>狀態
 <line-height=20%>
 </line-height>祝你好運！",,,,,,,,,,,,,,,
 scenario_puzzle_2b_06,她非常敏捷還是遠距攻擊，你需要快速行動來接近她  – 別忘了用上靴子！,,,,,,,,,,,,,,,
-scenario_puzzle_2b_07,"這裡的關鍵是越過那些陷阱，因此你需要利用帶有<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b><sprite name=Jump></link>效果的<link=""Glossary_Move""><b><color=#FADC99><b>移動</b></color></b><sprite name=Move></link>來避免傷害。",,,,,,,,,,,,,,,
-scenario_puzzle_2b_08,"你做到了！你不僅是造成了可觀的傷害，更得益於你用<b><font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷戰吼</color></font></b>施加的<link=""Glossary_Disarm""><b><color=#FADC99>繳械</color></b><sprite name=Disarm></link>狀態，使得<b><color=#C53F3F>弓箭手</color></b>在她的行動輪中無法進行攻擊。",,,,,,,,,,,,,,,
+scenario_puzzle_2b_07,"這裡的關鍵是越過那些陷阱，因此你需要利用帶有<link=""Glossary_Jump""><color=#FADC99><b>跳躍</b></color><sprite name=Jump></link>效果的<link=""Glossary_Move""><color=#FADC99><b><b>移動</b></b></color><sprite name=Move></link>來避免傷害。",,,,,,,,,,,,,,,
+scenario_puzzle_2b_08,"你做到了！你不僅是造成了可觀的傷害，更得益於你用<b><font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷戰吼</color></font></b>施加的<link=""Glossary_Disarm""><color=#FADC99><b>繳械</b></color><sprite name=Disarm></link>狀態，使得<color=#C53F3F><b>強盜弓箭手</b></color>在她的行動輪中無法進行攻擊。",,,,,,,,,,,,,,,
 scenario_puzzle_2b_09,"現在她的生命值不多了，你應該能夠給她致命一擊。你本輪的目標為：
 <line-height=20%>
-</line-height>→ 殺死<b><color=#C53F3F>弓箭手</color></b>
-→ 跳過陷阱並<link=""Glossary_Loot""><b><color=#FADC99>拾取</color></b></link>寶箱
+</line-height>→ 殺死<color=#C53F3F><b>強盜弓箭手</b></color>
+→ 跳過陷阱並<link=""Glossary_Loot""><color=#FADC99><b>拾取</b></color></link>寶箱
 <line-height=20%>
 </line-height>我希望你能在本回合中完成上面這兩個目標！",,,,,,,,,,,,,,,
-scenario_puzzle_2b_11,如果你想在本輪中比<b><color=#C53F3F>弓箭手</color></b>更早行動，那麼你需要確保你選擇的第一張能力卡具有較低的優先權。,,,,,,,,,,,,,,,
-scenario_puzzle_2b_12,"我想我曾和你說過要<link=""Glossary_Loot""><b><color=#FADC99>拾取</color></b><sprite name=Loot></link>那個寶箱吧？我相信只要你能夠做出更明智的選擇，你是可以在本回合中完成兩個目標的。",,,,,,,,,,,,,,,
-scenario_puzzle_2b_13,"已經累到不能再次<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b><sprite name=Jump></link>了嗎？也許你需要儘快轉行一次<link=""Glossary_Rest""><b><color=#FADC99>休息</color></b></link>一下...為了拿回你的手牌，就像以前那樣，對嗎？",,,,,,,,,,,,,,,
-scenario_puzzle_2b_14,"休息、攻擊、<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b></link>、拾取寶箱，幹得漂亮！下一關中那瓶藥劑肯定能夠派上用場。",,,,,,,,,,,,,,,
-scenario_puzzle_2b_15,"別忘了，在執行一個<link=""Glossary_Move""><b><color=#FADC99><b>移動</b></color></b><sprite name=Move></link>技能的過程中，你可以使用像是<b><font=""MarcellusAlt SDF""><color=#F8F8F8>飛跨之靴</color></font></b>這樣的<b>道具</b>來提升你的移動範圍。",,,,,,,,,,,,,,,
-scenario_puzzle_2b_16,"別忘了<link=""Glossary_Short Rest""><b><color=#FADC99>短休息</color></b></link>允許你回收棄牌堆的牌，並且在你即將進行的行動輪中就可以投入使用。
+scenario_puzzle_2b_11,如果你想在本輪中比<color=#C53F3F><b>強盜弓箭手</b></color>更早行動，那麼你需要確保你選擇的第一張能力卡具有較低的優先權。,,,,,,,,,,,,,,,
+scenario_puzzle_2b_12,"我想我曾和你說過要<link=""Glossary_Loot""><color=#FADC99><b>拾取</b></color><sprite name=Loot></link>那個寶箱吧？我相信只要你能夠做出更明智的選擇，你是可以在本回合中完成兩個目標的。",,,,,,,,,,,,,,,
+scenario_puzzle_2b_13,"已經累到不能再次<link=""Glossary_Jump""><color=#FADC99><b>跳躍</b></color><sprite name=Jump></link>了嗎？也許你需要儘快轉行一次<link=""Glossary_Rest""><color=#FADC99><b>休息</b></color></link>一下...為了拿回你的手牌，就像以前那樣，對嗎？",,,,,,,,,,,,,,,
+scenario_puzzle_2b_14,"休息、攻擊、<link=""Glossary_Jump""><color=#FADC99><b>跳躍</b></color></link>、拾取寶箱，幹得漂亮！下一關中那瓶藥劑肯定能夠派上用場。",,,,,,,,,,,,,,,
+scenario_puzzle_2b_15,"別忘了，在執行一個<link=""Glossary_Move""><color=#FADC99><b><b>移動</b></b></color><sprite name=Move></link>技能的過程中，你可以使用像是<b><font=""MarcellusAlt SDF""><color=#F8F8F8>飛跨之靴</color></font></b>這樣的<b>道具</b>來提升你的移動範圍。",,,,,,,,,,,,,,,
+scenario_puzzle_2b_16,"別忘了<link=""Glossary_Short Rest""><color=#FADC99><b>短休息</b></color></link>允許你回收棄牌堆的牌，並且在你即將進行的行動輪中就可以投入使用。
 
-但是<link=""Glossary_Long Rest""><b><color=#FADC99>長休息</color></b></link>作為選擇兩張能力卡的替代，需要消耗整個行動輪(你依然可以做一些常規的事情例如使用道具)，並且為該角色提供99的優先權。也就是說，無法在本回合幫你取得勝利！",,,,,,,,,,,,,,,
+但是<link=""Glossary_Long Rest""><color=#FADC99><b>長休息</b></color></link>作為選擇兩張能力卡的替代，需要消耗整個行動輪(你依然可以做一些常規的事情例如使用道具)，並且為該角色提供99的優先權。也就是說，無法在本回合幫你取得勝利！",,,,,,,,,,,,,,,
 scenario_puzzle_2b_obj_01,跳躍通過這些陷阱並且在弓箭手執行攻擊前對其施加繳械狀態,,,,,,,,,,,,,,,
 scenario_puzzle_2b_obj_02,在本回合中殺死弓箭手,,,,,,,,,,,,,,,
 scenario_puzzle_2b_obj_03,跳躍通過陷阱並且拾取寶箱,,,,,,,,,,,,,,,
@@ -10783,45 +10784,45 @@ scenario_puzzle_2c_02,"這次你的目標非常簡單：
 <line-height=20%>
 </line-height>
 如果敵人造成了任何一點傷害你就必須重新來過！",,,,,,,,,,,,,,,
-scenario_puzzle_2c_03,你需要打開<b><color=#A06E4B>野蠻人</color></b>面前的這扇門來離開這個房間，但是別忘了下一個房間裡的敵人也會在本回合中執行行動。,,,,,,,,,,,,,,,
+scenario_puzzle_2c_03,你需要打開<color=#A06E4B><b>野蠻人</b></color>面前的這扇門來離開這個房間，但是別忘了下一個房間裡的敵人也會在本回合中執行行動。,,,,,,,,,,,,,,,
 scenario_puzzle_2c_04,你問我有什麼建議？儘快採取動作，觀察敵人準備執行什麼行動。我預設了一個安全的位置可以讓你脫離所有敵人的攻擊範圍。現在，讓我看看你能否存活下來！,,,,,,,,,,,,,,,
-scenario_puzzle_2c_05,"看上去<b><color=#C53F3F>弓箭手</color></b>抓到你了。你需要儘快移動並且脫離她的<link=""Glossary_Range""><b><color=#FADC99>射程</color></b><sprite name=Range></link>，別忘了在她的行動揭示後立刻把滑鼠懸停在她的身上來進行查看。再試一次吧。",,,,,,,,,,,,,,,
+scenario_puzzle_2c_05,"看上去<color=#C53F3F><b>強盜弓箭手</b></color>抓到你了。你需要儘快移動並且脫離她的<link=""Glossary_Range""><color=#FADC99><b>射程</b></color><sprite name=Range></link>，別忘了在她的行動揭示後立刻把滑鼠懸停在她的身上來進行查看。再試一次吧。",,,,,,,,,,,,,,,
 scenario_puzzle_2c_06,別忘了在當前行動輪結束以後，新揭示的敵人也會按照行動輪順位進行行動。現在，找到我說的那個安全位置吧...,,,,,,,,,,,,,,,
 scenario_puzzle_2c_07,很好，你避開了兩個房間的所有敵人！開門會讓你面對更多敵人，所以在將來的劇本中務必確保你準備妥善了再去開門。,,,,,,,,,,,,,,,
 scenario_puzzle_2c_08,現在，在強盜的圍追堵截下再躲避一個回合來完成這場訓練吧！,,,,,,,,,,,,,,,
 scenario_puzzle_2c_09,這次很難再找到一個安全位置了。或許你可以試著阻止一次攻擊來存活下來？,,,,,,,,,,,,,,,
-scenario_puzzle_2c_10,你可以通過去到這個房間裡更深的地方來脫離第一個房間裡那些煩人<b><color=#C53F3F>弓箭手</color></b>的攻擊範圍，但是如何阻止這個<b><color=#C53F3F>衛兵</color></b>攻擊你呢？回想一下上一關你都學到了些什麼吧！,,,,,,,,,,,,,,,
-scenario_puzzle_2c_11,你避開了<b><color=#C53F3F>弓箭手</color></b>的追擊，幹得漂亮！,,,,,,,,,,,,,,,
-scenario_puzzle_2c_12,但是你沒有避開這個<b><color=#C53F3F>衛兵</color></b>，這就表現不太好了...我猜或許有辦法阻止他的攻擊？,,,,,,,,,,,,,,,
+scenario_puzzle_2c_10,你可以通過去到這個房間裡更深的地方來脫離第一個房間裡那些煩人<color=#C53F3F><b>強盜弓箭手</b></color>的攻擊範圍，但是如何阻止這個<color=#C53F3F><b>衛兵</b></color>攻擊你呢？回想一下上一關你都學到了些什麼吧！,,,,,,,,,,,,,,,
+scenario_puzzle_2c_11,你避開了<color=#C53F3F><b>強盜弓箭手</b></color>的追擊，幹得漂亮！,,,,,,,,,,,,,,,
+scenario_puzzle_2c_12,但是你沒有避開這個<color=#C53F3F><b>衛兵</b></color>，這就表現不太好了...我猜或許有辦法阻止他的攻擊？,,,,,,,,,,,,,,,
 scenario_puzzle_2c_13,精彩絕倫！你表現得越來越專業了！,,,,,,,,,,,,,,,
-scenario_puzzle_2c_14,"那個<link=""Glossary_Disarm""><b><color=#FADC99>繳械</color></b></link>怎麼樣？真是一個相當不錯的狀態效果，對吧？並且還有很低的<b> 10 </b>優先權，使得<font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷戰吼</color></font>成為一張非常靈活的牌來回避一些小規模摩擦。",,,,,,,,,,,,,,,
+scenario_puzzle_2c_14,"那個<link=""Glossary_Disarm""><color=#FADC99><b>繳械</b></color></link>怎麼樣？真是一個相當不錯的狀態效果，對吧？並且還有很低的<b> 10 </b>優先權，使得<font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷戰吼</color></font>成為一張非常靈活的牌來回避一些小規模摩擦。",,,,,,,,,,,,,,,
 scenario_puzzle_2c_15,接下來是最後一場訓練，完成後你就已經準備就緒，可以去探索世界並為我們的公會招募傭兵了！,,,,,,,,,,,,,,,
 scenario_puzzle_2c_16,你受到了攻擊！注意敵人這一輪的移動範圍。你需要避開所有敵人！,,,,,,,,,,,,,,,
 scenario_puzzle_2c_obj_1,在2個回合內不要受到任何攻擊,,,,,,,,,,,,,,,
-scenario_puzzle_2d_01,讓我們來看看<b><color=#FADC99> 攻擊修正 </color></b>卡。在之前的訓練中，角色在攻擊時總是抽取一張<color=#FFA414><b> +0 </b></color>的<b><color=#FADC99>攻擊修正卡</color></b>，意味著他們的攻擊傷害總是和卡上說明的傷害一樣。但是平時可不是這樣的！,,,,,,,,,,,,,,,
-scenario_puzzle_2d_02,"在正常的劇本中，每次執行<link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>行動時，角色都會抽取一張<b><color=#FADC99>攻擊修正卡</color></b>來影響實際造成的傷害。它們會通過<b><color=#FFA414> +1 </color></b>，<b><color=#FFA414> +2 </color></b>，和<b><color=#D92727> x2 </color></b>來提升傷害，或是通過<b><color=#A050E0> -1 </color></b>，<b><color=#A050E0> -2 </color></b>，和<b><color=#A050E0> x0 </color></b>來降低傷害，還可能像你之前看到的<color=#FFA414><b> +0 </b></color>那樣對傷害數值不造成影響。
+scenario_puzzle_2d_01,讓我們來看看<color=#FADC99><b>攻擊修正</b></color>卡。在之前的訓練中，角色在攻擊時總是抽取一張<color=orange><b> +0 </b></color>的<color=#FADC99><b>攻擊修正卡</b></color>，意味著他們的攻擊傷害總是和卡上說明的傷害一樣。但是平時可不是這樣的！,,,,,,,,,,,,,,,
+scenario_puzzle_2d_02,"在正常的劇本中，每次執行<link=""Glossary_Attack""><color=#FADC99><b>攻擊</b></color></link>行動時，角色都會抽取一張<color=#FADC99><b>攻擊修正卡</b></color>來影響實際造成的傷害。它們會通過<color=orange><b> +1 </b></color>，<color=orange><b> +2 </b></color>，和<color=#D92727><b> x2 </b></color>來提升傷害，或是通過<color=#A050E0><b> -1 </b></color>，<color=#A050E0><b> -2 </b></color>，和<color=#A050E0><b> x0 </b></color>來降低傷害，還可能像你之前看到的<color=orange><b> +0 </b></color>那樣對傷害數值不造成影響。
 
-你可以通過將滑鼠懸停在任意角色身上來看到他的攻擊修正卡池  – 注意，和玩家角色不同的是，所有怪物共用同一個攻擊修正卡池！",,,,,,,,,,,,,,,
-scenario_puzzle_2d_03,"在本場訓練關中，<b><color=#C53F3F>弓箭手</color></b>的攻擊修正卡池裡只剩兩張攻擊修正卡：<b><color=#D92727> x2 </color></b>和<b><color=#A050E0> x0 </color></b>。我們希望她們抽到<b><color=#A050E0> x0 </color></b>來造成0點傷害，因此我們要讓她們進入<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態來確保她能抽到！",,,,,,,,,,,,,,,
-scenario_puzzle_2d_04,"<link=""Glossary_Range"">遠程</link><link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>在攻擊一個相鄰格子裡的目標時會處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>。這會導致攻擊方抽取兩張攻擊修正卡而不是抽一張，然後採用更差的那張。
+你可以通過將滑鼠懸停在任意角色身上來看到他的攻擊修正卡牌庫  – 注意，和玩家角色不同的是，所有怪物共用同一個攻擊修正卡牌庫！",,,,,,,,,,,,,,,
+scenario_puzzle_2d_03,"在本場訓練關卡中，<color=#C53F3F><b>強盜弓箭手</b></color>的攻擊修正卡牌庫裡只剩兩張攻擊修正卡：<color=#D92727><b> x2 </b></color>和<color=#A050E0><b> x0 </b></color>。我們希望她們抽到<color=#A050E0><b> x0 </b></color>來造成0點傷害，因此我們要讓她們進入<link=""Glossary_Disadvantage""><color=#FADC99><b>劣勢</b></color></link>狀態來確保她能抽到！",,,,,,,,,,,,,,,
+scenario_puzzle_2d_04,"<link=""Glossary_Range"">遠程</link><link=""Glossary_Attack""><color=#FADC99><b>攻擊</b></color></link>在攻擊一個相鄰格子裡的目標時會處於<link=""Glossary_Disadvantage""><color=#FADC99><b>劣勢</b></color></link>。這會導致攻擊方抽取兩張攻擊修正卡而不是抽一張，然後採用更差的那張。
 
-因為這些<b><color=#C53F3F>弓箭手</color></b>只剩兩張攻擊修正卡了，如果他們攻擊時處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態，他們會把兩張都抽出來並且被迫選擇<b><color=#A050E0> x0 </color></b>而不是<b><color=#D92727> x2 </color></b>作為較差的結果來進行結算，也就是說造成0點傷害！當你在生命條旁邊看到閃爍的紫色符號時<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態就會生效。",,,,,,,,,,,,,,,
-scenario_puzzle_2d_05,"現在你只能讓一名<b><color=#C53F3F>弓箭手</color></b>處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態，所以你還需要用遠距攻擊把另一個殺死。這應該不難，因為我在<b><color=#A06E4B>野蠻人</color></b>的攻擊修正卡池裡面塞滿了<b><color=#FFA414> +1 </color></b>攻擊修正卡。
+因為這些<color=#C53F3F><b>強盜弓箭手</b></color>只剩兩張攻擊修正卡了，如果他們攻擊時處於<link=""Glossary_Disadvantage""><color=#FADC99><b>劣勢</b></color></link>狀態，他們會把兩張都抽出來並且被迫選擇<color=#A050E0><b> x0 </b></color>而不是<color=#D92727><b> x2 </b></color>作為較差的結果來進行結算，也就是說造成0點傷害！當你在生命條旁邊看到閃爍的紫色符號時<link=""Glossary_Disadvantage""><color=#FADC99><b>劣勢</b></color></link>狀態就會生效。",,,,,,,,,,,,,,,
+scenario_puzzle_2d_05,"現在你只能讓一名<color=#C53F3F><b>強盜弓箭手</b></color>處於<link=""Glossary_Disadvantage""><color=#FADC99><b>劣勢</b></color></link>狀態，所以你還需要用遠距攻擊把另一個殺死。這應該不難，因為我在<color=#A06E4B><b>野蠻人</b></color>的攻擊修正卡牌庫裡面塞滿了<color=orange><b> +1 </b></color>攻擊修正卡。
 
 你的目標為：
 <line-height=20%>
-</line-height>→ 站在一名<b><color=#C53F3F>弓箭手</color></b>旁邊來讓她處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態
-→ 用一個<link=""Glossary_Range"">遠程</link><link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>殺死另一名<b><color=#C53F3F>弓箭手</color></b>",,,,,,,,,,,,,,,
-scenario_puzzle_2d_06,"喔！那可真是一次強力的<link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>！再試一次  – 這次，站在一個<b><color=#C53F3F>弓箭手</color></b>旁邊並殺死另一個。",,,,,,,,,,,,,,,
-scenario_puzzle_2d_07,"注意到了嗎？她抽到了 <b><color=#A050E0> x0 </color></b>和<b><color=#D92727> x2 </color></b>這兩張攻擊修正卡，<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態會強制她抽取兩張攻擊修正卡並且使用更差的那張！",,,,,,,,,,,,,,,
-scenario_puzzle_2d_08,"還可以看到你用<b><font=""MarcellusAlt SDF""><color=#F5E3B0>備用匕首</color></font></b>攻擊時抽到了一張<color=#FFA414><b> +1 </b></color>攻擊修正卡，因此共造成<b> 4 </b>點傷害來殺死另一個<b><color=#C53F3F>弓箭手</color></b>。",,,,,,,,,,,,,,,
+</line-height>→ 站在一名<color=#C53F3F><b>強盜弓箭手</b></color>旁邊來讓她處於<link=""Glossary_Disadvantage""><color=#FADC99><b>劣勢</b></color></link>狀態
+→ 用一個<link=""Glossary_Range"">遠程</link><link=""Glossary_Attack""><color=#FADC99><b>攻擊</b></color></link>殺死另一名<color=#C53F3F><b>強盜弓箭手</b></color>",,,,,,,,,,,,,,,
+scenario_puzzle_2d_06,"喔！那可真是一次強力的<link=""Glossary_Attack""><color=#FADC99><b>攻擊</b></color></link>！再試一次  – 這次，站在一個<color=#C53F3F><b>強盜弓箭手</b></color>旁邊並殺死另一個。",,,,,,,,,,,,,,,
+scenario_puzzle_2d_07,"注意到了嗎？她抽到了 <color=#A050E0><b> x0 </b></color>和<color=#D92727><b> x2 </b></color>這兩張攻擊修正卡，<link=""Glossary_Disadvantage""><color=#FADC99><b>劣勢</b></color></link>狀態會強制她抽取兩張攻擊修正卡並且使用更差的那張！",,,,,,,,,,,,,,,
+scenario_puzzle_2d_08,"還可以看到你用<b><font=""MarcellusAlt SDF""><color=#F5E3B0>備用匕首</color></font></b>攻擊時抽到了一張<color=orange><b> +1 </b></color>攻擊修正卡，因此共造成<b> 4 </b>點傷害來殺死另一個<color=#C53F3F><b>強盜弓箭手</b></color>。",,,,,,,,,,,,,,,
 scenario_puzzle_2d_09,"你的最終目標為：
 <line-height=20%>
-</line-height>→ 殺死剩餘的<b><color=#C53F3F>弓箭手</color></b>
+</line-height>→ 殺死剩餘的<color=#C53F3F><b>強盜弓箭手</b></color>
 → 拾取寶箱",,,,,,,,,,,,,,,
-scenario_puzzle_2d_10,"你需要早點行動來優先發起<link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>，並且對她造成<b> 4 </b>點傷害。",,,,,,,,,,,,,,,
-scenario_puzzle_2d_11,還記得之前你曾經成功造成了<b> 3+1 </b>點傷害的事情嗎？  – 別忘了在這個訓練關中你只有<color=#FFA414><b> +1 </b></color>攻擊修正卡。,,,,,,,,,,,,,,,
-scenario_puzzle_2d_12,"你的目標是<link=""Glossary_Loot""><b><color=#FADC99>拾取</color></b></link>寶箱。我們下一關可能會用到裡面的東西，確保你能夠拿到它！",,,,,,,,,,,,,,,
+scenario_puzzle_2d_10,"你需要早點行動來優先發起<link=""Glossary_Attack""><color=#FADC99><b>攻擊</b></color></link>，並且對她造成<b> 4 </b>點傷害。",,,,,,,,,,,,,,,
+scenario_puzzle_2d_11,還記得之前你曾經成功造成了<b> 3+1 </b>點傷害的事情嗎？  – 別忘了在這個訓練關卡中你只有<color=orange><b> +1 </b></color>攻擊修正卡。,,,,,,,,,,,,,,,
+scenario_puzzle_2d_12,"你的目標是<link=""Glossary_Loot""><color=#FADC99><b>拾取</b></color></link>寶箱。我們下一關可能會用到裡面的東西，確保你能夠拿到它！",,,,,,,,,,,,,,,
 scenario_puzzle_2d_13,"很好！<b><font=""MarcellusAlt SDF""><color=#F8F8F8>扇形盾</color></font></b>可以幫你阻擋一些傷害！",,,,,,,,,,,,,,,
 scenario_puzzle_2d_14,你已經完成了基礎訓練關卡 – 是時候給你介紹幾名其他的傭兵並且讓你展開探索了！,,,,,,,,,,,,,,,
 scenario_puzzle_2d_obj_01,站在一個弓箭手旁邊並且殺死另一個,,,,,,,,,,,,,,,
@@ -12302,7 +12303,7 @@ town_records_reachprosperity5_9,站在這個廢墟的中央，那名行維族轉
 town_records_reachprosperity6_1,“啊，很高興得知你們收到了我的便條。”多明尼克在跟你握手之後便異常安靜地將你們領到後室，然後鎖上了門。,,,,,,,,,,,,,,,
 town_records_reachprosperity6_2,“我認為我已經找到了答案，這正是我們苦苦追尋的關鍵線索，”他開口說道，“我猜的沒錯。 當初那位行維族所講述的故事確實留有文本記錄。它被記錄在‘指引法典’之中 – 那一本書只有各地區的最高長官才可以閱讀。”,,,,,,,,,,,,,,,
 town_records_reachprosperity6_3,“曾經有一份副本被運送來黯淡港灣。但是別擔心，你們不必闖入幽魂堡來搶奪它。因為它永遠不會被運到那裡。”,,,,,,,,,,,,,,,
-town_records_reachprosperity6_4,多明尼克專注地凝視著你們，說道：“我花了很多功夫，總算調查到城裡有一個衛兵，他就是當年負責護送運輸車的衛兵。車隊從首都出發，很明顯在途經匕首叢林南端附近就遭到了一夥羚牛族人的襲擊。”,,,,,,,,,,,,,,,
+town_records_reachprosperity6_4,多明尼克專注地凝視著你們，說道：“我花了很多功夫，總算調查到城裡有一個衛兵，他就是當年負責護送運輸車的衛兵。車隊從首都出發，很明顯在途經尖刀森林南端附近就遭到了一夥羚牛族人的襲擊。”,,,,,,,,,,,,,,,
 town_records_reachprosperity6_5,“這個守衛被俘後曾被帶到羚牛族的營地，之後他設法逃了出來，並且回到了黯淡港灣。奇怪的是，從來沒有人被派去尋找那個營地，更沒有人去奪回被掠走的貨物。也許他們只是不想再次激起羚牛族的怒火而已。”,,,,,,,,,,,,,,,
 town_records_reachprosperity6_6,“所以這本書極有可能還在那裡，而且，我只是給了點點小錢進行賄賂，就讓那個守衛說出這個營地的具體位置。”,,,,,,,,,,,,,,,
 town_records_reachprosperity7_1,“感謝你們前來，”多明尼克在門口迎接你們，“我長話短說。我瞭解到那幫守夜人是由一群親軍政府的暴徒所構成的組織，他們唯一的宗旨就是防止大災變再次發生，但他們採用的方法卻是將所有大災變曾經發生過的證據以不擇手段的方式隱瞞。在我看來，採取這種方式只會適得其反。”,,,,,,,,,,,,,,,
@@ -12358,7 +12359,7 @@ town_records_scenario077complete_9,他一屁股坐倒在椅子上。“這聽起
 trainerdialogname,教官,,,,,,,,,,,,,,,
 transferdooms,轉移厄運,,,,,,,,,,,,,,,
 trap,陷阱,,,,,,,,,,,,,,,
-treasure_chest_tooltip,財寶寶箱,,,,,,,,,,,,,,,
+treasure_chest_tooltip,寶箱,,,,,,,,,,,,,,,
 tutorial_2_help_004,選擇踐踏,,,,,,,,,,,,,,,
 tutorial_2_help_005,選擇順手牽羊,,,,,,,,,,,,,,,
 tutorial_2_help_006,點擊【結束選擇】繼續,,,,,,,,,,,,,,,
@@ -12427,8 +12428,8 @@ tutorial_2_text_012,"由於你已經使用了<nobr><b><font=""MarcellusAlt SDF""
 現在，是時候<color=#FADC99><b>攻擊</b></color>了！",,,,,,,,,,,,,,,
 tutorial_2_text_015_1,"每當你<color=#FADC99><b>攻擊</b></color>時，都會從角色的攻擊修正卡牌庫中抽取<color=#FADC99><b>攻擊修正卡</b></color>附加在你的<color=#FADC99><b>攻擊</b></color>上。
 
-在這種情況下，你可以在<color=#C53F3F><b>強盜守衛</b></color>的生命值條上方看到你抽到了<b><color=#FFA414>+0</color></b> 修正卡，所以你的<color=#FADC99><b>攻擊</b></color>只造成了基礎的<b>3</b>點的傷害。",,,,,,,,,,,,,,,
-tutorial_2_text_015_2,本次教學中，我們只有<b><color=#FFA414>+0</color></b> 修正卡，讓難度維持在一個簡單的程度。之後你就會使用到其他的<color=#FADC99><b>攻擊修正卡</b></color>！,,,,,,,,,,,,,,,
+在這種情況下，你可以在<color=#C53F3F><b>強盜守衛</b></color>的生命值條上方看到你抽到了<color=orange><b> +0 </b></color>修正卡，所以你的<color=#FADC99><b>攻擊</b></color>只造成了基礎的<b> 3 </b>點的傷害。",,,,,,,,,,,,,,,
+tutorial_2_text_015_2,本次教學中，我們只會有<color=orange><b> +0 </b></color>修正卡，讓難度維持在一個簡單的程度。之後你就會使用到其他的<color=#FADC99><b>攻擊修正卡</b></color>！,,,,,,,,,,,,,,,
 tutorial_2_text_016_1,"現在是<color=#C53F3F><b>強盜守衛</b></color>的輪次。正如我們之前在卡上看到的那樣，他打算<color=#FADC99><b>移動</b></color>，然後執行近戰<color=#FADC99><b>攻擊</b></color><b> 3</b>。
 
 但是，由於<color=#a06e4b><b>野蠻人</b></color>已經在他的近戰攻擊範圍內，他將放棄移動直接進行<color=#FADC99><b>攻擊</b></color>。",,,,,,,,,,,,,,,
@@ -12451,7 +12452,7 @@ tutorial_2_text_018_3,<color=#FADC99><b>長休息</b></color>將佔用一個輪�
 tutorial_2_text_018_4,如果本回合選擇<color=#FADC99><b>長休息</b></color>而<color=#C53F3F><b>強盜守衛</b></color>選擇了攻擊，則<color=#a06e4b><b>野蠻人</b></color>既沒有足以承受傷害的生命值，也沒有足夠的牌可以焚燒，所以讓我們選擇<color=#FADC99><b>短休息</b></color>。,,,,,,,,,,,,,,,
 tutorial_2_text_019,"<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>順手牽羊</color></font></b></nobr>已隨機被選擇為即將焚燒的牌。
 
-每次短休息要焚燒牌之前，你可以選擇失去一點生命值來再次隨機抽取一張牌來換掉原本會被焚燒的牌，但是現在<color=#a06e4b><b>野蠻人</b></color>僅剩1點生命值了！我們沒辦法進行這個選擇。",,,,,,,,,,,,,,,
+每次短休息要焚燒牌之前，你可以選擇失去1點生命值來再次隨機抽取一張牌來換掉原本會被焚燒的牌，但是現在<color=#a06e4b><b>野蠻人</b></color>僅剩1點生命值了！我們沒辦法進行這個選擇。",,,,,,,,,,,,,,,
 tutorial_2_text_020_1,"你可以看到<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>順手牽羊</color></font></b></nobr>現在是深紅色的，表示它已被焚燒，不可再用於當前的劇本。",,,,,,,,,,,,,,,
 tutorial_2_text_020_2,"作為交換，<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷戰吼</color></font></b></nobr>已回收，可再次使用！",,,,,,,,,,,,,,,
 tutorial_2_text_020_3,"現在<color=#a06e4b><b>野蠻人</b></color>以及<color=#C53F3F><b>強盜守衛</b></color>都在死亡的邊緣，所以誰能在回合中先發起攻擊至關重要！

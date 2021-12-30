@@ -1335,11 +1335,9 @@ augment,角色特效賦能
 augment_discardreminder,當你的另一張<nobr><color=#A7B3D2>角色特效賦能</color> <sprite name=Augment></nobr>被打出，棄置這張卡。
 augment_onyourmeleeattacks,你的近戰攻擊：
 aura,光環
-banditarcher,強盜弓箭手
-banditarcherelite,強盜弓箭手精英
+
 banditcommander,強盜指揮官
-banditguard,強盜守衛
-banditguardelite,強盜守衛精英
+
 battleboar,豪豬
 battlebot,戰鬥機器
 battlegoal_agressor,侵略者
@@ -1910,8 +1908,7 @@ cursedretreat,被詛咒的靜修所
 cursekeep,詛咒
 cursekeep_descr,這個石頭堡壘坐落在守望者山的北部邊界，它是Gloomhaven城和魔門鎮城市守衛們的主要訓練營。
 curseshort,詛咒
-daggerforest,匕首叢林
-damage,傷害值
+
 darkrider,暗黑騎師
 decayingsepulcher,腐朽墳墓
 decayingtombs,腐朽陵墓
@@ -4855,7 +4852,7 @@ gui_choose_element_infuse,選擇1個元素進行充能
 gui_choose_elements_consume,選擇要消耗的{0}元素
 gui_choose_elements_infuse,選擇要充能的{0}元素
 gui_choose_item_to_lose,選擇要犧牲的物品
-gui_choose_other_card,換一張卡
+
 gui_city_encounter,城市遭遇事件
 gui_city_encounter_tooltip,"<size=+4><color=#F3DDABFF>城市遭遇事件</color></size>
 你們每次到黯淡港灣時，只能完成1個城市遭遇事件。"
@@ -5015,7 +5012,6 @@ gui_early_access_page_4_title,教學和學習遊戲
 
 gui_easy,容易
 
-gui_effects,附加效果
 
 gui_element_infusion_created,{0}元素充能完畢！
 gui_element_infusion_creating,充能中...
@@ -5068,7 +5064,7 @@ gui_error_report_placeholder,請告訴我們錯誤發生前發生了什麼...
 gui_error_reset_quest_button,重置任務並返回地圖
 gui_error_reset_savefile_button,重置存檔文件
 gui_error_reset_scenario_button,重置劇本並開始
-gui_error_retry,重試
+
 gui_error_return_to_map_button,返回冒險地圖
 gui_error_title,抱歉，發生錯誤了
 
@@ -5662,7 +5658,7 @@ gui_results_healing,治療血量值
 gui_results_highest,最高分
 gui_results_highest_score_highlight,最高分！
 gui_results_items_spent,物品使用數
-gui_results_lose,失敗！
+
 gui_results_objective,目標
 gui_results_reward,領取您的獎勵！
 gui_results_stats,統計項目
@@ -5673,12 +5669,11 @@ gui_results_xp,獲得經驗值
 
 gui_resume_locked_tooltip,您必須保存資料以繼續您的遊戲
 gui_retire_character_desc,所有該雇傭兵擁有的物品將返回商人的店鋪供應，並且他所有的金幣都將會在他退休時被他帶走消失掉
-gui_retired_state,已退休的
-gui_retirement,退休
+
 gui_retirement_cancel_selected_quest_confirmation,你的團隊中的一個雇傭兵已經完成了它的個人任務。你繼續冒險之前，必須先讓他退休。
 gui_retry,重試
-gui_reward_trap,陷阱！
-gui_reward_treasure,找到了財寶寶箱！
+
+
 gui_round_bonuses,回合獎勵
 gui_sandbox,沙箱
 gui_scenario_mod_add_conditions_to_abilities,所有技能都將添加{0}
@@ -10471,16 +10466,7 @@ scenario_job_twotribes_success_1,叢林的地面上散落著屍體，但你勝�
 scenario_job_vermling_cave_sm1_desc,所有敵人的攻擊都附帶中毒和流血
 scenario_job_vermling_cave_sm2_desc,所有敵人開始時處於中毒和流血狀態
 scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附近的地穴
-scenario_puzzle_2a_01,"歡迎來到你的第一場訓練關！你已經學會了基礎操作，現在你必須幫助重傷的<color=#A06E4B><b>蠻徒</b></color>解決這個<color=#C53F3F><b>強盜弓箭手<link=""Glossary_Elite"">精英</link></b></color>，這可是比普通級別的敵人強得多的對手，當心點！"
-scenario_puzzle_2a_02,"蠻徒只剩最後一點生命值了，哪怕是一點傷害都會讓他<b><color=#FADC99><link=""Glossary_Exhausted"">筋疲力盡</link></color></b>。因此，接下來你需要通過<b><color=#FADC99><link=""Glossary_Lost"">移除</link></color></b>一張手牌的方式來避免一次任意傷害。
 
-（在訓練關中，攻擊修正卡池全部被設置成<b><color=#FFA414> +0 </color></b>，所以暫時不用考慮它們。）"
-scenario_puzzle_2a_03,"你本輪的目標為：
-<line-height=20%>
-</line-height>→ 使用單次<link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b><sprite name=Attack></link>殺死<b><color=#C53F3F>弓箭手</color></b>
-→ <link=""Glossary_Loot""><b><color=#FADC99>拾取</color></b><sprite name=Loot></link>她掉落的金幣
-<line-height=20%>
-</line-height>相信你能夠完成任務！"
 scenario_puzzle_2a_04,"當心！<b><color=#A06E4B>蠻徒</color></b>只剩下最後一點生命值了，意味著你無法承擔更多傷害…再試一次吧，但是這次要選擇<b><color=#FADC99><link=""Glossary_Lost"">移除</link></color></b>一張手牌來避免傷害。"
 scenario_puzzle_2a_05,"能夠活下來倒是還算不錯，但你的目標是殺死<nobr><color=#C53F3F>強盜弓箭手<link=""Glossary_Elite"">精英</link></color></nobr>。或許你手牌裡有張帶有<nobr><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color><sprite name=Attack></nobr>的技能卡可以一次性造成足夠的傷害？再試一次吧。"
 scenario_puzzle_2a_06,"嘣！<b><font=""MarcellusAlt SDF""><color=#F5E3B0>力劈華山</color></font></b>是一張強力卡牌，但是強大的力量總是伴隨著代價。和<b><font=""MarcellusAlt SDF""><color=#F5E3B0>力劈華山</color></font></b>的上半部分類似，行動描述右下角包含燃燒符號的<b><color=#FADC99><link=""Glossary_Action"">行動</link></color></b>在使用過後會將卡片<b><color=#FADC99><link=""Glossary_Lost"">移除</link></color></b>，這意味著在這個劇本中你無法再次使用這張卡。現在，該撿起那些金幣了！"
@@ -10491,13 +10477,13 @@ scenario_puzzle_2a_10,"那<b><color=#FADC99><link=""Glossary_Loot"">拾取</link
 scenario_puzzle_2a_11,"喔，那雙<font=""MarcellusAlt SDF""><b><color=#F8F8F8>闊步靴</color></b></font>在你需要一些額外移動力的時候就能夠派上用場了。好了，現在前往下一場訓練吧！"
 scenario_puzzle_2a_12,不貪財的傭兵不是好傭兵；在你有機會的時候最好站在金幣上結束你的回合！
 scenario_puzzle_2a_13,"在你殺死<b><color=#C53F3F>弓箭手</color></b>後，你需要移動到金幣上來<b><color=#FADC99><link=""Glossary_Loot"">拾取</link></color></b><sprite name=Loot>它。或許你手牌裡有張帶有<b><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color></b><sprite name=Attack>的技能卡可以一次性造成足夠的傷害？再試一次吧。"
-scenario_puzzle_2a_ht_01,移除一張手牌以避免傷害
+
 scenario_puzzle_2a_ht_02,選擇一張棄牌堆裡的卡牌將其移除
 scenario_puzzle_2a_ht_03,移動到陷阱上並承受傷害
 scenario_puzzle_2a_ht_04,移動到寶箱上並跳過剩餘的移動
 scenario_puzzle_2a_ht_05,選擇另一個行動並跳過它以結束你的行動輪
-scenario_puzzle_2a_obj_01,用單次攻擊殺死弓箭手
-scenario_puzzle_2a_obj_03,拾取弓箭手掉落的金幣
+
+
 scenario_puzzle_2a_obj_04,進行一次長休息
 scenario_puzzle_2a_obj_05,拾取寶箱
 scenario_puzzle_2a_tb_01,
@@ -10554,15 +10540,15 @@ scenario_puzzle_2c_14,"那個<link=""Glossary_Disarm""><b><color=#FADC99>繳械<
 scenario_puzzle_2c_15,接下來是最後一場訓練，完成後你就已經準備就緒，可以去探索世界並為我們的公會招募傭兵了！
 scenario_puzzle_2c_16,你受到了攻擊！注意敵人這一輪的移動範圍。你需要避開所有敵人！
 scenario_puzzle_2c_obj_1,在2個回合內不要受到任何攻擊
-scenario_puzzle_2d_01,讓我們來看看<b><color=#FADC99> 攻擊修正 </color></b>卡牌。在之前的訓練中，角色在攻擊時總是抽取一張<color=#FFA414><b> +0 </b></color>的<b><color=#FADC99>攻擊修正卡牌</color></b>，意味著他們的攻擊傷害總是和卡牌上說明的傷害一樣。但是平時可不是這樣的！
-scenario_puzzle_2d_02,"在正常的劇本中，每次執行<link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>行動時，角色都會抽取一張<b><color=#FADC99>攻擊修正卡牌</color></b>來影響實際造成的傷害。它們會通過<b><color=#FFA414> +1 </color></b>，<b><color=#FFA414> +2 </color></b>，和<b><color=#D92727> x2 </color></b>來提升傷害，或是通過<b><color=#A050E0> -1 </color></b>，<b><color=#A050E0> -2 </color></b>，和<b><color=#A050E0> x0 </color></b>來降低傷害，還可能像你之前看到的<color=#FFA414><b> +0 </b></color>那樣對傷害數值不造成影響。
+scenario_puzzle_2d_01,讓我們來看看<b><color=#FADC99>攻擊修正</color></b>卡牌。在之前的訓練中，角色在攻擊時總是抽取一張<color=orange><b> +0 </b></color>的<b><color=#FADC99>攻擊修正卡牌</color></b>，意味著他們的攻擊傷害總是和卡牌上說明的傷害一樣。但是平時可不是這樣的！
+scenario_puzzle_2d_02,"在正常的劇本中，每次執行<link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>行動時，角色都會抽取一張<b><color=#FADC99>攻擊修正卡牌</color></b>來影響實際造成的傷害。它們會通過<b><color=orange> +1 </color></b>，<b><color=orange> +2 </color></b>，和<b><color=#D92727> x2 </color></b>來提升傷害，或是通過<b><color=#A050E0> -1 </color></b>，<b><color=#A050E0> -2 </color></b>，和<b><color=#A050E0> x0 </color></b>來降低傷害，還可能像你之前看到的<color=orange><b> +0 </b></color>那樣對傷害數值不造成影響。
 
 你可以通過將滑鼠懸停在任意角色身上來看到他的攻擊修正卡池 ——注意，和玩家角色不同的是，所有怪物共用同一個攻擊修正卡池！"
 scenario_puzzle_2d_03,"在本場訓練關中，<b><color=#C53F3F>弓箭手</color></b>的攻擊修正卡池裡只剩兩張攻擊修正卡牌：<b><color=#D92727> x2 </color></b>和<b><color=#A050E0> x0 </color></b>。我們希望她們抽到<b><color=#A050E0> x0 </color></b>來造成0點傷害，因此我們要讓她們進入<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態來確保她能抽到！"
 scenario_puzzle_2d_04,"<link=""Glossary_Range"">遠程</link><link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>在攻擊一個相鄰格子裡的目標時會處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>。這會導致攻擊方抽取兩張攻擊修正卡牌而不是抽一張，然後採用更差的那張。
 
 因為這些<b><color=#C53F3F>弓箭手</color></b>只剩兩張攻擊修正卡牌了，如果他們攻擊時處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態，他們會把兩張都抽出來並且被迫選擇<b><color=#A050E0> x0 </color></b>而不是<b><color=#D92727> x2 </color></b>作為較差的結果來進行結算，也就是說造成0點傷害！當你在生命條旁邊看到閃爍的紫色符號時<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態就會生效。"
-scenario_puzzle_2d_05,"現在你只能讓一名<b><color=#C53F3F>弓箭手</color></b>處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態，所以你還需要用遠距攻擊把另一個殺死。這應該不難，因為我在<b><color=#A06E4B>蠻徒</color></b>的攻擊修正卡池裡面塞滿了<b><color=#FFA414> +1 </color></b>攻擊修正卡牌。
+scenario_puzzle_2d_05,"現在你只能讓一名<b><color=#C53F3F>弓箭手</color></b>處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態，所以你還需要用遠距攻擊把另一個殺死。這應該不難，因為我在<b><color=#A06E4B>蠻徒</color></b>的攻擊修正卡池裡面塞滿了<b><color=orange> +1 </color></b>攻擊修正卡牌。
 
 你的目標為：
 <line-height=20%>
@@ -10570,13 +10556,13 @@ scenario_puzzle_2d_05,"現在你只能讓一名<b><color=#C53F3F>弓箭手</colo
 → 用一個<link=""Glossary_Range"">遠程</link><link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>殺死另一名<b><color=#C53F3F>弓箭手</color></b>"
 scenario_puzzle_2d_06,"喔！那可真是一次強力的<link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>！再試一次 ——這次，站在一個<b><color=#C53F3F>弓箭手</color></b>旁邊並殺死另一個。"
 scenario_puzzle_2d_07,"注意到了嗎？她抽到了 <b><color=#A050E0> x0 </color></b>和<b><color=#D92727> x2 </color></b>這兩張攻擊修正卡牌，<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態會強制她抽取兩張攻擊修正卡牌並且使用更差的那張！"
-scenario_puzzle_2d_08,"還可以看到你用<b><font=""MarcellusAlt SDF""><color=#F5E3B0>備用匕首</color></font></b>攻擊時抽到了一張<color=#FFA414><b> +1 </b></color>攻擊修正卡牌，因此共造成<b> 4 </b>點傷害來殺死另一個<b><color=#C53F3F>弓箭手</color></b>。"
+scenario_puzzle_2d_08,"還可以看到你用<b><font=""MarcellusAlt SDF""><color=#F5E3B0>備用匕首</color></font></b>攻擊時抽到了一張<color=orange><b> +1 </b></color>攻擊修正卡牌，因此共造成<b> 4 </b>點傷害來殺死另一個<b><color=#C53F3F>弓箭手</color></b>。"
 scenario_puzzle_2d_09,"你的最終目標為：
 <line-height=20%>
 </line-height>→ 殺死剩餘的<b><color=#C53F3F>弓箭手</color></b>
 → 拾取寶箱"
 scenario_puzzle_2d_10,"你需要早點行動來優先發起<link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>，並且對她造成<b> 4 </b>點傷害。"
-scenario_puzzle_2d_11,還記得之前你曾經成功造成了<b> 3+1 </b>點傷害的事情嗎？ ——別忘了在這個訓練關中你只有<color=#FFA414><b> +1 </b></color>攻擊修正卡牌。
+scenario_puzzle_2d_11,還記得之前你曾經成功造成了<b> 3+1 </b>點傷害的事情嗎？ ——別忘了在這個訓練關中你只有<color=orange><b> +1 </b></color>攻擊修正卡牌。
 scenario_puzzle_2d_12,"你的目標是<link=""Glossary_Loot""><b><color=#FADC99>拾取</color></b></link>寶箱。我們下一關可能會用到裡面的東西，確保你能夠拿到它！"
 scenario_puzzle_2d_13,"很好！<b><font=""MarcellusAlt SDF""><color=#F8F8F8>扇形盾</color></font></b>可以幫你阻擋一些傷害！"
 scenario_puzzle_2d_14,你已經完成了基礎訓練關卡——是時候給你介紹幾名其他的傭兵並且讓你展開探索了！
@@ -12110,8 +12096,7 @@ town_records_scenario077complete_8,“黯……”多明尼克喃喃自語道。
 town_records_scenario077complete_9,他一屁股坐倒在椅子上。“這聽起來不太妙。我猜那個行維族人說服了兩軍領袖讓他們停止戰爭，免得讓‘黯’的計畫如願以償，然而守夜人組織似乎堅信‘黯’有朝一日會回來不由分說地將我們全部毀滅。我現在真的不知道該怎麼想才對呢。”
 trainerdialogname,教官
 transferdooms,轉移厄運
-trap,陷阱
-treasure_chest_tooltip,財寶寶箱
+
 
 
 twohexobstacle,兩格障礙物

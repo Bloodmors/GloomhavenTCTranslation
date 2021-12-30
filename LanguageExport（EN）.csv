@@ -10725,7 +10725,7 @@ scenario_journey_bloodford_descr_0,"Bloodford is plagued by walking corpses, cle
 scenario_puzzle_2a_01,"Welcome to your first training mission! You've learned the basics, but now you must help the gravely wounded <color=#A06E4B><b>Brute</b></color> deal with a <nobr><color=#C53F3F><b>Bandit Archer <link=""Glossary_Elite"">Elite</link></b></color></nobr>, a stronger enemy with greater stats than normal!"
 scenario_puzzle_2a_02,"With only a single hit point remaining, any amount of damage getting through will cause the Brute to become <b><color=#FADC99><link=""Glossary_Exhausted"">exhausted</link></color></b>. As such, you will have to avoid any incoming damage by <b><color=#FADC99><link=""Glossary_Lost"">burn</link></color></b>ing cards.
 
-(For the sake of training, the attack modifier decks will be all <b><color=#FFA414>+0</color></b>s, so don't worry about those for now.)"
+(For the sake of training, the attack modifier decks will be all <b><color=orange>+0</color></b>s, so don't worry about those for now.)"
 scenario_puzzle_2a_03,"Your objectives to start are:
 <line-height=20%> 
 </line-height>• Take down the <b><color=#C53F3F>Archer</color></b> with a single <nobr><link=""Glossary_Attack""><b><color=#FADC99>Attack</color></b> <sprite name=Attack></link></nobr>
@@ -10805,15 +10805,15 @@ scenario_puzzle_2c_14,"And how about that <link=""Glossary_Disarm""><b><color=#F
 scenario_puzzle_2c_15,"One more test, then I think you’ll be ready to start exploring the world and recruiting mercenaries to our Guild!"
 scenario_puzzle_2c_16,You got hit! Pay attention to where the enemies are going to move to this turn. You need to avoid all of them!
 scenario_puzzle_2c_obj_1,Don't get attacked for 2 rounds
-scenario_puzzle_2d_01,"Let’s talk about <b><color=#FADC99>attack modifiers</color></b>. So far in your training, characters have always drawn a <color=#FFA414><b>+0</b></color> <b><color=#FADC99>attack modifier</color></b>, meaning their attacks have always dealt the exact damage value specified on the cards. This is not normally the case!"
-scenario_puzzle_2d_02,"In real scenarios, for each <link=""Glossary_Attack""><b><color=#FADC99>Attack</color></b></link>, the character will draw an <b><color=#FADC99>attack modifier</color></b> which influences the damage dealt. These can increase the damage by <b><color=#FFA414>+1</color></b>, <b><color=#FFA414>+2</color></b>, or <b><color=#D92727>x2</color></b>, decrease by <b><color=#A050E0>-1</color></b>, <b><color=#A050E0>-2</color></b>, or <b><color=#A050E0>x0</color></b>, or leave the value unaffected as you've seen with a <color=#FFA414><b>+0</b></color>.
+scenario_puzzle_2d_01,"Let’s talk about <b><color=#FADC99>attack modifiers</color></b>. So far in your training, characters have always drawn a <color=orange><b>+0</b></color> <b><color=#FADC99>attack modifier</color></b>, meaning their attacks have always dealt the exact damage value specified on the cards. This is not normally the case!"
+scenario_puzzle_2d_02,"In real scenarios, for each <link=""Glossary_Attack""><b><color=#FADC99>Attack</color></b></link>, the character will draw an <b><color=#FADC99>attack modifier</color></b> which influences the damage dealt. These can increase the damage by <b><color=orange>+1</color></b>, <b><color=orange>+2</color></b>, or <b><color=#D92727>x2</color></b>, decrease by <b><color=#A050E0>-1</color></b>, <b><color=#A050E0>-2</color></b>, or <b><color=#A050E0>x0</color></b>, or leave the value unaffected as you've seen with a <color=orange><b>+0</b></color>.
 
 You can see the contents of a character's modifier deck by hovering over any character — note that unlike player characters, all monsters share a single attack modifier deck!"
 scenario_puzzle_2d_03,"For this training scenario, these <b><color=#C53F3F>Archer</color></b>s have just two attack modifiers remaining in their decks: <b><color=#D92727>x2</color></b> and <b><color=#A050E0>x0</color></b>. We want them to draw the <b><color=#A050E0>x0</color></b> to deal no damage - and we're going to give them <link=""Glossary_Disadvantage""><b><color=#FADC99>Disadvantage</color></b></link> to ensure that!"
 scenario_puzzle_2d_04,"<link=""Glossary_Range"">Range</link>d <nobr><link=""Glossary_Attack""><b><color=#FADC99>Attack</color></b>s</link></nobr> have <link=""Glossary_Disadvantage""><b><color=#FADC99>Disadvantage</color></b></link> when their target is on an adjacent hex. This forces the attacker to draw two modifier cards instead of just one, and the worst result is selected.
 
 As these <b><color=#C53F3F>Archer</color></b>s only have two modifiers remaining, if they attack with <link=""Glossary_Disadvantage""><b><color=#FADC99>Disadvantage</color></b></link>, they will draw both but be forced to choose the <b><color=#A050E0>x0</color></b> over the <b><color=#D92727>x2</color></b> as the worse result, dealing no damage! You can see when <link=""Glossary_Disadvantage""><b><color=#FADC99>Disadvantage</color></b></link> will apply from the flashing purple symbol next to the health bar."
-scenario_puzzle_2d_05,"You can only <link=""Glossary_Disadvantage""><b><color=#FADC99>Disadvantage</color></b></link> one <b><color=#C53F3F>Archer</color></b> here, so kill the other with a Ranged Attack. Should be easy, as the <b><color=#A06E4B>Brute</color></b>’s attack modifier deck is full of <b><color=#FFA414>+1</color></b>s for this mission. You can thank me later.
+scenario_puzzle_2d_05,"You can only <link=""Glossary_Disadvantage""><b><color=#FADC99>Disadvantage</color></b></link> one <b><color=#C53F3F>Archer</color></b> here, so kill the other with a Ranged Attack. Should be easy, as the <b><color=#A06E4B>Brute</color></b>’s attack modifier deck is full of <b><color=orange>+1</color></b>s for this mission. You can thank me later.
 
 Your objectives are: 
 <line-height=20%> 
@@ -10821,13 +10821,13 @@ Your objectives are:
 • Kill the other <b><color=#C53F3F>Archer</color></b> with a <link=""Glossary_Range"">Range</link>d <link=""Glossary_Attack""><b><color=#FADC99>Attack</color></b></link>"
 scenario_puzzle_2d_06,"Ouch! That was quite a powerful <link=""Glossary_Attack""><b><color=#FADC99>Attack</color></b></link>! Try again — this time, stand next to one <b><color=#C53F3F>Archer</color></b> and take out the other."
 scenario_puzzle_2d_07,"See how she drew both the <b><color=#A050E0>x0</color></b> and <b><color=#D92727>x2</color></b> modifiers? <link=""Glossary_Disadvantage""><b><color=#FADC99>Disadvantage</color></b></link> forced her to draw two attack modifiers and use the worst one!"
-scenario_puzzle_2d_08,"You also saw how your attack with <nobr><b><font=""MarcellusAlt SDF""><color=#F5E3B0>Spare Dagger</color></font></b></nobr> drew a <color=#FFA414><b>+1</b></color>, thus dealing <b>4</b> damage total to take down the other <b><color=#C53F3F>Archer</color></b>."
+scenario_puzzle_2d_08,"You also saw how your attack with <nobr><b><font=""MarcellusAlt SDF""><color=#F5E3B0>Spare Dagger</color></font></b></nobr> drew a <color=orange><b>+1</b></color>, thus dealing <b>4</b> damage total to take down the other <b><color=#C53F3F>Archer</color></b>."
 scenario_puzzle_2d_09,"Your final objectives are: 
 <line-height=20%> 
 </line-height>• Kill the remaining <b><color=#C53F3F>Archer</color></b>
 • Loot the Chest"
 scenario_puzzle_2d_10,"You need to go early enough to get the first <link=""Glossary_Attack""><b><color=#FADC99>Attack</color></b></link> in, and then do <b>4</b> damage to her."
-scenario_puzzle_2d_11,You managed <b>3+1</b> damage last time — remember you have only <color=#FFA414><b>+1</b></color> modifiers for this training mission.
+scenario_puzzle_2d_11,You managed <b>3+1</b> damage last time — remember you have only <color=orange><b>+1</b></color> modifiers for this training mission.
 scenario_puzzle_2d_12,"Your objective was to <link=""Glossary_Loot""><b><color=#FADC99>Loot</color></b></link> that chest. We might need what's in there for the next mission, make sure you get it!"
 scenario_puzzle_2d_13,"Nice! A <nobr><b><font=""MarcellusAlt SDF""><color=#F8F8F8>Heater Shield</color></font></b></nobr> should help you soak up some damage! "
 scenario_puzzle_2d_14,You’ve finished your basic training missions — time to introduce you to the other mercs and get you exploring!
@@ -12439,8 +12439,8 @@ tutorial_2_text_012,"Now that you've finished using <nobr><b><font=""MarcellusAl
 For now, time to <color=#FADC99><b>Attack</b></color>!"
 tutorial_2_text_015_1,"Whenever you <color=#FADC99><b>Attack</b></color>, an <color=#FADC99><b>attack modifier</b></color> is drawn from your character's modifier deck and that value is applied to your <color=#FADC99><b>Attack</b></color>.
 
-In this case you can see above the <color=#C53F3F><b>Bandit Guard</b></color> that a <b><color=#FFA414>+0</color></b> modifier was drawn, so your <color=#FADC99><b>Attack</b></color> still just deals its base value of <b>3</b> damage."
-tutorial_2_text_015_2,"For this tutorial, we will only have <b><color=#FFA414>+0</color></b> modifiers in effect to keep things simple. We'll explore the other <color=#FADC99><b>attack modifiers</b></color> later!"
+In this case you can see above the <color=#C53F3F><b>Bandit Guard</b></color> that a <b><color=orange>+0</color></b> modifier was drawn, so your <color=#FADC99><b>Attack</b></color> still just deals its base value of <b>3</b> damage."
+tutorial_2_text_015_2,"For this tutorial, we will only have <b><color=orange>+0</color></b> modifiers in effect to keep things simple. We'll explore the other <color=#FADC99><b>attack modifiers</b></color> later!"
 tutorial_2_text_016_1,"Now it is the <color=#C53F3F><b>Bandit</b></color>’s turn. As we saw on his card earlier, he intends to <color=#FADC99><b>Move</b></color> and then perform a melee <color=#FADC99><b>Attack</b></color> for <b>3</b> damage. 
 
 However, as he is already within melee range of the <color=#a06e4b><b>Brute</b></color>, he will simply forgo moving and get straight to the <color=#FADC99><b>Attack</b></color>."
