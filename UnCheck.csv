@@ -5016,7 +5016,7 @@ gui_early_access_page_3_title,謝謝！
 gui_early_access_page_4_title,教學和學習遊戲
 
 gui_easy,容易
-gui_edit,編輯
+
 gui_effects,附加效果
 
 gui_element_infusion_created,{0}元素充能完畢！
@@ -5238,7 +5238,7 @@ gui_load_adventure_start_quest,準備開始一個新的任務！
 gui_load_campaign,載入戰役
 gui_load_modconfig,載入Mod設定檔.
 gui_load_modding,載入Mod
-gui_load_party_slot_owner,所有者:
+
 gui_load_scenario,載入劇本
 
 gui_loading_state_compare,對比玩家狀態。請稍等...
