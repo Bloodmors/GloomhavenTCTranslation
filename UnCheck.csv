@@ -1957,8 +1957,7 @@ doomstalker_strengths,"- <indent=%15>高遠程輸出</indent>
 doomstalker_weaknesses,"- <indent=%15>通常一次只能把注意力放在一個敵人上</indent>
 - <indent=%15>釋放厄運技能經常導致呆在原地</indent>
 - <indent=%15>他每一次從Gloomhaven鎮回來，都有一些商人發現自己遭了厄運，物品賣不出好價錢。</indent>"
-door,門
-doorway_tooltip,解鎖了的門
+
 doppelganger,幻影分身
 drakefirefarm,龍火地
 dungeon_exit_descr_tooltip,"雇傭兵必須被放置在出口格子上才能完成劇本。
@@ -4806,11 +4805,10 @@ gui_attack_modifiers,攻擊修正卡
 gui_attack_modifiers_description,執行一張攻擊技能卡時，為每個目標單獨使用攻擊修正卡
 gui_autosave,自動記錄
 gui_autosave_explanation,此遊戲使用自動記錄功能。當您看到自動記錄圖示時，請不要關閉遊戲。
-gui_avoid_damage_burn_tooltip,選擇1個雇傭兵的可用技能卡來燃燒，避免受到物理傷害。
-gui_avoid_damage_discard_tooltip,選擇2個雇傭兵廢棄技能卡燃燒並避免受到物理傷害。
 
-gui_battle_goals,戰鬥目標
-gui_battle_goals_tip,在進入地牢之前為每個雇傭兵選擇一個戰鬥目標。
+
+
+
 gui_begin,開始
 gui_bind_equip_item_confirmation,"<color=#C53F3F>解綁的花費：</color><color=#FCC954><sprite name=""Gold_Icon_White"" color=#FCC954>{0}</color>"
 gui_bind_equip_item_confirmation_title,綁定並裝備物品
@@ -5251,10 +5249,6 @@ gui_locked,鎖定
 gui_locked_card_tooltip,"尚未添加到掌握技能卡的卡保持<color=#CEAD5A>鎖定</color>除非花費解鎖點。
 選擇<color=#CEAD5A>重置雇傭兵 </color>重建掌握技能卡集。"
 gui_locked_object,未解鎖的{0}
-
-gui_lose_card,"<sprite name=""Lost"">燒祭""{0}"""
-gui_lose_cards,"<sprite name=""Lost"">燒祭卡牌
-"
 
 
 
@@ -5724,7 +5718,7 @@ gui_scenario_unknown,"該地區尚未被探索過。
 你敢去無視野地偵察這片地方嗎？"
 gui_scenariogoldcollected,從這個劇本中收集到的金幣數。
 gui_scernario_failed,劇本失敗
-gui_select,選擇
+
 gui_select_character,選擇角色
 gui_select_characters,選擇角色
 gui_select_quest,選擇任務
@@ -5734,8 +5728,7 @@ gui_sell_confirmation_title,賣出物品
 gui_sell_enhancement_confirmation_title,賣出技能提升
 gui_send_error_report,發送錯誤報告（漢化錯誤請直接聯繫漢化組）
 gui_sending_error_report,發送錯誤報告...請稍候
-gui_short_rest,短休息
-gui_short_rest_confirmation,執行短休息
+
 gui_side_quest,副任務
 gui_skin_off_tooltip,基本的皮膚
 gui_skin_on_tooltip,華麗的皮膚
@@ -5765,10 +5758,10 @@ gui_summoned_allies,召喚物夥伴
 gui_swap_characters_positions_tip,選擇{0}/2個角色以交換位置
 gui_swap_enemy_positions_tip,選擇{0}/2個敵人以交換位置
 gui_swap_position_tip,將{0}的位置與{1}交換
-gui_take_damage,承受傷害
-gui_take_damage_burn,燒祭1張手牌
-gui_take_damage_discard,燒祭2張棄牌堆的卡牌
-gui_take_damage_tooltip,選擇失去生命值重新燒祭卡牌
+
+
+
+
 gui_temple_bless_unavailable,被祝福的雇傭兵
 gui_temple_confirm,捐助
 gui_temple_confirmation,"在下一個任務，<color=#{1}>{0} <sprite name=""{2}"" color=#{1}></color> 獲得 x2 <sprite name=""Bless""><color=#A78634>祝福</color>修正卡"
@@ -5788,7 +5781,7 @@ gui_tooltip_consuming_available,按一下此處以增強此行動，此過程中
 gui_tooltip_consuming_clicked,這一行動將被元素增強。可點擊右邊的元素增強按鈕以取消增強並放走元素。
 gui_tooltip_consuming_disabled,該行動可以通過消耗元素來增強。您只能在角色輪次期間並且已經充能了所需的元素時執行此行動。
 gui_tooltip_consuming_unavailable,該行動可以通過消耗元素來增強。首先，使用某些行動來充能所需的元素。
-gui_tooltip_deal_damage,三選一：承受傷害、燒祭一張手牌或者兩張棄牌堆的卡牌。
+
 gui_tooltip_deal_damage_companion,選擇對{0}的傷害結算方式，燒祭一張{1}的手牌或著兩張棄牌堆的卡牌。
 gui_tooltip_deal_damage_mandatory_use,如果傷害持續，必須使用。
 gui_tooltip_deal_damage_mp,{0}不得不選擇如何承受傷害。
@@ -5842,8 +5835,7 @@ gui_tooltip_summon,召喚{0}
 gui_tooltip_summon_select_hex,選擇一個格子來召喚{0}
 gui_tooltip_take_quest_item,確認從相鄰的雇傭兵拿走可攜帶的任務物品
 
-gui_tooltip_title_deal_damage,傷害結算階段
-gui_tooltip_title_start_turn,開始輪次
+
 gui_tooltip_transfer_doom,將厄運從已死的目標轉移到另一個目標。
 gui_total_gold,玩家團隊總金幣
 gui_town_records_blocked,"<size=+2><color=#EACF8C>城鎮記錄</color></size>
@@ -12143,8 +12135,6 @@ treasure_chest_tooltip,財寶寶箱
 
 
 
-tutorial_2_help_015,點擊“結束按鈕”以繼續
-tutorial_2_help_016,選擇承受傷害
 tutorial_2_help_018_1,點擊“短休息”按鈕
 tutorial_2_help_018_2,點擊“是”以繼續
 tutorial_2_help_020,選擇嘲諷
@@ -12162,39 +12152,6 @@ tutorial_2_help_024_5,點擊“結束”以繼續
 
 
 
-在這種情況下，你可以在<color=#C53F3F><b>強盜守衛</b></color>的生命條上方看到<b><color=#FFA414>+0</color></b>修正卡被抽取，所以你的<color=#FADC99><b>攻擊</b></color>仍然造成了它的基礎值<b>3</b>點傷害。"
-tutorial_2_text_015_2,本教學中，我們將只有<b><color=#FFA414>+0</color></b>修正卡，以保持相對簡單的難度。我們將在以後探索其他的<color=#FADC99><b>攻擊修正卡</b></color>！
-tutorial_2_text_016_1,"現在是<color=#C53F3F><b>強盜</b></color>的輪次。正如我們之前在卡上看到的那樣，他打算<color=#FADC99><b>移動</b></color>，然後執行近戰<color=#FADC99><b>攻擊</b></color><b>3</b>。
-
-但是，由於<color=#a06e4b><b>蠻徒</b></color>已經在他的近戰攻擊範圍內，他將放棄移動直接進行<color=#FADC99><b>攻擊</b></color>。"
-tutorial_2_text_016_2,哎喲！雖然怪物總是直接受到傷害，但只要玩家的角色即將遭受傷害，就會獲得三種選擇：
-tutorial_2_text_016_3,"首先，你可以簡單地讓你的角色承受傷害。但是，如果角色的生命值減少到<b>0</b>，則該角色會<color=#FADC99><b>筋疲力盡</b></color>，這意味著它們不再能在本場景中行動。
-
-如果你的所有雇傭兵都<color=#FADC99><b>筋疲力盡</b></color>了，本次冒險將會以你的失敗而告終！"
-tutorial_2_text_016_4,其次，你可以選擇<color=#FADC99><b>燒毀</b></color>兩張棄置的技能卡， 而不是受到傷害。如果技能卡被<color=#FADC99><b>燒毀</b></color>，它就無法再通過休息恢復。
-tutorial_2_text_016_5,但是，如果你在這裡<color=#FADC99><b>燒毀</b></color>兩張<color=#a06e4b><b>蠻徒</b></color>的技能卡，他的下一個輪次將沒有足夠的卡片可以選擇，因此也會<color=#FADC99><b>筋疲力盡</b></color>！
-tutorial_2_text_016_6,最後，你可以選擇<color=#FADC99><b>燒毀</b></color>一張手牌。此選項處於灰色，因為<color=#a06e4b><b>蠻徒</b></color>現在已經丟棄了所有的卡牌。
-tutorial_2_text_016_7,"如果條件允許，選擇承受傷害通常比通過<color=#FADC99><b>燒毀</b></color>卡牌抵消傷害更加明智，因為這樣能夠避免卡牌耗盡而無法完成場景！
-
-現在，讓我們選擇承受傷害，這也就三點傷害，<color=#a06e4b><b>蠻徒</b></color>有足夠的生命值能夠活下來。"
-tutorial_2_text_017,<color=#C53F3F><b>強盜</b></color>的輪次現在結束。由於他是最後一個行動的角色，因此這一回合也宣告結束，在這之後新一個回合將會開始。
-tutorial_2_text_018_1,"在技能卡選擇期間，如果你的棄牌堆至少有兩張卡牌，那麼你可以執行<color=#FADC99><b>長休息</b></color>或<color=#FADC99><b>短休息</b></color>回收其中的一部分。
-
-目前<color=#a06e4b><b>蠻徒</b></color>丟棄了所有的技能卡（<color=#FADC99><b>長休息</b></color>不被算作一張卡牌），因此他將不得不休息。"
-tutorial_2_text_018_2,<color=#FADC99><b>短休息</b></color>將隨機燒毀一張丟棄的卡牌，但你將立即回收剩下的棄牌堆中的卡牌——所以你可以借此在本回合開始前立即回收卡牌。
-tutorial_2_text_018_3,<color=#FADC99><b>長休息</b></color>將佔用一個輪次，雖然本回合你的時序值為<b>99</b>，但是你不但可以自己挑選要燒毀的卡牌來取代隨機選擇卡牌，而且該角色將執行“<b>治療2</b>”的行動並重置所有橫置的道具卡！
-tutorial_2_text_018_4,如果本回合選擇<color=#FADC99><b>長休息</b></color>而<color=#C53F3F><b>強盜</b></color>選擇了攻擊卡，則玩家作為<color=#a06e4b><b>蠻徒</b></color>既沒有足以承受傷害的生命值，也沒有足夠的卡牌可以燒毀，所以讓我們選擇<color=#FADC99><b>短休息</b></color>。
-tutorial_2_text_019,"<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr> 已隨機被選擇為即將燒祭的卡牌。
-
-每次短休息時將要燒牌前，你都可以選擇失去一點生命值來再次隨機抽取一張卡牌來換掉當前抽到的卡牌，但是現在<color=#a06e4b><b>蠻徒</b></color>僅有1點生命值了，我們就沒有這個選擇了！"
-tutorial_2_text_020_1,"你可以看到<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>雁過拔毛</color></font></b></nobr>現在是深紅色的，表示它已被燒毀，不可再用於當前的場景。"
-tutorial_2_text_020_2,"作為交換，<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>踐踏</color></font></b></nobr>和<nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷</color></font></b></nobr>已回收，可再次使用！"
-tutorial_2_text_020_3,"現在<color=#a06e4b><b>蠻徒</b></color>以及<color=#C53F3F><b>強盜</b></color>都處於瀕死的邊緣，所以誰能在回合中首先發起攻擊至關重要！
-
-記住，你所選擇的第一張卡牌將決定<color=#a06e4b><b>蠻徒</b></color>的時序值，所以讓我們首先選擇時序值為<b>10</b><nobr>的<b><font=""MarcellusAlt SDF""><color=#f5e3b0>嘲諷</color></font></b></nobr>來最大化<color=#a06e4b><b>蠻徒</b></color>拿到先手的概率。"
-tutorial_2_text_022,"現在我們與<color=#C53F3F><b>強盜</b></color>在同一個房間裡，我們可以看到敵人每一輪都在玩家選定卡牌後抽取他們的能力卡，所以在選擇卡牌的時候你不會知道他們將會做什麼，或者提前知道他們每一輪的時序值。
-
-看起來<color=#C53F3F><b>強盜</b></color>計畫再次使用<color=#FADC99><b>移動</b></color>和<color=#FADC99><b>攻擊</b></color>，但因為你選擇使用更加快速的<b>10</b>時序值卡牌，而他選擇了時序值為<b>50</b>的較慢卡牌！因此他將無法進行任何行動，直到<color=#a06e4b><b>蠻徒</b></color>的輪次結束。 讓我們幹掉他！"
 tutorial_2_text_024_1,"幹掉他了！你看到地板上<color=#C53F3F><b>強盜</b></color>掉落的那些金幣了嗎？要拾取它，你需要使用<color=#FADC99><b>拾取</b></color>技能。
 
 請務必牢記：<b>黯淡港灣</b>的一個重要規則是你無法帶走沒有被拾取的財寶——如果你想要得到它，請務必在場景結束之前拾取它！"
