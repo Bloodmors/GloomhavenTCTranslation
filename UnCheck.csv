@@ -5092,7 +5092,7 @@ gui_gift_enhancement,你獲得了一項技能提升
 gui_gift_immobilize,你被禁足了
 gui_gift_infusion,下一個劇本開始時戰場會充能{0}元素
 gui_gift_invisible,您已被賦予隱身狀態
-gui_gift_item,您收到了一個物品
+
 gui_gift_item_design,您收到了一個物品製作工藝。
 gui_gift_lost_gold,您失去了{0}金幣
 gui_gift_muddle,您陷入混亂狀態了
@@ -10395,8 +10395,8 @@ scenario_job_vermling_cave_sm1_desc,所有敵人的攻擊都附帶中毒和流�
 scenario_job_vermling_cave_sm2_desc,所有敵人開始時處於中毒和流血狀態
 scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附近的地穴
 
-scenario_puzzle_2a_04,"當心！<b><color=#A06E4B>蠻徒</color></b>只剩下最後一點生命值了，意味著你無法承擔更多傷害…再試一次吧，但是這次要選擇<b><color=#FADC99><link=""Glossary_Lost"">移除</link></color></b>一張手牌來避免傷害。"
-scenario_puzzle_2a_05,"能夠活下來倒是還算不錯，但你的目標是殺死<nobr><color=#C53F3F>強盜弓箭手<link=""Glossary_Elite"">精英</link></color></nobr>。或許你手牌裡有張帶有<nobr><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color><sprite name=Attack></nobr>的技能卡可以一次性造成足夠的傷害？再試一次吧。"
+
+
 scenario_puzzle_2a_06,"嘣！<b><font=""MarcellusAlt SDF""><color=#F5E3B0>力劈華山</color></font></b>是一張強力卡牌，但是強大的力量總是伴隨著代價。和<b><font=""MarcellusAlt SDF""><color=#F5E3B0>力劈華山</color></font></b>的上半部分類似，行動描述右下角包含燃燒符號的<b><color=#FADC99><link=""Glossary_Action"">行動</link></color></b>在使用過後會將卡片<b><color=#FADC99><link=""Glossary_Lost"">移除</link></color></b>，這意味著在這個劇本中你無法再次使用這張卡。現在，該撿起那些金幣了！"
 scenario_puzzle_2a_07,"做的不錯。隨著敵人被消滅乾淨並且目標也已經完成，劇本一般就到此結束了，那個寶箱會被留在這裡。但是在訓練關中，我會給你一個新的目標：<b><color=#FADC99><link=""Glossary_Loot"">拾取</link></color></b>那個寶箱！"
 scenario_puzzle_2a_08,"在一頭栽進那個陷阱之前，你可能想先得到一些恢復。我建議你進行一個<b><color=#FADC99>長休息</color></b>，這會讓你執行一個<b>“<color=#FADC99><link=""Glossary_Heal""> 治療</link></color></b><b> 2 ”</b>的技能並且回收足夠多的棄牌堆的卡牌，足以讓你承擔陷阱的<b>2</b>點傷害並且接近寶箱。"
@@ -10406,10 +10406,7 @@ scenario_puzzle_2a_11,"喔，那雙<font=""MarcellusAlt SDF""><b><color=#F8F8F8>
 scenario_puzzle_2a_12,不貪財的傭兵不是好傭兵；在你有機會的時候最好站在金幣上結束你的回合！
 scenario_puzzle_2a_13,"在你殺死<b><color=#C53F3F>弓箭手</color></b>後，你需要移動到金幣上來<b><color=#FADC99><link=""Glossary_Loot"">拾取</link></color></b><sprite name=Loot>它。或許你手牌裡有張帶有<b><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color></b><sprite name=Attack>的技能卡可以一次性造成足夠的傷害？再試一次吧。"
 
-scenario_puzzle_2a_ht_02,選擇一張棄牌堆裡的卡牌將其移除
-scenario_puzzle_2a_ht_03,移動到陷阱上並承受傷害
-scenario_puzzle_2a_ht_04,移動到寶箱上並跳過剩餘的移動
-scenario_puzzle_2a_ht_05,選擇另一個行動並跳過它以結束你的行動輪
+
 
 
 scenario_puzzle_2a_obj_04,進行一次長休息
@@ -10540,7 +10537,7 @@ scenario_puzzle_3b_05,"哈哈！在單個行動輪中瞄準多個目標的感覺
 </line-height>→ 在本回合中拾取至少5堆金幣
 <line-height=20%>
 </line-height> 小提示——有時一張卡牌的上半部分也會允許你執行<b>移動</b>技能！"
-scenario_puzzle_3b_06,"<b><link=""Glossary_Loot"">拾取</link></b>技能會撿起所示射程距離內的<i>所有</i>金幣，所以好好想想你應該站在哪裡進行<b><link=""Glossary_Loot"">拾取</link></b>吧！"
+scenario_puzzle_3b_06,"拾取技能會撿起所示射程距離內的<i>所有</i>金幣，所以好好想想你應該站在哪裡進行拾取吧！"
 scenario_puzzle_3b_07,"你需要在<link=""Glossary_Loot""><b>拾取</b></link>前先進行<b><link=""Glossary_Move"">移動</link></b>，而且不是所有<b><link=""Glossary_Move"">移動</link></b>技能都在技能卡的下半部分！"
 scenario_puzzle_3b_08,漂亮！暫時就讓我來替你保管這些金幣吧…
 scenario_puzzle_3b_09,因為你在這個劇本中的幫助，<b>凶徒</b>已經同意加入公會——意味著現在我們擁有足夠多的傭兵來進行正式的任務！
@@ -10561,7 +10558,7 @@ scenario_puzzle_5a_03,"本回合的目標為：
 </line-height>"
 scenario_puzzle_5a_04,"在用霜凍新星攻擊強盜之後你需要用<b><link=""Glossary_Jump"">跳躍</link></b>前往安全位置！"
 scenario_puzzle_5a_05,"為了增強<font=""MarcellusAlt SDF""><color=#F5E3B0><b>霜凍新星</b></color></font>你需要在使用它之前先消耗<b><link=""Glossary_Ice"">冰</link></b>元素。確保你在執行行動前先點擊<b><link=""Glossary_Ice"">冰</link></b>元素的符號來對它進行消耗。"
-scenario_puzzle_5a_06,"通過消耗冰元素，<b><font=""MarcellusAlt SDF""><color=#F5E3B0>霜凍新星</color></font></b>造成了<b> 3 </b>點傷害而不是<b> 2 </b>點！殺死三個強盜的同時還施加了<link=""Glossary_Immobilize""><b>禁足</b></link>狀態效果，所以剩下的強盜就追不上你了，那可真是個非常強的技能，對吧？"
+scenario_puzzle_5a_06,"通過消耗冰元素，<b><font=""MarcellusAlt SDF""><color=#F5E3B0>霜凍新星</color></font></b>造成了<b> 3 </b>點傷害而不是 <b>2</b> 點！殺死三個強盜的同時還施加了<link=""Glossary_Immobilize""><b>禁足</b></link>狀態效果，所以剩下的強盜就追不上你了，那可真是個非常強的技能，對吧？"
 scenario_puzzle_5a_07,"<font=""MarcellusAlt SDF""><color=#F5E3B0><b>乘風</b></color></font>同時也充能了<b><link=""Glossary_Air"">氣</link></b>元素以供未來使用。
 
 你可能注意到了，<b>織魔師</b>只剩三張尚未移除的卡牌了，所以下個回合結束時她就會筋疲力盡，因為你無法通過休息來回收移除區的卡牌。"
