@@ -12391,7 +12391,7 @@ tutorial_2_help_024_4,點擊【跳過移動】以跳過剩下的步數,,,,,,,,,,
 tutorial_2_help_024_5,點擊【結束野蠻人的輪次】以繼續,,,,,,,,,,,,,,,
 tutorial_2_text_001,歡迎！會長。我是公會教官，我將引導你建立自己的傭兵公會。首先，第一個教學我們將帶你瞭解<color=#a06e4b>野蠻人</color>。,,,,,,,,,,,,,,,
 tutorial_2_text_002_1,在我們進行動作之前，你可能會想要熟悉如何調整戰場的視角，就讓我們來看看如何控制視角的變化吧！,,,,,,,,,,,,,,,
-tutorial_2_text_002_2,"<align=center><b>W A S D</b><color=#CCCCCC> - 平移視角</color>
+tutorial_2_text_002_2,"<align=center><b>W A S D</b><color=#CCCCCC> 一 平移視角</color>
 <line-height=20%>
 <line-height=100%><b>Q E</b><color=#CCCCCC> - 順/逆時針旋轉視角</color>
 <line-height=20%>

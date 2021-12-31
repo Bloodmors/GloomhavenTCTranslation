@@ -5278,10 +5278,6 @@ gui_modding_campaign_mod,戰役模式Mod
 gui_modding_cancel_create_ruleset_confirmation_title,取消規則集創建
 gui_modding_cancel_edit_ruleset_confirmation_title,取消編輯
 
-
-
-
-
 gui_modding_create_ruleset_confirmation,"為您的規則集選擇遊戲模式。
 編輯規則集時，您將無法更改此功能。"
 gui_modding_create_ruleset_confirmation_title,遊戲模式
@@ -5344,9 +5340,7 @@ gui_modding_wait_loading_ruleset,請稍等。載入'{0}'
 gui_modding_welcome_desc,"您需要做的第一件事是創建自訂規則集。
 
 
-
 只要Mods不編輯相同的檔，每個自訂規則集都可以應用多個Mod。如果發生這種情況，將顯示警告消息。
-
 
 
 從Steam 創意工坊下載的Mod不會官方答疑支持，因此如果您有任何問題，請聯繫Mod 貢獻者。我們也無法保證您不會在這些模式下不被劇透。"
@@ -5402,9 +5396,7 @@ gui_multiplayer_join,多人遊戲
 gui_multiplayer_join_session_descr,"You can <color=#F1DBAE>join a hosted game</color> and be given control over one or more mercenaries from the host's game. 
 To do so, you must <color=#F1DBAE>first receive an Invite Code</color> from the host. Once you have the invite code you must enter it in the box below and submit it to start playing with friends!"
 
-
 gui_multiplayer_locked_party_not_hq_tooltip,在你返回到黯淡港灣或進入一個場景之前，多人遊戲會被鎖住。
-
 
 gui_multiplayer_remove_user,移除用戶
 
@@ -5423,7 +5415,6 @@ gui_new_card_notification,添加了新的技能卡，它低於當前級別。出
 gui_new_card_notification_title,已添加新卡牌！
 
 gui_new_quest_location_title,新任務地點！
-
 
 <color=#f3ddab>通過按一下下面的連結訪問創意工坊 </color>並將Mod添加到您的規則集中！"
 gui_notification_assign_all_my_slots,在冒險之前，必須分配給主機任一空的成員槽
@@ -5478,9 +5469,6 @@ gui_objective_reach_round_win,存活至少{0}回合
 gui_ok,好的
 gui_on_attack_conditions_title,On-攻擊條件
 gui_on_death_adjacent,On death: 進攻<sprite name=Attack> {0}。針對所有鄰近的敵人。
-gui_open_door,開門
-
-
 
 
 gui_opt_control_controller,映射控制器
@@ -5494,18 +5482,11 @@ gui_opt_control_reset,重置
 
 
 
-
-
-
-
 gui_opt_interface,介面
 gui_opt_interface_ability_focus_outlines,禁用技能卡焦點輪廓
 gui_opt_interface_mouse_hover_outlines,禁用滑鼠懸停輪廓
 gui_opt_lang_apply,應用不同的語言需要遊戲重新載入
 gui_opt_lang_title,需要採取的行動
-
-
-
 
 gui_other_player_retirement_tooltip,"<size=+2><color=#EACF8C>退休</color></size>
 你的團隊中的一個雇傭兵馬上要退休。
@@ -5628,8 +5609,6 @@ gui_reset_character_level_tooltip,"<color=#CEAD5A>重置雇傭兵</color>將使�
 重置雇傭兵不會影響雇傭兵當前的XP。"
 gui_reset_party,重置玩家團隊
 
-
-
 gui_result_win_exit,退出地牢
 gui_results_accomplishments,成就
 gui_results_chests,拾取寶箱數
@@ -5656,7 +5635,6 @@ gui_retire_character_desc,所有該雇傭兵擁有的物品將返回商人的店
 
 gui_retirement_cancel_selected_quest_confirmation,你的團隊中的一個雇傭兵已經完成了它的個人任務。你繼續冒險之前，必須先讓他退休。
 gui_retry,重試
-
 
 gui_round_bonuses,回合獎勵
 gui_sandbox,沙箱
