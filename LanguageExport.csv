@@ -12410,8 +12410,8 @@ tutorial_2_text_005,"看看<color=#a06e4b>野蠻人</color>在螢幕上方頭像
 tutorial_2_text_006,由於現在沒有其他角色存在，因此將立即進入<color=#a06e4b>野蠻人</color>的輪次。,,,
 tutorial_2_text_007_1,現在是<color=#a06e4b>野蠻人</color>的輪次，到了選擇<color=#FADC99>動作</color>的時候了。每張牌的頂部和底部分別代表一個<color=#FADC99>動作</color>，每個<color=#FADC99>動作</color>由一個或多個<color=#FADC99>能力</color>組成。,,,
 tutorial_2_text_007_2,每個輪次可以使用兩個<color=#FADC99>動作</color>，你可以選擇左邊的四種<color=#FADC99>動作</color>之一作為你第一個<color=#FADC99>動作</color> 一 但請注意！你第二個<color=#FADC99>動作</color>會是另一張牌的另一半部。,,,
-tutorial_2_text_007_3,"例如，現在你可以選擇<nobr><color=#32E632>踐踏</color></nobr>的頂部和<nobr><color=#32E632>順手牽羊</color></nobr>的底部...",,,
-tutorial_2_text_007_4,"...或選擇<nobr><color=#32E632>踐踏</color></nobr>的底部和<nobr><color=#32E632>順手牽羊</color></nobr>的頂部。",,,
+tutorial_2_text_007_3,例如，現在你可以選擇<nobr><color=#32E632>踐踏</color></nobr>的頂部和<nobr><color=#32E632>順手牽羊</color></nobr>的底部...,,,
+tutorial_2_text_007_4,...或選擇<nobr><color=#32E632>踐踏</color></nobr>的底部和<nobr><color=#32E632>順手牽羊</color></nobr>的頂部。,,,
 tutorial_2_text_007_5,"<color=#a06e4b>野蠻人</color>在這個房間裡沒有什麼可做的，所以你應該通過<color=#FADC99>移動</color><sprite name=Move>看看門後有什麼。
 
 <nobr><color=#32E632>順手牽羊</color></nobr>的底部允許<color=#a06e4b>野蠻人</color>移動四格，足以通過這扇門。讓我們開始吧！",,,
@@ -12422,7 +12422,7 @@ tutorial_2_text_011_1,"你可以看到<color=#C53F3F>強盜守衛</color>的意�
 tutorial_2_text_011_2,"請注意，這個<color=#C53F3F>強盜守衛</color>比<color=#a06e4b>野蠻人</color>具有更低的<color=#FADC99>優先權</color>，所以本回合如果他出現在場上，那麼他應該會在<color=#a06e4b>野蠻人</color>之前行動。
 
 然而目前已經是<color=#a06e4b>野蠻人</color>的輪次了，所以在你完成你的輪次之後才會輪到<color=#C53F3F>強盜守衛</color>的輪次。",,,
-tutorial_2_text_011_3,"讓<color=#a06e4b>野蠻人</color>更靠近敵人吧！讓我們第二個<color=#FADC99>動作</color>能夠使用<nobr><color=#32E632>踐踏</color>的頂部執行</nobr><color=#FADC99>進攻</color><sprite name=Attack>！",,,
+tutorial_2_text_011_3,讓<color=#a06e4b>野蠻人</color>更靠近敵人吧！讓我們第二個<color=#FADC99>動作</color>能夠使用<nobr><color=#32E632>踐踏</color>的頂部執行</nobr><color=#FADC99>進攻</color><sprite name=Attack>！,,,
 tutorial_2_text_012,"由於你已經使用了<nobr><color=#32E632>順手牽羊</color></nobr>，因此它就被<color=#FADC99>丟棄</color>了，它將在你休息時回到手中，但在那之前你不能再使用這張牌。
 
 現在，是時候<color=#FADC99>攻擊</color>了！",,,
@@ -12453,8 +12453,8 @@ tutorial_2_text_018_4,如果本回合選擇<color=#FADC99>長休息</color>而<c
 tutorial_2_text_019,"<nobr><color=#32E632>順手牽羊</color></nobr>已隨機被選擇為即將焚燒的牌。
 
 每次短休息要焚燒牌之前，你可以選擇失去 <b>1</b> 點生命值來再次隨機抽取一張牌來換掉原本會被焚燒的牌，但是現在<color=#a06e4b>野蠻人</color>僅剩 <b>1</b> 點生命值了！我們沒辦法進行這個選擇。",,,
-tutorial_2_text_020_1,"你可以看到<nobr><color=#32E632>順手牽羊</color></nobr>現在是深紅色的，表示它已被焚燒，不可再用於當前的劇本。",,,
-tutorial_2_text_020_2,"作為交換，<nobr><color=#32E632>踐踏</color></nobr>和<nobr><color=#32E632>嘲諷戰吼</color></nobr>已回收，可再次使用！",,,
+tutorial_2_text_020_1,你可以看到<nobr><color=#32E632>順手牽羊</color></nobr>現在是深紅色的，表示它已被焚燒，不可再用於當前的劇本。,,,
+tutorial_2_text_020_2,作為交換，<nobr><color=#32E632>踐踏</color></nobr>和<nobr><color=#32E632>嘲諷戰吼</color></nobr>已回收，可再次使用！,,,
 tutorial_2_text_020_3,"現在<color=#a06e4b>野蠻人</color>以及<color=#C53F3F>強盜守衛</color>都在死亡的邊緣，所以誰能在回合中先發起攻擊至關重要！
 
 記住，你所選擇的第一張牌將決定<color=#a06e4b>野蠻人</color>的優先權，所以讓我們先選擇優先權為 <b>10</b> <nobr>的<color=#32E632>嘲諷戰吼</color></nobr>來儘可能增加<color=#a06e4b>野蠻人</color>優先行動的機率。",,,
