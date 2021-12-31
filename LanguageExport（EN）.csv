@@ -2985,7 +2985,7 @@ event_city_campaign_35_intro,"Harrowers are a rare sight, both outside of Gloomh
 A bit caught off guard, you ask about the specific kind of spice, but the Harrower makes only unintelligible hisses.
 
 “It is hard to describe. We will know it when we see it. It is very important to our hive.”"
-event_city_campaign_35_option_a,Point the way to the Sinking Market 一 the only place that would deal with them.
+event_city_campaign_35_option_a,Point the way to the Sinking Market—the only place that would deal with them.
 event_city_campaign_35_option_b,Escort the Harrowers to the New Market and help them find a spice merchant.
 event_city_campaign_35_result_a,"You quickly point in the direction of the Sinking Market, assuring the Harrowers they will find exactly what they need there. They chitter and hand you a gold piece, then move on their way."
 event_city_campaign_35_result_b_a,"You make your way to the market with the Harrowers in tow. It’s easy to find a reputable spice merchant, but difficult to get the merchant and the Harrowers to trust each other. In the end, they find common ground through the Plagueherald and make a deal."
@@ -3048,7 +3048,7 @@ You look in the direction of the heat waves to see plumes of fire and smoke risi
 
 The fire rages uncontrollably and there are many wounded residents laying near the blast, screaming in pain.
 
-You also spot something else 一 a hooded figure in a dark robe fleeing from the scene."
+You also spot something else—a hooded figure in a dark robe fleeing from the scene."
 event_city_campaign_40_option_a,Rush to the aid of the residents and help put out the fire.
 event_city_campaign_40_option_b,Pursue the hooded figure and make him answer for this attack.
 event_city_campaign_40_result_a_a,"Some of your group immediately begin to tend to the wounded, bandaging cuts and administering potions."
@@ -3059,7 +3059,7 @@ event_city_campaign_41_intro,"The Sinking Market is a varied area of decrepit hu
 
 “A potion for the big, strong adventurers!” she says as she waves you down. “Help you in battle, it will!”
 
-You are about to push her aside and keep walking when she pulls the potion out of the sack. It glows green in the daylight 一 an impressive, large flask of master craftsmanship.
+You are about to push her aside and keep walking when she pulls the potion out of the sack. It glows green in the daylight—an impressive, large flask of master craftsmanship.
 
 “Aha, I knew it catch your eye! How much you pay?”"
 event_city_campaign_41_option_a,Barter with the Vermling for the potion.
@@ -3081,7 +3081,7 @@ event_city_campaign_43_intro,"You return to your rooms for the evening to find a
 
 It is from the Tinkerer, explaining that he has been pursuing further studies in flammable liquid delivery methods. He asks for your help in delivering to him a small robotic contraption that he absentmindedly left behind in a secret stash under the floorboards of his old room.
 
-He details the device’s location and gives an address to deliver it to 一 some small village far to the northwest."
+He details the device’s location and gives an address to deliver it to—some small village far to the northwest."
 event_city_campaign_43_option_a,Oblige the Tinkerer and send along the contraption.
 event_city_campaign_43_option_b,You don’t want to pay for postage. Just keep the thing for yourself.
 event_city_campaign_43_result_a_a,"Sure enough, under the floorboards of his old room, you find a bunch of parts, tools, and an intricately crafted metal spider. You package it up and ship it off to the Tinkerer. Anything for an old friend."

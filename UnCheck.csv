@@ -1251,7 +1251,7 @@ adventure_achievement_quartermaster_2_desc,軍需官在每個槽位都擁有一�
 adventure_achievement_quartermaster_3,技術兵
 adventure_achievement_quartermaster_3_desc,軍需官使用30次道具
 adventure_achievement_sawbones_1,不想死就跟上我！
-adventure_achievement_sawbones_1_desc,鋸骨醫者在沒有盟友筋疲力盡的情況下贏得10場劇本
+adventure_achievement_sawbones_1_desc,鋸骨醫者在沒有盟友精疲力竭的情況下贏得10場劇本
 adventure_achievement_sawbones_2,乾淨的健康帳單
 adventure_achievement_sawbones_2_desc,鋸骨醫者在不曾讓生命值降到50%以下的情況下贏得10場劇本
 adventure_achievement_sawbones_3,開刀
@@ -1604,11 +1604,8 @@ compendium_advantageanddisadvantage_1,一些攻擊可能從效果或站位中獲
 compendium_advantageanddisadvantage_2,具有<b>優勢</b>的攻擊將抽取兩張修正卡並選擇其中結果更好的進行結算。
 compendium_advantageanddisadvantage_3,具有<b>劣勢</b>的攻擊將抽取兩張修正卡並選擇其中結果更差的進行結算。
 compendium_advantageanddisadvantage_title,優勢和劣勢
-compendium_adventuremode,"在黯淡港灣的公會模式中，你是魔門鎮雇傭軍的領導者。該地區處於危險之中，這裡有擁有各種技能的怪物，讓人們擔心村莊的安全。
 
-你的公會的目標是通過征服困擾著這裡土地的邪惡之物來恢復這些村莊之間的貿易路線 一 這樣做會有很多黃金！
-"
-compendium_adventuremode_title,公會模式
+
 compendium_areaeffects_1,某些技能卡上的某些效果或道具卡上其他能力將允許你在攻擊和使用效果時瞄準多個格子。在這種情況下，在卡牌上將顯示效果作用的能力範圍。你可以旋轉技能區域，你可以在設置中的“目標控制”選項中查看快速鍵。
 compendium_areaeffects_2,卡牌上的紅色六邊形表示受效果影響的格子。
 compendium_areaeffects_3,灰色六邊形表示目前該角色所在的格子。包含有灰色格子的區域攻擊將被視作近戰攻擊。
@@ -1672,14 +1669,14 @@ compendium_discardedandburned_2,"<b>燒毀</b>
 compendium_discardedandburned_3,"<b>永久燒毀</b>
 被永久燒毀的卡牌無法通過任何方式在當前場景中被回收，僅能在當前場景結束時被恢復。"
 compendium_discardedandburned_title,棄牌和燒牌
-compendium_exhaustion,"一個角色會因兩種方式之一而筋疲力盡：
+compendium_exhaustion,"一個角色會因兩種方式之一而精疲力竭：
 
 <indent=15>1.如果一個角色的生命值下降到一點以下。
 
-2.如果在一輪的開始，玩家無法從他或她的手中選擇兩張牌（因為他只有一張或更少的手牌)，並且也不能休息(因為他只有一張或更少的棄牌）。由於卡牌不足而筋疲力盡不影響角色當前的生命值。
+2.如果在一輪的開始，玩家無法從他或她的手中選擇兩張牌（因為他只有一張或更少的手牌)，並且也不能休息(因為他只有一張或更少的棄牌）。由於卡牌不足而精疲力竭不影響角色當前的生命值。
 
-在上述任何一種情況下，角色都會從場景中離開，並且不能以任何方式繼續參加場景。在場景中，沒有方法可以結束筋疲力盡狀態，因此應該不計代價避免該情況。如果在場景中所有角色都筋疲力盡，那麼場景會失敗。因此建議你盡力不要讓這種情況發生！"
-compendium_exhaustion_title,筋疲力盡
+在上述任何一種情況下，角色都會從場景中離開，並且不能以任何方式繼續參加場景。在場景中，沒有方法可以結束精疲力竭狀態，因此應該不計代價避免該情況。如果在場景中所有角色都精疲力竭，那麼場景會失敗。因此建議你盡力不要讓這種情況發生！"
+compendium_exhaustion_title,精疲力竭
 compendium_gainingexperience_1,某些技能卡的行動上，有一個包含數位的星形符號，其中的數位代表角色執行該行動時會獲得的XP。角色必須成功執行至少一個技能才能獲得相應的XP。
 compendium_gainingexperience_2,"有時卡牌上會具體說明，僅在滿足某個條件時（例如， 消耗某種指定元素）授予經驗，或當啟動獎勵觸發了特定次數時授予經驗，次數要求如其XP跟蹤器所示（見<b>啟動獎勵</b>）。
 
@@ -1785,7 +1782,7 @@ compendium_restsandrecoveringcards,"丟棄的卡可以通過執行以下類型�
 
 2.<b>長休息：</b>選擇長休息可以代替選擇技能卡，你可以自己挑選一張被丟棄的卡，將其燒毀，以執行<b>治療2，自身 </b>，同時回收所有其他被丟棄的卡片並刷新所有磨損了的裝備卡，本回合的時序值為<b>99</b>。"
 compendium_restsandrecoveringcards_title,休息和回收卡片
-compendium_retaliate,"<b>反擊X：</b>擁有反擊的角色會在遭受攻擊而沒有死亡或筋疲力盡後會對攻擊者造成X點傷害（遭受反擊傷害不會觸發反擊）。反擊也可以具有<b>射程Y</b>，這意味著反擊效果會對距離Y以內的任何攻擊者生效而不是僅影響近戰範圍。
+compendium_retaliate,"<b>反擊X：</b>擁有反擊的角色會在遭受攻擊而沒有死亡或精疲力竭後會對攻擊者造成X點傷害（遭受反擊傷害不會觸發反擊）。反擊也可以具有<b>射程Y</b>，這意味著反擊效果會對距離Y以內的任何攻擊者生效而不是僅影響近戰範圍。
 
 反擊可以被疊加，並且反擊傷害不需要抽取修正卡也不會被其他任何效果影響，玩家可以燒毀卡牌來阻擋反擊傷害。"
 compendium_retaliate_title,反擊
@@ -1802,18 +1799,14 @@ compendium_roundsummary,"一個場景包括一系列回合，直到玩家符合�
 
 • <indent=15><b>回合結束：</b>
 回合內啟動效果結束，依照效果將其丟棄或燒毀，元素從強烈降為衰減，從衰減降為惰性，如果有修正卡池的默認<b><color=#A050E0>x0</color></b>或<b><color=#D92727>x2</color></b>被抽出，則將該修正卡池洗牌。</indent>"
-compendium_roundsummary_title,回合構成
-compendium_section_abilitiesattack,技能 一 攻擊
-compendium_section_abilitiesmove,技能 一 移動
-compendium_section_abilitiesother,技能 一 其他
-compendium_section_abilitycards,技能卡
-compendium_section_damageandexhaustion,傷害和筋疲力盡
-compendium_section_effectsandconditions,附加效果和狀態
-compendium_section_elements,元素
-compendium_section_experience,經驗值
-compendium_section_items,裝備
+
+
+
+
+
+
 compendium_section_monsterbehaviour,怪物行為
-compendium_section_overview,概述
+
 compendium_selectingcards,"在回合開始時，必須為每個玩家角色選擇兩張能力卡或長休息，以進行使用。
 
 基於選擇的卡牌確定角色在輪次中的行動，以及該角色的時序值。黯淡港灣中大部分策略是基於明智地選擇卡牌並進行正確組合，以利用他們的技能和主動性。
@@ -1824,7 +1817,7 @@ compendium_shield,<b>護盾X：</b>護盾技能會使被攻擊者獲得了一種
 compendium_shield_title,護盾
 compendium_summon,"一些能力可以召喚友軍以幫助你。召喚物會被召喚到與召喚者相鄰的空的格子中。如果沒有可用的格子，則無法使用召喚能力。
 
-召喚物具有生命值，攻擊力，移動力和攻擊射程以及能力卡上寫的任何額外特性。召喚物被認為是一個啟動效果（卡片放在啟動區域），直到召喚物失去其所有生命值，其相應的能力卡會從啟動區域移除，你也可以主動取消召喚物，或者召喚者變得筋疲力盡，此時他的所有召喚物都會消失。
+召喚物具有生命值，攻擊力，移動力和攻擊射程以及能力卡上寫的任何額外特性。召喚物被認為是一個啟動效果（卡片放在啟動區域），直到召喚物失去其所有生命值，其相應的能力卡會從啟動區域移除，你也可以主動取消召喚物，或者召喚者變得精疲力竭，此時他的所有召喚物都會消失。
 
 召喚物的輪次順序總是直接在召喚它的角色之前，並且與該角色的輪次分開，所以召喚物在自己回合中行動時產生的元素可以被召喚者直接使用。召喚物通常不受召喚者控制，而是遵守怪物的規則，永遠都會執行<b>移動X，攻擊Y</b>，其中X和Y分別是其基礎移動力和攻擊力。召喚物使用其召喚者的攻擊修正池來修正其攻擊，召喚物受到的祝福與詛咒會添加給召喚者。
 
@@ -2178,7 +2171,7 @@ error_choreo_00157,Could not process Choreographer Pass Step
 error_choreo_00158,Could not process Choreographer Undo
 error_choreo_00159,無法進行繼續格子選擇
 error_choreo_00160,無法進行取消格子選擇
-error_choreo_00161,無法處理等待筋疲力盡清除
+error_choreo_00161,無法處理等待精疲力竭清除
 error_choreo_00162,無法處理等待獎勵處理
 error_choreo_00163,無法處理強推路徑點選擇
 error_choreo_00164,無法處理拉近路徑點選擇
@@ -3780,7 +3773,7 @@ event_road_campaign_27_intro,"走在小樹林和陡峭懸崖之間的小路上�
 event_road_campaign_27_option_a,把路上的樹清除掉。這是最好的法子，也可以幫助其他旅行者。
 event_road_campaign_27_option_b,花點時間在樹的周圍找條路。
 event_road_campaign_27_result_a_a,這些樹木過於龐大和密集，無法通過傳統的方法清除，但是在自然力量的作用下，它們很快就被摧毀並被掃到一旁。
-event_road_campaign_27_result_a_b,這些樹並不是埋伏的一部分，但清除它們也是非常不容易的。這是一項及其辛苦的工作，當你到達目的地時，你已經筋疲力盡了。
+event_road_campaign_27_result_a_b,這些樹並不是埋伏的一部分，但清除它們也是非常不容易的。這是一項及其辛苦的工作，當你到達目的地時，你已經精疲力竭了。
 event_road_campaign_27_result_b,你繞過被砍伐的樹木進入到旁邊的灌木叢中，但這也很艱難。灌木叢生長的非常密集，而且裡面有許多荊棘要對付。
 event_road_campaign_28_intro,"沿著土路前行，你們看到一個面容難辨的傭兵正坐在一片草叢中。當你們路過時他向你點頭致意。
 
@@ -3923,7 +3916,7 @@ event_road_campaign_40_option_a,就從你面前趟過去，這個方案並不理
 event_road_campaign_40_option_b,順流而下，找一個更合適過河的地方。
 event_road_campaign_40_result_a_a,借助元素的力量，過河輕而易舉。你從一座冰橋上渡過河流，繼續前進。
 event_road_campaign_40_result_a_b,河水的溫度低的難以置信，最糟糕的還不是這個，你全身濕透了，在你終於渡過這條河時，你冷的發抖。
-event_road_campaign_40_result_b,一個小時後，你終於找到了一個充滿亂石的淺灘，這裡河水被分成一個個支流，過河變得很容易，但是找到這個地方加上走回去讓你筋疲力盡。
+event_road_campaign_40_result_b,一個小時後，你終於找到了一個充滿亂石的淺灘，這裡河水被分成一個個支流，過河變得很容易，但是找到這個地方加上走回去讓你精疲力竭。
 event_road_campaign_41_intro,"你正走在一片小樹林裡，突然發現一頭巨大的狗熊穿過樹林向你直沖而來。
 
 你可能不小心走得離他的巢穴太近了，但你不是很確定，你知道只是他現在顯然很憤怒，你只有一點點反應時間。"
@@ -3939,7 +3932,7 @@ event_road_campaign_42_intro,"你正走在路上，一隊商人開著篷車迎�
 他拍了拍你的後背，邀請你上車一起走一段路，這是個追趕進度的好機會。"
 event_road_campaign_42_option_a,同意和商隊一起走。但是如果方向不對怎麼辦？
 event_road_campaign_42_option_b,抱歉的離開商隊，繼續獨自前行。
-event_road_campaign_42_result_a,在你和商隊一起前進，並和他們聊你先前探險的日子的時候，你發現他在激情之餘還有一絲傷心。他解釋說他離開隊伍後就陷入了困境，現在只能做這種工作來謀生。他看起來很受鼓舞，但天色漸晚。當你掉頭回去，最終抵達目的地的時候，你已經是筋疲力盡。
+event_road_campaign_42_result_a,在你和商隊一起前進，並和他們聊你先前探險的日子的時候，你發現他在激情之餘還有一絲傷心。他解釋說他離開隊伍後就陷入了困境，現在只能做這種工作來謀生。他看起來很受鼓舞，但天色漸晚。當你掉頭回去，最終抵達目的地的時候，你已經是精疲力竭。
 event_road_campaign_42_result_b,你向他解釋道，你還有一整天的路程要趕，實在沒時間南轅北轍。在你向他告別後，他很失望，一個人走遠了，非常悲涼。
 event_road_campaign_43_intro,"你大概沒有提前注意到，但有時候人就是會突然內急，你不得不走向一條破敗的小路解決一點私人問題。
 
@@ -9348,7 +9341,7 @@ quest_travel_shadowfieldmanor_intro,你只在嚇唬小孩子的故事中聽說�
 quest_travel_shadowfieldmanor_list,影野莊園的沙德菲爾德家族罕見的發出了求助請求
 quest_travel_shadowfieldmanor_name,兩害相權取其輕
 quest_travel_shimmeringshallows_desc,在進攻奇波特港時你需要螢光海灘提供海港。從民兵那裡奪回來！
-quest_travel_shimmeringshallows_intro,教官讓你去螢光海灘，因為螢光海灘的海港可以為你提供一個寶貴的進攻路線，為你的援軍攻擊奇波特港。這段旅途讓人筋疲力盡，因為地面正在變得越來越濕，沙子越來越多，直到你幾乎陷在沙裡。隨著城鎮的出現，你壓低姿態，尋找最好的地方突襲民兵據點。站在城鎮外面時，你幾乎聽不全民兵的任何一句話。“…現在我來解釋一下。議會讓你駐紮在這裡是因為這個海港是他們的弱點，他們想讓我們都變得更好就難免會遭遇挫折。你是來保護議會的，因為議會預見到了一切危險——就像現在有入侵者在監視我們一樣。”你被發現了！
+quest_travel_shimmeringshallows_intro,教官讓你去螢光海灘，因為螢光海灘的海港可以為你提供一個寶貴的進攻路線，為你的援軍攻擊奇波特港。這段旅途讓人精疲力竭，因為地面正在變得越來越濕，沙子越來越多，直到你幾乎陷在沙裡。隨著城鎮的出現，你壓低姿態，尋找最好的地方突襲民兵據點。站在城鎮外面時，你幾乎聽不全民兵的任何一句話。“…現在我來解釋一下。議會讓你駐紮在這裡是因為這個海港是他們的弱點，他們想讓我們都變得更好就難免會遭遇挫折。你是來保護議會的，因為議會預見到了一切危險——就像現在有入侵者在監視我們一樣。”你被發現了！
 quest_travel_shimmeringshallows_list,確保螢光海灘的海港安全
 quest_travel_shimmeringshallows_name,我們要在海灘上戰鬥...
 quest_travel_silverwick_desc,銀燈芯基地的採礦村曾是來自東部山脈的礦石的主要集散地。雖然發生了地震，但沒有人逃出來。
@@ -10062,7 +10055,7 @@ scenario_campaign_073_success_1,With the Inox dead, you take stock of what you f
 scenario_campaign_073_success_2,It is mostly earthen pots full of ash and bits of bone, but among their belongings, you do find a large tome. ,,,,,,,,,,,,,
 scenario_campaign_073_success_3,It is hacked up and falling apart, but most of the pages are still readable. You carefully stow it in your pack and head back to Gloomhaven.,,,,,,,,,,,,,,
 scenario_campaign_074_objective_1,每名傭兵都必須拾取一個目標寶箱
-scenario_campaign_074_objective_2,在拾取目標寶箱之前，傭兵不會變為筋疲力盡
+scenario_campaign_074_objective_2,在拾取目標寶箱之前，傭兵不會變為精疲力竭
 scenario_campaign_074_room_6_1,As you continue to plunder what you can during the fight, it becomes apparent that these aren‘t just any bandits. They wear the same insignia of the bandit clan that boarded your ship. ,,,,,,,,,,,,,,
 scenario_campaign_074_room_6_2,Unfortunately, it also becomes apparent that there are far more of them than there are of you‘you won‘t survive here much longer. ,,,,,,,,,,,,,,
 scenario_campaign_074_success_1,Confident you‘ve gathered as many of Gavin‘s goods as you can, you decide it would be best to run for your lives. ,,,,,,,,,,,,,,
@@ -10544,7 +10537,7 @@ scenario_puzzle_5a_05,"為了增強<font=""MarcellusAlt SDF""><color=#F5E3B0><b>
 scenario_puzzle_5a_06,"通過消耗冰元素，<b><font=""MarcellusAlt SDF""><color=#F5E3B0>霜凍新星</color></font></b>造成了<b> 3 </b>點傷害而不是 <b>2</b> 點！殺死三個強盜的同時還施加了<link=""Glossary_Immobilize""><b>禁足</b></link>狀態效果，所以剩下的強盜就追不上你了，那可真是個非常強的技能，對吧？"
 scenario_puzzle_5a_07,"<font=""MarcellusAlt SDF""><color=#F5E3B0><b>乘風</b></color></font>同時也充能了<b><link=""Glossary_Air"">氣</link></b>元素以供未來使用。
 
-你可能注意到了，<b>織魔師</b>只剩三張尚未移除的卡牌了，所以下個回合結束時她就會筋疲力盡，因為你無法通過休息來回收移除區的卡牌。"
+你可能注意到了，<b>織魔師</b>只剩三張尚未移除的卡牌了，所以下個回合結束時她就會精疲力竭，因為你無法通過休息來回收移除區的卡牌。"
 scenario_puzzle_5a_08,"幸運的是，<b>織魔師</b>有一個非常強力的秘密能力。她的很多強力卡牌在使用過後都會被移除，但是<font=""MarcellusAlt SDF""><color=#F5E3B0><b>靈能重構</b></color></font>的上半部分允許她將<i>所有</i>移除區的卡牌回收到手裡！把握好這個每個劇本一次的回收所有移除區卡牌的時機是用好<b>織魔師</b>的關鍵。"
 scenario_puzzle_5a_09,"你的目標為：
 <line-height=20%>
