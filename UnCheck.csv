@@ -4761,8 +4761,7 @@ gui_adventure2,公會模式
 gui_adventure_complete,完成！
 gui_ally,隊友
 gui_announce_retirement,宣佈退休
-gui_apply_and_exit,應用並退出
-gui_apply_and_load,應用並載入
+
 gui_assemble_party,組成玩家團隊
 gui_assemble_party_new_character,新雇傭兵！
 gui_assemble_party_new_character_desc,"一個新的雇傭兵已被添加到名單中！
@@ -4877,8 +4876,7 @@ gui_confirm_push,確認推遠
 gui_confirm_targets,確認目標
 gui_confirm_use_item,使用物品
 
-gui_confirmation_abandon_adventure_scenario,本劇本您將以失敗結束，並返回地圖介面。您將保留任何已賺取的金幣，經驗值XP和成就進度。
-gui_confirmation_abandon_single_scenario,本劇本您將以失敗結束，並返回主選單。
+
 gui_confirmation_buy,購買{0}
 gui_confirmation_buy_cost,成本
 gui_confirmation_cancel_ability,{0}將被燒祭，此卡中的任何其他場上的卡牌獎勵將結束
@@ -5483,10 +5481,8 @@ gui_opt_control_reset,重置
 
 
 gui_opt_interface,介面
-gui_opt_interface_ability_focus_outlines,禁用技能卡焦點輪廓
-gui_opt_interface_mouse_hover_outlines,禁用滑鼠懸停輪廓
-gui_opt_lang_apply,應用不同的語言需要遊戲重新載入
-gui_opt_lang_title,需要採取的行動
+
+
 
 gui_other_player_retirement_tooltip,"<size=+2><color=#EACF8C>退休</color></size>
 你的團隊中的一個雇傭兵馬上要退休。
