@@ -5672,7 +5672,7 @@ gui_opt_control_other_dc_hero1,展示1號傭兵卡片,,,
 gui_opt_control_other_dc_hero2,展示2號傭兵卡片,,,
 gui_opt_control_other_dc_hero3,展示3號傭兵卡片,,,
 gui_opt_control_other_dc_hero4,展示4號傭兵卡片,,,
-gui_opt_control_other_hi,突顯可互動項目,,,
+gui_opt_control_other_hi,突顯可互動的物件,,,
 gui_opt_control_reset,重置,,,
 gui_opt_control_scenario,劇本控制,,,
 gui_opt_control_scenario_burn_2_cards,焚燒兩張卡,,,
@@ -6002,7 +6002,7 @@ gui_tooltip_forgo_actions_for_companion,放棄你的頂部和/或頂部行動用
 gui_tooltip_helpbox improved_short_rest_title,<color=#B52828>無法停止的破壞</color>。,,,
 gui_tooltip_item_single_target_tip,選擇一個目標以使用該物品。,,,
 gui_tooltip_item_single_target_title,單目標物品。,,,
-gui_tooltip_long_rest,焚燒一張能力卡，然後獲得2點血。,,,
+gui_tooltip_long_rest,焚燒一張能力卡，然後恢復 <b>2</b> 點生命值。,,,
 gui_tooltip_not_enough_targets_selected,沒有選擇足夠的目標,,,
 gui_tooltip_player_disarmed,"{0}被<color=#A050E0>繳械</color><size=180%><sprite name=""HoverDisarmed""></size>了。",,,
 gui_tooltip_player_immobilized,"{0}被<color=#A050E0>禁足</color><size=180%><sprite name=""HoverImmobilized""></size>了。",,,
@@ -6543,8 +6543,8 @@ livingspiritelite,不死精神體精英,,,
 loading_tip_001,儘量選擇承受傷害，損失生命值，而不是選擇焚燒牌來抵擋傷害 一 比起恢復燼牌堆的牌，回復生命值更容易！,,,
 loading_tip_002,注意陷阱！它們會不定時發光讓你更容易發現它們。,,,
 loading_tip_003,你可以使用強推和拉近技能來強迫敵人觸發陷阱。,,,
-loading_tip_004,你可以通過按Tab來高亮關卡中的物品和單位。,,,
-loading_tip_005,你可以通過長按Alt來查看所有傭兵的手牌和物品。,,,
+loading_tip_004,你可以通過按住Tab來突顯關卡中的可互動的物件。,,,
+loading_tip_005,你可以通過按住Alt來查看所有傭兵的手牌和物品。,,,
 loading_tip_006,使用<align=center><b>R</b><color=#CCCCCC>鍵來旋轉AOE技能的攻擊區域，以便與敵人們的站位更加貼合。,,,
 loading_tip_007,不要只專注於你自己，也要和你其他的團隊成員一起配合。,,,
 loading_tip_008,卡頂部的移動能力和下半部分的攻擊能力並不常用，但在某些特殊情況下也不失為一種選擇。,,,
@@ -10722,20 +10722,22 @@ scenario_puzzle_2a_02,"<color=#A06E4B>野蠻人</color>只剩最後 <b>1</b> 點
 （在訓練關卡中，攻擊修正卡牌庫全部都是<color=orange><b> +0 </b></color>修正卡，所以暫時不用考慮它們。）",,,
 scenario_puzzle_2a_03,"你本回合的目標為：
 <line-height=20%>
-<line-height=100%>→ 執行單次<color=#FADC99>進攻</color><sprite name=Attack>殺死<color=#C53F3F>【精英】強盜弓箭手</color>
-→ <color=#FADC99><b>拾取</b></color><sprite name=Loot>她掉落的金幣
+<line-height=100%>→ 執行單次<color=#1F9EDC>進攻</color><sprite name=Attack>殺死<color=#C53F3F>【精英】強盜弓箭手</color>
+→ <color=#1F9EDC>拾取</color><sprite name=Loot>她掉落的金幣
 <line-height=20%>
 <line-height=100%>相信你能夠完成任務！",,,
-scenario_puzzle_2a_04,當心！<color=#A06E4B><b>野蠻人</b></color>只剩下最後1點生命值了，這意味著他無法承擔更多傷害......再試一次吧！但這次要選擇<color=#FADC99>焚燒</color>一張手牌來避免傷害。,,,
-scenario_puzzle_2a_05,能夠活下來是還算不錯，但你的目標是殺死<nobr><color=#C53F3F>【精英】強盜弓箭手</color></nobr>。或許你手牌裡有張帶有<nobr><color=#FADC99>攻擊</color><sprite name=Attack></nobr>的能力卡可以一次性造成足夠的傷害？再試一次吧！,,,
-scenario_puzzle_2a_06,嘣！<color=#32E632>力劈華山</color>是一張強牌，但是強大的力量總是伴隨著代價。在<color=#32E632>力劈華山</color>的頂部，動作描述的右下角有著燃燒符號，此類的<color=#FADC99>動作</color>在使用過後會將卡片<color=#FADC99>焚燒</color>，這意味著在這個劇本中你無法再次使用這張卡。現在，該收集那些金幣了！,,,
+scenario_puzzle_2a_04,當心！<color=#A06E4B>野蠻人</color>只剩下最後1點生命值了，這意味著他無法承擔更多傷害......再試一次吧！但這次要選擇<color=#FADC99>焚燒</color>一張手牌來避免傷害。,,,
+scenario_puzzle_2a_05,能夠活下來是還算不錯，但你的目標是殺死<nobr><color=#C53F3F>【精英】強盜弓箭手</color></nobr>。或許你手牌裡有張帶有<nobr><color=#1F9EDC>進攻</color><sprite name=Attack></nobr>的能力卡可以一次性造成足夠的傷害？再試一次吧！,,,
+scenario_puzzle_2a_06,"嘣！<color=#32E632>力劈華山</color>是一張強牌，但是強大的力量總是伴隨著代價。在<color=#32E632>力劈華山</color>的頂部，動作描述的右下角有著燃燒符號，此類的<color=#FADC99>動作</color>在使用過後會將卡片<color=#FADC99>焚燒</color>，這意味著在這個劇本中你無法再次使用這張卡。
+
+現在，該收集那些金幣了！",,,
 scenario_puzzle_2a_07,做得不錯！敵人被消滅乾淨並且目標也完成了，劇本一般就到此結束了，那個寶箱會被留在這裡。但是在訓練關卡中，我會給你一個新的目標：收集那個寶箱！,,,
 scenario_puzzle_2a_08,"在一頭栽進那個陷阱之前，你可能想先恢復一些生命值。我建議你進行一個<color=#FADC99>長休息</color>，這會讓你執行<color=#1F9EDC>治療<sprite name=Heal></color> <b>2</b> 並且回收棄牌堆的牌，足以讓你承擔陷阱的 <b>2</b> 點傷害並且接近寶箱。",,,
 scenario_puzzle_2a_09,噢！看著就很疼！<color=#FADC99>短休息</color>在你想立刻獲得一些卡時是不錯的選擇，但是它不能提供<color=#FADC99>長休息</color>的治療部分...下次確保選擇正確的休息方式！,,,
-scenario_puzzle_2a_10,"那<color=#FADC99>拾取</color>寶箱的事就不管了？雖然聽上去很疼，但是下次你必須得踩上陷阱才能到達寶箱。",,,
-scenario_puzzle_2a_11,"噢！那雙<color=#F8F8F8>飛跨之靴</color>在你需要一些額外移動力的時候就能夠派上用場了。好了，現在前往下一場訓練吧！",,,
+scenario_puzzle_2a_10,"那<color=#1F9EDC>拾取</color>寶箱的事就不管了？雖然聽上去很疼，但是下次你必須得踩上陷阱才能到達寶箱。",,,
+scenario_puzzle_2a_11,"噢！那雙<color=#FFB300>飛跨之靴</color>在你需要一些額外移動力的時候就能夠派上用場了。好了，現在前往下一場訓練吧！",,,
 scenario_puzzle_2a_12,不貪財的傭兵不是好傭兵；在你有機會的時候最好站在金幣上結束你的回合！,,,
-scenario_puzzle_2a_13,"在你殺死<color=#C53F3F>強盜弓箭手</color>後，你需要移動到金幣上來<color=#FADC99>拾取</color><sprite name=Loot>它。或許你手牌裡有張帶有<color=#FADC99><b><link=""Glossary_Attack"">攻擊</link></b></color><sprite name=Attack>的能力卡可以一次性造成足夠的傷害？再試一次吧。",,,
+scenario_puzzle_2a_13,"在你殺死<color=#C53F3F>強盜弓箭手</color>後，你需要移動到金幣上來<color=#1F9EDC>拾取</color><sprite name=Loot>它。或許你手牌裡有張帶有<color=#FADC99>攻擊</color><sprite name=Attack>的能力卡可以一次性造成足夠的傷害？再試一次吧。",,,
 scenario_puzzle_2a_ht_01,焚燒一張手牌以避免傷害,,,
 scenario_puzzle_2a_ht_02,選擇一張棄牌堆裡的牌將其焚燒,,,
 scenario_puzzle_2a_ht_03,移動到陷阱上並承受傷害,,,
@@ -10747,16 +10749,16 @@ scenario_puzzle_2a_obj_04,進行一次長休息,,,
 scenario_puzzle_2a_obj_05,收集寶箱,,,
 scenario_puzzle_2a_tb_01,,,,
 scenario_puzzle_2a_tb_02,,,,
-scenario_puzzle_2b_01,"現在，你已經學會了基礎的<color=#FADC99><b><link=""Glossary_Attack"">攻擊</link></b></color>和<color=#FADC99><b><link=""Glossary_Move"">移動</link></b></color>技能，但是這次我們要嘗試使用一些帶有<color=#FADC99><b>附加效果</b></color>的技能。",,,
-scenario_puzzle_2b_02,"在現在這種情況下，一個帶有<color=#FADC99><b><link=""Glossary_Jump"">跳躍</link></b></color><sprite name=Jump>效果的<color=#FADC99><b><link=""Glossary_Move"">移動</link></b></color>行動可以起到奇效。<color=#FADC99><b><link=""Glossary_Jump"">跳躍</link></b></color><sprite name=Jump>允許你穿越障礙物或者敵人、還可以在不觸發陷阱的情況下越過陷阱，只要你保證最後停留的那個格子是空的就行。",,,
-scenario_puzzle_2b_03,"你上次撿到的那雙<b><color=#F8F8F8>飛跨之靴</color></b>能夠為一個<color=#FADC99><b><link=""Glossary_Move"">移動</link></b></color>技能提供兩個格子的額外移動力。這會允許你在這個行動輪中走的更遠。",,,
-scenario_puzzle_2b_04,"你所能夠造成的傷害都還不足以一擊必殺，但是如果你動作夠快，你也許可以在她進行<color=#FADC99><b><link=""Glossary_Attack"">攻擊</link></b></color>前給她施加<nobr><link=""Glossary_Disarm""><color=#FADC99><b>繳械</b></color><sprite name=Disarm></link></nobr>狀態！",,,
+scenario_puzzle_2b_01,現在，你已經學會了基本的<color=#1F9EDC>進攻</color><sprite name=Attack>和<color=#1F9EDC>前進</color><sprite name=Move>，但是這次我們要嘗試使用一些帶有<color=#FADC99>附加效果</color>的能力。,,,
+scenario_puzzle_2b_02,在現在這種狀況的時候，一個帶有<color=#1F9EDC>跳躍</color><sprite name=Jump>效果的<color=#FADC99>移動</color>可以起到奇效。<color=#FADC99>跳躍</color><sprite name=Jump>允許你穿越障礙物或者敵人、還可以在不觸發陷阱的情況下越過陷阱，只要你保證最後停留的那個格子是空的就行。,,,
+scenario_puzzle_2b_03,你上次撿到的那雙<color=#FFB300>飛跨之靴</color>能夠為一個<color=#FADC99>前進</color><sprite name=Move>提供兩格的額外移動力。這會讓你在這個輪次中走得更遠。,,,
+scenario_puzzle_2b_04,你能夠造成的傷害還不足以一擊必殺，但是如果你動作夠快，你也許可以在她進行<color=#FADC99>攻擊</color>前給她施加<nobr><color=#1F9EDC>繳械</color><sprite name=Disarm></nobr>狀態！,,,
 scenario_puzzle_2b_05,"你第一個回合的目標為：
 <line-height=20%>
-</line-height>→ 用一個帶有<link=""Glossary_Jump""><color=#FADC99><b>跳躍</b></color><sprite name=Jump></link>的移動來無傷穿過陷阱
-→ 在<color=#C53F3F>強盜弓箭手</color>執行攻擊前對她施加<color=#FADC99><link=""Glossary_Disarm""><b>繳械</b></link></color>狀態
+<line-height=100%>→ 用一個帶有<color=#1F9EDC>跳躍</color><sprite name=Jump>的移動來無傷穿過陷阱
+→ 在<color=#C53F3F>強盜弓箭手</color>執行攻擊前對她施加<color=#1F9EDC>繳械</color>狀態
 <line-height=20%>
-</line-height>祝你好運！",,,
+<line-height=100%>祝你好運！",,,
 scenario_puzzle_2b_06,她非常敏捷還是遠距攻擊，你需要快速行動來接近她  一 別忘了用上靴子！,,,
 scenario_puzzle_2b_07,"這裡的關鍵是越過那些陷阱，因此你需要利用帶有<link=""Glossary_Jump""><color=#FADC99><b>跳躍</b></color><sprite name=Jump></link>效果的<link=""Glossary_Move""><color=#FADC99><b>移動</b></color><sprite name=Move></link>來避免傷害。",,,
 scenario_puzzle_2b_08,"你做到了！你不僅是造成了可觀的傷害，更得益於你用<b><color=#32E632>嘲諷戰吼</color></b>施加的<link=""Glossary_Disarm""><color=#FADC99><b>繳械</b></color><sprite name=Disarm></link>狀態，使得<color=#C53F3F>強盜弓箭手</color>在她的行動輪中無法進行攻擊。",,,
@@ -10795,7 +10797,7 @@ scenario_puzzle_2c_10,你可以通過去到這個房間裡更深的地方來脫�
 scenario_puzzle_2c_11,你避開了<color=#C53F3F>強盜弓箭手</color>的追擊，幹得漂亮！,,,
 scenario_puzzle_2c_12,但是你沒有避開這個<color=#C53F3F><b>衛兵</b></color>，這就表現不太好了...我猜或許有辦法阻止他的攻擊？,,,
 scenario_puzzle_2c_13,精彩絕倫！你表現得越來越專業了！,,,
-scenario_puzzle_2c_14,"那個<link=""Glossary_Disarm""><color=#FADC99><b>繳械</b></color></link>怎麼樣？真是一個相當不錯的狀態效果，對吧？並且還有很低的<b> 10 </b>優先權，使得<color=#32E632>嘲諷戰吼</color>成為一張非常靈活的牌來回避一些小規模摩擦。",,,
+scenario_puzzle_2c_14,"那個<color=#1F9EDC>繳械</color>怎麼樣？真是一個相當不錯的狀態效果，對吧？並且還有很低的<b> 10 </b>優先權，使得<color=#32E632>嘲諷戰吼</color>成為一張非常靈活的牌來回避一些小規模摩擦。",,,
 scenario_puzzle_2c_15,接下來是最後一場訓練，完成後你就已經準備就緒，可以去探索世界並為我們的公會招募傭兵了！,,,
 scenario_puzzle_2c_16,你受到了攻擊！注意敵人這一輪的移動範圍。你需要避開所有敵人！,,,
 scenario_puzzle_2c_obj_1,在2個回合內不要受到任何攻擊,,,
@@ -10831,9 +10833,9 @@ scenario_puzzle_2d_obj_03,在本回合中拾取寶箱,,,
 scenario_puzzle_3a_01,"讓我們來仔細看看每個角色分別能夠做些什麼。在這個劇本中，<b>野蠻人</b>要面對兩個<b> 1 </b>級的<b>骷髏精英</b>  一 意味著它們的屬性相比<b> 0 </b>級時更高一些。
 
 在回合開始時你看到的揭露出來的“怪物能力卡”由那個怪物的種類和從對應種類的怪物技能牌堆中抽出的基本能力卡共同決定。因此，有時候它們能夠移動的更遠或者獲得更高的攻擊力，更別說這兩個骷髏還是<link=""Glossary_Elite""><b>精英</b></link>級別的了！",,,
-scenario_puzzle_3a_02,"注意它們有一個先天的<b><link=""Glossary_Shield"">護盾</link></b><b> 1 </b>效果，用<sprite name=Shield>圖示來顯示。每一點<b><link=""Glossary_Shield"">護盾</link></b>效果可以阻擋一點來自於<b><link=""Glossary_Attack"">攻擊</link></b>的傷害。
+scenario_puzzle_3a_02,"注意它們有一個先天的<b><link=""Glossary_Shield"">護盾</link></b><b> 1 </b>效果，用<sprite name=Shield>圖示來顯示。每一點<b><link=""Glossary_Shield"">護盾</link></b>效果可以阻擋一點來自於攻擊的傷害。
 
-然而，當使用帶有<b><link=""Glossary_Pierce"">穿透</link></b><sprite name=Pierce>效果的<b><link=""Glossary_Attack"">攻擊</link></b>時可以忽略<b><link=""Glossary_Shield"">護盾</link></b>的部分效果。",,,
+然而，當使用帶有<b><link=""Glossary_Pierce"">穿透</link></b><sprite name=Pierce>效果的攻擊時可以忽略<b><link=""Glossary_Shield"">護盾</link></b>的部分效果。",,,
 scenario_puzzle_3a_04,"嗯...我得到了一些可靠情報，在這個回合中這些<b>骷髏</b>將進行不止一次攻擊。然而你的牌不多了，無法承擔移除更多卡的代價，所以這時候要想活下去，你需要給自己啟動一些<b><link=""Glossary_Shield"">護盾</link></b>。
 
 順便說一下，雖然這些敵人的<b><link=""Glossary_Shield"">護盾</link></b>是先天的持續效果，平時像是<b><link=""Glossary_Shield"">護盾</link></b>這樣的<b>啟動獎勵</b>都會伴隨著一個<link=""Glossary_Round""><b>回合</b></link><sprite name=Round>或是<link=""Glossary_Persistent""><b>持續</b></link><sprite name=Persistent>圖示。",,,
@@ -10843,7 +10845,7 @@ scenario_puzzle_3a_07,這個時候逃跑可不能幫助你取得勝利。給我�
 scenario_puzzle_3a_08,"你確實殺死了一些<b>骷髏</b>，但是如果你移除了卡，下個回合就沒有足夠的牌可以用了。別忘了使用藥水和<b><link=""Glossary_Shield"">護盾</link></b>技能。",,,
 scenario_puzzle_3a_09,"哇哦，那可真是猛烈地攻擊！還好，你的<b><link=""Glossary_Shield"">護盾</link></b>幫你阻擋了足夠多的傷害，所以<b>野蠻人</b>還活著。真是驚險！",,,
 scenario_puzzle_3a_10,最終目標：殺死剩下的<b>骷髏</b> 一 祝你好運，它可是非常的皮糙肉厚！,,,
-scenario_puzzle_3a_11,"給你個小提示：或許你可以試著利用<b><link=""Glossary_Push"">強推</link></b>加陷阱的組合？記住<b><link=""Glossary_Shield"">護盾</link></b>只能阻擋來自於<b><link=""Glossary_Attack"">攻擊</link></b>的傷害，但是對於來自於像是陷阱這樣的直接傷害不會起到任何作用！",,,
+scenario_puzzle_3a_11,"給你個小提示：或許你可以試著利用<b><link=""Glossary_Push"">強推</link></b>加陷阱的組合？記住<b><link=""Glossary_Shield"">護盾</link></b>只能阻擋來自於攻擊的傷害，但是對於來自於像是陷阱這樣的直接傷害不會起到任何作用！",,,
 scenario_puzzle_3a_12,他這一回合不會很快轉行行動，所以你也許可以在他有機會幹掉你之前殺死他！,,,
 scenario_puzzle_3a_13,"別忘了執行短休息來拿回<color=#32E632><b>守護之力</b></color>以便把骷髏<b>強推</b>到陷阱上。",,,
 scenario_puzzle_3a_14,又一次拯救了<b>野蠻人</b>！我聽說他不想再獨自冒險了，所以他願意成為你公會裡的第一名傭兵！恭喜！,,,
@@ -10872,7 +10874,7 @@ scenario_puzzle_3b_05,"哈哈！在單個行動輪中瞄準多個目標的感覺
 <line-height=20%>
 </line-height> 小提示 一 有時一張卡的頂部也會允許你執行移動技能！",,,
 scenario_puzzle_3b_06,"拾取技能會收集所示射程距離內的<i>所有</i>金幣，所以好好想想你應該站在哪裡進行拾取吧！",,,
-scenario_puzzle_3b_07,"你需要在<link=""Glossary_Loot""><b>拾取</b></link>前先進行<b><link=""Glossary_Move"">移動</link></b>，而且不是所有<b><link=""Glossary_Move"">移動</link></b>技能都在能力卡的下半部分！",,,
+scenario_puzzle_3b_07,"你需要在<link=""Glossary_Loot""><b>拾取</b></link>前先進行前進，而且不是所有前進技能都在能力卡的下半部分！",,,
 scenario_puzzle_3b_08,漂亮！暫時就讓我來替你保管這些金幣吧...,,,
 scenario_puzzle_3b_09,因為你在這個劇本中的幫助，<b>凶徒</b>已經同意加入公會 一 意味著現在我們擁有足夠多的傭兵來進行正式的任務！,,,
 scenario_puzzle_3b_obj_01,本回合中在敵人行動前殺死3個弓箭手,,,
@@ -10886,11 +10888,11 @@ scenario_puzzle_5a_01,這一位是<b>織魔師</b>，一名能夠利用大自然
 scenario_puzzle_5a_02,"為了讓她擺脫這個困境，你需要利用戰場中的元素力量。元素的充能情況顯示在螢幕的右側，表示哪種魔法元素可以被使用。在這個劇本中，<b><link=""Glossary_Ice"">冰</link></b>元素已經充能完畢了，但是一般情況下使用帶有元素符號的動作充能出來的元素只會維持兩個回合，並且在執行充能的那個行動輪結束之後才允許被消耗，即不能同一個行動輪中先充能再立刻使用。",,,
 scenario_puzzle_5a_03,"本回合的目標為：
 <line-height=20%>
-</line-height>→ 消耗<b><link=""Glossary_Ice"">冰</link></b>元素來增強<color=#32E632><b>霜凍新星</b></color>的<b><link=""Glossary_Attack"">攻擊</link></b>，盡可能多的殺死強盜
+</line-height>→ 消耗<b><link=""Glossary_Ice"">冰</link></b>元素來增強<color=#32E632><b>霜凍新星</b></color>的攻擊，盡可能多的殺死強盜
 → 通過使用一次<b>跳躍移動</b>脫離攻擊範圍並在這個回合存活下來
 <line-height=20%>
 </line-height>",,,
-scenario_puzzle_5a_04,"在用霜凍新星攻擊強盜之後你需要用<b><link=""Glossary_Jump"">跳躍</link></b>前往安全位置！",,,
+scenario_puzzle_5a_04,"在用霜凍新星攻擊強盜之後你需要用跳躍前往安全位置！",,,
 scenario_puzzle_5a_05,"為了增強<color=#32E632><b>霜凍新星</b></color>你需要在使用它之前先消耗<b><link=""Glossary_Ice"">冰</link></b>元素。確保你在執行行動前先點擊<b><link=""Glossary_Ice"">冰</link></b>元素的符號來對它進行消耗。",,,
 scenario_puzzle_5a_06,"通過消耗冰元素，<b><color=#32E632>霜凍新星</color></b>造成了 <b>3</b> 點傷害而不是 <b>2</b> 點！殺死三個強盜的同時還施加了<link=""Glossary_Immobilize""><b>禁足</b></link>狀態效果，所以剩下的強盜就追不上你了，那可真是個非常強的技能，對吧？",,,
 scenario_puzzle_5a_07,"<color=#32E632><b>乘風</b></color>同時也充能了<b><link=""Glossary_Air"">氣</link></b>元素以供未來使用。
@@ -10903,7 +10905,7 @@ scenario_puzzle_5a_09,"你的目標為：
 <line-height=20%>
 </line-height><color=#32E632>靈能重構</color>可以回收所有移除區的牌，所以你應該可以輕鬆搞定這些強盜！",,,
 scenario_puzzle_5a_10,因為幫助<b>織魔師</b>脫離險境，她同意加入我們的公會！如你所見，她的技能非常強大，但是因為需要更複雜的策略使得她成為一名難度較高的角色。,,,
-scenario_puzzle_5a_11,"利用她的技能再試一次吧。記得消耗元素來增強技能，並且不要因“用<b><link=""Glossary_Range"">遠程</link></b><b><link=""Glossary_Attack"">攻擊</link></b>相鄰目標時”而使自己處於<b><link=""Glossary_Disadvantage"">劣勢</link></b>！",,,
+scenario_puzzle_5a_11,"利用她的技能再試一次吧。記得消耗元素來增強技能，並且不要因“用<b><link=""Glossary_Range"">遠程</link></b>攻擊相鄰目標時”而使自己處於<b><link=""Glossary_Disadvantage"">劣勢</link></b>！",,,
 scenario_puzzle_5a_obj_01,使用一次“跳躍移動”在本回合存活下來,,,
 scenario_puzzle_5a_obj_02,消耗冰元素來增強霜凍新星並且殺死生命值較低的強盜,,,
 scenario_puzzle_5a_obj_03,殺死剩下的強盜,,,
@@ -10932,16 +10934,16 @@ scenario_puzzle_6a_02,你找到了一個防禦薄弱的鼠人族營地。把這�
 scenario_puzzle_7a_01,"看看這個人見人愛的移動巨石 一 <b>裂心石人</b>。我們的人數真是壓倒性的不利，看來需要採取一些防禦戰術。讓我們來看看<b><link=""Glossary_Retaliate"">反擊</link></b><sprite name=Retaliate>是如何起到作用並且幫助裂心石人擺脫這個困境的。",,,
 scenario_puzzle_7a_02,"與<b><link=""Glossary_Shield"">護盾</link></b>類似，<b><link=""Glossary_Retaliate"">反擊</link></b>是一種<b>啟動獎勵</b>，通常維持一個<link=""Glossary_Round""><b>回合</b></link><sprite name=Round>或是<link=""Glossary_Persistent""><b>持續</b></link><sprite name=Persistent>生效，直到稍晚些時候滿足終止條件時會被取消。
 
-當反擊處於啟動狀態時，使用近戰攻擊的單位會在每次執行<b><link=""Glossary_Attack"">攻擊</link></b>後受到和<b><link=""Glossary_Retaliate"">反擊</link></b>所標示數值等量的傷害。",,,
-scenario_puzzle_7a_03,"當被這麼多的<b>骷髏</b>包圍時，在他們<b><link=""Glossary_Attack"">攻擊</link></b>後造成的反擊傷害也非常可觀...當然，前提是如果你能在本回合中存活下來！
+當反擊處於啟動狀態時，使用近戰攻擊的單位會在每次執行攻擊後受到和<b><link=""Glossary_Retaliate"">反擊</link></b>所標示數值等量的傷害。",,,
+scenario_puzzle_7a_03,"當被這麼多的<b>骷髏</b>包圍時，在他們攻擊後造成的反擊傷害也非常可觀...當然，前提是如果你能在本回合中存活下來！
 
 噢，還有一件事：<b><link=""Glossary_Earth"">土</link></b>元素已經充能就緒，如果你想使用元素來增強技能的話別忘了點擊<sprite name=ConsumeEarth>圖示來消耗這個元素！",,,
-scenario_puzzle_7a_04,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">反擊</link></b>，但是另一個動作你可以用來執行<b><link=""Glossary_Attack"">攻擊</link></b>。<color=#32E632><b>雪崩</b></color>是個不錯的牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！",,,
-scenario_puzzle_7a_05,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">反擊</link></b>，但是另一個動作你可以用來執行<b><link=""Glossary_Attack"">攻擊</link></b>。<color=#32E632><b>雪崩</b></color>是個不錯的牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！",,,
+scenario_puzzle_7a_04,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">反擊</link></b>，但是另一個動作你可以用來執行攻擊。<color=#32E632><b>雪崩</b></color>是個不錯的牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！",,,
+scenario_puzzle_7a_05,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">反擊</link></b>，但是另一個動作你可以用來執行攻擊。<color=#32E632><b>雪崩</b></color>是個不錯的牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！",,,
 scenario_puzzle_7a_06,"你受到了一些傷害，但是取得了不錯的成果！一個時機恰當的<b><link=""Glossary_Retaliate"">反擊</link></b>一樣能成為毀滅性的力量。
 
 另外，看看螢幕上方<b>裂心石人</b>的頭像，你能看到來自於<color=#32E632><b>左右開弓</b></color>的<b>啟動獎勵</b>仍在生效。這個<b>啟動獎勵</b>的小方格可以快速提示你還剩幾次獎勵可以啟動，並且當你將滑鼠懸停在上面時可以進一步確認效果描述和經驗獲取的詳情。",,,
-scenario_puzzle_7a_07,"除此以外，你注意到<b>骷髏</b>們的<b><link=""Glossary_Shield"">護盾</link></b>並沒有阻擋<b><link=""Glossary_Retaliate"">反擊</link></b>的傷害了嗎？就像陷阱一樣，<b><link=""Glossary_Retaliate"">反擊</link></b>傷害不視作是一次<b><link=""Glossary_Attack"">攻擊</link></b>，並且造成的傷害數值和標示的一模一樣，不會被<b><link=""Glossary_Shield"">護盾</link></b>、攻擊修正卡或是其他類似的效果影響。",,,
+scenario_puzzle_7a_07,"除此以外，你注意到<b>骷髏</b>們的<b><link=""Glossary_Shield"">護盾</link></b>並沒有阻擋<b><link=""Glossary_Retaliate"">反擊</link></b>的傷害了嗎？就像陷阱一樣，<b><link=""Glossary_Retaliate"">反擊</link></b>傷害不視作是一次攻擊，並且造成的傷害數值和標示的一模一樣，不會被<b><link=""Glossary_Shield"">護盾</link></b>、攻擊修正卡或是其他類似的效果影響。",,,
 scenario_puzzle_7a_08,現在，殺死這些骷髏好讓我們離開這裡！,,,
 scenario_puzzle_7a_09,"別忘了你還有兩次來自於<color=#32E632><b>左右開弓</b></color>的<b><link=""Glossary_Retaliate"">反擊</link></b>啟動次數，因此你可以把它們的傷害也考慮進去。或者說還有什麼其他的方法能夠穿透敵人的<b><link=""Glossary_Shield"">護盾</link></b>來直接擊敗這些骷髏呢？",,,
 scenario_puzzle_7a_10,幹得漂亮！儘管一開始看上去像是個不可完成的挑戰，但是如果你合理地使用卡，即便是最複雜的狀況你也能夠應對。,,,
@@ -10952,7 +10954,7 @@ scenario_puzzle_7b_01,"來認識下最後一位元新人，<b>亂心賊</b>。�
 <b><link=""Glossary_Summon"">召喚物</link></b>會在它的召喚者行動輪開始前自發地執行動作，並且每次都會執行一個<b>“<link=""Glossary_Move"">移動</link> X，<link=""Glossary_Attack"">攻擊</link> Y”</b>的行動，其中<b>X</b>和<b>Y</b>分別是它們所標示出來的基本屬性數值。",,,
 scenario_puzzle_7b_02,"正好<b>亂心賊</b>在討伐惡魔，你能夠見識一下更厲害的敵人 一 <b>暗夜惡魔</b>。
 
-這種恐怖生物擁有一個固有技能來讓攻擊者們在“以它們作為目標執行任何<b><link=""Glossary_Attack"">攻擊</link></b>”時處於<b><link=""Glossary_Disadvantage"">劣勢</link></b>狀態，這使得它們通常很難對付。也許你可以試試通過非<b><link=""Glossary_Attack"">攻擊</link></b>的手段從而造成一些直接傷害來殺死它們？",,,
+這種恐怖生物擁有一個固有技能來讓攻擊者們在“以它們作為目標執行任何攻擊”時處於<b><link=""Glossary_Disadvantage"">劣勢</link></b>狀態，這使得它們通常很難對付。也許你可以試試通過非攻擊的手段從而造成一些直接傷害來殺死它們？",,,
 scenario_puzzle_7b_03,"你本回合的目標為：
 <line-height=20%>
 </line-height>→ <b><link=""Glossary_Summon"">召喚</link></b>一名盟友
@@ -10960,7 +10962,7 @@ scenario_puzzle_7b_03,"你本回合的目標為：
 <line-height=20%>
 </line-height>一個重要提示：當你和你的<b><link=""Glossary_Summon"">召喚物</link></b>距離相同時，敵人會優先專注於你的召喚物。好好利用這一點！",,,
 scenario_puzzle_7b_04,"使用<color=#32E632><b>齧噬部落</b></color>來召喚一個“鼠群”，它能協助你戰勝這些惡魔！",,,
-scenario_puzzle_7b_05,"雖然你的<b><link=""Glossary_Push"">強推</link></b>能力卡已經被<link=""Glossary_burn"">移除</link>了，但是或許有其他辦法來讓一個敵人強制<b><link=""Glossary_Move"">移動</link></b>到陷阱上來承受一些直接傷害？",,,
+scenario_puzzle_7b_05,"雖然你的<b><link=""Glossary_Push"">強推</link></b>能力卡已經被<link=""Glossary_burn"">移除</link>了，但是或許有其他辦法來讓一個敵人強制前進到陷阱上來承受一些直接傷害？",,,
 scenario_puzzle_7b_06,"你的最終目標為：
 <line-height=20%>
 </line-height>→ 殺死剩餘的暗夜惡魔
@@ -10968,9 +10970,9 @@ scenario_puzzle_7b_06,"你的最終目標為：
 </line-height>",,,
 scenario_puzzle_7b_07,"<b>亂心賊</b>還有一個特色是擁有一些帶有<b><link=""Glossary_Augment"">增強</link></b>技能的牌，比如<color=#32E632>凋零之爪</color>。
 
-在這種技能啟動時，會在她的近戰攻擊中提供<link=""Glossary_Persistent""><b>持續</b></link>buff，不過通常她只能同時啟動一個<b><link=""Glossary_Augment"">增強</link></b>技能。當處於<b><link=""Glossary_Augment"">增強</link></b>的啟動狀態時，這些增益會直接追加到<b><link=""Glossary_Attack"">攻擊</link></b>行動中。",,,
+在這種技能啟動時，會在她的近戰攻擊中提供<link=""Glossary_Persistent""><b>持續</b></link>buff，不過通常她只能同時啟動一個<b><link=""Glossary_Augment"">增強</link></b>技能。當處於<b><link=""Glossary_Augment"">增強</link></b>的啟動狀態時，這些增益會直接追加到攻擊行動中。",,,
 scenario_puzzle_7b_08,這些惡魔可真嚇人，交給你來處理，我先溜了。祝你好運！,,,
-scenario_puzzle_7b_09,"也許你可以利用陷阱來殺死一個暗夜惡魔，再和你的<b><link=""Glossary_Summon"">召喚物</link></b>一起<b><link=""Glossary_Attack"">攻擊</link></b>另一個？",,,
+scenario_puzzle_7b_09,"也許你可以利用陷阱來殺死一個暗夜惡魔，再和你的<b><link=""Glossary_Summon"">召喚物</link></b>一起攻擊另一個？",,,
 scenario_puzzle_7b_10,"我猜你現在也能自稱是一個<i>屠魔者</i>了？呃，怎麼說的來著...<i>獵魔者</i>？
 
 總之，重點是：做得不錯！",,,
@@ -12412,17 +12414,17 @@ tutorial_2_text_007_1,現在是<color=#a06e4b>野蠻人</color>的輪次，到�
 tutorial_2_text_007_2,每個輪次可以使用兩個<color=#FADC99>動作</color>，你可以選擇左邊的四種<color=#FADC99>動作</color>之一作為你第一個<color=#FADC99>動作</color> 一 但請注意！你第二個<color=#FADC99>動作</color>會是另一張牌的另一半部。,,,
 tutorial_2_text_007_3,例如，現在你可以選擇<nobr><color=#32E632>踐踏</color></nobr>的頂部和<nobr><color=#32E632>順手牽羊</color></nobr>的底部...,,,
 tutorial_2_text_007_4,...或選擇<nobr><color=#32E632>踐踏</color></nobr>的底部和<nobr><color=#32E632>順手牽羊</color></nobr>的頂部。,,,
-tutorial_2_text_007_5,"<color=#a06e4b>野蠻人</color>在這個房間裡沒有什麼可做的，所以你應該通過<color=#FADC99>移動</color><sprite name=Move>看看門後有什麼。
+tutorial_2_text_007_5,"<color=#a06e4b>野蠻人</color>在這個房間裡沒有什麼可做的，所以你應該通過<color=#1F9EDC>前進</color><sprite name=Move>看看門後有什麼。
 
 <nobr><color=#32E632>順手牽羊</color></nobr>的底部允許<color=#a06e4b>野蠻人</color>移動四格，足以通過這扇門。讓我們開始吧！",,,
 tutorial_2_text_010,這個房間內你將遇見你的第一個敵人，一個<color=#C53F3F>強盜守衛</color>！像玩家角色一樣，怪物也會有他們的<color=#FADC99>優先權</color>與<color=#FADC99>動作</color> 一 讓我們將游標滑入他的頭像來瞭解<color=#C53F3F>強盜守衛</color>這回合的計畫。,,,
-tutorial_2_text_011_1,"你可以看到<color=#C53F3F>強盜守衛</color>的意圖：他計畫<color=#FADC99>移動</color><sprite name=Move>和<color=#FADC99>進攻</color><sprite name=Attack>！
+tutorial_2_text_011_1,"你可以看到<color=#C53F3F>強盜守衛</color>的意圖：他計畫<color=#1F9EDC>前進</color><sprite name=Move>和<color=#1F9EDC>進攻</color><sprite name=Attack>！
 
 玩家角色每個輪次擁有兩個<color=#FADC99>動作</color>，但怪物只擁有一個 一 但這一個<color=#FADC99>動作</color>通常包含多個<color=#FADC99>能力</color>。",,,
 tutorial_2_text_011_2,"請注意，這個<color=#C53F3F>強盜守衛</color>比<color=#a06e4b>野蠻人</color>具有更低的<color=#FADC99>優先權</color>，所以本回合如果他出現在場上，那麼他應該會在<color=#a06e4b>野蠻人</color>之前行動。
 
 然而目前已經是<color=#a06e4b>野蠻人</color>的輪次了，所以在你完成你的輪次之後才會輪到<color=#C53F3F>強盜守衛</color>的輪次。",,,
-tutorial_2_text_011_3,讓<color=#a06e4b>野蠻人</color>更靠近敵人吧！讓我們第二個<color=#FADC99>動作</color>能夠使用<nobr><color=#32E632>踐踏</color>的頂部執行</nobr><color=#FADC99>進攻</color><sprite name=Attack>！,,,
+tutorial_2_text_011_3,讓<color=#a06e4b>野蠻人</color>更靠近敵人吧！讓我們第二個<color=#FADC99>動作</color>能夠使用<nobr><color=#32E632>踐踏</color>的頂部執行</nobr><color=#1F9EDC>進攻</color><sprite name=Attack>！,,,
 tutorial_2_text_012,"由於你已經使用了<nobr><color=#32E632>順手牽羊</color></nobr>，因此它就被<color=#FADC99>丟棄</color>了，它將在你休息時回到手中，但在那之前你不能再使用這張牌。
 
 現在，是時候<color=#FADC99>攻擊</color>了！",,,
@@ -12430,7 +12432,7 @@ tutorial_2_text_015_1,"每當你<color=#FADC99>攻擊</color>時，都會從角�
 
 在這種情況下，你可以在<color=#C53F3F>強盜守衛</color>的生命值條上方看到你抽到了<color=orange><b> +0 </b></color>修正卡，所以你的<color=#FADC99>攻擊</color>只造成了基礎的 <b>3</b> 點的傷害。",,,
 tutorial_2_text_015_2,本次教學中，我們只會有<color=orange><b> +0 </b></color>修正卡，讓難度維持在一個簡單的程度。之後你就會使用到其他的<color=#FADC99>攻擊修正卡</color>！,,,
-tutorial_2_text_016_1,"現在是<color=#C53F3F>強盜守衛</color>的輪次。正如我們之前在卡上看到的那樣，他打算<color=#FADC99>移動</color><sprite name=Move> <b>1</b> ，然後執行<color=#FADC99>進攻</color><sprite name=Attack> <b>3</b> 。
+tutorial_2_text_016_1,"現在是<color=#C53F3F>強盜守衛</color>的輪次。正如我們之前在卡上看到的那樣，他打算<color=#1F9EDC>前進</color><sprite name=Move> <b>1</b> ，然後執行<color=#1F9EDC>進攻</color><sprite name=Attack> <b>3</b> 。
 
 但是，由於<color=#a06e4b>野蠻人</color>已經在他的近戰攻擊範圍內，他將放棄<color=#FADC99>移動</color>直接進行<color=#FADC99>攻擊</color>。",,,
 tutorial_2_text_016_2,哎喲！對怪物來說傷害都是直接承受，但玩家角色若是受到傷害，就會有三種選擇：,,,
@@ -12448,7 +12450,7 @@ tutorial_2_text_018_1,"在能力卡選擇階段，如果你的棄牌堆至少有
 
 目前<color=#a06e4b>野蠻人</color>丟棄了所有的能力卡（<color=#FADC99>長休息</color>並不是卡片），因此他將不得不進行休息。",,,
 tutorial_2_text_018_2,<color=#FADC99>短休息</color>將隨機<color=#FADC99>焚燒</color>一張棄牌堆中的牌，但你將立即回收棄牌堆中剩下的牌 一 因此收回後你在當回合就有能力卡可以選擇。,,,
-tutorial_2_text_018_3,<color=#FADC99>長休息</color>將佔用一個輪次，然後本回合你的優先權被設定為 <b>99</b>，但你不但可以自己選擇要焚燒的能力卡（而非隨機選擇），而且該角色將執行<color=#FADC99><b>治療</b></color><sprite name=Heal> <b>2</b>的<color=#FADC99>能力</color>並重置所有橫置的道具卡！,,,
+tutorial_2_text_018_3,<color=#FADC99>長休息</color>將佔用一個輪次，然後本回合你的優先權被設定為 <b>99</b>，但你不但可以自己選擇要焚燒的能力卡（而非隨機選擇），而且該角色將執行<color=#1F9EDC>治療</color><sprite name=Heal> <b>2</b>並重置所有橫置的道具卡！,,,
 tutorial_2_text_018_4,如果本回合選擇<color=#FADC99>長休息</color>而<color=#C53F3F>強盜守衛</color>選擇了攻擊，則<color=#a06e4b>野蠻人</color>既沒有足以承受傷害的生命值，也沒有足夠的牌可以焚燒，所以讓我們選擇<color=#FADC99>短休息</color>。,,,
 tutorial_2_text_019,"<nobr><color=#32E632>順手牽羊</color></nobr>已隨機被選擇為即將焚燒的牌。
 
@@ -12460,19 +12462,19 @@ tutorial_2_text_020_3,"現在<color=#a06e4b>野蠻人</color>以及<color=#C53F3
 記住，你所選擇的第一張牌將決定<color=#a06e4b>野蠻人</color>的優先權，所以讓我們先選擇優先權為 <b>10</b> <nobr>的<color=#32E632>嘲諷戰吼</color></nobr>來儘可能增加<color=#a06e4b>野蠻人</color>優先行動的機率。",,,
 tutorial_2_text_022,"現在我們與<color=#C53F3F>強盜守衛</color>在同一個房間裡，我們可以看到敵人每一輪都在玩家選定能力卡後抽取他們的能力卡，所以在選擇能力卡的時候你不會知道他們將會做什麼，或者提前知道他們本回合的優先權。
 
-現在你看到<color=#C53F3F>強盜守衛</color>計畫再次使用<color=#FADC99>移動</color><sprite name=Move>，和<color=#FADC99>進攻</color><sprite name=Attack>，但因為你選擇了優先權為 <b>10</b> 的牌，而他選擇優先權為 <b>50</b> 的牌，因此他將比<color=#a06e4b>野蠻人</color>更慢進行輪次。讓我們幹掉他！",,,
-tutorial_2_text_024_1,"幹掉他了！你看到地板上<color=#C53F3F>強盜守衛</color>掉落的那些金幣了嗎？要拾取它，你需要使用<color=#FADC99>拾取</color><sprite name=Loot>。
+現在你看到<color=#C53F3F>強盜守衛</color>計畫再次使用<color=#1F9EDC>前進</color><sprite name=Move>，和<color=#1F9EDC>進攻</color><sprite name=Attack>，但因為你選擇了優先權為 <b>10</b> 的牌，而他選擇優先權為 <b>50</b> 的牌，因此他將比<color=#a06e4b>野蠻人</color>更慢進行輪次。讓我們幹掉他！",,,
+tutorial_2_text_024_1,"幹掉他了！你看到地板上<color=#C53F3F>強盜守衛</color>掉落的那些金幣了嗎？要收集它，你需要使用<color=#1F9EDC>拾取</color><sprite name=Loot>。
 
 請務必牢記！<color=#BA7956><b>黯淡港灣</b></color>的一個重要規則是：你無法帶走沒有被收集的財寶 一 如果你想要得到它，請務必在劇本結束之前收集它！",,,
-tutorial_2_text_024_2,"<color=#FADC99>拾取</color><sprite name=Loot>可能出現在能力卡上，但此時要收集它最簡單方法是直接在包含金幣的格子上結束你的輪次。
+tutorial_2_text_024_2,"<color=#1F9EDC>拾取</color><sprite name=Loot>可能出現在能力卡上，但此時要收集它最簡單方法是直接在包含金幣的格子上結束你的輪次。
 
 因此，我們需要讓我們的<color=#a06e4b>野蠻人</color>在他的輪次結束之前進行移動。",,,
 tutorial_2_text_024_3,"但，等等......看看<nobr><color=#32E632>嘲諷戰吼</color></nobr>。
 
-它的底部沒有<color=#FADC99>移動</color><sprite name=Move>，所以如何才能移動<color=#a06e4b>野蠻人</color>到達包含金幣的格子呢？",,,
+它的底部沒有<color=#1F9EDC>前進</color><sprite name=Move>，所以如何才能移動<color=#a06e4b>野蠻人</color>到達包含金幣的格子呢？",,,
 tutorial_2_text_024_4,"這是<color=#FADC99>基礎動作</color>！中央優先權的左側和右側是兩個小的<color=#FADC99>基礎動作</color>按鈕。
 
-這些按鈕允許角色執行基礎的<color=#FADC99>進攻</color><sprite name=Attack> <b>2</b> 而不是頂部動作或基礎的<color=#FADC99>移動</color><sprite name=Move> <b>2</b>而不是底部動作。",,,
+這些按鈕允許角色執行基礎的<color=#1F9EDC>進攻</color><sprite name=Attack> <b>2</b> 而不是頂部動作或基礎的<color=#1F9EDC>前進</color><sprite name=Move> <b>2</b>而不是底部動作。",,,
 tutorial_2_text_024_5,由於你只需要讓</color><color=#a06e4b>野蠻人</color>移動一格就能到達包含金幣的格子，我們可以使用下面的跳過按鈕跳過剩餘的步數。,,,
 tutorial_2_text_025_1,幹得漂亮！你不僅擊敗了......孤身一人的<color=#C53F3F>強盜守衛</color>，你甚至拿走了他的金幣！,,,
 tutorial_2_text_025_2,基礎知識已經講完了，現在是時候讓你體驗一些更危險的狀況了。,,,

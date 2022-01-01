@@ -6,7 +6,7 @@
 
 016_b,如果你的移動路徑為一條直線，執行
 022_t,消滅一個與你相鄰的被<nobr>擊暈<sprite name=Stun></nobr>的普通級別敵人。
-023_b,你可以將所有的<nobr>移動<sprite name=Move></nobr>能力轉化為等值的<nobr>進攻<sprite name=Attack></nobr>行動。
+023_b,你可以將所有的<nobr>前進<sprite name=Move></nobr>能力轉化為等值的<nobr>進攻<sprite name=Attack></nobr>行動。
 026_b,本回合中，你對處於<nobr>繳械<sprite name=Disarm></nobr>，<nobr>禁足<sprite name=Immobilize></nobr>，<nobr>擊暈<sprite name=Stun></nobr>狀態敵人的攻擊附加<nobr>+3攻擊力<sprite name=Attack>。</nobr>
 030_t_1,在相鄰的一個空格子內創建一個造成6點傷害的陷阱。
 030_t_2,當敵人觸發陷阱時獲得<sprite name=XP2>。
@@ -5735,7 +5735,7 @@ gui_tooltip_forgo_actions_for_companion,放棄您的上半區或(和)上半區�
 gui_tooltip_helpbox improved_short_rest_title,<color=#B52828>無法停止的破壞</color>。
 gui_tooltip_item_single_target_tip,選擇一個目標以使用該物品。
 gui_tooltip_item_single_target_title,單目標物品。
-gui_tooltip_long_rest,燒祭一張技能卡，然後獲得2點血。
+
 gui_tooltip_not_enough_targets_selected,沒有選擇足夠的目標
 gui_tooltip_player_disarmed,"{0}被<color=#A050E0>繳械</color> <size=180%><sprite name=""HoverDisarmed""></size>了。"
 gui_tooltip_player_immobilized,"{0}被<color=#A050E0>禁足</color> <size=180%><sprite name=""HoverImmobilized""></size>了。"
@@ -6215,8 +6215,7 @@ livingspiritelite,不死精神體精英
 loading_tip_001,儘量選擇承受傷害，損失相應的生命值，而不是選擇燒祭卡牌來抵擋傷害——比起恢復燒牌堆的卡牌，回復生命值更容易！
 
 loading_tip_003,你可以使用強推和拉近技能來強迫敵人觸發陷阱。
-loading_tip_004,你可以通過按Tab來高亮關卡中的物品和單位。
-loading_tip_005,你可以通過長按Alt來查看所有雇傭兵的手牌和物品。
+
 loading_tip_006,使用<align=center><b>R</b><color=#CCCCCC>鍵來旋轉AOE技能的攻擊區域，以便與敵人們的站位更加貼合。
 loading_tip_007,不要只專注於你自己，也要和你其他的團隊成員一起配合。
 loading_tip_008,卡牌上半部分的移動能力和下半部分的攻擊能力並不常用，但在某些特殊情況下也不失為一種選擇。
@@ -10389,30 +10388,20 @@ scenario_job_vermling_cave_sm2_desc,所有敵人開始時處於中毒和流血�
 scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附近的地穴
 
 
-scenario_puzzle_2b_01,"現在，你已經學會了基礎的<b><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color></b>和<b><color=#FADC99><link=""Glossary_Move"">移動</link></color></b>技能，但是這次我們要嘗試使用一些帶有<b><color=#FADC99>附加效果</color></b>的技能。"
-scenario_puzzle_2b_02,"在現在這種情況下，一個帶有<b><color=#FADC99><link=""Glossary_Jump"">跳躍</link></color></b><sprite name=Jump>效果的<b><color=#FADC99><link=""Glossary_Move"">移動</link></color></b>行動可以起到奇效。<b><color=#FADC99><link=""Glossary_Jump"">跳躍</link></color></b><sprite name=Jump>允許你穿越障礙物或者敵人、還可以在不觸發陷阱的情況下越過陷阱，只要你保證最後停留的那個格子是空的就行。"
-scenario_puzzle_2b_03,"你上次撿到的那雙<b><font=""MarcellusAlt SDF""><color=#F8F8F8>闊步靴</color></font></b>能夠為一個<b><color=#FADC99><link=""Glossary_Move"">移動</link></color></b>技能提供兩個格子的額外移動力。這會允許你在這個行動輪中走的更遠。"
-scenario_puzzle_2b_04,"你所能夠造成的傷害都還不足以一擊必殺，但是如果你動作夠快，你也許可以在她進行<b><color=#FADC99><link=""Glossary_Attack"">攻擊</link></color></b>前給她施加<nobr><link=""Glossary_Disarm""><b><color=#FADC99>繳械</color></b><sprite name=Disarm></link></nobr>狀態！"
-scenario_puzzle_2b_05,"你第一個回合的目標為：
-<line-height=20%>
-</line-height>→ 用一個帶有<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b><sprite name=Jump></link>的移動來無傷穿過陷阱
-→ 在<b><color=#C53F3F>弓箭手</color></b>執行攻擊前對她施加<color=#FADC99><link=""Glossary_Disarm""><b>繳械</b></link></color>狀態
-<line-height=20%>
-</line-height>祝你好運！"
 scenario_puzzle_2b_06,她非常敏捷還是遠距攻擊，你需要快速行動來接近她 ——別忘了用上靴子！
-scenario_puzzle_2b_07,"這裡的關鍵是越過那些陷阱，因此你需要利用帶有<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b><sprite name=Jump></link>效果的<link=""Glossary_Move""><b><color=#FADC99>移動</color></b><sprite name=Move></link>來避免傷害。"
-scenario_puzzle_2b_08,"你做到了！你不僅是造成了可觀的傷害，更得益於你用<b><font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷</color></font></b>施加的<link=""Glossary_Disarm""><b><color=#FADC99>繳械</color></b><sprite name=Disarm></link>狀態，使得<b><color=#C53F3F>弓箭手</color></b>在她的行動輪中無法進行攻擊。"
+scenario_puzzle_2b_07,"這裡的關鍵是越過那些陷阱，因此你需要利用帶有<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b><sprite name=Jump></link>效果的<link=""Glossary_Move""><b><color=#1F9EDC>移動</color></b><sprite name=Move></link>來避免傷害。"
+scenario_puzzle_2b_08,"你做到了！你不僅是造成了可觀的傷害，更得益於你用<b><font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷</color></font></b>施加的<link=""Glossary_Disarm""><b><color=#1F9EDC>繳械</color></b><sprite name=Disarm></link>狀態，使得<b><color=#C53F3F>弓箭手</color></b>在她的行動輪中無法進行攻擊。"
 scenario_puzzle_2b_09,"現在她的生命值不多了，你應該能夠給她致命一擊。你本輪的目標為：
 <line-height=20%>
 </line-height>→ 殺死<b><color=#C53F3F>弓箭手</color></b>
-→ 跳過陷阱並<link=""Glossary_Loot""><b><color=#FADC99>拾取</color></b></link>寶箱
+→ 跳過陷阱並<link=""Glossary_Loot""><b><color=#1F9EDC>拾取</color></b></link>寶箱
 <line-height=20%>
 </line-height>我希望你能在本回合中完成上面這兩個目標！"
 scenario_puzzle_2b_11,如果你想在本輪中比<b><color=#C53F3F>弓箭手</color></b>更早行動，那麼你需要確保你選擇的第一張技能卡具有較低的時序值。
-scenario_puzzle_2b_12,"我想我曾和你說過要<link=""Glossary_Loot""><b><color=#FADC99>拾取</color></b><sprite name=Loot></link>那個寶箱吧？我相信只要你能夠做出更明智的選擇，你是可以在本回合中完成兩個目標的。"
+scenario_puzzle_2b_12,"我想我曾和你說過要<link=""Glossary_Loot""><b><color=#1F9EDC>拾取</color></b><sprite name=Loot></link>那個寶箱吧？我相信只要你能夠做出更明智的選擇，你是可以在本回合中完成兩個目標的。"
 scenario_puzzle_2b_13,"已經累到不能再次<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b><sprite name=Jump></link>了嗎？也許你需要儘快進行一次<link=""Glossary_Rest""><b><color=#FADC99>休息</color></b></link>一下…為了拿回你的手牌，就像以前那樣，對嗎？"
 scenario_puzzle_2b_14,"休息、攻擊、<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b></link>、拾取寶箱，幹得漂亮！下一關中那瓶藥劑肯定能夠派上用場。"
-scenario_puzzle_2b_15,"別忘了，在執行一個<link=""Glossary_Move""><b><color=#FADC99>移動</color></b><sprite name=Move></link>技能的過程中，你可以使用像是<b><font=""MarcellusAlt SDF""><color=#F8F8F8>闊步靴</color></font></b>這樣的<b>道具</b>來提升你的移動範圍。"
+scenario_puzzle_2b_15,"別忘了，在執行一個<link=""Glossary_Move""><b><color=#1F9EDC>移動</color></b><sprite name=Move></link>技能的過程中，你可以使用像是<b><font=""MarcellusAlt SDF""><color=#F8F8F8>闊步靴</color></font></b>這樣的<b>道具</b>來提升你的移動範圍。"
 scenario_puzzle_2b_16,"別忘了<link=""Glossary_Short Rest""><b><color=#FADC99>短休息</color></b></link>允許你回收棄牌堆的卡牌，並且在你即將進行的行動輪中就可以投入使用。
 
 但是<link=""Glossary_Long Rest""><b><color=#FADC99>長休息</color></b></link>作為選擇兩張技能卡的替代，需要消耗整個行動輪(你依然可以做一些常規的事情例如使用道具)，並且為該角色提供99的時序值。也就是說，無法在本回合幫你取得勝利！"
@@ -10437,7 +10426,7 @@ scenario_puzzle_2c_10,你可以通過去到這個房間裡更深的地方來脫�
 scenario_puzzle_2c_11,你避開了<b><color=#C53F3F>弓箭手</color></b>的追擊，幹得漂亮！
 scenario_puzzle_2c_12,但是你沒有避開這個<b><color=#C53F3F>衛兵</color></b>，這就表現不太好了…我猜或許有辦法阻止他的攻擊？
 scenario_puzzle_2c_13,精彩絕倫！你表現得越來越專業了！
-scenario_puzzle_2c_14,"那個<link=""Glossary_Disarm""><b><color=#FADC99>繳械</color></b></link>怎麼樣？真是一個相當不錯的狀態效果，對吧？並且還有很低的<b> 10 </b>時序值，使得<font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷</color></font>成為一張非常靈活的卡牌來回避一些小規模摩擦。"
+scenario_puzzle_2c_14,"那個<link=""Glossary_Disarm""><b><color=#1F9EDC>繳械</color></b></link>怎麼樣？真是一個相當不錯的狀態效果，對吧？並且還有很低的<b> 10 </b>時序值，使得<font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷</color></font>成為一張非常靈活的卡牌來回避一些小規模摩擦。"
 scenario_puzzle_2c_15,接下來是最後一場訓練，完成後你就已經準備就緒，可以去探索世界並為我們的公會招募傭兵了！
 scenario_puzzle_2c_16,你受到了攻擊！注意敵人這一輪的移動範圍。你需要避開所有敵人！
 scenario_puzzle_2c_obj_1,在2個回合內不要受到任何攻擊
@@ -10464,7 +10453,7 @@ scenario_puzzle_2d_09,"你的最終目標為：
 → 拾取寶箱"
 scenario_puzzle_2d_10,"你需要早點行動來優先發起<link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>，並且對她造成<b> 4 </b>點傷害。"
 scenario_puzzle_2d_11,還記得之前你曾經成功造成了<b> 3+1 </b>點傷害的事情嗎？ ——別忘了在這個訓練關中你只有<color=orange><b> +1 </b></color>攻擊修正卡牌。
-scenario_puzzle_2d_12,"你的目標是<link=""Glossary_Loot""><b><color=#FADC99>拾取</color></b></link>寶箱。我們下一關可能會用到裡面的東西，確保你能夠拿到它！"
+scenario_puzzle_2d_12,"你的目標是<link=""Glossary_Loot""><b><color=#1F9EDC>拾取</color></b></link>寶箱。我們下一關可能會用到裡面的東西，確保你能夠拿到它！"
 scenario_puzzle_2d_13,"很好！<b><font=""MarcellusAlt SDF""><color=#F8F8F8>扇形盾</color></font></b>可以幫你阻擋一些傷害！"
 scenario_puzzle_2d_14,你已經完成了基礎訓練關卡——是時候給你介紹幾名其他的傭兵並且讓你展開探索了！
 scenario_puzzle_2d_obj_01,站在一個弓箭手旁邊並且殺死另一個
@@ -10473,9 +10462,9 @@ scenario_puzzle_2d_obj_03,在本回合中拾取寶箱
 scenario_puzzle_3a_01,"讓我們來仔細看看每個角色分別能夠做些什麼。在這個劇本中，<b>蠻徒</b>要面對兩個<b> 1 </b>級的<b>骷髏精英</b> —意味著它們的屬性相比<b> 0 </b>級時更高一些。
 
 在回合開始時你看到的揭露出來的“怪物技能卡”由那個怪物的種類和從對應種類的怪物技能牌堆中抽出的基本技能卡共同決定。因此，有時候它們能夠移動的更遠或者獲得更高的攻擊力，更別說這兩個骷髏還是<link=""Glossary_Elite""><b>精英</b></link>級別的了！"
-scenario_puzzle_3a_02,"注意它們有一個先天的<b><link=""Glossary_Shield"">護盾</link></b><b> 1 </b>效果，用<sprite name=Shield>圖示來顯示。每一點<b><link=""Glossary_Shield"">護盾</link></b>效果可以阻擋一點來自於<b><link=""Glossary_Attack"">攻擊</link></b>的傷害。
+scenario_puzzle_3a_02,"注意它們有一個先天的<b><link=""Glossary_Shield"">護盾</link></b><b> 1 </b>效果，用<sprite name=Shield>圖示來顯示。每一點<b><link=""Glossary_Shield"">護盾</link></b>效果可以阻擋一點來自於攻擊的傷害。
 
-然而，當使用帶有<b><link=""Glossary_Pierce"">穿透</link></b><sprite name=Pierce>效果的<b><link=""Glossary_Attack"">攻擊</link></b>時可以忽略<b><link=""Glossary_Shield"">護盾</link></b>的部分效果。"
+然而，當使用帶有<b><link=""Glossary_Pierce"">穿透</link></b><sprite name=Pierce>效果的攻擊時可以忽略<b><link=""Glossary_Shield"">護盾</link></b>的部分效果。"
 scenario_puzzle_3a_04,"嗯…我得到了一些可靠情報，在這個回合中這些<b>骷髏</b>將進行不止一次攻擊。然而你的牌不多了，無法承擔移除更多卡牌的代價，所以這時候要想活下去，你需要給自己啟動一些<b><link=""Glossary_Shield"">護盾</link></b>。
 
 順便說一下，雖然這些敵人的<b><link=""Glossary_Shield"">護盾</link></b>是先天的持續效果，平時像是<b><link=""Glossary_Shield"">護盾</link></b>這樣的<b>啟動獎勵</b>都會伴隨著一個<link=""Glossary_Round""><b>回合</b></link><sprite name=Round>或是<link=""Glossary_Persistent""><b>持續</b></link><sprite name=Persistent>圖示。"
@@ -10485,7 +10474,7 @@ scenario_puzzle_3a_07,這個時候逃跑可不能幫助你取得勝利。給我�
 scenario_puzzle_3a_08,"你確實殺死了一些<b>骷髏</b>，但是如果你移除了卡牌，下個回合就沒有足夠的牌可以用了。別忘了使用藥水和<b><link=""Glossary_Shield"">護盾</link></b>技能。"
 scenario_puzzle_3a_09,"哇哦，那可真是猛烈地攻擊！還好，你的<b><link=""Glossary_Shield"">護盾</link></b>幫你阻擋了足夠多的傷害，所以<b>蠻徒</b>還活著。真是驚險！"
 scenario_puzzle_3a_10,最終目標：殺死剩下的<b>骷髏</b>——祝你好運，它可是非常的皮糙肉厚！
-scenario_puzzle_3a_11,"給你個小提示：或許你可以試著利用<b><link=""Glossary_Push"">強推</link></b>加陷阱的組合？記住<b><link=""Glossary_Shield"">護盾</link></b>只能阻擋來自於<b><link=""Glossary_Attack"">攻擊</link></b>的傷害，但是對於來自於像是陷阱這樣的直接傷害不會起到任何作用！"
+scenario_puzzle_3a_11,"給你個小提示：或許你可以試著利用<b><link=""Glossary_Push"">強推</link></b>加陷阱的組合？記住<b><link=""Glossary_Shield"">護盾</link></b>只能阻擋來自於攻擊的傷害，但是對於來自於像是陷阱這樣的直接傷害不會起到任何作用！"
 scenario_puzzle_3a_12,他這一回合不會很快進行行動，所以你也許可以在他有機會幹掉你之前殺死他！
 scenario_puzzle_3a_13,"別忘了執行短休息來拿回<font=""MarcellusAlt SDF""><color=#F5E3B0><b>守護之力</b></color></font>以便把骷髏<b>強推</b>到陷阱上。"
 scenario_puzzle_3a_14,又一次拯救了<b>蠻徒</b>！我聽說他不想再獨自冒險了，所以他願意成為你公會裡的第一名傭兵！恭喜！
@@ -10514,7 +10503,7 @@ scenario_puzzle_3b_05,"哈哈！在單個行動輪中瞄準多個目標的感覺
 <line-height=20%>
 </line-height> 小提示——有時一張卡牌的上半部分也會允許你執行<b>移動</b>技能！"
 scenario_puzzle_3b_06,"拾取技能會撿起所示射程距離內的<i>所有</i>金幣，所以好好想想你應該站在哪裡進行拾取吧！"
-scenario_puzzle_3b_07,"你需要在<link=""Glossary_Loot""><b>拾取</b></link>前先進行<b><link=""Glossary_Move"">移動</link></b>，而且不是所有<b><link=""Glossary_Move"">移動</link></b>技能都在技能卡的下半部分！"
+scenario_puzzle_3b_07,"你需要在<link=""Glossary_Loot""><b>拾取</b></link>前先進行前進，而且不是所有前進技能都在技能卡的下半部分！"
 scenario_puzzle_3b_08,漂亮！暫時就讓我來替你保管這些金幣吧…
 scenario_puzzle_3b_09,因為你在這個劇本中的幫助，<b>凶徒</b>已經同意加入公會——意味著現在我們擁有足夠多的傭兵來進行正式的任務！
 scenario_puzzle_3b_obj_01,本回合中在敵人行動前殺死3個弓箭手
@@ -10528,11 +10517,11 @@ scenario_puzzle_5a_01,這一位是<b>織魔師</b>，一名能夠利用大自然
 scenario_puzzle_5a_02,"為了讓她擺脫這個困境，你需要利用戰場中的元素力量。元素的充能情況顯示在螢幕的右側，表示哪種魔法元素可以被使用。在這個劇本中，<b><link=""Glossary_Ice"">冰</link></b>元素已經充能完畢了，但是一般情況下使用帶有元素符號的動作充能出來的元素只會維持兩個回合，並且在執行充能的那個行動輪結束之後才允許被消耗，即不能同一個行動輪中先充能再立刻使用。"
 scenario_puzzle_5a_03,"本回合的目標為：
 <line-height=20%>
-</line-height>→ 消耗<b><link=""Glossary_Ice"">冰</link></b>元素來增強<font=""MarcellusAlt SDF""><color=#F5E3B0><b>霜凍新星</b></color></font>的<b><link=""Glossary_Attack"">攻擊</link></b>，盡可能多的殺死強盜
+</line-height>→ 消耗<b><link=""Glossary_Ice"">冰</link></b>元素來增強<font=""MarcellusAlt SDF""><color=#F5E3B0><b>霜凍新星</b></color></font>的攻擊，盡可能多的殺死強盜
 → 通過使用一次<b>跳躍移動</b>脫離攻擊範圍並在這個回合存活下來
 <line-height=20%>
 </line-height>"
-scenario_puzzle_5a_04,"在用霜凍新星攻擊強盜之後你需要用<b><link=""Glossary_Jump"">跳躍</link></b>前往安全位置！"
+scenario_puzzle_5a_04,"在用霜凍新星攻擊強盜之後你需要用跳躍前往安全位置！"
 scenario_puzzle_5a_05,"為了增強<font=""MarcellusAlt SDF""><color=#F5E3B0><b>霜凍新星</b></color></font>你需要在使用它之前先消耗<b><link=""Glossary_Ice"">冰</link></b>元素。確保你在執行行動前先點擊<b><link=""Glossary_Ice"">冰</link></b>元素的符號來對它進行消耗。"
 scenario_puzzle_5a_06,"通過消耗冰元素，<b><font=""MarcellusAlt SDF""><color=#F5E3B0>霜凍新星</color></font></b>造成了<b> 3 </b>點傷害而不是 <b>2</b> 點！殺死三個強盜的同時還施加了<link=""Glossary_Immobilize""><b>禁足</b></link>狀態效果，所以剩下的強盜就追不上你了，那可真是個非常強的技能，對吧？"
 scenario_puzzle_5a_07,"<font=""MarcellusAlt SDF""><color=#F5E3B0><b>乘風</b></color></font>同時也充能了<b><link=""Glossary_Air"">氣</link></b>元素以供未來使用。
@@ -10545,7 +10534,7 @@ scenario_puzzle_5a_09,"你的目標為：
 <line-height=20%>
 </line-height><font=""MarcellusAlt SDF""><color=#F5E3B0>靈能重構</color></font>可以回收所有移除區的卡牌，所以你應該可以輕鬆搞定這些強盜！"
 scenario_puzzle_5a_10,因為幫助<b>織魔師</b>脫離險境，她同意加入我們的公會！如你所見，她的技能非常強大，但是因為需要更複雜的策略使得她成為一名難度較高的角色。
-scenario_puzzle_5a_11,"利用她的技能再試一次吧。記得消耗元素來增強技能，並且不要因“用<b><link=""Glossary_Range"">遠程</link></b><b><link=""Glossary_Attack"">攻擊</link></b>相鄰目標時”而使自己處於<b><link=""Glossary_Disadvantage"">劣勢</link></b>！"
+scenario_puzzle_5a_11,"利用她的技能再試一次吧。記得消耗元素來增強技能，並且不要因“用<b><link=""Glossary_Range"">遠程</link></b>攻擊相鄰目標時”而使自己處於<b><link=""Glossary_Disadvantage"">劣勢</link></b>！"
 scenario_puzzle_5a_obj_01,使用一次“跳躍移動”在本回合存活下來
 scenario_puzzle_5a_obj_02,消耗冰元素來增強霜凍新星並且殺死生命值較低的強盜
 scenario_puzzle_5a_obj_03,殺死剩下的強盜
@@ -10574,16 +10563,16 @@ scenario_puzzle_6a_02,你找到了一個防禦薄弱的鼠人族營地。把這�
 scenario_puzzle_7a_01,"看看這個人見人愛的移動巨石—<b>裂心石人</b>。我們的人數真是壓倒性的不利，看來需要採取一些防禦戰術。讓我們來看看<b><link=""Glossary_Retaliate"">反擊</link></b><sprite name=Retaliate>是如何起到作用並且幫助裂心石人擺脫這個困境的。"
 scenario_puzzle_7a_02,"與<b><link=""Glossary_Shield"">護盾</link></b>類似，<b><link=""Glossary_Retaliate"">反擊</link></b>是一種<b>啟動獎勵</b>，通常維持一個<link=""Glossary_Round""><b>回合</b></link><sprite name=Round>或是<link=""Glossary_Persistent""><b>持續</b></link><sprite name=Persistent>生效，直到稍晚些時候滿足終止條件時會被取消。
 
-當反擊處於啟動狀態時，使用近戰攻擊的單位會在每次執行<b><link=""Glossary_Attack"">攻擊</link></b>後受到和<b><link=""Glossary_Retaliate"">反擊</link></b>所標示數值等量的傷害。"
-scenario_puzzle_7a_03,"當被這麼多的<b>骷髏</b>包圍時，在他們<b><link=""Glossary_Attack"">攻擊</link></b>後造成的反擊傷害也非常可觀…當然，前提是如果你能在本回合中存活下來！
+當反擊處於啟動狀態時，使用近戰攻擊的單位會在每次執行攻擊後受到和<b><link=""Glossary_Retaliate"">反擊</link></b>所標示數值等量的傷害。"
+scenario_puzzle_7a_03,"當被這麼多的<b>骷髏</b>包圍時，在他們攻擊後造成的反擊傷害也非常可觀…當然，前提是如果你能在本回合中存活下來！
 
 噢，還有一件事：<b><link=""Glossary_Earth"">土</link></b>元素已經充能就緒，如果你想使用元素來增強技能的話別忘了點擊<sprite name=ConsumeEarth>圖示來消耗這個元素！"
-scenario_puzzle_7a_04,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">反擊</link></b>，但是另一個動作你可以用來執行<b><link=""Glossary_Attack"">攻擊</link></b>。<font=""MarcellusAlt SDF""><color=#F5E3B0><b>雪崩</b></color></font>是個不錯的卡牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！"
-scenario_puzzle_7a_05,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">反擊</link></b>，但是另一個動作你可以用來執行<b><link=""Glossary_Attack"">攻擊</link></b>。<font=""MarcellusAlt SDF""><color=#F5E3B0><b>雪崩</b></color></font>是個不錯的卡牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！"
+scenario_puzzle_7a_04,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">反擊</link></b>，但是另一個動作你可以用來執行攻擊。<font=""MarcellusAlt SDF""><color=#F5E3B0><b>雪崩</b></color></font>是個不錯的卡牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！"
+scenario_puzzle_7a_05,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">反擊</link></b>，但是另一個動作你可以用來執行攻擊。<font=""MarcellusAlt SDF""><color=#F5E3B0><b>雪崩</b></color></font>是個不錯的卡牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！"
 scenario_puzzle_7a_06,"你受到了一些傷害，但是取得了不錯的成果！一個時機恰當的<b><link=""Glossary_Retaliate"">反擊</link></b>一樣能成為毀滅性的力量。
 
 另外，看看螢幕上方<b>裂心石人</b>的頭像，你能看到來自於<font=""MarcellusAlt SDF""><color=#F5E3B0><b>左右開弓</b></color></font>的<b>啟動獎勵</b>仍在生效。這個<b>啟動獎勵</b>的小方格可以快速提示你還剩幾次獎勵可以啟動，並且當你將滑鼠懸停在上面時可以進一步確認效果描述和經驗獲取的詳情。"
-scenario_puzzle_7a_07,"除此以外，你注意到<b>骷髏</b>們的<b><link=""Glossary_Shield"">護盾</link></b>並沒有阻擋<b><link=""Glossary_Retaliate"">反擊</link></b>的傷害了嗎？就像陷阱一樣，<b><link=""Glossary_Retaliate"">反擊</link></b>傷害不視作是一次<b><link=""Glossary_Attack"">攻擊</link></b>，並且造成的傷害數值和標示的一模一樣，不會被<b><link=""Glossary_Shield"">護盾</link></b>、攻擊修正卡牌或是其他類似的效果影響。"
+scenario_puzzle_7a_07,"除此以外，你注意到<b>骷髏</b>們的<b><link=""Glossary_Shield"">護盾</link></b>並沒有阻擋<b><link=""Glossary_Retaliate"">反擊</link></b>的傷害了嗎？就像陷阱一樣，<b><link=""Glossary_Retaliate"">反擊</link></b>傷害不視作是一次攻擊，並且造成的傷害數值和標示的一模一樣，不會被<b><link=""Glossary_Shield"">護盾</link></b>、攻擊修正卡牌或是其他類似的效果影響。"
 scenario_puzzle_7a_08,現在，殺死這些骷髏好讓我們離開這裡！
 scenario_puzzle_7a_09,"別忘了你還有兩次來自於<font=""MarcellusAlt SDF""><color=#F5E3B0><b>左右開弓</b></color></font>的<b><link=""Glossary_Retaliate"">反擊</link></b>啟動次數，因此你可以把它們的傷害也考慮進去。或者說還有什麼其他的方法能夠穿透敵人的<b><link=""Glossary_Shield"">護盾</link></b>來直接擊敗這些骷髏呢？"
 scenario_puzzle_7a_10,幹得漂亮！儘管一開始看上去像是個不可完成的挑戰，但是如果你合理地使用卡牌，即便是最複雜的狀況你也能夠應對。
@@ -10594,7 +10583,7 @@ scenario_puzzle_7b_01,"來認識下最後一位元新人，<b>亂心賊</b>。�
 <b><link=""Glossary_Summon"">召喚物</link></b>會在它的召喚者行動輪開始前自發地執行動作，並且每次都會執行一個<b>“<link=""Glossary_Move"">移動</link> X，<link=""Glossary_Attack"">攻擊</link> Y”</b>的行動，其中<b>X</b>和<b>Y</b>分別是它們所標示出來的基本屬性數值。"
 scenario_puzzle_7b_02,"正好<b>亂心賊</b>在討伐惡魔，你能夠見識一下更厲害的敵人——<b>暗夜惡魔</b>。
 
-這種恐怖生物擁有一個固有技能來讓攻擊者們在“以它們作為目標執行任何<b><link=""Glossary_Attack"">攻擊</link></b>”時處於<b><link=""Glossary_Disadvantage"">劣勢</link></b>狀態，這使得它們通常很難對付。也許你可以試試通過非<b><link=""Glossary_Attack"">攻擊</link></b>的手段從而造成一些直接傷害來殺死它們？"
+這種恐怖生物擁有一個固有技能來讓攻擊者們在“以它們作為目標執行任何攻擊”時處於<b><link=""Glossary_Disadvantage"">劣勢</link></b>狀態，這使得它們通常很難對付。也許你可以試試通過非攻擊的手段從而造成一些直接傷害來殺死它們？"
 scenario_puzzle_7b_03,"你本回合的目標為：
 <line-height=20%>
 </line-height>→ <b><link=""Glossary_Summon"">召喚</link></b>一名盟友
@@ -10602,7 +10591,7 @@ scenario_puzzle_7b_03,"你本回合的目標為：
 <line-height=20%>
 </line-height>一個重要提示：當你和你的<b><link=""Glossary_Summon"">召喚物</link></b>距離相同時，敵人會優先專注於你的召喚物。好好利用這一點！"
 scenario_puzzle_7b_04,"使用<font=""MarcellusAlt SDF""><color=#F5E3B0><b>齧噬部落</b></color></font>來召喚一個“鼠群”，它能協助你戰勝這些惡魔！"
-scenario_puzzle_7b_05,"雖然你的<b><link=""Glossary_Push"">強推</link></b>技能卡已經被<link=""Glossary_burn"">移除</link>了，但是或許有其他辦法來讓一個敵人強制<b><link=""Glossary_Move"">移動</link></b>到陷阱上來承受一些直接傷害？"
+scenario_puzzle_7b_05,"雖然你的<b><link=""Glossary_Push"">強推</link></b>技能卡已經被<link=""Glossary_burn"">移除</link>了，但是或許有其他辦法來讓一個敵人強制前進到陷阱上來承受一些直接傷害？"
 scenario_puzzle_7b_06,"你的最終目標為：
 <line-height=20%>
 </line-height>→ 殺死剩餘的暗夜惡魔
@@ -10610,9 +10599,9 @@ scenario_puzzle_7b_06,"你的最終目標為：
 </line-height>"
 scenario_puzzle_7b_07,"<b>亂心賊</b>還有一個特色是擁有一些帶有<b><link=""Glossary_Augment"">增強</link></b>技能的卡牌，比如<font=""MarcellusAlt SDF""><color=#F5E3B0><b>凋零之爪</b></color></font>。
 
-在這種技能啟動時，會在她的近戰攻擊中提供<link=""Glossary_Persistent""><b>持續</b></link>buff，不過通常她只能同時啟動一個<b><link=""Glossary_Augment"">增強</link></b>技能。當處於<b><link=""Glossary_Augment"">增強</link></b>的啟動狀態時，這些增益會直接追加到<b><link=""Glossary_Attack"">攻擊</link></b>行動中。"
+在這種技能啟動時，會在她的近戰攻擊中提供<link=""Glossary_Persistent""><b>持續</b></link>buff，不過通常她只能同時啟動一個<b><link=""Glossary_Augment"">增強</link></b>技能。當處於<b><link=""Glossary_Augment"">增強</link></b>的啟動狀態時，這些增益會直接追加到攻擊行動中。"
 scenario_puzzle_7b_08,這些惡魔可真嚇人，交給你來處理，我先溜了。祝你好運！
-scenario_puzzle_7b_09,"也許你可以利用陷阱來殺死一個暗夜惡魔，再和你的<b><link=""Glossary_Summon"">召喚物</link></b>一起<b><link=""Glossary_Attack"">攻擊</link></b>另一個？"
+scenario_puzzle_7b_09,"也許你可以利用陷阱來殺死一個暗夜惡魔，再和你的<b><link=""Glossary_Summon"">召喚物</link></b>一起攻擊另一個？"
 scenario_puzzle_7b_10,"我猜你現在也能自稱是一個<i>屠魔者</i>了？呃，怎麼說的來著…<i>獵魔者</i>？
 
 總之，重點是：做得不錯！"
