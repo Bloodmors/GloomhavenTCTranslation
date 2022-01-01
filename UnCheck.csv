@@ -1798,7 +1798,7 @@ compendium_takingdamage_title,承受傷害
 compendium_traps,"當一個角色走入或被強制移入陷阱時，陷阱被觸發。飛行和跳躍不受陷阱的影響。當陷阱被觸發時，它會造成一些負面影響，然後從地圖上移除。陷阱也可以通過特定行動解除，以將其從板上移除而不會遭受其負面影響。
 
 將游標懸停在一個陷阱上來查看該陷阱效果。角色和怪物還可能通過技能卡在地圖上創建具有特殊效果的陷阱。"
-compendium_traps_title,陷阱
+
 compendium_usingabilites,"在角色的輪次開始時，你可以介紹你所選擇的兩張牌。你現在可以選擇用於兩個行動中的第一個行動用於在輪次中執行，記住，另一卡上的相反一半上的主要行動或基礎行動將必須是你的第二個動作。
 
 在每個行動中包含一個或多個技能，這些技能會按照它們出現在卡上的順序從上到下進行 一 雖然你可以選擇跳過一些技能，但不能跳過負面效果。以下是螢幕截圖中隕石坑技能底部動作的技能示例細分：
@@ -1820,7 +1820,7 @@ compendium_usingitems_2,此符號意味著該裝備會<b>在使用後磨損</b>�
 compendium_usingitems_3,此符號意味著該裝備會<b>在使用後耗盡</b>，長休息無法刷新耗盡的裝備，耗盡的裝備只能通過特定能力在場景中刷新。所有道具都會在場景結束後刷新，所以被耗盡的道具不會永遠消失。
 compendium_usingitems_4,如果裝備卡上沒有這些符號，則不會限制它在場景中可以使用的次數，除非在裝備卡上有其他說明。
 compendium_usingitems_title,使用裝備
-condition,狀態
+
 consume,消耗
 consumeitemcards,消耗物品卡牌
 controlactor,心靈控制
@@ -4710,10 +4710,10 @@ gui_adv_tutorial_intro,在向路鎮旅館喝酒時，你無意中聽到了兩個
 gui_adv_tutorial_intro_title,歡迎，雇傭兵們！
 gui_adv_tutorial_wayward,顯然，您尚未準備好攻擊他的基地，所以準備離開向路鎮並開始突襲一些當地的墓室群以搜尋知識資訊和一些更好的設備。
 gui_adventure,冒險模式
-gui_adventure2,公會模式
-gui_adventure_complete,完成！
+
+
 gui_ally,隊友
-gui_announce_retirement,宣佈退休
+
 
 gui_assemble_party,組成玩家團隊
 gui_assemble_party_new_character,新雇傭兵！
@@ -4721,7 +4721,7 @@ gui_assemble_party_new_character_desc,"一個新的雇傭兵已被添加到名�
 該角色當前被隱藏以避免不需要的劇透。
 
 點擊高亮的雇傭兵標誌來揭曉新的角色！"
-gui_assembly_abilities,技能卡：
+
 gui_assembly_error_quest_min_heroe,這個任務必需要<color=#C53F3F>一個雇傭兵</color>才能開始
 gui_assembly_error_quest_min_heroes,任務至少需要<color=#C53F3F> {0} 個雇傭兵 </color>才能開始
 gui_assembly_error_quest_required_heroes,{0} 必須在玩家團隊中
@@ -4747,10 +4747,8 @@ gui_assembly_party_tip,一個玩家團隊至少需要2個雇傭兵才能開始�
 gui_assembly_remove_hero,"移除
 雇傭兵"
 gui_assembly_select_hero,選擇雇傭兵
-gui_attack_modifiers,攻擊修正卡
+
 gui_attack_modifiers_description,執行一張攻擊技能卡時，為每個目標單獨使用攻擊修正卡
-gui_autosave,自動記錄
-gui_autosave_explanation,此遊戲使用自動記錄功能。當您看到自動記錄圖示時，請不要關閉遊戲。
 
 
 
