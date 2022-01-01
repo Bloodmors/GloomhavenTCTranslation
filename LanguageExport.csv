@@ -1,5 +1,5 @@
 ﻿Key,Tranditional Chinese [zh-TC]
-002_t,<nobr>本回合</nobr>每進行一次反擊獲得<sprite name=XP1>。,,,
+002_t,<nobr>本回合</nobr>每進行一次復仇獲得<sprite name=XP1>。,,,
 004_b,本回合中，任何指定一個相鄰友軍的攻擊的目標改為你，無視攻擊範圍。,,,
 007_b,在接下來的6次指定你為目標的攻擊中，獲得<nobr>護盾<sprite name=Shield> *BShield*。</nobr>,,,
 013_b,<nobr>本回合，</nobr>你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack>。</nobr>,,,
@@ -42,13 +42,13 @@
 071_t,召喚神秘嘉賓,,,
 076_b_1,X是盟友最大生命值的一半<nobr>（向下取整）。</nobr>,,,
 076_b_2,則X為盟友的最大生命值。,,,
-079_b,在敵人接下來對你的五次攻擊中，各獲得<nobr>反擊<sprite name=Retaliate>*BRetaliate*。</nobr>,,,
+079_b,在敵人接下來對你的五次攻擊中，各獲得<nobr>復仇<sprite name=Retaliate>*BRetaliate*。</nobr>,,,
 080_b,召喚燃燒幻象,,,
 080_t,所有與目標相鄰的敵人<nobr>損失2點生命值，<sprite name=XP1>。</nobr>,,,
 082_t,回收<sprite name=Recover>至多兩張你<nobr>燼牌堆的卡。</nobr>,,,
 084_t_1,則拾取<sprite name=Loot>3，<sprite name=XP1>,,,
 084_t_2,你不能通過此行動拾取超過四個金幣堆和寶藏。,,,
-085_b,在接下來三次以你為目標的攻擊中，免疫受到的傷害並獲得<nobr>反擊<sprite name=Retaliate>3，</nobr><nobr>射程<sprite name=Range>3。</nobr>,,,
+085_b,在接下來三次以你為目標的攻擊中，免疫受到的傷害並獲得<nobr>復仇<sprite name=Retaliate>3，</nobr><nobr>射程<sprite name=Range>3。</nobr>,,,
 086_b_1,在<nobr>射程<sprite name=Range>4</nobr>內選擇一個格子。,,,
 086_b_2,指定所有處在選定格子<nobr>射程<sprite name=Range>4</nobr>以內的敵人為目標，並將它們拉近向該格子,,,
 087_t_1,目標為和你在相同房間的敵人,,,
@@ -79,7 +79,7 @@
 113_b,消滅一個當前生命值小於或等於3的與你相鄰的敵人。,,,
 114_b,本回合，強迫一個相鄰的敵人來執行它的行動輪。此時它將敵人（玩家）視作盟友，將盟友視作敵人，並由你操控它的行動。,,,
 115_t,為你的所有攻擊附加<nobr>中毒<sprite name=Poison></nobr>和<nobr>流血<sprite name=Wound></nobr>。,,,
-116_b,在接下來六次受到近戰攻擊時，獲得<nobr>反擊<sprite name=Retaliate>*BRetaliate*。</nobr>,,,
+116_b,在接下來六次受到近戰攻擊時，獲得<nobr>復仇<sprite name=Retaliate>*BRetaliate*。</nobr>,,,
 118_b,在相鄰的兩個空格子內分別建立兩個占一格的障礙物。,,,
 119_b,所有相鄰的單位損失*BDamage* 點生命值。,,,
 120_t,所有與目標相鄰的單位損失1點生命值。,,,
@@ -142,7 +142,7 @@
 173_b,本回合，所有<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友附加<nobr>+X攻擊力</nobr>到他們的所有攻擊中，X是<nobr>射程範圍<sprite name=Range>2以內</nobr>所有盟友的數目。,,,
 173_t_1,召喚鼠王,,,
 173_t_2,X是<nobr>鼠王</nobr>當前生命值的一半（向上取整）。,,,
-175_t,在接下來的五次受到近戰攻擊時，獲得<nobr>反擊<sprite name=Retaliate>*TRetaliate*。</nobr>,,,
+175_t,在接下來的五次受到近戰攻擊時，獲得<nobr>復仇<sprite name=Retaliate>*TRetaliate*。</nobr>,,,
 177_t,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>一張他燼牌堆的卡。,,,
 178_t_1,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>兩張他棄牌堆的卡。,,,
 178_t_2,則至多三張棄牌堆的卡，<sprite name=XP1>。,,,
@@ -244,7 +244,7 @@
 332_b,所有指定你為目標的近戰攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。,,,
 332_t,你可以損失至多3點生命值。,,,
 333_b,如果你的當前生命值小於你最大生命值的一半<nobr>（向上取整）</nobr>，為你的移動行動附加<nobr>+2移動力<sprite name=Move></nobr>。,,,
-334_t,本回合，你的每次<nobr>反擊<sprite name=Retaliate></nobr>造成2點額外傷害。,,,
+334_t,本回合，你的每次<nobr>復仇<sprite name=Retaliate></nobr>造成2點額外傷害。,,,
 335_t,如果一個相鄰的普通級別敵人的當前生命值小於你已損失生命值的一半（向上取整），消滅該敵人。,,,
 336_t,你可以損失至多4點生命值。,,,
 337_b,本回合，你的所有攻擊獲得優勢，所有指定你為目標的攻擊獲得劣勢。,,,
@@ -270,7 +270,7 @@
 357_t,為所有盟友的所有攻擊附加<nobr>流血<sprite name=Wound></nobr>。,,,
 358_t,在接下來五次你<nobr>詛咒<sprite name=Curse></nobr>一個敵人時，額外<nobr>詛咒<sprite name=Curse></nobr>一次。,,,
 360_t,所有盟友可以在他們行動輪開始時執行一次<nobr>“治療<sprite name=Heal>1，目標為自己”</nobr>。,,,
-362_t,所有盟友獲得<nobr>反擊<sprite name=Retaliate>2，</nobr><nobr>反擊射程範圍<sprite name=Range>2</nobr>。,,,
+362_t,所有盟友獲得<nobr>復仇<sprite name=Retaliate>2，</nobr><nobr>復仇射程範圍<sprite name=Range>2</nobr>。,,,
 364_t,所有敵人在它們的所有攻擊中獲得劣勢。,,,
 365_t,任意一名盟友可以執行,,,
 366_t_1,你可以同時啟動兩首<nobr><color=#EBB0AA>戰歌</color><sprite name=Song></nobr>，但你只能從其中一張獲得經驗值。,,,
@@ -440,7 +440,7 @@ ability_card_bonebreaker,碎骨重擊,,,
 ability_card_boomingproclamation,爆烈宣言,,,
 ability_card_boostershot,腎上腺素,,,
 ability_card_borrowedessence,暫借菁華,,,
-ability_card_bounceback,反擊,,,
+ability_card_bounceback,復仇,,,
 ability_card_brainleech,噬腦蛭,,,
 ability_card_breakthechains,打破梏鏈,,,
 ability_card_brightaegis,光輝聖盾,,,
@@ -526,7 +526,7 @@ ability_card_duelistsadvance,上前單挑,,,
 ability_card_earthenclod,大地固,,,
 ability_card_earthenspikes,土力尖峰,,,
 ability_card_earthensteed,土制駿馬,,,
-ability_card_echoingaria,反擊詠歎調,,,
+ability_card_echoingaria,復仇詠歎調,,,
 ability_card_elementalaegis,元素魔盾,,,
 ability_card_elementalaid,元素回復,,,
 ability_card_empatheticassault,詭意突襲,,,
@@ -1599,14 +1599,14 @@ combat_log_xp,{0}獲得{1}點經驗值,,,
 command,角色特效口令,,,
 compendium_activebonuses_1,"某些卡行動可能包含啟動獎勵效果，啟動效果會在達成其要求條件時生效。這些卡片出現在角色手牌的啟動部分中，直到效果耗盡。然後根據動作右下角的圖示將啟動卡丟棄或焚燒。
 
-當啟動獎勵生效時，將在螢幕頂部的優先權跟蹤器中的角色肖像旁邊有一個標記。在此啟動獎勵圖示上懸停游標將顯示效果詳細資訊及其XP跟蹤器，如果有的話 一 游標懸停在角色上時顯示的角色資訊面板中也可以看出。
+當啟動獎勵生效時，將在螢幕頂部的優先權序列中的角色肖像旁邊有一個標記。在此啟動獎勵圖示上懸停游標將顯示效果詳細資訊及其XP跟蹤器，如果有的話 一 游標懸停在角色上時顯示的角色資訊面板中也可以看出。
 
 表示啟動效果持續時間的圖示如下：",,,
 compendium_activebonuses_2,"<b>回合獎勵</b>
 擁有此圖示的啟動獎勵效果僅持續到當前回合結束。",,,
 compendium_activebonuses_3,"<b>永久獎勵</b>
-擁有此圖示的啟動獎勵效果的持續時間不受回合數限制，直到滿足其要求條件才會失效（如果未指定條件，則持續到劇本結束）！某些永久獎勵擁有XP跟蹤器，指示滿足某些條件時會獲得XP，XP跟蹤器可以在優先權跟蹤器中查看。",,,
-compendium_activebonuses_4,通過在螢幕頂部的優先權跟蹤器中的啟動獎勵標記上懸停游標並按一下圖示，可以取消啟動獎勵。,,,
+擁有此圖示的啟動獎勵效果的持續時間不受回合數限制，直到滿足其要求條件才會失效（如果未指定條件，則持續到劇本結束）！某些永久獎勵擁有XP跟蹤器，指示滿足某些條件時會獲得XP，XP跟蹤器可以在優先權序列中查看。",,,
+compendium_activebonuses_4,通過在螢幕頂部的優先權序列中的啟動獎勵標記上懸停游標並按一下圖示，可以取消啟動獎勵。,,,
 compendium_activebonuses_title,啟動獎勵,,,
 compendium_advantageanddisadvantage_1,一些攻擊可能從效果或站位中獲得優勢或劣勢的影響（對近戰範圍執行任何遠距攻擊都會處於劣勢）。,,,
 compendium_advantageanddisadvantage_2,具有<b>優勢</b>的攻擊將抽取兩張修正卡並選擇其中結果更好的進行結算。,,,
@@ -1623,11 +1623,11 @@ compendium_areaeffects_4,"一些區域效果攻擊具有射程的屬性，能夠
 
 請注意，使用區域效果時，雖然瞄準時只要有一個紅色格子在視線範圍內即可實現瞄準，但區域效果只能作用於角色視線中的目標，視線之外的目標即使被區域效果範圍涵蓋在內也無法受到影響。",,,
 compendium_areaeffects_title,區域效果,,,
-compendium_attackeffects_1,"攻擊效果會在攻擊結算後附加在目標上。無論相應的攻擊是否造成傷害，都會施加攻擊能力效果。在沒有攻擊的情況下，某些行動也可以使這些攻擊效果作為技能生效，並且在這種情況下，攻擊效果的目標要求會標注在能力卡上。",,,
-compendium_attackeffects_2,"<b>推遠 X：</b>使目標被迫在攻擊者指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更遠離攻擊者。如果沒有可以繼續使目標移動的格子，則無法繼續推遠目標。目標可以在被推遠時通過其友軍所在的格子，但無法通過其敵人所在的格子。"
-compendium_attackeffects_3,"<b>拉近 X：</b>使目標被迫在攻擊者指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更接近攻擊者。如果沒有可以繼續使目標移動的格子，則無法繼續拉近目標。目標可以在被拉近時通過其友軍所在的格子，但無法通過其敵人所在的格子。"
-compendium_attackeffects_4,"<b>穿刺 X：</b>忽略目標最多X點護盾進行攻擊。與其他效果不同，穿刺會在攻擊造成傷害時進行結算，而不是在攻擊後附加。"
-compendium_attackeffects_5,"<b>增加目標：</b>如果角色用攻擊行動觸發增加目標的效果，則角色可以在攻擊範圍內選取額外的目標進行攻擊。攻擊行動本身的所有附加效果和條件也適用於額外選擇的目標（不包含“增加目標”效果本身）。",,,
+compendium_attackeffects_1,攻擊效果會在攻擊結算後附加在目標上。無論相應的攻擊是否造成傷害，都會施加攻擊能力效果。在沒有攻擊的情況下，某些行動也可以使這些攻擊效果作為技能生效，並且在這種情況下，攻擊效果的目標要求會標注在能力卡上。,,,
+compendium_attackeffects_2,<b>推遠 X：</b>使目標被迫在攻擊者指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更遠離攻擊者。如果沒有可以繼續使目標移動的格子，則無法繼續推遠目標。目標可以在被推遠時通過其友軍所在的格子，但無法通過其敵人所在的格子。,,,
+compendium_attackeffects_3,<b>拉近 X：</b>使目標被迫在攻擊者指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更接近攻擊者。如果沒有可以繼續使目標移動的格子，則無法繼續拉近目標。目標可以在被拉近時通過其友軍所在的格子，但無法通過其敵人所在的格子。,,,
+compendium_attackeffects_4,<b>穿刺 X：</b>忽略目標最多X點護盾進行攻擊。與其他效果不同，穿刺會在攻擊造成傷害時進行結算，而不是在攻擊後附加。,,,
+compendium_attackeffects_5,<b>增加目標：</b>如果角色用攻擊行動觸發增加目標的效果，則角色可以在攻擊範圍內選取額外的目標進行攻擊。攻擊行動本身的所有附加效果和條件也適用於額外選擇的目標（不包含“增加目標”效果本身）。,,,
 compendium_attackeffects_title,攻擊效果,,,
 compendium_attackmodifiers_1,"攻擊時，將卡的攻擊數值之上，按以下順序計算額外的傷害。對成為攻擊目標的每個敵人單獨重複這些步驟：
 
@@ -1642,28 +1642,28 @@ compendium_blessandcurse_1,詛咒和祝福與其他效果不同，它們不是�
 compendium_blessandcurse_2,<b>祝福：</b>如果目標被祝福，則將祝福（<color=#D92727><b>x2</b></color>）卡放置到目標的剩餘攻擊修正卡牌庫中。當通過攻擊揭示此卡時，它將從攻擊修正卡牌庫中刪除。,,,
 compendium_blessandcurse_3,<b>詛咒：</b>如果目標被詛咒，則將詛咒（<color=#A050E0><b>x0</b></color>）卡放置到目標的剩餘攻擊修正卡牌庫中。當通過攻擊揭示此卡時，它將從攻擊修正卡牌庫中刪除。,,,
 compendium_blessandcurse_title,祝福和詛咒,,,
-compendium_cardlayout,"<b>1.卡名稱
-</b>
-每個玩家角色能力卡都有一個唯一的的卡名稱。
+compendium_cardlayout,"<b>1. 卡片名稱：</b>
 
-<b>2.優先權
+每個角色能力卡都有獨特的卡片名稱。
 
-</b>
-每個角色選擇的第一張能力卡的優先權決定了該角色在本回合中何時進行行動。
+<b>2. 優先權：</b>
 
-<b> 3.行動</b>
-每張卡的頂部或是下半部分表示可以在角色輪次中選取的行動，每個行動包含一個或多個技能（例如移動，攻擊等）。必須從其中一張卡的頂部或者底部中選擇第一個行動，然後從另外一張卡的另一個半區中選擇第二個行動。
+每個角色選擇的第一張能力卡，上面的優先權決定了該角色在本回合中何時進行行動（優先權越小，角色越先進行行動）。
 
-<b>4.基礎動作
-</b>
-除了能力卡上的主要行動外，所有能力卡還可以使用基礎動作來替代主要行動。所有卡的基礎動作相同：頂部基礎動作為<b>攻擊2</b>，底部基礎動作為<b>移動2</b>。",,,
-compendium_cardlayout_title,卡佈局,,,
+<b>3. 動作：</b>
+
+每張技能卡的頂部或是底部表示角色可以在輪次中選取的動作，每個動作包含一個或多個能力（例如前進，進攻......等）。必須從其中一張牌的頂部或者底部中選擇第一個動作，然後另一張牌的另一半部就會是第二個動作。
+
+<b>4. 基礎動作：</b>
+
+除了能力卡上的標準動作外，所有能力卡還可以使用基礎動作來替代標準動作。所有卡的基礎動作都相同：頂部基礎動作為的<color=#1F9EDC>進攻</color><sprite name=Attack> <b>2</b>，底部基礎動作為<color=#1F9EDC>前進</color><sprite name=Move> <b>2</b>。",,,
+compendium_cardlayout_title,能力卡解說,,,
 compendium_consumingelements_1,"可以通過消耗螢幕右側的元素跟蹤器中的強烈或衰弱狀態中的元素（參見<b>充能元素</b>）以在行動卡上增加某些技能或強化某些效果。
 
 所需消耗的元素由一個或兩個元素符號表示，每個前面帶有箭頭的元素符號表示需要消耗對應的元素才能夠觸發該技能或強化效果。",,,
 compendium_consumingelements_2,"如果以這種方式消耗了一個元素，則無論該元素的狀態是強烈還是衰弱，都會使其從元素跟蹤器中耗盡，變為惰性狀態。
 
-對於玩家角色，消耗元素的效果是可選的。通過按一下螢幕底部的消耗元素圖示，可以在確認行動之前的任何時間點選擇使用或取消對應效果，在可以選擇任一元素的情況下，系統將提示你從可用的元素中選擇一個。
+對於角色，消耗元素的效果是可選的。通過按一下螢幕底部的消耗元素圖示，可以在確認行動之前的任何時間點選擇使用或取消對應效果，在可以選擇任一元素的情況下，系統將提示你從可用的元素中選擇一個。
 
 怪物在對應元素可用的情況下始終選擇消耗元素，如果是消耗任一元素，它們會隨機選擇一個可用的元素進行消耗。",,,
 compendium_consumingelements_title,消耗元素,,,
@@ -1696,12 +1696,14 @@ compendium_infusingelements_2,"螢幕右側的圓圈表示元素的狀態。可�
 
 當使用具有元素注入效果的技能時，該元素將以注入狀態顯示在元素跟蹤器中。只有在當前角色輪次結束後元素才會充能到戰場上。因此，不能充能元素，然後在同一角色的同一輪次的行動中消耗它 一 但是稍後可以在同一輪的剩餘輪次中被任何角色或怪物消耗。在每個回合結束時，強烈的元素變得衰弱，並且衰弱元素變得惰性，惰性狀態下的元素不再可供消耗。",,,
 compendium_infusingelements_title,元素充能,,,
-compendium_initiative_1,"優先權決定玩家角色和怪物的輪次順序.
+compendium_initiative_1,"優先權決定角色和怪物的行動順序.
 
-每個角色選擇的第一張牌決定了這個角色的在這一輪次中的優先權 一 越小的數值代表角色越早就可以行動. 你可以通過點擊金黃色的優先權來更改兩張卡被選擇的次序。",,,
-compendium_initiative_2,"玩家角色在選擇能力卡時，尚不知道怪物將抽取的能力卡會是什麼。因此，你必須嘗試在不知道怪物何時採取何種行動的情況下評估特定角色應採取的的行動。
+每個角色選擇的第一張能力卡決定了這個角色的在這一回合中的優先權 一 越小的數值代表角色越早行動。你可以通過點擊閃爍的優先權數字來調換兩張被選擇能力卡的順序。",,,
+compendium_initiative_2,"角色在選擇能力卡時，不會知道怪物將抽取的能力卡會是什麼。因此，你必須嘗試在不知道怪物何時採取何種行動的情況下評估角色應採取的行動。
 
-一旦所有玩家角色和怪物都選擇了他們的卡，螢幕頂部的優先權跟蹤器就會更新並根據角色和怪物的優先權進行排序 一 從最低數值最先開始，最後一次最高。兩名玩家時序相同時會根據另一張卡（即未被選擇作為角色優先權的卡）的優先權進行排序，玩家時序與怪物相同時玩家先行動。請注意，同一類型的所有怪物每個回合都會使用相同的能力卡，從而具有相同的優先權，因此即使在該怪物類型多次出現的情況下，優先權追蹤器中的每一個同類型怪物也將具有相同的優先權。",,,
+一旦所有角色都選擇了他們的能力卡，怪物也會揭露他們抽取到的能力卡是什麼，然後螢幕頂部的優先權序列就會更新並根據角色和怪物的優先權進行排序 一 從最低數值最先開始，然後依次直到最高數值。
+兩名玩家優先權相同時會根據另一張卡（第二張被選擇的能力卡）的優先權進行排序，玩家優先權與怪物相同時玩家先行動。
+請注意！同一類型的所有怪物在同一回合內都使用同一張能力卡，因此具有相同的優先權，即使該怪物類型再次出現的情況下，優先權序列中的每一種同類型怪物也將具有相同的優先權。",,,
 compendium_initiative_title,優先權,,,
 compendium_itemslots,"當不在劇本中時，角色可以在各種庫存槽中裝備道具卡。請注意，角色不能擁有任何完全重複的道具卡。
 
@@ -1711,7 +1713,7 @@ compendium_levellingup_1,在霸業模式中，當一個角色具有其升級所�
 compendium_levellingup_2,在升級後，他們的最大生命值將會增加，他們可以在每個級別獲得兩張待解鎖的新能力卡並從待解鎖卡中選擇一張將其解鎖。此卡會在接下來的旅行中可用。通過解鎖更多的角色能力卡，你可以升級和自訂隊伍角色的能力卡池，調整卡片以更好地互相搭配，或是進行角色之間的協作，這也可以磨煉你的策略。,,,
 compendium_levellingup_title,升級,,,
 compendium_loot_1,<b>拾取X：</b>拾取技能允許一個角色在X範圍內拾取所有的金幣堆和寶箱。這個動作不受怪物或障礙的影響，但請注意該技能的實際效果範圍會受到視線範圍的限制。,,,
-compendium_loot_2,"除了拾取能力之外，在每個玩家角色行動輪次結束時，此玩家角色將自動拾取他們現在佔據的格子中的所有黃金。玩家角色的召喚物不執行此效果。
+compendium_loot_2,"除了拾取能力之外，在每個角色行動輪次結束時，此角色將自動拾取他們現在佔據的格子中的所有黃金。角色的召喚物不執行此效果。
 
 在霸業模式中，這筆錢在玩家隊伍內的所有傭兵之間分享。
 ",,,
@@ -1749,7 +1751,7 @@ compendium_monsterturns,"怪物的決定由其能力卡和焦點系統控制，�
 
 怪物的能力卡是每類怪物分別抽取的，而不是每個怪物。這意味著，劇本中所有同類型怪物在同一輪次中都會使用相同的能力。
 
-同一怪物類型中精英級別首先行動，如果板上存在多個同一類型的精英或普通怪物，則同級別怪物以昇冪編號依次行動。同一類型的所有怪物處於同一輪次，所以優先權跟蹤器不會單獨展示每一隻怪物的行動順序。",,,
+同一怪物類型中精英級別首先行動，如果板上存在多個同一類型的精英或普通怪物，則同級別怪物以昇冪編號依次行動。同一類型的所有怪物處於同一輪次，所以優先權序列不會單獨展示每一隻怪物的行動順序。",,,
 compendium_monsterturns_title,怪物輪次,,,
 compendium_movementtypes_1,<b>移動X：</b>移動技能允許一個角色在地圖上移動X個格子。角色和怪物可以穿過他們各自的友軍。但不能穿過他們的敵人或障礙物。陷阱可以通過移動觸發，並在使用正常移動進入陷阱的同時觸發。移動結束時不能停留在與另一個角色或怪物相同的格子。移動永遠不能通過牆壁。,,,
 compendium_movementtypes_2,"<b>跳躍</b>
@@ -1788,23 +1790,24 @@ compendium_restsandrecoveringcards,"丟棄的卡可以通過執行以下類型�
 
 2.<b>長休息：</b>選擇長休息可以代替選擇能力卡，你可以自己挑選一張被丟棄的卡，將其焚燒，以執行<b>治療2，自身 </b>，同時回收所有其他被丟棄的卡片並刷新所有磨損了的裝備卡，本回合的優先權為<b>99</b>。",,,
 compendium_restsandrecoveringcards_title,休息和回收卡片,,,
-compendium_retaliate,"<b>反擊X：</b>擁有反擊的角色會在遭受攻擊而沒有死亡或精疲力竭後會對攻擊者造成X點傷害（遭受反擊傷害不會觸發反擊）。反擊也可以具有<b>射程Y</b>，這意味著反擊效果會對距離Y以內的任何攻擊者生效而不是僅影響近戰範圍。
+compendium_retaliate,"<b>復仇X：</b>擁有復仇的角色會在遭受攻擊而沒有死亡或精疲力竭後會對攻擊者造成X點傷害（遭受復仇傷害不會觸發復仇）。復仇也可以具有<b>射程Y</b>，這意味著復仇效果會對距離Y以內的任何攻擊者生效而不是僅影響近戰範圍。
 
-反擊可以被疊加，並且反擊傷害不需要抽取修正卡也不會被其他任何效果影響，玩家可以焚燒卡來阻擋反擊傷害。",,,
-compendium_retaliate_title,反擊,,,
-compendium_roundsummary,"一個劇本包括一系列回合，直到玩家符合劇本的勝利條件或失敗條件。一回合包括以下階段：
+復仇可以被疊加，並且復仇傷害不需要抽取修正卡也不會被其他任何效果影響，玩家可以焚燒卡來阻擋復仇傷害。",,,
+compendium_retaliate_title,復仇,,,
+compendium_roundsummary,"一個劇本包含數個回合，直到玩家符合劇本的勝利條件或失敗條件。
+一回合包括以下階段：
 
-• <indent=15><b>選擇能力卡：</b>
-每個玩家角色，要麼選擇兩張牌，要麼選擇執行長休息。選擇的第一張卡片為本回合該角色的優先權（在卡選擇期間也可以執行短休息以回收丟棄卡）。</indent>
+• <indent=15><b>能力卡選擇階段：</b>
+為每個角色選擇兩張能力卡。若沒有辦法選擇的角色，可以改為選擇進行長休息或是短休息（進行短休息可以先將棄牌區的能力卡回收）。選擇的第一張牌將會決定該角色本回合的優先權。</indent>
 
-• <indent=15><b>揭露怪物能力卡：</b>
-對於目前在場的每個怪物類型，揭露一張怪物能力卡，所有同類型的怪物都將在回合中使用相同的能力卡。然後根據角色和怪物的能力卡優先權更新螢幕頂部的優先權跟蹤器。</indent>
+• <indent=15><b>怪物能力卡揭露階段：</b>
+為每個存在場上的怪物類型，揭露一張怪物能力卡（所有同類型的怪物會共用同一張能力卡）。然後角色和怪物的能力卡優先權將會列在螢幕頂部的優先權序列中，由左至右代表行動的順序。</indent>
 
 • <indent=15><b>行動階段：</b>
-從優先權最小的一方開始，玩家和怪物將依次行動。怪物只能採取行動卡上的行動，玩家角色選擇各自所選卡片上的行動。玩家角色也可以在自己輪次時使用物品卡。</indent>
+從優先權最小的一位開始，角色或怪物將依順序行動。怪物只會採取能力卡上的能力，角色從剛剛選擇的兩張能力卡上選擇執行的動作，也可以在自己的輪次時使用物品。</indent>
 
-• <indent=15><b>回合結束：</b>
-回合內啟動效果結束，依照效果將其丟棄或焚燒，元素從強烈降為衰減，從衰減降為惰性，如果有修正卡池的默認<color=#A050E0><b>x0</b></color>或<color=#D92727><b>x2</b></color>被抽出，則將該修正卡池洗牌。</indent>",,,
+• <indent=15><b>回合結束階段：</b>
+持續一回合的效果消失，並依照牌上敘述將其丟棄或焚燒，元素從強烈變為衰退，從衰退變為惰性，如果 <color=orange><b>x0</b></color> 或 <color=orange><b>x2</b></color> 修正卡被抽出，則將將所有被抽出的修正卡放回修正卡牌庫混洗。</indent>",,,
 compendium_roundsummary_title,回合構成,,,
 compendium_section_abilitiesattack,能力：進攻,,,
 compendium_section_abilitiesmove,能力：移動,,,
@@ -1817,13 +1820,13 @@ compendium_section_experience,經驗值,,,
 compendium_section_items,裝備,,,
 compendium_section_monsterbehaviour,怪物行為,,,
 compendium_section_overview,概述,,,
-compendium_selectingcards,"在回合開始時，必須為每個玩家角色選擇兩張能力卡或長休息，以進行使用。
+compendium_selectingcards,"在回合開始時，必須為每個角色選擇兩張能力卡或進行長休息。
 
-基於選擇的卡確定角色在輪次中的行動，以及該角色的優先權。黯淡港灣中大部分策略是基於明智地選擇卡並進行正確組合，以利用他們的技能和主動性。
+基於所選的牌來決定角色在輪次中可以進行的動作，以及該角色的優先權。<color=#BA7956><b>黯淡港灣</b></color>中實行策略是基於明智地選擇能力卡並進行組合，以利用他們的能力和優先權。
 
-請注意，雖然每張卡有兩個半區，但不能選擇同一半區的效果。例如，如果你在一張卡的頂部中選擇了本輪次中的第一個動作，則必須在另一張卡的底部中選擇第二個動作。",,,
-compendium_selectingcards_title,選擇卡,,,
-compendium_shield,<b>護盾X：</b>護盾技能會使被攻擊者獲得了一種防禦效果，可為受到的每次攻擊減少X點傷害。多個護盾效果可以疊加，並且可以以任何順序被觸發。護盾只能減少被攻擊造成的傷害 一 不會減少陷阱或反擊等直接傷害。,,,
+請注意！雖然每張牌有兩個半部，但不能選擇同一半部的效果。例如：如果本輪次中的第一個動作，你選擇了某一張卡的頂部，則第二個動作必須選擇另一張卡的底部。",,,
+compendium_selectingcards_title,選擇能力卡階段,,,
+compendium_shield,<b>護盾X：</b>護盾技能會使被攻擊者獲得了一種防禦效果，可為受到的每次攻擊減少X點傷害。多個護盾效果可以疊加，並且可以以任何順序被觸發。護盾只能減少被攻擊造成的傷害 一 不會減少陷阱或復仇等直接傷害。,,,
 compendium_shield_title,護盾,,,
 compendium_summon,"一些能力可以召喚友軍以幫助你。召喚物會被召喚到與召喚者相鄰的空的格子中。如果沒有可用的格子，則無法使用召喚能力。
 
@@ -1833,7 +1836,7 @@ compendium_summon,"一些能力可以召喚友軍以幫助你。召喚物會被�
 
 同一玩家可以獲得多種不同的召喚能力，在這種情況下，他們按照他們被該角色召喚的順序行動。召喚物永遠不會主動在剛被召喚出的回合中行動。召喚物的擊殺會被記錄給召喚者。",,,
 compendium_summon_title,召喚,,,
-compendium_takingdamage,"每當玩家角色即將以任何形式受到傷害時，你都會有三個選項：
+compendium_takingdamage,"每當角色即將以任何形式受到傷害時，你都會有三個選項：
 
 • <indent=15><b>1. 遭受傷害：</b>角色失去對應的生命值。</indent>
 
@@ -1849,7 +1852,7 @@ compendium_traps,"當一個角色走入或被強制移入陷阱時，陷阱被�
 
 將游標懸停在一個陷阱上來查看該陷阱效果。角色和怪物還可能通過能力卡在地圖上建立具有特殊效果的陷阱。",,,
 compendium_traps_title,陷阱,,,
-compendium_usingabilites,"在玩家角色的輪次開始時，你可以介紹你所選擇的兩張牌。你現在可以選擇用於兩個行動中的第一個行動用於在輪次中執行，記住，另一卡上的相反一半上的主要行動或基礎動作將必須是你的第二個動作。
+compendium_usingabilites,"在角色的輪次開始時，你可以介紹你所選擇的兩張牌。你現在可以選擇用於兩個行動中的第一個行動用於在輪次中執行，記住，另一卡上的相反一半上的主要行動或基礎動作將必須是你的第二個動作。
 
 在每個行動中包含一個或多個技能，這些技能會按照它們出現在卡上的順序從上到下進行 一 雖然你可以選擇跳過一些技能，但不能跳過負面效果。以下是螢幕截圖中隕石坑技能底部動作的技能示例細分：
 
@@ -1860,7 +1863,7 @@ compendium_usingabilites,"在玩家角色的輪次開始時，你可以介紹你
 • <indent=15>最後，還有另一個對所有相鄰的友軍和敵人造成1點傷害的技能。請注意，下面有一個選項，可以消耗土元素（請參閱<b>元素</b>）來使本次傷害改為2點並獲得1XP。請注意，本次消耗元素只對本次傷害有效，不會影響上一次傷害。</indent>
 
 • <indent=15>在所有三個技能完成後，會獲得顯示在行動底部的1XP，並且由於卡片右下角的焚燒圖示，卡會被焚燒而不是丟棄。</indent>",,,
-compendium_usingabilites_title,使用技能,,,
+compendium_usingabilites_title,使用能力,,,
 compendium_usingitems_1,"根據裝備卡上標注的條件，在可以使用對應裝備時會顯示使用圖示，你可以通過點擊它們來使用這些裝備。某些裝備只能在被攻擊時使用，並在適用時出現。也有一些裝備，它們可以提供恒定的被動效果，因此不需要啟動就會被使用。
 
 請注意，如果物品會影響攻擊（例如，獲得加成，施加負面效果，獲得優勢等），就可以在攻擊之前使用它 一 也就是在抽取攻擊的攻擊修正卡之前。如果將負面效果添加到攻擊中，它就會在攻擊後被施放到被攻擊者身上。角色在同一時間可以使用的道具數目沒有限制，任何行動都可以使用與之相關聯的道具。
@@ -3714,7 +3717,7 @@ event_road_campaign_20_intro,"當你們使勁爬過連綿的山丘，聽到遠�
 你們登上山丘頂部觀察周圍，發現一群鼠人族站成一圈正在唱歌。“唱歌”是你們對這種情形能給出最好的形容。你們看到這些鼠人族偶爾會在歌聲中拍手甚至會隨之起舞。",,,
 event_road_campaign_20_option_a,這歌一定是為某種邪惡目的所唱。攻擊這些鼠人族。,,,
 event_road_campaign_20_option_b,靠近一點以便欣賞這種詭異的歌聲。,,,
-event_road_campaign_20_result_a,你們出其不意向這群鼠人族發起了進攻，因為他們全神貫注地進行儀式，所以甚至沒有注意到你們正沖向他們。不過，在這些鼠人族被你們殺盡之前，他們還是做出了一些反擊。,,,
+event_road_campaign_20_result_a,你們出其不意向這群鼠人族發起了進攻，因為他們全神貫注地進行儀式，所以甚至沒有注意到你們正沖向他們。不過，在這些鼠人族被你們殺盡之前，他們還是做出了一些復仇。,,,
 event_road_campaign_20_result_b,因為不願意去打擾他們的儀式，你們稍微靠近了幾步，保持在他們的視線之外，然後坐下來聆聽。他們的歌聲轉了好幾個不同的聲調，這讓你們體會很深，並且對鼠人的認識也增添了幾分。,,,
 event_road_campaign_21_intro,"當你發現自己在叢林茂密的灌木叢中穿行時，你注意到許多小動物沿著相反的方向在地面上奔跑。
 
@@ -3991,7 +3994,7 @@ event_road_campaign_45_intro,"一群骯髒粗魯的人迅速騎馬追上並包�
 她又跳回馬上，看著你，說道“嗯，見到你真是太好了，不過記住，你從來沒見過我。”",,,
 event_road_campaign_45_option_a,攻擊！不管她們是不是朋友，這些恃強淩弱的人必須被繩之以法。,,,
 event_road_campaign_45_option_b,放他們一馬。,,,
-event_road_campaign_45_result_a,你看到這些強盜放鬆警惕開始收拾行裝，這是千載難逢的機會。她們中一部分人兇狠的發動反擊。這名首領的飛刀扔的很好，在她逃走之前，大罵你這是個錯誤的決定。,,,
+event_road_campaign_45_result_a,你看到這些強盜放鬆警惕開始收拾行裝，這是千載難逢的機會。她們中一部分人兇狠的發動復仇。這名首領的飛刀扔的很好，在她逃走之前，大罵你這是個錯誤的決定。,,,
 event_road_campaign_45_result_b,這些強盜在收拾行裝時看起來有些失落，隨即向相反方向離開了。,,,
 event_road_campaign_46_intro,"當你們在山丘上前進的時候，一道陡峭的山脊出現在你們前面，在它的頂端有一堆看上去非常奇怪的岩石群。
 
@@ -4024,7 +4027,7 @@ event_road_campaign_48_option_a,關於那個執日者的下落，你們將知道
 event_road_campaign_48_option_b,攻擊這些惡魔。雖然他們數量眾多，但你們不是這麼容易被威脅的。,,,
 event_road_campaign_48_result_a,"你們不確定那個執日者離開你們的團隊之後到底經歷了什麼事情，但你們還是告訴了
 這些惡魔自己所知道的一切。牠們似乎對你們合作的態度感到十分滿意，在他們向著西邊飛去之前甚至對你們表達了感謝。",,,
-event_road_campaign_48_result_b,你們一言不發，隨手拔出武器向牠們發起了進攻，這些旭日惡魔被你們打了個措手不及，但是很快便向你們發起兇猛的反擊。這場戰鬥十分漫長而且打得非常殘酷，你們最終帶著慘烈的傷勢和鮮血直流的身軀，繼續踏上了旅程。,,,
+event_road_campaign_48_result_b,你們一言不發，隨手拔出武器向牠們發起了進攻，這些旭日惡魔被你們打了個措手不及，但是很快便向你們發起兇猛的復仇。這場戰鬥十分漫長而且打得非常殘酷，你們最終帶著慘烈的傷勢和鮮血直流的身軀，繼續踏上了旅程。,,,
 event_road_campaign_49_intro,"一群騎馬的人在路上走近你們。他們看上去雖然沒有什麼敵意，但是組織十分嚴密並且令人畏懼。
 
 其中一個身穿板甲，身旁佩有一把利劍的人冷冷地向你們問道：“你們是從黯淡港灣來的，對不對？你們認為那個地方的政治環境如何？由軍方統治那個地方你們是支持還是反對？還是說你認為那些愚蠢的商人能夠做得更好，對嗎？正如他們在這片就定被毀滅的大陸所做的那樣。”
@@ -4184,7 +4187,7 @@ event_road_campaign_62_intro,"那些向你們走來的旭日惡魔在地平線�
 event_road_campaign_62_option_a,答應幫助這些旭日惡魔。,,,
 event_road_campaign_62_option_b,攻擊這些旭日惡魔。也許只有這樣才能讓牠們不再煩你。,,,
 event_road_campaign_62_result_a,你們顯得十分無奈，歎了口氣便答應牠們的請求，然後警告牠們說這是你們提供的最後一次幫助，絕對沒有下次。旭日惡魔告訴了你們太陽神廟的位置並且想求你們趕快過去。,,,
-event_road_campaign_62_result_b,你們一言不發，隨手拔出武器向牠們發起了進攻，這些旭日惡魔被你們打了個措手不及，但是很快便向你們發起兇猛的反擊。這場戰鬥十分漫長而且打得非常殘酷，你們最終帶著慘烈的傷勢和鮮血直流的身軀，繼續踏上了旅程。,,,
+event_road_campaign_62_result_b,你們一言不發，隨手拔出武器向牠們發起了進攻，這些旭日惡魔被你們打了個措手不及，但是很快便向你們發起兇猛的復仇。這場戰鬥十分漫長而且打得非常殘酷，你們最終帶著慘烈的傷勢和鮮血直流的身軀，繼續踏上了旅程。,,,
 event_road_campaign_63_intro,"當你們在山丘上前行的時候，腳下的土地突然猛烈地震動起來。隨後便有兩隻由泥土與石頭所組成的巨型惡魔出現在你們面前。
 
 “愚蠢的旅行者，今天我們就要以你們的血肉為食！”
@@ -4590,7 +4593,7 @@ gloomhaven_street_travellers_district,旅人大街,,,
 gloomhaven_street_university,學院,,,
 gloomhaven_street_ward_of_scales,天秤街區,,,
 gloomhaven_street_west_barracks,城西軍營,,,
-glossary_action,行動是玩家角色和怪物如何在幽暗迷城中進行它們的輪次，由一個或多個能力卡組成。,,,
+glossary_action,行動是角色和怪物如何在幽暗迷城中進行它們的輪次，由一個或多個能力卡組成。,,,
 glossary_addtarget,附加額外攻擊目標。,,,
 glossary_advantage,優勢攻擊：具有優勢的攻擊者將抽取兩張攻擊修正卡並使用其中更好（數值更高）的那張。,,,
 glossary_air,元素充能 一 氣：用氣元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能同一輪次連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。,,,
@@ -4680,9 +4683,9 @@ glossary_poison,中毒：敵人在所有對中毒單位的攻擊中附加+1攻�
 glossary_pull,拉近：“拉近 X”攻擊效果或技能造成目標被強制靠近移動最多X個格子。 移動方向趨勢由控制者的技能/效果指定，即移動路線每格必須讓目標減少一格距離。目標能夠在被拉近的過程中穿過（被拉者的）友軍，但是不能穿過敵人或者障礙物。,,,
 glossary_push,強推：“強推 X”攻擊效果或技能造成目標被強制遠離移動最多X個格子。 移動方向趨勢由控制者的技能/效果指定，即移動路線每格必須讓目標增加一格距離。目標能夠在被強推的過程中穿過（被推者的）友軍，但是不能穿過敵人或者障礙物。,,,
 glossary_range,射程：“射程 X”的技能意味著目標必須在X格距離內。 此外，任何遠端技能都必須在單位的視線範圍內進行。,,,
-glossary_recover,回手（回牌）：使得玩家角色一定數量的棄牌堆（某些技能含燼牌堆）的一些卡回到他們手中。,,,
+glossary_recover,回手（回牌）：使得角色一定數量的棄牌堆（某些技能含燼牌堆）的一些卡回到他們手中。,,,
 glossary_redhex,紅格子顯示了技能效果的攻擊範圍 一 紅格子範圍上的目標將會被技能擊中。,,,
-glossary_refresh,刷新：允許一個玩家角色重新獲得一定數量乃至所有的“耗用（可通過長休息刷新）”和/或“耗竭（不可通過長休息刷新）”的物品。,,,
+glossary_refresh,刷新：允許一個角色重新獲得一定數量乃至所有的“耗用（可通過長休息刷新）”和/或“耗竭（不可通過長休息刷新）”的物品。,,,
 glossary_rest,0,,,
 glossary_retaliate,反傷：所有單位反傷射程內的攻擊者將會直接受到X點反傷傷害。如果射程值未指定，那麼僅對相鄰的攻擊者起作用。多個反傷效果將會疊加。,,,
 glossary_round,回合效果獎勵：表示這個效果持續到回合結束。,,,
@@ -4699,10 +4702,10 @@ glossary_target,目標數： “目標數 X”的技能意味著這名單位可�
 glossary_trap,陷阱：一個陷阱占一個格子。當一個單位用正常的移動或者被迫的移動進入陷阱格子，陷阱被觸發（例如強推/拉近）。,,,
 glossary_wound,流血：如果目標流血，它在每個輪次的開始時會遭受一點傷害。治療技能可移除流血狀態。,,,
 glossary_xp,XP：這個標誌代表著經驗值。,,,
-glossary_xp1,1XP：向玩家角色授予1點經驗值。,,,
-glossary_xp2,2XP：向玩家角色授予2點經驗值。,,,
-glossary_xp3,3XP：向玩家角色授予3點經驗值。,,,
-glossary_xp6,6XP：向玩家角色授予6點經驗值。,,,
+glossary_xp1,1XP：向角色授予1點經驗值。,,,
+glossary_xp2,2XP：向角色授予2點經驗值。,,,
+glossary_xp3,3XP：向角色授予3點經驗值。,,,
+glossary_xp6,6XP：向角色授予6點經驗值。,,,
 glossary_xparrow,XP獎勵跟蹤區：此跟蹤區顯示持續性能力卡如何在持續期間授予玩家XP獎勵。能力卡的每一次持續作用將會讓獎勵跟蹤區移動到下一個圓形槽，此時若圓形槽上標記了XP獎勵，該獎勵會被授予玩家。 打出的持續性獎勵能力卡會顯示在時序跟蹤區的角色頭像旁邊，你可以將滑鼠停留在卡片之上，查看XP獎勵跟蹤區，時序跟蹤區在螢幕頂部。,,,
 goal_chest_tooltip,華美的寶箱,,,
 goalchest,華美的寶箱,,,
@@ -6428,7 +6431,7 @@ item_shoesofhappiness,若在你自己的行動輪中移動了6個或者更多格
 item_skullbaneaxe,在你對行屍，怨靈或骷髏進行近戰攻擊時，對你的單次攻擊附加<nobr>+5進攻<sprite name=Attack></nobr>。,,,
 item_skullofhatred,在你的行動輪中，<nobr>詛咒<sprite name=Curse></nobr>所有相鄰的敵人。,,,
 item_sphereofmidnight,在你的行動輪結束時，如果與無瑕者相鄰，你可以對其造成兩倍於團隊中傭兵數量的傷害。,,,
-item_spikedshield,當你因為<nobr>攻擊</nobr>而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>反擊<sprite name=Retaliate>2</nobr>。,,,
+item_spikedshield,當你因為<nobr>攻擊</nobr>而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>復仇<sprite name=Retaliate>2</nobr>。,,,
 item_splintmail,在下四次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
 item_staffofelements,在你的行動輪中，生成任意一個元素。,,,
 item_staffofeminence,當你進行遠距攻擊時，<sprite name=ConsumeAny>並對你的整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
@@ -6443,7 +6446,7 @@ item_studdedleather,在下兩次受到攻擊時，攻擊者獲得劣勢；如果
 item_stunpowder,在你進行近戰攻擊時，對你的單次攻擊附加<nobr>擊暈<sprite name=Stun></nobr>。,,,
 item_sunearring,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>所有你已使用的道具並執行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”。,,,
 item_superhealingpotion,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>7，</nobr>自身”。,,,
-item_swordedgearmor,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>反擊<sprite name=Retaliate>1。</nobr>,,,
+item_swordedgearmor,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>復仇<sprite name=Retaliate>1。</nobr>,,,
 item_telescopiclens,當你進行遠距攻擊時，對你的整個攻擊行動輪附加<nobr>+2射程<sprite name=Range></nobr>。,,,
 item_thiefshood,當你執行<nobr>“拾取<sprite name=Loot>1”</nobr>時，改為執行一次<nobr>“拾取<sprite name=Loot>2”</nobr>。,,,
 item_towershield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>2</nobr>。,,,
@@ -6564,7 +6567,7 @@ loading_tip_021,召喚夥伴很有用，但它們往往比較莽撞  一  若想
 loading_tip_022,如果你不確定你將行動得過早還是過晚，請考慮挑選兩張不管行動早晚都能發揮效用的牌。,,,
 loading_tip_023,觀察敵人的移動並瞭解他們的牌堆和技能。一些怪物移動一直很快，另一些相反，這是能讓你在攻擊中保持優勢的資訊。,,,
 loading_tip_024,你可以按住L來查看人物的視野範圍。,,,
-loading_tip_025,在玩家角色的每個輪次中，所選卡的每個半區是一個行動，每個行動可以由一個或多個小技能組成。,,,
+loading_tip_025,在角色的每個輪次中，所選卡的每個半區是一個行動，每個行動可以由一個或多個小技能組成。,,,
 loading_tip_026,具有指定類型的行動意味著行動中至少有一個小技能屬於該類型。例如，“移動行動”包含至少一個移動技能。,,,
 loading_tip_027,當強推/拉近 X 時，總是要進行到底，除非被障礙物/單位阻擋，要麼就選擇完全跳過該效果。,,,
 loading_tip_028,注意，如果你因為優勢攻擊而抽取的兩張牌中，一張是“Miss (x0)”，另一張是帶有“連抽箭頭符號”的牌，此時Miss (x0)依然會生效！（傷害為0，但是其他附加效果依然會被結算）,,,
@@ -6746,7 +6749,7 @@ message_end_quest_story_7c_10,選擇你的團隊，武裝他們，然後你就�
 message_end_quest_story_7c_11,多人遊戲現已啟用。,,,
 message_end_quest_story_7c_2,"左側的面板是用於選擇團隊的陣容，並且在解鎖更多內容時自訂其能力卡和道具。現在你還可以在每個任務中帶上最多4個你自由選擇的傭兵。
 
-但請注意，劇本的難度會隨著玩家角色的數量改變。除非你曾經玩過<color=#BA7956><b>黯淡港灣</b></color>，否則建議保持2個角色來確保決策的可控性！",,,
+但請注意，劇本的難度會隨著角色的數量改變。除非你曾經玩過<color=#BA7956><b>黯淡港灣</b></color>，否則建議保持2個角色來確保決策的可控性！",,,
 message_end_quest_story_7c_3,當裝備道具時，注意裝備道具的傭兵將與其綁定。你可以付出一定代價來解綁，但請試著直接將其給予合適的傭兵。,,,
 message_end_quest_story_7c_4,為了幫助你在完成培訓後繼續提升你的技術，我提供了一系列成就供你達成。這些成就可以通過螢幕底部的<b>教官</b>按鈕查看。,,,
 message_end_quest_story_7c_5,完成這些挑戰將給予公會更多的獎金，任務，和地點。有時甚至會是回收強大遺物的任務！,,,
@@ -10016,7 +10019,7 @@ scenario_campaign_025_room_2_1,你穿過狼群，感謝雪沒有讓你速度慢�
 scenario_campaign_025_room_2_2,你透過白雪風暴看過去，看到紅色的生物向你飛奔。,,,
 scenario_campaign_025_success_1,萬事休矣 一 你跌倒了坐在雪地上。 但你知道你沒法起身。 你也知道你會被巨大的紅色爪子撕成碎片。,,,
 scenario_campaign_025_success_10,“或者，如果你想要老套一些的，”這個生物歎了口氣說，“你可以直接地攻擊我。 殺死巨龍，拯救公主，諸如此類。”,,,
-scenario_campaign_025_success_11,“除了我沒有公主，我也不是龍 一 只是一隻活了很久不想在今天結束自己生命的亞龍。 所以你要是攻擊我，我會反擊，你必死無疑。”,,,
+scenario_campaign_025_success_11,“除了我沒有公主，我也不是龍 一 只是一隻活了很久不想在今天結束自己生命的亞龍。 所以你要是攻擊我，我會復仇，你必死無疑。”,,,
 scenario_campaign_025_success_2,於是你不管不顧地奮力前進，直到亞龍追兵消失在你的身後，而山的頂峰終於出現在視野裡。,,,
 scenario_campaign_025_success_3,當你抵達頂峰時風平穩了下來，對於一直在忍受咬傷之痛的你來說最好不過了。這裡空氣很稀薄，但你已處於雲層之巔，這裡風平浪靜。,,,
 scenario_campaign_025_success_4,這讓你更容易看清楚看到那隻棲息在鋸齒狀巨石上的巨大翼蜥。,,,
@@ -10602,7 +10605,7 @@ scenario_crypt_banditcultist_descr_1,邪教徒們受雇於當地的一個強盜�
 scenario_crypt_bossbanditcommander_descr_0,所有強盜的蹤跡都指向了這裡，準備戰鬥！,,,
 scenario_crypt_bossbanditcommander_descr_1,這就是強盜指揮官的所在,,,
 scenario_crypt_bossbanditcommander_descr_2,不義之財堆滿了這個地穴，強盜的財寶正等著你來奪取！,,,
-scenario_crypt_bosshighcultist_descr_0,惡魔們從這個坑道中湧出，是時候反擊了！,,,
+scenario_crypt_bosshighcultist_descr_0,惡魔們從這個坑道中湧出，是時候復仇了！,,,
 scenario_crypt_bossundeadcommander_descr_0,你打聽到了一些傳言，某個東西驅使著一批亡靈盤踞在這裡,,,
 scenario_crypt_bossundeadcommander_descr_1,亡靈生物充斥在這個墓地的周圍,,,
 scenario_crypt_bossundeadcommander_descr_2,這個地方盤踞著龐大的危險，當然，也同樣意味著珍稀的寶藏！,,,
@@ -10804,7 +10807,7 @@ scenario_puzzle_2c_obj_1,在2個回合內不要受到任何攻擊,,,
 scenario_puzzle_2d_01,讓我們來看看<color=#FADC99><b>攻擊修正</b></color>卡。在之前的訓練中，角色在攻擊時總是抽取一張<color=orange><b> +0 </b></color>的<color=#FADC99>攻擊修正卡</color>，意味著他們的攻擊傷害總是和卡上說明的傷害一樣。但是平時可不是這樣的！,,,
 scenario_puzzle_2d_02,"在正常的劇本中，每次執行<link=""Glossary_Attack""><color=#FADC99>攻擊</color></link>行動時，角色都會抽取一張<color=#FADC99>攻擊修正卡</color>來影響實際造成的傷害。它們會通過<color=orange><b> +1 </b></color>，<color=orange><b> +2 </b></color>，和<color=#D92727><b> x2 </b></color>來提升傷害，或是通過<color=#A050E0><b> -1 </b></color>，<color=#A050E0><b> -2 </b></color>，和<color=#A050E0><b> x0 </b></color>來降低傷害，還可能像你之前看到的<color=orange><b> +0 </b></color>那樣對傷害數值不造成影響。
 
-你可以通過將滑鼠懸停在任意角色身上來看到他的攻擊修正卡牌庫  一 注意，和玩家角色不同的是，所有怪物共用同一個攻擊修正卡牌庫！",,,
+你可以通過將滑鼠懸停在任意角色身上來看到他的攻擊修正卡牌庫  一 注意，和角色不同的是，所有怪物共用同一個攻擊修正卡牌庫！",,,
 scenario_puzzle_2d_03,"在本場訓練關卡中，<color=#C53F3F>強盜弓箭手</color>的攻擊修正卡牌庫裡只剩兩張攻擊修正卡：<color=#D92727><b> x2 </b></color>和<color=#A050E0><b> x0 </b></color>。我們希望她們抽到<color=#A050E0><b> x0 </b></color>來造成0點傷害，因此我們要讓她們進入<link=""Glossary_Disadvantage""><color=#FADC99><b>劣勢</b></color></link>狀態來確保她能抽到！",,,
 scenario_puzzle_2d_04,"<link=""Glossary_Range"">遠程</link><link=""Glossary_Attack""><color=#FADC99>攻擊</color></link>在攻擊一個相鄰格子裡的目標時會處於<link=""Glossary_Disadvantage""><color=#FADC99><b>劣勢</b></color></link>。這會導致攻擊方抽取兩張攻擊修正卡而不是抽一張，然後採用更差的那張。
 
@@ -10931,21 +10934,21 @@ scenario_puzzle_5c_02,那些傳送門突然就消失了！無論之前是什麼�
 scenario_puzzle_5c_obj_01,存活三個回合,,,
 scenario_puzzle_6a_01,幾隻獵犬從灌木叢中鑽了出來，兇狠地朝你狂吠，沒多久就跟來了一個鼠人族哨兵。他似乎對撞上一隊傭兵感到有些驚訝，不過很快就鎮靜下來並且拉弓上弦，進入戰鬥狀態。,,,
 scenario_puzzle_6a_02,你找到了一個防禦薄弱的鼠人族營地。把這些敵人趕走應該可以再次保障貿易路線的安全。,,,
-scenario_puzzle_7a_01,"看看這個人見人愛的移動巨石 一 <b>裂心石人</b>。我們的人數真是壓倒性的不利，看來需要採取一些防禦戰術。讓我們來看看<b><link=""Glossary_Retaliate"">反擊</link></b><sprite name=Retaliate>是如何起到作用並且幫助裂心石人擺脫這個困境的。",,,
-scenario_puzzle_7a_02,"與<b><link=""Glossary_Shield"">護盾</link></b>類似，<b><link=""Glossary_Retaliate"">反擊</link></b>是一種<b>啟動獎勵</b>，通常維持一個<link=""Glossary_Round""><b>回合</b></link><sprite name=Round>或是<link=""Glossary_Persistent""><b>持續</b></link><sprite name=Persistent>生效，直到稍晚些時候滿足終止條件時會被取消。
+scenario_puzzle_7a_01,"看看這個人見人愛的移動巨石 一 <b>裂心石人</b>。我們的人數真是壓倒性的不利，看來需要採取一些防禦戰術。讓我們來看看<b><link=""Glossary_Retaliate"">復仇</link></b><sprite name=Retaliate>是如何起到作用並且幫助裂心石人擺脫這個困境的。",,,
+scenario_puzzle_7a_02,"與<b><link=""Glossary_Shield"">護盾</link></b>類似，<b><link=""Glossary_Retaliate"">復仇</link></b>是一種<b>啟動獎勵</b>，通常維持一個<link=""Glossary_Round""><b>回合</b></link><sprite name=Round>或是<link=""Glossary_Persistent""><b>持續</b></link><sprite name=Persistent>生效，直到稍晚些時候滿足終止條件時會被取消。
 
-當反擊處於啟動狀態時，使用近戰攻擊的單位會在每次執行攻擊後受到和<b><link=""Glossary_Retaliate"">反擊</link></b>所標示數值等量的傷害。",,,
-scenario_puzzle_7a_03,"當被這麼多的<b>骷髏</b>包圍時，在他們攻擊後造成的反擊傷害也非常可觀...當然，前提是如果你能在本回合中存活下來！
+當復仇處於啟動狀態時，使用近戰攻擊的單位會在每次執行攻擊後受到和<b><link=""Glossary_Retaliate"">復仇</link></b>所標示數值等量的傷害。",,,
+scenario_puzzle_7a_03,"當被這麼多的<b>骷髏</b>包圍時，在他們攻擊後造成的復仇傷害也非常可觀...當然，前提是如果你能在本回合中存活下來！
 
 噢，還有一件事：<b><link=""Glossary_Earth"">土</link></b>元素已經充能就緒，如果你想使用元素來增強技能的話別忘了點擊<sprite name=ConsumeEarth>圖示來消耗這個元素！",,,
-scenario_puzzle_7a_04,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">反擊</link></b>，但是另一個動作你可以用來執行攻擊。<color=#32E632><b>雪崩</b></color>是個不錯的牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！",,,
-scenario_puzzle_7a_05,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">反擊</link></b>，但是另一個動作你可以用來執行攻擊。<color=#32E632><b>雪崩</b></color>是個不錯的牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！",,,
-scenario_puzzle_7a_06,"你受到了一些傷害，但是取得了不錯的成果！一個時機恰當的<b><link=""Glossary_Retaliate"">反擊</link></b>一樣能成為毀滅性的力量。
+scenario_puzzle_7a_04,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">復仇</link></b>，但是另一個動作你可以用來執行攻擊。<color=#32E632><b>雪崩</b></color>是個不錯的牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！",,,
+scenario_puzzle_7a_05,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">復仇</link></b>，但是另一個動作你可以用來執行攻擊。<color=#32E632><b>雪崩</b></color>是個不錯的牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！",,,
+scenario_puzzle_7a_06,"你受到了一些傷害，但是取得了不錯的成果！一個時機恰當的<b><link=""Glossary_Retaliate"">復仇</link></b>一樣能成為毀滅性的力量。
 
 另外，看看螢幕上方<b>裂心石人</b>的頭像，你能看到來自於<color=#32E632><b>左右開弓</b></color>的<b>啟動獎勵</b>仍在生效。這個<b>啟動獎勵</b>的小方格可以快速提示你還剩幾次獎勵可以啟動，並且當你將滑鼠懸停在上面時可以進一步確認效果描述和經驗獲取的詳情。",,,
-scenario_puzzle_7a_07,"除此以外，你注意到<b>骷髏</b>們的<b><link=""Glossary_Shield"">護盾</link></b>並沒有阻擋<b><link=""Glossary_Retaliate"">反擊</link></b>的傷害了嗎？就像陷阱一樣，<b><link=""Glossary_Retaliate"">反擊</link></b>傷害不視作是一次攻擊，並且造成的傷害數值和標示的一模一樣，不會被<b><link=""Glossary_Shield"">護盾</link></b>、攻擊修正卡或是其他類似的效果影響。",,,
+scenario_puzzle_7a_07,"除此以外，你注意到<b>骷髏</b>們的<b><link=""Glossary_Shield"">護盾</link></b>並沒有阻擋<b><link=""Glossary_Retaliate"">復仇</link></b>的傷害了嗎？就像陷阱一樣，<b><link=""Glossary_Retaliate"">復仇</link></b>傷害不視作是一次攻擊，並且造成的傷害數值和標示的一模一樣，不會被<b><link=""Glossary_Shield"">護盾</link></b>、攻擊修正卡或是其他類似的效果影響。",,,
 scenario_puzzle_7a_08,現在，殺死這些骷髏好讓我們離開這裡！,,,
-scenario_puzzle_7a_09,"別忘了你還有兩次來自於<color=#32E632><b>左右開弓</b></color>的<b><link=""Glossary_Retaliate"">反擊</link></b>啟動次數，因此你可以把它們的傷害也考慮進去。或者說還有什麼其他的方法能夠穿透敵人的<b><link=""Glossary_Shield"">護盾</link></b>來直接擊敗這些骷髏呢？",,,
+scenario_puzzle_7a_09,"別忘了你還有兩次來自於<color=#32E632><b>左右開弓</b></color>的<b><link=""Glossary_Retaliate"">復仇</link></b>啟動次數，因此你可以把它們的傷害也考慮進去。或者說還有什麼其他的方法能夠穿透敵人的<b><link=""Glossary_Shield"">護盾</link></b>來直接擊敗這些骷髏呢？",,,
 scenario_puzzle_7a_10,幹得漂亮！儘管一開始看上去像是個不可完成的挑戰，但是如果你合理地使用卡，即便是最複雜的狀況你也能夠應對。,,,
 scenario_puzzle_7a_obj_01,在本回合中殺死4個骷髏,,,
 scenario_puzzle_7a_obj_02,殺死剩餘的骷髏,,,
@@ -12417,10 +12420,10 @@ tutorial_2_text_007_4,...或選擇<nobr><color=#32E632>踐踏</color></nobr>的�
 tutorial_2_text_007_5,"<color=#a06e4b>野蠻人</color>在這個房間裡沒有什麼可做的，所以你應該通過<color=#1F9EDC>前進</color><sprite name=Move>看看門後有什麼。
 
 <nobr><color=#32E632>順手牽羊</color></nobr>的底部允許<color=#a06e4b>野蠻人</color>移動四格，足以通過這扇門。讓我們開始吧！",,,
-tutorial_2_text_010,這個房間內你將遇見你的第一個敵人，一個<color=#C53F3F>強盜守衛</color>！像玩家角色一樣，怪物也會有他們的<color=#FADC99>優先權</color>與<color=#FADC99>動作</color> 一 讓我們將游標滑入他的頭像來瞭解<color=#C53F3F>強盜守衛</color>這回合的計畫。,,,
+tutorial_2_text_010,這個房間內你將遇見你的第一個敵人，一個<color=#C53F3F>強盜守衛</color>！像角色一樣，怪物也會有他們的<color=#FADC99>優先權</color>與<color=#FADC99>動作</color> 一 讓我們將游標滑入他的頭像來瞭解<color=#C53F3F>強盜守衛</color>這回合的計畫。,,,
 tutorial_2_text_011_1,"你可以看到<color=#C53F3F>強盜守衛</color>的意圖：他計畫<color=#1F9EDC>前進</color><sprite name=Move>和<color=#1F9EDC>進攻</color><sprite name=Attack>！
 
-玩家角色每個輪次擁有兩個<color=#FADC99>動作</color>，但怪物只擁有一個 一 但這一個<color=#FADC99>動作</color>通常包含多個<color=#FADC99>能力</color>。",,,
+角色每個輪次擁有兩個<color=#FADC99>動作</color>，但怪物只擁有一個 一 但這一個<color=#FADC99>動作</color>通常包含多個<color=#FADC99>能力</color>。",,,
 tutorial_2_text_011_2,"請注意，這個<color=#C53F3F>強盜守衛</color>比<color=#a06e4b>野蠻人</color>具有更低的<color=#FADC99>優先權</color>，所以本回合如果他出現在場上，那麼他應該會在<color=#a06e4b>野蠻人</color>之前行動。
 
 然而目前已經是<color=#a06e4b>野蠻人</color>的輪次了，所以在你完成你的輪次之後才會輪到<color=#C53F3F>強盜守衛</color>的輪次。",,,
@@ -12435,7 +12438,7 @@ tutorial_2_text_015_2,本次教學中，我們只會有<color=orange><b> +0 </b>
 tutorial_2_text_016_1,"現在是<color=#C53F3F>強盜守衛</color>的輪次。正如我們之前在卡上看到的那樣，他打算<color=#1F9EDC>前進</color><sprite name=Move> <b>1</b> ，然後執行<color=#1F9EDC>進攻</color><sprite name=Attack> <b>3</b> 。
 
 但是，由於<color=#a06e4b>野蠻人</color>已經在他的近戰攻擊範圍內，他將放棄<color=#FADC99>移動</color>直接進行<color=#FADC99>攻擊</color>。",,,
-tutorial_2_text_016_2,哎喲！對怪物來說傷害都是直接承受，但玩家角色若是受到傷害，就會有三種選擇：,,,
+tutorial_2_text_016_2,哎喲！對怪物來說傷害都是直接承受，但角色若是受到傷害，就會有三種選擇：,,,
 tutorial_2_text_016_3,"第一種，你可以簡單地讓你的角色承受傷害。但如果角色的生命值減少到 <b>0</b> ，則該角色會<color=#FADC99>精疲力竭</color>，這意味著他們在本次劇本中不能繼續行動。
 
 如果你的所有傭兵都<color=#FADC99>精疲力竭</color>了，本次冒險你將會以失敗告終！",,,

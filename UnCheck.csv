@@ -1,5 +1,5 @@
 ﻿Key,Tranditional Chinese [zh-TC]
-002_t,<nobr>本回合</nobr>每進行一次反擊獲得<sprite name=XP1>。
+002_t,<nobr>本回合</nobr>每進行一次復仇獲得<sprite name=XP1>。
 004_b,本回合中，任何指定一個相鄰友軍的攻擊的目標改為你，無視攻擊範圍。
 007_b,在接下來的6次指定你為目標的攻擊中，獲得<nobr>護盾<sprite name=Shield> *BShield*。</nobr>
 013_b,<nobr>本回合，</nobr>你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack>。</nobr>
@@ -42,13 +42,13 @@
 071_t,召喚神秘嘉賓
 076_b_1,X是盟友最大生命值的一半<nobr>（向下取整）。</nobr>
 076_b_2,則X為盟友的最大生命值。
-079_b,在敵人接下來對你的五次攻擊中，各獲得<nobr>反擊<sprite name=Retaliate>*BRetaliate*。</nobr>
+079_b,在敵人接下來對你的五次攻擊中，各獲得<nobr>復仇<sprite name=Retaliate>*BRetaliate*。</nobr>
 080_b,召喚燃燒幻象
 080_t,所有與目標相鄰的敵人<nobr>損失2點生命值，<sprite name=XP1>。</nobr>
 082_t,回收<sprite name=Recover>至多兩張你<nobr>燒牌堆的卡牌。</nobr>
 084_t_1,則拾取<sprite name=Loot>3，<sprite name=XP1>
 084_t_2,你不能通過此行動拾取超過四個金幣堆和寶藏。
-085_b,在接下來三次以你為目標的攻擊中，免疫受到的傷害並獲得<nobr>反擊<sprite name=Retaliate>3，</nobr><nobr>射程<sprite name=Range>3。</nobr>
+085_b,在接下來三次以你為目標的攻擊中，免疫受到的傷害並獲得<nobr>復仇<sprite name=Retaliate>3，</nobr><nobr>射程<sprite name=Range>3。</nobr>
 086_b_1,在<nobr>射程<sprite name=Range>4</nobr>內選擇一個格子。
 086_b_2,指定所有處在選定格子<nobr>射程<sprite name=Range>4</nobr>以內的敵人為目標，並將它們拉近向該格子
 087_t_1,目標為和你在相同房間的敵人
@@ -79,7 +79,7 @@
 113_b,消滅一個當前生命值小於或等於3的與你相鄰的敵人。
 114_b,本回合，強迫一個相鄰的敵人來執行它的行動輪。此時它將敵人（玩家）視作盟友，將盟友視作敵人，並由你操控它的行動。
 115_t,為你的所有攻擊附加<nobr>中毒<sprite name=Poison></nobr>和<nobr>流血<sprite name=Wound></nobr>。
-116_b,在接下來六次受到近戰攻擊時，獲得<nobr>反擊<sprite name=Retaliate>*BRetaliate*。</nobr>
+116_b,在接下來六次受到近戰攻擊時，獲得<nobr>復仇<sprite name=Retaliate>*BRetaliate*。</nobr>
 118_b,在相鄰的兩個空格子內分別創建兩個占一格的障礙物。
 119_b,所有相鄰的單位損失*BDamage* 點生命值。
 120_t,所有與目標相鄰的單位損失1點生命值。
@@ -142,7 +142,7 @@
 173_b,本回合，所有<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友附加<nobr>+X攻擊力</nobr>到他們的所有攻擊中，X是<nobr>射程範圍<sprite name=Range>2以內</nobr>所有盟友的數目。
 173_t_1,召喚鼠王
 173_t_2,X是<nobr>鼠王</nobr>當前生命值的一半（向上取整）。
-175_t,在接下來的五次受到近戰攻擊時，獲得<nobr>反擊<sprite name=Retaliate>*TRetaliate*。</nobr>
+175_t,在接下來的五次受到近戰攻擊時，獲得<nobr>復仇<sprite name=Retaliate>*TRetaliate*。</nobr>
 177_t,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>一張他燒牌堆的卡牌。
 178_t_1,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>兩張他棄牌堆的卡牌。
 178_t_2,則至多三張棄牌堆的卡牌，<sprite name=XP1>。
@@ -244,7 +244,7 @@
 332_b,所有指定你為目標的近戰攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
 332_t,你可以損失至多3點生命值。
 333_b,如果你的當前生命值小於你最大生命值的一半<nobr>（向上取整）</nobr>，為你的移動行動附加<nobr>+2移動力<sprite name=Move></nobr>。
-334_t,本回合，你的每次<nobr>反擊<sprite name=Retaliate></nobr>造成2點額外傷害。
+334_t,本回合，你的每次<nobr>復仇<sprite name=Retaliate></nobr>造成2點額外傷害。
 335_t,如果一個相鄰的普通級別敵人的當前生命值小於你已損失生命值的一半（向上取整），消滅該敵人。
 336_t,你可以損失至多4點生命值。
 337_b,本回合，你的所有攻擊獲得優勢，所有指定你為目標的攻擊獲得劣勢。
@@ -270,7 +270,7 @@
 357_t,為所有盟友的所有攻擊附加<nobr>流血<sprite name=Wound></nobr>。
 358_t,在接下來五次你<nobr>詛咒<sprite name=Curse></nobr>一個敵人時，額外<nobr>詛咒<sprite name=Curse></nobr>一次。
 360_t,所有盟友可以在他們行動輪開始時執行一次<nobr>“治療<sprite name=Heal>1，目標為自己”</nobr>。
-362_t,所有盟友獲得<nobr>反擊<sprite name=Retaliate>2，</nobr><nobr>反擊射程範圍<sprite name=Range>2</nobr>。
+362_t,所有盟友獲得<nobr>復仇<sprite name=Retaliate>2，</nobr><nobr>復仇射程範圍<sprite name=Range>2</nobr>。
 364_t,所有敵人在它們的所有攻擊中獲得劣勢。
 365_t,任意一名盟友可以執行
 366_t_1,你可以同時啟動兩首<nobr><color=#EBB0AA>戰歌</color><sprite name=Song></nobr>，但你只能從其中一張獲得經驗值。
@@ -440,7 +440,7 @@ ability_card_bonebreaker,碎骨重擊
 ability_card_boomingproclamation,爆烈宣言
 ability_card_boostershot,腎上腺素
 ability_card_borrowedessence,暫借菁華
-ability_card_bounceback,反擊
+ability_card_bounceback,復仇
 ability_card_brainleech,噬腦蛭
 ability_card_breakthechains,打破梏鏈
 ability_card_brightaegis,光輝聖盾
@@ -526,7 +526,7 @@ ability_card_duelistsadvance,上前單挑
 ability_card_earthenclod,大地固
 ability_card_earthenspikes,土力尖峰
 ability_card_earthensteed,土制駿馬
-ability_card_echoingaria,反擊詠歎調
+ability_card_echoingaria,復仇詠歎調
 ability_card_elementalaegis,元素魔盾
 ability_card_elementalaid,元素回復
 ability_card_empatheticassault,詭意突襲
@@ -1042,7 +1042,7 @@ adventure_achievement_1_2_inflictwound,流血精通
 adventure_achievement_1_2_inflictwound_desc,造成20次流血
 adventure_achievement_1_2_killgiantvipers_1,蛇，為什麼非得是蛇？
 adventure_achievement_1_2_killgiantvipers_1_desc,殺死20條劇毒蝮蛇
-adventure_achievement_1_2_killgiantvipers_2,蛇……很危險……你先走。
+adventure_achievement_1_2_killgiantvipers_2,蛇......很危險......你先走。
 adventure_achievement_1_2_killgiantvipers_2_desc,殺死200條劇毒蝮蛇
 adventure_achievement_1_2_killinoxarchers_1,正中靶心！
 adventure_achievement_1_2_killinoxarchers_1_desc,殺死10個羚角族弓箭手
@@ -1603,7 +1603,7 @@ compendium_activebonuses_title,啟動獎勵
 compendium_advantageanddisadvantage_1,一些攻擊可能從效果或站位中獲得優勢或劣勢的影響（對近戰範圍執行任何遠距攻擊都會處於劣勢）。
 compendium_advantageanddisadvantage_2,具有<b>優勢</b>的攻擊將抽取兩張修正卡並選擇其中結果更好的進行結算。
 compendium_advantageanddisadvantage_3,具有<b>劣勢</b>的攻擊將抽取兩張修正卡並選擇其中結果更差的進行結算。
-compendium_advantageanddisadvantage_title,優勢和劣勢
+
 
 
 compendium_areaeffects_1,某些技能卡上的某些效果或道具卡上其他能力將允許你在攻擊和使用效果時瞄準多個格子。在這種情況下，在卡牌上將顯示效果作用的能力範圍。你可以旋轉技能區域，你可以在設置中的“目標控制”選項中查看快速鍵。
@@ -1636,28 +1636,14 @@ compendium_blessandcurse_1,詛咒和祝福與其他效果不同，它們不是�
 compendium_blessandcurse_2,<b>祝福：</b>如果目標被祝福，則將祝福（<b><color=#D92727>x2</color></b>）卡放置到目標的剩餘攻擊修正卡池中。當通過<b>攻擊</b>揭示此卡時，它將從攻擊修正卡池中刪除。
 compendium_blessandcurse_3,<b>詛咒：</b>如果目標被詛咒，則將詛咒（<b><color=#A050E0>x0</color></b>）卡放置到目標的剩餘攻擊修正卡池中。當通過<b>攻擊</b>揭示此卡時，它將從攻擊修正卡池中刪除。
 compendium_blessandcurse_title,祝福和詛咒
-compendium_cardlayout,"<b>1.卡牌名稱
-</b>
-每個玩家角色技能卡都有一個唯一的的卡牌名稱。
 
-<b>2.時序值
 
-</b>
-每個角色選擇的第一張技能卡的時序值決定了該角色在本回合中何時進行行動。
-
-<b> 3.行動</b>
-每張卡牌的上半或是下半部分表示可以在角色輪次中選取的行動，每個行動包含一個或多個技能（例如移動，攻擊等）。必須從其中一張卡的上半區或者下半區中選擇第一個行動，然後從另外一張卡的另一個半區中選擇第二個行動。
-
-<b>4.基礎行動
-</b>
-除了技能卡上的主要行動外，所有技能卡還可以使用基礎行動來替代主要行動。所有卡牌的基礎行動相同：上半區基礎行動為<b>攻擊2</b>，下半區基礎行動為<b>移動2</b>。"
-compendium_cardlayout_title,卡牌佈局
 compendium_consumingelements_1,"可以通過消耗螢幕右側的元素跟蹤器中的強烈或衰弱狀態中的元素（參見<b>充能元素</b>）以在行動卡上增加某些技能或強化某些效果。
 
 所需消耗的元素由一個或兩個元素符號表示，每個前面帶有箭頭的元素符號表示需要消耗對應的元素才能夠觸發該技能或強化效果。"
 compendium_consumingelements_2,"如果以這種方式消耗了一個元素，則無論該元素的狀態是強烈還是衰弱，都會使其從元素跟蹤器中耗盡，變為惰性狀態。 
 
-對於玩家角色，消耗元素的效果是可選的。通過按一下螢幕底部的消耗元素圖示，可以在確認行動之前的任何時間點選擇使用或取消對應效果，在可以選擇任一元素的情況下，系統將提示你從可用的元素中選擇一個。
+對於角色，消耗元素的效果是可選的。通過按一下螢幕底部的消耗元素圖示，可以在確認行動之前的任何時間點選擇使用或取消對應效果，在可以選擇任一元素的情況下，系統將提示你從可用的元素中選擇一個。
 
 怪物在對應元素可用的情況下始終選擇消耗元素，如果是消耗任一元素，它們會隨機選擇一個可用的元素進行消耗。"
 compendium_consumingelements_title,消耗元素
@@ -1690,13 +1676,7 @@ compendium_infusingelements_2,"螢幕右側的圓圈表示元素的狀態。可�
 
 當使用具有元素注入效果的技能時，該元素將以注入狀態顯示在元素跟蹤器中。只有在當前角色輪次結束後元素才會充能到戰場上。因此，不能充能元素，然後在同一角色的同一輪次的行動中消耗它 一 但是稍後可以在同一輪的剩餘輪次中被任何角色或怪物消耗。在每個回合結束時，強烈的元素變得衰弱，並且衰弱元素變得惰性，惰性狀態下的元素不再可供消耗。"
 compendium_infusingelements_title,元素充能
-compendium_initiative_1,"時序值決定玩家角色和怪物的輪次順序.
 
-每個角色選擇的第一張牌決定了這個角色的在這一輪次中的時序值 一 越小的數值代表角色越早就可以行動. 你可以通過點擊金黃色的時序值來更改兩張卡牌被選擇的次序。"
-compendium_initiative_2,"玩家角色在選擇技能卡時，尚不知道怪物將抽取的技能卡會是什麼。因此，你必須嘗試在不知道怪物何時採取何種行動的情況下評估特定角色應採取的的行動。
-
-一旦所有玩家角色和怪物都選擇了他們的卡牌，螢幕頂部的時序值跟蹤器就會更新並根據角色和怪物的時序值進行排序 一 從最低數值最先開始，最後一次最高。兩名玩家時序相同時會根據另一張卡牌（即未被選擇作為角色時序值的卡牌）的時序值進行排序，玩家時序與怪物相同時玩家先行動。請注意，同一類型的所有怪物每個回合都會使用相同的技能卡，從而具有相同的時序值，因此即使在該怪物類型多次出現的情況下，時序值追蹤器中的每一個同類型怪物也將具有相同的時序值。"
-compendium_initiative_title,時序值
 compendium_itemslots,"當不在場景中時，角色可以在各種庫存槽中裝備道具卡。請注意，角色不能擁有任何完全重複的道具卡。
 
 每個角色只能裝備一個<b>頭部</b>道具，一個<b>軀幹</b>道具，一個<b>腿部</b>道具，最多兩個<b>單手</b>道具<b> <i>或</i></b> 一個<b>雙手</b>道具，和數量不超過角色等級一半(向上取整)的<b>小物品</b>。"
@@ -1705,7 +1685,7 @@ compendium_levellingup_1,在公會模式中，當一個角色具有其升級所�
 compendium_levellingup_2,在升級後，他們的最大生命值將會增加，他們可以在每個級別獲得兩張待解鎖的新技能卡並從待解鎖卡牌中選擇一張將其解鎖。此卡會在接下來的旅行中可用。通過解鎖更多的角色技能卡，你可以升級和自訂隊伍角色的技能卡池，調整卡片以更好地互相搭配，或是進行角色之間的協作，這也可以磨煉你的策略。
 compendium_levellingup_title,升級
 compendium_loot_1,<b>拾取X：</b>拾取技能允許一個角色在X範圍內拾取所有的金幣堆和寶箱。這個動作不受怪物或障礙的影響，但請注意該技能的實際效果範圍會受到視線範圍的限制。
-compendium_loot_2,"除了拾取能力之外，在每個玩家角色行動輪次結束時，此玩家角色將自動拾取他們現在佔據的格子中的所有黃金。玩家角色的召喚物不執行此效果。
+compendium_loot_2,"除了拾取能力之外，在每個角色行動輪次結束時，此角色將自動拾取他們現在佔據的格子中的所有黃金。角色的召喚物不執行此效果。
 
 在公會模式中，這筆錢在玩家團隊內的所有雇傭軍之間分享。
 "
@@ -1782,24 +1762,10 @@ compendium_restsandrecoveringcards,"丟棄的卡可以通過執行以下類型�
 
 2.<b>長休息：</b>選擇長休息可以代替選擇技能卡，你可以自己挑選一張被丟棄的卡，將其燒毀，以執行<b>治療2，自身 </b>，同時回收所有其他被丟棄的卡片並刷新所有磨損了的裝備卡，本回合的時序值為<b>99</b>。"
 compendium_restsandrecoveringcards_title,休息和回收卡片
-compendium_retaliate,"<b>反擊X：</b>擁有反擊的角色會在遭受攻擊而沒有死亡或精疲力竭後會對攻擊者造成X點傷害（遭受反擊傷害不會觸發反擊）。反擊也可以具有<b>射程Y</b>，這意味著反擊效果會對距離Y以內的任何攻擊者生效而不是僅影響近戰範圍。
+compendium_retaliate,"<b>復仇X：</b>擁有復仇的角色會在遭受攻擊而沒有死亡或精疲力竭後會對攻擊者造成X點傷害（遭受復仇傷害不會觸發復仇）。復仇也可以具有<b>射程Y</b>，這意味著復仇效果會對距離Y以內的任何攻擊者生效而不是僅影響近戰範圍。
 
-反擊可以被疊加，並且反擊傷害不需要抽取修正卡也不會被其他任何效果影響，玩家可以燒毀卡牌來阻擋反擊傷害。"
-compendium_retaliate_title,反擊
-compendium_roundsummary,"一個場景包括一系列回合，直到玩家符合場景的勝利條件或失敗條件。一回合包括以下階段：
-
-• <indent=15><b>選擇技能卡：</b>
-每個玩家角色，要麼選擇兩張牌，要麼選擇執行長休息。選擇的第一張卡片為本回合該角色的時序值（在卡選擇期間也可以執行短休息以回收丟棄卡）。</indent>
-
-• <indent=15><b>揭露怪物技能卡：</b>
-對於目前在場的每個怪物類型，揭露一張怪物技能卡，所有同類型的怪物都將在回合中使用相同的技能卡。然後根據角色和怪物的技能卡時序值更新螢幕頂部的時序值跟蹤器。</indent>
-
-• <indent=15><b>行動階段：</b>
-從時序值最小的一方開始，玩家和怪物將依次行動。怪物只能採取行動卡上的行動，玩家角色選擇各自所選卡片上的行動。玩家角色也可以在自己輪次時使用物品卡。</indent>
-
-• <indent=15><b>回合結束：</b>
-回合內啟動效果結束，依照效果將其丟棄或燒毀，元素從強烈降為衰減，從衰減降為惰性，如果有修正卡池的默認<b><color=#A050E0>x0</color></b>或<b><color=#D92727>x2</color></b>被抽出，則將該修正卡池洗牌。</indent>"
-
+復仇可以被疊加，並且復仇傷害不需要抽取修正卡也不會被其他任何效果影響，玩家可以燒毀卡牌來阻擋復仇傷害。"
+compendium_retaliate_title,復仇
 
 
 
@@ -1807,13 +1773,7 @@ compendium_roundsummary,"一個場景包括一系列回合，直到玩家符合�
 
 compendium_section_monsterbehaviour,怪物行為
 
-compendium_selectingcards,"在回合開始時，必須為每個玩家角色選擇兩張能力卡或長休息，以進行使用。
-
-基於選擇的卡牌確定角色在輪次中的行動，以及該角色的時序值。黯淡港灣中大部分策略是基於明智地選擇卡牌並進行正確組合，以利用他們的技能和主動性。
-
-請注意，雖然每張卡有兩個半區，但不能選擇同一半區的效果。例如，如果你在一張卡的上半區中選擇了本輪次中的第一個動作，則必須在另一張卡的下半區中選擇第二個動作。"
-compendium_selectingcards_title,選擇卡牌
-compendium_shield,<b>護盾X：</b>護盾技能會使被攻擊者獲得了一種防禦效果，可為受到的每次攻擊減少X點傷害。多個護盾效果可以疊加，並且可以以任何順序被觸發。護盾只能減少被攻擊造成的傷害 一 不會減少陷阱或反擊等直接傷害。
+compendium_shield,<b>護盾X：</b>護盾技能會使被攻擊者獲得了一種防禦效果，可為受到的每次攻擊減少X點傷害。多個護盾效果可以疊加，並且可以以任何順序被觸發。護盾只能減少被攻擊造成的傷害 一 不會減少陷阱或復仇等直接傷害。
 compendium_shield_title,護盾
 compendium_summon,"一些能力可以召喚友軍以幫助你。召喚物會被召喚到與召喚者相鄰的空的格子中。如果沒有可用的格子，則無法使用召喚能力。
 
@@ -1823,7 +1783,7 @@ compendium_summon,"一些能力可以召喚友軍以幫助你。召喚物會被�
 
 同一玩家可以獲得多種不同的召喚能力，在這種情況下，他們按照他們被該角色召喚的順序行動。召喚物永遠不會主動在剛被召喚出的回合中行動。召喚物的擊殺會被記錄給召喚者。"
 compendium_summon_title,召喚
-compendium_takingdamage,"每當玩家角色即將以任何形式受到傷害時，你都會有三個選項：
+compendium_takingdamage,"每當角色即將以任何形式受到傷害時，你都會有三個選項：
 
 • <indent=15><b>1. 遭受傷害：</b>角色失去對應的生命值。</indent>
 
@@ -1839,7 +1799,7 @@ compendium_traps,"當一個角色走入或被強制移入陷阱時，陷阱被�
 
 將游標懸停在一個陷阱上來查看該陷阱效果。角色和怪物還可能通過技能卡在地圖上創建具有特殊效果的陷阱。"
 compendium_traps_title,陷阱
-compendium_usingabilites,"在玩家角色的輪次開始時，你可以介紹你所選擇的兩張牌。你現在可以選擇用於兩個行動中的第一個行動用於在輪次中執行，記住，另一卡上的相反一半上的主要行動或基礎行動將必須是你的第二個動作。
+compendium_usingabilites,"在角色的輪次開始時，你可以介紹你所選擇的兩張牌。你現在可以選擇用於兩個行動中的第一個行動用於在輪次中執行，記住，另一卡上的相反一半上的主要行動或基礎行動將必須是你的第二個動作。
 
 在每個行動中包含一個或多個技能，這些技能會按照它們出現在卡上的順序從上到下進行 一 雖然你可以選擇跳過一些技能，但不能跳過負面效果。以下是螢幕截圖中隕石坑技能底部動作的技能示例細分：
 
@@ -1850,7 +1810,7 @@ compendium_usingabilites,"在玩家角色的輪次開始時，你可以介紹你
 • <indent=15>最後，還有另一個對所有相鄰的友軍和敵人造成1點傷害的技能。請注意，下面有一個選項，可以消耗土元素（請參閱<b>元素</b>）來使本次傷害改為2點並獲得1XP。請注意，本次消耗元素只對本次傷害有效，不會影響上一次傷害。</indent>
 
 • <indent=15>在所有三個技能完成後，會獲得顯示在行動底部的1XP，並且由於卡片右下角的燒毀圖示，卡牌會被燒毀而不是丟棄。</indent>"
-compendium_usingabilites_title,使用技能
+
 compendium_usingitems_1,"根據裝備卡上標注的條件，在可以使用對應裝備時會顯示使用圖示，你可以通過點擊它們來使用這些裝備。某些裝備只能在被攻擊時使用，並在適用時出現。也有一些裝備，它們可以提供恒定的被動效果，因此不需要啟動就會被使用。
 
 請注意，如果物品會影響攻擊（例如，獲得加成，施加負面效果，獲得優勢等），就可以在攻擊之前使用它 一 也就是在抽取攻擊的攻擊修正卡之前。如果將負面效果添加到攻擊中，它就會在攻擊後被施放到被攻擊者身上。角色在同一時間可以使用的道具數目沒有限制，任何行動都可以使用與之相關聯的道具。
@@ -2460,7 +2420,7 @@ error_waypoint_00009,無法處理獲取板塊列表
 error_waypoint_00010,無法處理設置路徑點
 error_waypoint_00011,無法處理創建路徑點
 error_waypoint_00012,無法處理設置板塊處理器
-event_abandonedcart,一輛貨車似乎被遺棄在道路一側，它的主人已經無處可尋。貨車的後面大多是一些垃圾，但是好在還有一桶食物，而你正覺得饑腸轆轆……
+event_abandonedcart,一輛貨車似乎被遺棄在道路一側，它的主人已經無處可尋。貨車的後面大多是一些垃圾，但是好在還有一桶食物，而你正覺得饑腸轆轆......
 event_abandonedcart_a,吃點東西
 event_abandonedcart_b,別理這貨車
 event_abandonedcart_eat,"食物已經有相當時間了，在一塊堅如磐石的麵包上嘗試咬了幾口後，你歎了口氣把它扔到一邊。
@@ -2477,7 +2437,7 @@ event_abandonedcart_eat_strengthen,"桶中的食物遠好於你隨身補給 一 
 event_abandonedcart_leave,從桶中取出些許食物的想法在你腦中徘徊了許久，你最終還是決定離開貨車以免主人返回，回歸了你的旅程。
 event_abandonedcart_leave2,"當你剛準備走開時，路邊的灌木叢中突然沙沙作響。一個矮胖的男人從灌木叢中走出來，發現你時提起馬褲驚訝地跳了起來。
 
-'哦！很高興認識你們，同路人們”，他一邊說一邊點頭致意。停頓了下，他看了眼他的貨車，笑得更真誠了些，“謝謝你們沒有在我……哦……‘全神貫注’的時候，從我的貨車順走東西。你知道的，我攜帶的食物比我能夠吃掉的多很多 一 歡迎和我一起聚餐。”
+'哦！很高興認識你們，同路人們”，他一邊說一邊點頭致意。停頓了下，他看了眼他的貨車，笑得更真誠了些，“謝謝你們沒有在我......哦......‘全神貫注’的時候，從我的貨車順走東西。你知道的，我攜帶的食物比我能夠吃掉的多很多 一 歡迎和我一起聚餐。”
 
 你接受了這個男人的提議，並享用了比你攜帶的微不足道的食物要好得多的飯菜。吃飽喝足後，和這個善良的人兒分道揚鑣，這頓豐盛的佳餚讓你精力充沛。"
 event_abandonedcart_leave_a,離開
@@ -2493,7 +2453,7 @@ event_adaggerinthechest_daggerremoved_gained2,"當你試圖從她的胸口拔出
 
 你把這些錢幣從她的拳頭中摳出來塞進腰包裡，若無其事的繼續你的旅程。"
 event_adaggerinthechest_leave,你無視了這具羚牛族的屍體，繼續你的旅程。
-event_adiscardedflask,你碰巧在路上看到一個帶塞的燒瓶，顯然是某個笨拙的冒險家掉落的。你拿起燒瓶並注意到裡面仍有很多，你感覺有點口渴了……
+event_adiscardedflask,你碰巧在路上看到一個帶塞的燒瓶，顯然是某個笨拙的冒險家掉落的。你拿起燒瓶並注意到裡面仍有很多，你感覺有點口渴了......
 event_adiscardedflask_a,喝上一口
 event_adiscardedflask_b,丟棄燒瓶
 event_adiscardedflask_drinkdrunk,燒瓶裡只裝了少量新鮮水。你一口喝下，口渴感頓時煙消雲散，然後繼續你的旅程。
@@ -2521,7 +2481,7 @@ event_adownedtraveler_leave,因為擔心會被伏擊，你換了個方向繞過�
 event_adownedtraveler_pity,"你把金子遞給原生族，它站起來做了個鬼臉並感謝你的憐憫。它手持著一個小型的脈動水晶，隨之一道綠光弄罩著你，你沐浴在綠光裡，渾身顯得綠油油的。
 
 當你沐浴在綠色的光芒中時，你肝到一股特殊能量在你體內湧動。原生族向你道別，而你希望它能早日康復，然後你回頭，向著前方走去。"
-event_adownedtraveler_scoff,你將原生族留在了原地，讓命運給與其憐憫。當你離開時，你聽到它呼吸聲中夾雜著喃喃自語。一股突如其來的惡寒刺痛著你的皮膚，你忍不住猜想是不是這個原生族是否在用冰魔法詛咒你……
+event_adownedtraveler_scoff,你將原生族留在了原地，讓命運給與其憐憫。當你離開時，你聽到它呼吸聲中夾雜著喃喃自語。一股突如其來的惡寒刺痛著你的皮膚，你忍不住猜想是不是這個原生族是否在用冰魔法詛咒你......
 event_afatefulencounter,"夜幕降臨，群星隱匿，周圍愈發陰暗起來。你四處打量了下，在那深邃的陰影裡，似乎空無一物，但恍惚間又似乎有無窮的惡意目光在注視著你。你的心裡越來越低沉，想不顧一切的逃離這裡。這時你看見附近的洞穴，透出朦朧的亮光，你按下忐忑的意念，決定冒險進洞調查或者躲避。
 
 小心翼翼地靠近光亮，你發現洞穴裡一名花晶族正在冥想，而光亮正是源自她皮膚上的大水晶，這光亮照亮了整個洞穴。她似乎並沒有覺察到你的到來。
@@ -2532,12 +2492,12 @@ event_afatefulencounter_b,拿走硬幣並悄悄離開
 event_afatefulencounter_take_gold,"你越是靠近那袋硬幣，花晶族的水晶散發出的光芒就更為刺眼，眼睛都能感覺到刺痛。但這又有什麼關係，你終究在沒有驚擾她的情況下，輕輕地把袋子揣到懷裡，然後慌不擇路的拼命逃走。
 
 當你覺得跑的夠遠的時候，你從懷中取出袋子，準備算算自己的收貨。你打開袋子，才發現裡面不止有硬幣，竟然還有一張羊皮卷，而上面就畫著你，一隻手拿著袋子，一隻手拿著一張羊皮卷在仔細地看。命運是如此奇妙，你不經懊惱，有沒有可能花晶族會獎勵你更多的東西，超過你竊取金幣的價值。"
-event_afatefulencounter_take_muddle,"你越是靠近那袋硬幣，花晶族的水晶散發出的光芒就更為刺眼，眼睛都能感覺到刺痛。當你小心翼翼的拿起袋子時，注意到你前面不遠的地面上有一幅模糊的繪畫，似乎描繪的就是你拿起了袋子，再然後一團閃電擊中你的頭……
+event_afatefulencounter_take_muddle,"你越是靠近那袋硬幣，花晶族的水晶散發出的光芒就更為刺眼，眼睛都能感覺到刺痛。當你小心翼翼的拿起袋子時，注意到你前面不遠的地面上有一幅模糊的繪畫，似乎描繪的就是你拿起了袋子，再然後一團閃電擊中你的頭......
 
 第二天清晨，你從昏迷中醒來，能聞到一股焦糊味，頭皮刺疼。好在謝天謝地，你還是個整體，沒有少什麼零件，可能就是體毛少了些，皮膚紅了些，更加慶倖的是，你的硬幣還在  一  你高興地想放聲大笑，突然感覺頭也很疼，就好像有7個小矮子一邊鋸著樹，一邊又跳又唱，還有個女歌手在飆著高音。"
-event_afatefulencounter_wait,"你坐在一旁等待花晶族完成她的冥想。終於……在黎明破曉時分，你從瞌睡中驚醒，用疲倦的眼神凝視著花晶族。她的水晶發出的光芒開始消退，最終歸於沉寂，而她則緩緩睜開紫水晶般的眼眸注視著你，沒有一點驚訝。
+event_afatefulencounter_wait,"你坐在一旁等待花晶族完成她的冥想。終於......在黎明破曉時分，你從瞌睡中驚醒，用疲倦的眼神凝視著花晶族。她的水晶發出的光芒開始消退，最終歸於沉寂，而她則緩緩睜開紫水晶般的眼眸注視著你，沒有一點驚訝。
 
-“日安，旅行者們，我一直在等待你們。”花晶族輕聲說道。在她收集完所有物品後，靦腆地微笑了下， “你無疑有很多問題，但遺憾的是我沒有多少時間。在我離開之前，請允許我聆聽啟示，看看有什麼命運在等著你們……”
+“日安，旅行者們，我一直在等待你們。”花晶族輕聲說道。在她收集完所有物品後，靦腆地微笑了下， “你無疑有很多問題，但遺憾的是我沒有多少時間。在我離開之前，請允許我聆聽啟示，看看有什麼命運在等著你們......”
 
 她目不轉睛地凝視著你，用手指了指一幅洞穴壁畫 一 你確信之前沒有出現過的一幅 一 描繪了你與花晶族對話的情景。"
 event_afatefulencounter_wait_a,繼續
@@ -2592,25 +2552,25 @@ event_bloodyvalrath,"當經過一個墓地時，你注意到了泥土中新產�
 
 這個女性煉魔族戴著一條華麗的項鍊，穿的是煉魔族典型的上流社會的服裝，笨重卻又色彩斑斕。？然而似乎有什麼地方不太對勁，你注意到她的衣服被蟲蛀了，頭髮髒亂，並且她顫抖的手緊握著一把刀，上面滴著鮮血。"
 event_bloodyvalrath_a,提供幫助
-event_bloodyvalrath_a_subtext,這個煉魔族可能是一名受害者……
+event_bloodyvalrath_a_subtext,這個煉魔族可能是一名受害者......
 event_bloodyvalrath_attack,"儘管你試圖發起偷襲，然而那個煉魔族已經有所防備。她迅速躲開然後跳向你，用她的小刀向你奮力發起攻擊。你們激烈地交鋒了一陣子，然後抓住了一個時機擊中了她的脖子。她的頭顱被砍下，飛向一塊墓碑。
 
-她的屍體倒下時化成了一堆灰燼，而那種恐懼感立刻解除了。雖然你受了傷，但也松了一口氣，你回到了原來的道路上，想知道她和那個邪教徒之間發生了什麼——以及她是誰，又或者她是<i>什麼</i>……"
+她的屍體倒下時化成了一堆灰燼，而那種恐懼感立刻解除了。雖然你受了傷，但也松了一口氣，你回到了原來的道路上，想知道她和那個邪教徒之間發生了什麼——以及她是誰，又或者她是<i>什麼</i>......"
 event_bloodyvalrath_b,出其不意地攻擊她
-event_bloodyvalrath_b_subtext,她似乎潛藏著某種危險……
+event_bloodyvalrath_b_subtext,她似乎潛藏著某種危險......
 event_bloodyvalrath_c,命令她把它交出來
-event_bloodyvalrath_c_subtext,這條項鍊看上去很有價值……
+event_bloodyvalrath_c_subtext,這條項鍊看上去很有價值......
 event_bloodyvalrath_d,在她注意到你們之前逃跑
-event_bloodyvalrath_d_subtext,這裡的一切事物都不太對勁……
+event_bloodyvalrath_d_subtext,這裡的一切事物都不太對勁......
 event_bloodyvalrath_help,"你讓她知道了你的存在，並告訴她你沒有惡意。她仍然在顫抖，似乎受到了驚嚇。除了知道她想回家之外，你無法再從她那裡得到任何其他資訊，你給了她幾個硬幣和一些旅途中的食物，並指給了她最近的村莊的方向。
 
 她羞澀地朝你點點頭，似乎在表達感謝，低聲說了些奇怪的話，然後慢慢地轉身離開了，隨著她的離去，恐懼感從你身上解除了。"
 event_bloodyvalrath_leave,"不管這裡發生了什麼事，你都不想參與其中。你回過頭向叢林前進，但你聽到那名煉魔族在呼喚你，懇求你幫助她。
 
-你決心要離開，便頭也不回地繼續前進。那名煉魔族尖聲向你說了些什麼，而那種奇怪的恐懼感變得越來越強烈。當你離開墓地時，你確信你已經被詛咒了，你想知道如果留下來“幫助”她的話會發生些什麼……"
+你決心要離開，便頭也不回地繼續前進。那名煉魔族尖聲向你說了些什麼，而那種奇怪的恐懼感變得越來越強烈。當你離開墓地時，你確信你已經被詛咒了，你想知道如果留下來“幫助”她的話會發生些什麼......"
 event_bloodyvalrath_rob,"她轉過身來似乎要進行戰鬥，但當發現寡不敵眾時，她無奈的接受了。她交出了項鍊，用你從未從煉魔族人嘴裡聽到過的詞彙向你詛咒和吐口水。她憤怒地迅速離開了，你檢查了那個邪教徒的屍體，想知道這裡到底發生了什麼。
 
-你注意到項鍊上的銘文與空墳上的墓碑的墓誌銘一致……也許那是她的名字？隨著各種可怕的可能性在你的腦海中閃現，你突然感到非常不舒服，脊柱也在顫抖。你迅速離開了墓地，希望離開這個被詛咒的地方後不適就會消失，並決定一找到機會就把項鍊賣掉。"
+你注意到項鍊上的銘文與空墳上的墓碑的墓誌銘一致......也許那是她的名字？隨著各種可怕的可能性在你的腦海中閃現，你突然感到非常不舒服，脊柱也在顫抖。你迅速離開了墓地，希望離開這個被詛咒的地方後不適就會消失，並決定一找到機會就把項鍊賣掉。"
 event_brokencart,你在路邊遇到一個年老酒商，他的手推車的一個輪子脫落了。你看到他正忙活著試圖把它裝回去。當你靠近時，他似乎也沒有注意到你，但很明顯，他沒有那個力氣抬起車來裝上車輪。
 event_brokencart_a,主動幫助酒商
 event_brokencart_b,打劫酒商
@@ -2625,7 +2585,7 @@ event_brokencart_help,"你拍了拍酒商的肩膀，把他嚇了一跳，他竟
 
 他那雙炯炯有神的眼睛透過一副髒兮兮的劃痕眼鏡掃視你，正當你準備開口提供幫助時，他對你冷冷一笑。
 
-“你就打算在那裡傻站一整天嗎？你，別看了，把車抬起來，你，拿穩車輪！數到三——也就是正好到三，而不是數到三之後——你要抬起車輪，然後……”
+“你就打算在那裡傻站一整天嗎？你，別看了，把車抬起來，你，拿穩車輪！數到三——也就是正好到三，而不是數到三之後——你要抬起車輪，然後......”
 
 你可能會在這裡耗上一整天。"
 event_brokencart_help2,"你輕輕鬆松就把車輪安了上去，而老酒商用鄙夷的語氣抱怨道， “沒有你這個笨手笨腳的傢伙‘幫忙’，我可以做得更輕鬆！”。這老傢伙一句感謝的話都沒說，繼續對你的無能笨拙大發牢騷，然後揚長而去。
@@ -2637,7 +2597,7 @@ event_brokencart_help_a,幫助酒商
 event_brokencart_leave,你覺得酒商的難處不關你的事，然後揚長而去。
 event_brokencart_rob,"當酒商看到你拔出武器接近時，他畏畏縮縮地躲到手推車後面。
 
-“請……請不要傷害我！”，他結結巴巴地說，“我會給你我僅有的一點金子，你想拿多少酒也可以，只是請放過我！”
+“請......請不要傷害我！”，他結結巴巴地說，“我會給你我僅有的一點金子，你想拿多少酒也可以，只是請放過我！”
 
 他用顫抖的手伸向腰帶，費了半天勁掏出一個裝著疑似裝有硬幣的小袋子，並把它扔向你，“這是我所有的黃金了，我發誓！”
 
@@ -2661,14 +2621,14 @@ event_bucketofluck_gainedloot_gained1,"你在桶裡摸索了一會兒，然後�
 看著這雙靴子，他們似乎是用高品質的皮革製成的，雖然有點兒磨損。你撣去胳膊和靴子上的灰塵，帶著它離開了。"
 event_bucketofluck_gainedloot_gained2,"你在桶裡摸索了一會兒，然後似乎摸到了什麼東西。你緊緊的抓住它，然後拎出了一副破舊的護目鏡。
 
-“啊，這些東西……說實話我幾乎看不清他們，但我相信你會比我找到更多用處的。”
+“啊，這些東西......說實話我幾乎看不清他們，但我相信你會比我找到更多用處的。”
 
 跟這個陌生男人告別後，你擦去護目鏡的灰塵並戴上它，繼續上路了。"
 event_bucketofluck_leave,你決定不把手伸進這個誰知道裡面是啥的桶裡。你禮貌的拒絕了陌生男人的提議並離開了。
 event_bucketofluck_playbarrel,"你交出金子，他貪婪的把它裝進口袋。“來吧，伸進去試試吧！”
 
 你把你的胳膊深深的伸進桶裡，不確定會發生什麼。"
-event_bucketofluck_playbarrel_a,……
+event_bucketofluck_playbarrel_a,......
 event_city_campaign_10_intro,"在睡獅酒館放鬆的晚上，一個尖嘴猴腮的男人找上了你並伸出了手。手心中是一對蒼白的骰子，上面佈滿粗糙的劃痕。
 
 “你好呀，我的朋友。看起來你似乎可以讓氣氛變得更活躍一點。想跟我玩個骰子嗎？我相信我們可以讓事情變得更有趣。”他的另一隻手拍了拍身側的錢袋。"
@@ -2681,7 +2641,7 @@ event_city_campaign_11_intro,"“請，有趣的東西，先生們。” 帶著�
 
 “特殊東西，強力品質，五金一件。”
 
-你可以看到羊皮紙上有繪製著什麼神秘圖案，但你認出了這個巢靈族人，它很出名，可惜是惡名，它經手的東西來路都不乾淨。這張羊皮紙顯而易見是來路不正的，如果有人看到你和這傢伙交易……那麼，他們可能會產生錯誤的聯想。"
+你可以看到羊皮紙上有繪製著什麼神秘圖案，但你認出了這個巢靈族人，它很出名，可惜是惡名，它經手的東西來路都不乾淨。這張羊皮紙顯而易見是來路不正的，如果有人看到你和這傢伙交易......那麼，他們可能會產生錯誤的聯想。"
 event_city_campaign_11_option_a,和巢靈族達成交易
 event_city_campaign_11_option_b,搖搖頭走開。在這種情況下最好不要碰運氣。
 event_city_campaign_11_result_a_a,你對這張羊皮紙很感興趣，很快做出決定，從巢靈族人這裡買下它。交易很快達成，然後你迅速離開小巷返回大道，希望沒有人看到你。
@@ -2911,7 +2871,7 @@ event_city_campaign_31_intro,"你們在棕門酒吧喝了不少酒，還不停�
 
 “求求你們，”她說到，“你們一定得幫我，他們帶走了我唯一的女兒。我求你們了！”
 
-她遞過來一卷羊皮紙，“他們留下了這張……”
+她遞過來一卷羊皮紙，“他們留下了這張......”
 
 你們看了看羊皮紙，上面只有一個上下顛倒的黑鳥符號。
 
@@ -3319,7 +3279,7 @@ event_city_campaign_65_result_a,你們決定進入倉庫調查，最後在一個
 event_city_campaign_65_result_b,你們決定躲在一堆木桶後面，等待那些盜賊回來。經過整整一夜的守候， 正當你們打算放棄的時候，發現有兩個人朝著倉庫大門走去。你們先發制人，輕易制服了他們，並且把他們移交執法機關。當你們帶著被偷走的聖物返回聖所，那名牧師對你們的工作表現感到非常滿意。
 event_city_campaign_66_intro,"夜深了，你們正打算回房間休息，卻發現前隊友之一的鋸骨醫者正坐在你們房門前面的地上，看上去一臉沮喪。
 
-“我…呃…好吧，你看……”他結結巴巴地說道，“我聽從了你們的建議，就是去追尋我的夢想之類的，但是最終我欠了那些無恥之徒一身的債。他們威脅我，如果不還錢就要殺了我，但是，我現在真的是拿不出這麼多錢呀。”
+“我…呃…好吧，你看......”他結結巴巴地說道，“我聽從了你們的建議，就是去追尋我的夢想之類的，但是最終我欠了那些無恥之徒一身的債。他們威脅我，如果不還錢就要殺了我，但是，我現在真的是拿不出這麼多錢呀。”
 
 他猶豫了一下繼續說道：“說起來，當初讓我走上現在這條路，你們也有一定的責任，所以，我想說的是，你們能否幫我擺脫現在的困境？”"
 event_city_campaign_66_option_a,主動提出幫他還清現在的債務。
@@ -3395,7 +3355,7 @@ event_city_campaign_72_intro,"那根鑲了金屬圓球的金屬棒——你們�
 
 還沒等你們發問，他便從懷裡掏出一根類似的金屬棒，頂端鑲了一個黑色的金屬圓球。“你看，它們是一對的，老魚我知道它們是拿來開啟某個門的。朋友們，那是一個藏滿寶藏的墳墓，來吧，來吧，老魚我會給你們帶路的。”"
 event_city_campaign_72_option_a,跟上這個一身怪味的強盜老頭。
-event_city_campaign_72_option_b,拒絕跟這老頭走。這整件事聞上去有一股……陰謀的腥臭味。
+event_city_campaign_72_option_b,拒絕跟這老頭走。這整件事聞上去有一股......陰謀的腥臭味。
 event_city_campaign_72_result_a,"你們的好奇心打敗了自己的理智。你們非常想知道這根東西究竟是用來幹什麼的，於是跟著這個自稱老魚的老頭來到了一個荒廢的棚屋，他拿出一張地圖鋪在桌上。他讓你們拿出自己那根金屬棒，然後和他各自將金屬棒在桌前舉起。
 
 之後地圖上的一個地點開始發出光芒，老魚笑著對你說：“怎麼樣？正如我告訴你們的那樣，是不是？和我在那裡碰頭，我們就發大財啦！”"
@@ -3423,8 +3383,8 @@ event_city_campaign_75_intro,"你們完成之前的冒險回到黯淡港灣，�
 “啊！我就說在這裡等著遲早會碰到你們，”他說道，“最近我依然能從探子那裡收到有關巨大飛行蜥蜴的目擊報告。告訴我，你們是不是已經把這件事情查清楚了？”"
 event_city_campaign_75_option_a,對他撒謊，告訴他你們還在調查此事。
 event_city_campaign_75_option_b,告訴衛兵隊長，你們決定，不去殺死那條上古亞龍。
-event_city_campaign_75_result_a,“呀……好吧，真是令人失望。”城市衛兵隊長皺著眉頭帶著沮喪的眼神看著你們，“如果方便的話，還是請你們儘快去調查此事。我可不想看到那些巨型的飛行生物過來襲擊我們這座城市。”
-event_city_campaign_75_result_b,"“啊！你說……什麼？好吧。”城市衛兵隊長一臉震驚地看著你們，“這麼說，確實有一條會噴火的亞龍住在山上，但是你們卻認為沒有理由去殺了它是嗎？真是有意思。”
+event_city_campaign_75_result_a,“呀......好吧，真是令人失望。”城市衛兵隊長皺著眉頭帶著沮喪的眼神看著你們，“如果方便的話，還是請你們儘快去調查此事。我可不想看到那些巨型的飛行生物過來襲擊我們這座城市。”
+event_city_campaign_75_result_b,"“啊！你說......什麼？好吧。”城市衛兵隊長一臉震驚地看著你們，“這麼說，確實有一條會噴火的亞龍住在山上，但是你們卻認為沒有理由去殺了它是嗎？真是有意思。”
 
 衛兵隊長轉身離開，喃喃低語，嘴裡說著需要尋找更好的幫手之類的話語。"
 event_city_campaign_76_intro,"你們正從新碼頭區經過，這時，一個穿著講究的商人向你們招手。“哎喲，碰到你們真是走運，”當你們走近這個商人，他低聲說道，“我做東，我們一起去喝一杯怎麼樣？我有一件非常棘手的工作
@@ -3459,7 +3419,7 @@ event_city_campaign_78_result_a,"那個汗流浹背的男子迫不及待地告�
 “等你們殺光那群鼠人族找回神器之後，應該能在他們營地後面的一個坑洞裡找到許多值錢的東西。坑裡面的所有東西你們都可以隨便拿，只要把那個神器帶回來給我就行。”
 
 你們微笑著點了點頭，心裡想，等你們搜刮完戰利品，然後帶上神器回來的時候，應該還能從他的身上再榨出一點好處。"
-event_city_campaign_78_result_b,"“瞧……我，啊，現在身上沒錢給你們，不過只要你們幫我把那個神器帶回來，我會把所有的家當都給你們。”
+event_city_campaign_78_result_b,"“瞧......我，啊，現在身上沒錢給你們，不過只要你們幫我把那個神器帶回來，我會把所有的家當都給你們。”
 
 你們眯起眼睛看著他。他緊張地咳嗽了幾聲，然後掏出來一把金幣。
 
@@ -3692,7 +3652,7 @@ event_road_campaign_20_intro,"當你們使勁爬過連綿的山丘，聽到遠�
 你們登上山丘頂部觀察周圍，發現一群鼠人族站成一圈正在唱歌。“唱歌”是你們對這種情形能給出最好的形容。你們看到這些鼠人族偶爾會在歌聲中拍手甚至會隨之起舞。"
 event_road_campaign_20_option_a,這歌一定是為某種邪惡目的所唱。攻擊這些鼠人族。
 event_road_campaign_20_option_b,靠近一點以便欣賞這種詭異的歌聲。
-event_road_campaign_20_result_a,你們出其不意向這群鼠人族發起了進攻，因為他們全神貫注地進行儀式，所以甚至沒有注意到你們正沖向他們。不過，在這些鼠人族被你們殺盡之前，他們還是做出了一些反擊。
+event_road_campaign_20_result_a,你們出其不意向這群鼠人族發起了進攻，因為他們全神貫注地進行儀式，所以甚至沒有注意到你們正沖向他們。不過，在這些鼠人族被你們殺盡之前，他們還是做出了一些復仇。
 event_road_campaign_20_result_b,因為不願意去打擾他們的儀式，你們稍微靠近了幾步，保持在他們的視線之外，然後坐下來聆聽。他們的歌聲轉了好幾個不同的聲調，這讓你們體會很深，並且對鼠人的認識也增添了幾分。
 event_road_campaign_21_intro,"當你發現自己在叢林茂密的灌木叢中穿行時，你注意到許多小動物沿著相反的方向在地面上奔跑。
 
@@ -3969,7 +3929,7 @@ event_road_campaign_45_intro,"一群骯髒粗魯的人迅速騎馬追上並包�
 她又跳回馬上，看著你，說道“嗯，見到你真是太好了，不過記住，你從來沒見過我。”"
 event_road_campaign_45_option_a,攻擊！不管她們是不是朋友，這些恃強淩弱的人必須被繩之以法。
 event_road_campaign_45_option_b,放他們一馬。
-event_road_campaign_45_result_a,你看到這些強盜放鬆警惕開始收拾行裝，這是千載難逢的機會。她們中一部分人兇狠的發動反擊。這名首領的飛刀扔的很好，在她逃走之前，大罵你這是個錯誤的決定。
+event_road_campaign_45_result_a,你看到這些強盜放鬆警惕開始收拾行裝，這是千載難逢的機會。她們中一部分人兇狠的發動復仇。這名首領的飛刀扔的很好，在她逃走之前，大罵你這是個錯誤的決定。
 event_road_campaign_45_result_b,這些強盜在收拾行裝時看起來有些失落，隨即向相反方向離開了。
 event_road_campaign_46_intro,"當你們在山丘上前進的時候，一道陡峭的山脊出現在你們前面，在它的頂端有一堆看上去非常奇怪的岩石群。
 
@@ -4002,7 +3962,7 @@ event_road_campaign_48_option_a,關於那個執日者的下落，你們將知道
 event_road_campaign_48_option_b,攻擊這些惡魔。雖然他們數量眾多，但你們不是這麼容易被威脅的。
 event_road_campaign_48_result_a,"你們不確定那個執日者離開你們的團隊之後到底經歷了什麼事情，但你們還是告訴了
 這些惡魔自己所知道的一切。牠們似乎對你們合作的態度感到十分滿意，在他們向著西邊飛去之前甚至對你們表達了感謝。"
-event_road_campaign_48_result_b,你們一言不發，隨手拔出武器向牠們發起了進攻，這些旭日惡魔被你們打了個措手不及，但是很快便向你們發起兇猛的反擊。這場戰鬥十分漫長而且打得非常殘酷，你們最終帶著慘烈的傷勢和鮮血直流的身軀，繼續踏上了旅程。
+event_road_campaign_48_result_b,你們一言不發，隨手拔出武器向牠們發起了進攻，這些旭日惡魔被你們打了個措手不及，但是很快便向你們發起兇猛的復仇。這場戰鬥十分漫長而且打得非常殘酷，你們最終帶著慘烈的傷勢和鮮血直流的身軀，繼續踏上了旅程。
 event_road_campaign_49_intro,"一群騎馬的人在路上走近你們。他們看上去雖然沒有什麼敵意，但是組織十分嚴密並且令人畏懼。
 
 其中一個身穿板甲，身旁佩有一把利劍的人冷冷地向你們問道:“你們是從黯淡港灣來的，對不對？你們認為那個地方的政治環境如何？由軍方統治那個地方你們是支持還是反對？還是說你認為那些愚蠢的商人能夠做得更好，對嗎？正如他們在這片就定被毀滅的大陸所做的那樣。”
@@ -4162,7 +4122,7 @@ event_road_campaign_62_intro,"那些向你們走來的旭日惡魔在地平線�
 event_road_campaign_62_option_a,答應幫助這些旭日惡魔。
 event_road_campaign_62_option_b,攻擊這些旭日惡魔。也許只有這樣才能讓牠們不再煩你。
 event_road_campaign_62_result_a,你們顯得十分無奈，歎了口氣便答應牠們的請求，然後警告牠們說這是你們提供的最後一次幫助，絕對沒有下次。旭日惡魔告訴了你們太陽神廟的位置並且想求你們趕快過去。
-event_road_campaign_62_result_b,你們一言不發，隨手拔出武器向牠們發起了進攻，這些旭日惡魔被你們打了個措手不及，但是很快便向你們發起兇猛的反擊。這場戰鬥十分漫長而且打得非常殘酷，你們最終帶著慘烈的傷勢和鮮血直流的身軀，繼續踏上了旅程。
+event_road_campaign_62_result_b,你們一言不發，隨手拔出武器向牠們發起了進攻，這些旭日惡魔被你們打了個措手不及，但是很快便向你們發起兇猛的復仇。這場戰鬥十分漫長而且打得非常殘酷，你們最終帶著慘烈的傷勢和鮮血直流的身軀，繼續踏上了旅程。
 event_road_campaign_63_intro,"當你們在山丘上前行的時候，腳下的土地突然猛烈地震動起來。隨後便有兩隻由泥土與石頭所組成的巨型惡魔出現在你們面前。
 
 “愚蠢的旅行者，今天我們就要以你們的血肉為食！”
@@ -4221,7 +4181,7 @@ event_road_campaign_67_result_a,"“呃，其實…我，我不想麻煩你們�
 你們陪伴他回到城裡，雖然路途沒多遠，但是這名商人看上去非常感激。“我深受感動，先生們，當我回到首都之後一定會告訴每個人黯淡港灣是做生意的安全之地。”"
 event_road_campaign_67_result_b,"“什麼，我是說…我從來…”商人難以置信地低聲喃喃說道，“沒有想過世界上居然還存在如此野蠻的地方，真是駭人聽聞。
 
-“等我回到首都之後一定會告訴每個人這裡是多麼恐怖和落後後呃呃呃呃呃……”你們的劍就在這時劃過他的喉嚨，血液瞬間向上湧到他的嘴裡，讓他沒法繼續抱怨下去。"
+“等我回到首都之後一定會告訴每個人這裡是多麼恐怖和落後後呃呃呃呃呃......”你們的劍就在這時劃過他的喉嚨，血液瞬間向上湧到他的嘴裡，讓他沒法繼續抱怨下去。"
 event_road_campaign_68_intro,"在距離黯淡港灣不遠的大路上，你們遇到一個商人，他駕著馬車向城裡駛去。
 
 “噢，不…呃，傭兵們，我明白了，”當你們靠近這個商人的時候，他結結巴巴地說道，“聽著，呃，我知道你們在黯淡港灣附近的名聲。請拿上你們想要的東西就快點離開吧。我…我不想惹麻煩。”"
@@ -4395,7 +4355,7 @@ event_theoldwell_coinsdropped_gained_bless,"當金幣從指尖滑落時，你覺
 感覺受到了祝福，旅程繼續。"
 event_theoldwell_coinsdropped_gained_item,"還沒來得及聽到硬幣到達井底，你注意到井的另外一邊有一個背包！留下它的人早就走了，所以你決定收起它。
 
-它一直在這裡嗎？誰也沒辦法確定……"
+它一直在這裡嗎？誰也沒辦法確定......"
 event_theoldwell_leave,你繼續前行，滿足於口袋裡叮噹作響的硬幣。
 event_theshrine,在十字路口，你看到一個華麗的木制神龕，上面有一個凹槽，供過路的旅行者獻上金幣以求庇佑。
 event_theshrine_a,捐獻少量金幣
@@ -4406,16 +4366,16 @@ event_theshrine_c,捐獻大量金幣
 event_theshrine_c_subtext,（失去 ¬TheShrine_Large.GoldAmount¬ 個金幣）
 event_theshrine_d,打碎神龕並拿走所有金幣
 event_theshrine_e,離開
-event_theshrine_large,"你向凹槽中投入大量金幣然後等待……
+event_theshrine_large,"你向凹槽中投入大量金幣然後等待......
 一開始似乎什麼也沒發生，但很快你感到有溫暖的陽光照耀著你。在陽光中你感受到了活力的回復，當你打算轉身繼續前行時——你突然發現神龕頂部多出了一瓶藥水，你肯定之前什麼也沒有。
 
 將藥水視作對你慷慨的獎勵，你拿起它繼續前行，為你的奉獻似乎得到了認可而高興。
 "
 event_theshrine_leave,你決定不捐金幣繼續前行。
-event_theshrine_medium,"你向凹槽中投入相當數量的金幣然後等待……
+event_theshrine_medium,"你向凹槽中投入相當數量的金幣然後等待......
 
 一開始似乎什麼也沒發生，但很快你感到有溫暖的陽光照耀著你。在陽光中你感受到了活力的回復，你繼續前行，為你的奉獻似乎得到了認可而高興。"
-event_theshrine_small,"你向凹槽中投入少量金幣然後等待……但是什麼也沒發生。
+event_theshrine_small,"你向凹槽中投入少量金幣然後等待......但是什麼也沒發生。
 
 你繼續前行，想知道要是剛才更慷慨一點是不是就能得到回報。"
 event_theshrine_smash,"神龕製作精良，不易破損，但它最終在你的攻擊下裂開，金幣灑落滿地。
@@ -4568,7 +4528,7 @@ gloomhaven_street_travellers_district,旅人大街
 gloomhaven_street_university,學院
 gloomhaven_street_ward_of_scales,天秤街區
 gloomhaven_street_west_barracks,城西軍營
-glossary_action,行動是玩家角色和怪物如何在幽暗迷城中進行它們的輪次，由一個或多個技能卡組成。
+glossary_action,行動是角色和怪物如何在幽暗迷城中進行它們的輪次，由一個或多個技能卡組成。
 glossary_addtarget,附加額外攻擊目標。
 glossary_advantage,優勢攻擊：具有優勢的攻擊者將抽取兩張攻擊修正卡並使用其中更好（數值更高）的那張。
 glossary_air,元素充能 - 氣：用氣元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能同一輪次連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
@@ -4658,9 +4618,9 @@ glossary_poison,中毒：敵軍在所有對中毒單位的攻擊中附加+1攻�
 glossary_pull,拉近：“拉近 X”攻擊效果或技能造成目標被強制靠近移動最多X個格子。 移動方向趨勢由控制者的技能/效果指定，即移動路線每格必須讓目標減少一格距離。目標能夠在被拉近的過程中穿過（被拉者的）友軍，但是不能穿過敵軍或者障礙物。
 glossary_push,強推：“強推 X”攻擊效果或技能造成目標被強制遠離移動最多X個格子。 移動方向趨勢由控制者的技能/效果指定，即移動路線每格必須讓目標增加一格距離。目標能夠在被強推的過程中穿過（被推者的）友軍，但是不能穿過敵軍或者障礙物。
 glossary_range,射程：“射程 X”的技能意味著目標必須在X格距離內。 此外，任何遠端技能都必須在單位的視線範圍內進行。
-glossary_recover,回手（回牌）：使得玩家角色一定數量的棄牌堆（某些技能含燒牌堆）的一些卡回到他們手中。
+glossary_recover,回手（回牌）：使得角色一定數量的棄牌堆（某些技能含燒牌堆）的一些卡回到他們手中。
 glossary_redhex,紅格子顯示了技能效果的攻擊範圍——紅格子範圍上的目標將會被技能擊中。
-glossary_refresh,刷新：允許一個玩家角色重新獲得一定數量乃至所有的“耗用（可通過長休息刷新）”和/或“耗竭（不可通過長休息刷新）”的物品。
+glossary_refresh,刷新：允許一個角色重新獲得一定數量乃至所有的“耗用（可通過長休息刷新）”和/或“耗竭（不可通過長休息刷新）”的物品。
 glossary_rest,0
 glossary_retaliate,反傷：所有單位反傷射程內的攻擊者將會直接受到X點反傷傷害。如果射程值未指定，那麼僅對相鄰的攻擊者起作用。多個反傷效果將會疊加。
 glossary_round,回合效果獎勵：表示這個效果持續到回合結束。
@@ -4677,10 +4637,10 @@ glossary_target,目標數： “目標數 X”的技能意味著這名單位可�
 glossary_trap,陷阱：一個陷阱占一個格子。當一個單位用正常的移動或者被迫的移動進入陷阱格子，陷阱被觸發（例如強推/拉近）。
 glossary_wound,流血：如果目標流血，它在每個輪次的開始時會遭受一點傷害。治療技能可移除流血狀態。
 glossary_xp,XP：這個標誌代表著經驗值。
-glossary_xp1,1XP：向玩家角色授予1點經驗值。
-glossary_xp2,2XP：向玩家角色授予2點經驗值。
-glossary_xp3,3XP：向玩家角色授予3點經驗值。
-glossary_xp6,6XP：向玩家角色授予6點經驗值。
+glossary_xp1,1XP：向角色授予1點經驗值。
+glossary_xp2,2XP：向角色授予2點經驗值。
+glossary_xp3,3XP：向角色授予3點經驗值。
+glossary_xp6,6XP：向角色授予6點經驗值。
 glossary_xparrow,XP獎勵跟蹤區：此跟蹤區顯示持續性技能卡如何在持續期間授予玩家XP獎勵。技能卡的每一次持續作用將會讓獎勵跟蹤區移動到下一個圓形槽，此時若圓形槽上標記了XP獎勵，該獎勵會被授予玩家。 打出的持續性獎勵技能卡會顯示在時序跟蹤區的角色頭像旁邊，你可以將滑鼠停留在卡片之上，查看XP獎勵跟蹤區，時序跟蹤區在螢幕頂部。
 goal_chest_tooltip,華美的寶箱
 goalchest,華美的寶箱
@@ -4811,7 +4771,7 @@ gui_buy_enhancement_confirmation_title,購買技能提升
 gui_buy_party_confirmation,你確定要解鎖這個玩家團隊嗎？
 
 gui_cancel_active_bonus,按一下圖示以取消啟動的技能
-gui_cancel_sending_error_report,取消錯誤報告……請稍候
+gui_cancel_sending_error_report,取消錯誤報告......請稍候
 gui_cancel_town_records,取消城鎮記錄
 gui_card_cannot_be_enhanced,此技能卡<color=#C53F3FFF>不能被提升</color>
 gui_card_fully_enhanced,這種技能卡已被<color=#5FD6E5>完全提升</color>
@@ -5393,7 +5353,7 @@ gui_multiplayer_remove_user,移除用戶
 
 
 gui_multiplayer_view_player_deck,<color=#F1DBAE>查看</color> {0} <color=#F1DBAE>的技能卡卡牌堆</color>
-gui_multiplayer_waiting_players_reward,等待玩家返回到世界地圖……
+gui_multiplayer_waiting_players_reward,等待玩家返回到世界地圖......
 gui_multiplayer_warning_text_waitingforcharassignment,等待所有玩家完成角色安排
 gui_multiplayer_warning_text_waitingforconnectingplayerstojoin,新玩家目前正在加入遊戲。等待每個人都加入後，開始進程。
 gui_multiplayer_warning_text_waitingformoreplayers,邀請另一名玩家繼續多人遊戲或切回到玩家功能表中的單人遊戲。
@@ -5854,7 +5814,7 @@ improvedshortrest,下一回合，短休息將有長休息的福利效果
 infiltrator,潛行者
 infuse,元素充能
 init,Init.
-initiative,時序值
+
 innate,天生的
 innate_shieldbasedonnumberofdeadxspresent,護甲值等於{0}{1}死去{2}的數量
 innate_shieldbasedonnumberofxspresent,護甲值等於 {0} {1} 目前 {2} 的數量
@@ -6151,7 +6111,7 @@ item_shoesofhappiness,若在你自己的行動輪中移動了6個或者更多格
 item_skullbaneaxe,在你對行屍，怨靈或骷髏進行近戰攻擊時，對你的單次攻擊附加<nobr>+5進攻<sprite name=Attack></nobr>。
 item_skullofhatred,在你的行動輪中，<nobr>詛咒<sprite name=Curse></nobr>所有相鄰的敵人。
 item_sphereofmidnight,在你的行動輪結束時，如果與無瑕者相鄰，你可以對其造成兩倍於團隊中傭兵數量的傷害。
-item_spikedshield,當你因為<nobr>攻擊</nobr>而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>反擊<sprite name=Retaliate>2</nobr>。
+item_spikedshield,當你因為<nobr>攻擊</nobr>而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>復仇<sprite name=Retaliate>2</nobr>。
 item_splintmail,在下四次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_staffofelements,在你的行動輪中，生成任意一個元素。
 item_staffofeminence,當你進行遠距攻擊時，<sprite name=ConsumeAny>並對你的整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
@@ -6166,7 +6126,7 @@ item_studdedleather,在下兩次受到攻擊時，攻擊者獲得劣勢；如果
 item_stunpowder,在你進行近戰攻擊時，對你的單次攻擊附加<nobr>擊暈<sprite name=Stun></nobr>。
 item_sunearring,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>所有你已使用的道具並執行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”。
 item_superhealingpotion,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>7，</nobr>自身”。
-item_swordedgearmor,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>反擊<sprite name=Retaliate>1。</nobr>
+item_swordedgearmor,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>復仇<sprite name=Retaliate>1。</nobr>
 item_telescopiclens,當你進行遠距攻擊時，對你的整個攻擊行動輪附加<nobr>+2射程<sprite name=Range></nobr>。
 item_thiefshood,當你執行<nobr>“拾取<sprite name=Loot>1”</nobr>時，改為執行一次<nobr>“拾取<sprite name=Loot>2”</nobr>。
 item_towershield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>2</nobr>。
@@ -6235,7 +6195,7 @@ loading_tip_021,召喚夥伴很有用，但它們往往比較莽撞 —— 若�
 loading_tip_022,如果你不確定你將行動得過早還是過晚，請考慮挑選兩張不管行動早晚都能發揮效用的牌。
 loading_tip_023,觀察敵人的移動並瞭解他們的牌堆和技能。一些怪物移動一直很快，另一些相反，這是能讓你在攻擊中保持優勢的資訊。
 loading_tip_024,你可以按住L來查看人物的視野範圍。
-loading_tip_025,在玩家角色的每個輪次中，所選卡牌的每個半區是一個行動，每個行動可以由一個或多個小技能組成。
+loading_tip_025,在角色的每個輪次中，所選卡牌的每個半區是一個行動，每個行動可以由一個或多個小技能組成。
 loading_tip_026,具有指定類型的行動意味著行動中至少有一個小技能屬於該類型。例如，“移動行動”包含至少一個移動技能。
 loading_tip_027,當強推/拉近 X 時，總是要進行到底，除非被障礙物/單位阻擋，要麼就選擇完全跳過該效果。
 loading_tip_028,注意，如果你因為優勢攻擊而抽取的兩張牌中，一張是“Miss (x0)”，另一張是帶有“連抽箭頭符號”的牌，此時Miss (x0)依然會生效！（傷害為0，但是其他附加效果依然會被結算）
@@ -6340,7 +6300,7 @@ message_complete_achievement_1_1_sunkeeperreachlevel2_3,但他們要怎麼付錢
 message_complete_achievement_1_1_tinkererreachlevel2_1,機匠一直在研究惡魔學的起源，以希望找到打敗惡魔們的方法。他現在找到了一個值得調查的地方。
 message_complete_achievement_1_1_unlocklocations_1,你們往西南的開始做的非常好，我們又收到了更多的小鎮向我們求助，一直到海岸都有！
 message_complete_achievement_1_1_unlocklocations_2,呃，老大，一個行維族女人想見你。她說她可能能幫我們...
-message_complete_achievement_1_1_unlocklocations_3,你在幹嘛……重建秩序，驅逐黑暗，保護弱者，我覺得值得。
+message_complete_achievement_1_1_unlocklocations_3,你在幹嘛......重建秩序，驅逐黑暗，保護弱者，我覺得值得。
 message_complete_achievement_1_1_unlocklocations_4,我會讓你變得更強。來我的帳篷，我們一起提高你的戰士實力。你解鎖的城鎮越多，你就會變得越強。
 message_complete_achievement_1_1_unlocklocations_5,很好，她直取重點！
 message_complete_achievement_1_1_unlocklocations_6,一個女巫！小心，她的服務都不便宜。現在我們已經解鎖了更多的世界，為更危險的東西做好準備。但也別擔心，獎勵也會更加豐富。我也給你解鎖了更多可以完成的成就。
@@ -6350,7 +6310,7 @@ message_complete_achievement_1_2_reachdemonspinehollow_3,我們收到了很多�
 message_complete_achievement_1_2_reachfordingbridge_1,在探索灘橋地的時候，一個相當令人討厭的人在街上搭訕，他身上往下滴著只能被叫做污水的東西。
 message_complete_achievement_1_2_reachfordingbridge_2,我最初揮手讓他離開，但他告訴我他來自甜水地議會，我笑了，但他很堅定。
 message_complete_achievement_1_2_reachfordingbridge_3,顯然他們有一個需要解決的問題。我告訴他我們會調查一下來打發他走，我會在你的地圖上標出甜水地。
-message_complete_achievement_1_2_reachthesloshedsquirrel_1,我在……醉松鼠酒館做了一筆“重要的交易”，我從那邊的老主顧手裡聽說了一些令人擔憂的消息。
+message_complete_achievement_1_2_reachthesloshedsquirrel_1,我在......醉松鼠酒館做了一筆“重要的交易”，我從那邊的老主顧手裡聽說了一些令人擔憂的消息。
 message_complete_achievement_1_2_reachthesloshedsquirrel_2,看起來去往琥珀嶺村的旅行者都失蹤了，整個鎮子都被封鎖了。
 message_complete_achievement_1_2_reachthesloshedsquirrel_3,或許值得我們去看看，看看能不能幫忙，或者呃，賺點錢？
 message_complete_achievement_1_2_unlocklocations_1,我們到達了海岸！這是重建領域聯繫的第一步。
@@ -6363,17 +6323,17 @@ message_complete_achievement_1_4_unlocklocations_2,讓我們尋找更北方的�
 message_complete_achievement_1_4_unlocklocations_3,現在我們的最後目標就是到達叢林深處的野尖塔。
 message_complete_achievement_1_5_unlocklocations_1,做的很好！所有荒涼海岸、東方叢林，荒地直到The Great North Forest的小鎮都已經聯繫到了。我們行會的歷史翻過了第一頁！
 message_complete_achievement_1_5_unlocklocations_2,看起來邊境的村莊已經團結起來準備獎勵我們一大筆金幣了！
-message_end_quest_story_2d_1,在基礎訓練任務做的非常好。讓我來給你介紹行會的第三名成員：雖然他不那麼像個戰士……
+message_end_quest_story_2d_1,在基礎訓練任務做的非常好。讓我來給你介紹行會的第三名成員：雖然他不那麼像個戰士......
 message_end_quest_story_2d_2,"嘿，不是所有人都非常喜歡成為刺傷別人的專家！
 
-哦，呃……請允許我打斷一下。“咳咳”"
-message_end_quest_story_2d_3,你好，會長。我是你菜鳥公會中卑微的<b>商人</b>。我負責運營公會的重要方面……或者說<i>錢</i>。恕我直言，我們現在很缺這東西……
-message_end_quest_story_2d_4,"你現在能看到的是<b>世界地圖</b>。你可能已經注意到它現在有點空洞，嗯……好消息和壞消息都有一些。
+哦，呃......請允許我打斷一下。“咳咳”"
+message_end_quest_story_2d_3,你好，會長。我是你菜鳥公會中卑微的<b>商人</b>。我負責運營公會的重要方面......或者說<i>錢</i>。恕我直言，我們現在很缺這東西......
+message_end_quest_story_2d_4,"你現在能看到的是<b>世界地圖</b>。你可能已經注意到它現在有點空洞，嗯......好消息和壞消息都有一些。
 
 壞消息是邊境已經充斥著各種討厭的怪物——強盜土匪，不死生物，邪教徒們，你懂的。好消息是你會幫我們恢復到達隱藏在迷霧中的其他定居點的道路。"
-message_end_quest_story_2d_5,在我們能幹點什麼之前，我們首先需要給公會雇點雇傭兵。讓我們從真正招募老窮鬼<b>蠻子</b>開始，他會……重新陷入些麻煩之中。
+message_end_quest_story_2d_5,在我們能幹點什麼之前，我們首先需要給公會雇點雇傭兵。讓我們從真正招募老窮鬼<b>蠻子</b>開始，他會......重新陷入些麻煩之中。
 message_end_quest_story_3a_1,<b>蠻徒</b>肯定能吸收不少傷害，但跑的真不快，
-message_end_quest_story_3a_2,得到足夠的資金是讓我們的公會起飛的關鍵。你知道什麼人擅長……emm，撈錢麼？
+message_end_quest_story_3a_2,得到足夠的資金是讓我們的公會起飛的關鍵。你知道什麼人擅長......emm，撈錢麼？
 message_end_quest_story_3a_3,我只知道這個女人——她也是一個在擋道者身上開洞的高手。她正在“解放”一些黃金，我們要搭把手麼？
 message_end_quest_story_3b_1,作為一個公會，我們要做的第一件事情就是重建絞架嶺到西邊的貿易路線。我們有點小小的麻煩就是沿路林地中的強盜，但在蠻徒和凶徒的幫助下，這小菜一碟。
 message_end_quest_story_3b_2,它會給你這工作急需的一些經驗，並且在道路暢通後將一些新的<b>道具</b>放進倉庫中。走，讓我們敲碎這些強盜的腦殼！
@@ -6383,12 +6343,12 @@ message_end_quest_story_5a_2,很不錯。我聽說他在尋找冒險者調查一
 message_end_quest_story_5b_1,我們現在已經建立了一個比較完善的傭兵工會了！說到雇傭，我最近碰到了一個尋求我們幫助的人。
 message_end_quest_story_5b_2,"願你安康。我是這裡的<b>祭司</b>，遵從於聖橡樹庇護所。感謝我們之間的會面，我們所在的聖所急需援助。
 
-如你所見，聖所地下陵寢中的神聖的教堂地穴被瘋狂的邪教徒破壞並玷污了，喚醒了大量不死生物來完成他們的邪惡企圖……我懇求你們，幫我們解決這個威脅！"
-message_end_quest_story_5b_3,這些天這種情況太常見了……無論如何，聽起來是個鍛煉兩名新成員的好機會——走吧。
-message_end_quest_story_5c_1,我沒法表達我對你們有多感激……真的非常感謝。隨著對聖所威脅的消失，我們終於可以繼續恢復這裡的神廟。這需要一些時間來恢復到日常的工作，但我希望將來可以給你們提供幫助。向你道別。
-message_end_quest_story_5c_2,"等等，我們幹這個是<i>免費</i>的？！我以為我們會幹點能掙錢——哦，沒啥了……
+如你所見，聖所地下陵寢中的神聖的教堂地穴被瘋狂的邪教徒破壞並玷污了，喚醒了大量不死生物來完成他們的邪惡企圖......我懇求你們，幫我們解決這個威脅！"
+message_end_quest_story_5b_3,這些天這種情況太常見了......無論如何，聽起來是個鍛煉兩名新成員的好機會——走吧。
+message_end_quest_story_5c_1,我沒法表達我對你們有多感激......真的非常感謝。隨著對聖所威脅的消失，我們終於可以繼續恢復這裡的神廟。這需要一些時間來恢復到日常的工作，但我希望將來可以給你們提供幫助。向你道別。
+message_end_quest_story_5c_2,"等等，我們幹這個是<i>免費</i>的？！我以為我們會幹點能掙錢——哦，沒啥了......
 
-<size=90%>他們說加入一個公會<size=80%>他們說會很有趣<size=70%>“你會掙一大堆錢”……噗！<size=60%>*Grumble grumble*"
+<size=90%>他們說加入一個公會<size=80%>他們說會很有趣<size=70%>“你會掙一大堆錢”......噗！<size=60%>*Grumble grumble*"
 message_end_quest_story_5c_3,"別在意他。感謝你，神廟將適時重新開啟，你會很樂意接受他們的祝福。
 
 現在，下一個和我們失去聯繫的村莊是行軍地。由於一些附近鼠人族營地的襲擊，這會兒道路被封鎖了。"
@@ -6403,7 +6363,7 @@ message_end_quest_story_7a_2,你懂的，如果我們能找到在戰場上召喚
 message_end_quest_story_7a_3,鼠人族？你說我們要招募一個鼠人族？
 message_end_quest_story_7a_4,"不要讓他們齧齒動物的外觀欺騙你，他們並不全都是野生食腐動物。有些鼠人族鍛煉出了強大的心靈能力——而且有流言說一位這樣的鼠人族<b>亂心賊</b>就在這附近狩獵惡魔。你會因為一位惡魔獵手的長的像老鼠而拒絕一位她的加入嗎？
 
-我覺得我們需要找到這位元<b>亂心賊</b>看看她想不想為了……比狩獵惡魔更大的榮耀加入我們。好吧，也許現在沒那麼<i>大</i>的榮耀，但榮耀不都是類似的麼。"
+我覺得我們需要找到這位元<b>亂心賊</b>看看她想不想為了......比狩獵惡魔更大的榮耀加入我們。好吧，也許現在沒那麼<i>大</i>的榮耀，但榮耀不都是類似的麼。"
 message_end_quest_story_7b_1,現在我們的公會已經開始運作，能夠接取範圍更加廣闊的任務。我也瞭解到一些可能值得調查的傳聞，是有關強大神器的位置。
 message_end_quest_story_7b_2,實際上，你應該先調查這個：前幾天的晚上，據說有一顆明星墜落在了絞架嶺的森林之中的湖泊裡，但當村民去調查時，卻沒有看到任何墜落的東西。
 message_end_quest_story_7b_3,一天左右的時間後，村子的北面出現了一些輕微的地震，就在那塊只有一個年久失修的地穴的空地不遠處—但村民們，一介草夫，他們害怕得不知所措。
@@ -6416,7 +6376,7 @@ message_end_quest_story_7c_10,選擇你的團隊，武裝他們，然後你就�
 message_end_quest_story_7c_11,多人遊戲現已啟用。
 message_end_quest_story_7c_2,"左側的面板是用於選擇團隊的陣容，並且在解鎖更多內容時自訂其技能卡和道具。現在你還可以在每個任務中帶上最多4個你自由選擇的傭兵。
 
-但請注意，劇本的難度會隨著玩家角色的數量改變。除非你曾經玩過<color=#BA7956><b>黯淡港灣</b></color>，否則建議保持2個角色來確保決策的可控性！"
+但請注意，劇本的難度會隨著角色的數量改變。除非你曾經玩過<color=#BA7956><b>黯淡港灣</b></color>，否則建議保持2個角色來確保決策的可控性！"
 message_end_quest_story_7c_3,當裝備道具時，注意裝備道具的傭兵將與其綁定。你可以付出一定代價來解綁，但請試著直接將其給予合適的傭兵。
 message_end_quest_story_7c_4,為了幫助你在完成培訓後繼續提升你的技術，我提供了一系列成就供你達成。這些成就可以通過螢幕底部的<b>教官</b>按鈕查看。
 message_end_quest_story_7c_5,完成這些挑戰將給予公會更多的獎金，任務，和地點。有時甚至會是回收強大遺物的任務！
@@ -6437,17 +6397,17 @@ message_end_quest_story_beasttyrant_3_2,我會進行進一步的研究，但我�
 message_end_quest_story_berserker_1_1,在你離開後我在尋找可以賣出去的東西，但是找到了一本強盜的日記。很顯然，監督者正前往鐵木營地組建軍隊。要我說我們下一步就該去那——他們可能有我可以儲備的東西。
 message_end_quest_story_berserker_2_1,你能相信一個叫做鐵木營地的地方沒有鐵和木頭可以拿來賣？不過我確實在帳面上打探了一下，這些馬車好像是要去龍火地外的一個山洞。聽起來我們接下來也要去那裡了。
 message_end_quest_story_berserker_3_1,那麼，讓我看看你偷到的是什麼。別擔心，就算是我也不會試圖在你經歷了這麼多後還想把東西倒賣給你。
-message_end_quest_story_berserker_3_2,總之，看起來你偷到了整個洞穴生態的地圖……而且我們已經找到方法讓你從側門偷偷溜進去了……
-message_end_quest_story_berserker_3_3,……但那道門有一個非常沉重的鎖。在找到方法打開它之前我們沒法再繼續前進了。
+message_end_quest_story_berserker_3_2,總之，看起來你偷到了整個洞穴生態的地圖......而且我們已經找到方法讓你從側門偷偷溜進去了......
+message_end_quest_story_berserker_3_3,......但那道門有一個非常沉重的鎖。在找到方法打開它之前我們沒法再繼續前進了。
 message_end_quest_story_brute_1_1,我會回到我在黃銅綠洲旁的貿易營地，看看我的族人有聽說過任何傳言。當你準備好後就來找我，我會告訴你我的發現。
 message_end_quest_story_brute_2_1,這個叛徒甚至沒有帶著他的部隊進入戰場，也難怪他們會軍心動盪了。他根本不是一個好的指揮官！
 message_end_quest_story_brute_2_2,我們不僅找到了他的主要部隊集結地，還找到了附近的一些廢墟，他的部隊在那裡舉行奇怪的儀式。也許值得先去襲擊廢墟，看看他在玩什麼名堂。
 message_end_quest_story_captainoftheguard_1,我們已經看過你傳遞給我們的資訊，也已經調查了倉庫。
 message_end_quest_story_captainoftheguard_2,不幸的是，隊長的影響力很深，而我們許多同伴被抓走了。如果沒有你，我不覺得我們能發現事情的真相。我代表所有城市守衛向你道歉，並向你報以感激之情。
-message_end_quest_story_captainoftheguard_3,一想到我所崇拜的隊長，卻在追尋這種非人的事物……我就覺得難受..……
+message_end_quest_story_captainoftheguard_3,一想到我所崇拜的隊長，卻在追尋這種非人的事物......我就覺得難受........
 message_end_quest_story_captainoftheguard_4,完美的時機！瘟疫使者和我一起將最強的治療法術提煉成了高級靈藥。那個法術太神奇了；我甚至可能會去往巢穴學習更多...
-message_end_quest_story_captainoftheguard_5,嗯……如你所見，我其實說服了瘟疫使者將藥水的所有權給了我。如果你需要的話得從我這裡購買，我的老朋友。不需要去巢穴。
-message_end_quest_story_captainoftheguard_6,不用，我想我只是……*嘔~*
+message_end_quest_story_captainoftheguard_5,嗯......如你所見，我其實說服了瘟疫使者將藥水的所有權給了我。如果你需要的話得從我這裡購買，我的老朋友。不需要去巢穴。
+message_end_quest_story_captainoftheguard_6,不用，我想我只是......*嘔~*
 message_end_quest_story_captainoftheguard_7,所以...這一定就是因果報應的感覺吧。我去收拾一下。
 message_end_quest_story_cragheart_1_1,根之神殿在低鎮附近的叢林中被發現了。如果他們是有組織性的劫掠，我擔心神殿會成為主要目標。
 message_end_quest_story_cragheart_2_1,這是一些高組織度的劫匪...肯定有人為他們規劃這些行動。我們找出是誰在給他們出主意。
@@ -6468,7 +6428,7 @@ message_end_quest_story_doomstalker_1_4,你不會認為那家屠宰店是一個�
 message_end_quest_story_doomstalker_1_5,好吧，但這也將是你的最愛，不是嗎？
 message_end_quest_story_doomstalker_1_6,這意味著什麼呢？
 message_end_quest_story_doomstalker_2_1,即使這本帳簿的味道聞起來也像是腐敗的肉做成的！
-message_end_quest_story_doomstalker_2_2,好吧，它滿是腐爛的罪行……
+message_end_quest_story_doomstalker_2_2,好吧，它滿是腐爛的罪行......
 message_end_quest_story_doomstalker_2_3,別這麼做。別在這兒丟人現眼。
 message_end_quest_story_doomstalker_2_4,對。唔姆，帳簿現實所有這些黃金都是因為“一個已經完成的工作”支付的，而我碰巧知道它列出的位址實際上是一個雇傭兵的藏身之處。
 message_end_quest_story_doomstalker_2_5,我們可能已經找到了兇手。讓我們找出他把他剁成傭兵肉醬。
@@ -6493,11 +6453,11 @@ message_end_quest_story_highcultist_2,此外，高階邪教徒已經死了，感
 message_end_quest_story_inoxbodyguard_1,我懷疑那可能就是我們最後一次見到羚牛族首領了，但蠻徒終於大仇得報。
 message_end_quest_story_inoxbodyguard_2,我希望更多的人能帶著這些超強的斧頭！
 message_end_quest_story_jekserah_1,召喚師告訴我，根據傑西拉的筆記，我們找回的書中有一個專為我們剛清理了的聖所寫出的咒語。
-message_end_quest_story_jekserah_2,傑西拉知道召喚師肯定會對此感興趣。看起來她在利用我們給她做黑活……
+message_end_quest_story_jekserah_2,傑西拉知道召喚師肯定會對此感興趣。看起來她在利用我們給她做黑活......
 message_end_quest_story_jekserah_3,在聖所釋放該咒語的時候，它會被不停地放大，直到可以控制黯淡港灣的所有死者。多麼美妙的魔法——我得保護它。
-message_end_quest_story_jekserah_4,然而，傑西拉的戒指沒有被女巫保護起來——而且看起來裡面藏匿這強力的魔法。我會留下這個……但這屍臭味。把這當個獎勵？
+message_end_quest_story_jekserah_4,然而，傑西拉的戒指沒有被女巫保護起來——而且看起來裡面藏匿這強力的魔法。我會留下這個......但這屍臭味。把這當個獎勵？
 message_end_quest_story_mercilessoverseer_1,所以，你離開以後我跟鼠人族聊了聊。畢竟，他們欠我們的。
-message_end_quest_story_mercilessoverseer_2,作為奴隸，他們實在沒什麼能給我們的，但有個人給了我們一種古老的訓練方法作為感謝……好吧，我想可能沒因為肉體殺掉我們也是感謝的一種。
+message_end_quest_story_mercilessoverseer_2,作為奴隸，他們實在沒什麼能給我們的，但有個人給了我們一種古老的訓練方法作為感謝......好吧，我想可能沒因為肉體殺掉我們也是感謝的一種。
 message_end_quest_story_mercilessoverseer_3,無論如何，訓練方法足夠了。雖然這老掉牙的東西估計也沒啥用，我覺得你拿著就行。當個贈品。
 message_end_quest_story_mindthief_1_1,你的家人散落在惡魔門附近的下水道裡，告訴他們前往低鎮，你到時候可以在那裡與他們會合。
 message_end_quest_story_mindthief_2_1,你可以把這些物資放回你的臨時巢穴。小傢伙對有點真正能吃的東西會特別高興。
@@ -6516,13 +6476,13 @@ message_end_quest_story_plagueherald_1_2,好吧，我們努力保護魔門鎮和
 message_end_quest_story_plagueherald_1_3,不，我們就是為了賺錢。無論幹什麼無論保護誰，我們會救給錢的人，巢靈族可不付錢。
 message_end_quest_story_plagueherald_1_4,實際上，瘟疫使者說它的巢穴會指引踏它前往另一個在古老神廟中的巢穴，那個巢穴中可能會擁有幫助完成解藥的知識——我們會跟他一起去。
 message_end_quest_story_plagueherald_1_5,在你問之前我先告訴你，神廟裡充滿了巢穴不需要的失落寶藏。
-message_end_quest_story_plagueherald_1_6,……好。我會去的。但我得拿走所有我找到的寶藏才行。
+message_end_quest_story_plagueherald_1_6,......好。我會去的。但我得拿走所有我找到的寶藏才行。
 message_end_quest_story_plagueherald_2_1,我直接告訴你了。瘟疫使者通過‘食用死掉的蟲子’知道了那邊發生的是事情，然後就在研究中取得了突破？
 message_end_quest_story_plagueherald_2_2,也不完全是吧。巢靈族是大群的昆蟲組成的有感情的集群。在瘟疫使者帶著死去的巢穴昆蟲進去的時候，他們成功地進行了交流。
-message_end_quest_story_plagueherald_2_3,好吧……額。我不該問那個問題。至少我們最後得到它需要的東西了嗎？
+message_end_quest_story_plagueherald_2_3,好吧......額。我不該問那個問題。至少我們最後得到它需要的東西了嗎？
 message_end_quest_story_plagueherald_2_4,沒錯，瘟疫使者說現在離咒語的完成已經很近了。那本書中有絕妙的信息。
 message_end_quest_story_plagueherald_2_5,瘟疫使者還說原生族和人類清理了巢穴並且共同設置了仙境，但隨後人類在原生族落單的時候襲擊了他們。
-message_end_quest_story_plagueherald_2_6,嗯……還是沒有雇傭兵的紋章的消息嗎？醉松鼠酒館的醉漢可能知道些消息。那是我們最後的希望了。
+message_end_quest_story_plagueherald_2_6,嗯......還是沒有雇傭兵的紋章的消息嗎？醉松鼠酒館的醉漢可能知道些消息。那是我們最後的希望了。
 message_end_quest_story_plagueherald_3_1,從表面看來，有些人花大價錢請秘密雇傭兵去摧毀魔門鎮裡巢靈族的巢穴。
 message_end_quest_story_plagueherald_3_2,奇怪的是，不僅僅是巢靈族，煉魔族、石人族、羚牛族和智元族都同時是雇傭兵的雇主和目標。我們已經告訴守衛隊長了。
 message_end_quest_story_plagueherald_3_3,他邀請我們在城市警衛隊最近開始調查的一個舊金融區的倉庫裡討論這個問題。
@@ -6531,13 +6491,13 @@ message_end_quest_story_quartermaster_1_1,我不確定不死行屍是怎麼進�
 message_end_quest_story_quartermaster_1_2,為啥你就不能帶我去個好點的地方？
 message_end_quest_story_quartermaster_1_3,我還告知了魔門鎮有關監察者的死訊。我懷疑他們有話想問低鎮守衛軍。
 message_end_quest_story_quartermaster_2_1,我研究了你從金庫帶回來的綠色物質。它只在凱爾地區被發現過，在一個當地人認為被施了魔法的山洞裡。
-message_end_quest_story_quartermaster_2_2,先是一個空空如也的古代金庫，現在又是一個被詛咒的山洞……
+message_end_quest_story_quartermaster_2_2,先是一個空空如也的古代金庫，現在又是一個被詛咒的山洞......
 message_end_quest_story_quartermaster_2_3,你知道我們是已經收了錢的，對吧？
 message_end_quest_story_quartermaster_2_4,那也不代表我會喜歡它。
 message_end_quest_story_quartermaster_3_1,你發現的那個叢林和古老羚牛族神話中一個能強化裡面所有人的隱藏聖所非常像。這是個偉大的學術突破。
 message_end_quest_story_quartermaster_3_2,這個神器同樣耐人尋味。這是一個刻著奇怪的設計圖的半球體，旁邊有一句古老的煉魔族諺語。
 message_end_quest_story_quartermaster_3_3,寫著：“死亡的愉悅隨著脖子折斷而開始。來吧，讓你的身體為我所用吧。”
-message_end_quest_story_quartermaster_3_4,不管我還是軍需官都對此一無所知。我們需要解決這個問題再去通……呃，在去找到庫存以前。這可能會指引我們找到偷我們東西的小偷。
+message_end_quest_story_quartermaster_3_4,不管我還是軍需官都對此一無所知。我們需要解決這個問題再去通......呃，在去找到庫存以前。這可能會指引我們找到偷我們東西的小偷。
 message_end_quest_story_sawbones_1_1,在女巫神奇地去除了她能去掉的所有血液之後，我終於見到了邪教徒的書的真面目。看起來這實際上是一本日記。
 message_end_quest_story_sawbones_1_2,什麼東西？意思是她怒氣衝天地詛咒了小鎮，只因為他前任是魔脊洞穴來的？
 message_end_quest_story_sawbones_1_3,挺接近了。實際上，當地的一個鞋匠毀掉了她最心愛的靴子。但當地受到的詛咒其實只是副作用。如果日記是可信的，這個儀式是一個強化咒語，針對的是在黑石瘋人院內發生的更邪惡的事情。
@@ -6550,17 +6510,17 @@ message_end_quest_story_sawbones_2_5,好吧，事態升級的有點快。我們�
 message_end_quest_story_scoundrel_1_1,我聽說南盾村花大價錢懸賞一個羚牛族老大，它是進攻小鎮的首領。他是你的了。我會把位置標在你地圖上。
 message_end_quest_story_scoundrel_2_1,你知道麼，那看起來像是鷹山頂附近的叢林。最好到那邊去問問，如果有羚牛族在那他們肯定會知道。
 message_end_quest_story_sightlesseye_1,隨著眼睛的死亡，我們得這大部分地區的腐化正在消退，但可能仍有一些散落在大陸上、
-message_end_quest_story_sightlesseye_2,……怎了麼？那是什麼味道？
+message_end_quest_story_sightlesseye_2,......怎了麼？那是什麼味道？
 message_end_quest_story_sightlesseye_3,你昏迷了。
-message_end_quest_story_sightlesseye_4,可能是我做過最明智的決定……
-message_end_quest_story_sightlesseye_5,……看。我有一個用來當夜燈燃燒大劍，我決定把它交給你。如果在碰到那些噁心的敵人，用這把劍，用火，燒死他們。
+message_end_quest_story_sightlesseye_4,可能是我做過最明智的決定......
+message_end_quest_story_sightlesseye_5,......看。我有一個用來當夜燈燃燒大劍，我決定把它交給你。如果在碰到那些噁心的敵人，用這把劍，用火，燒死他們。
 message_end_quest_story_soothsinger_1_1,你和剩下的匪徒談了談，但誰也沒解釋為什麼營地會被不死生物襲擊。
 message_end_quest_story_soothsinger_1_2,可能這地方以前是羚牛族的墓地？
 message_end_quest_story_soothsinger_1_3,好消息是，暢歌者有了些新的下流調子。我建議我們接下來去找些鼠人，學點罵人的東西，我正好知道個地方！
 message_end_quest_story_soothsinger_2_1,怎麼回事？看起來有些人不希望我們學新歌？
 message_end_quest_story_soothsinger_2_2,我覺得可能更糟，但這可能和暢歌者有些聯繫。
 message_end_quest_story_soothsinger_2_3,那麼，看來我們要提防下一次的襲擊了，我會跟我羚牛族朋友聊聊，給他們準備個“歡迎派對”。
-message_end_quest_story_soothsinger_3_1,這花了我點時間，但我們還是讓他開口了，你估計不會相信這離譜的東西……
+message_end_quest_story_soothsinger_3_1,這花了我點時間，但我們還是讓他開口了，你估計不會相信這離譜的東西......
 message_end_quest_story_soothsinger_3_2,顯然，他是被某個跟暢歌者有過節的骸骨冠軍精英雇傭的。
 message_end_quest_story_soothsinger_3_3,她是那位將他封印在夏井地北方塔樓中的吟游詩人的後裔。
 message_end_quest_story_soothsinger_3_4,但那座塔沒有任何辦法能進去，上面有魔法封印。
@@ -6576,7 +6536,7 @@ message_end_quest_story_summoner_1_1,召喚師想在那裡再待一會兒，但�
 message_end_quest_story_summoner_1_2,她用的我的私人魔法書解決的。召喚師說它引用了另一本我們需要的法術書——一本失蹤在三河匯社區外廢棄圖書館裡的大部頭著作。
 message_end_quest_story_summoner_1_3,聽起來是個賺錢的好機會！我估計會跟著一起去。
 message_end_quest_story_summoner_2_1,我剛跟召喚師談完。你找回的那本書不是用來關閉裂隙的。它只是“聽起來有點意思”，她想看看而已。
-message_end_quest_story_summoner_2_2,為了那本她甚至不需要的書，我們差點就掛掉了？……我們能賣了這東西吧？
+message_end_quest_story_summoner_2_2,為了那本她甚至不需要的書，我們差點就掛掉了？......我們能賣了這東西吧？
 message_end_quest_story_summoner_2_3,不不不。她還是需要那本書，只是不是為了那道裂隙。召喚師現在有更安全的手段把你們送回那個地牢了。
 message_end_quest_story_summoner_3_1,你帶給我的這個半球體，我和召喚師都沒辦法找到它和位面裂隙有什麼聯繫。
 message_end_quest_story_summoner_3_2,它的側面刻有某種圖畫，旁邊還有一個用罕見的、古老的煉魔族語寫的銘文。
@@ -6591,7 +6551,7 @@ message_end_quest_story_sunkeeper_3_2,如果我們能找到真正的行動基地
 message_end_quest_story_tinkerer_1_1,這些卷軸提及了遙遠的叢林西北方的一座神廟，甚至在聖橡樹學校以外。看起來我們下一步要去那裡調查一下。
 message_end_quest_story_tinkerer_2_1,你發現的文件讓教會了你一些針對自身的儀式。你決定去公會駐地再做，以防萬一！
 message_end_quest_story_tinkerer_3_1,當你睜開眼的時候，那些惡魔已經回他們的位面了。當你聞到燒焦的氣味時，你覺得整個實驗從頭到尾都是錯的。
-message_end_quest_story_tinkerer_3_2,牆上的地圖被火燒了一個小洞，正好在“圓頂地”外邊的一個小洞。你覺得可能是烈光惡魔想告訴你什麼……
+message_end_quest_story_tinkerer_3_2,牆上的地圖被火燒了一個小洞，正好在“圓頂地”外邊的一個小洞。你覺得可能是烈光惡魔想告訴你什麼......
 message_end_quest_story_undeadcommander_1,看起來梅洛迪追尋著斯萬格的腳步到了和我們所在的寺廟，並雇傭了一些牧師創建了一個只有吟游詩人可以解開的綁定咒語。
 message_end_quest_story_undeadcommander_2,我們可能沒法從這個任務中獲得更多了，不過我確實發現了這些...額...在地板上的頭骨。
 message_end_quest_story_undeadcommander_3,即使我也沒法賣掉這個，所以給你吧，這頭骨讓我有點毛骨悚然。
@@ -6599,7 +6559,7 @@ message_end_quest_story_wingedhorror_1,我覺得這是我們擊敗過最可怕�
 message_end_quest_story_wingedhorror_2,另一個好消息是，學校和聖橡樹都安全了。鋸骨醫者已經在幫員工、學生和那些記錄搬回去了。
 message_end_quest_story_wingedhorror_3,城市衛兵還找回了更多的紅爪客的檔。看起來翼翅恐怖魔的召喚儀式必須承受極度的痛苦，用了他們將近十年才真正完成。我們必須提高警惕。
 message_end_quest_story_wingedhorror_4,至於恐懼魔的分泌物，那些固體塊曾用作學校防禦的能量源。它不是構建魔法的關鍵要素，但它還是能用的。
-message_end_quest_story_wingedhorror_5,那種被廣泛應用的能源核心居然是那種……但我猜你看不出這是惡魔嘴巴裡的東西。我會幫你把這些儲藏起來：我們比學校更需要能源核心。
+message_end_quest_story_wingedhorror_5,那種被廣泛應用的能源核心居然是那種......但我猜你看不出這是惡魔嘴巴裡的東西。我會幫你把這些儲藏起來：我們比學校更需要能源核心。
 message_end_quest_travel_amberhill_1,所以城市守衛現在在殺人麼？那絕對不是我們交稅以後想要獲得的那種保護，至少絕對不是我交稅想要的。
 message_end_quest_travel_amberhill_2,幸運的是，琥珀嶺村因他們當地魔法琥珀樹製成的附魔飾品而聞名。
 message_end_quest_travel_amberhill_3,他們給了我一雙很棒的速度之靴，希望在路途上能有所幫助。抽時間去我商店看看吧！
@@ -6642,7 +6602,7 @@ message_end_quest_travel_nomadcamp_1,在你離開後我又逛了逛營地，心�
 message_end_quest_travel_nomadcamp_2,其中一個倖存者給了我一個戒指作為謝禮，我很高興能戴著它。
 message_end_quest_travel_nomadcamp_3,我甚至沒有意識到我奮力攻擊他們作為回應，我百分百確定是戒指讓我這樣做的。
 message_end_quest_travel_nomadcamp_4,不用你說，我不會再去尋找那些遊牧民了。我會很感激如果你能在更糟的事情發生之前買下戒指的話。
-message_end_quest_travel_obsidianbluff_1,你應該感謝我。 我千里迢迢來到那個地牢，冒著危險在走廊裡尋找可以賣……可以幫助你完成我們任務的東西。
+message_end_quest_travel_obsidianbluff_1,你應該感謝我。 我千里迢迢來到那個地牢，冒著危險在走廊裡尋找可以賣......可以幫助你完成我們任務的東西。
 message_end_quest_travel_obsidianbluff_2,除了血和不朽的潦草字跡外，沒有什麼別的東西，但我的確找到了另一枚戒指。我很開心的拿著戒指走了。
 message_end_quest_travel_obsidianbluff_3,但，當然，我徑直走進一個房間，裡面有一隻迷路的黑暗小妖，我希望我從未進去那裡，但接下來我突然又回到了走廊裡了。
 message_end_quest_travel_obsidianbluff_4,I have a mind to keep the ring, but it‘s in my store as a token of my generosity‘ buy it before I change my mind!,,,,,,,,,,,,,,
@@ -6675,7 +6635,7 @@ message_end_quest_travel_spitepeak_1,這應該能確保大陸再次和平。
 message_end_quest_travel_spitepeak_2,如果我們走運的話，說不定一整天都行！
 message_end_quest_travel_spitepeak_3,在你離開後，我跑進塔樓，撿到了有人留下的一根有趣的法杖。也許你把它派上用場？
 message_end_quest_travel_staybrightfort_1,光明堡古老而又宏偉，所以我想我應該去看看它的地下室裡藏著什麼寶藏。
-message_end_quest_travel_staybrightfort_2,實際上，那該死的東西堆滿了不穩定的炸藥。但是……為什麼？！
+message_end_quest_travel_staybrightfort_2,實際上，那該死的東西堆滿了不穩定的炸藥。但是......為什麼？！
 message_end_quest_travel_staybrightfort_3,我設法安全地拿了點。我不知道你會用來做什麼，但我希望你能在它爆炸以前買走。
 message_end_quest_travel_summerwell_1,在洞穴裡面休息後，繼續前往夏井地的路上，天氣越來越好了。
 message_end_quest_travel_summerwell_2,村民們喜出望外，他們遭受的寒流已經結束。雖然，他們的葡萄園被毀了...
@@ -6772,8 +6732,8 @@ message_start_quest_boss_wingedhorror_1,巢靈族和羚牛族似乎在鹽沼地�
 message_start_quest_boss_wingedhorror_2,學校的後果更糟。但它依舊挺立，不是嗎？在我們的幫助下，我肯定學校會克服困難解決羚牛族和巢靈族散播的死亡和恐懼。
 message_start_quest_boss_wingedhorror_3,讓你公會的雇傭兵們火速行動起來！一個會飛的惡魔野獸正在攻擊聖橡樹學校！
 message_start_quest_boss_wingedhorror_4,等等！學校還存在，對嗎？！
-message_start_quest_boss_wingedhorror_5,是的，但它已經到極限了。快……沒了它，就沒有治療師能夠活下來，去阻止紅爪客用死亡和疾病毀滅魔門鎮的人。
-message_start_quest_boss_wingedhorror_6,"我在鹽沼地看到的那個惡魔……他們一定需要村子裡快要消失的魔法來召喚這個有翅膀的 ""恐怖魔""，這樣它就可以屠殺魔門鎮剩餘的治療師了！"
+message_start_quest_boss_wingedhorror_5,是的，但它已經到極限了。快......沒了它，就沒有治療師能夠活下來，去阻止紅爪客用死亡和疾病毀滅魔門鎮的人。
+message_start_quest_boss_wingedhorror_6,"我在鹽沼地看到的那個惡魔......他們一定需要村子裡快要消失的魔法來召喚這個有翅膀的 ""恐怖魔""，這樣它就可以屠殺魔門鎮剩餘的治療師了！"
 message_start_quest_boss_wingedhorror_7,好吧，似乎除了拯救學校我們別無選擇。我們最好還能得到報酬。
 message_start_quest_travel_keyport_1,對，是時候把戰鬥帶到奇波特港了！
 message_start_quest_travel_keyport_2,我們將從陸地派遣一支小部隊，同時我們的盟友從後方乘船進入。
@@ -7252,7 +7212,7 @@ personalquest_a_study_of_anatomy_objective_desc,需經歷隊友15次變為精疲
 personalquest_a_study_of_anatomy_objective_progress_tooltip,Party member exhaustions experienced:
 personalquest_a_study_of_anatomy_objective_progress_tooltip_empty,No party members have become exhausted yet.
 personalquest_aberrant_slayer,惡魔獵手者
-personalquest_aberrant_slayer_completed,在於每個元素位元面的不同惡魔戰鬥的過程中，你只學到了一件事：殺死它們可能很有趣，但絕不高效。如果你想要贏得與惡魔軍團的戰鬥——不僅僅是無休止的延續——那麼你必須找到一個方法將惡魔永遠逐出這個位面。想達成如此壯舉所需的知識量並不存在於黯淡港灣，所以你拋下了公會裡的雇傭兵獨自起身追尋。與此同時，元素的傾軋將繼續在這座城市中上演……
+personalquest_aberrant_slayer_completed,在於每個元素位元面的不同惡魔戰鬥的過程中，你只學到了一件事：殺死它們可能很有趣，但絕不高效。如果你想要贏得與惡魔軍團的戰鬥——不僅僅是無休止的延續——那麼你必須找到一個方法將惡魔永遠逐出這個位面。想達成如此壯舉所需的知識量並不存在於黯淡港灣，所以你拋下了公會裡的雇傭兵獨自起身追尋。與此同時，元素的傾軋將繼續在這座城市中上演......
 personalquest_aberrant_slayer_desc,"<b>殺死一隻烈焰惡魔、一隻冰霜惡魔、一隻疾風惡魔、一隻大地惡魔、一隻暗夜惡魔、一隻烈光惡魔。</b>
 
 自出生起，從出生起，你就聽說了一個早已過去的時代的故事，它說惡魔自古以來便存在於世，並以弱者為食。而你的先祖就是惡魔獵手，驅魔高手。你一直以為這只是一個故事——直到今天。你發現惡魔是真的存在，而現在獵殺他們的重任就落到了你的肩上。"
@@ -7268,7 +7228,7 @@ personalquest_augmented_abilities_objective_desc,擁有四種附魔效果（需�
 personalquest_augmented_abilities_objective_progress_tooltip,Enhancements purchased:
 personalquest_augmented_abilities_objective_progress_tooltip_empty,No enhancements purchased yet.
 personalquest_battle_legend,戰鬥傳說
-personalquest_battle_legend_completed,那些你被你擊敗的生物，那些你挫敗的計畫……你所做的一切將被永遠銘記。你敢肯定從來沒有傭兵能像你這麼偉大。為了確保你的傳奇被永遠傳頌，你必須去往更廣闊的世界展現你高超的技藝和故事，所以你離開了黯淡港灣去往更遙遠的地方追尋更宏大的戰鬥。如果運氣好的話，你可能還會碰見一個將你的史詩冒險全部寫入詩歌的吟游詩人……
+personalquest_battle_legend_completed,那些你被你擊敗的生物，那些你挫敗的計畫......你所做的一切將被永遠銘記。你敢肯定從來沒有傭兵能像你這麼偉大。為了確保你的傳奇被永遠傳頌，你必須去往更廣闊的世界展現你高超的技藝和故事，所以你離開了黯淡港灣去往更遙遠的地方追尋更宏大的戰鬥。如果運氣好的話，你可能還會碰見一個將你的史詩冒險全部寫入詩歌的吟游詩人......
 personalquest_battle_legend_desc,"<b>從戰鬥目標中獲得十五個增益點</b>
 
 是時候讓你蜚聲於世了。任何傭兵都能完成一兩個任務。但你可不是那些無名小卒——你想要做點大事，好讓你的戰鬥事蹟被吟游詩人傳頌到世界上的沒一個酒館裡。如果人的一生沒有流下一段讓後人為之驚歎的事蹟，那戎馬一生又有何意義呢？"
@@ -7413,7 +7373,7 @@ personalquest_the_perfect_poison_objective_desc,擊殺三個泥漿怪，三個�
 personalquest_the_perfect_poison_objective_progress_tooltip,"Oozes, Lurkers, and Spitting Drakes killed:"
 personalquest_the_perfect_poison_objective_progress_tooltip_empty,"No Oozes, Lurkers, and Spitting Drakes killed yet."
 personalquest_the_thin_places,稀薄之地
-personalquest_the_thin_places_completed,儘管你做了你能做的一切，但空氣依舊變得比以往更稀薄了。但你瞭解到的是，這是某個在另一面，某個正在注視著黯淡港灣的東西所為。在你瞭解更多之前，你什麼都做不到——所以你匆匆地離開了你的傭兵同伴，離開這座城市去追尋真正能夠拯救它的知識。只有一點是能肯定的：那些藏在位面之間的東西暫時還無法毀滅黯淡港灣……
+personalquest_the_thin_places_completed,儘管你做了你能做的一切，但空氣依舊變得比以往更稀薄了。但你瞭解到的是，這是某個在另一面，某個正在注視著黯淡港灣的東西所為。在你瞭解更多之前，你什麼都做不到——所以你匆匆地離開了你的傭兵同伴，離開這座城市去追尋真正能夠拯救它的知識。只有一點是能肯定的：那些藏在位面之間的東西暫時還無法毀滅黯淡港灣......
 personalquest_the_thin_places_desc,"<b>完成六個支線劇本</b>
 
 黯淡港灣周邊的大氣十分稀薄。唔姆，但是更糟糕的是，有什麼東西隱藏在這種氣息之後...就像有某種力量不斷地擠壓並苦苦琢磨著要從另一個空間出來似的。這種感覺困擾著你，你決定前往附近的幾個地方去進一步研究這個現象。運氣好的話，說不定能改變現狀。"
@@ -7787,7 +7747,7 @@ quest_campaign_027_intro,"之後黑爾就陷入了沉默，在你們到達地穴
 quest_campaign_027_intro_travel_1,"在你們一路返回廢墟地穴的時候，黑爾看起來似乎有點高興，因為這次終於可以親自與你們一同長途跋涉，並肩作戰，她迫切的想要幫你們擊退那些惡魔和亡靈。
 
 “從我上次離開黯淡港灣算起，已經不知道過了多久了，”她邊走邊說，手裡的元素能爐隨著行走而不斷地前後甩動，“我的研究工作讓我必須待在城裡，但是偶爾放鬆休息一下，在這個維度中再次旅行的感覺也相當不錯。更別提這次的旅行要安全許多。”"
-quest_campaign_027_intro_travel_2,你們一臉疑惑的看著這個行維族人。“當然，我並不是說旅途中邂逅邪教徒和惡魔是什麼好事啦，不過當我上一次在這片大地上旅行的時候……好吧，我發誓永遠不再提起當時發生的事兒。”
+quest_campaign_027_intro_travel_2,你們一臉疑惑的看著這個行維族人。“當然，我並不是說旅途中邂逅邪教徒和惡魔是什麼好事啦，不過當我上一次在這片大地上旅行的時候......好吧，我發誓永遠不再提起當時發生的事兒。”
 quest_campaign_027_list,關閉裂縫
 quest_campaign_027_name,炎禍裂縫
 quest_campaign_028_desc,瞭解傑西拉遺言的含義...
@@ -8007,7 +7967,7 @@ quest_campaign_042_name,奇聲幻域
 quest_campaign_043_desc,協助黑爾給予你水下呼吸的能力
 quest_campaign_043_intro,這地圖並不怎麼樣，但依舊指引你來到了來到了洞穴的入口處。從洞穴深處傳來了清晰的嘶嘶聲。既然黑爾希望你們儘量帶回更多鱗片，那麼是時候大開殺戒了。
 quest_campaign_043_intro_gh_1,“哦，所以你們真覺得我可以幫你們水下呼吸？你們真是可愛啊，”黑爾滿懷憤怒的盯著你們，“你們以為我是誰啊，真的是無所不能的嗎？我甚至連從哪入手都不知道！”
-quest_campaign_043_intro_gh_2,黑爾轉過身開始彳亍。“沒錯，你們需要亞龍鱗片——它能夠在水中濾出空氣。而且……如果考慮到水元素的獨特性……”
+quest_campaign_043_intro_gh_2,黑爾轉過身開始彳亍。“沒錯，你們需要亞龍鱗片——它能夠在水中濾出空氣。而且......如果考慮到水元素的獨特性......”
 quest_campaign_043_intro_gh_3,你們現在早已習慣了她這樣的行為，所以耐心地等著她回來。你們等了一個小時左右。
 quest_campaign_043_intro_gh_4,“好吧是的。你們激起了我的興趣。我接受你們的請求。給我帶來一些亞龍鱗片，我再看看能做些什麼。據我所知在匕首叢林的北部邊界有一個亞龍巢穴。我會給你們畫張地圖的。”
 quest_campaign_043_list,獲得水下呼吸的能力
@@ -8115,7 +8075,7 @@ quest_campaign_051_intro_gh_1,“啊，很好，你們總算回來了，”黑�
 quest_campaign_051_intro_gh_10,黑爾拒絕再多說什麼，只是懷著堅定的態度向你指著黑煙的方向。
 quest_campaign_051_intro_gh_2,在你們以往的交流中，黑爾總是幽默感十足，但是今天他給你們的感覺有些不同。這一定是發生了某些非常令人擔憂的事情。
 quest_campaign_051_intro_gh_3,“自從你們到處旅行，尋找並摧毀這些影響神器的腐化之源開始，我就感覺到了一個久遠的存在。”
-quest_campaign_051_intro_gh_4,“巴斯蒂安。這個可憐的傢伙的本意是好的，但……”黑爾話音未落，你們腳下的地面就開始晃動起來。雖然這不是什麼嚴重的災難，但依舊使你們深感不安。
+quest_campaign_051_intro_gh_4,“巴斯蒂安。這個可憐的傢伙的本意是好的，但......”黑爾話音未落，你們腳下的地面就開始晃動起來。雖然這不是什麼嚴重的災難，但依舊使你們深感不安。
 quest_campaign_051_intro_gh_5,“這是迄今為止最強烈的一次了。而現在發生的頻率越來越高，我擔心會發生更嚴重的事。”
 quest_campaign_051_intro_gh_6,黑爾變出一小撮青草，用手在空中畫出一個複雜的圓形的同時將青草拋到空中。葉片在空中形成了一個複雜的圖案，但在落地之前就枯萎成深棕色。
 quest_campaign_051_intro_gh_7,“他就在城市裡，”黑爾冷冰冰的說道，“在虛影迷域深處的某個地方。我們都希望——”
@@ -8400,7 +8360,7 @@ quest_campaign_075_intro_gh_1,“事實上， 我的一名聯絡人告訴我，�
 quest_campaign_075_list,完成雷德尼克的委託
 quest_campaign_075_name,蔓生墓園
 quest_campaign_075_scenario_modifier_1,任何與未被挖開的墓穴相鄰的傭兵都可以跳過下半部分行動來進行挖掘。
-quest_campaign_076_desc,唔姆，如果你覺得你配得上他的話……
+quest_campaign_076_desc,唔姆，如果你覺得你配得上他的話......
 quest_campaign_076_intro,"你們在山腳下不斷尋找了幾個小時，卻沒有一點收穫。然而就在此時，你們聽見了微弱的嗡嗡聲。
 
 隨著你們不斷地靠近懸崖，嗡嗡聲也在逐漸變大。巢靈族將巢穴建在了岩石之中，而你們要做的就是將它們挖出來。"
@@ -8666,7 +8626,7 @@ quest_job_fellhounds_intro,當地鎮長告訴你最近來自野狗的襲擊次�
 quest_job_fellhounds_list,當地已經被一群饑餓的狗所佔領，找到原因。
 quest_job_fellhounds_name,擊倒獵犬
 quest_job_firecult_desc,邪教徒們正在召喚暴虐的生物。摧毀這個活動。
-quest_job_firecult_intro,有大量邪教徒存在的傳言把你帶到了一個地牢的門口，這個地牢早就被遺忘在森林裡了。當你打開門時，一股青煙從走廊中飄出，並伴隨著微弱且難以理解的咒語聲。你小心翼翼地在地牢中前進，直到誦咒聲震耳欲聾，裡面的熱量礫石流金。你向房中看去，覺得眼前的一切是那樣的不真實。邪教徒們在房間的中心念著不潔之語，在他們周圍是奇形怪狀的火焰怪物。邪教徒們停止誦咒並說道：`我們感謝火焰之神讓我們聚集在一起進行崇拜……還為我們提供了雇傭兵來活動筋骨´。你被發現了！
+quest_job_firecult_intro,有大量邪教徒存在的傳言把你帶到了一個地牢的門口，這個地牢早就被遺忘在森林裡了。當你打開門時，一股青煙從走廊中飄出，並伴隨著微弱且難以理解的咒語聲。你小心翼翼地在地牢中前進，直到誦咒聲震耳欲聾，裡面的熱量礫石流金。你向房中看去，覺得眼前的一切是那樣的不真實。邪教徒們在房間的中心念著不潔之語，在他們周圍是奇形怪狀的火焰怪物。邪教徒們停止誦咒並說道：`我們感謝火焰之神讓我們聚集在一起進行崇拜......還為我們提供了雇傭兵來活動筋骨´。你被發現了！
 quest_job_firecult_list,阻止危險的邪教聚會
 quest_job_firecult_name,像大撲棱蛾子...
 quest_job_imps_spirits_forest_desc,一個村落在村民們被在農場外出沒的鬼魂嚇壞後聯繫了我們。
@@ -8690,7 +8650,7 @@ quest_job_mysterious_maze_intro,你在總部收到了一封奇怪的信，邀請
 quest_job_mysterious_maze_list,一封奇怪的信邀請你去參加一個比賽。
 quest_job_mysterious_maze_name,神秘迷宮
 quest_job_savvasaid_desc,一個石人族希望收回一個聖地以獲得引導。請確保它能安全到達。
-quest_job_savvasaid_intro,我們收到了另一個石人族的請求，希望我們能到達並開墾一個古老的石人族聖地。護送石人族的旅程相對來說沒有什麼痛苦，即使石人族在你身邊稍微有點不自在，你開始懷疑是他否真的需要你幫忙。然而，當你到達聖地大門時，你發現這兒已經被野獸佔領了……
+quest_job_savvasaid_intro,我們收到了另一個石人族的請求，希望我們能到達並開墾一個古老的石人族聖地。護送石人族的旅程相對來說沒有什麼痛苦，即使石人族在你身邊稍微有點不自在，你開始懷疑是他否真的需要你幫忙。然而，當你到達聖地大門時，你發現這兒已經被野獸佔領了......
 quest_job_savvasaid_list,引導朝聖者前往聖地
 quest_job_savvasaid_name,神聖的朝聖之路
 quest_job_savvasinfighting_desc,石人族的內訌正在威脅村莊。結束這場紛爭吧。
@@ -8698,7 +8658,7 @@ quest_job_savvasinfighting_intro,我們聽說有更多的石人族引起了火�
 quest_job_savvasinfighting_list,石人族正在危及村莊的安全
 quest_job_savvasinfighting_name,內戰
 quest_job_snakes_undead_crypt_desc,你被要求掃蕩一個蝮蛇地穴。但這可能不是這件委託的全部內容。
-quest_job_snakes_undead_crypt_intro,你接受了一個清理地穴內劇毒蝮蛇的工作，這聽起來像是一個常規委託。當你見到提供這項委託的地主時，他對實際的委託內容似乎有點含糊其辭：是的，那兒有蛇，但他對下麵的其他東西諱莫如深。他堅持認為這項工作只是為了清理這個舊地穴。你很不情願地同意了，並前往該地區。從外面看，這個地穴似乎很正常，但當你進去時，你看到了蛻掉的蛇皮……
+quest_job_snakes_undead_crypt_intro,你接受了一個清理地穴內劇毒蝮蛇的工作，這聽起來像是一個常規委託。當你見到提供這項委託的地主時，他對實際的委託內容似乎有點含糊其辭：是的，那兒有蛇，但他對下麵的其他東西諱莫如深。他堅持認為這項工作只是為了清理這個舊地穴。你很不情願地同意了，並前往該地區。從外面看，這個地穴似乎很正常，但當你進去時，你看到了蛻掉的蛇皮......
 quest_job_snakes_undead_crypt_list,巨蛇一直困擾著這個小鎮
 quest_job_snakes_undead_crypt_name,蝮蛇坑
 quest_job_thedjinnpalace_desc,機匠對人死後精神如何脫離肉體非常感興趣，而這個地穴裡充斥著不死族。很適合進行實地研究。
@@ -8706,7 +8666,7 @@ quest_job_thedjinnpalace_intro,機匠正在繼續研究更多奇怪的項目，�
 quest_job_thedjinnpalace_list,幫助機匠研究死人的問題
 quest_job_thedjinnpalace_name,精靈宮殿
 quest_job_thehaunting_desc,每晚都有怨靈在街上遊蕩。當地人都被嚇壞了！
-quest_job_thehaunting_intro,你前往鬧鬼的村莊，期望工作主要是基於法術的驅魔。你被告知，每天晚上都會有一些怨靈出現，把這一帶的人嚇得魂飛魄散。你靜下心來等待夜晚的到來……正如預期的那樣，午夜時分，怨靈開始聚集，但它們並不攻擊你。由於你是第一個沒有逃跑的人，幽靈們才能夠溝通並告訴你，它們是一群法師，在試圖清除一個洞穴裡的惡魔時被殺。在完成他們的任務之前，他們無法安息。怨靈將你帶到了這個洞穴的入口，進入洞穴。
+quest_job_thehaunting_intro,你前往鬧鬼的村莊，期望工作主要是基於法術的驅魔。你被告知，每天晚上都會有一些怨靈出現，把這一帶的人嚇得魂飛魄散。你靜下心來等待夜晚的到來......正如預期的那樣，午夜時分，怨靈開始聚集，但它們並不攻擊你。由於你是第一個沒有逃跑的人，幽靈們才能夠溝通並告訴你，它們是一群法師，在試圖清除一個洞穴裡的惡魔時被殺。在完成他們的任務之前，他們無法安息。怨靈將你帶到了這個洞穴的入口，進入洞穴。
 quest_job_thehaunting_list,阻止怨靈在村莊裡出沒
 quest_job_thehaunting_name,鬧鬼
 quest_job_thestoneman_desc,一個巨石魔像需要你的説明。
@@ -8790,7 +8750,7 @@ quest_relic_fleabittenshawl_complete_1,讓我直說。你們去下水道闖一�
 quest_relic_fleabittenshawl_complete_2,太糟糕了，我如同字面意義上那樣長滿了蝨子！為什麼會有人想靠近這玩意兒？
 quest_relic_fleabittenshawl_complete_3,我覺得我們也可以把這個變成我們的優勢，因為這也能把敵人趕走。
 quest_relic_fleabittenshawl_desc,女巫相信鼠人族已經偶爾發現了病灣村附近的古代神器。
-quest_relic_fleabittenshawl_intro,前往棄物場的一路上平安無事。你從一群在垃圾堆頂部拾荒的窮人間穿過，他們還沒有蠢到深入下水道底部，只有女神才知道在那裡會染上什麼病。難聞的氣味是你首先遇上的麻煩，然後就是地面上蔓延的綠霧。穿越外部的垃圾堆後你找到了通往地面的隧道。當你進去後，你看到了傳聞中的鼠人毛皮和地上散落的骨頭，以及從天花板上滴下的奇怪有色粘液。你最好保持警戒……
+quest_relic_fleabittenshawl_intro,前往棄物場的一路上平安無事。你從一群在垃圾堆頂部拾荒的窮人間穿過，他們還沒有蠢到深入下水道底部，只有女神才知道在那裡會染上什麼病。難聞的氣味是你首先遇上的麻煩，然後就是地面上蔓延的綠霧。穿越外部的垃圾堆後你找到了通往地面的隧道。當你進去後，你看到了傳聞中的鼠人毛皮和地上散落的骨頭，以及從天花板上滴下的奇怪有色粘液。你最好保持警戒......
 quest_relic_fleabittenshawl_list,尋找病灣村垃圾堆
 quest_relic_fleabittenshawl_name,把垃圾拿出去
 quest_relic_fleabittenshawl_unlock_1,我注意到你們曾經面對的不少精英鼠人族帶著含有魔法殘渣的破布。
@@ -8959,7 +8919,7 @@ quest_story_beasttyrant_3_intro,出了落石村，獸王似乎比平時更加活
 quest_story_beasttyrant_3_list,發現了第二處腐化的源頭
 quest_story_beasttyrant_3_name,落石村
 quest_story_berserker_1_desc,監督者現在在哪？
-quest_story_berserker_1_intro,自從公會接到監工回到黯淡港灣的消息以來，你們所有人就籠罩著一種沉重的氣氛，教官一直強調他的危險和消滅他的必要性。有傳言說監工現在在磨塘地外的一個強盜營地，所以你現要去那裡，路上會由狂戰士帶領。旅程不長，你們很快就要面對強盜通常喜歡的木柵欄和毛皮帳篷。然而，你很快就會注意到這個搖搖欲墜的基地裡的人並不是強盜，而是守衛。當你們靠近大門時，一個警衛笨拙地走近你，大聲命令道：“哦，迷路了吧。這個舊營地正在被城市守衛調查。狂戰士走到他跟前，看著他的眼睛，猛地刺傷了他。此時其他的衛兵們拔出劍，向你們逼近過來……
+quest_story_berserker_1_intro,自從公會接到監工回到黯淡港灣的消息以來，你們所有人就籠罩著一種沉重的氣氛，教官一直強調他的危險和消滅他的必要性。有傳言說監工現在在磨塘地外的一個強盜營地，所以你現要去那裡，路上會由狂戰士帶領。旅程不長，你們很快就要面對強盜通常喜歡的木柵欄和毛皮帳篷。然而，你很快就會注意到這個搖搖欲墜的基地裡的人並不是強盜，而是守衛。當你們靠近大門時，一個警衛笨拙地走近你，大聲命令道：“哦，迷路了吧。這個舊營地正在被城市守衛調查。狂戰士走到他跟前，看著他的眼睛，猛地刺傷了他。此時其他的衛兵們拔出劍，向你們逼近過來......
 quest_story_berserker_1_list,狂戰士一定是找到了一位老朋友
 quest_story_berserker_1_name,公務
 quest_story_berserker_1_reward,解鎖狂戰士的故事任務
@@ -9051,7 +9011,7 @@ quest_story_mercilessoverseer_intro,根據狂戰士盜來的地圖上的方向�
 quest_story_mercilessoverseer_list,終於消滅了監督者
 quest_story_mercilessoverseer_name,鼠王
 quest_story_mindthief_1_desc,人類挖到了你的巢穴，回家去保護你的家人。
-quest_story_mindthief_1_intro,當你回頭穿過你的狼群居住的那個巢穴，苔蘚和菌類的清香充斥著你的鼻腔，你向它們揮手。很久以前，你引導你的狼群離開令人作嘔的城市下水道並再也沒有回來看過，讓它們在野外享受寧靜的生活。食物雖少，生活卻美滿……或者更確切地說，曾經是，直到你們聽到許許多多湧進洞穴裡的腳步聲。這個巢穴遭到了攻擊！
+quest_story_mindthief_1_intro,當你回頭穿過你的狼群居住的那個巢穴，苔蘚和菌類的清香充斥著你的鼻腔，你向它們揮手。很久以前，你引導你的狼群離開令人作嘔的城市下水道並再也沒有回來看過，讓它們在野外享受寧靜的生活。食物雖少，生活卻美滿......或者更確切地說，曾經是，直到你們聽到許許多多湧進洞穴裡的腳步聲。這個巢穴遭到了攻擊！
 quest_story_mindthief_1_list,亂心賊的巢穴正在受到攻擊
 quest_story_mindthief_1_name,保護巢穴
 quest_story_mindthief_1_reward,解鎖亂心賊的故事任務
@@ -9120,7 +9080,7 @@ quest_story_sawbones_3_intro,Traveling north somewhat precariously on the single
 quest_story_sawbones_3_list,守衛鹽沼地
 quest_story_sawbones_3_name,整平鹽沼
 quest_story_scoundrel_1_desc,一個不願意透露身份的高大羚牛族讓你們割喉了幾個附近的凶徒。是時候見見它，領取你們的報酬了。
-quest_story_scoundrel_1_intro,你前往森林深處的會面地點，一路上好奇著這名羚牛族到底長什麼樣子。到目前為止，你一直在和中間人打交道，但你能感覺到這名羚牛族正在召集一支小軍隊……而你的工作是幫助他幹掉敵人。你做在約定好的空地上，等待他的到來。
+quest_story_scoundrel_1_intro,你前往森林深處的會面地點，一路上好奇著這名羚牛族到底長什麼樣子。到目前為止，你一直在和中間人打交道，但你能感覺到這名羚牛族正在召集一支小軍隊......而你的工作是幫助他幹掉敵人。你做在約定好的空地上，等待他的到來。
 quest_story_scoundrel_1_list,凶徒就在旁邊
 quest_story_scoundrel_1_name,發薪日
 quest_story_scoundrel_1_reward,解鎖凶徒的故事任務
@@ -9299,7 +9259,7 @@ quest_travel_nasitra_desc,土匪佔領了通往楠斯厝的主橋，闖入他們
 quest_travel_nasitra_intro,你在遠處就能看到楠斯厝的火炬的光芒，但主橋處於一片黑暗之中。從正面向橋上突擊橋太過愚蠢，於是你在橋墩的底部找到了一個未被使用的入口。你悄悄地進入了這條通道，向上走去，你可不會放過裡面的任何一個傢伙。
 quest_travel_nasitra_list,打破強盜對楠斯厝的圍攻
 quest_travel_nasitra_name,兵臨城下
-quest_travel_nomadcamp_desc,遊民可能知道得更多……
+quest_travel_nomadcamp_desc,遊民可能知道得更多......
 quest_travel_nomadcamp_intro,在認定前往遊牧營地這件事值得你多花點兒時間後，你沿著考古學家在流沙鎮給你的方向前行。就好像沙漠是無窮無盡的一般，被撕裂的白色織物碎片在沙丘之間閃爍。 隨著你的前進，血液飛濺和撕碎的床單也成為了沙漠的點綴。 在乾燥的風中，戰鬥的聲音清晰無誤的傳到你耳邊，你回應了它們的呼喚，抄起了你的武器。 剩下的遊民站在被屠殺的戰友身旁，拿著劍和長矛向著羚牛族戰士和伏擊者發起猛烈攻擊。 在被發現後，你被一個羚牛族戰士大聲挑釁，這促使著入侵者們向你發起攻擊。 遊民倖存者趁著敵人分心的時候紛紛逃走了。 現在你別無退路了。
 quest_travel_nomadcamp_list,跟遊民們談談
 quest_travel_nomadcamp_name,一觸即潰的聯盟
@@ -9418,7 +9378,7 @@ quest_travel_theshiftingsands_intro,穿過南部沙漠到河邊的路途是很�
 quest_travel_theshiftingsands_list,前往南方
 quest_travel_theshiftingsands_name,武裝到了牙齒
 quest_travel_thesloshedsquirrel_desc,一群村民在當地的旅館慶祝朋友的誕辰日時被當地的強盜頭領無理敲詐。村民理所應當的拒絕了他，所以強盜們將他們困在了旅館內。
-quest_travel_thesloshedsquirrel_intro,一名逃到了惡魔之脊的村民向你們表達了感謝。他告訴你們，在鼠人族最初的進攻之後，他的朋友們都覺得可以像以前那樣找個酒吧喝點小酒，躲起來等待一切過去……但這個主意很顯然在此次危機中並不奏效。你們沿著林間小路前往醉松鼠地；對於一條只通向一間小酒館的路來說，這條小路已經十分完善了。在你們靠近酒館之時，箭矢從四面八方如潮水一般襲來。你們被偷襲了！
+quest_travel_thesloshedsquirrel_intro,一名逃到了惡魔之脊的村民向你們表達了感謝。他告訴你們，在鼠人族最初的進攻之後，他的朋友們都覺得可以像以前那樣找個酒吧喝點小酒，躲起來等待一切過去......但這個主意很顯然在此次危機中並不奏效。你們沿著林間小路前往醉松鼠地；對於一條只通向一間小酒館的路來說，這條小路已經十分完善了。在你們靠近酒館之時，箭矢從四面八方如潮水一般襲來。你們被偷襲了！
 quest_travel_thesloshedsquirrel_list,救出被困在森林深處旅館裡的酒客們
 quest_travel_thesloshedsquirrel_name,空穴來風
 quest_travel_thethorngate_desc,村民們在夜晚聽到了一個奇怪的旋律，然後第二天早上他們醒來時就發現孩童們都不見了蹤跡。
@@ -9595,7 +9555,7 @@ scenario_campaign_012_objective_1,擊殺傑西拉
 scenario_campaign_012_room_2_1,當你到達傑西拉的莊園並踹開大門時，不死怪物迎向你的武器的怪潮終於平息了。 你看到她在門廳裡，氣得發抖。
 scenario_campaign_012_room_2_2,“你贏不了我！ 即使我的部隊被消滅了，但屍體就是我火焰的燃料。 我的部隊是無窮無盡的！”
 scenario_campaign_012_room_2_3,隨著不死怪物的行進，傑西拉撤退到莊園的更深處。
-scenario_campaign_012_success_1,傑西拉崩潰了，生命從她的瞳孔中流逝。 “我……”她對你低聲說道。 “你不知道接下來會發生什麼……”
+scenario_campaign_012_success_1,傑西拉崩潰了，生命從她的瞳孔中流逝。 “我......”她對你低聲說道。 “你不知道接下來會發生什麼......”
 scenario_campaign_012_success_2,“真氣人。”衛兵隊長來接你了，他的上衣還沾著血。 “這麼多無謂的死亡，自相殘殺。 至少現在結束了。”
 scenario_campaign_012_success_3,“聽著，你今天證明了自己。沒有你的警告，沒有你的力量，我們早就被亡靈趕上了。 如果你感興趣，我會有更多的工作交給你去完成。”
 scenario_campaign_012_success_4,“首先，我們從北方得到了關於大型飛行生物的報告。人們害怕龍。” 他煩惱地搖了搖頭：“我想請你去北方的關口調查這件事。”
@@ -9642,7 +9602,7 @@ scenario_campaign_020_objective_1,擊殺傑西拉
 scenario_campaign_020_room_4_1,不幸的是傑西拉有著充足的時間在此復活屍體，但是它們比起你的技藝不堪一擊。你撞開了最後一道門，直面死靈法師本體。
 scenario_campaign_020_room_4_2,“我不知道你是怎麼找到我的，不過無所謂了。你以為我逃跑是因為我不敢跟你打一架。我只希望你趕快清醒清醒。”
 scenario_campaign_020_room_4_3,“遺憾的是你的思想並不能超越你的劍刃。你摧毀的行屍只好用你自己的屍體來替代了。”
-scenario_campaign_020_success_1,傑西拉癱軟的倒下了，生命從她的瞳孔中流逝。 “我……”她對你低聲說道。 “你不知道接下來會發生什麼……”
+scenario_campaign_020_success_1,傑西拉癱軟的倒下了，生命從她的瞳孔中流逝。 “我......”她對你低聲說道。 “你不知道接下來會發生什麼......”
 scenario_campaign_020_success_2,再來一刀，你從她身體上砍下了她的頭顱。急匆匆的離開了這個充滿傷痕累累的屍體的地方。
 scenario_campaign_021_objective_1,擊殺惡魔領主
 scenario_campaign_021_room_5_1,你揭開黑暗的面紗，顯露出宮殿的主室。在正中心，你看見了一個巨大的獰笑的惡魔。
@@ -9686,7 +9646,7 @@ scenario_campaign_025_room_2_1,你穿過狼群，感謝雪沒有讓你速度慢�
 scenario_campaign_025_room_2_2,你透過白雪風暴看過去，看到紅色的生物向你飛奔。
 scenario_campaign_025_success_1,萬事休矣——你跌倒了坐在雪地上。 但你知道你沒法起身。 你也知道你會被巨大的紅色爪子撕成碎片。
 scenario_campaign_025_success_10,“或者，如果你想要老套一些的，”這個生物歎了口氣說，“你可以直接地攻擊我。 殺死巨龍，拯救公主，諸如此類。”
-scenario_campaign_025_success_11,“除了我沒有公主，我也不是龍——只是一隻活了很久不想在今天結束自己生命的亞龍。 所以你要是攻擊我，我會反擊，你必死無疑。”
+scenario_campaign_025_success_11,“除了我沒有公主，我也不是龍——只是一隻活了很久不想在今天結束自己生命的亞龍。 所以你要是攻擊我，我會復仇，你必死無疑。”
 scenario_campaign_025_success_2,於是你不管不顧地奮力前進，直到亞龍追兵消失在你的身後，而山的頂峰終於出現在視野裡。
 scenario_campaign_025_success_3,當你抵達頂峰時風平穩了下來，對於一直在忍受咬傷之痛的你來說最好不過了。這裡空氣很稀薄，但你已處於雲層之巔，這裡風平浪靜。
 scenario_campaign_025_success_4,這讓你更容易看清楚看到那只棲息在鋸齒狀巨石上的巨大翼蜥。
@@ -10272,7 +10232,7 @@ scenario_crypt_banditcultist_descr_1,邪教徒們受雇於當地的一個強盜�
 scenario_crypt_bossbanditcommander_descr_0,所有強盜的蹤跡都指向了這裡，準備戰鬥！
 scenario_crypt_bossbanditcommander_descr_1,這就是強盜指揮官的所在
 scenario_crypt_bossbanditcommander_descr_2,不義之財堆滿了這個地穴，強盜的財寶正等著你來奪取！
-scenario_crypt_bosshighcultist_descr_0,惡魔們從這個坑道中湧出，是時候反擊了！
+scenario_crypt_bosshighcultist_descr_0,惡魔們從這個坑道中湧出，是時候復仇了！
 scenario_crypt_bossundeadcommander_descr_0,你打聽到了一些傳言，某個東西驅使著一批亡靈盤踞在這裡
 scenario_crypt_bossundeadcommander_descr_1,亡靈生物充斥在這個墓地的周圍
 scenario_crypt_bossundeadcommander_descr_2,這個地方盤踞著龐大的危險，當然，也同樣意味著珍稀的寶藏！
@@ -10313,13 +10273,13 @@ scenario_job_aneyeforaneye_sm1_desc,所有英雄在戰役開始時處於中毒�
 scenario_job_aneyeforaneye_start_1,在第一個房間裡，有許多異教徒將強盜“轉化”為了不死族。這裡充斥著令人作嘔的氣味。
 scenario_job_aneyeforaneye_start_2,我知道異教徒都很卑鄙，可是這次真是讓我覺得噁心。是時候送他們下地獄了！
 scenario_job_aneyeforaneye_success_1,隨著最後一名敵人死亡，強盜弓箭手也無力地跪倒在地。
-scenario_job_aneyeforaneye_success_2,謝謝你的幫助……至少我已經報了仇。收下吧，這是你應得的報酬。
+scenario_job_aneyeforaneye_success_2,謝謝你的幫助......至少我已經報了仇。收下吧，這是你應得的報酬。
 scenario_job_callofthewild_start_1,在進入洞穴，穿過洞中長廊時，你捕捉帶空氣中依舊飄散著的血腥味，地上則四處散落著吃剩的骨頭。
 scenario_job_callofthewild_start_2,通道打開之後，你看到了一群各式各樣的生物群居在一起。或許是因為這裡富饒的環境使它們能夠共存？
 scenario_job_callofthewild_success_1,隨著野獸們的死亡，洞穴內終於安靜下來，附近的一切又恢復了正常。
 scenario_job_demonaltars_room_2_1,看那，惡魔祭壇！集中火力摧毀它們——沒有祭壇，惡魔就無法停留在我們的世界裡。
 scenario_job_demonaltars_room_2_2,這裡也有一組壓力板。一旦你觸發它們，我相信你會發現更多的惡魔祭壇！
-scenario_job_demonaltars_start_1,我討厭惡魔……簡直就像那毛茸茸的蛛腳一樣可怕……謝天謝地，他們平時並不存在於我們的世界裡，而且數量也並沒有這麼多。
+scenario_job_demonaltars_start_1,我討厭惡魔......簡直就像那毛茸茸的蛛腳一樣可怕......謝天謝地，他們平時並不存在於我們的世界裡，而且數量也並沒有這麼多。
 scenario_job_demonaltars_start_2,一定是有什麼東西在讓它們不斷湧入這裡——你需要找到並摧毀它來停止它們的侵入。
 scenario_job_demonaltars_start_3,那些壓力板看起來很不自然。我敢打賭，造成這一切的幕後黑手就藏在這些壓力板能夠打開的房間裡！
 scenario_job_demonaltars_success_1,隨著最後一個惡魔祭壇被摧毀，惡魔們終於被驅逐回他們的次元。霎時，洞穴中只留下你存在於這個空空如也的房間裡，萬籟俱寂。
@@ -10335,9 +10295,9 @@ scenario_job_fellhounds_sm1_desc,所有的獵犬都帶有毒性攻擊
 scenario_job_fellhounds_start_1,叢林中一片令人不快的景象：獵犬們正在啃食浮腫的行屍。怪不得它們會生病。
 scenario_job_fellhounds_start_2,當你將狗殺死向前推進時，屍體又爬起來了。是死靈法術！
 scenario_job_fellhounds_start_3,那些狗不對勁，最好避免被咬到。
-scenario_job_fellhounds_start_4,我覺得你已經指出了關鍵點……
+scenario_job_fellhounds_start_4,我覺得你已經指出了關鍵點......
 scenario_job_fellhounds_success_1,邪教徒似乎在利用獵犬傳播一種能使人變成不死族的疾病。你最好把這裡的一切都燒了。
-scenario_job_firecult_start_1,火焰惡魔，吐炎龍獸，骨遊騎兵……這些生物可以將村莊夷為平地！不留活口！
+scenario_job_firecult_start_1,火焰惡魔，吐炎龍獸，骨遊騎兵......這些生物可以將村莊夷為平地！不留活口！
 scenario_job_firecult_success_1,當最後的邪教徒被殺，空氣逐漸冷卻。異教的重擔好像也隨之湮滅。
 scenario_job_firecult_success_2,邪教徒似乎總做一些魯莽且不必要的事情。我懷疑這將是你遇到的唯一一組召喚怪物。
 scenario_job_inox_vermling_forest_intro_01,看來襲擊者們正在為戰利品爭論不休。你讓他們措手不及。
@@ -10347,11 +10307,11 @@ scenario_job_inox_vermling_forest_outro,營地恢復了安全，你的工作也�
 scenario_job_inox_vermling_forest_sm1_desc,所有敵人開始時處於繳械狀態
 scenario_job_mindcontrol_sm1_desc,所有英雄開始時處於混亂狀態
 scenario_job_mindcontrol_start_1,當你走出去時，你注意到所有強盜都沒有動。他們也沒有任何反應。你正準備進一步調查時，一陣耳語卻從最近的強盜那兒傳來。
-scenario_job_mindcontrol_start_2,走，快走。小妖控制著我們，我們沒辦法……
+scenario_job_mindcontrol_start_2,走，快走。小妖控制著我們，我們沒辦法......
 scenario_job_mindcontrol_start_3,就在這時，一隻小妖大笑著飛了出來。強盜們瞬間有了反應並加入到戰鬥中。
 scenario_job_mindcontrol_start_4,只要拿下這群小妖，強盜們肯定也會停止戰鬥。
 scenario_job_mindcontrol_success_1,隨著最後一隻小妖死亡，強盜們也立即停止攻擊你。
-scenario_job_mindcontrol_success_2,謝謝你，我們……我們沒法控制自己的行為。這種強盜生活已經不再適合我了，我要回去找個酒館工作！
+scenario_job_mindcontrol_success_2,謝謝你，我們......我們沒法控制自己的行為。這種強盜生活已經不再適合我了，我要回去找個酒館工作！
 scenario_job_mysterious_maze_intro_01,房間裡有各種各樣的敵人，根本找不到他們共存的規律和理由。
 scenario_job_mysterious_maze_intro_02,這是魔法的傑作：這些生物應該自相殘殺，但他們是為了測試你的技能而存在的。
 scenario_job_mysterious_maze_intro_03,好吧，那我們就殺了他們吧！
@@ -10366,8 +10326,8 @@ scenario_job_savvasinfighting_start_1,看起來這些石人族因為“哪一方
 scenario_job_savvasinfighting_start_2,對我們而言幸運的是，相比於與你爭鬥，他們似乎同樣渴望內鬥。利用這一點把他們趕走吧！
 scenario_job_savvasinfighting_success_1,隨著另一個石人族倒下，其他石人族開始難以置信的撤退。目前來說，當地定居點恢復安全。
 scenario_job_savvasinfighting_success_2,這些石人族對權力的追求讓他們互相廝殺，完全不顧他們眼中的“低等人”，看起來他們很多人都是這麼想的。我覺得這肯定也不是會你遇到的最後一群交戰中的石人族。
-scenario_job_snakes_undead_map_intro,你接受了一份清理巨蛇墓穴的工作，這聽起來像是一項例行工作。當你遇到提供這份工作的地主時，他似乎對實際問題有點含糊其辭：是的，那裡是有蛇，但是對於墓穴下的其他東西，他很謹慎的什麼也沒說。他堅稱這項工作只是清理一個古老的墓穴。你勉強同意並前往該地區。從外面看這個墓穴似乎很正常，但當你進去後，你看到了蛻掉的蛇皮……
-scenario_job_snakes_undead_scenario_intro,理所當然這裡有蛇……但是地主忘記提及不死族了……
+scenario_job_snakes_undead_map_intro,你接受了一份清理巨蛇墓穴的工作，這聽起來像是一項例行工作。當你遇到提供這份工作的地主時，他似乎對實際問題有點含糊其辭：是的，那裡是有蛇，但是對於墓穴下的其他東西，他很謹慎的什麼也沒說。他堅稱這項工作只是清理一個古老的墓穴。你勉強同意並前往該地區。從外面看這個墓穴似乎很正常，但當你進去後，你看到了蛻掉的蛇皮......
+scenario_job_snakes_undead_scenario_intro,理所當然這裡有蛇......但是地主忘記提及不死族了......
 scenario_job_snakes_undead_scenario_outro,不管是蛇或是不死族，只要報酬足夠，神擋殺神，佛擋殺佛。
 scenario_job_thedjinnpalace_start_1,這些不死族今晚即將重生，所以你的目標是活下來！
 scenario_job_thedjinnpalace_success,機匠似乎對他收集到的資料非常高興，當地村民也會獎勵你一些金幣。這一夜過的真不錯！
@@ -10377,7 +10337,7 @@ scenario_job_thehaunting_success_1,隨著最後一個惡魔死亡，靈魂也消
 scenario_job_thestoneman_start_1,強盜們沖出了森林。他們帶了獵犬和蛇！
 scenario_job_thestoneman_success_1,剩下的強盜們認為這些報酬還沒有足夠大到讓他們犧牲性命去幹一票，所以他們撤回到了叢林中。
 scenario_job_thevaultsofpus_sm1_desc,所有英雄開始時處於中毒狀態
-scenario_job_thevaultsofpus_start_1,你進入了墓穴看到邪教徒們匆忙地試圖召喚一支不死族軍隊……但顯然埋葬在這裡地家族擁有更強大地信仰。
+scenario_job_thevaultsofpus_start_1,你進入了墓穴看到邪教徒們匆忙地試圖召喚一支不死族軍隊......但顯然埋葬在這裡地家族擁有更強大地信仰。
 scenario_job_thevaultsofpus_success_1,墓穴恢復了安全。或許在將來，它的主人們會在門上裝一個更結實的掛鎖。我們只能希望如此。
 scenario_job_twotribes_start_1,你到達了激戰聲發出的地方。很顯然對戰已經開始了。
 scenario_job_twotribes_start_2,雙方都有很多軍隊，他們在多條戰線上進行戰鬥。
@@ -10433,7 +10393,7 @@ scenario_puzzle_2c_obj_1,在2個回合內不要受到任何攻擊
 scenario_puzzle_2d_01,讓我們來看看<b><color=#FADC99>攻擊修正</color></b>卡牌。在之前的訓練中，角色在攻擊時總是抽取一張<color=orange><b> +0 </b></color>的<b><color=#FADC99>攻擊修正卡牌</color></b>，意味著他們的攻擊傷害總是和卡牌上說明的傷害一樣。但是平時可不是這樣的！
 scenario_puzzle_2d_02,"在正常的劇本中，每次執行<link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>行動時，角色都會抽取一張<b><color=#FADC99>攻擊修正卡牌</color></b>來影響實際造成的傷害。它們會通過<b><color=orange> +1 </color></b>，<b><color=orange> +2 </color></b>，和<b><color=#D92727> x2 </color></b>來提升傷害，或是通過<b><color=#A050E0> -1 </color></b>，<b><color=#A050E0> -2 </color></b>，和<b><color=#A050E0> x0 </color></b>來降低傷害，還可能像你之前看到的<color=orange><b> +0 </b></color>那樣對傷害數值不造成影響。
 
-你可以通過將滑鼠懸停在任意角色身上來看到他的攻擊修正卡池 ——注意，和玩家角色不同的是，所有怪物共用同一個攻擊修正卡池！"
+你可以通過將滑鼠懸停在任意角色身上來看到他的攻擊修正卡池 ——注意，和角色不同的是，所有怪物共用同一個攻擊修正卡池！"
 scenario_puzzle_2d_03,"在本場訓練關中，<b><color=#C53F3F>弓箭手</color></b>的攻擊修正卡池裡只剩兩張攻擊修正卡牌：<b><color=#D92727> x2 </color></b>和<b><color=#A050E0> x0 </color></b>。我們希望她們抽到<b><color=#A050E0> x0 </color></b>來造成0點傷害，因此我們要讓她們進入<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態來確保她能抽到！"
 scenario_puzzle_2d_04,"<link=""Glossary_Range"">遠程</link><link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>在攻擊一個相鄰格子裡的目標時會處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>。這會導致攻擊方抽取兩張攻擊修正卡牌而不是抽一張，然後採用更差的那張。
 
@@ -10560,21 +10520,21 @@ scenario_puzzle_5c_02,那些傳送門突然就消失了！無論之前是什麼�
 scenario_puzzle_5c_obj_01,存活三個回合
 scenario_puzzle_6a_01,幾隻獵犬從灌木叢中鑽了出來，兇狠地朝你狂吠，沒多久就跟來了一個鼠人族哨兵。他似乎對撞上一隊傭兵感到有些驚訝，不過很快就鎮靜下來並且拉弓上弦，進入戰鬥狀態。
 scenario_puzzle_6a_02,你找到了一個防禦薄弱的鼠人族營地。把這些敵人趕走應該可以再次保障貿易路線的安全。
-scenario_puzzle_7a_01,"看看這個人見人愛的移動巨石—<b>裂心石人</b>。我們的人數真是壓倒性的不利，看來需要採取一些防禦戰術。讓我們來看看<b><link=""Glossary_Retaliate"">反擊</link></b><sprite name=Retaliate>是如何起到作用並且幫助裂心石人擺脫這個困境的。"
-scenario_puzzle_7a_02,"與<b><link=""Glossary_Shield"">護盾</link></b>類似，<b><link=""Glossary_Retaliate"">反擊</link></b>是一種<b>啟動獎勵</b>，通常維持一個<link=""Glossary_Round""><b>回合</b></link><sprite name=Round>或是<link=""Glossary_Persistent""><b>持續</b></link><sprite name=Persistent>生效，直到稍晚些時候滿足終止條件時會被取消。
+scenario_puzzle_7a_01,"看看這個人見人愛的移動巨石—<b>裂心石人</b>。我們的人數真是壓倒性的不利，看來需要採取一些防禦戰術。讓我們來看看<b><link=""Glossary_Retaliate"">復仇</link></b><sprite name=Retaliate>是如何起到作用並且幫助裂心石人擺脫這個困境的。"
+scenario_puzzle_7a_02,"與<b><link=""Glossary_Shield"">護盾</link></b>類似，<b><link=""Glossary_Retaliate"">復仇</link></b>是一種<b>啟動獎勵</b>，通常維持一個<link=""Glossary_Round""><b>回合</b></link><sprite name=Round>或是<link=""Glossary_Persistent""><b>持續</b></link><sprite name=Persistent>生效，直到稍晚些時候滿足終止條件時會被取消。
 
-當反擊處於啟動狀態時，使用近戰攻擊的單位會在每次執行攻擊後受到和<b><link=""Glossary_Retaliate"">反擊</link></b>所標示數值等量的傷害。"
-scenario_puzzle_7a_03,"當被這麼多的<b>骷髏</b>包圍時，在他們攻擊後造成的反擊傷害也非常可觀…當然，前提是如果你能在本回合中存活下來！
+當復仇處於啟動狀態時，使用近戰攻擊的單位會在每次執行攻擊後受到和<b><link=""Glossary_Retaliate"">復仇</link></b>所標示數值等量的傷害。"
+scenario_puzzle_7a_03,"當被這麼多的<b>骷髏</b>包圍時，在他們攻擊後造成的復仇傷害也非常可觀…當然，前提是如果你能在本回合中存活下來！
 
 噢，還有一件事：<b><link=""Glossary_Earth"">土</link></b>元素已經充能就緒，如果你想使用元素來增強技能的話別忘了點擊<sprite name=ConsumeEarth>圖示來消耗這個元素！"
-scenario_puzzle_7a_04,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">反擊</link></b>，但是另一個動作你可以用來執行攻擊。<font=""MarcellusAlt SDF""><color=#F5E3B0><b>雪崩</b></color></font>是個不錯的卡牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！"
-scenario_puzzle_7a_05,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">反擊</link></b>，但是另一個動作你可以用來執行攻擊。<font=""MarcellusAlt SDF""><color=#F5E3B0><b>雪崩</b></color></font>是個不錯的卡牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！"
-scenario_puzzle_7a_06,"你受到了一些傷害，但是取得了不錯的成果！一個時機恰當的<b><link=""Glossary_Retaliate"">反擊</link></b>一樣能成為毀滅性的力量。
+scenario_puzzle_7a_04,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">復仇</link></b>，但是另一個動作你可以用來執行攻擊。<font=""MarcellusAlt SDF""><color=#F5E3B0><b>雪崩</b></color></font>是個不錯的卡牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！"
+scenario_puzzle_7a_05,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">復仇</link></b>，但是另一個動作你可以用來執行攻擊。<font=""MarcellusAlt SDF""><color=#F5E3B0><b>雪崩</b></color></font>是個不錯的卡牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！"
+scenario_puzzle_7a_06,"你受到了一些傷害，但是取得了不錯的成果！一個時機恰當的<b><link=""Glossary_Retaliate"">復仇</link></b>一樣能成為毀滅性的力量。
 
 另外，看看螢幕上方<b>裂心石人</b>的頭像，你能看到來自於<font=""MarcellusAlt SDF""><color=#F5E3B0><b>左右開弓</b></color></font>的<b>啟動獎勵</b>仍在生效。這個<b>啟動獎勵</b>的小方格可以快速提示你還剩幾次獎勵可以啟動，並且當你將滑鼠懸停在上面時可以進一步確認效果描述和經驗獲取的詳情。"
-scenario_puzzle_7a_07,"除此以外，你注意到<b>骷髏</b>們的<b><link=""Glossary_Shield"">護盾</link></b>並沒有阻擋<b><link=""Glossary_Retaliate"">反擊</link></b>的傷害了嗎？就像陷阱一樣，<b><link=""Glossary_Retaliate"">反擊</link></b>傷害不視作是一次攻擊，並且造成的傷害數值和標示的一模一樣，不會被<b><link=""Glossary_Shield"">護盾</link></b>、攻擊修正卡牌或是其他類似的效果影響。"
+scenario_puzzle_7a_07,"除此以外，你注意到<b>骷髏</b>們的<b><link=""Glossary_Shield"">護盾</link></b>並沒有阻擋<b><link=""Glossary_Retaliate"">復仇</link></b>的傷害了嗎？就像陷阱一樣，<b><link=""Glossary_Retaliate"">復仇</link></b>傷害不視作是一次攻擊，並且造成的傷害數值和標示的一模一樣，不會被<b><link=""Glossary_Shield"">護盾</link></b>、攻擊修正卡牌或是其他類似的效果影響。"
 scenario_puzzle_7a_08,現在，殺死這些骷髏好讓我們離開這裡！
-scenario_puzzle_7a_09,"別忘了你還有兩次來自於<font=""MarcellusAlt SDF""><color=#F5E3B0><b>左右開弓</b></color></font>的<b><link=""Glossary_Retaliate"">反擊</link></b>啟動次數，因此你可以把它們的傷害也考慮進去。或者說還有什麼其他的方法能夠穿透敵人的<b><link=""Glossary_Shield"">護盾</link></b>來直接擊敗這些骷髏呢？"
+scenario_puzzle_7a_09,"別忘了你還有兩次來自於<font=""MarcellusAlt SDF""><color=#F5E3B0><b>左右開弓</b></color></font>的<b><link=""Glossary_Retaliate"">復仇</link></b>啟動次數，因此你可以把它們的傷害也考慮進去。或者說還有什麼其他的方法能夠穿透敵人的<b><link=""Glossary_Shield"">護盾</link></b>來直接擊敗這些骷髏呢？"
 scenario_puzzle_7a_10,幹得漂亮！儘管一開始看上去像是個不可完成的挑戰，但是如果你合理地使用卡牌，即便是最複雜的狀況你也能夠應對。
 scenario_puzzle_7a_obj_01,在本回合中殺死4個骷髏
 scenario_puzzle_7a_obj_02,殺死剩餘的骷髏
@@ -10624,7 +10584,7 @@ scenario_relic_curiousgear_success_2,好吧，下次要是我再提議和狡猾�
 scenario_relic_doomedcompass_room_3_1,寶箱裡的東西讓周圍產生了奇異的扭曲
 scenario_relic_doomedcompass_sm1_desc,在每回合開始時，將光和暗元素移至強烈，將火、冰、氣和土元素移至惰性
 scenario_relic_doomedcompass_start_1,當你看到走廊逐漸顯現，你開始攀爬這些樓梯井，你覺得它們肯定是通向建築的頂部。
-scenario_relic_doomedcompass_start_2,光線變得很奇怪，火把似乎比平時更亮了，而陰影也似乎比平時更暗。你走進了一個房間想找找原因……是惡魔。
+scenario_relic_doomedcompass_start_2,光線變得很奇怪，火把似乎比平時更亮了，而陰影也似乎比平時更暗。你走進了一個房間想找找原因......是惡魔。
 scenario_relic_doomedcompass_start_3,小心！這裡的光線對元素有著奇怪的影響，這將會是一場苦戰！
 scenario_relic_doomedcompass_success_1,一個羅盤？一個嗜血的羅盤做了這一切？
 scenario_relic_doomedcompass_success_2,羅盤似乎有種力量可以控制些惡魔，或許你可以使用這種力量來對付你的敵人
@@ -10752,9 +10712,9 @@ scenario_story_banditcommander_room_2_2,非常巧，你們正好看到了我的�
 scenario_story_banditcommander_room_2_3,我的建議，儘快消滅他。否則他將會召喚大量的敵人！
 scenario_story_banditcommander_room_2_4,我也意識到了這座寺廟本身在治療這些不死族。小心！
 scenario_story_banditcommander_sm1_desc,所有的不死族在每一輪次的結束回1點血
-scenario_story_banditcommander_start_1,這裡也是手提箱子，那裡也是手提箱子……我估摸著強盜的一生是比較興奮刺激的。
+scenario_story_banditcommander_start_1,這裡也是手提箱子，那裡也是手提箱子......我估摸著強盜的一生是比較興奮刺激的。
 scenario_story_banditcommander_start_2,你們的意思是你們寧願和那些東西呆在這個洞裡？
-scenario_story_banditcommander_start_3,你們確實有點……等等，誰在那兒？
+scenario_story_banditcommander_start_3,你們確實有點......等等，誰在那兒？
 scenario_story_banditcommander_start_4,你們已經被發現了，開始攻擊！
 scenario_story_banditcommander_success_1,這座寺廟的灰燼再一次回歸了沉寂。你們認為它應該保持這個樣子，於是你們決定在離開時封住入口。
 scenario_story_beasttyrant_1_room_2_1,這個洞穴通往一個下水道系統，整個地下排水網路現在已經不能用了。
@@ -10772,10 +10732,10 @@ scenario_story_beasttyrant_3_start_3,在那種情況下，我們就應該試著�
 scenario_story_beasttyrant_3_success_1,隨著大多數深淵恐懼們的死亡，他們停止了孵化，你們可以自由地探索洞穴系統了。
 scenario_story_beasttyrant_character_fail_objective,獸王若精疲力竭，則失敗
 scenario_story_berserker_1_room_2_1,我從未叫過擁有幾條大獵犬的城市衛兵。
-scenario_story_berserker_1_room_2_2,我們是……我們是城市守衛！我們以城市之名讓你們停下來！
+scenario_story_berserker_1_room_2_2,我們是......我們是城市守衛！我們以城市之名讓你們停下來！
 scenario_story_berserker_1_room_2_3,我有一種奇怪的感覺，這些人可能是強盜假扮的。
 scenario_story_berserker_1_room_2_4,所以狂戰士不是只會狂怒然後迫使我們不得不殺掉一大堆衛兵？我希望你是對的...
-scenario_story_berserker_1_start_1,我知道她被稱為狂戰士，但殺死衛兵難道不會有一點……呃，太狂暴麼？
+scenario_story_berserker_1_start_1,我知道她被稱為狂戰士，但殺死衛兵難道不會有一點......呃，太狂暴麼？
 scenario_story_berserker_1_start_2,我們稍後再談這個。首先，我們得活著離開這裡。
 scenario_story_berserker_1_success_1,營地已經空空如也，你可以自由探索。
 scenario_story_berserker_1_success_2,在一個帳篷裡，你在一堆骯髒的、被撕破的衣服旁邊找到了大量赤裸的屍體——就是那種強盜通常會穿的衣服。
@@ -10791,7 +10751,7 @@ scenario_story_berserker_2_start_4,對這些鼠人族仁慈一些吧。他們是
 scenario_story_berserker_2_success_1,在靠近鐵木營地中心的地方，你發現鼠人族已經在運貨馬車裡囤積了大量金屬，周圍是許多帳簿和檔。他們絕對有個大計畫。
 scenario_story_berserker_2_success_2,監督者是怎麼和巢靈族交上朋友的？事實上，無論是誰，是怎麼做到這一點的？
 scenario_story_berserker_2_success_3,我不知道，但看上去他和奇波特港發生的事有關。我們必須小心。
-scenario_story_berserker_3_room_2_1,看！說曹操曹操到……
+scenario_story_berserker_3_room_2_1,看！說曹操曹操到......
 scenario_story_berserker_3_room_2_2,繼續戰鬥，你不能遠離監督者！
 scenario_story_berserker_3_room_3_1,他們會不斷出現！你要怎麼打敗他們所有人？
 scenario_story_berserker_3_room_3_2,這裡已經變得太危險了。你看到那些門了嗎？它們通向其中一名強盜首領的住處。趕緊進去，拿上任何有用的東西，然後立刻離開！
@@ -11064,7 +11024,7 @@ scenario_story_sawbones_3_success_2,Luckily, the village‘s blaze has not sprea
 scenario_story_sawbones_3_success_3,As you watch the inferno, the northern gate you escaped from collapses, trapping a Night Demon that was trying to reach you. It breaks out in hysterical laughter.,,,,,,,,,,,,,
 scenario_story_sawbones_3_success_4,‘You survived,‘ it screams, ‘but it matters not! This village of healers has fallen, and you were kept from stopping the Red Talons. The Horror will burn your Great Oak yet.‘ The demon dematerializes. ,,,,,,,,,,,,
 scenario_story_sawbones_character_fail_objective,如果鋸骨醫者精疲力竭，則失敗
-scenario_story_scoundrel_1_start_1,這一夜多霧且寒冷，你在那個長滿苔蘚的樹樁上一直等，已經過了好幾個小時。你的手指和腳趾變得有點麻木，但你的耳朵卻沒有：在左邊聽到一個枝條斷裂聲，暗影中一小群匪徒正在過來。你……有點意外。
+scenario_story_scoundrel_1_start_1,這一夜多霧且寒冷，你在那個長滿苔蘚的樹樁上一直等，已經過了好幾個小時。你的手指和腳趾變得有點麻木，但你的耳朵卻沒有：在左邊聽到一個枝條斷裂聲，暗影中一小群匪徒正在過來。你......有點意外。
 scenario_story_scoundrel_1_start_2,Sorry Luv, the boss has decided you know a bit too much of his grand plan, and well, we‘ve been brought in to tie up a few loose ends.,,,,,,,,,,,,
 scenario_story_scoundrel_1_start_3,Mind you, he‘s paid us your wages, luckily our job is going to be nice and easy...,,,,,,,,,,,,,
 scenario_story_scoundrel_1_success_1,It seems your would-be assassins weren‘t lying. They are carrying enough money to cover your original payment.
@@ -11137,9 +11097,9 @@ scenario_story_summoner_1_success_2,召喚師在密封它之前，設法將在�
 scenario_story_summoner_2_fail_objective,如果召喚師或巢靈族精英精疲力竭，則失敗
 scenario_story_summoner_2_room_3_1,我們漂浮著的......“朋友們”似乎被吸引到了這個房間。這應該是最後一推。
 scenario_story_summoner_2_room_3_2,等等。難道我是唯一一個發現它奇怪之處的人？這個城市的全部部分都安置在我們從外面看到的那個腐朽的建築裡面？
-scenario_story_summoner_2_room_3_3,我在做這份工很久以前就學會了不要問那麼多問題……
+scenario_story_summoner_2_room_3_3,我在做這份工很久以前就學會了不要問那麼多問題......
 scenario_story_summoner_2_start_1,我沒有辦法靠近一個巢靈族。你為什麼要跟著其中一個？！
-scenario_story_summoner_2_start_2,我認為那個召喚師……呃……之所以召喚它，我確信她有一個計畫。
+scenario_story_summoner_2_start_2,我認為那個召喚師......呃......之所以召喚它，我確信她有一個計畫。
 scenario_story_summoner_2_start_3,如果那個超大的蟲子是這個“計畫”的一部分，請保護它的安全。這個圖書館中的其他東西似乎像想殺死我們一樣想去殺死它。
 scenario_story_summoner_2_success_1,由於房間是安全的，那個引導你來這裡的巢靈族解體成了一群昆蟲。召喚師給了你一個嚴肅的表情。
 scenario_story_summoner_2_success_2,經過一小段時間，它換了個姿勢，改拿著一本破舊的書。召喚師拿著那本書，她的法杖中發出的能量吞沒了那個的巢靈族。當光線暗下來時，它已經消失了。
@@ -11206,7 +11166,7 @@ scenario_story_undeadcommander_start_4,我們需要向前推進，他一定在�
 scenario_story_undeadcommander_success_1,隨著尖叫，斯萬格的屍體倒在地上，周圍揚起一陣灰塵，暢歌者似乎現在沒有什麼害怕的了。
 scenario_story_wingedhorror_room_2_1,當你在學校的佔領者身上推了一把時，一個地獄般的、異常尖銳的尖叫似乎搖晃著牆壁一般： “我回來了，人類們”，它鳥語般的聲音說道： “你們將什麼都也感受不到，除了痛苦！”
 scenario_story_wingedhorror_room_2_2,聽起來你們正在接近。
-scenario_story_wingedhorror_room_2_3,不錯……啊 ……請在它再次尖叫之前殺死它。
+scenario_story_wingedhorror_room_2_3,不錯......啊 ......請在它再次尖叫之前殺死它。
 scenario_story_wingedhorror_room_3_1,當你進入大橡樹所在的房間時，你會看到一個巨大的帶翅膀的惡魔在房間內俯身環繞飛行然後猛地抓在牆壁上。
 scenario_story_wingedhorror_room_3_2,除非你阻止它，不管用何種方式，否則它會把學校在你們的頭頂毀掉。
 scenario_story_wingedhorror_room_3_3,當它注意到你後，翼翅恐怖魔落在你面前。 “你”，它尖叫道，“已經讓我和我的孩子在這個王國之外太長的時間了。你不可能再次倖存下來拯救這裡！”
@@ -11216,7 +11176,7 @@ scenario_story_wingedhorror_start_1,這是一個最忘記的事實，但學校�
 scenario_story_wingedhorror_start_2,記住，沒有這所學校，沒有人會購買我們在墓室群中發現的所有那些神奇的魔法物品。請三思利潤削減帶來的利弊！
 scenario_story_wingedhorror_start_3,請把注意力放在儘快地通過這些衛兵，已經沒有時間能浪費了。
 scenario_story_wingedhorror_success_1,這只巨大的惡魔再次尖叫，然後所有的惡魔和圍繞它的小妖消失了。隨著傷口的痛楚慢慢地殺死他，它恐怖的尖叫聲和不受控制的肢體揮打充斥著周圍。
-scenario_story_wingedhorror_success_2,最終，它的動靜安靜下來，變成嗚咽聲。 “被一個人類打了”，它哀號道， “我感到……”隨著一陣幹嘔，它嘔吐出一個堅實的團塊，然後躺下不動了。
+scenario_story_wingedhorror_success_2,最終，它的動靜安靜下來，變成嗚咽聲。 “被一個人類打了”，它哀號道， “我感到......”隨著一陣幹嘔，它嘔吐出一個堅實的團塊，然後躺下不動了。
 scenario_story_wingedhorror_success_3,你在吃驚地環顧四周，看到剩下的羚牛族每個都已逃走，鋸骨醫者正在照顧學校的傷患，好像恐懼魔沒有從存在過一般。
 
 scenario_travel_amberhill_start_1,不對外人開放？他們以為自己算老幾？
@@ -11354,7 +11314,7 @@ scenario_travel_millpond_start_3,沒有了炮火增援，這些民兵就該潰�
 scenario_travel_millpond_success_1,你們活著逃了出來，在身後的火炮陣地上留下了一堆廢鐵。
 scenario_travel_millpond_success_2,幹得漂亮。失去了炮火支援，磨塘地的軍隊正在撤退。這座城市將恢復自由。
 scenario_travel_millpond_success_3,難道奇波特港的防禦系統不應該更加…棘手一點嗎？畢竟他們要保護他們那該死的議會。
-scenario_travel_millpond_success_4,我們很難穿過那樣的防禦陣線殺入奇波特港。我們需要更多的部隊，我大概知道去哪裡找他們……
+scenario_travel_millpond_success_4,我們很難穿過那樣的防禦陣線殺入奇波特港。我們需要更多的部隊，我大概知道去哪裡找他們......
 scenario_travel_mistfellcopse_start_1,石塚外的空地上有惡魔在等著你…但是沒有石人族。
 scenario_travel_mistfellcopse_start_2,這裡有兩個房間需要探索。如果你想快速探索完整個地牢，你們可能得暫時分頭行動。
 scenario_travel_mistfellcopse_start_3,是的，看起來這兩個方向上都可能有水晶。
@@ -11680,7 +11640,7 @@ solo_scenario_brute_03,儘管如此，對這個地方的身體反應還是一直
 solo_scenario_brute_04,你現在更強壯了，更加老練。走下這些臺階不再讓你充滿恐懼，身體只有興奮。你希望那些可憐的強盜從你們上次在這些黑暗的大廳的衝鋒之後，把這個地方變成了他們的家。
 solo_scenario_brute_05,你走到臺階的底部，用力撞開門。你沒有失望。
 solo_scenario_brute_06,儘管你受了無數的傷，你還是努力前進進入最後一個房間。一切都和你記憶一模一樣——自鳴得意的強盜和活動著的骷髏。
-solo_scenario_brute_07,“你不應該來……”一個弓箭手開始說話，但你輕蔑地揮手讓她安靜了下來。這些傻瓜沒有重要到讓你浪費時間聽他們演講。
+solo_scenario_brute_07,“你不應該來......”一個弓箭手開始說話，但你輕蔑地揮手讓她安靜了下來。這些傻瓜沒有重要到讓你浪費時間聽他們演講。
 solo_scenario_brute_08,你一瘸一拐地走向房間後面的樓梯，忍不住大笑起來。你是不可阻擋的，你是一個不可忽視的力量。
 solo_scenario_brute_09,追蹤血液，你進入更下面的地下墓穴，尋找獵物的線索。或許是運氣，或許是其他的強盜都恐懼你的笑聲，但無論如何，你都找到了劍，然後沒有任何阻礙地離開了。
 song,角色特效戰歌
@@ -11937,7 +11897,7 @@ town_records_reachprosperity6_6,“所以這本書極有可能還在那裡，而
 town_records_reachprosperity7_1,“感謝你們前來，”多明尼克在門口迎接你們，“我長話短說。我瞭解到那幫守夜人是由一群親軍政府的暴徒所構成的組織，他們唯一的宗旨就是防止大災變再次發生，但他們採用的方法卻是將所有大災變曾經發生過的證據以不擇手段的方式隱瞞。在我看來，採取這種方式只會適得其反。”
 town_records_reachprosperity7_2,他遞給你們一張小紙條。“他們在旅人大街附近活動。跟著地圖走就可找到。聽著，你無須將他們全部殺光，只須將法典和我的手稿帶回來就可以了。”
 town_records_scenario051complete_1,“哎，當我說出‘突破口’的時候，我可真的沒期待過你們會走出去，找到‘黯’，並且把它給消滅，”當你們走進城鎮檔案館大門的時候，多明尼克說道，“當然我心目中所想的突破並沒有你們所做的那麼極端，不過你們的做法確實也行。”
-town_records_scenario051complete_10,他的笑容稍稍恢復。“我會把這個送去給他們，如果他們設法破解出了這個最後的謎團，到時候我會告訴你……”
+town_records_scenario051complete_10,他的笑容稍稍恢復。“我會把這個送去給他們，如果他們設法破解出了這個最後的謎團，到時候我會告訴你......”
 town_records_scenario051complete_2,“我研究了一下你們在虛影迷域的房間牆上所拓寫的文字，這給我提供了不少有關‘黯’的資訊。”
 town_records_scenario051complete_3,多明尼克把他的書打開放在你們面前。“請允許我將黯淡港灣歷史的最後一段朗讀給你們聽。”
 town_records_scenario051complete_4,關於穿越維度旅行的研究實際上是某人的想法——探索者巴斯蒂安。就在他醉心於異世界事物的研究時，一個難以想像的強大存在穿越無限維度向巴斯蒂安呼喚著，並入侵進而腐化了他的夢想。這個存在之物許諾給予巴斯蒂安超越任何一個維度所能蘊含的力量與知識。巴斯蒂安於是致力研究怎樣可以打開一道空間裂縫，以便能夠將當前所處的維度與那個存在之物所處的維度相聯結。他已經被貪婪與邪惡吞噬並控制，裂縫終於打開了，大災變也即將開始，就在這時，那個不可名狀的邪惡存在毫不費力便融入了巴斯蒂安的身體之中，他就此成為了我們所知的“黯”。
@@ -11963,11 +11923,11 @@ town_records_scenario073complete_10,你們現在腳底下的廢墟曾經是繁�
 town_records_scenario073complete_11,在這片土地上，遠古人有著諸多崇高的追求。他們所涉獵的知識領域遠遠超過了如今的我們，上至日月星辰，下至萬物本源。遠古人對於知識的渴求無比寬廣，最終超越了應有的極限。
 town_records_scenario073complete_12,帶著強烈的渴望，遠古人開始著眼於這個世界以外的東西——那就是存在於自身之外的無窮維度。他們渴望穿越至那裡，以便在那得到未知的智慧。
 town_records_scenario073complete_13,基於這種願望，一道聯接另一個維度的時空裂隙被創造出來，但一場浩劫也隨之降臨於世。那個維度裡完全沒有遠古人所追尋的無盡真理，卻只有夢魘般的生物——惡魔，牠們把遠古人所珍稀的一切全部摧毀。儘管遠古人擁有如此強大的知識和工具，他們的城市和同胞還是被盡數毀滅。城市的高牆變成了碎石，家人被撕成碎片、生吞活剝，而倖存者們逃亡到洞穴裡，在黑暗中擠成一圈，等待著末日的到來。
-town_records_scenario073complete_14,這就是所謂的大災變……
+town_records_scenario073complete_14,這就是所謂的大災變......
 town_records_scenario073complete_15,“故事還不完整，”多明尼克說道，“但它是一個開端。它解答了我諸多的問題，但我還有更多的疑問。如果我手上有更多的線索，到時我會再通知你們的。”
-town_records_scenario073complete_2,“才過了這麼短的時間就再次見到你們使我感覺有點不可思議。很明顯你們前不久才把‘指引法典’交給我，但通常來說我需要花費更長的時間來研究這本書以使我能將那個行維族人的故事撰寫出來，不……我們現在面臨著一個大麻煩。”
+town_records_scenario073complete_2,“才過了這麼短的時間就再次見到你們使我感覺有點不可思議。很明顯你們前不久才把‘指引法典’交給我，但通常來說我需要花費更長的時間來研究這本書以使我能將那個行維族人的故事撰寫出來，不......我們現在面臨著一個大麻煩。”
 town_records_scenario073complete_3,像平常一樣，多明尼克帶著你們來到了後室，但是當多明尼克打開房門的時候，你們看到整個房間一片狼藉，桌子被翻倒在地，被撕毀的書籍散落一地。
-town_records_scenario073complete_4,“他們帶走了所有東西，”多明尼克歎了口氣，“他們帶走了法典，還有我的書……簡直就是一幫土匪。”
+town_records_scenario073complete_4,“他們帶走了所有東西，”多明尼克歎了口氣，“他們帶走了法典，還有我的書......簡直就是一幫土匪。”
 town_records_scenario073complete_5,他注意到你們既迷茫又憂心的神情，然後接著說道：“他們自稱是守夜人，說我碰到了不該去碰的東西。就在你們離開沒多久，當我正在醉心研究法典的時候，他們全副武裝沖了進來。他們說自己是負責保護‘指引法典’的安全，沒收了法典的副本，並且檢查是否還有其他抄本，最終搶走了我正在撰寫的那本黯淡港灣歷史。”
 town_records_scenario073complete_6,多明尼克將一本被毀的書摔在地上。“簡直令 人髮指！守夜人？以聖橡樹之名，那些守夜人以為自己是誰呀？放屁！我看是原始人還差不多！看看他們是怎樣對待這些書的呀！”
 town_records_scenario073complete_7,多明尼克閉上眼睛，深深吸了一口氣，然後臉上露出了一絲微笑。“不過， 現在我們有兩件事情要做的。第一件事就是我們一定要把那些書搶回來。首先要聯繫我的眼線，也許還要做一些調查。查明那些該死的守夜人真正的身份，然後找出他們的藏身之處，最後就需要你們去把他們殺個精光。”
@@ -11982,7 +11942,7 @@ town_records_scenario077complete_4,瘋狂、崩潰，遠古人在黑暗洞穴裡
 town_records_scenario077complete_5,看到整個世界破敗不堪，滿目瘡痍，讓“黯”感到十分無趣。它撒回了惡魔大軍並指派牠們去毀滅其他的世界，“黯”認為操控這些悲慘的遠古人殘餘，讓他們走向自我毀滅，這將會更加有趣而且更富挑戰性。
 town_records_scenario077complete_6,一群逃往大陸南方的遠古人倖存者被“黯”所俘獲，並被惡魔之血感染。結果造就了一個難以辨認的全新種族，一個充滿動物野性，一半像人類，一半像惡魔的種族。
 town_records_scenario077complete_7,之後“黯”就在觀望著，等待著它默默地注視著，終於人類從洞穴之中走出並再次重建自己的文明。它很高興看到人類那種傲慢的性格，他們不斷擴張自己的領土並從難以應付的荒野之上一點點奪回自己的土地。“黯”一手創造了這兩個種族，它等待著這兩個種族在戰場上兵戎相見並徹底摧毀彼此的那一天。
-town_records_scenario077complete_8,“黯……”多明尼克喃喃自語道。“每當我覺得能觸到事情真相的最深處時，就會有新的東西浮現出來。”
+town_records_scenario077complete_8,“黯......”多明尼克喃喃自語道。“每當我覺得能觸到事情真相的最深處時，就會有新的東西浮現出來。”
 town_records_scenario077complete_9,他一屁股坐倒在椅子上。“這聽起來不太妙。我猜那個行維族人說服了兩軍領袖讓他們停止戰爭，免得讓‘黯’的計畫如願以償，然而守夜人組織似乎堅信‘黯’有朝一日會回來不由分說地將我們全部毀滅。我現在真的不知道該怎麼想才對呢。”
 trainerdialogname,教官
 transferdooms,轉移厄運
