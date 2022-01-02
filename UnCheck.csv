@@ -1589,17 +1589,10 @@ combat_log_unready_player,{0}尚未完成準備
 combat_log_uses,{0}使用{1}
 combat_log_xp,{0}獲得{1}點經驗值
 command,角色特效口令
-compendium_activebonuses_1,"某些卡牌行動可能包含增益效果效果，啟動效果會在達成其要求條件時生效。這些卡片出現在角色手牌的啟動部分中，直到效果耗盡。然後根據動作右下角的圖示將啟動卡丟棄或燒毀。
 
-當增益效果生效時，將在螢幕頂部的時序值跟蹤器中的角色肖像旁邊有一個標記。在此增益效果圖示上懸停游標將顯示效果詳細資訊及其XP跟蹤器，如果有的話 一 游標懸停在角色上時顯示的角色資訊面板中也可以看出。
 
-表示啟動效果持續時間的圖示如下:"
-compendium_activebonuses_2,"<b>回合獎勵</b>
-擁有此圖示的增益效果效果僅持續到當前回合結束。"
-compendium_activebonuses_3,"<b>永久獎勵</b>
-擁有此圖示的增益效果效果的持續時間不受回合數限制，直到滿足其要求條件才會失效（如果未指定條件，則持續到場景結束）！某些永久獎勵擁有XP跟蹤器，指示滿足某些條件時會獲得XP，XP跟蹤器可以在時序值跟蹤器中查看。"
-compendium_activebonuses_4,通過在螢幕頂部的時序值跟蹤器中的增益效果標記上懸停游標並按一下圖示，可以取消增益效果。
-compendium_activebonuses_title,增益效果
+
+
 compendium_advantageanddisadvantage_1,一些攻擊可能從效果或站位中獲得優勢或劣勢的影響（對近戰範圍執行任何遠距攻擊都會處於劣勢）。
 compendium_advantageanddisadvantage_2,具有<b>優勢</b>的攻擊將抽取兩張修正卡並選擇其中結果更好的進行結算。
 compendium_advantageanddisadvantage_3,具有<b>劣勢</b>的攻擊將抽取兩張修正卡並選擇其中結果更差的進行結算。
@@ -1650,8 +1643,6 @@ compendium_consumingelements_title,消耗元素
 
 
 
-
-
 compendium_exhaustion,"一個角色會因兩種方式之一而精疲力竭：
 
 <indent=15>1.如果一個角色的生命值下降到一點以下。
@@ -1661,7 +1652,7 @@ compendium_exhaustion,"一個角色會因兩種方式之一而精疲力竭：
 在上述任何一種情況下，角色都會從場景中離開，並且不能以任何方式繼續參加場景。在場景中，沒有方法可以結束精疲力竭狀態，因此應該不計代價避免該情況。如果在場景中所有角色都精疲力竭，那麼場景會失敗。因此建議你盡力不要讓這種情況發生！"
 compendium_exhaustion_title,精疲力竭
 compendium_gainingexperience_1,某些技能卡的行動上，有一個包含數位的星形符號，其中的數位代表角色執行該行動時會獲得的XP。角色必須成功執行至少一個技能才能獲得相應的XP。
-compendium_gainingexperience_2,"有時卡牌上會具體說明，僅在滿足某個條件時（例如， 消耗某種指定元素）授予經驗，或當增益效果觸發了特定次數時授予經驗，次數要求如其XP跟蹤器所示（見<b>增益效果</b>）。
+compendium_gainingexperience_2,"有時卡牌上會具體說明，僅在滿足某個條件時（例如， 消耗某種指定元素）授予經驗，或當增益效果觸發了特定次數時授予經驗，次數要求如其經驗值進度條所示（見<b>增益效果</b>）。
 
 此外，在每次冒險成功結束時，參與本次冒險的每個角色都將根據冒險困難度獲得經驗。更困難的冒險將獎勵你更多的經驗，要注意 一 即使你冒險失敗了，你也不會失去在冒險過程中獲得的經驗值，大膽冒險吧！"
 compendium_gainingexperience_title,獲得經驗
@@ -1770,7 +1761,7 @@ compendium_shield,<b>護盾X：</b>護盾技能會使被攻擊者獲得了一種
 compendium_shield_title,護盾
 compendium_summon,"一些能力可以召喚隊友以幫助你。召喚物會被召喚到與召喚者相鄰的空的格子中。如果沒有可用的格子，則無法使用召喚能力。
 
-召喚物具有生命值，攻擊力，移動力和攻擊射程以及能力卡上寫的任何額外特性。召喚物被認為是一個啟動效果（卡片放在啟動區域），直到召喚物失去其所有生命值，其相應的能力卡會從啟動區域移除，你也可以主動取消召喚物，或者召喚者變得精疲力竭，此時他的所有召喚物都會消失。
+召喚物具有生命值，攻擊力，移動力和攻擊射程以及能力卡上寫的任何額外特性。召喚物被認為是一個增益效果（卡片放在啟動區域），直到召喚物失去其所有生命值，其相應的能力卡會從啟動區域移除，你也可以主動取消召喚物，或者召喚者變得精疲力竭，此時他的所有召喚物都會消失。
 
 召喚物的輪次順序總是直接在召喚它的角色之前，並且與該角色的輪次分開，所以召喚物在自己回合中行動時產生的元素可以被召喚者直接使用。召喚物通常不受召喚者控制，而是遵守怪物的規則，永遠都會執行<b>移動X，攻擊Y</b>，其中X和Y分別是其基礎移動力和攻擊力。召喚物使用其召喚者的攻擊修正池來修正其攻擊，召喚物受到的祝福與詛咒會添加給召喚者。
 
@@ -2103,10 +2094,10 @@ error_choreo_00145,無法處理啟用結束行動輪按鈕
 error_choreo_00146,無法處理劇本勝利
 error_choreo_00147,Could not process Scenario Lose
 error_choreo_00148,Could not process Scenario Abandon
-error_choreo_00149,無法創建角色
+
 error_choreo_00150,Could not Set Character Positions
 error_choreo_00151,Could not Clear Highlighted Actors
-error_choreo_00152,無法載入劇本
+
 error_choreo_00153,Could not Start Choreographer
 error_choreo_00154,Could not process Scenario Import Callback
 error_choreo_00155,Could not Stop Choreographer
@@ -4462,7 +4453,7 @@ ftue_3,使用角色選擇面板，你可以創建、查看和增添雇傭兵到�
 ftue_3.2,點擊“<color=#EACF8C>新雇傭兵</color>”按鈕去創建一個角色
 ftue_4,"下一步你將選擇一個<color=#EACF8C>起始角色種類</color>。
 每個角色擁有獨特的技能和遊戲方式。隨著你的等級提升，可獲取新技能卡並解鎖更多角色種類。
-點擊角色的頭像以瞭解他們的更多資訊並選擇任意一個成為你的第一個雇傭兵！"
+點擊角色頭像以瞭解他們的更多資訊並選擇任意一個成為你的第一個雇傭兵！"
 ftue_4.2,選擇<color=#EACF8C>六個起始角色種類</color>中的一個
 ftue_4.3,"不錯的選擇！現在記住，外表不代表一切，雇傭兵的技能卡才代表著他們戰鬥中的行動能力。你能點擊“<color=#EACF8C>起始技能卡</color>”按鈕去判斷他對你的團隊這是不是正確的雇傭兵。
 一旦你確定你的決定，點擊“<color=#EACF8C>選擇雇傭兵</color>”按鈕以繼續。"
@@ -5215,10 +5206,8 @@ gui_modding_create_ruleset_confirmation,"為您的規則集選擇遊戲模式。
 編輯規則集時，您將無法更改此功能。"
 gui_modding_create_ruleset_confirmation_title,遊戲模式
 gui_modding_create_ruleset_notification,<color=#F1DBAE>{0}</color>已完成創建！
-gui_modding_create_view_title,創建新的Mod
+
 gui_modding_created_mod_notification,已創建的<color=#F1DBAE>{0}</color>Mod
-gui_modding_custom_mod,自製Mod
-gui_modding_customlevel_mod,自製關卡Mod
 
 gui_modding_delete_ruleset_notification,<color=#C53F3F> {0}已被刪除</color>
 
@@ -5232,42 +5221,37 @@ gui_modding_file_conflict,檔衝突
 gui_modding_file_conflict_desc,Mod之間存在衝突！
 gui_modding_finish_edit_ruleset,完成編輯
 gui_modding_finish_edit_ruleset_confirmation,編輯此規則集將刪除所有現有的保存資料
-gui_modding_guildmaster_mod,公會模式Mod
+
 gui_modding_hash_compare_fail_message,自上次編譯以來，當前的規則集已被修改。您需要重新編譯該規則，以便播放。
 gui_modding_hash_compare_fail_title,雜湊比較失敗
 gui_modding_invalid_ruleset_char,規則集的名稱不能包含作業系統的目錄名稱不支援的任何字元
 gui_modding_invalid_ruleset_name,無效的規則集名稱無效
-gui_modding_language_mod,語言類Mod
-gui_modding_list_rulesets,你的規則集
-gui_modding_list_view_title,你的Mod
+
+
+
 gui_modding_load_error,"尚未載入當前Mod設定檔。
 恢復核心Mod設定檔。
 所有Mod設定檔升級和修復程式都可以在Mod管理功能表中完成。"
-gui_modding_menu,Mod管理
-gui_modding_mod_already_exists,Mod已經存在。無法使用此名稱創建一個新的Mod。
-gui_modding_mod_type,Mod類型
+
+
+
 
 gui_modding_play_ruleset_notification,<color=#F1DBAE> {0} </color>規則集已啟動！
-gui_modding_remove_mod_tooltip,刪除Mod
+
 gui_modding_ruleset_created,使用名稱'{0}'創建了一個新的規則集資料夾
 gui_modding_ruleset_dir_error,嘗試創建新的規則集資料夾目錄時發生錯誤
 gui_modding_ruleset_loaded_fail,無法載入'{0}'
 gui_modding_ruleset_loaded_ok,成功載入'{0}'
 gui_modding_ruleset_lose_changes_confirmation,對規則集的所有改動都將丟失
-gui_modding_ruleset_play,進入遊戲
-gui_modding_steam_mod,Steam Mod
-gui_modding_unable_to_find_mod,無法找到此MOD的文件。
-gui_modding_upload_failed,上傳失敗
-gui_modding_upload_mod_tooltip,上傳Mod到Steam
-gui_modding_upload_successful,上傳成功完成
-gui_modding_uploading_with_dots,上傳Mod中...
+
+
+
+
+
 gui_modding_validated_notification,{0}已成功驗證！
-gui_modding_validating,驗證中...
-gui_modding_validation_fail_confirmation_title,驗證失敗！
 gui_modding_validation_mod_fail_confirmation,"按一下""查看錯誤""以查看出現的問題"
 gui_modding_validation_ruleset_fail_confirmation,"請確保您首先在規則集中驗證了所有Mod。
 如果任一Mod被編輯或更新，都將需要驗證。"
-gui_modding_validation_view_mod_errors,查看錯誤
 gui_modding_wait_creating_ruleset,請稍等。創建新的規則集'{0}'
 gui_modding_wait_loading_ruleset,請稍等。載入'{0}'
 gui_modding_welcome_desc,"您需要做的第一件事是創建自訂規則集。
@@ -5278,14 +5262,14 @@ gui_modding_welcome_desc,"您需要做的第一件事是創建自訂規則集。
 
 從Steam 創意工坊下載的Mod不會官方答疑支持，因此如果您有任何問題，請聯繫Mod 貢獻者。我們也無法保證您不會在這些模式下不被劇透。"
 gui_modding_welcome_title,歡迎來到黯淡港灣的Mod管理！
-gui_monster_card,怪物
+
 gui_move,前往{0}
-gui_multiplayer,多人遊戲
-gui_multiplayer_connecting,連接中......
+
+
 gui_multiplayer_connecting_cancelingconnection,取消多人遊戲。
 gui_multiplayer_connecting_connecting,建立連接。
 gui_multiplayer_connecting_downloadingnewsave,下載新存檔。
-gui_multiplayer_connecting_downloadingruleset,下載MOD的規則集
+
 gui_multiplayer_connecting_none,0
 gui_multiplayer_connecting_savepointreached,玩家團隊已經到達存檔點。
 gui_multiplayer_connecting_searchingforsession,搜索多人遊戲。
@@ -5304,7 +5288,7 @@ gui_multiplayer_connection_failed_invalidgamemode,無效的遊戲模式
 gui_multiplayer_connection_failed_invalidsessiondata,無效的多人遊戲數據
 gui_multiplayer_connection_failed_invaliduserdata,無效的使用者資料
 gui_multiplayer_connection_failed_modsdonotmatch,Mod間不匹配
-gui_multiplayer_connection_failed_none,發生未知錯誤
+
 gui_multiplayer_connection_failed_sessionfull,多人遊戲人滿
 gui_multiplayer_connection_failed_sessionnotfound,沒有找到多人遊戲
 gui_multiplayer_connection_failed_sessionshuttingdown,多人遊戲關閉

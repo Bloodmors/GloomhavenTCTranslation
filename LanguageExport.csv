@@ -1597,16 +1597,16 @@ combat_log_unready_player,{0}尚未完成準備,,,
 combat_log_uses,{0}使用{1},,,
 combat_log_xp,{0}獲得{1}點經驗值,,,
 command,角色特效口令,,,
-compendium_activebonuses_1,"某些卡行動可能包含增益效果效果，啟動效果會在達成其要求條件時生效。這些卡片出現在角色手牌的啟動部分中，直到效果耗盡。然後根據動作右下角的圖示將啟動卡丟棄或焚燒。
+compendium_activebonuses_1,"某些能力卡的動作可能包含增益效果，增益效果會在達成其要求條件時生效。這些卡片會列在角色牌組列表的啟動部分中，直到效果結算完成。然後根據動作右下角的圖示將該牌丟棄或焚燒。
 
-當增益效果生效時，將在螢幕頂部的優先權序列中的角色肖像旁邊有一個標記。在此增益效果圖示上懸停游標將顯示效果詳細資訊及其XP跟蹤器，如果有的話 一 游標懸停在角色上時顯示的角色資訊面板中也可以看出。
+當增益效果生效時，將在螢幕頂部優先權序列中的角色頭像旁有一個圖示。將游標滑入在此增益效果圖示上將顯示效果詳細資訊及其經驗值進度條（如果有的話） 一 游標滑入角色上時顯示的角色資訊面板中也可以看到。
 
-表示啟動效果持續時間的圖示如下：",,,
-compendium_activebonuses_2,"<b>回合獎勵</b>
-擁有此圖示的增益效果效果僅持續到當前回合結束。",,,
-compendium_activebonuses_3,"<b>永久獎勵</b>
-擁有此圖示的增益效果效果的持續時間不受回合數限制，直到滿足其要求條件才會失效（如果未指定條件，則持續到劇本結束）！某些永久獎勵擁有XP跟蹤器，指示滿足某些條件時會獲得XP，XP跟蹤器可以在優先權序列中查看。",,,
-compendium_activebonuses_4,通過在螢幕頂部的優先權序列中的增益效果標記上懸停游標並按一下圖示，可以取消增益效果。,,,
+增益效果的持續時間會用以下的圖示表示：",,,
+compendium_activebonuses_2,"<b>回合增益</b>
+擁有此圖示的增益，效果持續時間僅到當回合結束。",,,
+compendium_activebonuses_3,"<b>持續增益</b>
+擁有此圖示的增益，效果持續時間不受回合限制，直到滿足其要求條件才會失效（如果未指定條件，則持續到劇本結束！）。某些持續增益擁有經驗值進度條，滿足某些條件時會獲得經驗值，經驗值進度條可以在優先權序列中查看。",,,
+compendium_activebonuses_4,點擊在螢幕頂部優先權序列中的增益效果圖示可以取消增益效果。,,,
 compendium_activebonuses_title,增益效果,,,
 compendium_advantageanddisadvantage_1,一些攻擊可能從效果或站位中獲得優勢或劣勢的影響（對近戰範圍執行任何遠距攻擊都會處於劣勢）。,,,
 compendium_advantageanddisadvantage_2,具有<b>優勢</b>的攻擊將抽取兩張修正卡並選擇其中結果更好的進行結算。,,,
@@ -1684,7 +1684,7 @@ compendium_exhaustion,"一個角色會因兩種方式之一而精疲力竭：
 在上述任何一種情況下，角色都會從劇本中離開，並且不能以任何方式繼續參加劇本。在劇本中，沒有方法可以結束精疲力竭狀態，因此應該不計代價避免該情況。如果在劇本中所有角色都精疲力竭，那麼劇本會失敗。因此建議你盡力不要讓這種情況發生！",,,
 compendium_exhaustion_title,精疲力竭,,,
 compendium_gainingexperience_1,某些能力卡的行動上，有一個包含數位的星形符號，其中的數位代表角色執行該行動時會獲得的XP。角色必須成功執行至少一個技能才能獲得相應的XP。,,,
-compendium_gainingexperience_2,"有時卡上會具體說明，僅在滿足某個條件時（例如， 消耗某種指定元素）授予經驗，或當增益效果觸發了特定次數時授予經驗，次數要求如其XP跟蹤器所示（見<b>增益效果</b>）。
+compendium_gainingexperience_2,"有時卡上會具體說明，僅在滿足某個條件時（例如， 消耗某種指定元素）授予經驗，或當增益效果觸發了特定次數時授予經驗，次數要求如其經驗值進度條所示（見<b>增益效果</b>）。
 
 此外，在每次冒險成功結束時，參與本次冒險的每個角色都將根據冒險困難度獲得經驗。更困難的冒險將獎勵你更多的經驗，要注意 一 即使你冒險失敗了，你也不會失去在冒險過程中獲得的經驗值，大膽冒險吧！",,,
 compendium_gainingexperience_title,獲得經驗,,,
@@ -1807,10 +1807,10 @@ compendium_roundsummary,"一個劇本包含數個回合，直到玩家符合劇�
 從優先權最小的一位開始，角色或怪物將依順序行動。怪物只會採取能力卡上的能力，角色從剛剛選擇的兩張能力卡上選擇執行的動作，也可以在自己的輪次時使用物品。</indent>
 
 • <indent=15><b>回合結束階段：</b>
-持續一回合的增益效果消失，並依照牌上敘述將其丟棄或焚燒，元素從強烈變為衰退，從衰退變為惰性，如果 <color=orange><b>x0</b></color> 或 <color=orange><b>x2</b></color> 修正卡被抽出，則將將所有被抽出的修正卡放回修正卡牌庫混洗。</indent>",,,
+持續一回合的回合增益效果結束，並依照牌上敘述將其丟棄或焚燒，元素從強烈變為衰退，從衰退變為惰性，如果 <color=orange><b>x0</b></color> 或 <color=orange><b>x2</b></color> 修正卡被抽出，則將將所有被抽出的修正卡放回修正卡牌庫混洗。</indent>",,,
 compendium_roundsummary_title,回合構成,,,
 compendium_section_abilitiesattack,能力：進攻,,,
-compendium_section_abilitiesmove,能力：移動,,,
+compendium_section_abilitiesmove,能力：前進,,,
 compendium_section_abilitiesother,能力：其他,,,
 compendium_section_abilitycards,能力卡,,,
 compendium_section_damageandexhaustion,傷害和精疲力竭,,,
@@ -1832,7 +1832,7 @@ compendium_shield,<b>護盾X：</b>護盾技能會使被攻擊者獲得了一種
 compendium_shield_title,護盾,,,
 compendium_summon,"一些能力可以召喚隊友以幫助你。召喚物會被召喚到與召喚者相鄰的空的格子中。如果沒有可用的格子，則無法使用召喚能力。
 
-召喚物具有生命值，攻擊力，移動力和攻擊射程以及能力卡上寫的任何額外特性。召喚物被認為是一個啟動效果（卡片放在啟動區域），直到召喚物失去其所有生命值，其相應的能力卡會從啟動區域移除，你也可以主動取消召喚物，或者召喚者變得精疲力竭，此時他的所有召喚物都會消失。
+召喚物具有生命值，攻擊力，移動力和攻擊射程以及能力卡上寫的任何額外特性。召喚物被認為是一個增益效果（卡片放在啟動區域），直到召喚物失去其所有生命值，其相應的能力卡會從啟動區域移除，你也可以主動取消召喚物，或者召喚者變得精疲力竭，此時他的所有召喚物都會消失。
 
 召喚物的輪次順序總是直接在召喚它的角色之前，並且與該角色的輪次分開，所以召喚物在自己回合中行動時產生的元素可以被召喚者直接使用。召喚物通常不受召喚者控制，而是遵守怪物的規則，永遠都會執行<b>移動X，攻擊Y</b>，其中X和Y分別是其基礎移動力和攻擊力。召喚物使用其召喚者的攻擊修正池來修正其攻擊，召喚物受到的祝福與詛咒會添加給召喚者。
 
@@ -4546,7 +4546,7 @@ ftue_3,使用角色選擇面板，你可以建立、查看和增添傭兵到你�
 ftue_3.2,點擊“<color=#EACF8C>新傭兵</color>”按鈕去建立一個角色,,,
 ftue_4,"下一步你將選擇一個<color=#EACF8C>起始角色種類</color>。
 每個角色擁有獨特的技能和遊戲方式。隨著你的等級提升，可獲取新能力卡並解鎖更多角色種類。
-點擊角色的頭像以瞭解他們的更多資訊並選擇任意一個成為你的第一個傭兵！",,,
+點擊角色頭像以瞭解他們的更多資訊並選擇任意一個成為你的第一個傭兵！",,,
 ftue_4.2,選擇<color=#EACF8C>六個起始角色種類</color>中的一個,,,
 ftue_4.3,"不錯的選擇！現在記住，外表不代表一切，傭兵的能力卡才代表著他們戰鬥中的行動能力。你能點擊“<color=#EACF8C>起始能力卡</color>”按鈕去判斷他對你的團隊這是不是正確的傭兵。
 一旦你確定你的決定，點擊“<color=#EACF8C>選擇傭兵</color>”按鈕以繼續。",,,
@@ -5482,7 +5482,7 @@ gui_modding_steam_mod,Steam Mod,,,
 gui_modding_unable_to_find_mod,無法找到此MOD的文件。,,,
 gui_modding_upload_failed,上傳失敗,,,
 gui_modding_upload_mod_tooltip,上傳Mod到Steam,,,
-gui_modding_upload_successful,上傳成功完成,,,
+gui_modding_upload_successful,上傳成功,,,
 gui_modding_uploading_with_dots,上傳Mod中...,,,
 gui_modding_validated_notification,{0}已成功驗證！,,,
 gui_modding_validating,驗證中...,,,
@@ -5506,7 +5506,7 @@ gui_modding_welcome_title,歡迎來到黯淡港灣的Mod管理！,,,
 gui_monster_card,怪物,,,
 gui_move,前往{0},,,
 gui_multiplayer,多人遊戲,,,
-gui_multiplayer_connecting,連接中......,,,
+gui_multiplayer_connecting,連接中...,,,
 gui_multiplayer_connecting_cancelingconnection,取消多人遊戲。,,,
 gui_multiplayer_connecting_connecting,建立連接。,,,
 gui_multiplayer_connecting_downloadingnewsave,下載新存檔。,,,
