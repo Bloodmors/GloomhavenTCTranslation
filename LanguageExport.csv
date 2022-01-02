@@ -1328,7 +1328,7 @@ ashenswordbarrow,阿什斯伍德之墓,,,
 atendofturn,在輪次的結束,,,
 attack,攻擊,,,
 attack_area,攻擊範圍,,,
-attackersgaindisadvantage,攻擊者們陷入劣勢攻擊,,,
+attackersgaindisadvantage,攻擊方們陷入劣勢攻擊,,,
 attacksapply,攻擊中附加,,,
 attacksinfuse,在攻擊中元素充能,,,
 augment,角色特效賦能,,,
@@ -1599,18 +1599,18 @@ combat_log_xp,{0}獲得{1}點經驗值,,,
 command,角色特效口令,,,
 compendium_activebonuses_1,"某些能力卡的動作可能包含增益效果，增益效果會在達成其要求條件時生效。這些卡片會列在角色牌組列表的啟動部分中，直到效果結算完成。然後根據動作右下角的圖示將該牌丟棄或焚燒。
 
-當增益效果生效時，將在螢幕頂部優先權序列中的角色頭像旁有一個圖示。將游標滑入在此增益效果圖示上將顯示效果詳細資訊及其經驗值進度條（如果有的話） 一 游標滑入角色上時顯示的角色資訊面板中也可以看到。
+當增益效果生效時，將在螢幕頂部優先權序列中的角色頭像旁有一個圖示。將滑鼠游標滑入在此增益效果圖示上將顯示效果詳細資訊及其經驗值進度條（如果有的話） 一 滑鼠游標滑入角色上時顯示的角色資訊面板中也可以看到。
 
 增益效果的持續時間會用以下的圖示表示：",,,
 compendium_activebonuses_2,"<b>回合增益</b>
-擁有此圖示的增益，效果持續時間僅到當回合結束。",,,
+擁有此圖示的增益，效果持續時間僅到當回合結束，在回合結束階段時就會失效。",,,
 compendium_activebonuses_3,"<b>持續增益</b>
 擁有此圖示的增益，效果持續時間不受回合限制，直到滿足其要求條件才會失效（如果未指定條件，則持續到劇本結束！）。某些持續增益擁有經驗值進度條，滿足某些條件時會獲得經驗值，經驗值進度條可以在優先權序列中查看。",,,
 compendium_activebonuses_4,點擊在螢幕頂部優先權序列中的增益效果圖示可以取消增益效果。,,,
 compendium_activebonuses_title,增益效果,,,
-compendium_advantageanddisadvantage_1,一些攻擊可能從效果或站位中獲得優勢或劣勢的影響（對近戰範圍執行任何遠距進攻都會處於劣勢）。,,,
-compendium_advantageanddisadvantage_2,具有<b>優勢</b>的攻擊將抽取兩張修正卡並選擇其中結果更好的進行結算。,,,
-compendium_advantageanddisadvantage_3,具有<b>劣勢</b>的攻擊將抽取兩張修正卡並選擇其中結果更差的進行結算。,,,
+compendium_advantageanddisadvantage_1,一些進攻可能從效果或相互的距離中獲得優勢或劣勢的狀態（對相鄰的目標進行遠距進攻會處於劣勢狀態）。,,,
+compendium_advantageanddisadvantage_2,攻擊時具有優勢狀態，將抽取兩張修正卡並選擇其中結果更好的進行結算。,,,
+compendium_advantageanddisadvantage_3,攻擊時具有劣勢狀態，將抽取兩張修正卡並選擇其中結果更差的進行結算。,,,
 compendium_advantageanddisadvantage_title,優勢和劣勢,,,
 compendium_adventuremode,"在<color=#BA7956><b>黯淡港灣</b></color>的霸業模式中，你是惡魔閘口鎮的傭兵領導者。該地區相當危險，各種怪物氾濫成災，人們根本不敢離開安全的村莊。
 
@@ -1624,19 +1624,19 @@ compendium_areaeffects_4,"一些區域效果攻擊具有射程的屬性，能夠
 請注意，使用區域效果時，雖然瞄準時只要有一個紅色格子在視線範圍內即可實現瞄準，但區域效果只能作用於角色視線中的目標，視線之外的目標即使被區域效果範圍涵蓋在內也無法受到影響。",,,
 compendium_areaeffects_title,區域效果,,,
 compendium_attackeffects_1,攻擊效果會在攻擊結算後附加在目標上。無論相應的攻擊是否造成傷害，都會施加攻擊能力效果。在沒有攻擊的情況下，某些行動也可以使這些攻擊效果作為技能生效，並且在這種情況下，攻擊效果的目標要求會標注在能力卡上。,,,
-compendium_attackeffects_2,<b>推遠 X：</b>使目標被迫在攻擊者指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更遠離攻擊者。如果沒有可以繼續使目標移動的格子，則無法繼續推遠目標。目標可以在被推遠時通過其盟友所在的格子，但無法通過其敵人所在的格子。,,,
-compendium_attackeffects_3,<b>拉近 X：</b>使目標被迫在攻擊者指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更接近攻擊者。如果沒有可以繼續使目標移動的格子，則無法繼續拉近目標。目標可以在被拉近時通過其盟友所在的格子，但無法通過其敵人所在的格子。,,,
+compendium_attackeffects_2,<b>推遠 X：</b>使目標被迫在攻擊方指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更遠離攻擊方。如果沒有可以繼續使目標移動的格子，則無法繼續推遠目標。目標可以在被推遠時通過其盟友所在的格子，但無法通過其敵人所在的格子。,,,
+compendium_attackeffects_3,<b>拉近 X：</b>使目標被迫在攻擊方指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更接近攻擊方。如果沒有可以繼續使目標移動的格子，則無法繼續拉近目標。目標可以在被拉近時通過其盟友所在的格子，但無法通過其敵人所在的格子。,,,
 compendium_attackeffects_4,<b>穿刺 X：</b>忽略目標最多X點護盾進行攻擊。與其他效果不同，穿刺會在攻擊造成傷害時進行結算，而不是在攻擊後附加。,,,
 compendium_attackeffects_5,<b>增加目標：</b>如果角色用攻擊行動觸發增加目標的效果，則角色可以在攻擊範圍內選取額外的目標進行攻擊。攻擊行動本身的所有附加效果和條件也適用於額外選擇的目標（不包含“增加目標”效果本身）。,,,
 compendium_attackeffects_title,攻擊效果,,,
-compendium_attackmodifiers_1,"攻擊時，將卡的攻擊數值之上，按以下順序計算額外的傷害。對成為攻擊目標的每個敵人單獨重複這些步驟：
+compendium_attackmodifiers_1,"每次進攻時，每一個單獨的攻擊（針對不同目標）都會依照以下順序計算總傷害：
 
-首先計算攻擊者的攻擊補正。這些補正包含啟動中的獎勵卡，物品，其他來源的獎勵與懲罰（例如，中毒會+1攻擊）。
+• <indent=15>首先，計算攻擊方的攻擊修正。這些修正包含生效的增益或是減益效果、物品或其他來源（例如，中毒會 <b>+1</b> 攻擊）。</indent>
 
-接下來，從攻擊者的攻擊修正卡牌庫中抽取攻擊修正卡並計算。這會出現在被攻擊者的生命條上方。通過在角色模型上懸停游標以顯示其資訊面板，可以看到攻擊修正卡牌庫，每種攻擊修正卡下方的點數表示這種卡的剩餘數量。當一個角色的攻擊修正卡牌庫中自帶的<color=#A050E0><b>x0</b></color>或<color=#D92727><b>x2</b></color>被抽取後的回合結束時或是已經抽出了全部的攻擊修正卡而角色仍在攻擊時該角色的攻擊修正卡牌庫進行洗牌。",,,
-compendium_attackmodifiers_2,"最後，計算被攻擊方的防守獎勵。根據每個角色的護盾或其他防禦獎勵減少對其的攻擊傷害。
+• <indent=15>接下來，從攻擊方的攻擊修正牌組抽取一張攻擊修正卡並且將數值修正套用到此次攻擊中，抽到的數值會顯示在防禦方的生命值條上方。將滑鼠游標滑入角色上方可以看到資訊面板，面板顯示了攻擊修正卡牌庫內，各數值牌的分佈狀況。在回合結束階段時，若此回合有抽到 <color=orange><b> x0 </b></color> 或 <color=orange><b> x2 </b></color> 修正卡時，則將所有被抽出的修正卡放回修正卡牌庫混洗。</indent>",,,
+compendium_attackmodifiers_2,"• <indent=15>最後，計算防禦方的防禦值。根據防禦方的護盾或其他防禦修正減少對其的傷害（攻擊扣去防禦為造成的傷害）。
 
-請注意：由於每個目標單獨計算，因此相同的攻擊動作最終可能對每個敵人造成不同的傷害。",,,
+請注意！由於每個攻擊單獨計算，因此同一次的進攻能力最終可能對每個目標敵人造成不同的傷害。",,,
 compendium_attackmodifiers_title,攻擊修正卡,,,
 compendium_blessandcurse_1,詛咒和祝福與其他效果不同，它們不是持續效果，而是添加額外的攻擊修正卡到目標的修正卡池中。,,,
 compendium_blessandcurse_2,<b>祝福：</b>如果目標被祝福，則將祝福（<color=#D92727><b>x2</b></color>）卡放置到目標的剩餘攻擊修正卡牌庫中。當通過攻擊揭示此卡時，它將從攻擊修正卡牌庫中刪除。,,,
@@ -1719,12 +1719,12 @@ compendium_loot_2,"除了拾取能力之外，在每個角色行動輪次結束�
 在霸業模式中，這筆錢在玩家隊伍內的所有傭兵之間分享。
 ",,,
 compendium_loot_title,拾取,,,
-compendium_meleeandranged_1,"<b>進攻X：</b>
-進攻能力允許角色或怪物對其攻擊範圍內的敵人造成 <b>X</b> 點傷害。角色和怪物無法攻擊他們各自的盟友。
+compendium_meleeandranged_1,"<b>進攻 X：</b>
+進攻能力允許角色或怪物攻擊其攻擊範圍內的敵人並造成 <b>X</b> 點傷害。角色和怪物無法攻擊他們各自的盟友。
 進攻分為兩種類型，近戰和遠程：",,,
-compendium_meleeandranged_2,近戰進攻沒有被指定射程，默認為一格的射程，這意味著它們通常用來攻擊相鄰的敵人。,,,
-compendium_meleeandranged_3,遠距進攻被指定了<b>射程Y</b>，代表你可以攻擊 <b>Y</b> 格內的任一敵人。任何指定相鄰敵人的遠距進攻都會使攻擊方處於劣勢狀態（參見""優勢和劣勢""項目來獲得更多說明）。,,,
-compendium_meleeandranged_4,"只能對視線中的敵人進行攻擊，視線計算方法為角色所在格子的任一角能連一條直線到另一個角色所在格子的任一角，連線不能與牆壁相交（按住 <b>L</b> 鍵並移動游標以查看視線）。
+compendium_meleeandranged_2,一般的進攻沒有被指定射程，默認為一格的射程，這意味著它們通常用來攻擊相鄰的敵人。,,,
+compendium_meleeandranged_3,附加了遠距能力的進攻通常會指定<b>射程 Y</b>，代表你可以攻擊 <b>Y</b> 格內的敵人。任何指定相鄰敵人的遠距進攻都會使攻擊方處於劣勢狀態（參見""優勢和劣勢""項目來獲得更多說明）。,,,
+compendium_meleeandranged_4,"只能對視線中的敵人進行攻擊，視線計算方法為角色或怪物所在格子的任一角能連一條直線到另一個角色所在格子的任一角，連線不能與牆壁相交（按住 <b>L</b> 鍵並移動滑鼠游標以查看視線）。
 除此此外，任何指定範圍的能力也只能傷害到視線內的目標。如果能力未指定範圍，則不需要視線。
 另外，被牆分隔的兩個格子不被視為相鄰，並且不能通過牆壁計算距離。",,,
 compendium_meleeandranged_title,近戰和遠程,,,
@@ -1759,7 +1759,7 @@ compendium_monsterturns,"怪物的決定由其能力卡和焦點系統控制，�
 同一怪物類型中精英級別首先行動，如果板上存在多個同一類型的精英或普通怪物，則同級別怪物以昇冪編號依次行動。同一類型的所有怪物處於同一輪次，所以優先權序列不會單獨展示每一隻怪物的行動順序。",,,
 compendium_monsterturns_title,怪物輪次,,,
 compendium_movementtypes_1,"<b>前進 X</b>
-前進能力技能允許角色在地圖上移動 <b>X</b>格。角色和怪物可以穿過他們各自的盟友，但不能穿過他們各自的敵人或障礙物。
+前進能力技能允許角色在地圖上移動 <b>X</b> 格。角色和怪物可以穿過他們各自的盟友，但不能穿過他們各自的敵人或障礙物。
 移動進入包含陷阱的格子會觸發陷阱（除非有飛行或是跳躍的附加能力）。
 移動結束時不能停留在包含另一個角色或怪物的格子。
 移動不能穿透牆壁。",,,
@@ -1788,7 +1788,7 @@ compendium_negativeconditions_7,<b>混亂：</b>如果目標混亂了，它在�
 compendium_negativeconditions_title,負面效果,,,
 compendium_obstacles,"障礙物是房間裡的各種裝飾物所佔據的格子，會阻礙正常移動。但障礙物並不妨礙視線。
 
-某些角色能力可以創造或移動障礙物。這樣做時，玩家不允許將場地完全隔開，使某區域無法通過正常移動進入或離開。",,,
+某些角色能力可以創造或移動障礙物。這樣做時，玩家不允許將場地完全隔開（使某區域無法通過正常移動進入或離開）。",,,
 compendium_obstacles_title,障礙物,,,
 compendium_positiveconditions_1,以下是正面效果。角色和怪物可以通過特定行動向自己或盟友附加正面效果。正面效果不會過早地失效。,,,
 compendium_positiveconditions_2,<b>強化：</b>如果目標被強化，它會在其執行的所有攻擊中獲得<b>優勢</b>。在目標的下一輪次結束時，強化失效。,,,
@@ -1796,11 +1796,14 @@ compendium_positiveconditions_3,<b>隱身：</b>如果角色或怪物是隱身�
 compendium_positiveconditions_title,正面效果,,,
 compendium_restsandrecoveringcards,"丟棄的牌可以通過進行以下類型的休息來回收到手牌中：
 
-1. 短休息：能力卡選擇階段，你可以進行短休息。隨機焚燒一張棄牌堆中的牌然後將棄牌堆中剩下的牌回收到手牌中。如果你十分想要保留被隨機抽出的能力卡，你可以選擇承受 <b>1</b> 點傷害，並再次從抽取另一張牌來焚燒，每次短休息只能重新抽一次。
+1. 短休息：
+能力卡選擇階段，你可以進行短休息。隨機焚燒一張棄牌堆中的牌然後將棄牌堆中剩下的牌回收到手牌中。
+如果你十分想要保留被隨機抽出的能力卡，你可以選擇承受 <b>1</b> 點傷害，並再次從抽取另一張牌來焚燒，每次短休息只能重新抽一次。
 
-2. 長休息：選擇長休息就不需要選擇能力卡了，本回合的優先權會被設定為 <b>99</b>，在你的輪次中，你可以自己從棄牌堆中選擇一張要焚燒的能力卡，然後執行 治療 <b>2</b>，同時將棄牌堆中剩下的牌回收到手牌中並重置所有橫置的道具卡。",,,
+2. 長休息：
+選擇長休息就不需要選擇能力卡了，本回合的優先權會被設定為 <b>99</b>，在你的輪次中，你可以自己從棄牌堆中選擇一張要焚燒的能力卡，然後執行治療 <b>2</b> ，同時將棄牌堆中剩下的牌回收到手牌中並重置所有橫置的道具卡。",,,
 compendium_restsandrecoveringcards_title,休息和回收能力卡,,,
-compendium_retaliate,"<b>復仇X：</b>擁有復仇的角色會在遭受攻擊而沒有死亡或精疲力竭後會對攻擊者造成X點傷害（遭受復仇傷害不會觸發復仇）。復仇也可以具有<b>射程Y</b>，這意味著復仇效果會對距離Y以內的任何攻擊者生效而不是僅影響近戰範圍。
+compendium_retaliate,"<b>復仇X：</b>擁有復仇的角色會在遭受攻擊而沒有死亡或精疲力竭後會對攻擊方造成X點傷害（遭受復仇傷害不會觸發復仇）。復仇也可以具有<b>射程Y</b>，這意味著復仇效果會對距離Y以內的任何攻擊方生效而不是僅影響近戰範圍。
 
 復仇可以被疊加，並且復仇傷害不需要抽取修正卡也不會被其他任何效果影響，玩家可以焚燒卡來阻擋復仇傷害。",,,
 compendium_retaliate_title,復仇,,,
@@ -1816,7 +1819,7 @@ compendium_roundsummary,"一個劇本包含數個回合，直到玩家符合劇�
 從優先權最小的一位開始，角色或怪物將依順序行動。怪物只會採取能力卡上的能力，角色從剛剛選擇的兩張能力卡上選擇執行的動作，也可以在自己的輪次時使用物品。</indent>
 
 • <indent=15><b>回合結束階段：</b>
-持續一回合的回合增益效果結束，並依照牌上敘述將其丟棄或焚燒，元素從強烈變為衰退，從衰退變為惰性，如果 <color=orange><b>x0</b></color> 或 <color=orange><b>x2</b></color> 修正卡被抽出，則將將所有被抽出的修正卡放回修正卡牌庫混洗。</indent>",,,
+持續一回合的回合增益效果結束，並依照牌上敘述將其丟棄或焚燒，元素從強烈變為衰退，從衰退變為惰性，如果 <color=orange><b>x0</b></color> 或 <color=orange><b>x2</b></color> 修正卡被抽出，則將所有被抽出的修正卡放回修正卡牌庫混洗。</indent>",,,
 compendium_roundsummary_title,回合構成,,,
 compendium_section_abilitiesattack,能力：進攻,,,
 compendium_section_abilitiesmove,能力：前進,,,
@@ -1837,7 +1840,7 @@ compendium_selectingcards,"在回合開始時，必須為每個角色選擇兩�
 請注意！雖然每張牌有兩個半部，但不能選擇同一半部的效果。
 例如：如果本輪次中的第一個動作，你選擇了某一張卡的頂部，則第二個動作必須選擇另一張卡的底部。",,,
 compendium_selectingcards_title,能力卡選擇階段,,,
-compendium_shield,<b>護盾X：</b>護盾技能會使被攻擊者獲得了一種防禦效果，可為受到的每次攻擊減少X點傷害。多個護盾效果可以疊加，並且可以以任何順序被觸發。護盾只能減少被攻擊造成的傷害 一 不會減少陷阱或復仇等直接傷害。,,,
+compendium_shield,<b>護盾X：</b>護盾技能會使被攻擊方獲得了一種防禦效果，可為受到的每次攻擊減少X點傷害。多個護盾效果可以疊加，並且可以以任何順序被觸發。護盾只能減少被攻擊造成的傷害 一 不會減少陷阱或復仇等直接傷害。,,,
 compendium_shield_title,護盾,,,
 compendium_summon,"一些能力可以召喚盟友以幫助你。召喚物會被召喚到與召喚者相鄰的空的格子中。如果沒有可用的格子，則無法使用召喚能力。
 
@@ -1863,7 +1866,7 @@ compendium_traps,"當角色或怪物移動進入包含陷阱的格子時，會�
 當陷阱被觸發時，它會造成一些附加效果，然後從場地上移除。
 陷阱也可以通過特定動作解除，將其場地上移除而不會受到其附加效果。
 
-將游標滑入一個陷阱上來查看該陷阱的附加效果。
+將滑鼠游標滑入陷阱上來查看該陷阱的附加效果。
 角色和怪物還可能通過能力卡在地圖上建立具有特殊效果的陷阱。",,,
 compendium_traps_title,陷阱,,,
 compendium_usingabilites,"在角色的輪次開始時，你會看到你所選擇的兩張能力卡。你現在可以選擇第一個動作並執行，記住！另一張牌的另一半部就會是第二個動作。
@@ -1877,11 +1880,11 @@ compendium_usingabilites,"在角色的輪次開始時，你會看到你所選擇
 
 • <indent=15>最後，還有另一個所有對相鄰的盟友和敵人都承受 <b>1</b> 點傷害的能力。請注意！下面有一個選項，可以消耗大地元素（參見""元素""項目來獲得更多說明）來使本次傷害改為 <b>2</b> 點並獲得 <b>1</b> 點經驗值。請注意，本次消耗元素只對本次傷害有效（此張牌的第三個能力造成的傷害），不會影響之前的傷害。</indent>
 
-• <indent=15>在所有三個能力結算後，會獲得顯示在牌上的 <b>1</b> 點經驗值，並且由於卡片右下角有的焚燒圖示，此卡使用後會被焚燒而不是丟棄。</indent>",,,
+• <indent=15>在所有能力結算後，會獲得顯示在牌上的 <b>1</b> 點經驗值，並且由於卡片右下角有的焚燒圖示，此卡使用後會被焚燒而不是丟棄。</indent>",,,
 compendium_usingabilites_title,使用能力,,,
 compendium_usingitems_1,"根據裝備卡上標注的條件，在可以使用對應裝備時會顯示使用圖示，你可以通過點擊它們來使用這些裝備。某些裝備只能在被攻擊時使用，並在適用時出現。也有一些裝備，它們可以提供恒定的被動效果，因此不需要啟動就會被使用。
 
-請注意，如果物品會影響攻擊（例如，獲得加成，施加負面效果，獲得優勢等），就可以在攻擊之前使用它 一 也就是在抽取攻擊的攻擊修正卡之前。如果將負面效果添加到攻擊中，它就會在攻擊後被施放到被攻擊者身上。角色在同一時間可以使用的道具數目沒有限制，任何行動都可以使用與之相關聯的道具。
+請注意，如果物品會影響攻擊（例如，獲得加成，施加負面效果，獲得優勢等），就可以在攻擊之前使用它 一 也就是在抽取攻擊的攻擊修正卡之前。如果將負面效果添加到攻擊中，它就會在攻擊後被施放到被攻擊方身上。角色在同一時間可以使用的道具數目沒有限制，任何行動都可以使用與之相關聯的道具。
 
 在使用後，物品卡會有三種不同狀態，用以下標記表示：",,,
 compendium_usingitems_2,此符號意味著該裝備會<b>在使用後磨損</b>，磨損後裝備暫時無法使用，直到通過長休息或使用能力將它刷新。,,,
@@ -2116,7 +2119,7 @@ error_choreo_00062,無法處理增加目標,,,
 error_choreo_00063,無法處理增加回血量,,,
 error_choreo_00064,無法處理附加增益效果,,,
 error_choreo_00065,無法處理增加射程,,,
-error_choreo_00066,無法處理攻擊者陷入劣勢攻擊,,,
+error_choreo_00066,無法處理攻擊方陷入劣勢攻擊,,,
 error_choreo_00067,無法處理反傷,,,
 error_choreo_00068,無法處理隱身狀態,,,
 error_choreo_00069,無法處理強化狀態,,,
@@ -4610,12 +4613,12 @@ gloomhaven_street_ward_of_scales,天秤街區,,,
 gloomhaven_street_west_barracks,城西軍營,,,
 glossary_action,行動是角色和怪物如何在幽暗迷城中進行它們的輪次，由一個或多個能力卡組成。,,,
 glossary_addtarget,附加額外攻擊目標。,,,
-glossary_advantage,優勢攻擊：具有優勢的攻擊者將抽取兩張攻擊修正卡並使用其中更好（數值更高）的那張。,,,
+glossary_advantage,優勢攻擊：具有優勢的攻擊方將抽取兩張攻擊修正卡並使用其中更好（數值更高）的那張。,,,
 glossary_air,元素充能 一 氣：用氣元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能同一輪次連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。,,,
 glossary_any,元素充能 一 任意元素：用你選擇的元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。具有任意元素充能標識的怪物行動時隨機選擇一個元素進行充能。,,,
 glossary_attack,攻擊：“攻擊 X”能力卡使得單位以基礎值X去攻擊射程內的一個敵人。,,,
 glossary_attackdefault,基本攻擊：放棄使用卡的頂部行動，並進行一個“攻擊 2”的行動。此行動依然棄牌。,,,
-glossary_attackersgaindisadvantage,攻擊者陷入劣勢攻擊：任意針對這名單位的攻擊將陷入劣勢攻擊。,,,
+glossary_attackersgaindisadvantage,攻擊方陷入劣勢攻擊：任意針對這名單位的攻擊將陷入劣勢攻擊。,,,
 glossary_augment,竊靈劍師特效賦能：無論何時竊靈劍師進行近戰進攻時，場上的角色特效攻擊將被使用。,,,
 glossary_aura,光環：“光環”的效果僅當它的目標在光環射程範圍內被啟動。如果移動出光環的射程範圍，光環外的目標們將失去被賦予的任何效果。,,,
 glossary_bless,祝福：被祝福的單位添加一張祝福(x2)卡進入他們的攻擊修正卡堆。當被抽後，攻擊造成雙倍傷害，並且這張祝福(x2)卡從攻擊修正卡堆移除。,,,
@@ -4631,7 +4634,7 @@ glossary_consumelight,消耗元素 一 光,,,
 glossary_controlled,被操控的心靈：在這一回合，這個敵人將會將它的盟友看作敵人、將它的敵人看作盟友。,,,
 glossary_curse,詛咒：被詛咒的單位添加一張詛咒(x0)卡進入他們的攻擊修正卡堆。當被抽後，攻擊不造成傷害，並且這張詛咒(x0)卡從攻擊修正卡堆移除。,,,
 glossary_dark,元素充能 一 暗：用暗元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。,,,
-glossary_disadvantage,劣勢攻擊：劣勢攻擊的攻擊者將抽取兩張攻擊修正卡，並使用其中更差（數值更低）的那張。,,,
+glossary_disadvantage,劣勢攻擊：劣勢攻擊的攻擊方將抽取兩張攻擊修正卡，並使用其中更差（數值更低）的那張。,,,
 glossary_disarm,繳械：繳械狀態的單位不能不能釋放任何攻擊技能，繳械狀態在被施法單位下一輪次結束時被移除。,,,
 glossary_dothex,這個點顯示了這個效果範圍以後可以被提升，從而在這個點處增加一個效果範圍格子。,,,
 glossary_earth,元素充能 一 土：用土元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位被一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。,,,
@@ -4676,7 +4679,7 @@ glossary_fire,元素充能 一 火：用火元素充滿戰場，可用於在元�
 glossary_flying,飛行：飛行的單位將會在他們的移動期間完全忽視所有單位、障礙物、格子上的地面效果和陷阱，包含他們最後要去的格子。但是最後要去的格子不能被其他單位佔據。當佔據障礙物格子上方的飛行單位停止飛行，這個單位會承受傷害，傷害值等同於單位觸發陷阱，並移動到最近的空格子（“空”指沒有任何陷阱、障礙物、單位、打開的門等）。最後這句太難準確翻譯了！,,,
 glossary_greyhex,灰格子顯示著使用者的位置，意味著該攻擊範圍為近戰範圍攻擊，因此攻擊範圍只能圍繞著這個格子（使用者）。,,,
 glossary_heal,治療：“治療 X” 能力卡使單位讓在技能射程內的目標回復X點生命值。,,,
-glossary_hitarea,顯示攻擊的效果範圍。紅格子是目標施法範圍，灰格子是近戰範圍攻擊時攻擊者的位置。,,,
+glossary_hitarea,顯示攻擊的效果範圍。紅格子是目標施法範圍，灰格子是近戰範圍攻擊時攻擊方的位置。,,,
 glossary_ice,元素充能 一 冰：用冰元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。,,,
 glossary_immobilize,禁足：被禁足的單位不能進行任何移動技能。在被影響單位下一輪次結束時，禁足狀態將移除。,,,
 glossary_initiative,優先權：在單位回合的行動階段，使用單位玩家的兩張卡中第一張選擇的牌（高亮卡）的優先權。,,,
@@ -4702,7 +4705,7 @@ glossary_recover,回手（回牌）：使得角色一定數量的棄牌堆（某
 glossary_redhex,紅格子顯示了技能效果的攻擊範圍 一 紅格子範圍上的目標將會被技能擊中。,,,
 glossary_refresh,刷新：允許一個角色重新獲得一定數量乃至所有的“耗用（可通過長休息刷新）”和/或“耗竭（不可通過長休息刷新）”的物品。,,,
 glossary_rest,0,,,
-glossary_retaliate,反傷：所有單位反傷射程內的攻擊者將會直接受到X點反傷傷害。如果射程值未指定，那麼僅對相鄰的攻擊者起作用。多個反傷效果將會疊加。,,,
+glossary_retaliate,反傷：所有單位反傷射程內的攻擊方將會直接受到X點反傷傷害。如果射程值未指定，那麼僅對相鄰的攻擊方起作用。多個反傷效果將會疊加。,,,
 glossary_round,回合效果獎勵：表示這個效果持續到回合結束。,,,
 glossary_self,這個能力卡的目標為單位自身。,,,
 glossary_shield,護甲：所有打在有護甲的單位身上的攻擊減少X點。多個護甲效果將會疊加。護甲效果只能應用於“攻擊”技能傷害，即不能阻止其它形式的傷害。,,,
@@ -5995,7 +5998,7 @@ gui_tooltip_add_doom,打出一個厄運將移除任何其他場上的厄運並�
 gui_tooltip_add_target_modifier,添加目標的修正卡,,,
 gui_tooltip_add_target_modifier_tip,作為攻擊的一部分，既然你抽到了“添加目標”修正卡的一部分。在有效的格子中選擇一個額外的目標進行攻擊。,,,
 gui_tooltip_additional_target_effect,<color=#A050E0>{0}：</color>選擇額外的目標。,,,
-gui_tooltip_attack_modifiers,<color=#F1DBAE>攻擊修正卡牌庫：</color>每當角色攻擊時，抽取一張攻擊修正卡，並且將數值修正套用到此次攻擊中。右側浮動顯示了攻擊修正卡牌庫內，各數值牌的分佈狀況。,,,
+gui_tooltip_attack_modifiers,<color=#F1DBAE>攻擊修正卡牌庫：</color>每當角色攻擊時，抽取一張攻擊修正卡，並且將數值修正套用到此次攻擊中。右側浮動面板顯示了攻擊修正卡牌庫內，各數值牌的分佈狀況。,,,
 gui_tooltip_choose_doom_discard,選擇兩個厄運來打擊目標。另一個將被將被丟棄。,,,
 gui_tooltip_choose_doom_transfer,選擇將一個厄運來轉移到另一個敵人。另一個將被丟棄。,,,
 gui_tooltip_consuming_available,按一下此處以增強此行動，此過程中將消耗元素。,,,
@@ -6251,14 +6254,14 @@ item_heatershield,當你因為攻擊而受到傷害時，對此次攻擊獲得<n
 item_heavybasinet,你免疫擊暈<sprite name=Stun>和混亂<sprite name=Muddle>,,,
 item_heavygreaves,你免疫所有由敵人和劇本機制所造成的強制移動行動,,,
 item_helixring,在你的行動輪中，<sprite name=ConsumeLight><sprite name=ConsumeDark>並執行一次<nobr>“治療<sprite name=Heal>25，自身”</nobr>。,,,
-item_helmofthemountain,當你受到攻擊時，如果<sprite name=Earth>處於強烈，則對攻擊者施加<sprite name=Immobilize>。,,,
+item_helmofthemountain,當你受到攻擊時，如果<sprite name=Earth>處於強烈，則對攻擊方施加<sprite name=Immobilize>。,,,
 item_hidearmor,在下兩次受到以你為攻擊目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
 item_hookedchain,當你進行遠距進攻時，對你的整個攻擊行動附加<nobr>拉近<sprite name=Pull>2</nobr>。,,,
 item_hornedhelm,若在你自己的行動輪中移動了4個或者更多格子，對你此行動輪的下一次近戰進攻附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_infernoblade,在你進行近戰進攻時，<sprite name=ConsumeFire>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
 item_ironhelmet,當你受到攻擊時，將敵人抽到的任何x2攻擊修正卡視為其抽到了一張+0攻擊修正卡。,,,
 item_jaggedsword,在你進行近戰進攻時，對你的單次攻擊附加<nobr>流血<sprite name=Wound></nobr>。,,,
-item_leatherarmor,<size=80%>在下兩次受到攻擊時，攻擊者均獲得劣勢。,,,
+item_leatherarmor,<size=80%>在下兩次受到攻擊時，攻擊方均獲得劣勢。,,,
 item_longspear,在你對單個目標使用近戰進攻時，將攻擊改為執行以下步驟：,,,
 item_luckyeye,在你的行動輪中，你和相鄰的盟友獲得<nobr>強化<sprite name=Strengthen></nobr>。,,,
 item_magmawaders,忽略危險地形的傷害。每個行動輪中首次進入危險地形時，你可以立即執行一次“治療2，自身”。,,,
@@ -6457,7 +6460,7 @@ item_steamarmor,在下五次受到以你為目標所造成的傷害時，獲得<
 item_steelring,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>4</nobr>。,,,
 item_steelsabatons,若在你自己的行動輪中移動了1個或者更少格子，則你此回合獲得<nobr>護盾<sprite name=Shield>1</nobr>。,,,
 item_stormblade,在你進行近戰進攻時，<sprite name=ConsumeAir>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
-item_studdedleather,在下兩次受到攻擊時，攻擊者獲得劣勢；如果你在此期間承受了傷害，則獲得<nobr>護盾<sprite name=Shield>1</nobr>。,,,
+item_studdedleather,在下兩次受到攻擊時，攻擊方獲得劣勢；如果你在此期間承受了傷害，則獲得<nobr>護盾<sprite name=Shield>1</nobr>。,,,
 item_stunpowder,在你進行近戰進攻時，對你的單次攻擊附加<nobr>擊暈<sprite name=Stun></nobr>。,,,
 item_sunearring,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>所有你已使用的道具並執行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”。,,,
 item_superhealingpotion,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>7，</nobr>自身”。,,,
@@ -6478,7 +6481,7 @@ item_wandofinfernos,在你的行動輪中，生成火元素。,,,
 item_wandofstorms,在你的行動輪中，生成氣元素。,,,
 item_wandoftremors,在你的行動輪中，生成土元素。,,,
 item_warhammer,在你進行近戰進攻時，對你的整個攻擊行動輪附加<nobr>擊暈<sprite name=Stun></nobr>。,,,
-item_wavecrest,當你受到攻擊時，如果<sprite name=Ice>處於強烈，對攻擊者執行一次“強推<sprite name=Push>2”。,,,
+item_wavecrest,當你受到攻擊時，如果<sprite name=Ice>處於強烈，對攻擊方執行一次“強推<sprite name=Push>2”。,,,
 item_weightednet,當你進行遠距進攻時，對你的單次攻擊附加<nobr>禁足<sprite name=Immobilize></nobr>•。,,,
 item_wingedshoes,在你執行移動行動時，對你的整個移動行動輪附加<nobr>跳躍<sprite name=Jump></nobr>。,,,
 jadefalcon,玉鷹,,,
@@ -8732,7 +8735,7 @@ quest_campaign_074_intro_gh_1,“我派出去的每艘船都遭到了襲擊和�
 quest_campaign_074_intro_gh_2,他歎了一口氣：“我希望雇傭你們藏在我的一艘船內，等那些強盜登上甲板後將他們一網打盡。很簡單，對吧？”,,,
 quest_campaign_074_intro_travel_1,這項任務聽起來確實很簡單，你們一直坐著船艙中等著。突然，一發加農炮將船體的一側炸出了一個大洞，也將你們震倒在地。,,,
 quest_campaign_074_intro_travel_2,不等你們作出反應。大量海水便灌進了船艙，海盜們也湧上了甲板。,,,
-quest_campaign_074_intro_travel_3,這些人一定就是困擾蓋文的神秘攻擊者了。,,,
+quest_campaign_074_intro_travel_3,這些人一定就是困擾蓋文的神秘攻擊方了。,,,
 quest_campaign_074_intro_travel_4,你們抓緊武器和木桶，盡力讓船舶保持漂浮，但在大炮的轟炸與海盜的刀刃下沉沒只是時間問題罷了。,,,
 quest_campaign_074_intro_travel_5,在你們脫困前海水就填滿了你的視野，一座由海水構成的墳墓牢牢的將你禁錮在原地。,,,
 quest_campaign_074_list,找出是誰攻擊了蓋文的船隊,,,
@@ -9262,7 +9265,7 @@ quest_story_3a_intro,教官讓你前往魔門鎮墓地，在剛進門的地方�
 quest_story_3a_list,將野蠻人招募至公會,,,
 quest_story_3a_name,我是野蠻人,,,
 quest_story_3b_desc,教官給你標記出了第二個潛在夥伴的位置。,,,
-quest_story_3b_intro,教官給你標記出小鎮郊區的一處地穴廢墟，那裡強盜們屍橫遍野，很多屍體上還插著武器。很明顯他們在發現攻擊者之前就被消滅了。,,,
+quest_story_3b_intro,教官給你標記出小鎮郊區的一處地穴廢墟，那裡強盜們屍橫遍野，很多屍體上還插著武器。很明顯他們在發現攻擊方之前就被消滅了。,,,
 quest_story_3b_list,將凶徒招募至公會,,,
 quest_story_3b_name,一把暗夜中的刀刃,,,
 quest_story_4a_desc,強盜被阻攔在絞架嶺外的小路上，需要你將他們趕跑。,,,
@@ -10972,7 +10975,7 @@ scenario_puzzle_7b_01,"來認識下最後一位元新人，<b>亂心賊</b>。�
 <b><link=""Glossary_Summon"">召喚物</link></b>會在它的召喚者行動輪開始前自發地執行動作，並且每次都會執行一個<b>“<link=""Glossary_Move"">移動</link> X，<link=""Glossary_Attack"">攻擊</link> Y”</b>的行動，其中<b>X</b>和<b>Y</b>分別是它們所標示出來的基本屬性數值。",,,
 scenario_puzzle_7b_02,"正好<b>亂心賊</b>在討伐惡魔，你能夠見識一下更厲害的敵人 一 <b>暗夜惡魔</b>。
 
-這種恐怖生物擁有一個固有技能來讓攻擊者們在“以它們作為目標執行任何攻擊”時處於<b><link=""Glossary_Disadvantage"">劣勢</link></b>狀態，這使得它們通常很難對付。也許你可以試試通過非攻擊的手段從而造成一些直接傷害來殺死它們？",,,
+這種恐怖生物擁有一個固有技能來讓攻擊方們在“以它們作為目標執行任何攻擊”時處於<b><link=""Glossary_Disadvantage"">劣勢</link></b>狀態，這使得它們通常很難對付。也許你可以試試通過非攻擊的手段從而造成一些直接傷害來殺死它們？",,,
 scenario_puzzle_7b_03,"你本回合的目標為：
 <line-height=20%>
 </line-height>→ <b><link=""Glossary_Summon"">召喚</link></b>一名盟友
@@ -11200,7 +11203,7 @@ scenario_story_brute_1_start_1,"獵犬從樹林中沖了出來，你大步向前
 scenario_story_brute_1_success_1,在獵犬和羚牛族死後，你走到一具屍體旁。你是對的：這些標記和那個殺死了睡夢中的首領、並拿走了他的斧頭的保鏢標記類似。,,,
 scenario_story_brute_2_start_1,我的偵察兵回報，羚牛族戰士和人類正如洪水般湧過森林。他們朝我們的方向來了，所以眼下需要的是頑強的抵抗能力。,,,
 scenario_story_brute_2_start_2,我們會在這裡全力抵抗。如果我們拿下了他們之中足夠多的目標，他們就會潰敗。我的族人會幫忙。,,,
-scenario_story_brute_2_success_1,面對你的堅定信念，攻擊者掉頭逃回了森林之中。看上去你已經贏得了勝利！,,,
+scenario_story_brute_2_success_1,面對你的堅定信念，攻擊方掉頭逃回了森林之中。看上去你已經贏得了勝利！,,,
 scenario_story_brute_3_room_2,羚牛族薩滿正在這個房間中召喚惡魔。必須阻止他們！,,,
 scenario_story_brute_3_sm1_desc,野蠻人永久強化,,,
 scenario_story_brute_3_start_1,意識到羚牛族與惡魔共事令你滿腔怒火，你向前撲了過去，勢必要摧毀他們！,,,
@@ -11657,7 +11660,7 @@ scenario_travel_demonspinehollow_start_4,值得一提的是，有些劇本存在
 scenario_travel_demonspinehollow_success,在小妖和獵犬們死去後，整座森林的顏色恢復了正常，而你們繼續朝著村莊前進。,,,
 scenario_travel_drakefirefarm_start_1,我一直聽說有暗夜惡魔在北方出沒，但這是我第一次親眼見到他們。,,,
 scenario_travel_drakefirefarm_start_2,他們擅長使用黑暗的力量，而光明會幫助你擊敗他們！,,,
-scenario_travel_drakefirefarm_start_3,或者是又冷又硬的鋼鐵...但要注意，它們會給所有攻擊者的攻擊帶來劣勢！,,,
+scenario_travel_drakefirefarm_start_3,或者是又冷又硬的鋼鐵...但要注意，它們會給所有攻擊方的攻擊帶來劣勢！,,,
 scenario_travel_drakefirefarm_success_1,我討厭那些傢伙，它們就像長過了頭的蜘蛛...他們為什麼有這麼多手臂？,,,
 scenario_travel_drakefirefarm_success_2,更多的武器意味著更多的爪子，更多的爪子意味著更多的殺戮。,,,
 scenario_travel_drakefirefarm_success_3,這其實是個反問句，不過謝謝你，我今晚會睡個好覺的。,,,
@@ -12386,7 +12389,7 @@ tutorial_2_help_006,點擊【結束選擇】繼續,,,
 tutorial_2_help_007,選擇順手牽羊的底部,,,
 tutorial_2_help_008,選擇閃爍的大門格子,,,
 tutorial_2_help_009,點擊【開門】以確認移動,,,
-tutorial_2_help_010,將游標滑入螢幕頂部優先權序列中的強盜守衛頭像,,,
+tutorial_2_help_010,將滑鼠游標滑入螢幕頂部優先權序列中的強盜守衛頭像,,,
 tutorial_2_help_011_1,選擇強盜守衛旁邊閃爍的格子,,,
 tutorial_2_help_011_2,點擊【確認移動】以繼續,,,
 tutorial_2_help_012,選擇踐踏的頂部,,,
@@ -12435,7 +12438,7 @@ tutorial_2_text_007_4,...或選擇<nobr><color=#32E632>踐踏</color></nobr>的�
 tutorial_2_text_007_5,"<color=#a06e4b>野蠻人</color>在這個房間裡沒有什麼可做的，所以你應該通過<color=#1F9EDC>前進</color><sprite name=Move>看看門後有什麼。
 
 <nobr><color=#32E632>順手牽羊</color></nobr>的底部允許<color=#a06e4b>野蠻人</color>移動四格，足以通過這扇門。讓我們開始吧！",,,
-tutorial_2_text_010,這個房間內你將遇見你的第一個敵人，一個<color=#C53F3F>強盜守衛</color>！像角色一樣，怪物也會有他們的<color=#FADC99>優先權</color>與<color=#FADC99>動作</color> 一 讓我們將游標滑入他的頭像來瞭解<color=#C53F3F>強盜守衛</color>這回合的計畫。,,,
+tutorial_2_text_010,這個房間內你將遇見你的第一個敵人，一個<color=#C53F3F>強盜守衛</color>！像角色一樣，怪物也會有他們的<color=#FADC99>優先權</color>與<color=#FADC99>動作</color> 一 讓我們將滑鼠游標滑入他的頭像來瞭解<color=#C53F3F>強盜守衛</color>這回合的計畫。,,,
 tutorial_2_text_011_1,"你可以看到<color=#C53F3F>強盜守衛</color>的意圖：他計畫<color=#1F9EDC>前進</color><sprite name=Move>和<color=#1F9EDC>進攻</color><sprite name=Attack>！
 
 角色每個輪次擁有兩個<color=#FADC99>動作</color>，但怪物只擁有一個 一 但這一個<color=#FADC99>動作</color>通常包含多個<color=#FADC99>能力</color>。",,,

@@ -1634,7 +1634,8 @@ compendium_attackeffects_4,"<b>PIERCE X:</b> Up to X points of the target’s Sh
 "
 compendium_attackeffects_5,"<b>ADD TARGET:</b> If a character triggers this effect with an attack action, the character may add an additional target within range to their attack. All added effects and conditions of the attack action are applied to the target as well, except for effects that would result in additional targets outside of the original added target."
 compendium_attackeffects_title,Attack Effects
-compendium_attackmodifiers_1,"When attacking, the base attack value written on the card can be modified by three types of values in the following order. These steps are repeated for each individual enemy targeted by the attack:
+compendium_attackmodifiers_1,"
+When attacking, the base attack value written on the card can be modified by three types of values in the following order. These steps are repeated for each individual enemy targeted by the attack:
 
 • An attacker’s attack modifiers are applied first. These modifiers include bonuses and penalties from active ability cards, items, and other sources (e.g., +1 Attack from Poison).
 
