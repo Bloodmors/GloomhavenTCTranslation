@@ -83,7 +83,7 @@
 118_b,在相鄰的兩個空格子內分別創建兩個占一格的障礙物。
 119_b,所有相鄰的單位損失*BDamage* 點生命值。
 120_t,所有與目標相鄰的單位損失1點生命值。
-121_t,在你接下來的四次遠程攻擊行動中，獲得附加目標<sprite name=Target>。
+121_t,在你接下來的四次遠程進攻行動中，獲得附加目標<sprite name=Target>。
 122_t,摧毀一個相鄰的障礙物。
 123_b,所有盟友損失<nobr> *BShieldSubDamage* 點生命值</nobr>。
 123_t_2,所有相鄰的盟友損失<nobr>*TDamage* 點生命值</nobr>。
@@ -91,10 +91,10 @@
 124_b_2,所有相鄰的單位損失<nobr>*BDamage2* 點生命值</nobr>。
 124_b_3,<nobr> 2點生命值，<sprite name=XP1></nobr>
 125_t,<nobr>混亂<sprite name=Muddle></nobr>目的地區域內的所有單位。
-127_b,本回合，為你的所有遠程攻擊附加+1攻擊力<sprite name=Attack>。
+127_b,本回合，為你的所有遠程進攻附加+1攻擊力<sprite name=Attack>。
 127_t,你可以將目標強推到含有障礙物的格子中。此時，摧毀該障礙物，你的目標損失2點生命值，你獲得<sprite name=XP1>。
 128_b,本回合，為你的所有近戰進攻附加+2攻擊力<sprite name=Attack>。
-129_b,當<nobr>氣<sprite name=Air></nobr>處於充能狀態時，你接下來六次遠程攻擊行動會消耗<nobr>氣<sprite name=ConsumeAir></nobr>並為你的攻擊附加<nobr>+2射程範圍<sprite name=Range></nobr>。
+129_b,當<nobr>氣<sprite name=Air></nobr>處於充能狀態時，你接下來六次遠程進攻行動會消耗<nobr>氣<sprite name=ConsumeAir></nobr>並為你的攻擊附加<nobr>+2射程範圍<sprite name=Range></nobr>。
 130_t,指定所有與被摧毀的障礙物相鄰的敵人為目標。
 131_t,影響目的地區域中的所有盟友
 132_b,摧毀你經過的所有障礙物，解除你經過的所有陷阱。
@@ -109,8 +109,8 @@
 139_t,禁足<sprite name=Immobilize>目的地區域中所有的單位。
 140_t_1,在<nobr>射程範圍<sprite name=Range> 3以內</nobr>的三角形空格子上創建一個占三個格子的三角形障礙物。
 140_t_2,指定所有與該障礙物相鄰的敵人為目標
-141_b_1,本回合，為你的所有遠程攻擊附加+1攻擊力<sprite name=Attack>。
-141_b_1_alt,本回合，為你的所有遠程攻擊附加+2攻擊力<sprite name=Attack>。
+141_b_1,本回合，為你的所有遠程進攻附加+1攻擊力<sprite name=Attack>。
+141_b_1_alt,本回合，為你的所有遠程進攻附加+2攻擊力<sprite name=Attack>。
 141_b_2,則附加+2攻擊力<sprite name=Attack>，<sprite name=XP1>。
 141_t,每當你的目標撞到一次牆壁或障礙物時，它損失2點生命值，你獲得<sprite name=XP1>。
 142_b,這次移動行動必須停留在一個與障礙物相鄰的格子上。
@@ -136,7 +136,7 @@
 164_t_2,指定所有與被消滅的敵人相鄰的敵人為目標。
 165_b,你可以同時啟動兩種<nobr><color=#A7B3D2>增強</color><sprite name=Augment></nobr>。如果你打出第三種<nobr><color=#A7B3D2>增強</color><sprite name=Augment></nobr>，棄掉其中一個。
 166_b,強迫一個<nobr>射程範圍<sprite name=Range>5以內</nobr>的敵人執行
-170_b,本回合，你的所有遠距進攻獲得<nobr><color=#A7B3D2>增強</color><sprite name=Augment></nobr>效果。
+170_b,本回合，你的所有遠程進攻獲得<nobr><color=#A7B3D2>增強</color><sprite name=Augment></nobr>效果。
 172_b,本回合，強迫一個<nobr>射程範圍<sprite name=Range>5以內</nobr>的敵人執行它的行動輪。此時他將盟友視作敵人而將敵人（玩家）視作盟友，並由你操控它的行動。
 172_t,這次攻擊獲得你的<nobr><color=#A7B3D2>增強</color><sprite name=Augment></nobr>效果。
 173_b,本回合，所有<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友附加<nobr>+X攻擊力</nobr>到他們的所有攻擊中，X是<nobr>射程範圍<sprite name=Range>2以內</nobr>所有盟友的數目。
@@ -175,7 +175,7 @@
 223_t,在每回合結束時，<nobr>重置<sprite name=Refresh></nobr>你的一個已使用的道具。
 224_t,你和所有<nobr>射程範圍<sprite name=Range>4以內</nobr>的敵人損失2點生命值。
 225_b,你和所有目的地區域內的普通級別敵人損失7點生命值。
-226_t,任意相鄰的盟友在執行遠距進攻行動時，為該攻擊獲得<nobr>附加目標<sprite name=Target></nobr>。
+226_t,任意相鄰的盟友在執行遠程進攻行動時，為該攻擊獲得<nobr>附加目標<sprite name=Target></nobr>。
 228_b,任意一名盟友可以<nobr>回收<sprite name=Recover></nobr>他所有棄牌堆的卡牌。
 228_t,每當你長休息後，<nobr>重置<sprite name=Refresh></nobr>一個你已消耗的道具。
 229_b,本回合你的所有攻擊無視目標的護盾。
@@ -212,7 +212,7 @@
 287_t,則消滅所有的普通級別敵人，<sprite name=XP2>。
 288_t,當你處於<nobr>隱身<sprite name=Invisible></nobr>，為你接下來的四次攻擊附加<nobr>擊暈<sprite name=Stun></nobr>。
 289_t,為目的地區域的所有單位施加<nobr>中毒<sprite name=Poison></nobr>。
-290_b,從你的所有遠距進攻中扣除<nobr>-1射程範圍<sprite name=Range></nobr>。
+290_b,從你的所有遠程進攻中扣除<nobr>-1射程範圍<sprite name=Range></nobr>。
 292_t,每當你執行攻擊行動前，你可以對<nobr>射程範圍<sprite name=Range>2以內</nobr>的一名盟友施加<nobr>中毒<sprite name=Poison></nobr>（或者使其損失3點生命值如果該盟友已經<nobr>中毒<sprite name=Poison></nobr>），來為你的整個攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
 298_t,當<nobr>氣<sprite name=Air></nobr>處於充能狀態時，你接下來的六次攻擊可以消耗<nobr>氣<sprite name=ConsumeAir></nobr>來為整個攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
 300_b,每次你的移動行動後，對所有相鄰單位施加<nobr>中毒<sprite name=Poison></nobr>。
@@ -264,7 +264,7 @@
 347_t,你每對一個敵人造成傷害，執行一次“<nobr>治療<sprite name=Heal>2</nobr>，目標為自己”的行動。
 348_t,所有盟友在他們的每個行動輪可以為一次攻擊附加+1攻擊力<sprite name=Attack>。
 349_b,本回合，<nobr>射程範圍<sprite name=Range>2以內</nobr>的任意一名盟友免疫一次他接下來將受到的傷害。
-350_t,所有盟友為他們的所有移動行動附加<nobr>+1移動力<sprite name=Move></nobr>，並為他們的所有遠距進攻附加<nobr>+1射程範圍<sprite name=Range></nobr>。
+350_t,所有盟友為他們的所有移動行動附加<nobr>+1移動力<sprite name=Move></nobr>，並為他們的所有遠程進攻附加<nobr>+1射程範圍<sprite name=Range></nobr>。
 352_b,一名<nobr>射程範圍<sprite name=Range>3以內</nobr>的盟友<nobr>可以執行</nobr>
 354_b,強迫所有目的地區域中的敵人執行一次<nobr>“移動<sprite name=Move>1”</nobr>行動，並由你操控它們移動的方向。
 357_t,為所有盟友的所有攻擊附加<nobr>流血<sprite name=Wound></nobr>。
@@ -1224,7 +1224,7 @@ adventure_achievement_soothsinger_3_desc,暢歌者詛咒敵人25次
 adventure_achievement_spellweaver_1,充滿能量，活力無限
 adventure_achievement_spellweaver_1_desc,織魔師充能100個元素
 adventure_achievement_spellweaver_2,玻璃大炮
-adventure_achievement_spellweaver_2_desc,織魔師使用遠距進攻殺死20個敵人
+adventure_achievement_spellweaver_2_desc,織魔師使用遠程進攻殺死20個敵人
 adventure_achievement_spellweaver_3,復蘇的行維族
 adventure_achievement_spellweaver_3_desc,織魔師使用30次回收燒祭卡牌的技能
 adventure_achievement_summoner_1,肉盾
@@ -1555,7 +1555,7 @@ compendium_attackeffects_3,"<b>拉近 X:</b>使目標被迫在攻擊者指定的
 compendium_attackeffects_4,"<b>穿刺 X:</b>忽略目標最多X點護盾進行攻擊。與其他效果不同，穿刺會在攻擊造成傷害時進行結算，而不是在攻擊後附加。
 "
 compendium_attackeffects_5,"<b>增加目標:</b>如果角色用攻擊行動觸發增加目標的效果，則角色可以在攻擊範圍內選取額外的目標進行攻擊。攻擊行動本身的所有附加效果和條件也適用於額外選擇的目標（不包含“增加目標”效果本身）。"
-compendium_attackeffects_title,攻擊效果
+
 
 
 
@@ -1596,7 +1596,7 @@ compendium_gainingexperience_2,"有時卡牌上會具體說明，僅在滿足某
 compendium_infusingelements_1,一些技能具有與它們相關的元素親和力。如果使用了包含以下元素符號之一的行動，它將在當前角色輪次結束後充能該元素至強烈狀態，在能充能任一元素的情況下，系統將提示你選擇要充能的元素。如果怪物卡具有充能任一元素的效果，則隨機選擇任一元素。
 compendium_infusingelements_2,"螢幕右側的圓圈表示元素的狀態。可以消耗強烈或衰弱狀態的元素，以增加額外的效果和能力（見<b>消費元素</b>）。
 
-當使用具有元素注入效果的技能時，該元素將以注入狀態顯示在元素跟蹤器中。只有在當前角色輪次結束後元素才會充能到戰場上。因此，不能充能元素，然後在同一角色的同一輪次的行動中消耗它 一 但是稍後可以在同一輪的剩餘輪次中被任何角色或怪物消耗。在每個回合結束時，強烈的元素變得衰弱，並且衰弱元素變得惰性，惰性狀態下的元素不再可供消耗。"
+當使用具有元素注入效果的技能時，該元素將以注入狀態顯示在元素跟蹤器中。只有在當前角色輪次結束後元素才會充能到戰場上。因此，不能充能元素，然後在同一角色的同一輪次的行動中消耗它 一 但是稍後可以在同一輪的剩餘輪次中被任何單位消耗。在每個回合結束時，強烈的元素變得衰弱，並且衰弱元素變得惰性，惰性狀態下的元素不再可供消耗。"
 compendium_infusingelements_title,元素充能
 
 compendium_itemslots,"當不在場景中時，角色可以在各種庫存槽中裝備道具卡。請注意，角色不能擁有任何完全重複的道具卡。
@@ -1608,38 +1608,6 @@ compendium_levellingup_2,在升級後，他們的最大生命值將會增加，�
 compendium_levellingup_title,升級
 
 
-compendium_monsterattacks,"只有<b>攻擊</b>技能是出現在怪物技能卡上，怪物才會攻擊。傷害是基於技能的攻擊值計算的。
-
-怪物將始終攻擊他們所專注的敵人，但如果怪物可以攻擊多個目標，它將攻擊其焦點的敵人和盡可能多的其他敵人以最大效果。如果怪物有多重目標攻擊，它將在正常焦點規則之後選擇其它攻擊的焦點，除了它已經攻擊的目標。
-
-怪物攻擊能力與角色攻擊相同，並能正常獲得攻擊獎勵，然後抽取攻擊修正卡，然後是計算其目標的防禦獎勵，並且它們可以具有<b>優勢</b>或<b>劣勢</b>。"
-compendium_monsterattacks_title,怪物攻擊
-compendium_monsterfocus,"在執行能力卡上的動作之前，每個單個怪物都將專注於特定的敵人 一 不論它是角色還是召喚物。
-
-怪物和召喚物會按照以下順序規則來確立它的焦點，怪物在選擇焦點時不會考慮視線：
-1.<b>可達</b>，至少一個能攻擊到該角色的格子在不考慮移動距離的情況下能以當前的移動方式抵達並停留(例如飛行的角色可以停在障礙物上攻擊)則該角色<b>可達</b>，本輪怪物為遠距進攻時考慮攻擊距離， 如果沒有攻擊行動或是進行近戰進攻行動時考慮近戰距離。如果沒有<b>可達</b>的敵人，怪物不會進行移動和攻擊，但會正常進行其他行動。
-2.<b>最少</b>，當多名敵方<b>可達</b>時，所需移動力最少者(考慮繞路)優先成為焦點。
-3.<b>最近</b>，當多名敵方<b>最短</b>時，初始距離最近者(不考慮繞路)優先成為焦點。
-4.<b>最早</b>，當多名敵方<b>最近</b>時，在回合中更早行動的角色更優先成為焦點，玩家的召喚物被認為比其召喚者行動早，同一玩家先召喚的比後召喚的早，精英怪物比普通怪物早，同級別同種怪序號順序小的怪比序號大的怪早。
-5.<b>最優</b>，依照前四條確認第一焦點，怪物會盡力在不劣勢地攻擊第一焦點的前提下(禁足\混亂時可能無法避免劣勢)，盡可能攻擊到更多敵人(對每個角色進行焦點優先順序判定，並選取名列前茅者，目標數不會超過本次攻擊行動的目標上限，攻擊全體則無限制)。"
-compendium_monsterfocus_title,怪物焦點
-compendium_monstermovement_1,"只有在其技能卡上存在<b>移動</b>，怪物才可以在其輪次中移動。它可以移動的距離不能超過其移動值。
-
-如果怪物有移動能力但是其能力卡沒有攻擊（或者失去了攻擊能力），則它將使用其移動力來盡可能接近其焦點目標（裝的就像它能近戰進攻似的），沿著消耗總移動力最少的路徑前進。
-
-如果怪物在移動後有攻擊能力，那麼它將移動儘量少的格子，只要能夠攻擊其焦點敵人。如果它是單目標近戰進攻，它將簡單地朝著焦點目標移動到能攻擊的地方，如果它是多重目標攻擊，它將會走到盡可能攻擊更多的敵人(必須包含焦點)的地方。能攻擊到的敵人數量不發生改變時只會花費最少的移動力。"
-compendium_monstermovement_2,如果怪物將要執行遠距進攻，它將在其攻擊距離內執行其最佳攻擊。怪物可能會通過移動遠離其焦點，直到它可以在沒有<b>劣勢</b>的情況下對焦點執行遠距進攻。當執行遠距進攻的怪物無法通過移動避免對焦點目標<b>劣勢</b>時（比如處於混亂狀態），怪物將被迫停在原地，對焦點目標進行<b>劣勢</b>攻擊。
-compendium_monstermovement_3,即使怪物無法進入攻擊範圍，它仍然將使用其移動力來盡可能接近其焦點。 技能卡上除<b>攻擊</b>之外的技能不會以任何方式影響怪物的移動，此時它將根據上述規則移動，然後盡可能地使用其他能力。
-compendium_monstermovement_4,沒有<b>飛行</b>特性的怪物在確定焦點和移動時認為負面格子（危險地帶和陷阱）是障礙，除非通過這些格子移動是他們可以抵達焦點的唯一方法。在這種情況下，它們將通過最少數量的負面格子作為可以抵達焦點的移動路徑並承擔任何後果。
-compendium_monstermovement_title,怪物移動
-compendium_monsterturns,"怪物的決定由其技能卡和焦點系統控制，在輪到他們的回合時自動做出選擇。所有怪物都將只執行技能卡上列出的能力。除非在其卡上列出這些行動，否則它們也不會移動或攻擊。
-
-怪物的技能卡是每類怪物分別抽取的，而不是每個怪物。這意味著，場景中所有同類型怪物在同一輪次中都會使用相同的能力。
-
-同一怪物類型中精英級別首先行動，如果板上存在多個同一類型的精英或普通怪物，則同級別怪物以昇冪編號依次行動。同一類型的所有怪物處於同一輪次，所以時序值跟蹤器不會單獨展示每一隻怪物的行動順序。"
-
-
-
 
 compendium_negativeconditions_1,"某些能力可能對其目標附加效果。這些效果會持續存在， 直到滿足移除其效果的條件時，效果被移除。這些效果自身不會疊加， 但是可以在效果消失後重新附加。
 
@@ -1648,20 +1616,15 @@ compendium_negativeconditions_1,"某些能力可能對其目標附加效果。�
 compendium_negativeconditions_2,<b>中毒：</b>如果目標中毒，所有敵人都會在攻擊目標時+1 <b>攻擊</b>。如果對中毒目標使用了<b>治療</b>能力，則移除中毒狀態，但不恢復任何生命值（譯注：中毒狀態對玩家威脅很高）。
 compendium_negativeconditions_3,<b>流血：</b>如果目標流血，它在每個輪次的開始時會遭受一點傷害。如果對受傷的目標使用了<b>治療</b>技能，則移除流血狀態，並且正常獲得<b>治療</b>。如果目標中毒並流血，則一個 <b>治療</b>技能將同時去除這兩個狀態但不會恢復生命。
 compendium_negativeconditions_4,<b>定身：</b>如果目標被定身，它不能在行動時執行任何<b>移動</b>技能。在目標的下一輪次結束時，解除定身。
-compendium_negativeconditions_5,<b>繳械：</b>如果目標被繳械，他不能在行動時執行任何<b>攻擊</b>能力。在目標的下一輪次結束時，解除繳械（譯注：可移動的遠程攻擊怪物或召喚物在被繳械時會向敵方靠近）。
+compendium_negativeconditions_5,<b>繳械：</b>如果目標被繳械，他不能在行動時執行任何<b>攻擊</b>能力。在目標的下一輪次結束時，解除繳械（譯注：可移動的遠程進攻怪物或召喚物在被繳械時會向敵方靠近）。
 compendium_negativeconditions_6,<b>擊暈：</b>如果目標被擊暈， 它不能執行任何技能或在其輪次時使用物品（但玩家可以正常結算長休息）。在目標的下一輪次結束時， 解除眩暈。玩家仍然必須在擊暈時選擇兩張牌或休息， 如果玩家在擊暈時打出兩張牌， 則不能執行所選的技能， 並且只需丟棄卡片.
-compendium_negativeconditions_7,<b>混亂：</b>如果目標混亂了，它在其所有<b>攻擊</b>中獲得<b>劣勢</b>。在目標的下一輪次結束時，解除混亂（譯注：混亂狀態下，遠距進攻的怪物或召喚物不會離開與自己相鄰的敵人）。
+compendium_negativeconditions_7,<b>混亂：</b>如果目標混亂了，它在其所有<b>攻擊</b>中獲得<b>劣勢</b>。在目標的下一輪次結束時，解除混亂（譯注：混亂狀態下，遠程進攻的怪物或召喚物不會離開與自己相鄰的敵人）。
 compendium_negativeconditions_title,負面效果
 
 
 compendium_positiveconditions_1,以下是正面效果。角色和怪物可以通過特定行動向自己或盟友附加正面效果。正面效果不會過早地失效。
 compendium_positiveconditions_2,<b>強化：</b>如果目標被強化，它會在其執行的所有攻擊中獲得<b>優勢</b>。在目標的下一輪次結束時，強化失效。
-compendium_positiveconditions_3,<b>隱身：</b>如果角色或怪物是隱身的，則它不能被敵人專注或成為目標。隱身不會影響角色或怪物與他們的盟友的互動。在隱身者的下一輪次結束時，隱身失效。怪物和被召喚物可以治療隱身的盟友，認為隱身的敵人是障礙。
-
-
-
-
-compendium_section_monsterbehaviour,怪物行為
+compendium_positiveconditions_3,<b>隱身：</b>如果單位是隱身的，則它不能被敵人專注或成為目標。隱身不會影響單位與他們的盟友的互動。在隱身者的下一輪次結束時，隱身失效。怪物和被召喚物可以治療隱身的盟友，認為隱身的敵人是障礙。
 
 
 
@@ -5250,10 +5213,10 @@ gui_notification_waiting_players_join,"<color=#92BF6E>等待玩家加入！</col
 gui_notification_waiting_players_joining,新玩家目前正在加入遊戲。
 gui_objective_activate_pressureplate_x_lose,如果你佔據{0}塊壓力板，則失敗
 gui_objective_activate_pressureplate_x_win,佔據{0}塊壓力板獲勝
-gui_objective_activate_x_spawners_lose,如果{0}個怪物出生地被啟動，則失敗
-gui_objective_activate_x_spawners_win,啟動{0}個怪物出生地勝利
-gui_objective_deactivate_x_spawners_lose,如果{0}個怪物出生地被摧毀，則失敗
-gui_objective_deactivate_x_spawners_win,摧毀{0}個怪物出生地勝利
+gui_objective_activate_x_spawners_lose,如果{0}隻怪物出生地被啟動，則失敗
+gui_objective_activate_x_spawners_win,啟動{0}隻怪物出生地勝利
+gui_objective_deactivate_x_spawners_lose,如果{0}隻怪物出生地被摧毀，則失敗
+gui_objective_deactivate_x_spawners_win,摧毀{0}隻怪物出生地勝利
 gui_objective_deal_x_damage_lose,如果造成{0}點傷害，則失敗
 gui_objective_deal_x_damage_lose_filtered,如果{1}遭受{0}點傷害，則失敗
 gui_objective_deal_x_damage_win,造成{0}點傷害勝利
@@ -5773,7 +5736,7 @@ item_frigidblade,在你進行近戰進攻時，<sprite name=ConsumeIce>並對你
 item_fueledfalchion,在你對單個目標使用近戰進攻時，該攻擊目標以及所有與其相鄰的敵人損失1點生命值。
 item_giantremotespider,在你的行動輪中，執行一次<nobr>“拾取<sprite name=Loot>1”</nobr> 。
 item_halberd,在你執行單一目標的近戰進攻行動時，你可以攻擊兩格以內的任意一個敵人。
-item_hawkhelm,當你進行遠距進攻時，對你的整個攻擊行動輪附加<nobr>+1射程<sprite name=Range></nobr>。
+item_hawkhelm,當你進行遠程進攻時，對你的整個攻擊行動輪附加<nobr>+1射程<sprite name=Range></nobr>。
 item_heartofthebetrayer,在你的行動輪中，強迫一個<nobr>射程範圍<sprite name=Range> 3以內</nobr>的敵人執行一次<nobr>進攻<sprite name=Attack>+0</nobr>，<nobr>射程範圍<sprite name=Range>+0</nobr>行動，由你操控整個行動。
 item_heatershield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>1</nobr>。
 item_heavybasinet,你免疫擊暈<sprite name=Stun>和混亂<sprite name=Muddle>
@@ -5781,7 +5744,7 @@ item_heavygreaves,你免疫所有由敵人和劇本機制所造成的強制移�
 item_helixring,在你的行動輪中，<sprite name=ConsumeLight><sprite name=ConsumeDark>並執行一次<nobr>“治療<sprite name=Heal>25，自身”</nobr>。
 item_helmofthemountain,當你受到攻擊時，如果<sprite name=Earth>處於強烈，則對攻擊者施加<sprite name=Immobilize>。
 item_hidearmor,在下兩次受到以你為攻擊目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
-item_hookedchain,當你進行遠距進攻時，對你的整個攻擊行動附加<nobr>拉近<sprite name=Pull>2</nobr>。
+item_hookedchain,當你進行遠程進攻時，對你的整個攻擊行動附加<nobr>拉近<sprite name=Pull>2</nobr>。
 item_hornedhelm,若在你自己的行動輪中移動了4個或者更多格子，對你此行動輪的下一次近戰進攻附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_infernoblade,在你進行近戰進攻時，<sprite name=ConsumeFire>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_ironhelmet,當你受到攻擊時，將敵人抽到的任何x2攻擊修正卡牌視為其抽到了一張+0攻擊修正卡牌。
@@ -5940,7 +5903,7 @@ item_occultdagger,在你攻擊收割者時，獲得<nobr>穿透<sprite name=Pier
 item_orbofdawn,在你的行動輪中，消耗<nobr>暗元素<sprite name=ConsumeDark>並充能<nobr>光元素<sprite name=Light>。
 item_orboftwilight,在你的行動輪中，消耗<nobr>光元素<sprite name=ConsumeLight></nobr>並充能<nobr>暗元素<sprite name=Dark></nobr>。
 item_pendantofdarkpacts,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>自身2個已消耗<sprite name=InvSmallItem>道具。獲得<nobr>詛咒<sprite name=Curse></nobr>。
-item_piercingbow,在你進行遠距進攻時，你的所有攻擊均忽略護甲值。
+item_piercingbow,在你進行遠程進攻時，你的所有攻擊均忽略護甲值。
 item_platemail,在下五次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_poisondagger,在你進行近戰進攻時，對你的單次攻擊附加<nobr>中毒<sprite name=Poison></nobr>。
 item_powercore,Item_PowerCore PLACEHOLDER
@@ -5954,7 +5917,7 @@ item_ringofskulls,召喚骷髏
 item_robesofevocation,在你進行攻擊時，<sprite name=ConsumeAny>並對你的整個攻擊行動輪攻擊附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_robesofsummoning,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>2，目標為召喚物夥伴”。
 item_rocketboots,在你執行移動行動時，對你的一次移動附加<nobr>+3移動力<sprite name=Move></nobr>和<nobr>跳躍<sprite name=Jump></nobr>。
-item_sacrificialrobes,在你進行遠距進攻時，損失3點生命值並對整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
+item_sacrificialrobes,在你進行遠程進攻時，損失3點生命值並對整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_scrollofhealing,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>3，<nobr></nobr>範圍<sprite name=Range>5”</nobr>。
 item_scrollofpower,在一個盟友進行攻擊時，對其整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_scrollofstamina,在你的行動輪中，<nobr>範圍<sprite name=Range>5</nobr>以內的一名盟友可以<nobr>回收<sprite name=Recover></nobr>至多2張在其棄牌堆裡的卡牌。
@@ -5969,9 +5932,9 @@ item_sphereofmidnight,在你的行動輪結束時，如果與無瑕者相鄰，�
 item_spikedshield,當你因為<nobr>攻擊</nobr>而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>復仇<sprite name=Retaliate>2</nobr>。
 item_splintmail,在下四次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_staffofelements,在你的行動輪中，生成任意一個元素。
-item_staffofeminence,當你進行遠距進攻時，<sprite name=ConsumeAny>並對你的整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
+item_staffofeminence,當你進行遠程進攻時，<sprite name=ConsumeAny>並對你的整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_staffofsummoning,在你的行動輪中，操控<nobr>範圍<sprite name=Range>3以內</nobr>的一個召喚物夥伴執行一次“<nobr>移動/移動力<sprite name=Move>3</nobr>”。
-item_staffofxorn,當你進行遠距進攻時，對你的整個攻擊行動附加<nobr>中毒<sprite name=Poison></nobr>和<nobr>混亂<sprite name=Muddle></nobr>。
+item_staffofxorn,當你進行遠程進攻時，對你的整個攻擊行動附加<nobr>中毒<sprite name=Poison></nobr>和<nobr>混亂<sprite name=Muddle></nobr>。
 item_starearring,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>所有你已使用的道具，執行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”，並<nobr>回收<sprite name=Recover></nobr>至多2張在你棄牌堆裡的卡牌。
 item_steamarmor,在下五次受到以你為目標所造成的傷害時，獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_steelring,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>4</nobr>。
@@ -5982,14 +5945,14 @@ item_stunpowder,在你進行近戰進攻時，對你的單次攻擊附加<nobr>�
 item_sunearring,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>所有你已使用的道具並執行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”。
 item_superhealingpotion,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>7，</nobr>自身”。
 item_swordedgearmor,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>復仇<sprite name=Retaliate>1。</nobr>
-item_telescopiclens,當你進行遠距進攻時，對你的整個攻擊行動輪附加<nobr>+2射程<sprite name=Range></nobr>。
+item_telescopiclens,當你進行遠程進攻時，對你的整個攻擊行動輪附加<nobr>+2射程<sprite name=Range></nobr>。
 item_thiefshood,當你執行<nobr>“拾取<sprite name=Loot>1”</nobr>時，改為執行一次<nobr>“拾取<sprite name=Loot>2”</nobr>。
 item_towershield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>2</nobr>。
 item_tremorblade,在你進行近戰進攻時，<sprite name=ConsumeEarth>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_unstableexplosives_1,在你對單個目標使用近戰進攻時，將攻擊改為執行以下步驟：
 item_unstableexplosives_2,所有位於攻擊區域的盟友損失3點生命值。
 item_versatiledagger,當你使用技能卡上半部分的預設行動時，將<nobr>“進攻<sprite name=Attack>2”</nobr>改為<nobr>“進攻<sprite name=Attack>3”</nobr>。
-item_volatilebomb,在你對單個目標使用遠距進攻時，將攻擊改為執行以下步驟：
+item_volatilebomb,在你對單個目標使用遠程進攻時，將攻擊改為執行以下步驟：
 item_wallshield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>4</nobr>。
 item_wandofbrilliance,在你的行動輪中，生成光元素。
 item_wandofdarkness,在你的行動輪中，生成暗元素。
@@ -5999,7 +5962,7 @@ item_wandofstorms,在你的行動輪中，生成氣元素。
 item_wandoftremors,在你的行動輪中，生成土元素。
 item_warhammer,在你進行近戰進攻時，對你的整個攻擊行動輪附加<nobr>擊暈<sprite name=Stun></nobr>。
 item_wavecrest,當你受到攻擊時，如果<sprite name=Ice>處於強烈，對攻擊者執行一次“強推<sprite name=Push>2”。
-item_weightednet,當你進行遠距進攻時，對你的單次攻擊附加<nobr>禁足<sprite name=Immobilize></nobr>•。
+item_weightednet,當你進行遠程進攻時，對你的單次攻擊附加<nobr>禁足<sprite name=Immobilize></nobr>•。
 item_wingedshoes,在你執行移動行動時，對你的整個移動行動輪附加<nobr>跳躍<sprite name=Jump></nobr>。
 jadefalcon,玉鷹
 
@@ -6040,7 +6003,7 @@ loading_tip_019,公會模式的旅行和職業任務等級將會隨著遊戲的�
 loading_tip_020,不是所有通關劇本的方式都是消滅所有敵人——請務必檢查你的劇本目標。
 loading_tip_021,召喚夥伴很有用，但它們往往比較莽撞 —— 若想讓它們活下來，就得幫它們吸引火力！
 loading_tip_022,如果你不確定你將行動得過早還是過晚，請考慮挑選兩張不管行動早晚都能發揮效用的牌。
-loading_tip_023,觀察敵人的移動並瞭解他們的牌堆和技能。一些怪物移動一直很快，另一些相反，這是能讓你在攻擊中保持優勢的資訊。
+loading_tip_023,觀察敵人的移動並瞭解他們的牌堆和技能。一些怪物前進一直很快，另一些相反，這是能讓你在攻擊中保持優勢的資訊。
 loading_tip_024,你可以按住L來查看人物的視野範圍。
 loading_tip_025,在角色的每個輪次中，所選卡牌的每個半區是一個行動，每個行動可以由一個或多個小技能組成。
 loading_tip_026,具有指定類型的行動意味著行動中至少有一個小技能屬於該類型。例如，“移動行動”包含至少一個移動技能。
@@ -6058,7 +6021,7 @@ loading_tip_037,隱身<sprite name=Invisible>的單位不會被視為目標，�
 loading_tip_038,隱身<sprite name=Invisible>的單位們依然會受到非指向性（不指定目標）技能的傷害。隱身不影響與盟友的互動。
 loading_tip_039,強化<sprite name=Strengthen> 可以使某單位直到其下一個行動輪結束時在他所有的攻擊中都處於優勢。
 loading_tip_040,祝福<sprite name=Bless>=可以將一張祝福 (x2) 加入目標對應的攻擊修正牌堆。當此牌被抽取後，此次攻擊將造成雙倍傷害，並且這張祝福(x2)卡從攻擊修正牌堆中移除。
-loading_tip_041,怪物們共用一個攻擊修正牌堆，所以如果一個怪物被詛咒或者祝福，其他的怪物也會受到影響！
+loading_tip_041,怪物們共用一個攻擊修正牌堆，所以如果一隻怪物被詛咒或者祝福，其他的怪物也會受到影響！
 loading_tip_042,注意，移除負面狀態的技能或者物品（例如醫療藥劑）不能從攻擊修正卡牌堆裡移除詛咒卡。
 loading_tip_043,詛咒卡有10張的上限，此規則分別適用於傭兵的攻擊修正牌堆和怪物的攻擊修正牌堆。試圖向任一攻擊修正牌堆添加第11張詛咒卡，都是無效的！
 loading_tip_044,所有的攻擊修正牌堆有一個共用的祝福卡牌堆上限（10張）。當場上的祝福卡達到10張上限，試圖向任一攻擊修正牌堆添加第11張祝福卡，都是無效的！
@@ -6618,7 +6581,7 @@ millpond,磨塘地
 minderer,減壓器
 mindthief,竊靈劍師
 mindthief_adventure_description,"竊靈劍師通過使用精神攻擊、鋒利的刀片和鼠群的小牙齒來成為可怕的對手。
-有一個獨特的角色特效賦能攻擊系統，允許她為她所有的近戰進攻添加賦能特效，成長之後她的一些遠距進攻也擁有賦能特效。 她還可以控制敵人和召喚小兵，因而做到許多的玩法可能。 敬請注意她較少的生命值。"
+有一個獨特的角色特效賦能攻擊系統，允許她為她所有的近戰進攻添加賦能特效，成長之後她的一些遠程進攻也擁有賦能特效。 她還可以控制敵人和召喚小兵，因而做到許多的玩法可能。 敬請注意她較少的生命值。"
 mindthief_description,竊靈劍師通過使用精神攻擊、鋒利的刀片和鼠群的小牙齒來成為可怕的對手。
 mindthief_difficulty,高
 mindthief_role,近戰輸出
@@ -7846,7 +7809,7 @@ quest_campaign_045_intro,"你們聽從惡魔領主的命令前往徘徊沼澤，
 quest_campaign_045_list,粉碎叛亂
 quest_campaign_045_name,叛軍沼澤
 quest_campaign_045_scenario_modifier_1,所有角色以2張額外的 -1 攻擊修正卡牌開始劇本
-quest_campaign_045_scenario_modifier_2,在每個怪物的行動輪開始時，如果其距離兩個格子以內有圖騰的話，那麼怪物會執行一個“<nobr>治療<sprite name=Heal>2</nobr>，自身”的行動。
+quest_campaign_045_scenario_modifier_2,在每隻怪物的行動輪開始時，如果其距離兩個格子以內有圖騰的話，那麼怪物會執行一個“<nobr>治療<sprite name=Heal>2</nobr>，自身”的行動。
 quest_campaign_046_desc,確保銅頸山脈峰頂擺脫邪惡控制
 quest_campaign_046_intro,突然間一陣撕心裂肺的尖叫聲從山頂傳來。你們迅速蹲下，斜視著山頂的陰影。無數暗影在山頂扭動著亂竄，仿佛整座山都活過來了一般。你們眯起雙眼，這才注意到這些扭動的陰影正在朝你們沖來。看來你們已經被發現了。你們抓緊了武器，準備殺出一條通往山頂的血路。
 quest_campaign_046_intro_travel_1,在寒冰祭壇被摧毀後，剩餘的道路變得十分容易攀登。你們一邊觀賞著山下的鄉野美景一邊趕路。但周邊的光景突然暗了下來，可現在才到正午時分。
@@ -8651,12 +8614,12 @@ quest_relic_ringofskulls_unlock_2,許多邪教徒們都戴著調和他們生命�
 quest_relic_ringofskulls_unlock_3,在這裡，你們可以找個屬於自己的戒指。
 quest_relic_sacrificialrobes_complete_1,所以，這個斗篷，是用個前強盜“做”出來的？至少聞起來很像。
 quest_relic_sacrificialrobes_complete_2,最好別想太多...但是也得小心謹慎。看起來它並不能有效保護自己的主人，不過很快我覺得邪教徒們也不會在乎這個。
-quest_relic_sacrificialrobes_desc,也許一堆邪教徒們創造了一件可以輔助遠距進攻的道具。
+quest_relic_sacrificialrobes_desc,也許一堆邪教徒們創造了一件可以輔助遠程進攻的道具。
 quest_relic_sacrificialrobes_intro,從隱居地的基地出發，你們向南進入叢林。你們熟知弓箭手們特別擅長佈設陷阱，所以你們步步為營緩慢推進。落日西沉，你們發現了一片丟滿弓箭手裝備的空地。空地邊上有一座奇怪的建築物，你還能看到區域內的邪教徒和弓箭手們。就是這地方了。
 quest_relic_sacrificialrobes_list,調查邪教徒們和弓箭手在一起做什麼。
 quest_relic_sacrificialrobes_name,獵者終被獵
-quest_relic_sacrificialrobes_unlock_1,看起來你你們直在有效率地使用遠距進攻，我們已經確定了一個可能會幫上你的遺物的位置。
-quest_relic_sacrificialrobes_unlock_2,我聽聞一群邪教徒們曾經招募過一批強盜弓箭手，並且試圖用附魔的衣服增強他們的遠距進攻。
+quest_relic_sacrificialrobes_unlock_1,看起來你你們直在有效率地使用遠程進攻，我們已經確定了一個可能會幫上你的遺物的位置。
+quest_relic_sacrificialrobes_unlock_2,我聽聞一群邪教徒們曾經招募過一批強盜弓箭手，並且試圖用附魔的衣服增強他們的遠程進攻。
 quest_relic_sacrificialrobes_unlock_3,聽起來很值得去看看，我會標在你們的地圖上。
 quest_relic_secondskin_complete_1,好吧，令人不快...
 quest_relic_secondskin_complete_2,煉魔族會很樂意拿回這個原型，並設法複製其初始設計。
@@ -9213,7 +9176,7 @@ quest_travel_themarches_intro,"在你從惡魔閘口鎮往北出發後，一路�
 進入這些灌木叢，你聽到狼的嗥叫聲飄散在風裡，還有奇怪的、尖銳的咕嚕聲催促著狼群前進。這些傢伙好像聞到了你的氣味。你做好了戰鬥準備。"
 quest_travel_themarches_list,解鎖行軍地的貿易路線
 quest_travel_themarches_name,向北行軍
-quest_travel_thepyre_desc,居住在南方人類堡壘的最後一批守衛帶著有亡靈和怪物攻擊他們的流言逃來了。是時候調查了。
+quest_travel_thepyre_desc,居住在南方人類堡壘的最後一批守衛帶著有亡靈和怪物進攻他們的流言逃來了。是時候調查了。
 quest_travel_thepyre_intro,火州城是過去300年來人類所建造的堡壘，它標誌著人類在南方的進展。幾年前這裡還有人居住，但現在人們都把這座城市與鬼故事聯繫在一起。你在沙暴中到達了火州城。這裡空無一人，但你感覺不到任何不對勁的地方。風越刮越猛，你只好躲入地下，在一座古老的墳墓裡紮營。你在半夜突然被骨頭的劈啪聲驚醒，但還有更令人不安的東西：鎖鏈的哢嗒聲。
 quest_travel_thepyre_list,調查關於火州城中沙漠幽靈的報告
 quest_travel_thepyre_name,憤怒的燈神
@@ -9315,7 +9278,7 @@ sawbones_role,近戰輸出/輔助
 sawbones_strengths,"- <indent=%15>效果拔群的治療師</indent>
 - <indent=%15>擁有一個合理的近戰輸出 </indent>
 - <indent=%15>醫療包也可以增加盟友的卡牌數量</indent>"
-sawbones_weaknesses,"- <indent=%15>非常可憐的遠程攻擊輸出</indent>
+sawbones_weaknesses,"- <indent=%15>非常可憐的遠程進攻輸出</indent>
 - <indent=%15>盟友越少越弱，盟友的生命值上限不高時得不到充分發揮</indent>
 - <indent=%15>作為一個醫生，不能很好地理解醫療衛生</indent>"
 scabwitdialogname,斯甘威
@@ -10188,7 +10151,7 @@ scenario_job_vermling_cave_sm2_desc,所有敵人開始時處於中毒和流血�
 scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附近的地穴
 
 
-scenario_puzzle_2b_06,她非常敏捷還是遠距進攻，你需要快速行動來接近她 ——別忘了用上靴子！
+scenario_puzzle_2b_06,她非常敏捷還是遠程進攻，你需要快速行動來接近她 ——別忘了用上靴子！
 scenario_puzzle_2b_07,"這裡的關鍵是越過那些陷阱，因此你需要利用帶有<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b><sprite name=Jump></link>效果的<link=""Glossary_Move""><b><color=#1F9EDC>移動</color></b><sprite name=Move></link>來避免傷害。"
 scenario_puzzle_2b_08,"你做到了！你不僅是造成了可觀的傷害，更得益於你用<b><font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷</color></font></b>施加的<link=""Glossary_Disarm""><b><color=#1F9EDC>繳械</color></b><sprite name=Disarm></link>狀態，使得<b><color=#C53F3F>弓箭手</color></b>在她的行動輪中無法進行攻擊。"
 scenario_puzzle_2b_09,"現在她的生命值不多了，你應該能夠給她致命一擊。你本輪的目標為：
@@ -10238,7 +10201,7 @@ scenario_puzzle_2d_03,"在本場訓練關中，<b><color=#C53F3F>弓箭手</colo
 scenario_puzzle_2d_04,"<link=""Glossary_Range"">遠程</link><link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>在攻擊一個相鄰格子裡的目標時會處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>。這會導致攻擊方抽取兩張攻擊修正卡牌而不是抽一張，然後採用更差的那張。
 
 因為這些<b><color=#C53F3F>弓箭手</color></b>只剩兩張攻擊修正卡牌了，如果他們攻擊時處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態，他們會把兩張都抽出來並且被迫選擇<b><color=#A050E0> x0 </color></b>而不是<b><color=#D92727> x2 </color></b>作為較差的結果來進行結算，也就是說造成0點傷害！當你在生命條旁邊看到閃爍的紫色符號時<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態就會生效。"
-scenario_puzzle_2d_05,"現在你只能讓一名<b><color=#C53F3F>弓箭手</color></b>處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態，所以你還需要用遠距進攻把另一個殺死。這應該不難，因為我在<b><color=#A06E4B>蠻徒</color></b>的攻擊修正卡池裡面塞滿了<b><color=orange> +1 </color></b>攻擊修正卡牌。
+scenario_puzzle_2d_05,"現在你只能讓一名<b><color=#C53F3F>弓箭手</color></b>處於<link=""Glossary_Disadvantage""><b><color=#FADC99>劣勢</color></b></link>狀態，所以你還需要用遠程進攻把另一個殺死。這應該不難，因為我在<b><color=#A06E4B>蠻徒</color></b>的攻擊修正卡池裡面塞滿了<b><color=orange> +1 </color></b>攻擊修正卡牌。
 
 你的目標為：
 <line-height=20%>
@@ -10261,7 +10224,7 @@ scenario_puzzle_2d_obj_02,殺死剩餘的弓箭手
 scenario_puzzle_2d_obj_03,在本回合中拾取寶箱
 scenario_puzzle_3a_01,"讓我們來仔細看看每個角色分別能夠做些什麼。在這個劇本中，<b>蠻徒</b>要面對兩個<b> 1 </b>級的<b>骷髏精英</b> —意味著它們的屬性相比<b> 0 </b>級時更高一些。
 
-在回合開始時你看到的揭露出來的“怪物技能卡”由那個怪物的種類和從對應種類的怪物技能牌堆中抽出的基本技能卡共同決定。因此，有時候它們能夠移動的更遠或者獲得更高的攻擊力，更別說這兩個骷髏還是<link=""Glossary_Elite""><b>精英</b></link>級別的了！"
+在回合開始時你看到的揭露出來的“怪物技能卡”由那隻怪物的種類和從對應種類的怪物技能牌堆中抽出的基本技能卡共同決定。因此，有時候它們能夠移動的更遠或者獲得更高的攻擊力，更別說這兩個骷髏還是<link=""Glossary_Elite""><b>精英</b></link>級別的了！"
 scenario_puzzle_3a_02,"注意它們有一個先天的<b><link=""Glossary_Shield"">護盾</link></b><b> 1 </b>效果，用<sprite name=Shield>圖示來顯示。每一點<b><link=""Glossary_Shield"">護盾</link></b>效果可以阻擋一點來自於攻擊的傷害。
 
 然而，當使用帶有<b><link=""Glossary_Pierce"">穿透</link></b><sprite name=Pierce>效果的攻擊時可以忽略<b><link=""Glossary_Shield"">護盾</link></b>的部分效果。"
@@ -10504,9 +10467,9 @@ scenario_relic_sacrificialrobes_room_2_1,所以這就是他們的偉大計畫？
 scenario_relic_sacrificialrobes_room_2_2,並且看上去，弓箭手在此事中似乎沒什麼話語權。
 scenario_relic_sacrificialrobes_room_3_1,那邊似乎有一件沒穿過的衣物，咱們該拿上它了。
 scenario_relic_sacrificialrobes_room_3_2,為了治癒研究
-scenario_relic_sacrificialrobes_sm1_desc,所有角色遠程攻擊附加<nobr>+1 攻擊力 <sprite name=Attack></nobr>
+scenario_relic_sacrificialrobes_sm1_desc,所有角色遠程進攻附加<nobr>+1 攻擊力 <sprite name=Attack></nobr>
 scenario_relic_sacrificialrobes_start_1,你得進來看看這裡面發生了什麼，這一切看起來很可疑...土匪為什麼會和邪教徒合作？
-scenario_relic_sacrificialrobes_start_2,事實上，我注意到在這個區域裡有個魔法光環會讓遠程攻擊變得更加致命，這是...？
+scenario_relic_sacrificialrobes_start_2,事實上，我注意到在這個區域裡有個魔法光環會讓遠程進攻變得更加致命，這是...？
 scenario_relic_sacrificialrobes_success_1,幹得好，斗篷是我們的了！
 scenario_relic_secondskin_room_2_1,消滅他們，別讓他們跑了！
 scenario_relic_secondskin_room_2_2,他似乎忘了提到他的商業夥伴是一個巢靈族！
@@ -10905,8 +10868,8 @@ scenario_story_soothsinger_3_start_4,殺死所有其他人，只有那個邪教�
 scenario_story_soothsinger_3_success_1,隨著不死族和惡魔們死了，你發現一個藏在桌子下面的邪教徒，現在該審問他了。
 scenario_story_soothsinger_3_win_objective,殺死除了那個邪教徒之外的所有敵人
 scenario_story_soothsinger_character_fail_objective,如果暢歌者精疲力竭，則失敗
-scenario_story_spellweaver_1_sm1_desc,織魔師在遠程攻擊時獲得<nobr>+1 進攻<sprite name=Attack></nobr>
-scenario_story_spellweaver_1_sm2_desc,叢林小惡魔在遠程攻擊中獲得<nobr>+1 進攻<sprite name=Attack></nobr>
+scenario_story_spellweaver_1_sm1_desc,織魔師在遠程進攻時獲得<nobr>+1 進攻<sprite name=Attack></nobr>
+scenario_story_spellweaver_1_sm2_desc,叢林小惡魔在遠程進攻中獲得<nobr>+1 進攻<sprite name=Attack></nobr>
 scenario_story_spellweaver_1_sm3_desc,在每個回合的開始時將冰元素移至強烈。
 scenario_story_spellweaver_1_start_1,由於這些小妖們在周圍，你沒辦法調查該區域。你必須要趕走他們。
 scenario_story_spellweaver_1_start_2,此外，場面上似乎無論是你的還是他們的攻擊都變得更危險了。
@@ -11667,7 +11630,7 @@ tinkerer_weaknesses,"- <indent=%15>身板非常脆</indent>
 to,對於
 to_allattacks,對所有攻擊
 to_allmeleeattacks,對所有近戰進攻
-to_allrangedattacks,對所有遠程攻擊
+to_allrangedattacks,對所有遠程進攻
 toadmoor,蟾鳴地
 town_records_firstretirement_1,“這麼說，你們想為所有在黯淡港灣退休的傭兵建一個資料庫？”一位蓄有鬍鬚的瘦小男子愁眉苦臉地問道，“在我看來你們還真是有些自大，不過我記得在某個書架上我還有多餘的記錄本。”
 town_records_firstretirement_10,“圍牆和守衛它的士兵總是不可或缺的。出於這個原因，人類文明在軍方的統治下逐漸成長與發展。那些在戰場上獲得豐功偉績的人位居社會高位，而他們只著眼於確保人類社會不受其他種族的入侵。”
