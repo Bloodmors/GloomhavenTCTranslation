@@ -1,9 +1,7 @@
-﻿Key,Tranditional Chinese [zh-TC]
-002_t,<nobr>本回合</nobr>每進行一次復仇獲得<sprite name=XP1>。
+﻿002_t,<nobr>本回合</nobr>每進行一次復仇獲得<sprite name=XP1>。
 004_b,本回合中，任何指定一個相鄰盟友的攻擊的目標改為你，無視攻擊範圍。
 007_b,在接下來的6次指定你為目標的攻擊中，獲得<nobr>護盾<sprite name=Shield> *BShield*。</nobr>
 013_b,<nobr>本回合，</nobr>你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack>。</nobr>
-
 016_b,如果你的移動路徑為一條直線，執行
 022_t,消滅一個與你相鄰的被<nobr>擊暈<sprite name=Stun></nobr>的普通級別敵人。
 023_b,你可以將所有的<nobr>前進<sprite name=Move></nobr>能力轉化為等值的<nobr>進攻<sprite name=Attack></nobr>行動。
@@ -397,9 +395,15 @@
 738,在目標相鄰的一個空格子上召喚一個普通級別深淵的恐怖。
 741,石魔偶損失*Damage1*點生命值。
 744,石魔偶損失*Damage2*點生命值。
+============================================================================
+============================================================================
+============================================================================
 abandonedcatacombs,廢棄的地下墓穴
 abandonedfarm,廢棄農場
 abandonedfarm_descr,一個廢棄的農場就位於通往奇波特港的大道旁邊。 林煙的氣味在這裡縈繞，大部分的屋頂已經坍塌，但仍有一些房間可以住一晚。
+============================================================================
+============================================================================
+============================================================================
 ability_card_acceleratedend,終幕臨近
 
 ability_card_airbornetoxin,毒雲
@@ -848,7 +852,9 @@ ability_card_wistfulwounding,渴望傷害
 ability_card_witheringclaw,凋零之爪
 ability_card_wretchedcreature,可悲的造物
 ability_card_wretchedswarm,驚駭蟲群
-
+============================================================================
+============================================================================
+============================================================================
 add,增加
 addaugment,增加角色特效賦能
 addheal,增加回血量
@@ -856,7 +862,9 @@ addrange,增加射程
 addsong,額外的戰歌容量
 addtarget,增加目標數
 adjacentalliesandenemies2damage,在目標旁邊的所有敵軍和盟友受到2點傷害。
-
+============================================================================
+============================================================================
+============================================================================
 adventure_achievement_1_1_beasttyrantreachlevel2,德魯伊
 adventure_achievement_1_1_beasttyrantreachlevel2_desc,獸王達到2級
 adventure_achievement_1_1_berserkerreachlevel2,野蠻人
@@ -1245,6 +1253,9 @@ adventure_achievement_tinkerer_2,修理時刻
 adventure_achievement_tinkerer_2_desc,機匠使用30次造成負面狀態的技能
 adventure_achievement_tinkerer_3,亡者歸來
 adventure_achievement_tinkerer_3_desc,機匠使用20次回收燒祭卡牌或回收棄牌堆卡牌的技能
+============================================================================
+============================================================================
+============================================================================
 affect_alladjacentallies,作用於所有相鄰的盟友
 affect_alladjacentsummonedallies,作用於所有相鄰的召喚物夥伴
 affect_allallies,作用于所有盟友
@@ -1289,6 +1300,9 @@ banditcommander,強盜指揮官
 
 battleboar,豪豬
 battlebot,戰鬥機器
+============================================================================
+============================================================================
+============================================================================
 battlegoal_agressor,侵略者
 battlegoal_agressor_desc,在當前劇本中的每一回合開始時場上都有怪物存活。
 battlegoal_diehard,堅若磐石
@@ -1337,6 +1351,9 @@ battlegoal_workhorse,博學多才
 battlegoal_workhorse_desc,在當前劇本中獲得13點或以上的經驗。
 battlegoal_zealot,狂戰士
 battlegoal_zealot_desc,在當前劇本結束時，手牌加上棄牌堆裡的卡牌的數量小於等於三張。
+============================================================================
+============================================================================
+============================================================================
 beartrap,陷阱
 beasttyrant,獸王
 beasttyrant_adventure_description,超越他們基本本能的魔鼠發現，如果在荒野中的野獸身上應用他們的意念，他們會受益多多。獸王們可以聚集帶著尖牙、獸爪和禽爪的驚人的軍隊，這讓他們在戰鬥中成為強大的對手
@@ -1409,6 +1426,9 @@ brute_weaknesses,"- <indent=%15>較低的機動性</indent>
 burnedtavern,燃燒酒館
 burnedtavern_descr,舊酒館的遺跡見證了那些快樂的時光。近年來，強盜們的掠奪以及對著南邊的石化森林裡那些不堪提及的生物窺視的視線使酒館業主們望而卻步。標牌“快樂灶爐”在微風中淒涼地吱吱作響。
 burningavatar,燃燒幻象
+============================================================================
+============================================================================
+============================================================================
 campaign_achievement_townrecords_chapter_01,章節 1
 campaign_achievement_townrecords_chapter_01_complete,章節文本
 campaign_achievement_townrecords_chapter_01_desc,章節 1
@@ -1436,6 +1456,9 @@ campaign_achievement_townrecords_chapter_08_desc,章節 8
 campaign_achievement_townrecords_chapter_09,章節 9
 campaign_achievement_townrecords_chapter_09_complete,章節文本
 campaign_achievement_townrecords_chapter_09_desc,章節 9
+============================================================================
+============================================================================
+============================================================================
 campaign_siegecannon,如果一名弓箭手到達大炮後面的三個格子，它就會開火，傷害所有大炮前面三排格子的雇傭兵和他們的召喚物。
 cancel_button,取消
 captainoftheguard,守衛官
@@ -1443,8 +1466,9 @@ captive,俘虜
 card,卡牌
 
 
-
-
+============================================================================
+============================================================================
+============================================================================
 combat_log_action_skipped,{0}跳過{1}行動
 combat_log_activate_carryable_quest_item,{0}撿起了{1}
 combat_log_activate_chestdamage,{0}打開{1}並受到{2}點傷害
@@ -1539,30 +1563,9 @@ combat_log_unready_player,{0}尚未完成準備
 combat_log_uses,{0}使用{1}
 combat_log_xp,{0}獲得{1}點經驗值
 command,角色特效口令
-
-
-
-
-
-
-
-compendium_attackeffects_1,"攻擊效果會在攻擊結算後附加在目標上。無論相應的攻擊是否造成傷害，都會施加攻擊能力效果。在沒有攻擊的情況下，某些行動也可以使這些攻擊效果作為技能生效，並且在這種情況下，攻擊效果的目標要求會標注在技能卡上。"
-
-compendium_attackeffects_2,"<b>推遠 X:</b>使目標被迫在攻擊者指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更遠離攻擊者。如果沒有可以繼續使目標移動的格子，則無法繼續推遠目標。目標可以在被推遠時通過其盟友所在的格子，但無法通過其敵人所在的格子。
-"
-compendium_attackeffects_3,"<b>拉近 X:</b>使目標被迫在攻擊者指定的路線上進行距離為X個格子的移動，但每格移動必須使目標更接近攻擊者。如果沒有可以繼續使目標移動的格子，則無法繼續拉近目標。目標可以在被拉近時通過其盟友所在的格子，但無法通過其敵人所在的格子。
-"
-compendium_attackeffects_4,"<b>穿刺 X:</b>忽略目標最多X點護盾進行攻擊。與其他效果不同，穿刺會在攻擊造成傷害時進行結算，而不是在攻擊後附加。
-"
-compendium_attackeffects_5,"<b>增加目標:</b>如果角色用攻擊行動觸發增加目標的效果，則角色可以在攻擊範圍內選取額外的目標進行攻擊。攻擊行動本身的所有附加效果和條件也適用於額外選擇的目標（不包含“增加目標”效果本身）。"
-
-
-
-
-compendium_blessandcurse_1,詛咒和祝福與其他效果不同，它們不是持續效果，而是添加額外的攻擊修正卡到目標的修正卡池中。
-compendium_blessandcurse_2,<b>祝福：</b>如果目標被祝福，則將祝福（<b><color=#D92727>x2</color></b>）卡放置到目標的剩餘攻擊修正卡池中。當通過<b>攻擊</b>揭示此卡時，它將從攻擊修正卡池中刪除。
-compendium_blessandcurse_3,<b>詛咒：</b>如果目標被詛咒，則將詛咒（<b><color=#A050E0>x0</color></b>）卡放置到目標的剩餘攻擊修正卡池中。當通過<b>攻擊</b>揭示此卡時，它將從攻擊修正卡池中刪除。
-
+============================================================================
+============================================================================
+============================================================================
 
 
 compendium_consumingelements_1,"可以通過消耗螢幕右側的元素跟蹤器中的強烈或衰弱狀態中的元素（參見<b>充能元素</b>）以在行動卡上增加某些技能或強化某些效果。
@@ -1570,11 +1573,10 @@ compendium_consumingelements_1,"可以通過消耗螢幕右側的元素跟蹤器
 所需消耗的元素由一個或兩個元素符號表示，每個前面帶有箭頭的元素符號表示需要消耗對應的元素才能夠觸發該技能或強化效果。"
 compendium_consumingelements_2,"如果以這種方式消耗了一個元素，則無論該元素的狀態是強烈還是衰弱，都會使其從元素跟蹤器中耗盡，變為惰性狀態。 
 
-對於角色，消耗元素的效果是可選的。通過按一下螢幕底部的消耗元素圖示，可以在確認行動之前的任何時間點選擇使用或取消對應效果，在可以選擇任一元素的情況下，系統將提示你從可用的元素中選擇一個。
+對於角色，消耗元素的效果是可選的。通過點擊螢幕底部的消耗元素圖示，可以在確認行動之前的任何時間點選擇使用或取消對應效果，在可以選擇任一元素的情況下，系統將提示你從可用的元素中選擇一個。
 
 怪物在對應元素可用的情況下始終選擇消耗元素，如果是消耗任一元素，它們會隨機選擇一個可用的元素進行消耗。"
 compendium_consumingelements_title,消耗元素
-
 
 
 compendium_exhaustion,"一個角色會因兩種方式之一而精疲力竭：
@@ -1593,12 +1595,6 @@ compendium_gainingexperience_2,"有時卡牌上會具體說明，僅在滿足某
 
 
 
-compendium_infusingelements_1,一些技能具有與它們相關的元素親和力。如果使用了包含以下元素符號之一的行動，它將在當前角色輪次結束後充能該元素至強烈狀態，在能充能任一元素的情況下，系統將提示你選擇要充能的元素。如果怪物卡具有充能任一元素的效果，則隨機選擇任一元素。
-compendium_infusingelements_2,"螢幕右側的圓圈表示元素的狀態。可以消耗強烈或衰弱狀態的元素，以增加額外的效果和能力（見<b>消費元素</b>）。
-
-當使用具有元素注入效果的技能時，該元素將以注入狀態顯示在元素跟蹤器中。只有在當前角色輪次結束後元素才會充能到戰場上。因此，不能充能元素，然後在同一角色的同一輪次的行動中消耗它 一 但是稍後可以在同一輪的剩餘輪次中被任何單位消耗。在每個回合結束時，強烈的元素變得衰弱，並且衰弱元素變得惰性，惰性狀態下的元素不再可供消耗。"
-compendium_infusingelements_title,元素充能
-
 compendium_itemslots,"當不在場景中時，角色可以在各種庫存槽中裝備道具卡。請注意，角色不能擁有任何完全重複的道具卡。
 
 每個角色只能裝備一個<b>頭部</b>道具，一個<b>軀幹</b>道具，一個<b>腿部</b>道具，最多兩個<b>單手</b>道具<b> <i>或</i></b> 一個<b>雙手</b>道具，和數量不超過角色等級一半(向上取整)的<b>小物品</b>。"
@@ -1606,28 +1602,6 @@ compendium_itemslots_title,裝備槽
 compendium_levellingup_1,在公會模式中，當一個角色具有其升級所需經驗量（在其XP條上指示），並處於地圖選擇頁面時，它們可以升級。
 compendium_levellingup_2,在升級後，他們的最大生命值將會增加，他們可以在每個級別獲得兩張待解鎖的新技能卡並從待解鎖卡牌中選擇一張將其解鎖。此卡會在接下來的旅行中可用。通過解鎖更多的角色技能卡，你可以升級和自訂隊伍角色的技能卡池，調整卡片以更好地互相搭配，或是進行角色之間的協作，這也可以磨煉你的策略。
 compendium_levellingup_title,升級
-
-
-
-compendium_negativeconditions_1,"某些能力可能對其目標附加效果。這些效果會持續存在， 直到滿足移除其效果的條件時，效果被移除。這些效果自身不會疊加， 但是可以在效果消失後重新附加。
-
-
-以下是負面效果. 如果技能包含這些效果之一， 則在應用技能的主要效果之後， 將附加效果到添加到所有被技能影響的目標上。無論攻擊技能是否造成傷害，都會添加負面效果。"
-compendium_negativeconditions_2,<b>中毒：</b>如果目標中毒，所有敵人都會在攻擊目標時+1 <b>攻擊</b>。如果對中毒目標使用了<b>治療</b>能力，則移除中毒狀態，但不恢復任何生命值（譯注：中毒狀態對玩家威脅很高）。
-compendium_negativeconditions_3,<b>流血：</b>如果目標流血，它在每個輪次的開始時會遭受一點傷害。如果對受傷的目標使用了<b>治療</b>技能，則移除流血狀態，並且正常獲得<b>治療</b>。如果目標中毒並流血，則一個 <b>治療</b>技能將同時去除這兩個狀態但不會恢復生命。
-compendium_negativeconditions_4,<b>定身：</b>如果目標被定身，它不能在行動時執行任何<b>移動</b>技能。在目標的下一輪次結束時，解除定身。
-compendium_negativeconditions_5,<b>繳械：</b>如果目標被繳械，他不能在行動時執行任何<b>攻擊</b>能力。在目標的下一輪次結束時，解除繳械（譯注：可移動的遠程進攻怪物或召喚物在被繳械時會向敵方靠近）。
-compendium_negativeconditions_6,<b>擊暈：</b>如果目標被擊暈， 它不能執行任何技能或在其輪次時使用物品（但玩家可以正常結算長休息）。在目標的下一輪次結束時， 解除眩暈。玩家仍然必須在擊暈時選擇兩張牌或休息， 如果玩家在擊暈時打出兩張牌， 則不能執行所選的技能， 並且只需丟棄卡片.
-compendium_negativeconditions_7,<b>混亂：</b>如果目標混亂了，它在其所有<b>攻擊</b>中獲得<b>劣勢</b>。在目標的下一輪次結束時，解除混亂（譯注：混亂狀態下，遠程進攻的怪物或召喚物不會離開與自己相鄰的敵人）。
-compendium_negativeconditions_title,負面效果
-
-
-compendium_positiveconditions_1,以下是正面效果。角色和怪物可以通過特定行動向自己或盟友附加正面效果。正面效果不會過早地失效。
-compendium_positiveconditions_2,<b>強化：</b>如果目標被強化，它會在其執行的所有攻擊中獲得<b>優勢</b>。在目標的下一輪次結束時，強化失效。
-compendium_positiveconditions_3,<b>隱身：</b>如果單位是隱身的，則它不能被敵人專注或成為目標。隱身不會影響單位與他們的盟友的互動。在隱身者的下一輪次結束時，隱身失效。怪物和被召喚物可以治療隱身的盟友，認為隱身的敵人是障礙。
-
-
-
 
 
 compendium_takingdamage,"每當角色即將以任何形式受到傷害時，你都會有三個選項：
@@ -1647,8 +1621,6 @@ compendium_traps,"當一個角色走入或被強制移入陷阱時，陷阱被�
 將游標懸停在一個陷阱上來查看該陷阱效果。角色和怪物還可能通過技能卡在地圖上創建具有特殊效果的陷阱。"
 
 
-
-
 compendium_usingitems_1,"根據裝備卡上標注的條件，在可以使用對應裝備時會顯示使用圖示，你可以通過點擊它們來使用這些裝備。某些裝備只能在被攻擊時使用，並在適用時出現。也有一些裝備，它們可以提供恒定的被動效果，因此不需要啟動就會被使用。
 
 請注意，如果物品會影響攻擊（例如，獲得加成，施加負面效果，獲得優勢等），就可以在攻擊之前使用它 一 也就是在抽取攻擊的攻擊修正卡之前。如果將負面效果添加到攻擊中，它就會在攻擊後被施放到被攻擊者身上。角色在同一時間可以使用的道具數目沒有限制，任何行動都可以使用與之相關聯的道具。
@@ -1659,11 +1631,13 @@ compendium_usingitems_3,此符號意味著該裝備會<b>在使用後耗盡</b>�
 compendium_usingitems_4,如果裝備卡上沒有這些符號，則不會限制它在場景中可以使用的次數，除非在裝備卡上有其他說明。
 compendium_usingitems_title,使用裝備
 
-consume,消耗
+============================================================================
+============================================================================
+============================================================================
+
 consumeitemcards,消耗物品卡牌
 controlactor,心靈控制
 controlenemy,心靈控制
-
 
 covenofbones,科文的骨頭
 
@@ -4600,7 +4574,7 @@ gui_buy_confirmation_title,買入物品
 gui_buy_enhancement_confirmation_title,購買技能提升
 gui_buy_party_confirmation,你確定要解鎖這個玩家團隊嗎？
 
-gui_cancel_active_bonus,按一下圖示以取消啟動的技能
+gui_cancel_active_bonus,點擊圖示以取消啟動的技能
 gui_cancel_sending_error_report,取消錯誤報告......請稍候
 gui_cancel_town_records,取消城鎮記錄
 gui_card_cannot_be_enhanced,此技能卡<color=#C53F3FFF>不能被提升</color>
@@ -4782,10 +4756,6 @@ gui_easy,容易
 gui_element_infusion_created,{0}元素充能完畢！
 gui_element_infusion_creating,充能中...
 
-gui_element_status_inert,空格
-gui_element_status_infusing,充能中
-gui_element_status_strong,滿格
-gui_element_status_waning,半格
 
 gui_enable_dlc,Enable DLC
 gui_enable_dlc_confirmation,Once a DLC is enabled on a save it cannot return to its previous settings.
@@ -5106,7 +5076,7 @@ gui_modding_ruleset_lose_changes_confirmation,對規則集的所有改動都將�
 
 
 gui_modding_validated_notification,{0}已成功驗證！
-gui_modding_validation_mod_fail_confirmation,"按一下""查看錯誤""以查看出現的問題"
+gui_modding_validation_mod_fail_confirmation,"點擊""查看錯誤""以查看出現的問題"
 gui_modding_validation_ruleset_fail_confirmation,"請確保您首先在規則集中驗證了所有Mod。
 如果任一Mod被編輯或更新，都將需要驗證。"
 gui_modding_wait_creating_ruleset,請稍等。創建新的規則集'{0}'
@@ -5190,7 +5160,7 @@ gui_new_card_notification_title,已添加新卡牌！
 
 gui_new_quest_location_title,新任務地點！
 
-<color=#f3ddab>通過按一下下面的連結訪問創意工坊 </color>並將Mod添加到您的規則集中！"
+<color=#f3ddab>通過點擊下面的連結訪問創意工坊 </color>並將Mod添加到您的規則集中！"
 gui_notification_assign_all_my_slots,在冒險之前，必須分配給主機任一空的成員槽
 gui_notification_city_event_selected,{0} 已經選擇了一個城鎮事件！
 gui_notification_generate_invite_code,"<color=#92BF6E>生成的邀請碼！</color>
@@ -5496,7 +5466,7 @@ gui_tooltip_additional_target_effect,<color=#A050E0>{0}:</color>選擇額外的�
 gui_tooltip_attack_modifiers,攻擊修改卡牌堆：每當角色攻擊時，抽取一張剩餘的攻擊修正卡，並且攻擊結果相應地修正。 Pips顯示了攻擊修正卡牌堆總的和當前可用的卡牌數量。
 gui_tooltip_choose_doom_discard,選擇兩個厄運來打擊目標。另一個將被將被棄置。
 gui_tooltip_choose_doom_transfer,選擇將一個厄運來轉移到另一個敵人。另一個將被棄置。
-gui_tooltip_consuming_available,按一下此處以增強此行動，此過程中將消耗元素。
+gui_tooltip_consuming_available,點擊此處以增強此行動，此過程中將消耗元素。
 gui_tooltip_consuming_clicked,這一行動將被元素增強。可點擊右邊的元素增強按鈕以取消增強並放走元素。
 gui_tooltip_consuming_disabled,該行動可以通過消耗元素來增強。您只能在角色輪次期間並且已經充能了所需的元素時執行此行動。
 gui_tooltip_consuming_unavailable,該行動可以通過消耗元素來增強。首先，使用某些行動來充能所需的元素。
@@ -5652,9 +5622,9 @@ intro_abilitycardpanel_2,你可以在技能卡介面上<color=#EACF8C>調整要�
 intro_battlegoals,"在進入地牢之前，每個傭兵必須<color=#EACF8C>在兩個戰鬥目標中選擇一個</color>。
 戰鬥目標是傭兵在地牢中要盡力達成的秘密任務。失敗不會帶來懲罰，但成功完成將會獲得額外的經驗獎勵，這將會讓你在之後的戰鬥中更加得心應手。"
 intro_cityquest,"你們解鎖了一個<color=#EACF8C>城鎮任務</color>！
-你可以通過按一下城鎮地圖按鈕或按一下日誌中的新任務查看。"
+你可以通過點擊城鎮地圖按鈕或點擊日誌中的新任務查看。"
 intro_enchantress,在此介面你可以為你所有技能卡進行附魔。首先選擇技能卡，然後選擇附魔槽，就可以將你希望的附魔效果附加到該附魔槽位上。請注意，不同的附魔會對應不同的附魔基礎成本，而且同一張卡附魔次數越多成本越高。當你移除附魔時，其附魔成本將恢復到最初的狀態。
-intro_equipmentpanel,"你可以在裝備面板找到雇傭兵可以攜帶的<color=#EACF8C>各類道具</color>。按一下道具槽將顯示該名雇傭兵所擁有的此類型的全部道具。
+intro_equipmentpanel,"你可以在裝備面板找到雇傭兵可以攜帶的<color=#EACF8C>各類道具</color>。點擊道具槽將顯示該名雇傭兵所擁有的此類型的全部道具。
 如果道具槽為灰色，則表示你目前沒有此類型的道具。"
 intro_itemdesign,"你解鎖了一張新的道具設計圖！
 當你發現一張道具設計圖後，<color=#EACF8C>商店</color>就會開始出售該道具。"
