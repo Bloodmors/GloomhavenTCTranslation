@@ -7752,12 +7752,12 @@ personalquest_the_perfect_poison_objective_progress_tooltip,"Oozes, Lurkers, and
 personalquest_the_perfect_poison_objective_progress_tooltip_empty,"No Oozes, Lurkers, and Spitting Drakes killed yet."
 personalquest_the_thin_places,The Thin Places
 personalquest_the_thin_places_completed,"Though you did what you could, the air remains thinner than ever. What you have learnt, however, is that there is something on the other side, something watching Gloomhaven, toying with it. Until you know more, there is nothing you can do — so you hastily leave your fellow mercenaries, departing from this city in search of the right knowledge to save it. One thing is for certain: those that live between planes are not finished with Gloomhaven yet..."
-personalquest_the_thin_places_desc,"<b>Complete 6 side scenarios.</b> 
+personalquest_the_thin_places_desc,"<b>Complete 6 旁支劇本.</b>
 
 The air is thin in Gloomhaven. Well, not the air exactly, but whatever is behind the air... Like there is something on the other side, pressing and scratching to get out. This troubles you greatly. You have decided to travel to a number of locations in the surrounding area and study this phenomenon further. With luck, the air won’t get any thinner."
-personalquest_the_thin_places_objective_desc,Complete 6 side scenarios
+personalquest_the_thin_places_objective_desc,Complete 6 旁支劇本
 personalquest_the_thin_places_objective_progress_tooltip,Side scenarios completed:
-personalquest_the_thin_places_objective_progress_tooltip_empty,No side scenarios completed yet.
+personalquest_the_thin_places_objective_progress_tooltip_empty,No 旁支劇本 completed yet.
 personalquest_trophy_hunt,Trophy Hunt
 personalquest_trophy_hunt_completed,"Oh, the things you’ve killed. When you started this adventure, you had no idea what creatures lurked in the dark, what trials they would provide. You’ve killed things you never thought you would, or even could, but now you’ve seen everything Gloomhaven has to offer and you’re pretty sure there are no more beasts here that could possibly challenge you. You fill up a small cart with your trophies and leave Gloomhaven to continue the hunt."
 personalquest_trophy_hunt_desc,"<b>Kill 20 different types of monsters.</b> 

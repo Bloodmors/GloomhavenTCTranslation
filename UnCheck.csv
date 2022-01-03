@@ -556,7 +556,7 @@ ability_card_feralinstincts,野性本能
 ability_card_fetidflurry,腥臭碎雪
 
 ability_card_firstaid,急救
-ability_card_flamestrike,火焰擊
+
 
 ability_card_flankingstrike,側擊
 ability_card_flightofflame,火焰快遞
@@ -1288,7 +1288,7 @@ ashenswordbarrow,阿什斯伍德之墓
 atendofturn,在輪次的結束
 attack,攻擊
 attack_area,攻擊範圍
-attackersgaindisadvantage,攻擊者們陷入劣勢攻擊
+attackersgaindisadvantage,攻擊者們陷入劣勢進攻
 attacksapply,攻擊中附加
 attacksinfuse,在攻擊中元素充能
 augment,角色特效賦能
@@ -1568,17 +1568,6 @@ command,角色特效口令
 ============================================================================
 
 
-compendium_consumingelements_1,"可以通過消耗螢幕右側的元素跟蹤器中的強烈或衰弱狀態中的元素（參見<b>充能元素</b>）以在行動卡上增加某些技能或強化某些效果。
-
-所需消耗的元素由一個或兩個元素符號表示，每個前面帶有箭頭的元素符號表示需要消耗對應的元素才能夠觸發該技能或強化效果。"
-compendium_consumingelements_2,"如果以這種方式消耗了一個元素，則無論該元素的狀態是強烈還是衰弱，都會使其從元素跟蹤器中耗盡，變為惰性狀態。 
-
-對於角色，消耗元素的效果是可選的。通過點擊螢幕底部的消耗元素圖示，可以在確認行動之前的任何時間點選擇使用或取消對應效果，在可以選擇任一元素的情況下，系統將提示你從可用的元素中選擇一個。
-
-怪物在對應元素可用的情況下始終選擇消耗元素，如果是消耗任一元素，它們會隨機選擇一個可用的元素進行消耗。"
-compendium_consumingelements_title,消耗元素
-
-
 compendium_exhaustion,"一個角色會因兩種方式之一而精疲力竭：
 
 <indent=15>1.如果一個角色的生命值下降到一點以下。
@@ -1595,11 +1584,7 @@ compendium_gainingexperience_2,"有時卡牌上會具體說明，僅在滿足某
 
 
 
-compendium_itemslots,"當不在場景中時，角色可以在各種庫存槽中裝備道具卡。請注意，角色不能擁有任何完全重複的道具卡。
-
-每個角色只能裝備一個<b>頭部</b>道具，一個<b>軀幹</b>道具，一個<b>腿部</b>道具，最多兩個<b>單手</b>道具<b> <i>或</i></b> 一個<b>雙手</b>道具，和數量不超過角色等級一半(向上取整)的<b>小物品</b>。"
-compendium_itemslots_title,裝備槽
-compendium_levellingup_1,在公會模式中，當一個角色具有其升級所需經驗量（在其XP條上指示），並處於地圖選擇頁面時，它們可以升級。
+compendium_levellingup_1,在公會模式中，當一個角色具有其升級所需經驗量（在其經驗值量表上指示），並處於地圖選擇頁面時，它們可以升級。
 compendium_levellingup_2,在升級後，他們的最大生命值將會增加，他們可以在每個級別獲得兩張待解鎖的新技能卡並從待解鎖卡牌中選擇一張將其解鎖。此卡會在接下來的旅行中可用。通過解鎖更多的角色技能卡，你可以升級和自訂隊伍角色的技能卡池，調整卡片以更好地互相搭配，或是進行角色之間的協作，這也可以磨煉你的策略。
 compendium_levellingup_title,升級
 
@@ -1621,16 +1606,6 @@ compendium_traps,"當一個角色走入或被強制移入陷阱時，陷阱被�
 將游標懸停在一個陷阱上來查看該陷阱效果。角色和怪物還可能通過技能卡在地圖上創建具有特殊效果的陷阱。"
 
 
-compendium_usingitems_1,"根據裝備卡上標注的條件，在可以使用對應裝備時會顯示使用圖示，你可以通過點擊它們來使用這些裝備。某些裝備只能在被攻擊時使用，並在適用時出現。也有一些裝備，它們可以提供恒定的被動效果，因此不需要啟動就會被使用。
-
-請注意，如果物品會影響攻擊（例如，獲得加成，施加負面效果，獲得優勢等），就可以在攻擊之前使用它 一 也就是在抽取攻擊的攻擊修正卡之前。如果將負面效果添加到攻擊中，它就會在攻擊後被施放到被攻擊者身上。角色在同一時間可以使用的道具數目沒有限制，任何行動都可以使用與之相關聯的道具。
-
-在使用後，物品卡會有三種不同狀態，用以下標記表示："
-compendium_usingitems_2,此符號意味著該裝備會<b>在使用後磨損</b>，磨損後裝備暫時無法使用，直到通過長休息或使用能力將它刷新。
-compendium_usingitems_3,此符號意味著該裝備會<b>在使用後耗盡</b>，長休息無法刷新耗盡的裝備，耗盡的裝備只能通過特定能力在場景中刷新。所有道具都會在場景結束後刷新，所以被耗盡的道具不會永遠消失。
-compendium_usingitems_4,如果裝備卡上沒有這些符號，則不會限制它在場景中可以使用的次數，除非在裝備卡上有其他說明。
-compendium_usingitems_title,使用裝備
-
 ============================================================================
 ============================================================================
 ============================================================================
@@ -1642,14 +1617,14 @@ controlenemy,心靈控制
 covenofbones,科文的骨頭
 
 cragheart_adventure_description,"岩石心們是薩維斯中那些因無法掌握一種元素而被流放的人。他們的核心被粉碎，用以終生標記他們。
-他們有大量的技能和合理的生命值，這意味著，作為一個遠端輸出或是關鍵時候的治療師，他們卻可以充當近戰防禦角色。請優先使用土元法力來充分利用他們的能力。"
+他們有大量的技能和合理的生命值，這代表，作為一個遠端輸出或是關鍵時候的治療師，他們卻可以充當近戰防禦角色。請優先使用土元法力來充分利用他們的能力。"
 cragheart_description,岩石心們是薩維斯中那些因無法掌握一種元素而被流放的人。他們的核心被粉碎，用以終生標記他們。
 cragheart_difficulty,中
 cragheart_role,輸出/輔助
 cragheart_skin_alt,大拳石
 cragheart_strengths,"- <indent=%15>高生命值加上好用的治療技能</indent>
 - <indent=%15>合理的近戰和遠程搭配</indent>
-- <indent=%15>擁有大量的無視護甲和劣勢攻擊傷害技能</indent>"
+- <indent=%15>擁有大量的無視護甲和劣勢進攻傷害技能</indent>"
 cragheart_weaknesses,"- <indent=%15>在任何方面都不是雇傭兵中最強的</indent>
 - <indent=%15>許多技能對障礙物位置有要求</indent>
 - <indent=%15>天生一張撲克臉</indent>"
@@ -1665,7 +1640,7 @@ cultistandvictim,異教徒及受害者
 
 cultofthebow,邪教之弓箭
 cultofthorns,邪教之荊棘
-curse,詛咒
+
 cursedretreat,被詛咒的靜修所
 cursekeep,詛咒
 cursekeep_descr,這個石頭堡壘坐落在守望山脈的北部邊界，它是Gloomhaven城和惡魔閘口鎮城市守衛們的主要訓練營。
@@ -1687,15 +1662,14 @@ desertedcamp,被遺棄的營地
 destroyobstacle,摧毀障礙物
 difficult_terrain_tooltip,困難地形
 
-
 difficulty_high,高
 difficulty_low,低
 difficulty_medium,中
-
 difficulty_very_high,非常高
+
 dingledell,幽谷
-disadvantage,劣勢攻擊
-disarm,繳械
+disadvantage,劣勢進攻
+
 disarmallenemies,<nobr>繳械<sprite name=Disarm></nobr> 所有敵軍。
 disarmshort,繳械
 disarmtrap,拆卸陷阱
@@ -1846,7 +1820,7 @@ error_choreo_00062,無法處理增加目標
 error_choreo_00063,無法處理增加回血量
 error_choreo_00064,無法處理附加增益效果
 error_choreo_00065,無法處理增加射程
-error_choreo_00066,無法處理攻擊者陷入劣勢攻擊
+error_choreo_00066,無法處理攻擊者陷入劣勢進攻
 error_choreo_00067,無法處理反傷
 error_choreo_00068,無法處理隱身狀態
 error_choreo_00069,無法處理強化狀態
@@ -2553,7 +2527,7 @@ event_city_campaign_1_option_b,你們盡全力去制止這場衝突。這裡應�
 event_city_campaign_1_result_a,沒有什麼能比打破幾個醉鬼的腦袋更令人興奮了。這場騷亂變成了一種完美的放鬆方式。很可惜，酒館老闆並不這麼認為，他氣勢洶洶要你們為造成的損失給出賠償。
 event_city_campaign_1_result_b,當你們控制住這個被激怒的羚牛族之後，並提出為其中幾個好戰份子更換他們的酒水，這時你們才稍稍控制住了場面。有些非人類種族的顧客仍焦躁不安是可以理解的，不過酒館老闆還是感謝了你們的幫忙並且賠償了你們被打翻的酒菜。
 event_city_campaign_1_result_c,睡獅酒館基本上等於你在黯淡港灣的家，所以你們認為賠償損失並保持和老闆的良好關係是明智的投資。
-event_city_campaign_1_result_d,也許其他食客沒有推倒那堵牆或者放火燒樓梯，而這或許意味著你們下次來這裡時將不太受到歡迎，但你們並沒有挑起戰鬥，所以你們也不需要為此付出代價！
+event_city_campaign_1_result_d,也許其他食客沒有推倒那堵牆或者放火燒樓梯，而這或許代表你們下次來這裡時將不太受到歡迎，但你們並沒有挑起戰鬥，所以你們也不需要為此付出代價！
 event_city_campaign_20_intro,"當你們在睡獅酒館裡放鬆休息的時候，一個衣著光鮮的男人靠近了你們的桌子，臉上帶著一抹假笑。
 
 “啊，你們就是最近人人都在談論的那夥傭兵，是不是？我是格雷邁恩老爺，我有一件棘手的事情想和你們談談。我能坐下嗎？”
@@ -3394,7 +3368,7 @@ event_road_campaign_15_intro,"當你們沿路行走時，有許多翅膀拍擊�
 按照鳥群當前的飛行高度來說，只要瞄得夠准就能射下其中一隻，那麼今晚就可食上美味的一頓。"
 event_road_campaign_15_option_a,向鳥群射擊。
 event_road_campaign_15_option_b,不去打擾鳥群，讓他們飛走。
-event_road_campaign_15_result_a,你們張弓搭箭進行瞄準。但是箭剛離弦你們就意識到這些鳥看上去有些不對勁，牠們離你的距離比想像中的要遠，這意味著他們比想像中更加巨大。箭雖然沒有射中，但是卻引起了那些“鳥”的注意。當他們轉而對著你們俯衝下來，這時才意識到剛才你們是對著一群亞龍射了一箭。你們連忙跑向附近的樹林，並尋找著掩護，但是在躲藏的過程中還是被牠們所吐出的一:些酸液給濺到。
+event_road_campaign_15_result_a,你們張弓搭箭進行瞄準。但是箭剛離弦你們就意識到這些鳥看上去有些不對勁，牠們離你的距離比想像中的要遠，這代表他們比想像中更加巨大。箭雖然沒有射中，但是卻引起了那些“鳥”的注意。當他們轉而對著你們俯衝下來，這時才意識到剛才你們是對著一群亞龍射了一箭。你們連忙跑向附近的樹林，並尋找著掩護，但是在躲藏的過程中還是被牠們所吐出的一:些酸液給濺到。
 event_road_campaign_15_result_b,射鳥其實並不是一件易事，所以你最好不要浪費弓箭。你們一心朝著目的地前行那才是正事。
 event_road_campaign_16_intro,"通向目的地的道路比想像中曲折，所以你們決定抄捷徑，穿過一片小樹林。
 
@@ -3511,7 +3485,7 @@ event_road_campaign_24_option_a,用羚牛族攜帶的東西幫助他們。
 event_road_campaign_24_option_b,無視薩滿的話。
 event_road_campaign_24_result_a,"你同情因自然災害被迫離開家園且衣衫襤褸的羚牛族們。 你和他們一起旅行了一段時間，治療了他們的傷口並幫忙減輕了他們的負擔。
 
-薩滿向你致謝並遞給你一枚護身符。 “在野獸平息之前我們不能回家。 我擔心這意味著什麼。 希望這能保你平安。”"
+薩滿向你致謝並遞給你一枚護身符。 “在野獸平息之前我們不能回家。 我擔心這代表什麼。 希望這能保你平安。”"
 event_road_campaign_24_result_b,你對羚牛族的困境置之不理，但當你繼續前往目的地時，你開始感到某種程度的不安。 腳底隨著大地輕微地顫抖，而在遠處，黑色的煙霧持續升騰。
 event_road_campaign_25_intro,"當你離主路很遠的時候，你看到一小群羚牛族從西邊過來。你試圖改變你的路線去繞過他們，但他們卻直接朝你的方向走來。
 
@@ -3672,7 +3646,7 @@ event_road_campaign_39_intro,"你看到左邊高高的草叢裡有動靜，一�
 event_road_campaign_39_option_a,幫助這個可憐的煉魔族。
 event_road_campaign_39_option_b,這顯然是某種瘟疫！不惜代價一定要避免它！
 event_road_campaign_39_result_a_a,鋸骨醫者顯然知道該做什麼，在他清理傷口時擋住了他的手和臉。一個小時後，這些煉魔族的傷已經不影響行動了。
-event_road_campaign_39_result_a_b,你盡全力幫助這群煉魔族，但這意味著你用掉了太多了的補給品和藥水。當他終於看起來好些，你發現你也染上這一疾病了。
+event_road_campaign_39_result_a_b,你盡全力幫助這群煉魔族，但這代表你用掉了太多了的補給品和藥水。當他終於看起來好些，你發現你也染上這一疾病了。
 event_road_campaign_39_result_b,你害怕的躲開，迅速獨自遠離了他們。你能聽到這些煉魔族因為你的舉動而哭泣，但你很清楚，一旦遇到瘟疫，你只能選擇逃避。
 event_road_campaign_3_intro,"你感覺到有一點點餓。在經過一大片長滿紅色漿果的灌木叢時，你考慮要不要停下來吃點東西。
 
@@ -4341,7 +4315,7 @@ glossary_air,元素充能 - 氣：用氣元素充滿戰場，可用於在元素�
 glossary_any,元素充能 - 任意元素：用你選擇的元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。具有任意元素充能標識的怪物行動時隨機選擇一個元素進行充能。
 glossary_attack,攻擊：“攻擊 X”技能卡使得單位以基礎值X去攻擊射程內的一個敵人。
 glossary_attackdefault,基本攻擊：放棄使用卡牌的上半區行動，並進行一個“攻擊 2”的行動。此行動依然棄牌。
-glossary_attackersgaindisadvantage,攻擊者陷入劣勢攻擊：任意針對這名單位的攻擊將陷入劣勢攻擊。
+glossary_attackersgaindisadvantage,攻擊者陷入劣勢進攻：任意針對這名單位的攻擊將陷入劣勢進攻。
 glossary_augment,竊靈劍師特效賦能：無論何時竊靈劍師進行近戰進攻時，場上的角色特效攻擊將被使用。
 glossary_aura,光環：“光環”的效果僅當它的目標在光環射程範圍內被啟動。如果移動出光環的射程範圍，光環外的目標們將失去被賦予的任何效果。
 glossary_bless,祝福：被祝福的單位添加一張祝福(x2)卡進入他們的攻擊修正卡堆。當被抽後，攻擊造成雙倍傷害，並且這張祝福(x2)卡從攻擊修正卡堆移除。
@@ -4357,7 +4331,7 @@ glossary_consumelight,消耗元素 - 光
 glossary_controlled,被操控的心靈：在這一回合，這個敵軍將會將它的盟友看作敵軍、將它的敵軍看作盟友。
 glossary_curse,詛咒：被詛咒的單位添加一張詛咒(x0)卡進入他們的攻擊修正卡堆。當被抽後，攻擊不造成傷害，並且這張詛咒(x0)卡從攻擊修正卡堆移除。
 glossary_dark,元素充能 - 暗：用暗元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
-glossary_disadvantage,劣勢攻擊：劣勢攻擊的攻擊者將抽取兩張攻擊修正卡，並使用其中更差（數值更低）的那張。
+glossary_disadvantage,劣勢進攻：劣勢進攻的攻擊者將抽取兩張攻擊修正卡，並使用其中更差（數值更低）的那張。
 glossary_disarm,繳械：繳械狀態的單位不能不能釋放任何攻擊技能，繳械狀態在被施法單位下一輪次結束時被移除。
 glossary_dothex,這個點顯示了這個效果範圍以後可以被提升，從而在這個點處增加一個效果範圍格子。
 glossary_earth,元素充能 - 土：用土元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位被一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
@@ -4400,7 +4374,7 @@ glossary_exhausted,當一個傭兵處於以下兩種情況之一精力耗盡：�
 glossary_fear,強迫所有雇傭兵和他們的召喚物按照時序值次序進行<nobr>“移動<sprite name=Move> 4”</nobr>，路線的終點要盡可能地遠離暗靈叛徒。
 glossary_fire,元素充能 - 火：用火元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
 glossary_flying,飛行：飛行的單位將會在他們的移動期間完全忽視所有單位、障礙物、格子上的地面效果和陷阱，包含他們最後要去的格子。但是最後要去的格子不能被其他單位佔據。當佔據障礙物格子上方的飛行單位停止飛行，這個單位會承受傷害，傷害值等同於單位觸發陷阱，並移動到最近的空格子（“空”指沒有任何陷阱、障礙物、單位、打開的門等）。最後這句太難準確翻譯了！
-glossary_greyhex,灰格子顯示著使用者的位置，意味著該攻擊範圍為近戰範圍攻擊，因此攻擊範圍只能圍繞著這個格子（使用者）。
+glossary_greyhex,灰格子顯示著使用者的位置，代表該攻擊範圍為近戰範圍攻擊，因此攻擊範圍只能圍繞著這個格子（使用者）。
 glossary_heal,治療：“治療 X” 技能卡使單位讓在技能射程內的目標回復X點生命值。
 glossary_hitarea,顯示攻擊的效果範圍。紅格子是目標施法範圍，灰格子是近戰範圍攻擊時攻擊者的位置。
 glossary_ice,元素充能 - 冰：用冰元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
@@ -4423,7 +4397,7 @@ glossary_pierce,穿透：“穿透 X”攻擊效果忽視多達X點的目標護�
 glossary_poison,中毒：敵軍在所有對中毒單位的攻擊中附加+1攻擊力。治療技能能醫療中毒狀態但是沒有任何其他效果（例如不回血）。
 glossary_pull,拉近：“拉近 X”攻擊效果或技能造成目標被強制靠近移動最多X個格子。 移動方向趨勢由控制者的技能/效果指定，即移動路線每格必須讓目標減少一格距離。目標能夠在被拉近的過程中穿過（被拉者的）盟友，但是不能穿過敵軍或者障礙物。
 glossary_push,強推：“強推 X”攻擊效果或技能造成目標被強制遠離移動最多X個格子。 移動方向趨勢由控制者的技能/效果指定，即移動路線每格必須讓目標增加一格距離。目標能夠在被強推的過程中穿過（被推者的）盟友，但是不能穿過敵軍或者障礙物。
-glossary_range,射程：“射程 X”的技能意味著目標必須在X格距離內。 此外，任何遠端技能都必須在單位的視線範圍內進行。
+glossary_range,射程：“射程 X”的技能代表目標必須在X格距離內。 此外，任何遠端技能都必須在單位的視線範圍內進行。
 glossary_recover,回手（回牌）：使得角色一定數量的棄牌堆（某些技能含燒牌堆）的一些卡回到他們手中。
 glossary_redhex,紅格子顯示了技能效果的攻擊範圍——紅格子範圍上的目標將會被技能擊中。
 glossary_refresh,刷新：允許一個角色重新獲得一定數量乃至所有的“耗用（可通過長休息刷新）”和/或“耗竭（不可通過長休息刷新）”的物品。
@@ -4439,7 +4413,7 @@ glossary_strengthen,強化：被強化地單位在他們的所有攻擊中獲得
 glossary_stun,暈眩：一個暈眩的單位不能在他的輪次使用任何技能或者物品。 暈眩狀態在被施法單位的下一輪結束時被移除。單位仍必須在本輪次選擇兩張卡牌或選擇休息，當然行動不起作用，卡牌被直接棄置。長休息將如常進行。
 glossary_summon,召喚：在相鄰于施法者的空格子中召喚一個指定的盟友單位到劇本中。如果相鄰沒有可用的格子，召喚物技能將不能被使用。召喚物在施法者每回合的輪次之前行動，總是自動地（不受玩家控制地）進行一個“移動 X，攻擊 Y”行動。可以同時擁有多個在場的召喚物。
 glossary_summon_health,生命值：召喚物的初始生命值。
-glossary_target,目標數： “目標數 X”的技能意味著這名單位可以選擇最多X個技能射程內的不同目標。
+glossary_target,目標數： “目標數 X”的技能代表這名單位可以選擇最多X個技能射程內的不同目標。
 glossary_trap,陷阱：一個陷阱占一個格子。當一個單位用正常的移動或者被迫的移動進入陷阱格子，陷阱被觸發（例如強推/拉近）。
 glossary_wound,流血：如果目標流血，它在每個輪次的開始時會遭受一點傷害。治療技能可移除流血狀態。
 glossary_xp,XP：這個標誌代表著經驗值。
@@ -4459,9 +4433,9 @@ greenadder,綠蛇
 gui_abandon_quest_mp_host_tooltip,只有主機可以放棄任務
 gui_abandon_quest_phase_tooltip,You can abandon the quest at the start of the round or on your mercenaries turn during action selection
 gui_abandon_quest_while_players_joining_mp_tooltip,當前有玩家正在加入，期間不能放棄任務。
-gui_abilities_table,已掌握的技能
-gui_ability_cards,技能卡
-gui_ability_table,已掌握的技能卡
+
+
+
 gui_ability_table_tooltip,<color=#CEAD5A>已掌握的技能卡</color>是雇傭兵可以在劇本中執行的行動。
 gui_accept_city_event,接受城市事件
 gui_accept_city_event_tip,所有玩家必須在開始前接受城市事件
@@ -4790,7 +4764,7 @@ gui_enhancements_tooltip,此頁面允許您為所有技能卡添加提升功能�
 gui_enhancements_unavailable,沒有可進行的提升
 
 gui_enter_village,進入村莊
-gui_equipped,已裝備的
+
 
 gui_error_load_checkpoint_button,重置存檔到檢查點
 gui_error_main_menu_button,轉到主選單
@@ -4825,14 +4799,14 @@ gui_gift_bless,你被祝福了
 gui_gift_curse,你被詛咒了
 gui_gift_damage,每個角色下一個場景開始時都遭受{0}點傷害
 gui_gift_damage_now,遭受 {0} 點傷害
-gui_gift_disadvantage,你陷入劣勢攻擊
+gui_gift_disadvantage,你陷入劣勢進攻
 gui_gift_disarm,你被繳械了
 gui_gift_each_lost_gold,你失去了{0}金
 gui_gift_each_win_gold,你已經獲得了{0}金
 gui_gift_enemy_advantage,下一個劇本的敵人從優勢攻擊開始
 gui_gift_enemy_bless,下一個劇本的敵人開始時被祝福
 gui_gift_enemy_curse,下一個劇本的敵人開始時被詛咒
-gui_gift_enemy_disadvantage,下一個劇本的敵人從劣勢攻擊開始
+gui_gift_enemy_disadvantage,下一個劇本的敵人從劣勢進攻開始
 gui_gift_enemy_disarmed,下一個劇本的敵人開始時處於繳械狀態
 gui_gift_enemy_immobilize,下一個劇本的敵人開始時處於禁足狀態
 gui_gift_enemy_invisible,下一個劇本的敵人開始時處於隱身狀態
@@ -4890,16 +4864,16 @@ gui_improved_short_rest_tooltip,"在這段輪次時，短休息將會擁有長�
 -  <indent=%15>刷新所有損耗的物品。</indent>"
 gui_inox_preview,此外，一群叛逆的艾諾克斯戰士在森林中建立了一個基地，並正在襲擊當地的人口。前往他們的位置，把它們帶走！
 gui_inox_win,隨著艾諾克斯死去，這個區域再次安全的攻擊。希望在剩下之前，你拿起了一個大斧頭？
-gui_inventory,物品欄
-gui_inventory_items,背包物品
+
+
 gui_inventory_slot_body,身體物品
 gui_inventory_slot_hands,手部物品
 gui_inventory_slot_head,頭部物品
 gui_inventory_slot_legs,腳部物品
 gui_inventory_slot_onehand,單手武器{0}
 gui_inventory_slot_pocket,口袋{0}
-gui_inventory_slot_smallitem,隨身物品{0}
-gui_inventory_slot_smallitems,隨身物品
+
+
 gui_inventory_slot_twohand,雙手武器
 gui_item_bound_to,"裝備給<color=#{0}>{1}</color> <size=140%><sprite name=""{2}"" color=#{0}></size>"
 gui_item_buy_for,"購買<color=#{0}>{1}</color> <size=140%><sprite name=""{2}"" color=#{0}></size>"
@@ -4908,18 +4882,18 @@ gui_item_cards_hand,手部卡
 gui_item_cards_head,頭部卡
 gui_item_cards_legs,腳部卡
 gui_item_cards_none,無卡
-gui_item_cards_smallitem,隨身物品卡
+gui_item_cards_smallitem,小道具卡
 gui_item_equipped_different_slot,裝備進槽中<color=#F1DBAEFF> {0}</color>
 gui_item_gui_item_slot_smallitem_locked_description,通過將此角色升級到{0}級來解鎖此物品槽
 gui_item_gui_item_slot_smallitem_locked_mystery,怎麼解鎖這個槽？
 gui_item_reputation_discount_tooltip,"<color=#{3}><rotate={4}><sprite name=""ReputationLevel_Icon"" color=#{3}></rotate>聲譽修正：{2}<sprite name=""Gold_Icon_White"" color=#{3}></color>
 {1}<sprite name=""Gold_Icon_White""> + <color=#{3}><rotate={4}><sprite name=""ReputationLevel_Icon"" color=#{3}></rotate>{2}</color> = <color=#FCC954FF>{0}<sprite name=""Gold_Icon_White"" color=#FCC954FF></color>"
-gui_item_slot_body,身體
-gui_item_slot_hand,手部
-gui_item_slot_head,頭部
-gui_item_slot_legs,腳部
+
+
+
+
 gui_item_slot_onehand,單手武器
-gui_item_slot_smallitem,隨身物品
+
 gui_item_soldout,售罄！
 gui_items_lose_durability,您的物品失去1點耐久度
 gui_items_table,物品
@@ -5976,7 +5950,7 @@ loading_tip_022,如果你不確定你將行動得過早還是過晚，請考慮�
 loading_tip_023,觀察敵人的移動並瞭解他們的牌堆和技能。一些怪物前進一直很快，另一些相反，這是能讓你在攻擊中保持優勢的資訊。
 loading_tip_024,你可以按住L來查看人物的視野範圍。
 loading_tip_025,在角色的每個輪次中，所選卡牌的每個半區是一個行動，每個行動可以由一個或多個小技能組成。
-loading_tip_026,具有指定類型的行動意味著行動中至少有一個小技能屬於該類型。例如，“移動行動”包含至少一個移動技能。
+loading_tip_026,具有指定類型的行動代表行動中至少有一個小技能屬於該類型。例如，“移動行動”包含至少一個移動技能。
 loading_tip_027,當強推/拉近 X 時，總是要進行到底，除非被障礙物/單位阻擋，要麼就選擇完全跳過該效果。
 loading_tip_028,注意，如果你因為優勢攻擊而抽取的兩張牌中，一張是“Miss (x0)”，另一張是帶有“連抽箭頭符號”的牌，此時Miss (x0)依然會生效！（傷害為0，但是其他附加效果依然會被結算）
 loading_tip_029,在攻擊一個中毒的<sprite name=Poison>角色時，敵軍的攻擊增加+1。 治療技能能夠治療中毒但是不產生其它作用（例如不回復生命值）。
@@ -5985,7 +5959,7 @@ loading_tip_031,禁足<sprite name=Immobilize>將使得單位不能進行任何�
 loading_tip_032,繳械<sprite name=Disarm> 將使得一個單位不能進行任何攻擊技能，直到下一輪次結束。
 loading_tip_033,眩暈<sprite name=Stun>將阻止一個單位執行任何行動或使用道具，直到該單位下一輪次結束。
 loading_tip_034,眩暈<sprite name=Stun>的角色仍然需要選擇本輪次的兩張技能卡，但會被直接棄牌。長休息將會如常進行。
-loading_tip_035,混亂<sprite name=Muddle>將使得單位一直處於劣勢攻擊，直到該單位下一輪次結束。
+loading_tip_035,混亂<sprite name=Muddle>將使得單位一直處於劣勢進攻，直到該單位下一輪次結束。
 loading_tip_036,詛咒 <sprite name=Curse>將一張詛咒卡(x0)加入了目標的攻擊修正卡牌堆。當這張卡被抽到時，攻擊不造成傷害，同時詛咒卡被移除。
 loading_tip_037,隱身<sprite name=Invisible>的單位不會被視為目標，敵人也不能以他為目標。在該單位下一輪次結束時，隱身狀態將自動移除。怪物們將隱身單位視為障礙物。
 loading_tip_038,隱身<sprite name=Invisible>的單位們依然會受到非指向性（不指定目標）技能的傷害。隱身不影響與盟友的互動。
@@ -6206,7 +6180,7 @@ message_end_quest_story_doomstalker_1_2,顯而易見這對於為商店運輸生�
 message_end_quest_story_doomstalker_1_3,我不認為他們偷花晶族的牲畜只是為了出售腐壞的肉，即使是在欺誠市集這樣的地方。
 message_end_quest_story_doomstalker_1_4,你不會認為那家屠宰店是一個真商店的，對吧？很好。在我們眼前的是我最喜歡的犯罪之一…額...當然，我指的是胸。
 message_end_quest_story_doomstalker_1_5,好吧，但這也將是你的最愛，不是嗎？
-message_end_quest_story_doomstalker_1_6,這意味著什麼呢？
+message_end_quest_story_doomstalker_1_6,這代表什麼呢？
 message_end_quest_story_doomstalker_2_1,即使這本帳簿的味道聞起來也像是腐敗的肉做成的！
 message_end_quest_story_doomstalker_2_2,好吧，它滿是腐爛的罪行......
 message_end_quest_story_doomstalker_2_3,別這麼做。別在這兒丟人現眼。
@@ -6402,7 +6376,7 @@ message_end_quest_travel_scurvybay_1,通常來說我都是盡力遏制犯罪行�
 message_end_quest_travel_scurvybay_2,他們只是給我扔了一個烈性炸彈。我還是不確定這到底是個禮物還是禍害。
 message_end_quest_travel_scurvybay_3,不管怎樣，至少它還沒爆炸。它現在在我這裡，但我建議你加快腳步。
 message_end_quest_travel_shaderest_1,我和當地的飾品製造者達成了協定做了一些有趣的護身符。來看看吧，說不定能派上用場。
-message_end_quest_travel_shadowfieldmanor_1,今天早上我收到了快遞包裹，是一個精美的珠寶。但是每次我看它我胃裡都翻江倒海。可能意味著你才能找到它的用途！
+message_end_quest_travel_shadowfieldmanor_1,今天早上我收到了快遞包裹，是一個精美的珠寶。但是每次我看它我胃裡都翻江倒海。可能代表你才能找到它的用途！
 message_end_quest_travel_shimmeringshallows_1,在你離開後，我逃到了鎮上，遇到了一個友好的老漁婦。
 message_end_quest_travel_shimmeringshallows_2,真相大白！這個小鎮愛上了釣魚，而她愛上了，誒，愛上了我。我正準備只帶著衣物和...長矛逃跑。
 message_end_quest_travel_shimmeringshallows_3,如果你覺得你會使用它就來我的商店吧。
@@ -6426,7 +6400,7 @@ message_end_quest_travel_sweetwater_2,我竟然在灌木叢中找到了一個堅
 message_end_quest_travel_sweetwater_3,很明顯這頭盔以前物有所主，但那個妹子追我時滑倒在一攤污水中，所以這算得上是幸運頭盔 。有機會就來我的商店看看它吧。
 message_end_quest_travel_templeoftheacorn_1,謝謝你淨化了被卑鄙獵犬褻瀆的神廟！我們的同伴會馬上過去重新讓神廟恢復正常運作。
 message_end_quest_travel_templeoftheacorn_2,作為謝禮，我們會向你的傭兵提供我們的強力恢復藥水。
-message_end_quest_travel_thebarrencoast_1,我們現在和沿海的貿易商人有了聯繫，意味著我們可以拿到海外的貨品了。有個炫酷的帶翼頭盔你可能感興趣，來看看吧！
+message_end_quest_travel_thebarrencoast_1,我們現在和沿海的貿易商人有了聯繫，代表我們可以拿到海外的貨品了。有個炫酷的帶翼頭盔你可能感興趣，來看看吧！
 message_end_quest_travel_theburiedtrenches_1,古代文明的廢墟難道只是沒有了怪物嘛？當然我在你離開後又回去了，你得慶倖我這麼做了。
 message_end_quest_travel_theburiedtrenches_2,我在水庫附近發現了一對脛甲，把它從奇怪的黏液裡拖出來了。
 message_end_quest_travel_theburiedtrenches_3,他們比看起來的要...重！但也保養的很好。重就等於結實耐用，不是嗎？有機會就來看看。
@@ -7151,12 +7125,12 @@ personalquest_the_perfect_poison_objective_progress_tooltip,"Oozes, Lurkers, and
 personalquest_the_perfect_poison_objective_progress_tooltip_empty,"No Oozes, Lurkers, and Spitting Drakes killed yet."
 personalquest_the_thin_places,稀薄之地
 personalquest_the_thin_places_completed,儘管你做了你能做的一切，但空氣依舊變得比以往更稀薄了。但你瞭解到的是，這是某個在另一面，某個正在注視著黯淡港灣的東西所為。在你瞭解更多之前，你什麼都做不到——所以你匆匆地離開了你的傭兵同伴，離開這座城市去追尋真正能夠拯救它的知識。只有一點是能肯定的：那些藏在位面之間的東西暫時還無法毀滅黯淡港灣......
-personalquest_the_thin_places_desc,"<b>完成六個支線劇本</b>
+personalquest_the_thin_places_desc,"<b>完成六個旁支劇本</b>
 
 黯淡港灣周邊的大氣十分稀薄。唔姆，但是更糟糕的是，有什麼東西隱藏在這種氣息之後...就像有某種力量不斷地擠壓並苦苦琢磨著要從另一個空間出來似的。這種感覺困擾著你，你決定前往附近的幾個地方去進一步研究這個現象。運氣好的話，說不定能改變現狀。"
-personalquest_the_thin_places_objective_desc,完成六個支線劇本。
+personalquest_the_thin_places_objective_desc,完成六個旁支劇本。
 personalquest_the_thin_places_objective_progress_tooltip,Side scenarios completed:
-personalquest_the_thin_places_objective_progress_tooltip_empty,No side scenarios completed yet.
+personalquest_the_thin_places_objective_progress_tooltip_empty,No 旁支劇本 completed yet.
 personalquest_trophy_hunt,狩獵的戰利品
 personalquest_trophy_hunt_completed,開始冒險時，你並不知道黑暗中潛藏著什麼生物，它們將帶來怎樣的考驗。不論你曾以為做不到的和做得到的，你都已經親手擊殺了它們。現在你已經見識過了黯淡港灣有的所有獵物，你很確信在這裡已經找不出能給你帶來些許挑戰的野獸了。你將你的戰利品全都裝上車離開了黯淡港灣，去往別處繼續你的狩獵。
 personalquest_trophy_hunt_desc,"<b>擊殺二十種不同的怪物</b>
@@ -7599,7 +7573,7 @@ quest_campaign_033_intro,"這是一段漫長而痛苦的路程。你們不得不
 
 “你們必須迅速行動，”它如此指示，“一旦你們進入後，薩維斯就會發出警報。你們得在援軍淹沒你們之前找到所需的東西然後離開。”
 
-在隧道的盡頭，你們遇到了一扇簡易的木門。你們輕輕推了一下，發現它一動不動。不過這木門的結構相當脆弱，所以你應該可以輕而易舉地砸爛它。但這也意味著你們必須放棄繼續潛行。"
+在隧道的盡頭，你們遇到了一扇簡易的木門。你們輕輕推了一下，發現它一動不動。不過這木門的結構相當脆弱，所以你應該可以輕而易舉地砸爛它。但這也代表你們必須放棄繼續潛行。"
 quest_campaign_033_intro_gh_1,"你們遵從那個強大生命的命令前來奪回它的無價之寶，而現在你們正籌畫著該如何潛入薩維斯的城市並闖進他們建在山體深處軍械庫。
 
 “正面和薩維斯衝突是自尋死路，”那個力量告訴你，“但是在他們城市的北邊有一條密道可以直達他們的儲存庫。”
@@ -8130,7 +8104,7 @@ quest_campaign_074_outro_gh_1,當你們返回黯淡港灣時，蓋文雖然依�
 quest_campaign_074_outro_gh_2,因為你們拼死保護了他的貨物，蓋文付給了你們一大筆錢。
 quest_campaign_074_outro_travel_1,幸運的是，你並沒有被沖離黯淡港灣太遠，並且在不久之後一隊黯淡港灣的巡邏隊找到了你。
 quest_campaign_074_outro_travel_2,雖然你們依舊沒查出是誰在給海盜通風報信，但至少經過此戰之後，任何再想掠奪商船的人都得三思後行了。
-quest_campaign_074_outro_travel_3,有了這個情報，你找來的城鎮守衛們已經在準備襲擊你逃出的那個營地，這意味著那些強盜不會再回來了。
+quest_campaign_074_outro_travel_3,有了這個情報，你找來的城鎮守衛們已經在準備襲擊你逃出的那個營地，這代表那些強盜不會再回來了。
 quest_campaign_075_desc,那些死者沒辦法保管好他們的財物，對吧？
 quest_campaign_075_intro,協商好分成後，當你們來到這個遠古墓地外時，便開始後悔接受這次提議。特別是當你們遠遠地看到青苔覆蓋的墳墓間有些蹣跚的蹤影的時候，一股不祥的預感籠罩了你們全身。
 quest_campaign_075_intro_gh_1,“事實上， 我的一名聯絡人告訴我，在屍骸森林裡的古老墓地中埋藏著大量的奇珍異寶。”雷德尼克解釋道，“問題就是裡同樣埋葬著大量的亡靈。不過，憑藉你們的本事，我相信咱們可以把那個地方洗劫一空， 從而賺得大筆的錢。你們意下如何？”
@@ -8708,7 +8682,7 @@ quest_story_berserker_3_desc,在這個洞穴中正發生著什麼。終結它。
 quest_story_berserker_3_intro,兩條假線索以後，你們確信這是時候就在這裡結束這件事。就在這裡給予監督者正義的制裁。龍火地的當地人很高興的引導你們到了洞穴口，但很不舒服地肯定你回不來了。龍火地的不死者們樂意置身事外觀察事情的發展。當地人告訴你許多運貨車在洞穴口或進或出，你也可以看見洞穴入口周圍被貨車車輪和靴子碾碎的小草。正當你靠近入口時，一群魔鼠有了反應，一窩蜂似地沖了出來。一陣惡臭的氣味翻湧上來。你們輕鬆的解決了鼠人，進入了洞穴。洞穴內昏暗無光，在行進中，你們在黑暗中能看見一些發著亮的魔鼠的眼睛，就像貓科動物一樣，直到你們看見遠處強盜的火把。
 quest_story_berserker_3_list,摧毀監督者的行動
 quest_story_berserker_3_name,進入黑暗的洞穴裡
-quest_story_brute_1_desc,薩默特地區周圍的道路還是經常被叢林裡的魔鼠襲擊，這也意味著幹守衛這個活的報酬絕對少不了。
+quest_story_brute_1_desc,薩默特地區周圍的道路還是經常被叢林裡的魔鼠襲擊，這也代表幹守衛這個活的報酬絕對少不了。
 quest_story_brute_1_intro,有些人認為你與魔鼠的友誼有一點點奇怪，但是你從小就瞭解司卡波威特。作為一個遊歷全國的大商人，他不是最誠實的那一個，但他總能在你們部落的香料和護衛生意中大賺一筆。今天你要和他一起再去一次荒涼海岸。雖然自從你們重新開闢了道路，減少了野生魔鼠襲擊，對他來說這仍然不安全。旅途的大部分時間都是安然無事，你聽到森林裡傳來了嚎叫聲，當你們正在談論過去的時光。獵犬...但是誰或什麼東西把它們趕到路邊的?
 quest_story_brute_1_list,和一個老朋友在薩默特地區附近進行日常的守衛巡邏工作。
 quest_story_brute_1_name,老夥計們
@@ -8983,7 +8957,7 @@ quest_travel_eastgrove_intro,邪教徒們佔據了東林地外一塊郊區上的
 quest_travel_eastgrove_list,烏姆布蘭聯盟佔領了東林地，把他們趕走。
 quest_travel_eastgrove_name,無信者的信仰
 quest_travel_fordingbridge_desc,灘橋地的一個社區報告稱，森林正在燃燒，有熔岩正從地下湧出。
-quest_travel_fordingbridge_intro,從灘橋地傳來的大量報告稱，植被正在燃燒，地形正在變化，甚至那些與世隔絕的地方一夜之間出現了許多小股熔岩。一般來說，這種情況意味著一個煉金術士或機匠將要接受調查，但當地人也提到這些地區的顏色似乎發生了變化，這種情況和你在下城區所遇到的很相似。你從惡魔閘口鎮的東南門出發，沿著一條長滿雜草和古老車轍的老公路前行。這一天平安無事過去了，直到你到達村莊的郊外，看到各個方向上都在冒著滾滾濃煙。其中一支煙柱離你很近，以至於你可以爬到附近的山上調查它。你發現了一個通向地下的洞穴入口。在它上面，濃煙從裂縫中滾滾而出。也許你能在裡面找到這些現象的原因？
+quest_travel_fordingbridge_intro,從灘橋地傳來的大量報告稱，植被正在燃燒，地形正在變化，甚至那些與世隔絕的地方一夜之間出現了許多小股熔岩。一般來說，這種情況代表一個煉金術士或機匠將要接受調查，但當地人也提到這些地區的顏色似乎發生了變化，這種情況和你在下城區所遇到的很相似。你從惡魔閘口鎮的東南門出發，沿著一條長滿雜草和古老車轍的老公路前行。這一天平安無事過去了，直到你到達村莊的郊外，看到各個方向上都在冒著滾滾濃煙。其中一支煙柱離你很近，以至於你可以爬到附近的山上調查它。你發現了一個通向地下的洞穴入口。在它上面，濃煙從裂縫中滾滾而出。也許你能在裡面找到這些現象的原因？
 quest_travel_fordingbridge_list,調查灘橋地附近的異常地震活動。
 quest_travel_fordingbridge_name,咆哮深淵
 quest_travel_gibbethill_desc,強盜們擋住了前往絞架嶺的道路，現在輪到你趕走他們了。
@@ -9089,7 +9063,7 @@ quest_travel_southshield_intro,有蠻徒在前面帶路，你把薩默特地區�
 quest_travel_southshield_list,幫助蠻徒打破魔鼠和羚牛族在南盾村附近建立的危險聯盟
 quest_travel_southshield_name,難以置信的聯盟
 quest_travel_spitepeak_desc,你知道薩維斯領袖躲在惡意峰。是時候幹掉他們了。
-quest_travel_spitepeak_intro,在重建家園的過程中，你離開了落石村的聚居地。多虧你及時趕到，才阻止了這場大規模屠殺。你幾乎就快要看到遠處的惡意峰，一個被毀了部分的塔，它曾經是許多強大的法師的家，似乎法師們現在又住了回去。關於魔法陷阱和送客法術的謠言滿天飛，這意味著在法師內鬥把塔頂掀掉後，這座塔並沒有被修好。當你走近高塔時，你發現上面的窗戶上飄浮著奇怪的五彩燈光，但沒有人出來迎接你。看起來你得冒險進去…
+quest_travel_spitepeak_intro,在重建家園的過程中，你離開了落石村的聚居地。多虧你及時趕到，才阻止了這場大規模屠殺。你幾乎就快要看到遠處的惡意峰，一個被毀了部分的塔，它曾經是許多強大的法師的家，似乎法師們現在又住了回去。關於魔法陷阱和送客法術的謠言滿天飛，這代表在法師內鬥把塔頂掀掉後，這座塔並沒有被修好。當你走近高塔時，你發現上面的窗戶上飄浮著奇怪的五彩燈光，但沒有人出來迎接你。看起來你得冒險進去…
 quest_travel_spitepeak_list,擊敗薩維斯的教派
 quest_travel_spitepeak_name,對決薩維斯
 quest_travel_staybrightfort_desc,你已經找出來議會在哪兒了——是時候結束這一切了。
@@ -10008,7 +9982,7 @@ scenario_crypt_bossbanditcommander_descr_2,不義之財堆滿了這個地穴，�
 scenario_crypt_bosshighcultist_descr_0,惡魔們從這個坑道中湧出，是時候復仇了！
 scenario_crypt_bossundeadcommander_descr_0,你打聽到了一些傳言，某個東西驅使著一批亡靈盤踞在這裡
 scenario_crypt_bossundeadcommander_descr_1,亡靈生物充斥在這個墓地的周圍
-scenario_crypt_bossundeadcommander_descr_2,這個地方盤踞著龐大的危險，當然，也同樣意味著珍稀的寶藏！
+scenario_crypt_bossundeadcommander_descr_2,這個地方盤踞著龐大的危險，當然，也同樣代表珍稀的寶藏！
 scenario_crypt_corpsecultist_descr_0,死亡的惡臭彌漫在這個區域，似乎有什麼不對勁
 scenario_crypt_demon_descr_0,地穴的深處傳來奇怪的吟唱聲
 scenario_crypt_demon_descr_1,調查誰在此召喚惡魔，並將他們繩之以法
@@ -10163,7 +10137,7 @@ scenario_puzzle_2c_14,"那個<link=""Glossary_Disarm""><b><color=#1F9EDC>繳械<
 scenario_puzzle_2c_15,接下來是最後一場訓練，完成後你就已經準備就緒，可以去探索世界並為我們的公會招募傭兵了！
 scenario_puzzle_2c_16,你受到了攻擊！注意敵人這一輪的移動範圍。你需要避開所有敵人！
 scenario_puzzle_2c_obj_1,在2個回合內不要受到任何攻擊
-scenario_puzzle_2d_01,讓我們來看看<b><color=#FADC99>攻擊修正</color></b>卡牌。在之前的訓練中，角色在攻擊時總是抽取一張<color=orange><b> +0 </b></color>的<b><color=#FADC99>攻擊修正卡牌</color></b>，意味著他們的攻擊傷害總是和卡牌上說明的傷害一樣。但是平時可不是這樣的！
+scenario_puzzle_2d_01,讓我們來看看<b><color=#FADC99>攻擊修正</color></b>卡牌。在之前的訓練中，角色在攻擊時總是抽取一張<color=orange><b> +0 </b></color>的<b><color=#FADC99>攻擊修正卡牌</color></b>，代表他們的攻擊傷害總是和卡牌上說明的傷害一樣。但是平時可不是這樣的！
 scenario_puzzle_2d_02,"在正常的劇本中，每次執行<link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>行動時，角色都會抽取一張<b><color=#FADC99>攻擊修正卡牌</color></b>來影響實際造成的傷害。它們會通過<b><color=orange> +1 </color></b>，<b><color=orange> +2 </color></b>，和<b><color=#D92727> x2 </color></b>來提升傷害，或是通過<b><color=#A050E0> -1 </color></b>，<b><color=#A050E0> -2 </color></b>，和<b><color=#A050E0> x0 </color></b>來降低傷害，還可能像你之前看到的<color=orange><b> +0 </b></color>那樣對傷害數值不造成影響。
 
 你可以通過將滑鼠懸停在任意角色身上來看到他的攻擊修正卡池 ——注意，和角色不同的是，所有怪物共用同一個攻擊修正卡池！"
@@ -10192,7 +10166,7 @@ scenario_puzzle_2d_14,你已經完成了基礎訓練關卡——是時候給你�
 scenario_puzzle_2d_obj_01,站在一個弓箭手旁邊並且殺死另一個
 scenario_puzzle_2d_obj_02,殺死剩餘的弓箭手
 scenario_puzzle_2d_obj_03,在本回合中拾取寶箱
-scenario_puzzle_3a_01,"讓我們來仔細看看每個角色分別能夠做些什麼。在這個劇本中，<b>蠻徒</b>要面對兩個<b> 1 </b>級的<b>骷髏精英</b> —意味著它們的屬性相比<b> 0 </b>級時更高一些。
+scenario_puzzle_3a_01,"讓我們來仔細看看每個角色分別能夠做些什麼。在這個劇本中，<b>蠻徒</b>要面對兩個<b> 1 </b>級的<b>骷髏精英</b> —代表它們的屬性相比<b> 0 </b>級時更高一些。
 
 在回合開始時你看到的揭露出來的“怪物技能卡”由那隻怪物的種類和從對應種類的怪物技能牌堆中抽出的基本技能卡共同決定。因此，有時候它們能夠移動的更遠或者獲得更高的攻擊力，更別說這兩個骷髏還是<link=""Glossary_Elite""><b>精英</b></link>級別的了！"
 scenario_puzzle_3a_02,"注意它們有一個先天的<b><link=""Glossary_Shield"">護盾</link></b><b> 1 </b>效果，用<sprite name=Shield>圖示來顯示。每一點<b><link=""Glossary_Shield"">護盾</link></b>效果可以阻擋一點來自於攻擊的傷害。
@@ -10238,7 +10212,7 @@ scenario_puzzle_3b_05,"哈哈！在單個行動輪中瞄準多個目標的感覺
 scenario_puzzle_3b_06,"拾取技能會撿起所示射程距離內的<i>所有</i>金幣，所以好好想想你應該站在哪裡進行拾取吧！"
 scenario_puzzle_3b_07,"你需要在<link=""Glossary_Loot""><b>拾取</b></link>前先進行前進，而且不是所有前進技能都在技能卡的下半部分！"
 scenario_puzzle_3b_08,漂亮！暫時就讓我來替你保管這些金幣吧…
-scenario_puzzle_3b_09,因為你在這個劇本中的幫助，<b>凶徒</b>已經同意加入公會——意味著現在我們擁有足夠多的傭兵來進行正式的任務！
+scenario_puzzle_3b_09,因為你在這個劇本中的幫助，<b>凶徒</b>已經同意加入公會——代表現在我們擁有足夠多的傭兵來進行正式的任務！
 scenario_puzzle_3b_obj_01,本回合中在敵人行動前殺死3個弓箭手
 scenario_puzzle_3b_obj_02,本回合中拾取至少5堆金幣
 scenario_puzzle_4a_01,好了，這是你第一場正式的戰鬥。看上去需要清理兩個房間，每個房間裡都有兩名強盜。
@@ -10967,7 +10941,7 @@ scenario_travel_blackrockasylum_start_2,我想你只能按照他說的做了。
 scenario_travel_blackrockasylum_success_1,在大地惡魔變回碎石後，避難所的工人們出來搬走那些試圖逃離的人們的屍體。
 scenario_travel_blackrockasylum_success_2,在房間的角落裡，你發現了更多奇怪的水晶。
 scenario_travel_bloodford_room_2,這裡的味道更加糟糕，他們甚至還更多了！
-scenario_travel_bloodford_start_1,好吧，這一陣惡臭只意味著一件事：活屍！它們體格健壯，力大無窮，但好在它們行動很慢。
+scenario_travel_bloodford_start_1,好吧，這一陣惡臭只代表一件事：活屍！它們體格健壯，力大無窮，但好在它們行動很慢。
 scenario_travel_bloodford_start_2,哦，他們還很喜歡嘔吐…保持警惕，在遠處進行攻擊，就能保證安全。
 scenario_travel_bloodford_success,隨著最後一個亡靈倒在地板上，這裡的詛咒被解除了。
 scenario_travel_boneshatterpass_room_2_1,你們走進了下一個房間，看到一個薩維斯人在你們面前漂浮著。
@@ -11003,7 +10977,7 @@ scenario_travel_drakefirefarm_start_1,我一直聽說有暗夜惡魔在北方出
 scenario_travel_drakefirefarm_start_2,他們擅長使用黑暗的力量，而光明會幫助你擊敗他們！
 scenario_travel_drakefirefarm_start_3,或者是又冷又硬的鋼鐵…但要注意，它們會給所有攻擊者的攻擊帶來劣勢！
 scenario_travel_drakefirefarm_success_1,我討厭那些傢伙，它們就像長過了頭的蜘蛛…他們為什麼有這麼多手臂？
-scenario_travel_drakefirefarm_success_2,更多的武器意味著更多的爪子，更多的爪子意味著更多的殺戮。
+scenario_travel_drakefirefarm_success_2,更多的武器代表更多的爪子，更多的爪子代表更多的殺戮。
 scenario_travel_drakefirefarm_success_3,這其實是個反問句，不過謝謝你，我今晚會睡個好覺的。
 scenario_travel_eaglecrest_start_1,啊，這些友善的羚牛族沒有告訴我們的是，惡魔已經讓當地的叢林小惡魔歸順於他們了。這可不會是場愉快的戰鬥。
 scenario_travel_eaglecrest_success_1,在這些惡魔死後，這塊地方的小妖逃走了，羚牛族也回到了他們的家園。
@@ -11288,7 +11262,7 @@ scenario_travel_thethorngate_success_3,他們雖然很害怕但並未受傷。�
 scenario_travel_toadmoor_start_1,這麼遠的東方也有亞龍？一定有什麼迫使他們來到了離開了山脈！
 scenario_travel_toadmoor_start_2,小心它們的毒素！貿然靠近的人會被狠狠地咬上一口。儘量從遠處進行攻擊。
 scenario_travel_toadmoor_success,我估計是嚴冬迫使它們來到更遠的地方覓食。只怕還會有更多的地方會遭到亞龍攻擊。
-scenario_travel_wayfarersrest_start_1,這是一個賞金任務，這意味著你們需要擊殺一定數量的敵人來完成它。
+scenario_travel_wayfarersrest_start_1,這是一個賞金任務，這代表你們需要擊殺一定數量的敵人來完成它。
 scenario_travel_wayfarersrest_start_2,好消息是整場戰鬥只會在一塊空地上進行，壞消息是在你擊殺足夠數量前敵人會不斷生成。
 scenario_travel_wayfarersrest_success,做的不錯，我不覺得它們會在短期內捲土重來了！
 scenario_travel_wayfarersrest_win_objective,0
