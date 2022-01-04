@@ -982,7 +982,7 @@ adventure_achievement_1_1_mercskilledbyenemies,人命關天,,,
 adventure_achievement_1_1_mercskilledbyenemies_desc,被敵人殺死的傭兵數量達到10個,,,
 adventure_achievement_1_1_mindthiefreachlevel2,躥跳鼠,,,
 adventure_achievement_1_1_mindthiefreachlevel2_desc,亂心賊達到2級,,,
-adventure_achievement_1_1_nightshroudreachlevel2,刺客,,,
+adventure_achievement_1_1_nightshroudreachlevel2,惡棍,,,
 adventure_achievement_1_1_nightshroudreachlevel2_desc,朧夜客達到2級,,,
 adventure_achievement_1_1_plagueheraldreachlevel2,班恩,,,
 adventure_achievement_1_1_plagueheraldreachlevel2_desc,瘟疫使者達到2級,,,
@@ -1717,7 +1717,7 @@ compendium_itemslots,"當不在劇本中時，角色可以在各個部位中配�
 
 每個角色只能配備一個頭部物品，一個身體物品，一個腳部物品，兩個單手物品或一個雙手物品，和數量不超過角色等級一半（向上取整）的小道具物品。",,,
 compendium_itemslots_title,攜帶部位,,,
-compendium_levellingup_1,在霸業模式中，當角色擁有其升級所需的經驗值（在其經驗值量表上顯示），並處於大地圖時，該角色可以升級。,,,
+compendium_levellingup_1,在霸業模式中，當角色擁有其升級所需的經驗值（在其經驗值量表上顯示），並在世界地圖畫面時，該角色可以升級。,,,
 compendium_levellingup_2,升級後，他們的最大生命值將會增加，每個等級他們可以從兩張新能力卡中解鎖一張並獲得該能力卡。此能力卡在接下來的旅行中可以被選擇使用。通過解鎖更多的角色能力卡，你可以升級和自訂角色的能力卡牌庫，讓角色能夠更好地互相搭配，或是進行角色之間的組合技，這也考驗著你的策略能力。,,,
 compendium_levellingup_title,升級,,,
 compendium_loot_1,"<b>拾取 X</b>
@@ -3027,7 +3027,7 @@ event_city_campaign_35_intro,"無論在黯淡港灣內外，巢靈族都是一�
 event_city_campaign_35_option_a,為他們指引去陷沒市集區的路 一 只有那裡的人才願意和他們做生意。,,,
 event_city_campaign_35_option_b,護送這些巢靈族去新市集並且幫他們找一個香料商人。,,,
 event_city_campaign_35_result_a,你們迅速地給他們指了一指前往陷沒市集區的方向，感覺他們一定能在那裡找到想要的東西。幾個巢靈族嘰嘰喳喳的交談了幾句，然後給了你們一枚金幣。,,,
-event_city_campaign_35_result_b_a,你：你們陪著這幾個巢靈族一路來到了新市集，在這裡很容易就找到了一名聲譽良好的香料商人，不過要讓巢靈族和香料商人互相信任可就沒那麼容易。在最後，通過瘟疫瘟疫使者盟友的幫助，他們終於達成了一致，然後簽訂了合同。,,,
+event_city_campaign_35_result_b_a,你：你們陪著這幾個巢靈族一路來到了新市集，在這裡很容易就找到了一名名聲良好的香料商人，不過要讓巢靈族和香料商人互相信任可就沒那麼容易。在最後，通過瘟疫瘟疫使者盟友的幫助，他們終於達成了一致，然後簽訂了合同。,,,
 event_city_campaign_35_result_b_b,你們帶著這幾個巢靈族來到了新市集，但即便你們做出了最大的努力，也仍舊沒能找到一個願意與他們交易的香料商人。最後牠們兩手空空離開了。,,,
 event_city_campaign_36_intro,"你們決定在睡獅酒館放鬆一下，可是還沒進入放鬆狀態，一個虎背熊腰的男人突然撞上你們的桌子，把酒菜打翻在地。
 
@@ -3212,7 +3212,7 @@ event_city_campaign_51_intro,"你們正在深夜的城市街道上徘徊，一�
 “怎麼回事？”一個衛兵開口問道，“這已經是這個禮拜第三宗謀殺案了。你們最好把知道的事情全都告訴我！”",,,
 event_city_campaign_51_option_a,告訴衛兵這把劍屬於你們之前那個朧夜客戰友。,,,
 event_city_campaign_51_option_b,撒謊說你們什麼都不知道。,,,
-event_city_campaign_51_result_a,你們向城市衛兵解釋說自己認出這把劍，因為你們之前與他一同冒險過。作為一個專業的刺客，他可能就是連環殺人事件的兇手。然而，他已經離開了你們的團隊，所以你也不知道他現在人在何方，更不知道他現在正做些什麼。城市衛兵對你們所提供的情報表示了感謝。,,,
+event_city_campaign_51_result_a,你們向城市衛兵解釋說自己認出這把劍，因為你們之前與他一同冒險過。作為一個專業的惡棍，他可能就是連環殺人事件的兇手。然而，他已經離開了你們的團隊，所以你也不知道他現在人在何方，更不知道他現在正做些什麼。城市衛兵對你們所提供的情報表示了感謝。,,,
 event_city_campaign_51_result_b_a,你們對衛兵搖了搖頭，說自己一定是看錯了。雖然這把劍乍眼看上去很像一位朋友的佩劍，但是仔細一看，就發現兩者之間還是有很大的區別。衛兵們相信了你，聳了聳肩之後，便開始調查兇殺現場。,,,
 event_city_campaign_51_result_b_b,你們笑了笑，然後說自己是在之前某個地穴裡冒險時，看到有強盜拿著類似的劍。不過你們這套說辭實在是太糟糕了，衛兵並不信服，他們帶著懷疑的眼神盯著你們。,,,
 event_city_campaign_52_intro,"你們在酒吧聽到一個傳聞：有種瘟疫正在黯淡港灣裡蔓延開來，它主要感染下等階層的人們 一 街頭的流浪孤兒，還有那些後巷裡的流浪漢。
@@ -4108,8 +4108,8 @@ event_road_campaign_51_intro,"你們找到了一個十字路口並 且決定在�
 而且有東西從這個頭骨的口中伸了出來。",,,
 event_road_campaign_51_option_a,繼續深入調查。,,,
 event_road_campaign_51_option_b,武裝起來，做好防禦戒備並且從這個地區撤退。,,,
-event_road_campaign_51_result_a,你們向長矛靠過去，那個頭骨看上去被插在此地沒多久，上面還連著一些腐爛的肉塊，蒼蠅則圍繞著它嗡嗡亂飛。你們能看到有一張小卡片在頭骨的口中，於是小心翼翼地伸手將它拉了出來。這是一張黑色的卡片，上面還描繪著一把刀刃刺破頭骨而出的圖案。細想了一下，你們回想起傳聞中有一個刺客公會也是用同款的圖案。心裡不禁一顫，於是你們趕緊離開了此地。,,,
-event_road_campaign_51_result_b,你們回想起傳聞中有一個刺客公會，他們會在發起襲擊之前在受害人的家門口豎立起一支頂著頭骨的長矛。因為擔心發生更壞的狀況，所以你們拿出武器一邊遠離這支長矛一邊環顧著四周。當確認周圍沒有威脅之後，你們便迅速離開了此地。也許那個頭骨不是為了你們而插的。,,,
+event_road_campaign_51_result_a,你們向長矛靠過去，那個頭骨看上去被插在此地沒多久，上面還連著一些腐爛的肉塊，蒼蠅則圍繞著它嗡嗡亂飛。你們能看到有一張小卡片在頭骨的口中，於是小心翼翼地伸手將它拉了出來。這是一張黑色的卡片，上面還描繪著一把刀刃刺破頭骨而出的圖案。細想了一下，你們回想起傳聞中有一個惡棍公會也是用同款的圖案。心裡不禁一顫，於是你們趕緊離開了此地。,,,
+event_road_campaign_51_result_b,你們回想起傳聞中有一個惡棍公會，他們會在發起襲擊之前在受害人的家門口豎立起一支頂著頭骨的長矛。因為擔心發生更壞的狀況，所以你們拿出武器一邊遠離這支長矛一邊環顧著四周。當確認周圍沒有威脅之後，你們便迅速離開了此地。也許那個頭骨不是為了你們而插的。,,,
 event_road_campaign_52_intro,"雖然你們還沒看到屍體，但已經聞到了味道。大概有五具屍體橫倒在道路的中央，許多蒼蠅正圍繞著屍體飛舞。
 
 靠近之後，你們發現他們臉上的表情扭曲變形，而且渾身上下都長滿膿瘡。你也注意到他們粗製濫造的武器和護甲 一 看上去像是一群亡命之徒。
@@ -4256,7 +4256,7 @@ event_road_campaign_64_intro,"你們來到了一個十字路口並且決定在�
 event_road_campaign_64_option_a,繼續深入調查。,,,
 event_road_campaign_64_option_b,武裝起來，做好防禦戒備並且從這個地區撤退。,,,
 event_road_campaign_64_result_a,你們的理智敵不過自身的好奇心，你們靠近了這支頭骨長矛，這看上去和辛-拉集團宣告殺人的手法非常相像。突然之間，一群身披黑衣的武士憑空出現在你們面前，他們一言不發就舉起那細長的彎刀向你們發起了攻擊。因為他們這次的襲擊太過出其不意，所以你們在戰鬥中的表現十分不佳，雖然最後還是將他們擊退，但是你們渾身是傷，精疲力竭而且士氣十分低落。,,,
-event_road_campaign_64_result_b,你們認出這支長矛頭骨正是辛-拉集團的標誌，於是武裝起來並且準備從這裡撤退，不過沒走多遠，你們就注意到一群身披黑衣的刺客從後方向你們追了過來。你們轉入防禦陣型，準備作戰，這場戰鬥打得異常艱苦，不過最後你們還是殺光了所有刺客，希望他們不會再來找你們麻煩。,,,
+event_road_campaign_64_result_b,你們認出這支長矛頭骨正是辛-拉集團的標誌，於是武裝起來並且準備從這裡撤退，不過沒走多遠，你們就注意到一群身披黑衣的惡棍從後方向你們追了過來。你們轉入防禦陣型，準備作戰，這場戰鬥打得異常艱苦，不過最後你們還是殺光了所有惡棍，希望他們不會再來找你們麻煩。,,,
 event_road_campaign_65_intro,"當你們翻過一座山嶺的時候，看到一群腐食鳥從東面飛起然後四散而去。牠們一定是在那裡吃了一頓大餐，你們決定過去調查一下。
 
 沒走多久，你們發現了一具男性屍體躺在地上，屍身已經發黴腐壞。屍體的臉部血肉模糊，但是你注意到屍首的脖子上有一條獨特的鏈子，你還記得睡獅酒館那個委託人對其兄弟的描述。這很可能就是那人的兄弟。",,,
@@ -4584,16 +4584,16 @@ ftue_2,"在螢幕左邊你將發現<color=#EACF8C>團隊面板</color>。這裡�
 ftue_2.2,點擊<color=#EACF8C>第一個角色槽</color>打開角色選擇面板,,,
 ftue_3,使用角色選擇面板，你可以建立、查看和增添傭兵到你的當前團隊。 現在它看起來像銅頸山脈一樣一無所有，所以最好<color=#EACF8C>點擊“新傭兵”</color>以建立你的第一個角色！,,,
 ftue_3.2,點擊“<color=#EACF8C>新傭兵</color>”按鈕去建立一個角色,,,
-ftue_4,"下一步你將選擇一個<color=#EACF8C>起始角色種類</color>。
-每個角色擁有獨特的技能和遊戲方式。隨著你的等級提升，可獲取新能力卡並解鎖更多角色種類。
+ftue_4,"下一步你將選擇一個<color=#EACF8C>起始角色職業</color>。
+每個角色擁有獨特的技能和遊戲方式。隨著你的等級提升，可獲取新能力卡並解鎖更多角色職業。
 點擊角色頭像以瞭解他們的更多資訊並選擇任意一個成為你的第一個傭兵！",,,
-ftue_4.2,選擇<color=#EACF8C>六個起始角色種類</color>中的一個,,,
-ftue_4.3,"不錯的選擇！現在記住，外表不代表一切，傭兵的能力卡才代表著他們戰鬥中的行動能力。你能點擊“<color=#EACF8C>起始能力卡</color>”按鈕去判斷他對你的團隊這是不是正確的傭兵。
+ftue_4.2,選擇<color=#EACF8C>六個起始角色職業</color>中的一個,,,
+ftue_4.3,"不錯的選擇！現在記住，外表不代表一切，傭兵的能力卡才代表著他們戰鬥中的行動能力。你能點擊“<color=#EACF8C>初始能力卡</color>”按鈕去判斷他對你的團隊這是不是正確的傭兵。
 一旦你確定你的決定，點擊“<color=#EACF8C>選擇傭兵</color>”按鈕以繼續。",,,
 ftue_5,選擇<color=#EACF8C>兩個個人任務</color>之一,,,
 ftue_6,祝賀！你已經建立成功你的第一個傭兵！現在記住，你需要<color=#EACF8C>最少兩個傭兵</color>出去尋找冒險。構建一個戰鬥中成員之間互補的傭兵團隊是很重要的。,,,
 ftue_7,"在團隊面板中點擊<color=#EACF8C>第二角色槽</color>並建立一個新角色。
-要知道你不能同時在團隊中擁有數量超過一個的某個角色種類的傭兵，請創造不同的角色！",,,
+要知道你不能同時在團隊中擁有數量超過一個的某個角色職業的傭兵，請創造不同的角色！",,,
 ftue_7.2,點擊<color=#EACF8C>第二角色槽</color>去打開角色選擇面板,,,
 ftue_8,"到了進行一些冒險的時候了！
 如果你心中已確定當前的團隊，點擊螢幕中心以關閉團隊角色選擇面板並返回世界地圖。",,,
@@ -4642,9 +4642,9 @@ glossary_advantage,優勢攻擊：具有優勢的攻擊方將抽取兩張攻擊�
 glossary_air,元素充能 一 氣：用氣元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能同一輪次連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。,,,
 glossary_any,元素充能 一 任意元素：用你選擇的元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。具有任意元素充能標識的怪物行動時隨機選擇一個元素進行充能。,,,
 glossary_attack,攻擊：“攻擊 X”能力卡使得單位以基礎值X去攻擊射程內的一個敵人。,,,
-glossary_attackdefault,基本攻擊：放棄使用卡的頂部行動，並進行一個“攻擊 2”的行動。此行動依然棄牌。,,,
+glossary_attackdefault,基礎進攻：放棄使用卡的頂部行動，並進行一個“攻擊 2”的行動。此行動依然棄牌。,,,
 glossary_attackersgaindisadvantage,攻擊方陷入劣勢進攻：任意針對這名單位的攻擊將陷入劣勢進攻。,,,
-glossary_augment,竊靈劍師特效賦能：無論何時竊靈劍師進行近戰進攻時，場地上的角色特效攻擊將被使用。,,,
+glossary_augment,心靈竊賊特效賦能：無論何時心靈竊賊進行近戰進攻時，場地上的角色特效攻擊將被使用。,,,
 glossary_aura,光環：“光環”的效果僅當它的目標在光環射程範圍內被啟動。如果移動出光環的射程範圍，光環外的目標們將失去被賦予的任何效果。,,,
 glossary_bless,祝福：被祝福的單位添加一張祝福（x2）卡進入他們的攻擊修正卡堆。當被抽後，攻擊造成雙倍傷害，並且這張祝福（x2）卡從攻擊修正卡堆移除。,,,
 glossary_command,獸王特效口令：帶“口令”的行動使得獸王的熊而非獸王釋放能力卡。,,,
@@ -4716,7 +4716,7 @@ glossary_light,元素充能 一 光：用光元素充滿戰場（僅針對己方
 glossary_loot,拾取：“拾取 X”能力卡使得單位收集距離為X的範圍內且在視線內的所有金幣和財寶格子，不受怪物或障礙物影響。,,,
 glossary_lost,焚燒：表示這張卡在使用後將不會進入棄牌堆（改為進入燼牌堆），因此卡不能通過休息回收（但是可以通過某些能力卡進行回收）。,,,
 glossary_move,移動： “移動 X”能力卡使得一名單位在地圖上移動至多X個格子。,,,
-glossary_movedefault,基礎移動：放棄使用卡的底部行動，並進行一個“移動 2”的行動。此行動依然棄牌。,,,
+glossary_movedefault,基礎前進：放棄使用卡的底部行動，並進行一個“移動 2”的行動。此行動依然棄牌。,,,
 glossary_muddle,混亂： 混亂的單位將會在他所有的攻擊中陷入攻擊劣勢。混亂狀態在被施法單位下一輪次結束時被移除。,,,
 glossary_noenhancement,這個能力卡以後可以被提升，變得更加強力。,,,
 glossary_permanentlylost,永久焚燒：表示這張卡不能從燼牌堆中通過任何方式回手。,,,
@@ -4994,17 +4994,17 @@ gui_create_campaign_enhancement,能力強化,,,
 gui_create_campaign_enhancement_descr,強化設定在遊戲開始後就無法變更，謹慎選擇！,,,
 gui_create_campaign_enhancement_original,原始設定,,,
 gui_create_campaign_enhancement_variant,新版設定,,,
-gui_create_character_class_cards,起始能力卡,,,
-gui_create_character_class_confirm,確認角色種類,,,
-gui_create_character_class_roster_descr,選擇角色種類,,,
+gui_create_character_class_cards,初始能力卡,,,
+gui_create_character_class_confirm,確認角色職業,,,
+gui_create_character_class_roster_descr,選擇角色職業,,,
 gui_create_character_class_roster_title,建立角色,,,
-gui_create_character_class_tab,角色種類,,,
-gui_create_character_confirmation,{0}已加入玩家團隊,,,
+gui_create_character_class_tab,職業,,,
+gui_create_character_confirmation,{0} 已加入團隊,,,
 gui_create_character_name,角色名字,,,
 gui_create_character_name_confirm,創造傭兵,,,
 gui_create_character_name_tab,名字,,,
 gui_create_character_personal_quest_confirm,選擇個人任務,,,
-gui_create_character_personal_quest_help,傭兵的個人任務是他們參加玩家團隊的理由。 <color=#EACF8C>要小心</color>  一 一旦個人任務完成，傭兵將退休，無法再使用。,,,
+gui_create_character_personal_quest_help,傭兵的個人任務是他們加入團隊的理由。注意！一旦個人任務完成，該傭兵將退休，無法再使用（可以再次建立同職業的傭兵）。,,,
 gui_create_character_personal_quest_help_title,選擇個人任務,,,
 gui_create_character_personal_quest_tab,個人任務,,,
 gui_create_error_report,建立錯誤報告,,,
@@ -5019,11 +5019,11 @@ gui_current_turn,目前的輪次,,,
 gui_custom_mods_title,自訂Mod：,,,
 gui_custom_rulesets_desc,啟動Mod將它們應用於遊戲的規則集。,,,
 gui_custom_rulesets_title,自訂規則集,,,
-gui_default_attack,基本攻擊,,,
-gui_default_move,基礎移動,,,
+gui_default_attack,基礎攻擊,,,
+gui_default_move,基礎前進,,,
 gui_delete,刪除,,,
 gui_delete_character,刪除角色,,,
-gui_delete_character_confirmation,擁有的角色將返回商人的商店供應，所有物品所擁有的所有物品都消失了,,,
+gui_delete_character_confirmation,角色持有的物品將返回商店裡繼續供應，而角色持有的金幣將會消失,,,
 gui_delete_party_confirmation,你想刪除這個存檔嗎？,,,
 gui_delete_warning,這個操作無法取消。你確定要繼續嗎？,,,
 gui_devotion_level,奉獻等級{0},,,
@@ -5182,7 +5182,7 @@ gui_frontendtutorial_07_description,<color=#a06e4b><b>惡棍</b></color>有兩�
 gui_frontendtutorial_07_tilte,7.暗夜刀鋒,,,
 gui_frontendtutorial_08_description,<color=#a06e4b><b>織咒師</b></color>是一個強大的職業，但在激烈的戰鬥中很脆弱，你該好好學習如何充分利用元素。,,,
 gui_frontendtutorial_08_tilte,8.掌握元素,,,
-gui_frontendtutorial_09_description,<color=#a06e4b><b>工匠</b></color>屬於靈活機智的職業，難道流個血就能難住他們嗎？,,,
+gui_frontendtutorial_09_description,<color=#a06e4b><b>機工巧匠</b></color>屬於靈活機智的職業，難道流個血就能難住他們嗎？,,,
 gui_frontendtutorial_09_tilte,9.大腦勝過肌肉,,,
 gui_frontendtutorial_10_description,四個<color=#C53F3F>復生的骷髏</color>已經圍住了<color=#a06e4b><b>岩石心</b></color>，時間不多了，你能不能突圍並全部殺死他們呢？,,,
 gui_frontendtutorial_10_tilte,10.岩石心臟,,,
@@ -5326,7 +5326,7 @@ gui_item_cards_smallitem,小道具卡,,,
 gui_item_equipped_different_slot,裝備進槽中<color=#F1DBAEFF> {0}</color>,,,
 gui_item_gui_item_slot_smallitem_locked_description,通過將此角色升級到{0}級來解鎖此物品槽,,,
 gui_item_gui_item_slot_smallitem_locked_mystery,怎麼解鎖這個槽？,,,
-gui_item_reputation_discount_tooltip,"<color=#{3}><rotate={4}><sprite name=""ReputationLevel_Icon"" color=#{3}></rotate>聲譽修正：{2}<sprite name=""Gold_Icon_White"" color=#{3}></color>
+gui_item_reputation_discount_tooltip,"<color=#{3}><rotate={4}><sprite name=""ReputationLevel_Icon"" color=#{3}></rotate>名聲修正：{2}<sprite name=""Gold_Icon_White"" color=#{3}></color>
 {1}<sprite name=""Gold_Icon_White""> + <color=#{3}><rotate={4}><sprite name=""ReputationLevel_Icon"" color=#{3}></rotate>{2}</color> = <color=#FCC954FF>{0}<sprite name=""Gold_Icon_White"" color=#FCC954FF></color>",,,
 gui_item_slot_body,身體,,,
 gui_item_slot_hand,手部,,,
@@ -5789,14 +5789,14 @@ gui_partygold_tooltip,"玩家團隊擁有的金幣。
 總計：{0}",,,
 gui_partylevel,"<size=+4><color=#F1DBAE>玩家團隊級別</color></color></size>
 這是通過在玩家團隊的平均角色水準，除以2並向上圓整來計算。然後，這用於確定敵人的水準，陷阱的傷害以及戰利品的價值。",,,
-gui_partyprosperity,黯淡港灣的財富等級,,,
-gui_partyprosperity_tooltip,"<size=+4><color=#F1DBAE> 黯淡港灣財富等級 一 {0}級 </color></color></size>
-黯淡港灣的財富等級能用於解鎖商人那裡的新物品，並允許你建立一個等於或低於當前黯淡港灣的財富等級的新角色。
-賺取繁榮點數<sprite name=""ProsperityLevel_Icon"">將增加黯淡港灣的財富等級。通過完成某些劇本或遭遇，可以獲得或失去繁榮點數。",,,
-gui_partyreputation,聲譽,,,
-gui_partyreputation_tooltip,"<size=+4><color=#F1DBAE>聲譽級別{0} l {0}</color>
-<color=#{2}><rotate={3}><sprite name=""ReputationLevel_Icon"" color=#{2}></rotate>聲譽修正卡：{1}<sprite name=""Gold_Icon_White"" color=#{2}></color></size>
-玩家團隊的聲譽將影響商家商店的物品的成本以及某些遭遇的結果。",,,
+gui_partyprosperity,黯淡港灣的繁榮度,,,
+gui_partyprosperity_tooltip,"<size=+4><color=#F1DBAE>黯淡港灣的繁榮度：{0}</color></size>
+黯淡港灣的繁榮度能解鎖商店裡的新物品。另外，在你建立新角色時，角色的初始等級可以更高（最高等於繁榮度）。
+獲得繁榮點數<sprite name=""ProsperityLevel_Icon"">將增加黯淡港灣的繁榮度。完成某些劇本或遭遇，可能會獲得或失去繁榮點數。",,,
+gui_partyreputation,名聲,,,
+gui_partyreputation_tooltip,"<size=+4><color=#F1DBAE>名聲等級：{0}</color>
+<color=#{2}><rotate={3}><sprite name=""ReputationLevel_Icon"" color=#{2}></rotate>名聲修正：{1} <sprite name=""Gold_Icon_White"" color=#{2}></color></size>
+團隊的名聲將影響商店的物品的售價以及某些遭遇的結果。",,,
 gui_pass,Pass,,,
 gui_passive_attributes,被動屬性,,,
 gui_passive_attributes_description,被動屬性允許角色忽略特定的負面影響,,,
@@ -5862,16 +5862,16 @@ gui_quest_reward_perkpoint,獲得專精點數。,,,
 gui_quest_reward_perkpoint_unlocked,新的專精點數解鎖！,,,
 gui_quest_reward_perkpoints,獲得 {0} 個專精點數,,,
 gui_quest_reward_prosperity,{0} 個繁榮點數,,,
-gui_quest_reward_reputation,{0} 聲譽,,,
+gui_quest_reward_reputation,{0} 名聲,,,
 gui_quest_reward_roadevent,解鎖道路事件,,,
-gui_quest_reward_unlock,解鎖{0},,,
-gui_quest_reward_unlockchapter,解鎖章節{0},,,
-gui_quest_reward_unlockcharacter,解鎖角色,,,
-gui_quest_reward_unlocked,已解鎖{0},,,
+gui_quest_reward_unlock,解鎖 {0},,,
+gui_quest_reward_unlockchapter,解鎖章節 {0},,,
+gui_quest_reward_unlockcharacter,解鎖職業,,,
+gui_quest_reward_unlocked,已解鎖 {0},,,
 gui_quest_reward_unlockenhancer,解鎖技能附魔師,,,
 gui_quest_reward_unlockquest,解鎖任務,,,
 gui_quest_reward_unlockrelicquest,解鎖聖者遺物任務,,,
-gui_quest_rewards,獎勵：,,,
+gui_quest_rewards,獎勵,,,
 gui_quest_select_blocked,當一個完成了個人任務的傭兵在團隊中時，你不能開始任務。,,,
 gui_quest_selected_by_host,<color=#FCC954FF>此任務已由主機選擇。</color>,,,
 gui_quest_starting_location_missing,這個任務需要一個起點村莊,,,
@@ -5917,7 +5917,7 @@ gui_results_highest,最高分,,,
 gui_results_highest_score_highlight,最高分！,,,
 gui_results_items_spent,物品使用數,,,
 gui_results_lose,失敗！,,,
-gui_results_objective,目標,,,
+gui_results_objective,目標：,,,
 gui_results_reward,領取你的獎勵！,,,
 gui_results_stats,統計項目,,,
 gui_results_total,全部的,,,
@@ -5998,7 +5998,7 @@ gui_start_multiplayer_wrong_phase_tooltip,開始多人遊戲僅在卡選擇階�
 gui_start_round_banner,回合{0},,,
 gui_starting_perk_points,初始專精,,,
 gui_starting_perk_points_tooltip,"<size=+2><color=#EACF8C>初始專精</color></size>
-任何未來新加入的傭兵獲得的傭兵的初始專精數等於1加上之前退休的傭兵擁有的最高初始專精數。",,,
+任何新加入的傭兵獲得的初始專精數等於（1 + 已退休傭兵中最高的初始專精數）。",,,
 gui_stats,基礎統計資料,,,
 gui_steam_friends,朋友,,,
 gui_submit,Submit,,,
@@ -6221,7 +6221,7 @@ intro_personalquest_2,"離別總是苦澀的，但前行總是伴隨著一些不
 intro_prosperity,"黯淡港灣的繁榮度受到了你的所作所為的影響。每當獲得足夠的繁榮度，黯淡港灣財富等級將會上升。
 增加黯淡港灣的財富等級將解鎖<color=#EACF8C>商人商店的新道具</color>，並將允許你此後建立的新角色提升到不高於當前黯淡港灣財富等級的等級。",,,
 intro_quest,現在可能是個檢查傭兵的<color=#EACF8C>能力卡和裝備</color>，以確保他們做好了戰鬥準備的時機。在任務描述中，你可以看到你將面臨的敵人。將滑鼠懸停在他們身上來查看他們的詳細資訊。,,,
-intro_reputation,玩家團隊的聲譽受到你行為的影響。 聲譽將影響商人商店中的<color=#EACF8C>物品的售價</color>以及某些遭遇的結果。善良的行為通常會獲得獎勵，但它們可能沒那麼有趣...如何選擇取決於你。,,,
+intro_reputation,玩家團隊的名聲受到你行為的影響。 名聲將影響商人商店中的<color=#EACF8C>物品的售價</color>以及某些遭遇的結果。善良的行為通常會獲得獎勵，但它們可能沒那麼有趣...如何選擇取決於你。,,,
 intro_temple_1,"每當向聖橡樹神廟捐贈10個金幣時，傭兵都會受到祝福。
 被祝福的傭兵將在下一個地城中<color=#EACF8C>獲得兩張額外的x2攻擊修正卡</color>。",,,
 intro_temple_2_splitgold,請記住，每個傭兵都有自己的金幣儲備和個人背包，所以請確認在捐款給神廟之前<color=#EACF8C>選擇了正確的傭兵頭像</color>。,,,
@@ -6609,7 +6609,7 @@ loading_tip_017,當裝備新物品時請注意 一 它們將會綁定到那個�
 loading_tip_018,你可以通過完成成就解鎖更多附魔類型，也可以通過探索地圖為每個傭兵解鎖更多的附魔槽。,,,
 loading_tip_019,霸業模式的旅行和職業任務等級將會隨著遊戲的進行而改變。故事和聖者遺物任務往往更難！,,,
 loading_tip_020,不是所有通關劇本的方式都是消滅所有敵人 一 請務必檢查你的劇本目標。,,,
-loading_tip_021,召喚夥伴很有用，但它們往往比較莽撞  一  若想讓它們活下來，就得幫它們吸引火力！,,,
+loading_tip_021,召喚夥伴很有用，但它們往往比較莽撞 一 若想讓它們活下來，就得幫它們吸引火力！,,,
 loading_tip_022,如果你不確定你將行動得過早還是過晚，請考慮挑選兩張不管行動早晚都能發揮效用的牌。,,,
 loading_tip_023,觀察敵人的移動並瞭解他們的牌堆和技能。一些怪物前進一直很快，另一些相反，這是能讓你在攻擊中保持優勢的資訊。,,,
 loading_tip_024,你可以按住L來查看人物的視野範圍。,,,
@@ -6682,7 +6682,7 @@ message_complete_achievement_1_1_doomstalkerreachlevel2_3,我已經讓衛兵隊�
 message_complete_achievement_1_1_doomstalkerreachlevel2_4,我想我們應該調查一下。城市守衛不妨給我們發點穩定工資算了...,,,
 message_complete_achievement_1_1_elementalistreachlevel2_1,元素師已經在研究斯萬格了，這位上古英雄在數百年前是物法雙修的大師。,,,
 message_complete_achievement_1_1_elementalistreachlevel2_2,我已經讓他們去調查血色灘旁邊泥道村的廢墟了。說不定他們能發現加強自身近戰能力的方法。,,,
-message_complete_achievement_1_1_mindthiefreachlevel2_1,竊靈劍師從惡魔閘口鎮的老窩其他人手上收到了一條字跡潦草的消息，警告她人類正在威脅她的家園。,,,
+message_complete_achievement_1_1_mindthiefreachlevel2_1,心靈竊賊從惡魔閘口鎮的老窩其他人手上收到了一條字跡潦草的消息，警告她人類正在威脅她的家園。,,,
 message_complete_achievement_1_1_nightshroudreachlevel2_1,現在冥夜死衣已經牢牢地成為了團隊一員，他暗示我說想要研究大陸中的一些更稀有的敵人。,,,
 message_complete_achievement_1_1_nightshroudreachlevel2_2,他想要怎麼研究他們？,,,
 message_complete_achievement_1_1_nightshroudreachlevel2_3,殺掉，然後解剖他們的屍體。,,,
@@ -6704,7 +6704,7 @@ message_complete_achievement_1_1_sawbonesreachlevel2_1,我聽說魔脊洞穴的�
 message_complete_achievement_1_1_sawbonesreachlevel2_2,雖然有些奇怪，但這仍足夠讓我懷疑是魔法戲法。,,,
 message_complete_achievement_1_1_sawbonesreachlevel2_3,鋸骨醫者已經跟我說過了。他問我們能不能調查一下 一 無償的那種，因為這是他作為聖橡樹的治療者的神聖職責。,,,
 message_complete_achievement_1_1_sawbonesreachlevel2_4,你同意了！？你肯定同意了。好吧，對我來說，一旦人們對你心存感激，敲詐他們的積蓄總是更容易些。我們走吧。,,,
-message_complete_achievement_1_1_scoundrelreachlevel2_1,今早起來我在門外發現了一封信。給刺客的，要求在叢林裡會面。我以後能不能不要再成為中間人了？,,,
+message_complete_achievement_1_1_scoundrelreachlevel2_1,今早起來我在門外發現了一封信。給惡棍的，要求在叢林裡會面。我以後能不能不要再成為中間人了？,,,
 message_complete_achievement_1_1_soothsingerreachlevel2_1,吟遊歌者問了我什麼地方可以給她的新歌一些靈感，我推薦了一個不太嗜血的強盜團夥。,,,
 message_complete_achievement_1_1_soothsingerreachlevel2_2,絞架嶺附近有一個小隊可能能幫幫忙。,,,
 message_complete_achievement_1_1_spellweaverreachlevel2_1,行維族的織魔師給了我們一封信，想要我們幫忙調查東部森林中魔力平衡受到的擾動。,,,
@@ -7188,10 +7188,10 @@ message_unlock_sunkeeper_1,你對光元素的運用將執日士吸引到了我�
 message_unlock_sunkeeper_2,她現在可以通過角色功能表進行添加。,,,
 millpond,磨塘地,,,
 minderer,減壓器,,,
-mindthief,竊靈劍師,,,
-mindthief_adventure_description,"竊靈劍師通過使用精神攻擊、鋒利的刀片和鼠群的小牙齒來成為可怕的對手。
+mindthief,心靈竊賊,,,
+mindthief_adventure_description,"心靈竊賊通過使用精神攻擊、鋒利的刀片和鼠群的小牙齒來成為可怕的對手。
 有一個獨特的角色特效賦能攻擊系統，允許她為她所有的近戰進攻添加賦能特效，成長之後她的一些遠程進攻也擁有賦能特效。 她還可以控制敵人和召喚小兵，因而做到許多的玩法可能。 敬請注意她較少的生命值。",,,
-mindthief_description,竊靈劍師通過使用精神攻擊、鋒利的刀片和鼠群的小牙齒來成為可怕的對手。,,,
+mindthief_description,心靈竊賊通過使用精神攻擊、鋒利的刀片和鼠群的小牙齒來成為可怕的對手。,,,
 mindthief_difficulty,高,,,
 mindthief_role,近戰輸出,,,
 mindthief_skin_alt,巫醫,,,
@@ -7614,23 +7614,23 @@ perk_tinkerer_10,蔓延,,,
 perk_tinkerer_10_desc,"添加一張<color=""orange"">+0</color>增加目標<sprite name=Target>卡",,,
 perk_tinkerer_11,堅韌,,,
 perk_tinkerer_11_desc,忽略劇本負面狀態,,,
-personalquest_a_helping_hand,援手,,,
+personalquest_a_helping_hand,熱心助人,,,
 personalquest_a_helping_hand_completed,當你看到一些人抵達他們渴求的目標並最終心身放鬆的時，那一刻，暖流遍佈全身，無以言說。觀摩人們身上發生的變化永遠不會乏味。然而世界很大，幽暗迷城只是其中一小部分 一 還有許多人需要獲取説明以實現他們的夢想，而你就是那個要去幫助的人。在向他們道別後，你重新踏上尋找掙扎靈魂的旅途 ，你不禁希望能有其他人繼續為這裡的人帶來一個唱歌，跳舞和慶祝的理由。,,,
-personalquest_a_helping_hand_desc,"<b>需經歷兩名其他角色達成其個人任務</b>
+personalquest_a_helping_hand_desc,"<b>經歷其他隊友完成他們的個人任務2次</b>
 
-你從來都不是什麼焦點人物。這世上有太多自私自利，嘩眾取寵，沽名釣譽的人。但你更偏好充當眾人背後的“綠葉”。在這個城市裡的每個人看上去都有著崇高的追求和目標，你十分樂於向他們提供幫助以達成他們的理想。",,,
-personalquest_a_helping_hand_objective_desc,需經歷兩名其他角色達成其個人任務。,,,
-personalquest_a_helping_hand_objective_progress_tooltip,Other characters achieving Personal Quests experienced：,,,
-personalquest_a_helping_hand_objective_progress_tooltip_empty,No Personal Quest completions experienced yet.,,,
-personalquest_a_study_of_anatomy,解剖學研究,,,
+你從來不是鎂光燈的焦點，世界上已經充滿太多自私自利、嘩眾取寵或沽名釣譽的人，但你總是偏好幕後工作。在這個城鎮上的每個人看上去都有著崇高的追求和目標，你非常樂意協助他們達成這些理想。",,,
+personalquest_a_helping_hand_objective_desc,經歷其他隊友完成他們的個人任務2次。,,,
+personalquest_a_helping_hand_objective_progress_tooltip,其他隊友完成了個人任務：,,,
+personalquest_a_helping_hand_objective_progress_tooltip_empty,還沒有其他隊友完成個人任務。,,,
+personalquest_a_study_of_anatomy,解剖學的研究,,,
 personalquest_a_study_of_anatomy_completed,美妙。真是太美妙了。那些你所發現的，那些你所記錄的...你會在餘生中繼續研究它們。想想看吧，你只需要冷眼看著你的傭兵夥伴受傷！你一邊感激他們為科學而獻身，一邊整理好了行囊，向家進發 一 你有了一個將一生為之奮鬥的工作。會有其他人不得不接手你曾經的醫療工作，但你相信他們很快就會出現了。,,,
-personalquest_a_study_of_anatomy_desc,"<b>需經歷盟友15次變為精疲力竭</b>
+personalquest_a_study_of_anatomy_desc,"<b>經歷其他隊友精疲力竭15次</b>
 
-身體的奧妙是多麼引人入勝，究竟是什麼驅使著身體行動，它又是如何協調運作，還有許多不同的種族需要研究！試想一下，如果能夠檢查那些處於壓力之下的解剖體，便能找出它們的極限。當然，在大學裡雖能找出可供研究的實體，但它們早已失了生氣。最佳的研究方法當然是親手處理一些新鮮的樣本。",,,
-personalquest_a_study_of_anatomy_objective_desc,需經歷盟友15次變為精疲力竭。,,,
+身體的奧妙是多麼引人入勝 一 究竟是什麼驅使著身體行動？它又是如何協調運作？還有許多不同的種族需要研究！真想在極端環境下好好發掘這些實驗體的極限。當然，在大學裡雖能找出可供研究的實驗體，但它們早已沒了生機。最佳的研究方法當然是親手處理新鮮的樣本。",,,
+personalquest_a_study_of_anatomy_objective_desc,經歷其他隊友精疲力竭15次。,,,
 personalquest_a_study_of_anatomy_objective_progress_tooltip,Party member exhaustions experienced：,,,
 personalquest_a_study_of_anatomy_objective_progress_tooltip_empty,No party members have become exhausted yet.,,,
-personalquest_aberrant_slayer,惡魔獵手者,,,
+personalquest_aberrant_slayer,惡魔獵人,,,
 personalquest_aberrant_slayer_completed,在於每個元素位元面的不同惡魔戰鬥的過程中，你只學到了一件事：殺死它們可能很有趣，但絕不高效。如果你想要贏得與惡魔軍團的戰鬥 一 不僅僅是無休止的延續 一 那麼你必須找到一個方法將惡魔永遠逐出這個位面。想達成如此壯舉所需的知識量並不存在於黯淡港灣，所以你拋下了公會裡的傭兵獨自起身追尋。與此同時，元素的傾軋將繼續在這座城市中上演......,,,
 personalquest_aberrant_slayer_desc,"<b>殺死一隻烈焰惡魔、一隻冰霜惡魔、一隻疾風惡魔、一隻大地惡魔、一隻暗夜惡魔、一隻烈光惡魔。</b>
 
@@ -7638,7 +7638,7 @@ personalquest_aberrant_slayer_desc,"<b>殺死一隻烈焰惡魔、一隻冰霜�
 personalquest_aberrant_slayer_objective_desc,殺死一隻烈焰惡魔、一隻冰霜惡魔、一隻疾風惡魔、一隻大地惡魔、一隻暗夜惡魔、一隻烈光惡魔。,,,
 personalquest_aberrant_slayer_objective_progress_tooltip,Different elementally-aligned Demons killed：,,,
 personalquest_aberrant_slayer_objective_progress_tooltip_empty,No Demons killed yet.,,,
-personalquest_augmented_abilities,賦能技能,,,
+personalquest_augmented_abilities,自我提升,,,
 personalquest_augmented_abilities_completed,這種力量是你從未設想過的。你相信現在的你可以做到幾乎任何事情，但也沒必要完全確信 一 你想要自己證明。是時候帶著你新獲得的能力離開黯淡港灣，到世界各地去完成所有你能遇到的事情了。但你很快就會回來：你敢打賭下次回來時，會有更多行維族願意為了一點點錢來進一步強化你的力量。,,,
 personalquest_augmented_abilities_desc,"<b>擁有四種附魔效果（需要解鎖女巫）</b>
 
@@ -7646,7 +7646,7 @@ personalquest_augmented_abilities_desc,"<b>擁有四種附魔效果（需要解�
 personalquest_augmented_abilities_objective_desc,擁有四種附魔效果（需要解鎖女巫）,,,
 personalquest_augmented_abilities_objective_progress_tooltip,Enhancements purchased：,,,
 personalquest_augmented_abilities_objective_progress_tooltip_empty,No enhancements purchased yet.,,,
-personalquest_battle_legend,戰鬥傳說,,,
+personalquest_battle_legend,戰鬥傳奇,,,
 personalquest_battle_legend_completed,那些你被你擊敗的生物，那些你挫敗的計畫......你所做的一切將被永遠銘記。你敢肯定從來沒有傭兵能像你這麼偉大。為了確保你的傳奇被永遠傳頌，你必須去往更廣闊的世界展現你高超的技藝和故事，所以你離開了黯淡港灣去往更遙遠的地方追尋更宏大的戰鬥。如果運氣好的話，你可能還會碰見一個將你的史詩冒險全部寫入詩歌的吟游詩人......,,,
 personalquest_battle_legend_desc,"<b>從戰鬥目標中獲得十五個增益點</b>
 
@@ -7662,7 +7662,7 @@ personalquest_elemental_samples_desc,"<b>在以下地區各完成一個劇本：
 personalquest_elemental_samples_objective_desc,在以下地區各完成一個劇本：黯淡港灣，尖刀森林，徘徊沼澤，守望山脈和迷霧之海。,,,
 personalquest_elemental_samples_objective_progress_tooltip,Scenarios in different regions completed：,,,
 personalquest_elemental_samples_objective_progress_tooltip_empty,No scenarios completed yet.,,,
-personalquest_eternal_wanderer,永恆的漫遊者,,,
+personalquest_eternal_wanderer,浪跡天涯,,,
 personalquest_eternal_wanderer_completed,這是在夢中也不曾見過的瑰麗美景。作為一名傭兵，你親自踏足了那些人煙罕至的地方 一 甚至曾與其他位面的生物擦肩而過。置身於這些自然奇觀中，現在的你希望能專注於這些地點本身，而不是途中的戰鬥。作為傭兵的日子已經教會了你如何獨立處理問題，但其他居民會取代你的位置成為新的戰士：你離開了黯淡港灣，去以一種沒有創傷與犧牲的方式追尋更多的風景與精力。,,,
 personalquest_eternal_wanderer_desc,"<b>完成十五個不同的劇本</b>
 
@@ -7670,7 +7670,7 @@ personalquest_eternal_wanderer_desc,"<b>完成十五個不同的劇本</b>
 personalquest_eternal_wanderer_objective_desc,完成十五個不同的劇本,,,
 personalquest_eternal_wanderer_objective_progress_tooltip,Scenarios completed：,,,
 personalquest_eternal_wanderer_objective_progress_tooltip_empty,No scenarios completed yet.,,,
-personalquest_fearless_stand,無所畏懼,,,
+personalquest_fearless_stand,頂天立地,,,
 personalquest_fearless_stand_completed,他們曾嘲笑你是個小不點，是個怪人；你曾被看輕，你曾被羞辱。沒有人會覺得你可以憑藉不屈的意志擊敗那些生物：傲慢者已經為他們的罪行付出了代價。你向黯淡港灣證明即使矮小的人也可以如此強大。你清楚現在你可以回到你原先的生活了，不會再有人來侮辱你了。但你在冥冥中有一個感覺，你不會是最後一個來到這座城市的矮小的，醜陋的戰士。,,,
 personalquest_fearless_stand_desc,"<b>擊殺20個精英怪</b>
 
@@ -7678,7 +7678,7 @@ personalquest_fearless_stand_desc,"<b>擊殺20個精英怪</b>
 personalquest_fearless_stand_objective_desc,擊殺20個精英怪。,,,
 personalquest_fearless_stand_objective_progress_tooltip,Elite monsters killed：,,,
 personalquest_fearless_stand_objective_progress_tooltip_empty,No Elite monsters killed yet.,,,
-personalquest_finding_the_cure,找尋解藥,,,
+personalquest_finding_the_cure,找到解藥,,,
 personalquest_finding_the_cure_completed,在離開前，你向傭兵團隊表達了最真摯的感謝，然後就趕緊回到了村莊。你當然想知道黯淡港灣背後的謎團，但你現在只想趕快回到家鄉 一 希望為時不晚。你不想要再看到別人的死亡了。,,,
 personalquest_finding_the_cure_desc,"<b>擊殺8隻叢林小惡魔。之後解鎖劇本“被遺忘的果林”並按照劇本說明繼續</b>
 
@@ -7690,7 +7690,7 @@ personalquest_finding_the_cure_objective_step0_desc,擊殺8隻叢林小惡魔。
 personalquest_finding_the_cure_objective_step1_desc,按照劇本“被遺忘的果林”的劇本說明繼續。,,,
 personalquest_finding_the_cure_objective_step2_desc,按照劇本“煉金實驗室”的劇本說明繼續。,,,
 personalquest_finding_the_cure_progress_completed_step_0,當你意識到剛剛做了什麼時，你開始全力強迫自己專注於眼前這場戰鬥。隨著最後一隻小妖的倒下，你已經儘可能收集了很多的叢林小惡魔精華 一 已經足夠去完成你的目標了。你不能再浪費時間了：一旦這邊的戰鬥結束，你必須使用這些精華去找到解藥。,,,
-personalquest_goliath_toppler,巨獸殺手,,,
+personalquest_goliath_toppler,登峰造極,,,
 personalquest_goliath_toppler_completed,顯而易見，你才是真正的英雄。你尋找著黯淡港灣中最稀有最強大的敵人並光榮的擊敗了它們。你的戰鬥事蹟將被世代傳頌 一 雖然你還沒打算退休。你向曾經的傭兵同伴告別，踏上了開闊的大路。或許有天你會回到黯淡港灣，來看看有沒有出現別的值得你挑戰的稀有生物，但現在有更多的生物在這座城市之外的地方等著你，而你的職責就是去將它們一一擊敗。,,,
 personalquest_goliath_toppler_desc,"<b>完成四個有頭目存在的劇本</b>
 
@@ -7706,7 +7706,7 @@ personalquest_greed_is_good_desc,"<b>持有200個金幣</b>
 personalquest_greed_is_good_objective_desc,持有200個金幣,,,
 personalquest_greed_is_good_objective_progress_tooltip,已持有金幣：,,,
 personalquest_greed_is_good_objective_progress_tooltip_empty,還未賺到任何一毛錢。,,,
-personalquest_implement_of_light,行使光明,,,
+personalquest_implement_of_light,光之裁決,,,
 personalquest_implement_of_light_completed,情況比你想的還要糟：即使有這把戰斧，但亡靈天災已經變得太過龐大。呆在這已是無用之舉，亡靈這種頑疾早已不是這個城市的事那麼簡單了。在向傭兵夥伴道謝之後，你離開了黯淡港灣去追尋死靈法術的真正來源。你只希望有別的人會為這座城市的光明而戰，因為你將其留在了深深的黑暗中。,,,
 personalquest_implement_of_light_desc,"<b>在死靈法師的聖所中找到碎骨者之斧，之後用它擊殺7個骷髏，行屍，或怨靈。</b>
 
@@ -7722,7 +7722,7 @@ personalquest_law_bringer_desc,"<b>擊殺20個強盜或邪教徒</b>
 personalquest_law_bringer_objective_desc,擊殺20個強盜或邪教徒。,,,
 personalquest_law_bringer_objective_progress_tooltip,Bandits and Cultists killed：,,,
 personalquest_law_bringer_objective_progress_tooltip_empty,No Bandits or Cultists killed yet.,,,
-personalquest_merchant_class,商人階級,,,
+personalquest_merchant_class,巨商,,,
 personalquest_merchant_class_completed,這花了你不少時間，但最終你還是攢足了裝備來開一個屬於你的小商店。你不用再為了生活而在地下城裡好勇鬥狠，那些事情就留給曾與你一同冒險過的人吧。帶著商品，你走向了幽港港的大門。也許未來你會懷念你的傭兵朋友們，但不久之後你的腦袋已經在自己變成一個真正的商人的白日夢裡暢遊了 一 你確信他們會找到一個新的人來管理他們的倉庫。,,,
 personalquest_merchant_class_desc,"<b>擁有兩件<sprite name=InvHead>道具，兩件<sprite name=InvBody>道具，兩件<sprite name=InvLegs>道具，三件<sprite name=InvOneHand>或<sprite name=InvTwoHands>道具和四件<sprite name=InvSmallItem>道具</b>
 
@@ -7730,7 +7730,7 @@ personalquest_merchant_class_desc,"<b>擁有兩件<sprite name=InvHead>道具，
 personalquest_merchant_class_objective_desc,擁有兩件<sprite name=InvHead>道具，兩件<sprite name=InvBody>道具，兩件<sprite name=InvLegs>道具，三件<sprite name=InvOneHand>或<sprite name=InvTwoHands>道具和四件<sprite name=InvSmallItem>道具。,,,
 personalquest_merchant_class_objective_progress_tooltip,Items owned：,,,
 personalquest_merchant_class_objective_progress_tooltip_empty,No items owned yet.,,,
-personalquest_piety_in_all_things,虔誠即是一切,,,
+personalquest_piety_in_all_things,虔誠者,,,
 personalquest_piety_in_all_things_completed,你不得不停留的更久一些，但最終你還是想辦法把這座陰森城市的黃金帶去了當地的庇護所，讓它發揮了作用。多虧了你，黯淡港灣正在成為真正的希望之港，還要感謝聖橡樹，你終於可以離開這塊罪惡的土地，去另一座墮落的城市 一 一座沒有那麼多散發著惡臭的行屍走肉的城市。聖橡樹庇護所會讓其他倒楣蛋來照顧黯淡港灣的。,,,
 personalquest_piety_in_all_things_desc,"<b>向聖橡樹庇護所捐贈120金</b>
 
@@ -7759,7 +7759,7 @@ personalquest_seeker_of_xorn_objective_step1_desc,按照劇本“劇毒地窖”
 personalquest_seeker_of_xorn_objective_step2_desc,按照劇本“地穴密室”的劇本說明繼續。,,,
 personalquest_seeker_of_xorn_objective_step3_desc,按照劇本“冰晶宮殿”的劇本說明繼續。,,,
 personalquest_seeker_of_xorn_progress_completed_step_0,你剛從地穴出來時就感覺到索恩對你的呼喚變得比這麼多年來的更強了：你最後前往的三個地穴中有些東西 一 你錯過了的東西。他命令你在找到之前不能停下，所以你回到了地穴，最終找到了索恩想讓你發現的東西...,,,
-personalquest_take_back_the_trees,奪回樹林,,,
+personalquest_take_back_the_trees,討回森林,,,
 personalquest_take_back_the_trees_completed,你沒法將你的村子復原，但得知那些將其奪走的人已經為他們犯下的罪行贖罪就夠了。在你從強盜手中救下的花晶族的幫助下，你可以按照心中所想的樣子重建村落。不再對戰鬥渴望的你向至親的戰友告別，離開了黯淡港灣回到樹林中生活。你相信叢林會為你的朋友們善行帶來回報的。,,,
 personalquest_take_back_the_trees_desc,"<b>在尖刀森林內完成三個劇本。之後解鎖劇本“迷霧叢林”並按照劇本說明繼續</b>
 
@@ -7771,7 +7771,7 @@ personalquest_take_back_the_trees_objective_step0_desc,在尖刀森林內完成�
 personalquest_take_back_the_trees_objective_step1_desc,按照劇本“迷霧叢林”的劇本說明繼續。,,,
 personalquest_take_back_the_trees_objective_step2_desc,按照劇本“強盜的樹林”的劇本說明繼續。,,,
 personalquest_take_back_the_trees_progress_completed_step_0,你有點難以置信。就在剛剛你找到了你一直想要的東西。但你清楚你在那些樹裡看到的是什麼：找到那些屠殺你們村子的人並糾正一切的方法。一個奪回樹林的方法。,,,
-personalquest_the_fall_of_man,隕落的人們,,,
+personalquest_the_fall_of_man,先人的殞落,,,
 personalquest_the_fall_of_man_completed,在結束了黯淡港灣過去的悲劇之謎，將靈魂從他們的遠古命運中解放之後，你感到一種名叫責任心的情感開始取代你的好奇心。你向其他傭兵告別，並計畫不僅要瞭解更多有關前人的資訊，還要將被困在位面魔法中的人解放。不管你將發現什麼，現在你確信這個城市被困在位面之間的人比任何人想像中的都要多。,,,
 personalquest_the_fall_of_man_desc,"<b>在徘徊沼澤內完成兩個劇本。之後解鎖劇本“縹緲燈塔”並按照劇本說明繼續</b>
 
@@ -7791,7 +7791,7 @@ personalquest_the_perfect_poison_desc,"<b>擊殺三個軟泥怪，三個潛伏�
 personalquest_the_perfect_poison_objective_desc,擊殺三個軟泥怪，三個潛伏者，三個噴吐龍獸。,,,
 personalquest_the_perfect_poison_objective_progress_tooltip,"Oozes, Lurkers, and Spitting Drakes killed：",,,
 personalquest_the_perfect_poison_objective_progress_tooltip_empty,"No Oozes, Lurkers, and Spitting Drakes killed yet.",,,
-personalquest_the_thin_places,稀薄之地,,,
+personalquest_the_thin_places,不祥之地,,,
 personalquest_the_thin_places_completed,儘管你做了你能做的一切，但空氣依舊變得比以往更稀薄了。但你瞭解到的是，這是某個在另一面，某個正在注視著黯淡港灣的東西所為。在你瞭解更多之前，你什麼都做不到 一 所以你匆匆地離開了你的傭兵同伴，離開這座城市去追尋真正能夠拯救它的知識。只有一點是能肯定的：那些藏在位面之間的東西暫時還無法毀滅黯淡港灣......,,,
 personalquest_the_thin_places_desc,"<b>完成六個旁支劇本</b>
 
@@ -7799,7 +7799,7 @@ personalquest_the_thin_places_desc,"<b>完成六個旁支劇本</b>
 personalquest_the_thin_places_objective_desc,完成六個旁支劇本。,,,
 personalquest_the_thin_places_objective_progress_tooltip,Side scenarios completed：,,,
 personalquest_the_thin_places_objective_progress_tooltip_empty,No 旁支劇本 completed yet.,,,
-personalquest_trophy_hunt,狩獵的戰利品,,,
+personalquest_trophy_hunt,戰利品獵殺者,,,
 personalquest_trophy_hunt_completed,開始冒險時，你並不知道黑暗中潛藏著什麼生物，它們將帶來怎樣的考驗。不論你曾以為做不到的和做得到的，你都已經親手擊殺了它們。現在你已經見識過了黯淡港灣有的所有獵物，你很確信在這裡已經找不出能給你帶來些許挑戰的野獸了。你將你的戰利品全都裝上車離開了黯淡港灣，去往別處繼續你的狩獵。,,,
 personalquest_trophy_hunt_desc,"<b>擊殺二十種不同的怪物</b>
 
@@ -7819,7 +7819,7 @@ personalquest_vengeance_objective_step0_desc,在黯淡港灣內完成四個劇�
 personalquest_vengeance_objective_step1_desc,按照劇本“調查”的劇本說明繼續。,,,
 personalquest_vengeance_objective_step2_desc,按照劇本“血腥小屋”的劇本說明繼續。,,,
 personalquest_vengeance_progress_completed_step_0,在戰鬥結束後，你在一個強盜的屍體旁找到了這個小小的 一 裝得滿滿的 一 錢包，正是屬於你搜集到的所有證據指向的那個人。標籤背面用淩亂的字寫著“賄賂”，還印著當地強盜氏族的紋章。這是解開你疑惑的最後一塊拼圖：你已經確信是誰害死了你的摯友，並且無論如何你都會找出答案。,,,
-personalquest_zealot_of_the_blood_god,嗜血之神的狂信者,,,
+personalquest_zealot_of_the_blood_god,浴血的狂信徒,,,
 personalquest_zealot_of_the_blood_god_completed,獻祭是必要的，所以祭品應被奉上。但你的獻祭已經完成了。嗜血之神已經表示你已不再受到庇護；你必須給自己找條出路了。你當然尊重神明的意志，但你還是不禁感覺信仰的神明背棄了你。似乎你的獻身是那麼的微不足道。在你離開這個城市時，你決定要過一個平靜的生活 一 也許是買下一個農場。不管如何，嗜血之神將會在黯淡港灣找一個新的信徒。,,,
 personalquest_zealot_of_the_blood_god_desc,"<b>精疲力竭的次數達到十二次。</b>
 
@@ -8938,7 +8938,7 @@ quest_campaign_088_outro_gh_3,就在你們拿起法杖時，這個行維族人�
 quest_campaign_088_scenario_modifier_1,所有角色及其召喚物的所有移動<sprite name=Move>技能將 -1 移動力<sprite name=Move>。,,,
 quest_campaign_088_scenario_modifier_2,所有角色及其召喚物在每個回合結束時都將強制向水流的方向移動一格，除非他們所占的格子相對於水流方向的後方是障礙物或牆壁。如果他們因為其他生物、障礙物或者牆壁的阻擋而無法進行水流移動。則他們將會因此受到3傷害。水流移動的結算按照從劇本地圖頂部到底部的順序依次進行。,,,
 quest_campaign_088_scenario_modifier_3,持有潛伏者王爪的角色所有移動<sprite name=Move>技能將 -2 移動力<sprite name=Move>。,,,
-quest_campaign_089_desc,與朧夜客一起，阻止刺客組織在黯淡港灣獲利,,,
+quest_campaign_089_desc,與朧夜客一起，阻止惡棍組織在黯淡港灣獲利,,,
 quest_campaign_089_intro,還沒等你們開口發問，究竟信號指的是什麼，那個朧夜客的身影就在眼前消失了。而你們就在困惑當中度過了幾分鐘，直到一把熟悉的匕首劃破夜空，刺入你們旁邊的地面。你們才明白那就是信號，你們立刻拔出武器沖進房間。,,,
 quest_campaign_089_intro_gh_1,你們跟著那個朧夜客穿過黯淡港灣的大街小巷，直到在舊碼頭區某個小巷中的一個破舊辦公樓前他終於停下了腳步。,,,
 quest_campaign_089_intro_gh_2,“我希望你們不要期望他們會藏身於那些華麗的高樓裡，”他說道，“辛-拉一向做事低調，這也是為什麼大多數人根本不知道他們的存在。然而在這裡，我的朋友，這裡就是他們的心臟。我現在就要直插他們的心臟，一直捅到他們流幹最後一滴血為止。”,,,
@@ -10575,7 +10575,7 @@ scenario_campaign_088_room_2_4,巨大的伏擊者將這人推到後方的牆上�
 scenario_campaign_088_room_2_5,轉眼間，這個身影被包裹在一個冰籠裡，你終於能夠認出他是誰：召喚師。你必須要拯救她。,,,
 scenario_campaign_088_room_2_6,即使你必須撕下那東西的利爪，用它來驅散冰塊，好吧，那麼這正是你現在要做的。,,,
 scenario_campaign_088_success_1,You touch the dead claw to the prison, and the ice vanishes. ,,,,,
-scenario_campaign_089_success_1,你環顧刺客巢穴的血跡斑斑的地面，對你剛剛完成的大屠殺感到震驚。,,,
+scenario_campaign_089_success_1,你環顧惡棍巢穴的血跡斑斑的地面，對你剛剛完成的大屠殺感到震驚。,,,
 scenario_campaign_089_success_2,“幹得不錯。”朧夜客說著，悄悄地從陰影中出現。,,,
 scenario_campaign_089_success_3,‘I wasn‘t sure you had it in you, but this is true assassin‘s work. Every last one of the syndicate met their end tonight. They thought to hunt us, but we were hunting them.‘,,,,
 scenario_campaign_089_success_4,他將一袋黃金遞給了你。“我應該與你分享我的傭金。我受雇於首都的一個敵對公會，負責清除辛-拉。”,,,
@@ -11273,7 +11273,7 @@ scenario_story_darkrider_start_2,一個全副武裝的無頭幽靈騎在高大�
 scenario_story_darkrider_start_3,“你為保衛自己的王國英勇作戰。我是黑暗騎士，這片土地將為我所毀滅，我要和你做個交易。”,,,
 scenario_story_darkrider_start_4,“鑒於你的英勇，你可以和我爭奪這片王國的所有權。如果你贏了，我不再摻和這件事。如果你輸了，我會讓你的公會灰飛煙滅，這樣我就可以再次讓我的生物在這片土地上自由自在地繁衍生息。”,,,
 scenario_story_darkrider_start_5,你點點頭，黑暗騎士就此消失在森林裡。“祝你好運，”那聲音嗡嗡地說。“你會需要它。”,,,
-scenario_story_darkrider_start_6,好吧，看起來我們的跨位面聲譽比我們預想的還要顯赫些。,,,
+scenario_story_darkrider_start_6,好吧，看起來我們的跨位面名聲比我們預想的還要顯赫些。,,,
 scenario_story_darkrider_start_7,Try not to lose this one, okay? All of my best stock is in this realm. ,,,,,
 scenario_story_darkrider_success_1,The forest erupts in an ear-piercing shriek as you land another blow on the headless spectre. Black smoke hisses from the newly-forming cracks in its armour, spurting out until the dark, heavy suit rolls empty off of the horse. ,,,,
 scenario_story_darkrider_success_2,At this, the warhorse simply topples over, dead.,,,,
@@ -11629,7 +11629,7 @@ scenario_story_wingedhorror_room_2_3,不錯......啊 ......請在它再次尖叫
 scenario_story_wingedhorror_room_3_1,當你進入大橡樹所在的房間時，你會看到一個巨大的帶翅膀的惡魔在房間內俯身環繞飛行然後猛地抓在牆壁上。,,,
 scenario_story_wingedhorror_room_3_2,除非你阻止它，不管用何種方式，否則它會把學校在你們的頭頂毀掉。,,,
 scenario_story_wingedhorror_room_3_3,當它注意到你後，翼翅恐怖魔落在你面前。 “你”，它尖叫道，“已經讓我和我的孩子在這個王國之外太長的時間了。你不可能再次倖存下來拯救這裡！”,,,
-scenario_story_wingedhorror_room_3_4,畢竟看起來我們的聲譽已經遠播到這個王國之外。,,,
+scenario_story_wingedhorror_room_3_4,畢竟看起來我們的名聲已經遠播到這個王國之外。,,,
 scenario_story_wingedhorror_room_3_5,一旦我的耳朵停止出血，我必須要提高我們的行動速度了。,,,
 scenario_story_wingedhorror_start_1,這是一個最忘記的事實，但學校中心的大橡樹的房間支撐著整個學校。如果那間房間毀掉，學校也會失去靈魂。,,,
 scenario_story_wingedhorror_start_2,記住，沒有這所學校，沒有人會購買我們在墓室群中發現的所有那些神奇的魔法物品。請三思利潤削減帶來的利弊！,,,
@@ -12021,10 +12021,10 @@ scenarioability_pierceinvulnerable,可以對無敵的單位造成傷害。,,,
 scenarioability_untargetable,不會成為任何技能的目標。,,,
 schoolofthegreatoak,聖橡樹學校,,,
 schoolofthegreatoak_descr,學校圍繞一棵巨大的橡樹而建，樹枝上建有各種房間和平臺。僧侶和治療師在這裡接受培訓，並被派往寺廟，比如黯淡港灣的寺廟，去説明照顧病人和有需要的人。,,,
-scoundrel,刺客,,,
-scoundrel_adventure_description,"刺客們都是利己主義和機會主義者。他們相信所有東西應該是他們的並願意不擇手段付諸現實。
-刺客能進行高強的近戰進攻，發現落單的目標，並從與盟友協作中獲得福利效果。她是一個獨行俠，除了殺死攻擊盟友的敵人，不要指望她能直接救助盟友。",,,
-scoundrel_description,刺客是一個利己主義和機會主義者。他們相信所有東西應該是他們的並願意不擇手段付諸現實。,,,
+scoundrel,惡棍,,,
+scoundrel_adventure_description,"惡棍們都是利己主義和機會主義者。他們相信所有東西應該是他們的並願意不擇手段付諸現實。
+惡棍能進行高強的近戰進攻，發現落單的目標，並從與盟友協作中獲得福利效果。她是一個獨行俠，除了殺死攻擊盟友的敵人，不要指望她能直接救助盟友。",,,
+scoundrel_description,惡棍是一個利己主義和機會主義者。他們相信所有東西應該是他們的並願意不擇手段付諸現實。,,,
 scoundrel_difficulty,低,,,
 scoundrel_role,近戰輸出,,,
 scoundrel_skin_alt,夜行衣,,,
@@ -12109,7 +12109,7 @@ song,角色特效戰歌,,,
 song_discardreminder,當另一張<color=#EBB0AA>戰歌</color><sprite name=Song>被打出，丟棄這張卡。,,,
 song_xptext,在你每次輪次的開始獲得<size=130%><voffset=-2><sprite name=XP1></voffset></size>。,,,
 soothsinger,吟遊歌者,,,
-soothsinger_adventure_description,智人族們不僅是工程師中的大師，而且他們令人讚歎的巧手允許他們變成傑出的吟游詩人。這些“吟遊歌者”們能夠幫助他們的盟友去獲得偉大的功績，他們在他們的魯特琴輕撫一曲就讓他們的敵人士氣低下。 他們的戰歌系統的作用與竊靈劍師的賦能特效相似，她在大的團隊特別強力，但是擁有較低的傷害輸出。,,,
+soothsinger_adventure_description,智人族們不僅是工程師中的大師，而且他們令人讚歎的巧手允許他們變成傑出的吟游詩人。這些“吟遊歌者”們能夠幫助他們的盟友去獲得偉大的功績，他們在他們的魯特琴輕撫一曲就讓他們的敵人士氣低下。 他們的戰歌系統的作用與心靈竊賊的賦能特效相似，她在大的團隊特別強力，但是擁有較低的傷害輸出。,,,
 soothsinger_difficulty,高,,,
 soothsinger_role,遠端輔助,,,
 soothsinger_strengths,"- <indent=%15>遠距離、強有力的Buff技能</indent>
@@ -12432,7 +12432,7 @@ tutorial_2_help_021_2,點擊【結束選擇】以繼續,,,
 tutorial_2_help_023_1,選擇踐踏的頂部,,,
 tutorial_2_help_023_2,選擇強盜守衛作為攻擊目標,,,
 tutorial_2_help_023_3,點擊【確認目標】以執行攻擊,,,
-tutorial_2_help_024_1,點擊嘲諷戰吼的【基礎移動】,,,
+tutorial_2_help_024_1,點擊嘲諷戰吼的【基礎前進】,,,
 tutorial_2_help_024_2,選擇閃爍的包含金幣的格子,,,
 tutorial_2_help_024_3,點擊【確認移動】以繼續,,,
 tutorial_2_help_024_4,點擊【跳過移動】以跳過剩下的步數,,,
