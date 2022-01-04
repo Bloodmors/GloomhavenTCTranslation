@@ -4356,7 +4356,7 @@ gui_assembly_error_quest_required_items,此任務要求{0}物品的所有者裝�
 gui_assembly_error_quest_required_level_heroe,{0} 必須至少 {1} 級
 gui_assembly_error_quest_required_personal_quest,開始這個任務要求團隊中包含個人任務 {0} 的所有者
 gui_assembly_error_quest_required_starting_village,這個任務要求您首先解鎖路線起點 {0}
-gui_assembly_items,綁定的物品：
+
 gui_assembly_party_description,組織一個雇傭兵團隊開始冒險
 gui_assembly_party_invalid_name,您必須在開始之前先命名玩家團隊
 gui_assembly_party_lock1,"<color=#E6C88AFF>鎖住的</color>
@@ -4464,8 +4464,8 @@ gui_confirmation_enable_perk_warning,一旦應用，就無法移除一個專精�
 gui_confirmation_end_session,返回單人模式繼續遊戲
 
 gui_confirmation_levelup_card,將此卡添加到您的可用技能卡中？
-gui_confirmation_party_locked,你現在不能改變雇傭兵。
-gui_confirmation_party_locked_title,該玩家團隊被鎖定了
+
+
 gui_confirmation_perk_missing_remove_condition,鎖定的專精項目
 gui_confirmation_perk_missing_remove_condition_warning,此專精項目不能被選擇，因為您的牌堆中沒有必需的攻擊修正卡。
 gui_confirmation_restart_message,當前回合的所有進度都將丟失。所有雇傭兵都將返回技能卡選擇階段。
@@ -4514,7 +4514,7 @@ gui_custom_rulesets_desc,啟動Mod將它們應用於遊戲的規則集。
 gui_default_attack,基本攻擊
 gui_default_move,基本移動
 gui_delete,刪除
-gui_delete_character,刪除角色
+
 gui_delete_character_confirmation,擁有的角色將返回商人的商店供應，所有物品所擁有的所有物品都消失了
 
 gui_delete_warning,這個操作無法撤銷。你確定要繼續嗎？
@@ -4584,7 +4584,7 @@ gui_enable_dlc_confirmation,Once a DLC is enabled on a save it cannot return to 
 gui_enchantment_points,技能附魔點數
 gui_enchantment_points_tooltip,"<size=+2><color=#EACF8C>技能附魔點數</color></size>
 每次黯淡港灣財富等級增加時，賺取一定的技能附魔點數<sprite name=""Enchantress_Icon"">。 您可以在想要提升的技能卡上使用附魔點數。一旦技能卡被附魔，您可以對技能進行和卡上槽數一致的技能提升。"
-gui_encounter,遭遇事件
+
 gui_encounter_received,你收到了
 gui_end_extra_turn,結束額外的輪次
 gui_end_pull,結束拉近
@@ -4606,7 +4606,7 @@ gui_enhancement_cost_original,原價
 gui_enhancement_filter,技能卡提升：<color=white>{0}</color>
 gui_enhancement_mode_original,Original: Permanent Enhancements will affect all current and future Mercenaries of the same class. Enhancements cannot be sold.
 gui_enhancement_mode_variant,"Updated: Temporary Enhancements will affect individual Mercenaries, and can be removed to regain 75% of their original cost. The costs have also been rebalanced to encourage experimentation. *Recommended"
-gui_enhancements,技能卡提升
+
 gui_enhancements_tooltip,此頁面允許您為所有技能卡添加提升功能。選擇技能卡，然後選擇提升槽，然後將要添加到該槽的提升功能。請注意，不同的提升功能成本為不同的基礎金額，並且該成本由卡上已經上的提升次數和它的技能卡類型進行了修改。當您移除提升時，可以恢復其原始成本。
 gui_enhancements_unavailable,沒有可進行的提升
 
@@ -4731,7 +4731,7 @@ gui_item_cards_legs,腳部卡
 gui_item_cards_none,無卡
 gui_item_cards_smallitem,小道具卡
 gui_item_equipped_different_slot,裝備進槽中<color=#F1DBAEFF> {0}</color>
-gui_item_gui_item_slot_smallitem_locked_description,通過將此角色升級到{0}級來解鎖此物品槽
+
 gui_item_gui_item_slot_smallitem_locked_mystery,怎麼解鎖這個槽？
 gui_item_reputation_discount_tooltip,"<color=#{3}><rotate={4}><sprite name=""ReputationLevel_Icon"" color=#{3}></rotate>聲譽修正：{2}<sprite name=""Gold_Icon_White"" color=#{3}></color>
 {1}<sprite name=""Gold_Icon_White""> + <color=#{3}><rotate={4}><sprite name=""ReputationLevel_Icon"" color=#{3}></rotate>{2}</color> = <color=#FCC954FF>{0}<sprite name=""Gold_Icon_White"" color=#FCC954FF></color>"
@@ -4791,10 +4791,10 @@ gui_loadout_enemies,敵人
 gui_loadout_enter_scenario,進入地牢
 gui_loadout_overview,概述
 gui_loadout_special_rules,特別規則
-gui_locked,鎖定
+
 gui_locked_card_tooltip,"尚未添加到掌握技能卡的卡保持<color=#CEAD5A>鎖定</color>除非花費解鎖點。
 選擇<color=#CEAD5A>重置雇傭兵 </color>重建掌握技能卡集。"
-gui_locked_object,未解鎖的{0}
+
 
 gui_main_menu_multiplayer_how_to_host_descr,"<size=+4><sprite name=""Pointer""></size><indent=20>While <color=#F1DBAE>in an existing Gloomhaven saved game</color>, click ""Esc"" to open the Pause menu and select ""Multiplayer"".
 </indent>
@@ -5129,13 +5129,13 @@ gui_quest_reward_goldeach,每人{0}金幣
 gui_quest_reward_itemstock,{0}製作工藝
 gui_quest_reward_loseitem,失去1個 {0}
 gui_quest_reward_multiplayer,多人模式
-gui_quest_reward_none,隱藏的
+
 gui_quest_reward_partyachievement,獲得玩家團隊成就
 gui_quest_reward_perk,獲得專精項目
-gui_quest_reward_perkcheck,{0} 個專精點數
+
 gui_quest_reward_perkpoint,獲得專精點數。
 gui_quest_reward_perkpoint_unlocked,新的專精點數解鎖！
-gui_quest_reward_perkpoints,獲得{0}個專精點數
+
 gui_quest_reward_prosperity,{0}個繁榮點數
 gui_quest_reward_reputation,{0}聲譽
 gui_quest_reward_roadevent,解鎖道路事件
@@ -5392,7 +5392,7 @@ gui_watch_personal_quest_progress,查看結果
 gui_watch_retirement,查看退休
 gui_wealth_level_unlockes_items,新物品現已進入庫存！下次你去新市場的時候就可以買到！
 gui_wrong_ability_deck,無效的<color=#C53F3FFF>技能卡牌堆 </color>
-gui_wrong_ability_deck_character,{0}的技能卡卡牌堆不完整
+
 gui_wrong_ability_deck_characters,{0}的技能卡卡牌堆不完整
 gui_wrong_inventory,錯誤的技能卡
 gui_xp_progress,XP {0}
@@ -5461,7 +5461,7 @@ intro_linkedquest,"你偶爾會遇到系列任務。
 如果你願意，你可以通過點擊地圖上的位置返回黯淡港灣。
 請記住，在黯淡港灣之外，你無法購買或銷售物品，也無法升級、創建新的雇傭兵或讓當前的角色退休。"
 intro_merchant,請記住，每個雇傭兵都有自己的金幣儲備和個人背包，所以請確認你在購買物品之前<color=#EACF8C>選擇了正確的雇傭兵頭像</color>。
-intro_perkcheck,收集<color=#EACF8C>三個專精點將解鎖一個 專精項目</color>。 專精點是種非常好用的東西，因為這可以讓你編輯傭兵的攻擊修正牌堆。
+
 intro_perkspanel_1,"幹得不錯！你已經解鎖了一項專精專案，這玩意兒可是很難得的！
 通關地牢和完成所選的戰鬥目標將使傭兵獲得專精點，收集三個專精點數將<color=#EACF8C>解鎖一個專精項目 </color>。
 你也可以通過升級雇傭兵來解鎖一個專精專案。"
@@ -5791,7 +5791,7 @@ loading_tip_016,你有機會在公會模式的職業任務中遇到一個寶箱�
 loading_tip_017,當裝備新物品時請注意——它們將會綁定到那個雇傭兵身上。如果你想換到其他人身上，則必須支付一些費用解綁。
 loading_tip_018,你可以通過完成成就解鎖更多附魔類型，也可以通過探索地圖為每個雇傭兵解鎖更多的附魔槽。
 loading_tip_019,公會模式的旅行和職業任務等級將會隨著遊戲的進行而改變。故事和聖者遺物任務往往更難！
-loading_tip_020,不是所有通關劇本的方式都是消滅所有敵人——請務必檢查你的劇本目標。
+
 loading_tip_021,召喚夥伴很有用，但它們往往比較莽撞 —— 若想讓它們活下來，就得幫它們吸引火力！
 loading_tip_022,如果你不確定你將行動得過早還是過晚，請考慮挑選兩張不管行動早晚都能發揮效用的牌。
 loading_tip_023,觀察敵人的移動並瞭解他們的牌堆和技能。一些怪物前進一直很快，另一些相反，這是能讓你在攻擊中保持優勢的資訊。
