@@ -172,7 +172,7 @@
 217_b,<nobr>回收<sprite name=Recover></nobr>至多兩張你棄牌堆的卡牌。
 217_t,你或一名相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>一個<nobr>單手道具<sprite name=InvOneHand></nobr>或<nobr>雙手道具<sprite name=InvTwoHands></nobr>。
 219_b,<nobr>回收<sprite name=Recover></nobr>至多兩張你燒牌堆的卡牌。
-219_t,在你的每一個行動輪結束時，你可以棄掉一張卡牌使一名相鄰的盟友<nobr>重置<sprite name=Refresh></nobr>一個他已消耗的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
+219_t,在你的每一個行動輪結束時，你可以棄掉一張牌牌使一名相鄰的盟友<nobr>重置<sprite name=Refresh></nobr>一個他已消耗的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
 221_t,一名相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>他所有的道具。
 223_t,在每回合結束時，<nobr>重置<sprite name=Refresh></nobr>你的一個已使用的道具。
 224_t,你和所有<nobr>射程範圍<sprite name=Range>4以內</nobr>的敵人損失2點生命值。
@@ -4400,8 +4400,8 @@ gui_bind_move_item_confirmation,"綁定到<color=#{0}>{1}</color> <size=140%><sp
 <color=#C53F3F>移動綁定的花費{3}：</color> <color=#FCC954><sprite name =""gold_icon_white"" color=#fcc954>{4}</color>"
 gui_bind_move_item_confirmation_title,綁定到 {0}
 gui_blessings_unavailable,沒有可用的祝福
-gui_buy,買入
-gui_buy_confirmation_title,買入物品
+
+
 gui_buy_enhancement_confirmation_title,購買技能提升
 gui_buy_party_confirmation,你確定要解鎖這個玩家團隊嗎？
 
@@ -4428,7 +4428,7 @@ gui_choose_ability,選擇技能卡
 gui_choose_ability_ability_card_mobileresponse,選擇要移除的一個負面狀態
 gui_choose_ability_item_name_minorcurepotion,選擇你自己身上的一個負面狀態以移除
 gui_choose_ability_target_ability_card_mobileresponse,選擇一名盟友身上的一個負面狀態以移除
-gui_choose_actor_prevent_damage,任何雇傭兵必須燒一張卡牌
+gui_choose_actor_prevent_damage,任何雇傭兵必須燒一張牌牌
 gui_choose_actor_prevent_damage_host_tip,作為主機進行建議，誰應該去燒祭一張技能卡
 gui_choose_actor_prevent_damage_tip_title,否定傷害
 gui_choose_element_consume,選擇要消耗的元素
@@ -4717,15 +4717,9 @@ gui_inox_preview,此外，一群叛逆的艾諾克斯戰士在森林中建立了
 gui_inox_win,隨著艾諾克斯死去，這個區域再次安全的攻擊。希望在剩下之前，你拿起了一個大斧頭？
 
 
-gui_inventory_slot_body,身體物品
-gui_inventory_slot_hands,手部物品
-gui_inventory_slot_head,頭部物品
-gui_inventory_slot_legs,腳部物品
-gui_inventory_slot_onehand,單手武器{0}
 gui_inventory_slot_pocket,口袋{0}
 
 
-gui_inventory_slot_twohand,雙手武器
 gui_item_bound_to,"裝備給<color=#{0}>{1}</color> <size=140%><sprite name=""{2}"" color=#{0}></size>"
 gui_item_buy_for,"購買<color=#{0}>{1}</color> <size=140%><sprite name=""{2}"" color=#{0}></size>"
 gui_item_cards_body,身體卡
@@ -5085,12 +5079,11 @@ gui_perks_legend_remove,移除:
 gui_perks_points,{0}個可用的專精點數
 gui_perks_tooltip,歡迎來到<b>專精專案</b>頁面。在這裡，您可以使用任何您已獲得的<b>專精項目</b>去添加，刪除或替換現有的<b>攻擊修正卡</b>。看看你的技能卡和物品，並決定什麼<b>攻擊修正卡</b>最適合您的角色，但要小心:一旦使用，<b>專精項目</b>不能撤銷！
 gui_persistent_bonuses,永久福利
-gui_personal_quest_completed,個人任務完成！
-gui_personal_quest_conceal_tooltip,其他玩家將無法看到您的個人任務
-gui_personal_quest_conceal_tooltip_title,隱藏個人任務
+
+
+
 gui_personal_quest_progress_completed,個人任務步驟完成
-gui_personal_quest_show_tooltip,其他玩家將能看到您的個人任務
-gui_personal_quest_show_tooltip_title,顯示個人任務
+
 gui_player_connecting,連接......
 gui_player_die_banner,{0}已經死了
 gui_player_exhausted_banner,{0}精力耗盡了
@@ -5227,27 +5220,17 @@ gui_select_character,選擇角色
 gui_select_characters,選擇角色
 gui_select_quest,選擇任務
 gui_select_quest_tip,作為主機，為玩家團隊選擇一個任務
-gui_sell,賣出
-gui_sell_confirmation_title,賣出物品
-gui_sell_enhancement_confirmation_title,賣出技能提升
-gui_send_error_report,發送錯誤報告（漢化錯誤請直接聯繫漢化組）
-gui_sending_error_report,發送錯誤報告...請稍候
 
-gui_side_quest,副任務
-gui_skin_off_tooltip,基本的皮膚
-gui_skin_on_tooltip,華麗的皮膚
+
+gui_sell_enhancement_confirmation_title,賣出技能提升
 
 gui_skip_ability,跳過技能
 
-
-
-gui_skip_pull,跳過拉近
-gui_skip_push,跳過推遠
 gui_spawner,怪物出生地
 gui_spawner_information,下一輪
 
 gui_stadia_friends,朋友們
-gui_start,開始
+
 gui_start_campaign,開始戰役
 gui_start_multiplayer_wrong_phase_tooltip,開始多人遊戲僅在卡選擇階段或世界地圖上可用
 
@@ -5296,8 +5279,8 @@ gui_tooltip_element_waning,半格元素。該元素可用於本回合的其餘�
 gui_tooltip_extra_turn,立即選擇兩張卡牌打出。
 gui_tooltip_extra_turn_both_actions_later,選擇一張時序值比{0}更高的技能卡。
 gui_tooltip_extra_turn_both_actions_later_second_card,選擇第二張技能卡（這張卡不能幫您更改行動時序）。
-gui_tooltip_extra_turn_bottom_action,打出一張卡立即執行其下半區行動。
-gui_tooltip_extra_turn_top_action,打出一張卡立即執行其上半區行動。
+gui_tooltip_extra_turn_bottom_action,打出一張牌立即執行其下半區行動。
+gui_tooltip_extra_turn_top_action,打出一張牌立即執行其上半區行動。
 gui_tooltip_forgo_actions_for_companion,放棄您的上半區或(和)上半區行動用以增加熊的攻擊力或（和）移動力。
 gui_tooltip_helpbox improved_short_rest_title,<color=#B52828>無法停止的破壞</color>。
 gui_tooltip_item_single_target_tip,選擇一個目標以使用該物品。
@@ -5315,7 +5298,7 @@ gui_tooltip_remove_conditions,移除自己的所有負面狀態。
 gui_tooltip_select_destroy_obstacle,選擇要摧毀的一個障礙。
 gui_tooltip_select_destroy_obstacles,選擇要摧毀的幾個障礙。
 gui_tooltip_select_discard_card,選擇要棄置的一張技能卡。
-gui_tooltip_select_discard_card_title,棄置一張卡。
+gui_tooltip_select_discard_card_title,棄置一張牌。
 gui_tooltip_select_discard_cards,選擇要棄置的{0}張技能卡。
 gui_tooltip_select_discard_cards_title,棄置{0}張卡。
 gui_tooltip_select_lose_card,選擇燒祭1張技能卡。
@@ -5352,7 +5335,7 @@ gui_travel,旅行
 gui_turn_off_tutorial,關閉教學
 
 gui_tutorial_01_description,近戰進攻和移動
-gui_tutorial_01_instructions,岩石心這一回合只有兩張技能卡。您現在必須啟動一張卡的上半區和另一張卡的下半區（以任意順序）來殺死強盜衛兵。
+gui_tutorial_01_instructions,岩石心這一回合只有兩張技能卡。您現在必須啟動一張牌的上半區和另一張牌的下半區（以任意順序）來殺死強盜衛兵。
 gui_tutorial_01_title,近戰進攻和移動
 gui_tutorial_exit,退出教學
 gui_tutorial_victory,勝利！
@@ -5437,7 +5420,7 @@ intro_battlegoals,"在進入地牢之前，每個傭兵必須<color=#EACF8C>在�
 戰鬥目標是傭兵在地牢中要盡力達成的秘密任務。失敗不會帶來懲罰，但成功完成將會獲得額外的經驗獎勵，這將會讓你在之後的戰鬥中更加得心應手。"
 intro_cityquest,"你們解鎖了一個<color=#EACF8C>城鎮任務</color>！
 你可以通過點擊城鎮地圖按鈕或點擊日誌中的新任務查看。"
-intro_enchantress,在此介面你可以為你所有技能卡進行附魔。首先選擇技能卡，然後選擇附魔槽，就可以將你希望的附魔效果附加到該附魔槽位上。請注意，不同的附魔會對應不同的附魔基礎成本，而且同一張卡附魔次數越多成本越高。當你移除附魔時，其附魔成本將恢復到最初的狀態。
+intro_enchantress,在此介面你可以為你所有技能卡進行附魔。首先選擇技能卡，然後選擇附魔槽，就可以將你希望的附魔效果附加到該附魔槽位上。請注意，不同的附魔會對應不同的附魔基礎成本，而且同一張牌附魔次數越多成本越高。當你移除附魔時，其附魔成本將恢復到最初的狀態。
 intro_equipmentpanel,"你可以在裝備面板找到雇傭兵可以攜帶的<color=#EACF8C>各類道具</color>。點擊道具槽將顯示該名雇傭兵所擁有的此類型的全部道具。
 如果道具槽為灰色，則表示你目前沒有此類型的道具。"
 intro_itemdesign,"你解鎖了一張新的道具設計圖！
@@ -5695,8 +5678,8 @@ item_protectivecharm,你免疫中毒<sprite name=Poison>和流血<sprite name=Wo
 item_reapingscythe,在你對單個目標使用近戰進攻時，將攻擊改為執行以下步驟：
 item_remotespider,在你的行動輪中，對所有相鄰的敵人施加<nobr>中毒<sprite name=Poison></nobr>。
 item_resonantcrystal,在你的行動輪中，摧毀一個相鄰的障礙物。
-item_ringofbrutality,在你的行動輪結束時，從手牌中打出一張卡並立即執行卡的上半部分行動。
-item_ringofhaste,在你的行動輪結束時，從手牌中打出一張卡並立即執行卡的下半部分行動。
+item_ringofbrutality,在你的行動輪結束時，從手牌中打出一張牌並立即執行卡的上半部分行動。
+item_ringofhaste,在你的行動輪結束時，從手牌中打出一張牌並立即執行卡的下半部分行動。
 item_ringofskulls,召喚骷髏
 item_robesofevocation,在你進行攻擊時，<sprite name=ConsumeAny>並對你的整個攻擊行動輪攻擊附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_robesofsummoning,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>2，目標為召喚物夥伴”。
@@ -6825,19 +6808,15 @@ personalquest_augmented_abilities_objective_progress_tooltip,Enhancements purcha
 personalquest_augmented_abilities_objective_progress_tooltip_empty,No enhancements purchased yet.
 
 personalquest_battle_legend_completed,那些你被你擊敗的生物，那些你挫敗的計畫......你所做的一切將被永遠銘記。你敢肯定從來沒有傭兵能像你這麼偉大。為了確保你的傳奇被永遠傳頌，你必須去往更廣闊的世界展現你高超的技藝和故事，所以你離開了黯淡港灣去往更遙遠的地方追尋更宏大的戰鬥。如果運氣好的話，你可能還會碰見一個將你的史詩冒險全部寫入詩歌的吟游詩人......
-personalquest_battle_legend_desc,"<b>從戰鬥目標中獲得十五個增益點</b>
 
-是時候讓你蜚聲於世了。任何傭兵都能完成一兩個任務。但你可不是那些無名小卒——你想要做點大事，好讓你的戰鬥事蹟被吟游詩人傳頌到世界上的沒一個酒館裡。如果人的一生沒有流下一段讓後人為之驚歎的事蹟，那戎馬一生又有何意義呢？"
-personalquest_battle_legend_objective_desc,從戰鬥目標中獲得十五個增益點。
+
+
 personalquest_battle_legend_objective_progress_tooltip,Perk Points earned from Battle Goals:
 personalquest_battle_legend_objective_progress_tooltip_empty,No Perk Points earned yet.
 
 personalquest_elemental_samples_completed,這個城市沒被科學家擠滿真是一個奇跡。實際上鑒於探索黯淡港灣和其周邊的危險程度，這並不意外，但這就是這群傭兵發揮作用的時候了。研究結果不言而喻：這裡的元素濃度空前的高，這展現出的可能性於你而言是無止境的。懷著對那些傭兵幫助的感激，你開始準備回到你在荒野的孤塔的長途旅行——你必須儘快找出使用這些力量的最佳方法，不會太久的：很快就將會有其他元素追求者來到黯淡港灣。
-personalquest_elemental_samples_desc,"<b>在以下地區各完成一個劇本：黯淡港灣，匕首叢林，徘徊沼澤，守望山脈和迷霧之海</b>
 
-這個世界是如此迷人，尤其是黯淡港灣和它附近的地區。如此多引人入勝的現象，還有如此多極具研究價值的樣本等待著你去收集。但這些地方也同樣充滿危險，最好找幾個可靠的幫手與你同行。"
-personalquest_elemental_samples_objective_desc,在以下地區各完成一個劇本：黯淡港灣，匕首叢林，徘徊沼澤，守望山脈和迷霧之海。
-personalquest_elemental_samples_objective_progress_tooltip,Scenarios in different regions completed:
+
 personalquest_elemental_samples_objective_progress_tooltip_empty,No scenarios completed yet.
 
 personalquest_eternal_wanderer_completed,這是在夢中也不曾見過的瑰麗美景。作為一名傭兵，你親自踏足了那些人煙罕至的地方——甚至曾與其他位面的生物擦肩而過。置身于這些自然奇觀中，現在的你希望能專注於這些地點本身，而不是途中的戰鬥。作為傭兵的日子已經教會了你如何獨立處理問題，但其他居民會取代你的位置成為新的戰士：你離開了黯淡港灣，去以一種沒有流血與犧牲的方式追尋更多的風景與精力。
@@ -6921,7 +6900,7 @@ personalquest_pounds_of_flesh_desc,"<b>擊殺十五個鼠人</b>
 personalquest_pounds_of_flesh_objective_desc,擊殺十五個鼠人
 personalquest_pounds_of_flesh_objective_progress_tooltip,Vermlings killed:
 personalquest_pounds_of_flesh_objective_progress_tooltip_empty,No Vermlings killed yet.
-personalquest_seeker_of_xorn,索恩的追尋者
+
 personalquest_seeker_of_xorn_completed,蟲群化作了人類的外形——那是一隻巢靈族人——用紊亂的嗡嗡聲說道：“我活過來了，瘟疫也將再次降臨。不必為你的朋友感到哀傷，他們已經盡了最大的作用了。我們會與你一同前行，為世界獻上禮物。瘟疫將擁抱這個世界。”
 personalquest_seeker_of_xorn_desc,"<b>你還是個孩子時，就已經能感受到索恩的呼喚。</b>
 
@@ -6934,7 +6913,7 @@ personalquest_seeker_of_xorn_objective_step1_desc,按照劇本“劇毒地窖”
 personalquest_seeker_of_xorn_objective_step2_desc,按照劇本“地穴密室”的劇本說明繼續。
 personalquest_seeker_of_xorn_objective_step3_desc,按照劇本“冰晶宮殿”的劇本說明繼續。
 personalquest_seeker_of_xorn_progress_completed_step_0,你剛從地穴出來時就感覺到索恩對你的呼喚變得比這麼多年來的更強了：你最後前往的三個地穴中有些東西——你錯過了的東西。他命令你在找到之前不能停下，所以你回到了地穴，最終找到了索恩想讓你發現的東西...
-personalquest_take_back_the_trees,奪回樹林
+
 personalquest_take_back_the_trees_completed,你沒法將你的村子復原，但得知那些將其奪走的人已經為他們犯下的罪行贖罪就夠了。在你從強盜手中救下的花晶族的幫助下，你可以按照心中所想的樣子重建村落。不再對戰鬥渴望的你向至親的戰友告別，離開了黯淡港灣回到樹林中生活。你相信叢林會為你的朋友們善行帶來回報的。
 personalquest_take_back_the_trees_desc,"<b>在匕首叢林內完成三個劇本。之後解鎖劇本“迷霧叢林”並按照劇本說明繼續</b>
 
@@ -6946,7 +6925,7 @@ personalquest_take_back_the_trees_objective_step0_desc,在匕首叢林內完成�
 personalquest_take_back_the_trees_objective_step1_desc,按照劇本“迷霧叢林”的劇本說明繼續。
 personalquest_take_back_the_trees_objective_step2_desc,按照劇本“強盜的樹林”的劇本說明繼續。
 personalquest_take_back_the_trees_progress_completed_step_0,你有點難以置信。就在剛剛你找到了你一直想要的東西。但你清楚你在那些樹裡看到的是什麼：找到那些屠殺你們村子的人並糾正一切的方法。一個奪回樹林的方法。
-personalquest_the_fall_of_man,隕落的人們
+
 personalquest_the_fall_of_man_completed,在結束了黯淡港灣過去的悲劇之謎，將靈魂從他們的遠古命運中解放之後，你感到一種名叫責任心的情感開始取代你的好奇心。你向其他傭兵告別，並計畫不僅要瞭解更多有關前人的資訊，還要將被困在位面魔法中的人解放。不管你將發現什麼，現在你確信這個城市被困在位面之間的人比任何人想像中的都要多。
 personalquest_the_fall_of_man_desc,"<b>在徘徊沼澤內完成兩個劇本。之後解鎖劇本“縹緲燈塔”並按照劇本說明繼續</b>
 
@@ -6958,7 +6937,7 @@ personalquest_the_fall_of_man_objective_step0_desc,在徘徊沼澤內完成兩�
 personalquest_the_fall_of_man_objective_step1_desc,按照劇本“縹緲燈塔”的劇本說明繼續。
 personalquest_the_fall_of_man_objective_step2_desc,按照劇本“靈魂葬坑”的劇本說明繼續。
 personalquest_the_fall_of_man_progress_completed_step_0,不，這並不是你的思維在愚弄你，也不是魔法帶來的不良影響，甚至不是因為沼澤奇怪的氣味。你知道你看到的是什麼，你也明白這代表的意義——即使只有一瞬間，但你確實看到了前人在此留下的東西。你可以在此找到它，並揭開其隱藏的謎團。
-personalquest_the_perfect_poison,完美的毒藥
+
 personalquest_the_perfect_poison_completed,毒藥完成了。從未有過毒性如此複雜，外觀如此美麗的毒素。黯淡港灣的奇珍異獸真是大自然最優秀的成果，現在他們成就了你，讓你做出了完美的毒藥。你不確定是為什麼，但你情不自禁地覺得你做的太過了，就像你為這個城市帶來了瘟疫一般。你決定最好離開這，逃避你的所作所為帶來的後果。
 personalquest_the_perfect_poison_desc,"<b>擊殺三個軟泥怪，三個潛伏者，三個噴吐龍獸</b>
 
@@ -6966,7 +6945,7 @@ personalquest_the_perfect_poison_desc,"<b>擊殺三個軟泥怪，三個潛伏�
 personalquest_the_perfect_poison_objective_desc,擊殺三個軟泥怪，三個潛伏者，三個噴吐龍獸。
 personalquest_the_perfect_poison_objective_progress_tooltip,"Oozes, Lurkers, and Spitting Drakes killed:"
 personalquest_the_perfect_poison_objective_progress_tooltip_empty,"No Oozes, Lurkers, and Spitting Drakes killed yet."
-personalquest_the_thin_places,稀薄之地
+
 personalquest_the_thin_places_completed,儘管你做了你能做的一切，但空氣依舊變得比以往更稀薄了。但你瞭解到的是，這是某個在另一面，某個正在注視著黯淡港灣的東西所為。在你瞭解更多之前，你什麼都做不到——所以你匆匆地離開了你的傭兵同伴，離開這座城市去追尋真正能夠拯救它的知識。只有一點是能肯定的：那些藏在位面之間的東西暫時還無法毀滅黯淡港灣......
 personalquest_the_thin_places_desc,"<b>完成六個旁支劇本</b>
 
@@ -6974,15 +6953,13 @@ personalquest_the_thin_places_desc,"<b>完成六個旁支劇本</b>
 personalquest_the_thin_places_objective_desc,完成六個旁支劇本。
 personalquest_the_thin_places_objective_progress_tooltip,Side scenarios completed:
 personalquest_the_thin_places_objective_progress_tooltip_empty,No 旁支劇本 completed yet.
-personalquest_trophy_hunt,狩獵的戰利品
-personalquest_trophy_hunt_completed,開始冒險時，你並不知道黑暗中潛藏著什麼生物，它們將帶來怎樣的考驗。不論你曾以為做不到的和做得到的，你都已經親手擊殺了它們。現在你已經見識過了黯淡港灣有的所有獵物，你很確信在這裡已經找不出能給你帶來些許挑戰的野獸了。你將你的戰利品全都裝上車離開了黯淡港灣，去往別處繼續你的狩獵。
-personalquest_trophy_hunt_desc,"<b>擊殺二十種不同的怪物</b>
 
-一箭穿心，讓那頭鹿當場斃命的場景歷歷在目。在獵物的地盤上成功獵殺他們讓你興奮不已。但獵物不過是小菜一碟。荒野之上還有許多兇悍無比的生物，你想要體會獵殺他們的快感。你不是為了享受殺戮而去狩獵，你進行殺戮只因這是狩獵的必要過程而已。"
-personalquest_trophy_hunt_objective_desc,擊殺二十種不同的怪物。
-personalquest_trophy_hunt_objective_progress_tooltip,Monster types killed:
+personalquest_trophy_hunt_completed,開始冒險時，你並不知道黑暗中潛藏著什麼生物，它們將帶來怎樣的考驗。不論你曾以為做不到的和做得到的，你都已經親手擊殺了它們。現在你已經見識過了黯淡港灣有的所有獵物，你很確信在這裡已經找不出能給你帶來些許挑戰的野獸了。你將你的戰利品全都裝上車離開了黯淡港灣，去往別處繼續你的狩獵。
+
+
+
 personalquest_trophy_hunt_objective_progress_tooltip_empty,No monsters killed yet.
-personalquest_vengeance,復仇
+
 personalquest_vengeance_completed,失去計畫後你只感到空虛。從那天在棚屋裡來，你就一直無法擺脫這種麻木空虛的感覺。為你的摯友報仇曾經是為了讓你再次感到圓滿，但這只是剝奪了你的動力和情感。你決定是時候離開黯淡港灣了，去在大路上追尋自我；你這輩子已經厭倦了和神話生物打交道了。
 personalquest_vengeance_desc,每當你閉上雙眼，兩小無猜的童年便歷歷在目；然而當你睜開雙眼，你最好的朋友卻已不在人世。雖然衛兵們一口咬定這不過是一個意外，但你知道他們其實滿口謊言。你發誓一定會找到兇手並親手手刃。有些是必須血債血償。
 personalquest_vengeance_objective_desc,"<b>在黯淡港灣內完成四個劇本。（階段目標）</b>
@@ -6994,7 +6971,7 @@ personalquest_vengeance_objective_step0_desc,在黯淡港灣內完成四個劇�
 personalquest_vengeance_objective_step1_desc,按照劇本“調查”的劇本說明繼續。
 personalquest_vengeance_objective_step2_desc,按照劇本“血腥小屋”的劇本說明繼續。
 personalquest_vengeance_progress_completed_step_0,在戰鬥結束後，你在一個強盜的屍體旁找到了這個小小的——裝得滿滿的——錢包，正是屬於你搜集到的所有證據指向的那個人。標籤背面用淩亂的字寫著“賄賂”，還印著當地強盜氏族的紋章。這是解開你疑惑的最後一塊拼圖：你已經確信是誰害死了你的摯友，並且無論如何你都會找出答案。
-personalquest_zealot_of_the_blood_god,嗜血之神的狂信者
+
 personalquest_zealot_of_the_blood_god_completed,獻祭是必要的，所以祭品應被奉上。但你的獻祭已經完成了。嗜血之神已經表示你已不再受到庇護；你必須給自己找條出路了。你當然尊重神明的意志，但你還是不禁感覺信仰的神明背棄了你。似乎你的獻身是那麼的微不足道。在你離開這個城市時，你決定要過一個平靜的生活——也許是買下一個農場。不管如何，嗜血之神將會在黯淡港灣找一個新的信徒。
 personalquest_zealot_of_the_blood_god_desc,"<b>精疲力竭的次數達到十二次。.</b>
 
@@ -7588,7 +7565,7 @@ quest_campaign_044_list,跟隨瑞德索爾前往花晶族村落
 quest_campaign_044_name,突襲部落據點
 quest_campaign_044_scenario_modifier_1,所有與花晶族俘虜相鄰的傭兵都可以跳過上半部分行動來釋放一名俘虜，被釋放的俘虜立即從地圖上移除。
 quest_campaign_044_scenario_modifier_2,每解救一名俘虜，瑞德索爾的攻擊附加+1攻擊。
-quest_campaign_044_scenario_modifier_3,任何傭兵都可以通過從手牌中燒祭一張卡來無效化一個花晶族俘虜將遭受的一次傷害。
+quest_campaign_044_scenario_modifier_3,任何傭兵都可以通過從手牌中燒祭一張牌來無效化一個花晶族俘虜將遭受的一次傷害。
 quest_campaign_045_desc,消滅所有反抗惡魔統治的人
 quest_campaign_045_intro,"你們聽從惡魔領主的命令前往徘徊沼澤，以摧毀最後一點妄圖反抗惡魔統治的勢力。
 
@@ -10016,7 +9993,7 @@ scenario_puzzle_3b_05,"哈哈！在單個行動輪中瞄準多個目標的感覺
 <line-height=20%>
 </line-height>→ 在本回合中拾取至少5堆金幣
 <line-height=20%>
-</line-height> 小提示——有時一張卡牌的上半部分也會允許你執行<b>移動</b>技能！"
+</line-height> 小提示——有時一張牌牌的上半部分也會允許你執行<b>移動</b>技能！"
 scenario_puzzle_3b_06,"拾取技能會撿起所示射程距離內的<i>所有</i>金幣，所以好好想想你應該站在哪裡進行拾取吧！"
 scenario_puzzle_3b_07,"你需要在<link=""Glossary_Loot""><b>拾取</b></link>前先進行前進，而且不是所有前進技能都在技能卡的下半部分！"
 scenario_puzzle_3b_08,漂亮！暫時就讓我來替你保管這些金幣吧…
@@ -11227,7 +11204,7 @@ spellweaver_adventure_description,"織咒師們是晶人族的智者能夠引出
 spellweaver_description,織咒師們是晶人族的智者能夠引出自然之力和並操作它們集中在攻擊之中。
 spellweaver_difficulty,高
 spellweaver_role,遠程輸出
-spellweaver_skin_alt,水晶皮膚的案卷管理員
+
 spellweaver_strengths,"- <indent=%15>較好的遠程傷害輸出</indent>
 - <indent=%15>“回牌靈能”技能帶來以燒牌為核心的強力打法</indent>
 - <indent=%15>好用的初期遠程召喚物</indent>"
