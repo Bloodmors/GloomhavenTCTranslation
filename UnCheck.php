@@ -1470,9 +1470,9 @@ covenofbones,科文的骨頭
 cragheart_adventure_description,"岩石心們是薩維斯中那些因無法掌握一種元素而被流放的人。他們的核心被粉碎，用以終生標記他們。
 他們有大量的技能和合理的生命值，這代表，作為一個遠端輸出或是關鍵時候的治療師，他們卻可以充當近戰防禦角色。請優先使用土元法力來充分利用他們的能力。"
 cragheart_description,岩石心們是薩維斯中那些因無法掌握一種元素而被流放的人。他們的核心被粉碎，用以終生標記他們。
-cragheart_difficulty,中
+
 cragheart_role,輸出/輔助
-cragheart_skin_alt,大拳石
+
 cragheart_strengths,"- <indent=%15>高生命值加上好用的治療技能</indent>
 - <indent=%15>合理的近戰和遠程搭配</indent>
 - <indent=%15>擁有大量的無視護甲和劣勢進攻傷害技能</indent>"
@@ -4418,7 +4418,7 @@ gui_card_section_discarded,已棄置的
 gui_card_section_discarded_tooltip,棄牌堆的技能卡
 gui_card_section_discarded_tooltip_descr,在使用後，沒有焚燒圖示的技能卡被棄置，並且將在該角色的卡列表中呈現出灰色。通過執行休息，可以在場景中再次回手棄置的卡。
 gui_change_party,改變玩家團隊
-gui_character_name_repeated,雇傭兵名字已經被使用了，請換一個名字。
+
 gui_character_retired,{0}退休了！
 gui_characters_exhausted_tip,由於缺乏可用的技能卡而精力耗盡
 gui_characters_exhausted_title,精力耗盡
@@ -4498,11 +4498,10 @@ gui_core_quest,核心任務
 
 
 gui_create_character_class_roster_descr,選擇角色職業
-gui_create_character_class_roster_title,創建角色
+
 
 gui_create_character_confirmation,{0}已加入玩家團隊
 
-gui_create_character_name_confirm,創造雇傭兵
 
 gui_create_character_personal_quest_help,雇傭兵的個人任務是他們參加玩家團隊的理由。 <color=#EACF8C>要小心</color>  - 一旦個人任務完成，雇傭兵將退休，無法再使用。
 
@@ -4733,11 +4732,6 @@ gui_item_equipped_different_slot,裝備進槽中<color=#F1DBAEFF> {0}</color>
 gui_item_gui_item_slot_smallitem_locked_mystery,怎麼解鎖這個槽？
 gui_item_reputation_discount_tooltip,"<color=#{3}><rotate={4}><sprite name=""ReputationLevel_Icon"" color=#{3}></rotate>名聲修正：{2}<sprite name=""Gold_Icon_White"" color=#{3}></color>
 {1}<sprite name=""Gold_Icon_White""> + <color=#{3}><rotate={4}><sprite name=""ReputationLevel_Icon"" color=#{3}></rotate>{2}</color> = <color=#FCC954FF>{0}<sprite name=""Gold_Icon_White"" color=#FCC954FF></color>"
-
-
-
-
-gui_item_slot_onehand,單手武器
 
 gui_item_soldout,售罄！
 gui_items_lose_durability,您的物品失去1點耐久度
@@ -6792,12 +6786,8 @@ personalquest_a_study_of_anatomy_objective_progress_tooltip,Party member exhaust
 personalquest_a_study_of_anatomy_objective_progress_tooltip_empty,No party members have become exhausted yet.
 
 personalquest_aberrant_slayer_completed,在於每個元素位元面的不同惡魔戰鬥的過程中，你只學到了一件事：殺死它們可能很有趣，但絕不高效。如果你想要贏得與惡魔軍團的戰鬥——不僅僅是無休止的延續——那麼你必須找到一個方法將惡魔永遠逐出這個位面。想達成如此壯舉所需的知識量並不存在於黯淡港灣，所以你拋下了公會裡的雇傭兵獨自起身追尋。與此同時，元素的傾軋將繼續在這座城市中上演......
-personalquest_aberrant_slayer_desc,"<b>殺死一隻烈焰惡魔、一隻冰霜惡魔、一隻疾風惡魔、一隻大地惡魔、一隻暗夜惡魔、一隻烈光惡魔。</b>
 
-自出生起，從出生起，你就聽說了一個早已過去的時代的故事，它說惡魔自古以來便存在於世，並以弱者為食。而你的先祖就是惡魔獵手，驅魔高手。你一直以為這只是一個故事——直到今天。你發現惡魔是真的存在，而現在獵殺他們的重任就落到了你的肩上。"
-personalquest_aberrant_slayer_objective_desc,殺死一隻烈焰惡魔、一隻冰霜惡魔、一隻疾風惡魔、一隻大地惡魔、一隻暗夜惡魔、一隻烈光惡魔。
-personalquest_aberrant_slayer_objective_progress_tooltip,Different elementally-aligned Demons killed:
-personalquest_aberrant_slayer_objective_progress_tooltip_empty,No Demons killed yet.
+
 
 personalquest_augmented_abilities_completed,這種力量是你從未設想過的。你相信現在的你可以做到幾乎任何事情，但也沒必要完全確信——你想要自己證明。是時候帶著你新獲得的能力離開黯淡港灣，到世界各地去完成所有你能遇到的事情了。但你很快就會回來：你敢打賭下次回來時，會有更多行維族願意為了一點點錢來進一步強化你的力量。
 personalquest_augmented_abilities_desc,"<b>擁有四種附魔效果（需要解鎖女巫）</b>
@@ -6820,12 +6810,9 @@ personalquest_elemental_samples_completed,這個城市沒被科學家擠滿真�
 personalquest_elemental_samples_objective_progress_tooltip_empty,No scenarios completed yet.
 
 personalquest_eternal_wanderer_completed,這是在夢中也不曾見過的瑰麗美景。作為一名傭兵，你親自踏足了那些人煙罕至的地方——甚至曾與其他位面的生物擦肩而過。置身于這些自然奇觀中，現在的你希望能專注於這些地點本身，而不是途中的戰鬥。作為傭兵的日子已經教會了你如何獨立處理問題，但其他居民會取代你的位置成為新的戰士：你離開了黯淡港灣，去以一種沒有流血與犧牲的方式追尋更多的風景與精力。
-personalquest_eternal_wanderer_desc,"<b>完成十五個不同的劇本</b>
 
-天下之大無奇不有。這其中就包含了大自然鬼斧神工的景色——白雪皚皚的高聳山峰，被人遺忘的世外孤島，閃閃發光的水晶洞穴。顯然這些夢幻之地的出現並非偶然。你渴望拜訪這些名勝，在那裡進行冥想，從而思考它們存在的意義，進而借此對自我的存在有所頓悟。"
-personalquest_eternal_wanderer_objective_desc,完成十五個不同的劇本
-personalquest_eternal_wanderer_objective_progress_tooltip,Scenarios completed:
-personalquest_eternal_wanderer_objective_progress_tooltip_empty,No scenarios completed yet.
+
+
 
 personalquest_fearless_stand_completed,他們曾嘲笑你是個小不點，是個怪人；你曾被看輕，你曾被羞辱。沒有人會覺得你可以憑藉不屈的意志擊敗那些生物：傲慢者已經為他們的罪行付出了代價。你向黯淡港灣證明即使矮小的人也可以如此強大。你清楚現在你可以回到你原先的生活了，不會再有人來侮辱你了。但你在冥冥中有一個感覺，你不會是最後一個來到這座城市的矮小的，醜陋的戰士。
 personalquest_fearless_stand_desc,"<b>擊殺20個精英怪</b>
@@ -6876,15 +6863,10 @@ personalquest_law_bringer_desc,"<b>擊殺20個強盜或邪教徒</b>
 personalquest_law_bringer_objective_desc,擊殺20個強盜或邪教徒。
 personalquest_law_bringer_objective_progress_tooltip,Bandits and Cultists killed:
 personalquest_law_bringer_objective_progress_tooltip_empty,No Bandits or Cultists killed yet.
-personalquest_merchant_class,商人階級
-personalquest_merchant_class_completed,這花了你不少時間，但最終你還是攢足了裝備來開一個屬於你的小商店。你不用再為了生活而在地下城裡好勇鬥狠，那些事情就留給曾與你一同冒險過的人吧。帶著商品，你走向了幽港港的大門。也許未來你會懷念你的雇傭兵朋友們，但不久之後你的腦袋已經在自己變成一個真正的商人的白日夢裡暢遊了——你確信他們會找到一個新的人來管理他們的倉庫。
-personalquest_merchant_class_desc,"<b>擁有兩件<sprite name=InvHead>道具，兩件<sprite name=InvBody>道具，兩件<sprite name=InvLegs>道具，三件<sprite name=InvOneHand>或<sprite name=InvTwoHands>道具和四件<sprite name=InvSmallItem>道具</b>
 
-金錢就是力量，商人統治世界。你認為，如果你能收集到足夠的裝備，你也許能在某個地方建立自己的商店，並努力成為一個真正的商人。讓那些傻瓜們繼續在地牢裡為殘羹冷炙而戰鬥吧。"
-personalquest_merchant_class_objective_desc,擁有兩件<sprite name=InvHead>道具，兩件<sprite name=InvBody>道具，兩件<sprite name=InvLegs>道具，三件<sprite name=InvOneHand>或<sprite name=InvTwoHands>道具和四件<sprite name=InvSmallItem>道具。
-personalquest_merchant_class_objective_progress_tooltip,Items owned:
-personalquest_merchant_class_objective_progress_tooltip_empty,No items owned yet.
-personalquest_piety_in_all_things,虔誠即是一切
+personalquest_merchant_class_completed,這花了你不少時間，但最終你還是攢足了裝備來開一個屬於你的小商店。你不用再為了生活而在地下城裡好勇鬥狠，那些事情就留給曾與你一同冒險過的人吧。帶著商品，你走向了幽港港的大門。也許未來你會懷念你的雇傭兵朋友們，但不久之後你的腦袋已經在自己變成一個真正的商人的白日夢裡暢遊了——你確信他們會找到一個新的人來管理他們的倉庫。
+
+
 personalquest_piety_in_all_things_completed,你不得不停留的更久一些，但最終你還是想辦法把這座陰森城市的黃金帶去了當地的庇護所，讓它發揮了作用。多虧了你，黯淡港灣正在成為真正的希望之港，還要感謝聖橡樹，你終於可以離開這塊罪惡的土地，去另一座墮落的城市——一座沒有那麼多散發著惡臭的行屍走肉的城市。聖橡樹庇護所會讓其他倒楣蛋來照顧黯淡港灣的。
 personalquest_piety_in_all_things_desc,"<b>向聖橡樹庇護所捐贈120金</b>
 
@@ -6902,16 +6884,7 @@ personalquest_pounds_of_flesh_objective_progress_tooltip,Vermlings killed:
 personalquest_pounds_of_flesh_objective_progress_tooltip_empty,No Vermlings killed yet.
 
 personalquest_seeker_of_xorn_completed,蟲群化作了人類的外形——那是一隻巢靈族人——用紊亂的嗡嗡聲說道：“我活過來了，瘟疫也將再次降臨。不必為你的朋友感到哀傷，他們已經盡了最大的作用了。我們會與你一同前行，為世界獻上禮物。瘟疫將擁抱這個世界。”
-personalquest_seeker_of_xorn_desc,"<b>你還是個孩子時，就已經能感受到索恩的呼喚。</b>
 
-他曾被奉為神明，但如今他的祭壇卻破敗不堪，信眾也棄之而去。不過還有你能聽到他的呼喚。你聽從索恩的指引，來到了黯淡港灣，要找到他的遺骸並將其解放，好讓瘟疫再次降臨於世。"
-personalquest_seeker_of_xorn_objective_desc,完成三個“地穴”劇本。之後解鎖劇本“劇毒地窖”並按照劇本說明繼續。
-personalquest_seeker_of_xorn_objective_progress_tooltip,"""Crypt"" scenarios completed:"
-personalquest_seeker_of_xorn_objective_progress_tooltip_empty,"No ""Crypt"" scenarios completed yet."
-personalquest_seeker_of_xorn_objective_step0_desc,完成三個“地穴”劇本。（階段目標）
-personalquest_seeker_of_xorn_objective_step1_desc,按照劇本“劇毒地窖”的劇本說明繼續。
-personalquest_seeker_of_xorn_objective_step2_desc,按照劇本“地穴密室”的劇本說明繼續。
-personalquest_seeker_of_xorn_objective_step3_desc,按照劇本“冰晶宮殿”的劇本說明繼續。
 personalquest_seeker_of_xorn_progress_completed_step_0,你剛從地穴出來時就感覺到索恩對你的呼喚變得比這麼多年來的更強了：你最後前往的三個地穴中有些東西——你錯過了的東西。他命令你在找到之前不能停下，所以你回到了地穴，最終找到了索恩想讓你發現的東西...
 
 personalquest_take_back_the_trees_completed,你沒法將你的村子復原，但得知那些將其奪走的人已經為他們犯下的罪行贖罪就夠了。在你從強盜手中救下的花晶族的幫助下，你可以按照心中所想的樣子重建村落。不再對戰鬥渴望的你向至親的戰友告別，離開了黯淡港灣回到樹林中生活。你相信叢林會為你的朋友們善行帶來回報的。
@@ -6927,15 +6900,10 @@ personalquest_take_back_the_trees_objective_step2_desc,按照劇本“強盜的�
 personalquest_take_back_the_trees_progress_completed_step_0,你有點難以置信。就在剛剛你找到了你一直想要的東西。但你清楚你在那些樹裡看到的是什麼：找到那些屠殺你們村子的人並糾正一切的方法。一個奪回樹林的方法。
 
 personalquest_the_fall_of_man_completed,在結束了黯淡港灣過去的悲劇之謎，將靈魂從他們的遠古命運中解放之後，你感到一種名叫責任心的情感開始取代你的好奇心。你向其他傭兵告別，並計畫不僅要瞭解更多有關前人的資訊，還要將被困在位面魔法中的人解放。不管你將發現什麼，現在你確信這個城市被困在位面之間的人比任何人想像中的都要多。
-personalquest_the_fall_of_man_desc,"<b>在徘徊沼澤內完成兩個劇本。之後解鎖劇本“縹緲燈塔”並按照劇本說明繼續</b>
 
-證據就在你的周圍——就在你的眼皮底下，只要你知道如何去尋找。很明顯這些城市建立在遠古文明的遺骸上。曾有人生活在這裡，但他們都消失了。你必須尋找線索來弄清那些人究竟遇上過什麼事情。"
-personalquest_the_fall_of_man_objective_desc,在徘徊沼澤內完成兩個劇本。之後解鎖劇本“縹緲燈塔”並按照劇本說明繼續。
+
 personalquest_the_fall_of_man_objective_progress_tooltip,"""Lingering Swamp"" scenarios completed:"
 personalquest_the_fall_of_man_objective_progress_tooltip_empty,"No ""Lingering Swamp"" scenarios completed yet."
-personalquest_the_fall_of_man_objective_step0_desc,在徘徊沼澤內完成兩個劇本。（階段目標）
-personalquest_the_fall_of_man_objective_step1_desc,按照劇本“縹緲燈塔”的劇本說明繼續。
-personalquest_the_fall_of_man_objective_step2_desc,按照劇本“靈魂葬坑”的劇本說明繼續。
 personalquest_the_fall_of_man_progress_completed_step_0,不，這並不是你的思維在愚弄你，也不是魔法帶來的不良影響，甚至不是因為沼澤奇怪的氣味。你知道你看到的是什麼，你也明白這代表的意義——即使只有一瞬間，但你確實看到了前人在此留下的東西。你可以在此找到它，並揭開其隱藏的謎團。
 
 personalquest_the_perfect_poison_completed,毒藥完成了。從未有過毒性如此複雜，外觀如此美麗的毒素。黯淡港灣的奇珍異獸真是大自然最優秀的成果，現在他們成就了你，讓你做出了完美的毒藥。你不確定是為什麼，但你情不自禁地覺得你做的太過了，就像你為這個城市帶來了瘟疫一般。你決定最好離開這，逃避你的所作所為帶來的後果。
@@ -6973,12 +6941,7 @@ personalquest_vengeance_objective_step2_desc,按照劇本“血腥小屋”的�
 personalquest_vengeance_progress_completed_step_0,在戰鬥結束後，你在一個強盜的屍體旁找到了這個小小的——裝得滿滿的——錢包，正是屬於你搜集到的所有證據指向的那個人。標籤背面用淩亂的字寫著“賄賂”，還印著當地強盜氏族的紋章。這是解開你疑惑的最後一塊拼圖：你已經確信是誰害死了你的摯友，並且無論如何你都會找出答案。
 
 personalquest_zealot_of_the_blood_god_completed,獻祭是必要的，所以祭品應被奉上。但你的獻祭已經完成了。嗜血之神已經表示你已不再受到庇護；你必須給自己找條出路了。你當然尊重神明的意志，但你還是不禁感覺信仰的神明背棄了你。似乎你的獻身是那麼的微不足道。在你離開這個城市時，你決定要過一個平靜的生活——也許是買下一個農場。不管如何，嗜血之神將會在黯淡港灣找一個新的信徒。
-personalquest_zealot_of_the_blood_god_desc,"<b>精疲力竭的次數達到十二次。.</b>
 
-那些如螻蟻一般終日忙忙碌碌般的人根本不懂何為真正的捨身奉獻——那就是放棄一切並把自己毫無保留地交付給一個更偉大的存在。一些文獻記載著古老的方法，那就是捨身取義。只有英勇的戰死沙場才能喚醒嗜血之神。所以在每場戰鬥中你都全力以赴，直到最後一刻。直到永遠。"
-personalquest_zealot_of_the_blood_god_objective_desc,精疲力竭的次數達到十二次。
-personalquest_zealot_of_the_blood_god_objective_progress_tooltip,Number of exhaustions:
-personalquest_zealot_of_the_blood_god_objective_progress_tooltip_empty,No exhaustions yet.
 ================================================================================================================================================
 #endregion personalquest
 ================================================================================================================================================
@@ -11198,11 +11161,11 @@ southshield,南盾村
 southshield_descr,南盾村是該地區最南端的村莊，是勇敢的冒險者向南進入未知土地的停靠點。物品種類很少，並且不便宜。
 spanish,Spanish
 spellshields,咒法護盾
-spellweaver,織咒師
+
 spellweaver_adventure_description,"織咒師們是晶人族的智者能夠引出自然之力和並操作它們集中在攻擊之中。
 他們善於造成遠端傷害，但由於他們的低血量他們非常脆弱，所以讓他們遠離戰鬥前線。 織咒師最重要的技能是回牌靈能，使得她能在一場冒險中比其它角色燒祭更多卡牌然後回手它們，但是注意不要在過早地使用它。"
 spellweaver_description,織咒師們是晶人族的智者能夠引出自然之力和並操作它們集中在攻擊之中。
-spellweaver_difficulty,高
+
 spellweaver_role,遠程輸出
 
 spellweaver_strengths,"- <indent=%15>較好的遠程傷害輸出</indent>
