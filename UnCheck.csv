@@ -398,14 +398,11 @@
 ============================================================================
 ============================================================================
 ============================================================================
-abandonedcatacombs,廢棄的地下墓穴
-abandonedfarm,廢棄農場
 abandonedfarm_descr,一個廢棄的農場就位於通往奇波特港的大道旁邊。 林煙的氣味在這裡縈繞，大部分的屋頂已經坍塌，但仍有一些房間可以住一晚。
 ============================================================================
 ============================================================================
 ============================================================================
 ability_card_acceleratedend,終幕臨近
-
 ability_card_airbornetoxin,毒雲
 ability_card_amomentspeace,片刻安寧
 ability_card_amputate,致殘打擊
@@ -417,7 +414,6 @@ ability_card_avalanche,雪崩
 ability_card_backstab,背刺
 ability_card_backupammunition,備用彈藥
 ability_card_bagofholding,百寶袋
-ability_card_balancedmeasure,平衡
 ability_card_banefulhex,邪惡符咒
 ability_card_battlefieldmedicine,戰地醫療
 ability_card_beaconoflight,聖光信標
@@ -426,7 +422,6 @@ ability_card_bitinggnats,叮人小蟲
 ability_card_bitingwind,叮刺妖風
 ability_card_blackarrow,黑箭
 ability_card_blackfire,黑炎
-
 ability_card_blackknives,黑刃
 ability_card_blacktides,黑潮
 ability_card_bladedboomerang,劍刃回力標
@@ -447,7 +442,6 @@ ability_card_brightaegis,光輝聖盾
 ability_card_brilliantflash,炫目閃光
 ability_card_brilliantprayer,光輝禱告
 ability_card_brutalmomentum,蠻勢沖
-ability_card_bruteforce,蠻力
 ability_card_burial,埋葬
 ability_card_burningflash,烈光閃
 ability_card_burningoil,火上澆油
@@ -460,14 +454,11 @@ ability_card_cautiousadvance,其徐如林
 ability_card_chainlightning,閃電鏈
 ability_card_changetempo,變奏
 ability_card_chimericformula,嵌合方程
-
 ability_card_clawsofthenight,暗夜之爪
 ability_card_cleansingforce,淨化之力
 ability_card_cleartheway,掃清路障
 ability_card_cleavingaxe,新月斧劈
 ability_card_cloakofshade,影遁
-
-
 ability_card_commandingpresence,存在支配
 ability_card_concealeddominance,影隱控馭
 ability_card_concentratedrage,怒氣彙聚
@@ -475,16 +466,13 @@ ability_card_conjuredaid,治療魔術
 ability_card_continualsupply,持續補給
 ability_card_converttheflock,群體改造
 ability_card_corruptingembrace,腐蝕之擁
-
 ability_card_craniumoverload,顱頂超壓
-
 ability_card_crashingwave,乘風破浪
 ability_card_crater,火山口
 ability_card_creepingcurse,慢性詛咒
 ability_card_cripplingbow,致殘弓
 ability_card_cripplingchorus,致殘和聲
 ability_card_cripplingnoose,致殘繩套
-ability_card_cripplingoffensive,致殘打擊
 ability_card_cripplingpoison,致殘毒藥
 ability_card_crushinggrasp,大地抓
 ability_card_crushinghammer,破碎錘
@@ -502,15 +490,12 @@ ability_card_dazingwound,昏厥之傷
 ability_card_dazzlingcharge,炫目衝鋒
 ability_card_defensiveditty,防禦小曲
 ability_card_defensivestance,防禦架勢
-ability_card_defensivetactics,防守策略
 ability_card_defianceofdeath,漠視死亡
 ability_card_detonation,爆炸
-ability_card_devastatinghack,毀滅亂刃
 ability_card_devilhorns,惡魔角
 ability_card_digpit,挖洞
 ability_card_dirttornado,龍捲風摧毀停車場
 ability_card_disappearingwounds,移除傷口
-
 ability_card_disorientingdirge,迷亂挽歌
 ability_card_disorientingflash,閃光彈
 ability_card_disorientingroar,迷失咆哮
@@ -525,7 +510,6 @@ ability_card_earthenspikes,土力尖峰
 ability_card_earthensteed,土制駿馬
 ability_card_echoingaria,復仇詠歎調
 ability_card_elementalaegis,元素魔盾
-
 ability_card_empatheticassault,詭意突襲
 ability_card_empoweringcommand,強化咒令
 ability_card_empoweringvoid,伺機待發
@@ -543,25 +527,16 @@ ability_card_etherealvines,靈能藤蔓
 ability_card_euthanize,安樂死
 ability_card_explosivepunch,爆炸拳
 ability_card_expose,暴露
-ability_card_eyeforaneye,以眼還眼
 ability_card_eyeofthehurricane,颶風之眼
 ability_card_eyesofthenight,暗夜之眼
-ability_card_faceyourend,面對你的結局
-ability_card_fataladvance,致命行軍
-
 ability_card_fearsomeblade,恐懼之刃
 ability_card_feedbackloop,反饋回路
 ability_card_fellingswoop,俯衝突襲
 ability_card_feralinstincts,野性本能
 ability_card_fetidflurry,腥臭碎雪
-
-ability_card_firstaid,急救
-
-
 ability_card_flankingstrike,側擊
 ability_card_flightofflame,火焰快遞
 ability_card_flintlock,燧發槍
-
 ability_card_flurryofblades,刀扇
 ability_card_focusedaggression,聚焦攻擊
 ability_card_footsnare,套足縛鎖
@@ -571,14 +546,11 @@ ability_card_forgedferocity,虛張聲勢
 ability_card_formlesspower,無形之力
 ability_card_fortifiedposition,強化列陣
 ability_card_foulwind,森森妖風
-
-ability_card_frenziedonslaught,狂暴衝鋒
 ability_card_freshkill,開場擊殺
 ability_card_frighteningcurse,恐懼詛咒
 ability_card_frigidapparition,寒霜幻影
 ability_card_frigidtorrent,寒霜奔流
 ability_card_fromthebrink,刀口舔血
-
 ability_card_frozenmind,冰凍之心
 ability_card_gatheringdoom,厄運彙集
 ability_card_gentlemansanger,紳士之怒
@@ -586,7 +558,6 @@ ability_card_giantclub,巨兵俱樂部
 ability_card_gloomdarts,蝕心鏢
 ability_card_gloriousbolt,輝煌脈衝
 ability_card_gnawinghorde,齧噬部落
-
 ability_card_graspingthevoid,攫取虛空
 ability_card_graspingvermin,抓住害蟲
 ability_card_gravelvortex,礫石渦旋
@@ -602,22 +573,16 @@ ability_card_heavingswing,新月斬
 ability_card_hiddendaggers,袖裡藏匕
 ability_card_holdbackthepain,止痛
 ability_card_holystrike,聖潔重擊
-ability_card_hookandchain,鉤與鏈
 ability_card_hornedmajesty,號角之主
 ability_card_hostiletakeover,惡意侵吞
 ability_card_howlingbolts,嚎叫閃電
 ability_card_icespikes,冰錐
-
 ability_card_illuminatethetarget,照亮前路
-
-ability_card_immovablephalanx,固定方陣
-
 ability_card_impalingspear,穿刺槍擊
 ability_card_impendingend,推向終局
 ability_card_inescapablefate,在劫難逃
 ability_card_inexorablemomentum,勢不可擋
 ability_card_infernalvortex,地獄渦旋
-
 ability_card_inspiringanthem,鼓舞聖歌
 ability_card_inspiringsanctity,聖心鼓舞
 ability_card_interplanarmastery,晶面掌握
@@ -625,25 +590,19 @@ ability_card_interveningapparitions,幻影干涉
 ability_card_intothenight,潛入陰影
 ability_card_ironbulwark,鋼鐵碉堡
 ability_card_jawsofdeath,死亡之顎
-ability_card_juggernaut,排山倒海
 ability_card_kineticassault,動力拳擊
-ability_card_kingofthehill,山丘之王
 ability_card_largemedicalpack,大型醫療包
 ability_card_lashout,掊擊
 ability_card_lavaeruption,熔岩爆發
 ability_card_layonhands,聖療術
 ability_card_leadtoslaughter,屠宰
-ability_card_leapingcleave,順劈斬
 ability_card_leatherywings,皮革翅膀
 ability_card_livingmountain,活體山脈
 ability_card_livingnight,躍動之夜
-
 ability_card_longcon,欺詐
-
 ability_card_lumberingbash,樹幹猛擊
 ability_card_lurkingruin,毀滅舞步
 ability_card_malleableevocation,百變塑元
-
 ability_card_manyasone,多人如一
 ability_card_marchingbeat,行進節拍
 ability_card_massextinction,無差別滅絕
@@ -654,7 +613,6 @@ ability_card_maul,打傷
 ability_card_medicalpack,醫療包
 ability_card_melodyandharmony,和諧協奏
 ability_card_meteor,流星
-
 ability_card_mightybond,強韌聯結
 ability_card_mobileresponse,移動回應
 ability_card_mobilizingaxiom,動員
@@ -674,7 +632,6 @@ ability_card_openwound,放血
 ability_card_opposingstrike,左右開弓
 ability_card_otherworldlyrage,異界之怒
 ability_card_oversizedpack,超大包裹
-ability_card_overwhelmingassault,力劈華山
 ability_card_painsend,結束痛苦
 ability_card_paralyzingbite,麻痹之咬
 ability_card_parasiticinfluence,寄生支配
@@ -701,7 +658,6 @@ ability_card_primalduality,雙生原素
 ability_card_proficiency,熟能生巧
 ability_card_protectiveblessing,守護祝福
 ability_card_provoketerror,激發恐怖
-
 ability_card_psychicprojection,精神投射
 ability_card_pullthestrings,撥弦
 ability_card_pulverize,粉碎
@@ -710,7 +666,6 @@ ability_card_pureaugmentation,純粹賦能
 ability_card_purifyingaura,淨化光環
 ability_card_quickhands,三隻手
 ability_card_quietfrenzy,無言狂熱
-ability_card_quietus,肅靜
 ability_card_quiverofarrows,額外箭袋
 ability_card_racetothegrave,死亡競速
 ability_card_rainofarrows,箭雨
@@ -724,12 +679,9 @@ ability_card_relentlessally,餓狼夥伴
 ability_card_relentlessoffensive,無情進攻
 ability_card_researchthecure,治癒研究
 ability_card_reservedenergy,加油站
-
 ability_card_restock,刷新
 ability_card_restorativemist,急救噴霧
-
 ability_card_revivingshock,電擊療法
-ability_card_ridethewind,乘風
 ability_card_righteousstrength,正義力量
 ability_card_risingmomentum,愈戰愈勇
 ability_card_rockslide,岩崩
@@ -746,13 +698,11 @@ ability_card_scrollofjudgment,審判卷軸
 ability_card_scrolloflightning,閃電卷軸
 ability_card_scrollofrecall,回復卷軸
 ability_card_scurry,疾走
-ability_card_selfishretribution,自私報復
 ability_card_sentientgrowth,感知增長
 ability_card_shadowpuppets,影子木偶
 ability_card_shapingtheaether,靈能賦形
 ability_card_sharednightmare,共用噩夢
 ability_card_sharpeningkit,銳化套件
-ability_card_shieldbash,盾牌猛擊
 ability_card_sidepouch,側邊口袋
 ability_card_silentforce,無聲偷襲
 ability_card_silentscream,沉默尖嘯
@@ -761,8 +711,6 @@ ability_card_singingarrow,輕吟飛箭
 ability_card_singleout,抓單
 ability_card_singularfocus,聚焦
 ability_card_sinisteropportunity,圍殺
-ability_card_skewer,串肉串
-ability_card_skirmishingmaneuver,小打小鬧
 ability_card_smokebomb,煙幕彈
 ability_card_smokestep,踏煙步
 ability_card_soaringally,無拘夥伴
@@ -770,7 +718,6 @@ ability_card_solidbow,硬弓
 ability_card_songofspeed,速度之歌
 ability_card_soothinglullaby,撫慰搖籃曲
 ability_card_soulfire,靈魂火
-ability_card_sparedagger,備用匕首
 ability_card_specialmixture,獨門合劑
 ability_card_spiritofthenight,暗夜之靈
 ability_card_spiritswap,靈魂互換
@@ -792,7 +739,6 @@ ability_card_succumbtothegift,帶走你的禮物
 ability_card_supportivechant,輔助詠唱
 ability_card_surgeonssatchel,外科挎包
 ability_card_swallowedbyfear,被恐懼吞沒
-ability_card_sweepingblow,橫掃千軍
 ability_card_swiftbow,迅箭
 ability_card_swifttrickery,靈活詭計
 ability_card_syringe,注射
@@ -805,7 +751,6 @@ ability_card_themindsweakness,心靈的弱點
 ability_card_thiefsknack,神偷秘技
 ability_card_throwingknives,飛刀
 ability_card_throwvoice,聲音投射
-
 ability_card_tranquiltrill,無言戰慄
 ability_card_tremulantcyclone,戰慄旋風
 ability_card_triage,傷情鑒定
@@ -818,7 +763,6 @@ ability_card_unendingchant,無休止的詠唱
 ability_card_unendingdominance,永恆支配
 ability_card_unseendread,看不見的恐懼
 ability_card_unstableupheaval,亂局
-ability_card_unstoppablebeast,不可阻擋的野獸
 ability_card_unstoppablecharge,不可阻擋的衝鋒
 ability_card_unwaveringhand,堅毅援助
 ability_card_unwaveringmandate,堅定使命
@@ -836,12 +780,9 @@ ability_card_vitalstrike,致命一擊
 ability_card_voiceofthenight,暗夜之聲
 ability_card_volatileconsumption,元素環繞
 ability_card_volatileflame,不穩定火焰
-ability_card_wallofdoom,末日盾牆
 ability_card_wardingdagger,防身匕首
-ability_card_wardingstrength,強壯守衛
 ability_card_watchitburn,烈火刀法
 ability_card_weaponofpurity,純潔附魔
-ability_card_whirlwind,旋風斬
 ability_card_wildanimation,野性狂熱
 ability_card_wildcommand,狂野號令
 ability_card_willingsacrifice,自願獻祭
@@ -1303,57 +1244,6 @@ battlebot,戰鬥機器
 ============================================================================
 ============================================================================
 ============================================================================
-battlegoal_agressor,侵略者
-battlegoal_agressor_desc,在當前劇本中的每一回合開始時場上都有怪物存活。
-battlegoal_diehard,堅若磐石
-battlegoal_diehard_desc,在當前劇本中，永遠讓生命值高於最大生命值的一半（向上取整）。
-battlegoal_dynamo,螳臂擋車
-battlegoal_dynamo_desc,以至少超額4點的傷害量消滅一個敵人
-battlegoal_executioner,處決者
-battlegoal_executioner_desc,在當前劇本中以單次攻擊消滅一個未受過傷害的怪物。
-battlegoal_explorer,探險者
-battlegoal_explorer_desc,在當前劇本中開啟一扇門。
-battlegoal_fasthealer,體格強健
-battlegoal_fasthealer_desc,在當前劇本結束時處於滿血狀態。
-battlegoal_hoarder,囤積者
-battlegoal_hoarder_desc,在當前劇本中拾取5個以上的金幣堆。
-battlegoal_hunter,精英獵手
-battlegoal_hunter_desc,在當前劇本中消滅至少1個精英級別的怪物。
-battlegoal_indigent,兩袖清風
-battlegoal_indigent_desc,在當前劇本中不拾取金幣和寶箱。
-battlegoal_layabout,遊手好閒
-battlegoal_layabout_desc,在當前劇本中獲得小於等於7的經驗值。
-battlegoal_masochist,受虐者
-battlegoal_masochist_desc,在當前劇本結束時血量小於等於2。
-battlegoal_neutralizer,調停者
-battlegoal_neutralizer_desc,你或你的某一個召喚物在當前劇本的一個行動輪中觸發或拆除一個陷阱。
-battlegoal_opener,第一滴血
-battlegoal_opener_desc,成為當前劇本中第一個殺死怪物的角色。
-battlegoal_pacifist,和平主義
-battlegoal_pacifist_desc,在當前劇本中消滅怪物的數量小於等於3。
-battlegoal_plunderer,掠奪者
-battlegoal_plunderer_desc,在當前劇本中拾取1個寶箱。
-battlegoal_professional,職業傭兵
-battlegoal_professional_desc,在當前劇本中使用道具的次數大於等於你的等級加2。
-battlegoal_protector,保護者
-battlegoal_protector_desc,在當前劇本中沒有任何一名盟友精疲力竭。
-battlegoal_purist,苦行僧
-battlegoal_purist_desc,在當前劇本中不使用任何物品。
-battlegoal_sadist,施虐者
-battlegoal_sadist_desc,在當前劇本中消滅5個或以上的怪物。
-battlegoal_scrambler,急行軍
-battlegoal_scrambler_desc,在當前劇本中只進行短休息。
-battlegoal_straggler,殿后者
-battlegoal_straggler_desc,在當前劇本中只進行長休息。
-battlegoal_streamliner,精打細算
-battlegoal_streamliner_desc,在當前劇本結束時，手裡與棄牌堆裡的卡牌數量總和大於等於5。
-battlegoal_workhorse,博學多才
-battlegoal_workhorse_desc,在當前劇本中獲得13點或以上的經驗。
-battlegoal_zealot,狂戰士
-battlegoal_zealot_desc,在當前劇本結束時，手牌加上棄牌堆裡的卡牌的數量小於等於三張。
-============================================================================
-============================================================================
-============================================================================
 beartrap,陷阱
 beasttyrant,獸王
 beasttyrant_adventure_description,超越他們基本本能的魔鼠發現，如果在荒野中的野獸身上應用他們的意念，他們會受益多多。獸王們可以聚集帶著尖牙、獸爪和禽爪的驚人的軍隊，這讓他們在戰鬥中成為強大的對手
@@ -1367,11 +1257,11 @@ beasttyrant_weaknesses,"- <indent=%15>熊精疲力盡時會很弱</indent>
 - <indent=%15>衣服上總是聞起來有股“肉味”</indent>"
 beasttyrantbear,獸王的熊
 beasttyrantbear_tooltip,"<b><size=120%><sprite name=""Heal"">： {0}   <sprite name=""Move"">： {1}   <sprite name=""Attack"">： {2}   <sprite name=""Range"">： {3}</size></b>
-<line-height=50%> 
+<line-height=50%>
 <line-height=100%>熊直接在獸王之前行動。
-<line-height=50%> 
+<line-height=50%>
 <line-height=100%>你可以燒祭卡牌來阻止對熊的傷害。當熊的血量掉到1點以下時，它精疲力盡，不能再回到劇本中。
-<line-height=50%> 
+<line-height=50%>
 <line-height=100%>獸王特有“口令”行動，它允許熊去代替獸王執行技能卡。"
 berserker,狂羚戰士
 berserker_adventure_description,狂羚戰士們是那些已經投身於他們的力量和憤怒的艾諾克斯戰士。狂羚戰士將會竭盡全力保護她的朋友們的安全，甚至不惜犧牲她自己的生命。她的技能圍繞著高輸出，通過自我傷害將輸出推到更高的數值。這使她成為一個極其危險的戰鬥人員，無論是對她的敵人還是她自己
@@ -1676,7 +1566,7 @@ elementalist_weaknesses,"- <indent=%15>如果沒有其他元素充能者搭配�
 elite,精英
 elitecultist,異教徒精英
 emerald marauders,翡翠掠奪者
-empty_string, 
+empty_string,
 enchantressdialogname,女巫
 english,English
 enhancement,技能提升
@@ -3583,13 +3473,13 @@ event_road_campaign_37_option_b,在岩石下面等這場風暴過去。
 event_road_campaign_37_result_a_a,在泥濘和雨中跋涉，你感到非常沮喪，直到你聽到暢歌者的聲音壓過了雷聲。 她在暴風雨中唱了一首歌，每個人都感覺好多了。
 event_road_campaign_37_result_a_b,頂著暴風雨走在路上真是太糟糕了。 你又濕又冷又痛苦，迫不及待的想要結束這段經理。 當你到達目的地時，你感覺糟透了。
 event_road_campaign_37_result_b,雖然沒有想像中的那麼舒適，但岩石至少能為你遮風擋雨。 你蜷縮在岩石下等了幾個小時，直到風暴過去。 當你到達目的地時，由於睡眠不足，你的腳步有些遲緩。
-event_road_campaign_38_intro,"有個小東西吸引了你的注意力：地上一個的橡樹葉形狀的扣子，正在陽光下閃閃發光。 
+event_road_campaign_38_intro,"有個小東西吸引了你的注意力：地上一個的橡樹葉形狀的扣子，正在陽光下閃閃發光。
 
 你停下來調查，然後你看到了其他更大的東西。 泥土中的鮮血。 多具屍體被拖入森林的痕跡。
 
 你站起來望向灌木叢，看到了一些被折斷的樹枝和被壓碎的植物。 也許你應該跟著屍體的痕跡看看森林裡發生了什麼。"
 event_road_campaign_38_option_a,走進森林，瞭解發生了什麼事。
-event_road_campaign_38_option_b,繼續趕路。 那片森林看起來並不友好。 
+event_road_campaign_38_option_b,繼續趕路。 那片森林看起來並不友好。
 event_road_campaign_38_result_a_a,你可以輕鬆的跟著蹤跡。 它引向了幾個昏迷的牧師，他們滿身是血但還活著。 你救下了他們並將它們帶回到主路上。 他們非常感激。
 event_road_campaign_38_result_a_b,你試圖跟著蹤跡走，但最終卻發現自己迷路了。 為了找到離開森林的路，你經歷了一段非常艱難和痛苦的時光。
 event_road_campaign_38_result_b,無論森林裡發生了什麼，都絕不會是什麼好事，但這也與你無關，而且你不會在準備不夠充分的情況下貿然進入那片既黑暗又茂密的森林。 你決定繼續趕路，管好自己就夠了。
@@ -5068,7 +4958,7 @@ gui_multiplayer_host_disconnected_confirmation_title,主機斷開連接！
 gui_multiplayer_invite_accepted,接受邀請！
 gui_multiplayer_invite_code,邀請碼
 gui_multiplayer_join,多人遊戲
-gui_multiplayer_join_session_descr,"You can <color=#F1DBAE>join a hosted game</color> and be given control over one or more mercenaries from the host's game. 
+gui_multiplayer_join_session_descr,"You can <color=#F1DBAE>join a hosted game</color> and be given control over one or more mercenaries from the host's game.
 To do so, you must <color=#F1DBAE>first receive an Invite Code</color> from the host. Once you have the invite code you must enter it in the box below and submit it to start playing with friends!"
 
 gui_multiplayer_locked_party_not_hq_tooltip,在你返回到黯淡港灣或進入一個場景之前，多人遊戲會被鎖住。
@@ -5655,13 +5545,13 @@ item_longspear,在你對單個目標使用近戰進攻時，將攻擊改為執�
 item_luckyeye,在你的行動輪中，你和相鄰的盟友獲得<nobr>強化<sprite name=Strengthen></nobr>。
 item_magmawaders,忽略危險地形的傷害。每個行動輪中首次進入危險地形時，你可以立即執行一次“治療2，自身”。
 item_majorcurepotion,在你的行動輪中，移除自身的所有負面狀態。此道具可以在你處於<nobr>擊暈<sprite name=Stun></nobr>狀態時使用。
-item_majorhealingpotion,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>5，</nobr>自身”。
+
 item_majormanapotion,在你的行動輪中，生成任意兩個元素。
 item_majorpowerpotion,在你進行攻擊時，對你的整個攻擊行動輪附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_majorstaminapotion,在你的行動輪中，<nobr>回收<sprite name=Recover></nobr>至多2張在你棄牌堆裡的卡牌。
 item_maskofterror,在你進行近戰進攻時，附加<nobr>強推<sprite name=Push>1。</nobr>
 item_minorcurepotion,在你的行動輪中，移除自身一個負面狀態。此道具可以在你處於<nobr>擊暈<sprite name=Stun></nobr>狀態時使用。
-item_minorhealingpotion,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”。
+
 item_minormanapotion,在你的行動輪中，生成任意一個元素。
 item_minorpowerpotion,在你進行攻擊時，對你的整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_minorstaminapotion,在你的行動輪中，<nobr>回收<sprite name=Recover></nobr>至多1張在你棄牌堆裡的卡牌。
@@ -6145,7 +6035,7 @@ message_end_quest_story_doomstalker_2_4,對。唔姆，帳簿現實所有這些�
 message_end_quest_story_doomstalker_2_5,我們可能已經找到了兇手。讓我們找出他把他剁成傭兵肉醬。
 message_end_quest_story_doomstalker_2_6,<sigh>
 message_end_quest_story_doomstalker_3_1,我已經研究完你帶回來的檔了。看起來這些雇傭兵只是為了摧毀末日行者的佈置。
-message_end_quest_story_doomstalker_3_2,我找不到與雇主的具體聯繫，一個原因都找不到，但他們不是唯一來幹這事的——檔上寫了有其他雇傭兵被雇用攻擊Orchids... 
+message_end_quest_story_doomstalker_3_2,我找不到與雇主的具體聯繫，一個原因都找不到，但他們不是唯一來幹這事的——檔上寫了有其他雇傭兵被雇用攻擊Orchids...
 message_end_quest_story_doomstalker_3_3,我追蹤了你找到的紋章。這是舊商業區廢棄倉庫的標誌。已經有幾十年沒有人在箱子上見過了。
 message_end_quest_story_doomstalker_3_4,但我們還不能去那。那個倉庫已經切斷了和惡魔閘口鎮的所有聯繫。如果我們獨自闖入的話，沒有任何人能幫我們。
 message_end_quest_story_doomstalker_3_5,在不知道有什麼人、什麼原因和原生族幹了什麼就進攻？這也太冒險了。現在我要去把這些回饋給衛兵隊長。
@@ -6500,7 +6390,7 @@ mistfellcopse_descr,這片小林地可以欣賞到黯淡港灣從延伸出的東
 moneytoken,錢幣
 monolith,巨石
 monstrousrat,巨鼠
-move,移動
+
 move_straightline,這個移動必須在一條直線上。
 movecost,所需移動
 movement,移動力
@@ -6931,7 +6821,7 @@ personalquest_aberrant_slayer_objective_progress_tooltip,Different elementally-a
 personalquest_aberrant_slayer_objective_progress_tooltip_empty,No Demons killed yet.
 personalquest_augmented_abilities,賦能技能
 personalquest_augmented_abilities_completed,這種力量是你從未設想過的。你相信現在的你可以做到幾乎任何事情，但也沒必要完全確信——你想要自己證明。是時候帶著你新獲得的能力離開黯淡港灣，到世界各地去完成所有你能遇到的事情了。但你很快就會回來：你敢打賭下次回來時，會有更多行維族願意為了一點點錢來進一步強化你的力量。
-personalquest_augmented_abilities_desc,"<b>擁有四種附魔效果（需要解鎖女巫）</b> 
+personalquest_augmented_abilities_desc,"<b>擁有四種附魔效果（需要解鎖女巫）</b>
 
 的確，黯淡港灣可能不是最宜居的地方，但若你追尋的是其他事物，這裡便是盡美之地，比如說：行維族。從未見過如此之多！甚至有傳聞某個居住在城裡的行維族人可以通過魔法對人的能力進行強化。只需一點小小的附魔，你就將會無所不能！"
 personalquest_augmented_abilities_objective_desc,擁有四種附魔效果（需要解鎖女巫）
@@ -8784,7 +8674,7 @@ quest_story_sawbones_2_intro,你的黑石瘋人院之旅一切順利。你為途
 quest_story_sawbones_2_list,停止黑石瘋人院裡的儀式
 quest_story_sawbones_2_name,監獄繪畫派對
 quest_story_sawbones_3_desc,一群異常強大的邪教徒舉行了一場儀式，這足以摧毀鹽沼平原…
-quest_story_sawbones_3_intro,Traveling north somewhat precariously on the single, magically-maintained path over the unnaturally flat saltmarshes of the region, you are relieved to finally see the village gates, which bring with them the promise of being able to move more than a few metres to the left or right. You‘re more relieved still to smell moist, clean forest air around the village, rather than the stink of a Harrower infestation. As the gates open and you enter, you find its magically-constructed huts somewhat underwhelming ‘ but still standing. The village hall isn‘t much more to look at, but as you travel deeper inside, the building seems to expand indefinitely into rooms full of bookshelves. ‘With you here,‘ a sudden, hoarse voice drones as a buzzing fills the air, ‘The Red Talons can finally begin our work.‘ Turning to the voice‘s source, you see a Harrower Infester break into a grating chortle before dissipating into a cloud of fat insects. As if on cue, the bookshelves around you shake and begin to crumble. Reality catches alight, and demonic limbs start to force themselves through the flames. Over the commotion, you swear you could hear a shriek only something truly huge could make... 
+quest_story_sawbones_3_intro,Traveling north somewhat precariously on the single, magically-maintained path over the unnaturally flat saltmarshes of the region, you are relieved to finally see the village gates, which bring with them the promise of being able to move more than a few metres to the left or right. You‘re more relieved still to smell moist, clean forest air around the village, rather than the stink of a Harrower infestation. As the gates open and you enter, you find its magically-constructed huts somewhat underwhelming ‘ but still standing. The village hall isn‘t much more to look at, but as you travel deeper inside, the building seems to expand indefinitely into rooms full of bookshelves. ‘With you here,‘ a sudden, hoarse voice drones as a buzzing fills the air, ‘The Red Talons can finally begin our work.‘ Turning to the voice‘s source, you see a Harrower Infester break into a grating chortle before dissipating into a cloud of fat insects. As if on cue, the bookshelves around you shake and begin to crumble. Reality catches alight, and demonic limbs start to force themselves through the flames. Over the commotion, you swear you could hear a shriek only something truly huge could make...
 quest_story_sawbones_3_list,守衛鹽沼地
 quest_story_sawbones_3_name,整平鹽沼
 quest_story_scoundrel_1_desc,一個不願意透露身份的高大羚牛族讓你們割喉了幾個附近的凶徒。是時候見見它，領取你們的報酬了。
@@ -8835,7 +8725,7 @@ quest_story_summoner_1_intro,The Summoner has led you to the main path outside W
 quest_story_summoner_1_list,Locate the interplanar disturbance
 quest_story_summoner_1_name,A Great Disturbance
 quest_story_summoner_1_reward,Unlock the Summoner's Story Quests
-quest_story_summoner_2_desc,Ancient records put the spellbook you need in this library. Retrieve it. 
+quest_story_summoner_2_desc,Ancient records put the spellbook you need in this library. Retrieve it.
 quest_story_summoner_2_intro,The School of The Great Oak had once maintained a library of magical tomes north of Mudview. After a great accident now only remembered by Orchid elders, the library and its knowledge was abandoned long ago. That‘s how the legends go at least. Now, locals give the crumbling building a wide berth, claiming possessed warriors defend the ancient and powerful magic within. As you approach the library, you see these rumours for yourself: City Guard, Bandits and Inox swarm the property. Their clothes are dirty, their eyes pure white, and the entire place reeks of black magic. You move toward the door, but find the Summoner is not with you. Retreating, you find her gasping for breath on the floor ‘ next to a Harrower. ‘Follow me.‘ You are taken aback by the Harrower‘s grinding ‘voice‘, but it doesn‘t appear to notice your reaction. The Summoner pulls herself to her feet, and nods to you. Reluctantly, you follow the Harrower. If you didn‘t know better, you would think you could see a city street through the library‘s doorway...,,
 quest_story_summoner_2_list,Recover the lost spellbook
 quest_story_summoner_2_name,The Harrowed House
@@ -8918,7 +8808,7 @@ quest_travel_fordingbridge_intro,從灘橋地傳來的大量報告稱，植被�
 quest_travel_fordingbridge_list,調查灘橋地附近的異常地震活動。
 quest_travel_fordingbridge_name,咆哮深淵
 quest_travel_gibbethill_desc,強盜們擋住了前往絞架嶺的道路，現在輪到你趕走他們了。
-quest_travel_gibbethill_intro,"當你走向絞架嶺的時候，這條路空的像是被遺棄了。這片地區的貿易實際上已經停止了好幾個月，幾乎沒有人敢沿著主路冒險。 
+quest_travel_gibbethill_intro,"當你走向絞架嶺的時候，這條路空的像是被遺棄了。這片地區的貿易實際上已經停止了好幾個月，幾乎沒有人敢沿著主路冒險。
 
 當你沿著小徑前行，穿過一片茂密的樹林時，腳下一根小樹枝發出的劈啪聲劃破了寂靜。你能聽到灌木叢中沙沙作響的聲音，隨著它的源頭向你走來，聲音變得越來越大…"
 quest_travel_gibbethill_list,解鎖絞架嶺的貿易路線
@@ -9244,7 +9134,7 @@ scenario_campaign_010_success_1,視線中的最後一隻惡魔尖叫著消散在
 scenario_campaign_010_success_2,“很有意思，”那個聲音出現在你們腦海深處，話語緊緊的抓住了你的大腦，“你們這些闖入者出乎我意料的強大。我可以利用你們的專長來在你們的位面找點東西。”
 scenario_campaign_010_success_3,你身下的紅石轟隆著開裂，一道火熱的裂縫在你腳下打開，“我的王國向你敞開它的大門。來吧讓我們面對面談一談。”
 scenario_campaign_010_success_4,這幾天你已經做過一次“信仰之躍”了，你覺得再試一次應該也不會有什麼問題。當你下墜的時候，你的心跳變得更強烈了，炙熱的空氣從下方滾滾而上，減緩了你的下落。
-scenario_campaign_010_success_5,你相當安全地降落在一個像是地下神廟的地方。在你面前站著一個頭上帶角，雙腿是蹄子，手持三叉戟，可怕的怪物。    
+scenario_campaign_010_success_5,你相當安全地降落在一個像是地下神廟的地方。在你面前站著一個頭上帶角，雙腿是蹄子，手持三叉戟，可怕的怪物。
 scenario_campaign_010_success_6,聲音仍然在你的腦海中產生共鳴。 “勇敢而愚蠢。你要服從於我。在蛇之吻河沿岸的一座被遺忘的神廟裡，有一件強大的神器。你為我取回它，或者現在就死在這裡。
 scenario_campaign_011_objective_1,消滅衛兵隊長
 scenario_campaign_011_room_4_1,你撞開了要塞的門，于此同時衛兵的屍體在你身後抖動並像不死生物一樣站起。
@@ -9412,14 +9302,14 @@ scenario_campaign_033_objective_2,所有傭兵必須通過出口逃離
 scenario_campaign_033_room_4_1,You hear the alarm ringing clearly in the distance. You‘ve kicked over a hornets‘ nest and it‘s just a matter of time before you are swarmed.
 scenario_campaign_033_room_4_2,You enter the inner chamber and scan the room. There‘s a lot of treasure here. Best just to grab it all.
 scenario_campaign_033_scenario_modifier_1,一旦所有壓力板都被啟動，通往最終房間的大門將會打開。
-scenario_campaign_033_success_1,You round the corner just as a ball of fire flies in your direction. It explodes on the far wall and collapses the tunnel behind you. 
+scenario_campaign_033_success_1,You round the corner just as a ball of fire flies in your direction. It explodes on the far wall and collapses the tunnel behind you.
 scenario_campaign_033_success_2,You break into a full sprint and, within minutes, emerge from the mountain and continue speeding into the surrounding foothills. ,,,,,,,,,,,,,
 scenario_campaign_034_objective_1,擊殺老龍王
 scenario_campaign_034_success_1,"With one final blood-curdling screech, the giant drake falls off its perch and crashes to the snowy ground. It appears to still be alive, but its breaths are weak and shallow.
 "
 scenario_campaign_034_success_2,‘Bloodthirsty and obtuse. I don‘t know why I should have expected more,‘ the drake whispers. ‘Congratulations on your stunning success.“,,,,,,,,,,,,,,
 scenario_campaign_034_success_3,“I‘m sure you will be heralded as heroes upon your triumphant return. Adorned in crowns of gold and cloaks of silk. Riches will be laden upon you and five thousand...‘
-scenario_campaign_034_success_4,The drake‘s whispers trail off and the breathing stops. 
+scenario_campaign_034_success_4,The drake‘s whispers trail off and the breathing stops.
 scenario_campaign_035_objective_1,摧毀大門
 scenario_campaign_035_objective_2,擊殺守衛隊長
 scenario_campaign_035_room_2_1,As you hack away at the wooden door, an explosion erupts from it, sending gouts of flame dancing among splinters of wood and shards of rock.,,,,,,,,,,,,,
@@ -9434,7 +9324,7 @@ scenario_campaign_036_misc_1,With a terrifying roar, the great demon commander l
 scenario_campaign_036_misc_2,He seems winded, though, and is clearly very injured. If you can take him down, the whole attack force should be dispersed.,,,,,,,,,,,,
 scenario_campaign_036_objective_1,擊殺惡魔領主
 scenario_campaign_036_objective_2,在8回合內守住大門
-scenario_campaign_036_start_1,‘That‘ll teach him!‘ the Captain shouts at you. ‘Keep them at bay! I must head to the other gates and prepare for assaults there as well.‘ 
+scenario_campaign_036_start_1,‘That‘ll teach him!‘ the Captain shouts at you. ‘Keep them at bay! I must head to the other gates and prepare for assaults there as well.‘
 scenario_campaign_036_start_2,He grabs you with a firm hand. ‘Don‘t let them through!‘
 scenario_campaign_036_success_1,The demon bellows and falls, shaking the earth as it crashes down. Its clawed hand opens to reveal the artifact. ,,,,,,,,,,,,,,
 scenario_campaign_036_success_2,‘I thought it would give me enough power. I thought it could sustain me on this plane. I was foolish, and now look at me. Broken and destroyed at the feet of mortals. Humiliating.‘ The demon gurgles and goes still.,,,,,,,,,,,,,,
@@ -9448,7 +9338,7 @@ scenario_campaign_038_objective_1,擊殺所有敵人
 scenario_campaign_038_objective_2,保護這名花晶族人
 scenario_campaign_038_start_1,‘Yes, I can guide you through the deeper forest,‘ the Orchid says. ‘But I cannot abandon my brethren or let what these Inox are doing go unanswered.‘ He moves over to a guard‘s corpse and picks up a blade.,,,,,,,,,,,,,
 scenario_campaign_038_start_2,“You can help me if you want, but either way, blood must be spilled in this place.“ The Orchid rushes forward at a group of Inox, yelling wildly. ,,,,,,,,,,,,
-scenario_campaign_038_start_3,"Soon the whole camp is bustling with hostile activity. 
+scenario_campaign_038_start_3,"Soon the whole camp is bustling with hostile activity.
 
 If you want a guide, it looks as though you'll need to keep him alive. "
 scenario_campaign_038_success_1,With the last of the Inox and their golems dead, the Orchid drops his sword and falls to his knees.,,,,,,,,,,,,,,
@@ -9462,7 +9352,7 @@ scenario_campaign_039_objective_1,摧毀祭壇
 scenario_campaign_039_room_2_1,Hoping to get the drop on anything else that may be waiting in the cave‘s next chamber to attack you, you bust down the door and storm in.,,,,,,,,,,,,,,
 scenario_campaign_039_room_2_2,There are more enemies in this cave, of course, but you are more concerned about the glowing white orb behind the crystalline demons. ,,,,,,,,,,,,,
 scenario_campaign_039_room_2_3,The pieces all start to fall into place. They are controlling the weather here, blocking your passage to the peak. If you can destroy the orb, you hope the punishing weather will subside.,,,,,,,,,,,,,
-scenario_campaign_039_success_1,Pieces of the shattered orb fall to the snowy floor along with the corpses of the enemies who stood in your way. 
+scenario_campaign_039_success_1,Pieces of the shattered orb fall to the snowy floor along with the corpses of the enemies who stood in your way.
 scenario_campaign_039_success_2,The screeching of the wind outside the cave lessens to a faint murmur. You exit to see clear skies above you and a path to the peak.
 scenario_campaign_039_success_3,At this altitude, without a cloud in sight, you find yourself looking out over the horizon, marveling at the wondrous expanse of mountains and the forests and plains beyond them. ,,,,,,,,,,,,
 scenario_campaign_039_success_4,You can even see the faint outline of Gloomhaven in the distance.
@@ -9473,7 +9363,7 @@ scenario_campaign_040_success_1,From opposite ends of the network, you activate 
 scenario_campaign_040_success_2,There, the center of the floor slides away, revealing a narrow ladder descending down into the dark.,,,,,,,,,,,,,
 scenario_campaign_040_success_3,‘The way to the tomb is clear,‘ the Voice says. ‘Go now, and retrieve what is mine.‘,,,,,,,,,,,,,
 scenario_campaign_041_objective_1,All mercenaries must escape through the exit
-scenario_campaign_041_room_2_1,You break out of the main room into an antechamber. What was once dormant is now teeming with the living corpses of those long ago entombed here. 
+scenario_campaign_041_room_2_1,You break out of the main room into an antechamber. What was once dormant is now teeming with the living corpses of those long ago entombed here.
 scenario_campaign_041_room_2_2,And more than that, the way back to the surface is now closed off. You look around, desperate for some way to stop this situation from going from bad to worse.,,,,,,,,,,,,,
 scenario_campaign_041_room_3_1,You push through the unlocked door, arriving back at the tomb entrance, and your heart sinks at the sight of the narrow ladder leading up to freedom. ,,,,,,,,,,,,,
 scenario_campaign_041_room_3_2,你只有一次機會逃離這個死亡陷阱。
@@ -9505,7 +9395,7 @@ scenario_campaign_044_start_1,Redthorn notches an arrow into his bow. ‘No Orch
 scenario_campaign_044_success_1,With the Inox dead, you move around the camp, untying the captive Orchids and helping them to their feet. They offer you their subdued thanks with nods of their heads.,,,,,,,,,,,,,
 scenario_campaign_044_success_2,‘We are a reserved people,‘ Redthorn says as he approaches. ‘Don‘t expect them to throw you a party, but know that you have done a monumental good here today.“ ,,,,,,,,,,,,,
 scenario_campaign_044_success_3,“Most of these residents would have been slaughtered had we not arrived when we did.‘
-scenario_campaign_044_success_4,He falls into silence with a downcast stare. ‘I still feel it in the pit of my stomach. I thought slaying my captors would make it go away.“ 
+scenario_campaign_044_success_4,He falls into silence with a downcast stare. ‘I still feel it in the pit of my stomach. I thought slaying my captors would make it go away.“
 scenario_campaign_044_success_5,“I thought saving another village would compensate for failing my own. But it doesn‘t. The guilt is still there, and I have been changed by it.“,,,,,,,,,,,,,,
 scenario_campaign_044_success_6,‘This village is not my village, but even if it were, I could not stay. I no longer belong. If you need my help in the future, you can find me among the trees.‘,,,,,,,,,,,,
 scenario_campaign_045_objective_1,摧毀所有圖騰
@@ -9556,9 +9446,9 @@ scenario_campaign_052_objective_2,No mercenary can exhaust before looting an Orn
 scenario_campaign_052_success_1,Inside the chests, you find the pieces to a gruesome staff, adorned in maggots, with a decayed skull at its head. ,,,,,,,,,,,,
 scenario_campaign_052_success_2,When you grab the last piece, another set of hidden doors slides open behind the chests. Judging that you have no choice but to take this new route, you enter.,,,,,,,,,,,,,
 scenario_campaign_052_success_3,After a while you come upon an intersection of four paths where you rejoin your party and follow the final path back up to the surface.
-scenario_campaign_053_objective_1,Survive for ten rounds 
+scenario_campaign_053_objective_1,Survive for ten rounds
 scenario_campaign_053_objective_2,Prepare for a door to open
-scenario_campaign_053_success_1,Finally the ethereal warden finishes his work and lifts the Staff of Xorn high over his head. 
+scenario_campaign_053_success_1,Finally the ethereal warden finishes his work and lifts the Staff of Xorn high over his head.
 scenario_campaign_053_success_2,A powerful pulse of green light emanates through the room, reducing all remaining enemies to dust.,,,,,,,,,,,,,,
 scenario_campaign_053_success_3,The specter moves toward you and offers the staff. ‘Take it. Bring it to the Palace of Ice in the northern mountains and unseal the tomb of Xorn. You have done well so far. Your journey is almost over.‘
 scenario_campaign_053_success_4,As you grab the staff, the ghost begins to fade from view. ‘Thank you for allowing me to fulfill my duty, releasing me from my bonds to this realm. Now I can finally rest.‘,,,,,,,,,,,,,
@@ -9566,7 +9456,7 @@ scenario_campaign_053_success_5,With the job complete, you quickly leave the cry
 scenario_campaign_054_objective_1,擊殺所有巢靈族寄生者
 scenario_campaign_054_objective_2,擊殺巢靈族後，索恩的追尋者在祭壇旁結束回合
 scenario_campaign_054_room_2_1,In the main room, a large altar sits near the far wall. Many creatures have gathered here to protect it, however. ,,,,,,,,,,,,,
-scenario_campaign_054_room_2_2,Foremost among them is a group of Harrower warriors. The staff pulses even stronger the closer you get to them. 
+scenario_campaign_054_room_2_2,Foremost among them is a group of Harrower warriors. The staff pulses even stronger the closer you get to them.
 scenario_campaign_054_room_2_3,It seems to hunger for their energy‘to consume them and take their power for itself.
 scenario_campaign_054_success_1,You place the Staff of Xorn onto the altar, and its power is sucked into the stone in a vortex of green light. The vortex grows, swallowing all of your remaining adversaries.,,,,,,,,,,,,,
 scenario_campaign_054_success_2,Suddenly a voice echoes through the palace: ‘You have returned my power, but that is not enough. I will take this body as my vessel!‘ ,,,,,,,,,,,,,,
@@ -9579,7 +9469,7 @@ scenario_campaign_055_success_1,The fog seems to be sapping your strength as you
 scenario_campaign_055_success_2,Just when you think you can‘t make it any farther, however, you find a hidden cache of supplies marked with the purple emblem of your quarry.,,,,,,,,,,,,,
 scenario_campaign_055_success_3,You quickly open the cache and find a detailed map of the area with precise instructions on navigating your way to the camp. You snatch it up and flee off into the trees, away from the fog.,,,,,,,,,,,,,,
 scenario_campaign_055_success_4,With this map, you feel your quest is finally nearing its end.,,,,,,,,,,,,,,
-scenario_campaign_056_objective_1,Kill all enemies 
+scenario_campaign_056_objective_1,Kill all enemies
 scenario_campaign_056_objective_2,Protect at least one captive Orchid
 scenario_campaign_056_room_4_1,"You reach the main bandit encampment in a large, open clearing. Looking beyond the formidable force of enemies before you, you see a group of ragged Orchids off to one side‘more victims of these monsters.
 "
@@ -9588,42 +9478,42 @@ scenario_campaign_056_room_4_3,The bandits look back and forth between you and t
 scenario_campaign_056_success_1,With the last of the bandits dead, one of the surviving captives approaches your group and falls to his knees.,,,,,,,,,,,,,,
 scenario_campaign_056_success_2,‘I thank you for rescuing us,‘ he says quietly. ‘Know that my tribe will forever be your ally.‘,,,,,,,,,,,,,,
 scenario_campaign_056_success_3,As he gathers his companions and heads off into the forest back home, you survey the carnage around you. ,,,,,,,,,,,,,,
-scenario_campaign_056_success_4,The group of bandits has indeed been eradicated and you feel relief finally knowing revenge was delivered for your village. 
+scenario_campaign_056_success_4,The group of bandits has indeed been eradicated and you feel relief finally knowing revenge was delivered for your village.
 scenario_campaign_056_success_5,There are plenty of spoils here to help you start a new life as well‘a first step towards a more secure future.
-scenario_campaign_057_objective_1,Kill the Infiltrator 
+scenario_campaign_057_objective_1,Kill the Infiltrator
 scenario_campaign_057_room_2_1,It seems you‘ve interrupted the houndmaster feeding his dogs. He doesn‘t look very pleased by your intrusion.
 scenario_campaign_057_room_2_2,‘I guess my pets could use some fresh meat,‘ he grumbles, letting loose the chains.,,,,,,,,,,,,,
 scenario_campaign_057_room_3_1,You have found the main barracks, and as the door opens, a foreboding feeling comes over you. You recognize the lieutenant in the corner bellowing out orders. ,,,,,,,,,,,,,
 scenario_campaign_057_room_3_2,‘Alarm! Intruders! Don‘t let them get away! Slay them!‘ You are on the right track. Bring him to justice, then search his remains for clues.,,,,,,,,,,,,,,
-scenario_campaign_057_room_4_1,‘Halt! Trespassers! What are you doing in the provision storage of the city watch?‘ You turn to see two guards emerge from a door behind you. 
+scenario_campaign_057_room_4_1,‘Halt! Trespassers! What are you doing in the provision storage of the city watch?‘ You turn to see two guards emerge from a door behind you.
 scenario_campaign_057_room_4_2,This wasn‘t what you were after, but you don‘t have any time to explain. Hopefully you can dispatch the guards quickly.,,,,,,,,,,,,,,
 scenario_campaign_057_room_5_1,You interrupt a training exercise for several new recruits. The master isn‘t pleased with the disruption and calls upon his trainees to practice their skills on his unwelcome guests.
 scenario_campaign_057_success_1,Combing through the remains of the Infiltrator, you find a schedule to a meeting outside the city in a remote shack. There are notes about harvesting corpses. ,,,,,,,,,,,,,,
 scenario_campaign_057_success_2,You look forward to crashing this meeting and exacting your revenge. With the spy revealed, the remaining city watch thanks you for exposing him.,,,,,,,,,,,,,,
 scenario_campaign_058_bonepile,Bone Pile
-scenario_campaign_058_objective_1,Kill the Harvester 
+scenario_campaign_058_objective_1,Kill the Harvester
 scenario_campaign_058_room_3_1,As you burst through the door, you notice a strange-looking box spattered with blood. You see it holds a curved, serrated dagger that glows red.,,,,,,,,,,,,,
 scenario_campaign_058_room_3_2,Recalling your dead friend‘s wounds, you have a strong suspicion this was the weapon that murdered him. It‘s time to return the favor to its owner.,,,,,,,,,,,,,,
 scenario_campaign_058_room_4_1,Piles of rotting bones adorned with occult glyphs greet you as you enter the back room. At the center, a malicious human figure sits on a throne of skulls. ,,,,,,,,,,,,,,
 scenario_campaign_058_room_4_2,He stands, gathering necromantic energies from the surrounding bone piles. ‘I feel the desire for vengeance burning bright within your heart. I will feast well upon it!‘,,,,,,,,,,,,,,
 scenario_campaign_058_success_1,Bloodlust is a strange thing. Once it is sated, it leaves a hollow shell of a person behind. The dagger clatters to the floor as a cold, numb feeling spreads through you. ,,,,,,,,,,,,,
 scenario_campaign_058_success_2,The job is done, and it is time to move on, however hard that may be.,,,,,,,,,,,,,
-scenario_campaign_059_objective_1,Kill all enemies 
+scenario_campaign_059_objective_1,Kill all enemies
 scenario_campaign_059_objective_2,Loot the Ornate Chest with a Loot action (not end-of-turn looting)
 scenario_campaign_059_success_1,With steely determination, you fight your way through the wild animals and reach the plant you seek at the back of the grove. ,,,,,,,,,,,,,,
 scenario_campaign_059_success_2,When you lean down to inspect it, however, you see that the plant bears no fruit. It has been harvested very recently.,,,,,,,,,,,,,
 scenario_campaign_059_success_3,With confusion you glance around the grove, looking for clues to where the fruit could have gone. ,,,,,,,,,,,,,,
 scenario_campaign_059_success_4,That‘s when you see the deep axe marks in all of the trees around you. Someone chopped at the bark, not intending to cut the trees down, but only to wound them.,,,,,,,,,,,,,
-scenario_campaign_059_success_5,Whoever it was wanted to anger the wildlife and have them viciously attack whomever came to this grove. And then you notice the faint tracks of a Quatryl in the dirt. 
-scenario_campaign_059_success_6,That conniving little... 
-scenario_campaign_060_objective_1,Loot all Ornate Chests and then all mercenaries must escape through the entrance 
-scenario_campaign_060_objective_2,All mercenaries must escape through the entrance 
+scenario_campaign_059_success_5,Whoever it was wanted to anger the wildlife and have them viciously attack whomever came to this grove. And then you notice the faint tracks of a Quatryl in the dirt.
+scenario_campaign_059_success_6,That conniving little...
+scenario_campaign_060_objective_1,Loot all Ornate Chests and then all mercenaries must escape through the entrance
+scenario_campaign_060_objective_2,All mercenaries must escape through the entrance
 scenario_campaign_060_success_1,You race out of the building, dodging a rain of burning debris. You barely make it through the door and clear of the structure before the whole thing collapses into a flaming mountain of rubble.,,,,,,,,,,,,,,
 scenario_campaign_060_success_2,You cough violently, and scan the crowd once more. The Quatryl is nowhere to be found. You had no time to restrain her and now she is no doubt long gone, most likely fleeing the city.,,,,,,,,,,,,,
 scenario_campaign_060_success_3,It matters not. However arduous and harried the journey was, the end result is that you now have the cure necessary to save your village. It is time to leave Gloomhaven and return home.,,,,,,,,,,,,,,
 scenario_campaign_060_success_4,Before leaving, though, you give some of the cure to the alchemists of the University. You hope that it can do some good in Gloomhaven as well.,,,,,,,,,,,,,
 scenario_campaign_061_objective_1,Loot all Ornate Chests with a Loot action (not end-of-turn looting)
-scenario_campaign_061_room_5_1,You reach the fort‘s center with a stack of old journals under your arm. 
+scenario_campaign_061_room_5_1,You reach the fort‘s center with a stack of old journals under your arm.
 scenario_campaign_061_room_5_2,Scanning the floor, you see one more book lying precariously close to a Flame Demon. You also notice, however, an altar in the middle of the room, slowly pulsing with an odd energy.,,,,,,,,,,,
 scenario_campaign_061_room_5_3,You study it for a second, realizing that it seems to be pulsing at the same frequency that the building is oscillating between planes.,,,,,,,,,,,,,,
 scenario_campaign_061_room_5_4,Perhaps if you could destroy it, you could ground the fort in your own plane.,,,,,,,,,,,,,,
@@ -9645,7 +9535,7 @@ scenario_campaign_062_objective_1,Kill the Hungry Soul
 scenario_campaign_062_objective_2,Kill 10 Living Bones
 scenario_campaign_062_success_1,"With one final blow, the mass of remains blasts apart and a great burst of light shoots through the room, returning the remaining enemies to inanimate bone.
 "
-scenario_campaign_062_success_2,‘Thank you travelers.‘ A disembodied voice echoes through your head. 
+scenario_campaign_062_success_2,‘Thank you travelers.‘ A disembodied voice echoes through your head.
 scenario_campaign_062_success_3,‘I tried to save these people, but instead damned them to eternal torment. You have now freed us, and we are forever grateful.‘,,,,,,,,,,,,,
 scenario_campaign_062_success_4,You call out to the voice, desperate to know what happened in Eastport, why the demons attacked, and where they came from.,,,,,,,,,,,,
 scenario_campaign_062_success_5,‘We brought this upon ourselves. In our studies, we tried to travel beyond this world, but in the end, we only managed to open a rift to a hellish nightmare. The demons came through and overwhelmed us like a rising tide.“,,,,,,,,,,,,
@@ -9659,7 +9549,7 @@ scenario_campaign_064_success_2,But the captain said he wouldn't wait long, and 
 scenario_campaign_064_success_3,You take one last moment to breathe it all in, then head back through the cave and jump into the underwater tunnel. Luckily the merchant ship is still right where you left it, so you row over to its side and get hoisted back on board.  ,,,,,,,,,,,,,
 scenario_campaign_065_objective_1,擊殺所有敵人
 scenario_campaign_065_objective_2,拾取所有目標寶箱
-scenario_campaign_065_success_1,You don't even bother reading all of the scraps of paper you find lying around the mine. You simply stuff them into your pack as you kill all the creatures that stand in your way. 
+scenario_campaign_065_success_1,You don't even bother reading all of the scraps of paper you find lying around the mine. You simply stuff them into your pack as you kill all the creatures that stand in your way.
 scenario_campaign_066_objective_1,佔據最終房間內的壓力板
 scenario_campaign_066_room_2_1,After traversing the entryway, you open a heavy metal door, unleashing a cacophony of whirling gears and moving machinery.,,,,,,,,,,,,,
 scenario_campaign_066_room_2_2,The entirety of the ancient cavern is part of some huge, intricate mechanical system that is still alive and operating deep beneath the earth.,,,,,,,,,,,,,,
@@ -9674,7 +9564,7 @@ scenario_campaign_067_room_3_1,The door swings open to reveal a pristine library
 scenario_campaign_067_room_3_2,‘No! Why have you come here? I have destroyed all there was to take. Why do you force me to kill?‘
 scenario_campaign_067_scenario_modifier_1,通往第三個房間的門只有在第二房間或第三個房間的壓力板被佔據（包含都佔據）時打開。所有佔據將要關閉的門的單位將會受到陷阱傷害並移動到最近的未被佔據的格子。
 scenario_campaign_067_scenario_modifier_2,The Arcane Golem cannot leave the room it is in.
-scenario_campaign_067_success_1,The glyphs on the golem‘s limbs begin to fade and chunks of stone fall from its frame as it utters two more words: ‘Thank you.‘ 
+scenario_campaign_067_success_1,The glyphs on the golem‘s limbs begin to fade and chunks of stone fall from its frame as it utters two more words: ‘Thank you.‘
 scenario_campaign_067_success_2,Rummaging through the library, you find a journal detailing how the golem was given intelligence and the capacity to learn. ,,,,,,,,,,,,,,
 scenario_campaign_067_success_3,What it learned, however, was that it was a soulless monster, and that it could not connect with anything else since it was commanded to never leave and to kill all intruders. ,,,,,,,,,,,,
 scenario_campaign_067_success_4,You also find a glowing power core inside the golem‘s body.
@@ -9711,7 +9601,7 @@ scenario_campaign_072_success_3,Hopefully that is enough for Greymare to hold up
 scenario_campaign_072_tree,樹
 scenario_campaign_073_objective_1,擊殺所有敵人
 scenario_campaign_073_objective_2,拾取所有目標寶箱
-scenario_campaign_073_room_3_1,You enter the mouth of the cave and come face-to-face with an angry Inox shaman. Rocks fall from the cave's ceiling all around him. 
+scenario_campaign_073_room_3_1,You enter the mouth of the cave and come face-to-face with an angry Inox shaman. Rocks fall from the cave's ceiling all around him.
 scenario_campaign_073_room_3_2,‘Get back, city rats! This land is ours and will not be defiled! Run back down the mountain or feel our wrath!‘,,,,,,,,,,,,,,
 scenario_campaign_073_room_3_3,You smile wryly at the Inox. You didn‘t climb all the way up here just to go home empty-handed.
 scenario_campaign_073_success_1,With the Inox dead, you take stock of what you found in the cave's final section. ,,,,,,,,,,,,,,
@@ -9732,7 +9622,7 @@ scenario_campaign_075_success_3,He methodically goes through everything you have
 scenario_campaign_075_success_4,‘Given what I expect to unload all this for, here‘s your agreed upon cut. Pleasure doing business with you!‘,,,,,,,,,,,,,,
 scenario_campaign_076_objective_1,揭露所有房間.
 scenario_campaign_076_objective_2,擊殺所有敵人
-scenario_campaign_076_success_1,Night Demons and animated dead‘this was certainly a foul congregation of Harrowers up to no good. 
+scenario_campaign_076_success_1,Night Demons and animated dead‘this was certainly a foul congregation of Harrowers up to no good.
 scenario_campaign_076_wall,岩牆
 scenario_campaign_077_objective_1,拾取所有目標寶箱
 scenario_campaign_077_objective_2,阻止所有城鎮守衛，別讓警報響起來
@@ -9754,7 +9644,7 @@ scenario_campaign_079_objective_1,擊殺背叛者
 scenario_campaign_079_objective_2,保證魚的存活
 scenario_campaign_079_objective_3,同時啟動所有壓力板來打開大門
 scenario_campaign_079_objective_4,擊殺所有石魔偶來打開大門
-scenario_campaign_079_room_4_1,The door slides away to reveal a plain stone tomb with a large sarcophagus in the center. 
+scenario_campaign_079_room_4_1,The door slides away to reveal a plain stone tomb with a large sarcophagus in the center.
 scenario_campaign_079_room_4_2,Fish runs forward and pushes away the heavy lid. ‘Finally, my master, you are free from your chains!‘ ,,,,,,,,,,,,,
 scenario_campaign_079_room_4_3,You look on in confusion as the stone coffin crumbles away and a black mist emerges, enveloping the duplicitous thief.,,,,,,,,,,,,,,
 scenario_campaign_079_room_4_4,‘Yessss, and now the Betrayer will consume your flesh and your soul, just as I have done in ages past!‘ ,,,,,,,,,,,,,
@@ -9762,9 +9652,9 @@ scenario_campaign_079_room_4_5,Fish‘s muffled screams die as the mist coalesce
 scenario_campaign_079_room_4_6,‘They were all so easily corrupted, just as you are. The thief ‘s soul was a good start, but I want yours, as well!‘,,,,,,,,,,,,
 scenario_campaign_079_start_1,At this, Fish becomes exuberant. ‘Ah, floor triggers, friend! We each must stand on one, all at once!“ ,,,,,,,,,,,
 scenario_campaign_079_start_2,“Fish has this one, you go on ahead.‘ He points off into the darkness and encourages you with a wink.,,,,,,,,,,,,,,
-scenario_campaign_079_success_1,The evil Savvas screams as you hack away at its stony flesh. Black mist begins to seep out of its wounds and dissipate into the air. 
+scenario_campaign_079_success_1,The evil Savvas screams as you hack away at its stony flesh. Black mist begins to seep out of its wounds and dissipate into the air.
 scenario_campaign_079_success_2,‘My power wanes, but it will grow strong yet again. My corruption is inevitable!‘ ,,,,,,,,,,,,,,
-scenario_campaign_079_success_3,The Betrayer crumples into a pile of dust on the floor. 
+scenario_campaign_079_success_3,The Betrayer crumples into a pile of dust on the floor.
 scenario_campaign_079_success_4,Eager to be gone from this place, you gather what treasure you can find and make a hasty exit.,,,,,,,,,,,,,,
 scenario_campaign_080_objective_1,每名傭兵都必須拾取一個目標寶箱
 scenario_campaign_080_objective_2,所有傭兵必須逃離
@@ -9775,12 +9665,12 @@ scenario_campaign_080_success_1,With a trail of dead and wounded behind you, you
 scenario_campaign_080_success_2,You spur them on and trample through the flimsy, wooden door.,,,,,,,,,,,,,,
 scenario_campaign_081_objective_1,擊殺無瑕者
 scenario_campaign_081_room_3_1,Finally reaching the entrance to the sanctum, you prepare for the last challenge. ,,,,,,,,,,,,,,
-scenario_campaign_081_room_3_2,You open the door to a place stuck between eternal darkness and blinding light. Two huge demons flank a Savvas whose chest pulses with black and golden lights. 
+scenario_campaign_081_room_3_2,You open the door to a place stuck between eternal darkness and blinding light. Two huge demons flank a Savvas whose chest pulses with black and golden lights.
 scenario_campaign_081_room_3_3,Savvas cannot normally master those elements, but by the look on its face, you guess that doing so drove it mad.,,,,,,,,,,,,,
 scenario_campaign_081_success_1,With all your strength, you drive your weapon deep into the Savvas‘s chest, shattering its cores. ,,,,,,,,,,,,,
 scenario_campaign_081_success_2,Suddenly, the unnatural light and darkness is pulled towards the wound, gathering inside it before bursting out in a huge blast. ,,,,,,,,,,,,,
 scenario_campaign_081_success_3,The empty body of the Savvas drops dead to the floor.
-scenario_campaign_081_success_4,The twilight around you returns to normal as you gather your loot and leave the temple. 
+scenario_campaign_081_success_4,The twilight around you returns to normal as you gather your loot and leave the temple.
 scenario_campaign_081_success_5,One last time, you stare up at the ceiling and marvel at the impossibility of this place.,,,,,,,,,,,,,,
 scenario_campaign_082_exittile,在這個格子結束行動輪的傭兵可以獻祭一個已拾取的神器給“野獸”以完成劇本。
 scenario_campaign_082_itemchoice,0
@@ -9791,22 +9681,22 @@ scenario_campaign_082_room_5_1,原生族曾聚集在後面的房間內做最後�
 scenario_campaign_082_room_5_2,在房間的中央有一名穿戴華貴的原生族屍體雙手分別拿著頭盔與戰錘坐在王座上。
 scenario_campaign_082_room_5_3,他身後的牆上烙印著一行字：“喚醒野獸，實乃愚行。山巒之力，匹夫難當。還其聖物，獸眠安詳。”
 scenario_campaign_082_scenario_modifier_1,起始房間與最終房間的四扇門都是上鎖的。當一個精英怪物被擊敗時，將會有一扇門被打開。開啟的順序從起始房間的左邊開始，然後是右邊的門。最終房間的兩扇門遵循相同的模式。
-scenario_campaign_082_success_a_1,You cast the artifact into the growing pool of liquid flame around you. It sputters and greedily engulfs the item. 
+scenario_campaign_082_success_a_1,You cast the artifact into the growing pool of liquid flame around you. It sputters and greedily engulfs the item.
 scenario_campaign_082_success_a_2,The rumbling and shaking, constant up until this point, begins to dissipate. The golems cease their movements, and the demons seem to have vanished. ,,,,,,,,,,,,
 scenario_campaign_082_success_a_3,The cloud of soot still hangs in the sky as you trek back home, but the mountain seems to sleep. For now.,,,,,,,,,,,,,,
 scenario_campaign_082_success_b_1,You burst through the stone doors, heat and ash licking at your backs. ,,,,,,,,,,,,,,
 scenario_campaign_082_success_b_2,The shaking of the mountain reaches a crescendo as you careen down the old stone road, now splitting with fissures. ,,,,,,,,,,,,,,
-scenario_campaign_082_success_b_3,The sky has turned black and massive boulders come rumbling down the slopes. 
+scenario_campaign_082_success_b_3,The sky has turned black and massive boulders come rumbling down the slopes.
 scenario_campaign_082_success_b_4,You barely escape back to Gloomhaven, but the volcano‘s devastation is felt even there.,,,,,,,,,,,,,,
-scenario_campaign_083_misc_1,The last cultist crashes to the floor and you try to catch your breath. 
+scenario_campaign_083_misc_1,The last cultist crashes to the floor and you try to catch your breath.
 scenario_campaign_083_misc_2,Suddenly, the altar starts to tremble, smoke and fire rising from its core. ,,,,,,,,,,,,,
-scenario_campaign_083_misc_3,Demons made of flame emerge from it and an inferno engulfs the room. 
+scenario_campaign_083_misc_3,Demons made of flame emerge from it and an inferno engulfs the room.
 scenario_campaign_083_misc_4,You realize that you have failed to stop the ritual.
 scenario_campaign_083_room_3_1,When you open the stone door, you see an altar in the middle of the room, pulsing with a strange, red energy. ,,,,,,,,,,,,
 scenario_campaign_083_room_3_2,One of the cultists turns to you and lowers her cape, revealing a smile. It is the woman from the Brown Door.,,,,,,,,,,,,,,
 scenario_campaign_083_room_3_3,‘Just in time for the sacrifice,‘ she says as she turns to the altar. ‘We needed strong blood to complete our ritual.‘ The cultists begin chanting as you heft your weapon and charge.,,,,,,,,,,,,,,
 scenario_campaign_083_success_1,The fire stops, and the only thing that remains on the altar is a small, glowing amber core. ,,,,,,,,,,,,,
-scenario_campaign_083_success_2,You pick it up and it feels surprisingly cold in your hand. 
+scenario_campaign_083_success_2,You pick it up and it feels surprisingly cold in your hand.
 scenario_campaign_083_success_3,You are able to sell the gem for a nice profit, and you resolve to never help crying women in taverns ever again.,,,,,,,,,,,,,,
 scenario_campaign_084_objective_1,擊殺所有敵人
 scenario_campaign_084_objective_2,保護水晶
@@ -9885,14 +9775,14 @@ scenario_campaign_091_room_2_2,“Prepare yourselves, boys,“ one of the logger
 scenario_campaign_091_room_2_3,You think he is talking about you until a ghostly a form materializes in front of you, all chains and volatile anger. ,,,,,,,,,,,,,,
 scenario_campaign_091_room_2_4,It screams and thrashes around with a blind hatred for eveything near it. It, unfortunately, must be put to rest along with all these bandits. ,,,,,,,,,,,,,
 scenario_campaign_091_start_1,“Without the power of the spirits, I am useless,“ the Beast Tyrant says. ,,,,,,,,,,,,,
-scenario_campaign_091_start_2,“But I will send in my animal companions to help you. The only way to stop this plague is to kill every single one of those hairless parasites!“  
+scenario_campaign_091_start_2,“But I will send in my animal companions to help you. The only way to stop this plague is to kill every single one of those hairless parasites!“
 scenario_campaign_091_success_1,The forest falls silent as the last of the loggers are killed and the spirits dissipate. No wailing, no chopping, just silence. ,,,,,,,,,,,,,
 scenario_campaign_091_success_2,The Beast Tyrant walks out of the underbrush with a grim look. “It is unfortunate that the spirits had to be banished from this place, but there was no helping it,“ he says.,,,,,,,,,,,,,
 scenario_campaign_091_success_3,“The pain of the forest drove them mad. I hope one day this grove comes back, and with it, the means for my ancestors to find their way home.“,,,,,,,,,,,,,
 scenario_campaign_091_success_4,“It may be a long time before I hear their voices again, but I will stay and protect this place as best I can. I thank you for your help. Without you, I fear to think what might have happened.“,,,,,,,,,,,,,
 scenario_campaign_091_success_5,A number of animals gather around the Vermling as he turns and shuffles back into the forest. “Know that you always have my support whenever you need it.“
 scenario_campaign_092_objective_1,擊殺所有非城鎮首碼的敵人
-scenario_campaign_092_room_2_1,You round the corner of the alley and narrowly dodge a lance of fire that whizzes by your head. 
+scenario_campaign_092_room_2_1,You round the corner of the alley and narrowly dodge a lance of fire that whizzes by your head.
 scenario_campaign_092_room_2_2,At the end of the street, a robed Savvas stands with his hands outstretched, channeling another burning projectile.,,,,,,,,,,,,,
 scenario_campaign_092_room_2_3,You will certainly admit that you did not expect such low-rent thugs to hire a Savvas to do their dirty work. That couldn‘t have come cheap.
 scenario_campaign_092_room_2_4,And if that wasn‘t enough, you hear the sounds of whistles behind you. It looks as though the city guards have arrived to break up the party, but these debt collectors have insulted you one too many times for you to just let this go. ,,,,,,,,,,,,,
@@ -10051,49 +9941,10 @@ scenario_job_vermling_cave_sm1_desc,所有敵人的攻擊都附帶中毒和流�
 scenario_job_vermling_cave_sm2_desc,所有敵人開始時處於中毒和流血狀態
 scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附近的地穴
 
+============================================================================
+============================================================================
+============================================================================
 
-scenario_puzzle_2b_06,她非常敏捷還是遠程進攻，你需要快速行動來接近她 ——別忘了用上靴子！
-scenario_puzzle_2b_07,"這裡的關鍵是越過那些陷阱，因此你需要利用帶有<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b><sprite name=Jump></link>效果的<link=""Glossary_Move""><b><color=#1F9EDC>移動</color></b><sprite name=Move></link>來避免傷害。"
-scenario_puzzle_2b_08,"你做到了！你不僅是造成了可觀的傷害，更得益於你用<b><font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷</color></font></b>施加的<link=""Glossary_Disarm""><b><color=#1F9EDC>繳械</color></b><sprite name=Disarm></link>狀態，使得<b><color=#C53F3F>弓箭手</color></b>在她的行動輪中無法進行攻擊。"
-scenario_puzzle_2b_09,"現在她的生命值不多了，你應該能夠給她致命一擊。你本輪的目標為：
-<line-height=20%>
-</line-height>→ 殺死<b><color=#C53F3F>弓箭手</color></b>
-→ 跳過陷阱並<link=""Glossary_Loot""><b><color=#1F9EDC>拾取</color></b></link>寶箱
-<line-height=20%>
-</line-height>我希望你能在本回合中完成上面這兩個目標！"
-scenario_puzzle_2b_11,如果你想在本輪中比<b><color=#C53F3F>弓箭手</color></b>更早行動，那麼你需要確保你選擇的第一張技能卡具有較低的時序值。
-scenario_puzzle_2b_12,"我想我曾和你說過要<link=""Glossary_Loot""><b><color=#1F9EDC>拾取</color></b><sprite name=Loot></link>那個寶箱吧？我相信只要你能夠做出更明智的選擇，你是可以在本回合中完成兩個目標的。"
-scenario_puzzle_2b_13,"已經累到不能再次<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b><sprite name=Jump></link>了嗎？也許你需要儘快進行一次<link=""Glossary_Rest""><b><color=#FADC99>休息</color></b></link>一下…為了拿回你的手牌，就像以前那樣，對嗎？"
-scenario_puzzle_2b_14,"休息、攻擊、<link=""Glossary_Jump""><b><color=#FADC99>跳躍</color></b></link>、拾取寶箱，幹得漂亮！下一關中那瓶藥劑肯定能夠派上用場。"
-scenario_puzzle_2b_15,"別忘了，在執行一個<link=""Glossary_Move""><b><color=#1F9EDC>移動</color></b><sprite name=Move></link>技能的過程中，你可以使用像是<b><font=""MarcellusAlt SDF""><color=#F8F8F8>闊步靴</color></font></b>這樣的<b>道具</b>來提升你的移動範圍。"
-scenario_puzzle_2b_16,"別忘了<link=""Glossary_Short Rest""><b><color=#FADC99>短休息</color></b></link>允許你回收棄牌堆的卡牌，並且在你即將進行的行動輪中就可以投入使用。
-
-但是<link=""Glossary_Long Rest""><b><color=#FADC99>長休息</color></b></link>作為選擇兩張技能卡的替代，需要消耗整個行動輪(你依然可以做一些常規的事情例如使用道具)，並且為該角色提供99的時序值。也就是說，無法在本回合幫你取得勝利！"
-scenario_puzzle_2b_obj_01,跳躍通過這些陷阱並且在弓箭手執行攻擊前對其施加繳械狀態
-scenario_puzzle_2b_obj_02,在本回合中殺死弓箭手
-scenario_puzzle_2b_obj_03,跳躍通過陷阱並且拾取寶箱
-scenario_puzzle_2c_01,為了成為一名成功的公會會長，你需要多加注意敵人的行動並據此規劃你自己的行動。
-scenario_puzzle_2c_02,"這次你的目標非常簡單：
-<line-height=20%>
-</line-height>→ 不要受到任何攻擊
-<line-height=20%>
-</line-height>
-如果敵人造成了任何一點傷害你就必須重新來過！"
-scenario_puzzle_2c_03,你需要打開<b><color=#A06E4B>蠻徒</color></b>面前的這扇門來離開這個房間，但是別忘了下一個房間裡的敵人也會在本回合中執行行動。
-scenario_puzzle_2c_04,你問我有什麼建議？儘快採取動作，觀察敵人準備執行什麼行動。我預設了一個安全的位置可以讓你脫離所有敵人的攻擊範圍。現在，讓我看看你能否存活下來！
-scenario_puzzle_2c_05,"看上去<b><color=#C53F3F>弓箭手</color></b>抓到你了。你需要儘快移動並且脫離她的<link=""Glossary_Range""><b><color=#FADC99>射程</color></b><sprite name=Range></link>，別忘了在她的行動揭示後立刻把滑鼠懸停在她的身上來進行查看。再試一次吧。"
-scenario_puzzle_2c_06,別忘了在當前行動輪結束以後，新揭示的敵人也會按照行動輪順位進行行動。現在，找到我說的那個安全位置吧…
-scenario_puzzle_2c_07,很好，你避開了兩個房間的所有敵人！開門會讓你面對更多敵人，所以在將來的劇本中務必確保你準備妥善了再去開門。
-scenario_puzzle_2c_08,現在，在強盜的圍追堵截下再躲避一個回合來完成這場訓練吧！
-scenario_puzzle_2c_09,這次很難再找到一個安全位置了。或許你可以試著阻止一次攻擊來存活下來？
-scenario_puzzle_2c_10,你可以通過去到這個房間裡更深的地方來脫離第一個房間裡那些煩人<b><color=#C53F3F>弓箭手</color></b>的攻擊範圍，但是如何阻止這個<b><color=#C53F3F>衛兵</color></b>攻擊你呢？回想一下上一關你都學到了些什麼吧！
-scenario_puzzle_2c_11,你避開了<b><color=#C53F3F>弓箭手</color></b>的追擊，幹得漂亮！
-scenario_puzzle_2c_12,但是你沒有避開這個<b><color=#C53F3F>衛兵</color></b>，這就表現不太好了…我猜或許有辦法阻止他的攻擊？
-scenario_puzzle_2c_13,精彩絕倫！你表現得越來越專業了！
-scenario_puzzle_2c_14,"那個<link=""Glossary_Disarm""><b><color=#1F9EDC>繳械</color></b></link>怎麼樣？真是一個相當不錯的狀態效果，對吧？並且還有很低的<b> 10 </b>時序值，使得<font=""MarcellusAlt SDF""><color=#F5E3B0>嘲諷</color></font>成為一張非常靈活的卡牌來回避一些小規模摩擦。"
-scenario_puzzle_2c_15,接下來是最後一場訓練，完成後你就已經準備就緒，可以去探索世界並為我們的公會招募傭兵了！
-scenario_puzzle_2c_16,你受到了攻擊！注意敵人這一輪的移動範圍。你需要避開所有敵人！
-scenario_puzzle_2c_obj_1,在2個回合內不要受到任何攻擊
 scenario_puzzle_2d_01,讓我們來看看<b><color=#FADC99>攻擊修正</color></b>卡牌。在之前的訓練中，角色在攻擊時總是抽取一張<color=orange><b> +0 </b></color>的<b><color=#FADC99>攻擊修正卡牌</color></b>，代表他們的攻擊傷害總是和卡牌上說明的傷害一樣。但是平時可不是這樣的！
 scenario_puzzle_2d_02,"在正常的劇本中，每次執行<link=""Glossary_Attack""><b><color=#FADC99>攻擊</color></b></link>行動時，角色都會抽取一張<b><color=#FADC99>攻擊修正卡牌</color></b>來影響實際造成的傷害。它們會通過<b><color=orange> +1 </color></b>，<b><color=orange> +2 </color></b>，和<b><color=#D92727> x2 </color></b>來提升傷害，或是通過<b><color=#A050E0> -1 </color></b>，<b><color=#A050E0> -2 </color></b>，和<b><color=#A050E0> x0 </color></b>來降低傷害，還可能像你之前看到的<color=orange><b> +0 </b></color>那樣對傷害數值不造成影響。
 
@@ -10272,6 +10123,12 @@ scenario_puzzle_7b_10,"我猜你現在也能自稱是一個<i>屠魔者</i>了�
 scenario_puzzle_7b_obj_01,在本回合中殺死一個暗夜惡魔
 scenario_puzzle_7b_obj_02,在本回合中召喚一名盟友
 scenario_puzzle_7b_obj_03,殺死剩餘的暗夜惡魔
+
+============================================================================
+============================================================================
+============================================================================
+
+
 scenario_relic_ancientdrill_room_3_1,你在這個房間裡看見了一堆裝備，或許你正在尋找的鑽頭就在其中？
 scenario_relic_ancientdrill_sm1_desc,所有敵人獲得護盾+1
 scenario_relic_ancientdrill_start_1,洞穴似乎是由很多個部分組成的，你還沒來得及仔細搜尋就聽見了嘶嘶聲和陣陣咆哮。很明顯，洞穴裡棲息著什麼東西！
@@ -10706,9 +10563,9 @@ scenario_story_sawbones_1_start_4,It would, but a village-wide curse isn‘t cha
 scenario_story_sawbones_1_success_1,As you cut down the last of the small congregation, you hear a wet cackling from underneath a tree. You turn, and meet the gaze of a heavily-bleeding cultist. ,,,,,,,,,,,,,
 scenario_story_sawbones_1_success_2,‘The imps couldn‘t stop you, but no matter,‘ she splutters. ‘We Red Talons completed the ritual. Humanity will fall, and you and your healers of the Great Oak will be powerless to stop it!‘,,,,,,,,,,,,
 scenario_story_sawbones_1_success_3,The cultist dies laughing. As the life leaves her body, you notice a small, bloody book tumble from her hand.,,,,,,,,,,,,,
-scenario_story_sawbones_2_start_1,I‘m going to get into contact with the convent that runs Blackrock‘ this is ridiculous. 
+scenario_story_sawbones_2_start_1,I‘m going to get into contact with the convent that runs Blackrock‘ this is ridiculous.
 scenario_story_sawbones_2_start_2,You know, I think it‘s actually endearing. These lovely old nuns didn‘t even notice when I stole all of their silverware.,,,,,,,,,,,,,,
-scenario_story_sawbones_2_start_3,I‘m not even going to grace that with a reply. Let‘s focus on stopping this ritual. 
+scenario_story_sawbones_2_start_3,I‘m not even going to grace that with a reply. Let‘s focus on stopping this ritual.
 scenario_story_sawbones_2_success_1,Your weapon connects with a cultist, knocking him bleeding to the floor. Immediately, all the other inmates stop fighting, and turn their weapons on themselves.,,,,,,,,,,,,
 scenario_story_sawbones_2_success_2,‘Are you really so easily fooled?‘ The cultist on the floor is alive, and ecstatic.,,,,,,,,,,,,,,
 scenario_story_sawbones_2_success_3,‘After years of planning, our collective deaths completed this ritual. Years of planning, and you finally unleashed the Horror yourselves! It‘s glor‘‘,,,,,,,,,,,,,
@@ -10718,7 +10575,7 @@ scenario_story_sawbones_3_room_2_1,"Harrowers, Inox, Cultists, and demons... all
 "
 scenario_story_sawbones_3_room_2_2,"The Inox roar a battlecry at you as the others laugh. ‘Without your healers,‘ one of the Inox shouts, ‘you cannot stop the Inox from regaining the lands you‘ve taken from us!‘
 "
-scenario_story_sawbones_3_room_2_3,"This is truly disturbing, but sadly the village is too far gone. Don‘t waste time fighting.   
+scenario_story_sawbones_3_room_2_3,"This is truly disturbing, but sadly the village is too far gone. Don‘t waste time fighting.
 "
 scenario_story_sawbones_3_start_1,Demons? Inside the Saltmarsh Flats? Such a large presence of interplanar evil will tear this place apart!
 scenario_story_sawbones_3_start_2,Speaking of a large presence, did anyone else see the giant winged demon claw itself through the void?,,,,,,,,,,,,,,
@@ -11374,16 +11231,16 @@ spellweaver_skin_alt,水晶皮膚的案卷管理員
 spellweaver_strengths,"- <indent=%15>較好的遠程傷害輸出</indent>
 - <indent=%15>“回牌靈能”技能帶來以燒牌為核心的強力打法</indent>
 - <indent=%15>好用的初期遠程召喚物</indent>"
-spellweaver_weaknesses,"- <indent=%15>血量低，容易死</indent> 
+spellweaver_weaknesses,"- <indent=%15>血量低，容易死</indent>
 - <indent=%15>對於新手來說技能的選搭比較複雜</indent>
 - <indent=%15>水晶一樣的皮膚讓她找不到合適的好裁縫</indent>"
 spiritbanner,旗幟之靈
 spitepeak,惡意峰
-spitepeak_descr,硫磺的氣味在這裡徘徊，在地下深處可以聽到微弱的隆隆聲。在這座不穩定的山上住著一位古老的晶人族法師，研究這片土地本身的行為。 
+spitepeak_descr,硫磺的氣味在這裡徘徊，在地下深處可以聽到微弱的隆隆聲。在這座不穩定的山上住著一位古老的晶人族法師，研究這片土地本身的行為。
 spittingcobra,眼鏡蛇
 
 
-staybrightfort,光明堡 
+staybrightfort,光明堡
 staybrightfort_descr,這座熙熙攘攘的堡壘守衛著奇波特海灣和通往白橡國的河道。它還向海上貿易商徵收重稅，並確保有很多種類的比較昂貴的軍事物品可供購買。
 steelconstruct,鋼鐵造物
 
@@ -11414,7 +11271,7 @@ summoner_weaknesses,"- <indent=%15>低傷害輸出能力</indent>
 summonsaltar,召喚祭壇
 
 sunkeeper,烈日守衛
-sunkeeper_adventure_description,烈日守衛們被訓練來開發長期休眠的惡魔力量，並利用它們來達到正義的目的這位元烈日守衛擁有各式各樣的治療、Buff和卡牌回手技能並且本身是一個熟練的近戰鬥士。她的身份是一個Paladin，Paladin負責在戰鬥中救助傷害輸出核心人物，她的工作非常出色。 
+sunkeeper_adventure_description,烈日守衛們被訓練來開發長期休眠的惡魔力量，並利用它們來達到正義的目的這位元烈日守衛擁有各式各樣的治療、Buff和卡牌回手技能並且本身是一個熟練的近戰鬥士。她的身份是一個Paladin，Paladin負責在戰鬥中救助傷害輸出核心人物，她的工作非常出色。
 sunkeeper_difficulty,低
 sunkeeper_role,近戰肉盾/輔助
 sunkeeper_strengths,"- <indent=%15>靈活的Buff，治療和回牌技能選擇</indent>
@@ -11447,7 +11304,7 @@ target_allenemieswithinrange,目標為所有射程內敵軍
 target_cannolongerfly,目標不再能飛行。
 target_oneadjacentalliedplayer,目標為一個相鄰的盟友雇傭兵
 target_oneadjacentenemy,目標為一個相鄰的敵軍
-target_oneenemywithallattacks,目標為一個with all attacks的敵軍 
+target_oneenemywithallattacks,目標為一個with all attacks的敵軍
 target_selfandalladjacentallies,Target self and all adjacent allies
 target_selfandallallieswithin,目標為自身和所有盟友
 target_selfandallallieswithinrange,目標為自身和所有射程內的盟友
@@ -11607,7 +11464,7 @@ town_records_scenario051complete_5,根據行維族學者們的推測，這個邪
 town_records_scenario051complete_6,多明尼克把書關上：“感謝你們為我撰寫這段歷史提供如此多的幫助，而且真心希望這是我們最後一次遇上‘黯’ 。”
 town_records_scenario051complete_7,多明尼克臉上的笑容轉眼就消失了，他心神不寧地拿出了一張紙：“那個，還是有一件事請讓我感到躊躇。這是我在虛影迷域找到的一段文字，然而我無法將它破譯。這與我在北方見到過的某種魔法符文有著許多相似之處，但是在字形上卻有所不同。”他說完就默不作聲地將紙片遞給了你。
 town_records_scenario051complete_8,你仔細研究了這些符文，但並沒有辦法認出來。你搖搖頭：它們對你來說毫無意義。
-town_records_scenario051complete_9,“我曾希望你在旅行中可能會遇到類似的情形，”多明尼克感歎道，“但我知道這種機會很小。好吧，我相信大學裡的語言專家們會喜歡這種挑戰的。” 
+town_records_scenario051complete_9,“我曾希望你在旅行中可能會遇到類似的情形，”多明尼克感歎道，“但我知道這種機會很小。好吧，我相信大學裡的語言專家們會喜歡這種挑戰的。”
 town_records_scenario072complete_1,“啊，我尊敬的贊助者！”多明尼克在城鎮檔案館門口歡迎你們的到來，“我真不知道該如何感謝你們幫我取得了格雷邁恩議員的支持。”
 town_records_scenario072complete_10,多明尼克開始輕撫自己的鬍子，一邊說道：“我的意思是，這場戰爭發生的時間要比黯淡港灣早上很多年，所以我沒看出這兩者之間究竟有何關聯。”
 town_records_scenario072complete_11,“但我一定會弄清楚的，這一切的背後一定隱藏著更深層次的內情，而惡魔戰爭就是關鍵之處。我已經向大陸南部煉魔族的圖書館提出了調閱書籍的申請，希望這些書能給我的調研提供一些啟發，但是我目前沒有經費來運輸那些書籍。實話說，我們這裡一直就沒什麼錢。”
