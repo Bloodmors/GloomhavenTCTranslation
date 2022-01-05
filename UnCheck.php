@@ -1178,7 +1178,7 @@ adventure_achievement_spellweaver_1,充滿能量，活力無限
 adventure_achievement_spellweaver_1_desc,織魔師充能100個元素
 adventure_achievement_spellweaver_2,玻璃大炮
 adventure_achievement_spellweaver_2_desc,織魔師使用遠程進攻殺死20個敵人
-adventure_achievement_spellweaver_3,復蘇的行維族
+adventure_achievement_spellweaver_3,復蘇的艾斯泰爾
 adventure_achievement_spellweaver_3_desc,織魔師使用30次回收燒祭卡牌的技能
 adventure_achievement_summoner_1,肉盾
 adventure_achievement_summoner_1_desc,召喚師的召喚物受到40點傷害
@@ -2351,7 +2351,7 @@ event_city_campaign_17_intro,"你們帶著最近尋得的寶物回到黯淡港�
 event_city_campaign_17_option_a,要求它用其它的東西交換。就給你們這麼一枚硬幣簡直是一種侮辱。
 event_city_campaign_17_option_b,收下這枚硬幣，尋找它隱藏的價值。
 event_city_campaign_17_result_a,你們憤怒地把這枚硬幣拍到薩維斯的貨攤上，它伸手拿回硬幣，但是你們抓住它的胳膊要求給出合適的交易價格。它一言不發，鄙視地看著你們然後向你們撒了一把金光閃閃的錢幣。你們拿手遮住眼睛然後拔出武器，但是環顧四周卻發現那個薩維斯和貨攤一同消失不見了。 你們忿忿不平地撿起錢幣然後離開。
-event_city_campaign_17_result_b,你們冷靜地發現這枚硬幣可能蘊藏的價值遠比它外表看上去大得多。你們立馬去到大學然後花了數個小時來查閱古老文獻的記錄，但是卻一無所獲。就在夜裡，你們在酒館裡借酒消愁，不停地抱怨著關於這枚硬幣的事情。“這上面的花紋十分的有趣。”你們抬起頭來看到一個行維族站在你們面前。“那些花紋描述了一個特別的交匯之地。我可以告訴你們具體的位置。”
+event_city_campaign_17_result_b,你們冷靜地發現這枚硬幣可能蘊藏的價值遠比它外表看上去大得多。你們立馬去到大學然後花了數個小時來查閱古老文獻的記錄，但是卻一無所獲。就在夜裡，你們在酒館裡借酒消愁，不停地抱怨著關於這枚硬幣的事情。“這上面的花紋十分的有趣。”你們抬起頭來看到一個艾斯泰爾站在你們面前。“那些花紋描述了一個特別的交匯之地。我可以告訴你們具體的位置。”
 event_city_campaign_18_intro,"當你們在陷沒市集區談生意的時候，一個滿頭白髮的瘦弱女 人靠近你們並抓住了你的胳膊。
 
 “我說，你們看上去真的是挺強壯，”她說，“我家的地下室好像有點問題，你們能幫我解決嗎？”
@@ -2539,7 +2539,7 @@ event_city_campaign_33_intro,"虛影迷域是黯淡港灣裡一塊令人不安�
 在你們去往大學的途中，卻看到一個小女孩正在虛影迷域的邊緣玩耍，還沒等你們開口警告，她就摔了一跤並且掉進黑沙之中。她立刻發出令人毛骨悚然的尖聲喊叫，並且不斷地撕扯著自己的皮膚。"
 event_city_campaign_33_option_a,跑向那個女孩並且嘗試把她拽出虛影迷域。
 event_city_campaign_33_option_b,帶著“變態”的好奇心，遠遠地觀察接下來會發生什麼。
-event_city_campaign_33_result_a_a,你們沖上前去把小女孩從這個恐怖的區域拉了出來。但她還是瘋狂地叫喊著，你們團隊的行維族成員集中注意力將手放到小女孩的額頭上。過了一會，叫喊聲逐漸停歇，小女孩便站起來，然後帶著不安跑開了。
+event_city_campaign_33_result_a_a,你們沖上前去把小女孩從這個恐怖的區域拉了出來。但她還是瘋狂地叫喊著，你們團隊的艾斯泰爾成員集中注意力將手放到小女孩的額頭上。過了一會，叫喊聲逐漸停歇，小女孩便站起來，然後帶著不安跑開了。
 event_city_campaign_33_result_a_b,你們沖上前去儘快將小女孩從黑沙之中拖了出來，但是她的情況非常糟糕。不管你們如何幫助她，小女孩也只是不停地叫喊著。
 event_city_campaign_33_result_b,你們不由自主地想要看看這個小女孩到底會怎麼樣。她的皮膚漸漸變得蒼白，然後一片片脫落下來。之後她停止叫喊，然後咳出黑色的膽汁。她試著站起來，但是她的腿卻變成了塵土。在最後她發出了一聲令人憐憫的聲音之後，便倒在黑沙之上，揚起了一片沙塵。 在沙塵消散之後，小女孩如同從來沒有存在過一樣，消失得無影無蹤。
 event_city_campaign_34_intro,"在睡獅酒館一夜狂歡之後，你來到街上，注意到一個可疑的人影，他身披黑袍偷偷摸摸地往窄巷裡走去。
@@ -3440,7 +3440,7 @@ event_road_campaign_33_intro,"有些事...要來了。
 風中傳來一些輕飄飄的聲音，讓你覺得你隨時都會從地面一落千丈。"
 event_road_campaign_33_option_a,進一步調查。任何正起作用的力量都必須被制止。
 event_road_campaign_33_option_b,儘快從這個區域逃走。
-event_road_campaign_33_result_a_a,你隊伍中的行維族將你帶到了一個很奇怪的區域。你感覺你面前的空間只有一半，讓你很難彙集視線。行維族念了幾個詞，這些模糊的感覺消失了。
+event_road_campaign_33_result_a_a,你隊伍中的艾斯泰爾將你帶到了一個很奇怪的區域。你感覺你面前的空間只有一半，讓你很難彙集視線。艾斯泰爾念了幾個詞，這些模糊的感覺消失了。
 event_road_campaign_33_result_a_b,你正在閒逛，突然你面前的位面被撕開，出現了一個大惡魔。不過，你的存在讓它驚訝，然後你迅速解決了它。避免了可能會造成的麻煩。
 event_road_campaign_33_result_b,你急不可待地向前走去，以求脫離這種無頭蒼蠅般的處境。就在你似乎找回了自己的方向時，一隻巨大的惡魔從背後伏擊了你。你擊退了它，但他仍然傷害到了你。
 event_road_campaign_34_intro,"行至中途，你今晚必須在荒野中過夜，所以你搭起了營地點燃了篝火。
@@ -4094,9 +4094,10 @@ fordingbridge,灘橋地
 
 forgoactionsforcompanion,可以放棄給盟友施加Buff的行動
 forgottentunnels,遺忘隧道
-french,French
 
-ftue_1,在你進入<color=#EACF8C>黯淡港灣</color>周圍令人悲傷的荒野之前，你的團隊中至少需要2個雇傭兵，無論他們是出於勇敢還是貪婪，共同合作尋求冒險以賺取金幣。
+================================================================================================================================================
+#region 起始教學
+================================================================================================================================================
 ftue_10,"黯淡港灣並不以有禮貌的民眾和見義勇為的人知名，但是從這個城市的街道上你能得到很多...
 點擊下方的按鈕，你可以現在<color=#EACF8C>參與城市遭遇</color>。
 <size=60><sprite name=""MapMarker_Story""></size>
@@ -4108,11 +4109,8 @@ ftue_12,"<color=#EACF8C>第一個任務</color>位置被標記在黯淡港灣的
 點擊黑土墳塚或是進入任務記錄去選擇這個任務。"
 ftue_13,"記住你可以帶著<color=#EACF8C>最多四個雇傭兵</color>開始一個任務（但是你帶的雇傭兵越多，相應的任務難度也將會更高）。
 一旦開始一個任務，直到返回黯淡港灣之前，你不能夠改變你的團隊成員。"
-ftue_2,"在螢幕左邊你將發現<color=#EACF8C>團隊面板</color>。這裡你將看到你的團隊中的雇傭兵的基本資訊。
-點擊第一個角色槽以<color=#EACF8C>打開角色選擇面板</color>。"
-ftue_2.2,點擊<color=#EACF8C>第一個角色槽</color>打開角色選擇面板
-ftue_3,使用角色選擇面板，你可以創建、查看和增添雇傭兵到你的當前團隊。 現在它看起來像銅頸山脈一樣一無所有，所以最好<color=#EACF8C>點擊“新雇傭兵”</color>以創建你的第一個角色！
-ftue_3.2,點擊“<color=#EACF8C>新雇傭兵</color>”按鈕去創建一個角色
+
+
 ftue_4,"下一步你將選擇一個<color=#EACF8C>起始角色職業</color>。
 每個角色擁有獨特的技能和遊戲方式。隨著你的等級提升，可獲取新技能卡並解鎖更多角色職業。
 點擊角色頭像以瞭解他們的更多資訊並選擇任意一個成為你的第一個雇傭兵！"
@@ -4132,7 +4130,10 @@ ftue_9,"在啟程你的第一個任務之前，你<color=#EACF8C>應該做好行
 遊戲鼓勵你把這些錢帶到<color=#EACF8C>商人的店面</color>並花掉，購買任何可能讓你活命的東西。"
 ftue_9.2,使用下方的“商人”按鈕以<color=#EACF8C>進入商人的店面</color>
 ftue_9.3,當準備好時，點擊下方的“世界地圖”按鈕以<color=#EACF8C>返回世界地圖</color>
-gain,獲得
+================================================================================================================================================
+#endregion 起始教學
+================================================================================================================================================
+
 gain_flying,獲得<nobr>飛行<sprite name=Flying></nobr>
 german,German
 giantbat,巨型蝙蝠
@@ -4437,11 +4438,11 @@ gui_choose_elements_consume,選擇要消耗的{0}元素
 gui_choose_elements_infuse,選擇要充能的{0}元素
 gui_choose_item_to_lose,選擇要犧牲的物品
 
-gui_city_encounter,城市遭遇事件
-gui_city_encounter_tooltip,"<size=+4><color=#F3DDABFF>城市遭遇事件</color></size>
-你們每次到黯淡港灣時，只能完成1個城市遭遇事件。"
+
+gui_city_encounter_tooltip,"<size=+4><color=#F3DDABFF>城市遭遇</color></size>
+你們每次到黯淡港灣時，只能完成1個城市遭遇。"
 gui_city_event_blocked,"<size=+2><color=#EACF8C>城市遭遇</color></size>
-當一個完成了個人任務的雇傭兵在玩家團隊中時，你們將不能進行一個城市遭遇事件。"
+當一個完成了個人任務的雇傭兵在玩家團隊中時，你們將不能進行一個城市遭遇。"
 gui_city_event_cancel,取消城市事件
 gui_city_quest_description,{0}任務開放！
 gui_cleartargets,撤銷目標
@@ -4534,7 +4535,7 @@ gui_discard_cards,"棄置卡牌
 "
 gui_distribute_attack_modifier,選擇1雇傭兵以獲得{0}修正卡
 gui_distribute_consumeitem,選擇雇傭兵以在下一個場景開始時消耗1 {0}
-gui_distribute_gold_confirm,分配金幣
+
 gui_distribute_gold_points,"<color=#C53F3F><sprite name=""Gold_Icon_White"" color=#C53F3F>{0}金幣剩餘"
 gui_distribute_health,重新分配生命值
 gui_distribute_health_points,"<color=#C53F3FFF>重新分發<sprite name=""Heal"" color=#C53F3FFF>{0}生命值</color>"
@@ -5857,7 +5858,7 @@ message_complete_achievement_1_1_sawbonesreachlevel2_4,你同意了！？你肯�
 message_complete_achievement_1_1_scoundrelreachlevel2_1,今早起來我在門外發現了一封信。給惡棍的，要求在叢林裡會面。我以後能不能不要再成為中間人了？
 message_complete_achievement_1_1_soothsingerreachlevel2_1,吟遊歌者問了我什麼地方可以給她的新歌一些靈感，我推薦了一個不太嗜血的強盜團夥。
 message_complete_achievement_1_1_soothsingerreachlevel2_2,絞架嶺附近有一個小隊可能能幫幫忙。
-message_complete_achievement_1_1_spellweaverreachlevel2_1,行維族的織魔師給了我們一封信，想要我們幫忙調查東部森林中魔力平衡受到的擾動。
+message_complete_achievement_1_1_spellweaverreachlevel2_1,艾斯泰爾的織魔師給了我們一封信，想要我們幫忙調查東部森林中魔力平衡受到的擾動。
 message_complete_achievement_1_1_spellweaverreachlevel2_2,我會把它標記在你的地圖上。
 message_complete_achievement_1_1_summonerreachlevel2_1,召喚師報告了一次向路鎮外發生的...“介面轉移”，他希望我們調查一下。
 message_complete_achievement_1_1_summonerreachlevel2_2,介面轉移？那是啥東西？
@@ -5868,7 +5869,7 @@ message_complete_achievement_1_1_sunkeeperreachlevel2_2,我在最近被襲擊的
 message_complete_achievement_1_1_sunkeeperreachlevel2_3,但他們要怎麼付錢呢？...我搞不懂！
 message_complete_achievement_1_1_tinkererreachlevel2_1,機匠一直在研究惡魔學的起源，以希望找到打敗惡魔們的方法。他現在找到了一個值得調查的地方。
 message_complete_achievement_1_1_unlocklocations_1,你們往西南的開始做的非常好，我們又收到了更多的小鎮向我們求助，一直到海岸都有！
-message_complete_achievement_1_1_unlocklocations_2,呃，老大，一個行維族女人想見你。她說她可能能幫我們...
+message_complete_achievement_1_1_unlocklocations_2,呃，老大，一個艾斯泰爾女人想見你。她說她可能能幫我們...
 message_complete_achievement_1_1_unlocklocations_3,你在幹嘛......重建秩序，驅逐黑暗，保護弱者，我覺得值得。
 message_complete_achievement_1_1_unlocklocations_4,我會讓你變得更強。來我的帳篷，我們一起提高你的戰士實力。你解鎖的城鎮越多，你就會變得越強。
 message_complete_achievement_1_1_unlocklocations_5,很好，她直取重點！
@@ -5910,7 +5911,7 @@ message_end_quest_story_4a_1,是時候讓你瞭解一些魔法的基礎知識了
 message_end_quest_story_5a_1,那是充斥著魔力的元素學校。也許我們能招募到一個高科技人才？我發誓那裡前不久有一個智元族<b>機匠</b>帶著一個能量核心或者其他造物在酒館裡閒逛。
 message_end_quest_story_5a_2,很不錯。我聽說他在尋找冒險者調查一個附近的墳墓，酒保說他昨天就出發了。聽起來像那種會加入我們工會的人——讓我們試試能不能找到他！
 message_end_quest_story_5b_1,我們現在已經建立了一個比較完善的傭兵工會了！說到雇傭，我最近碰到了一個尋求我們幫助的人。
-message_end_quest_story_5b_2,"願你安康。我是這裡的<b>祭司</b>，遵從於聖橡樹庇護所。感謝我們之間的會面，我們所在的聖所急需援助。
+message_end_quest_story_5b_2,"願你安康。我是這裡的<b>祭司</b>，遵從於巨橡聖所。感謝我們之間的會面，我們所在的聖所急需援助。
 
 如你所見，聖所地下陵寢中的神聖的教堂地穴被瘋狂的邪教徒破壞並玷污了，喚醒了大量不死生物來完成他們的邪惡企圖......我懇求你們，幫我們解決這個威脅！"
 message_end_quest_story_5b_3,這些天這種情況太常見了......無論如何，聽起來是個鍛煉兩名新成員的好機會——走吧。
@@ -6767,175 +6768,59 @@ perk_tinkerer_10_desc,"添加一張<color=""orange"">+0</color>增加目標<spri
 perk_tinkerer_11,堅韌
 perk_tinkerer_11_desc,忽略劇本負面狀態
 ================================================================================================================================================
-#endregion 1
+#endregion perk
 ================================================================================================================================================
 #region personalquest
 ================================================================================================================================================
-
 personalquest_a_helping_hand_completed,當你看到一些人抵達他們渴求的目標並最終心身放鬆的時，那一刻，暖流遍佈全身，無以言說。觀摩人們身上發生的變化永遠不會乏味。然而世界很大，幽暗迷城只是其中一小部分——還有許多人需要獲取説明以實現他們的夢想，而你就是那個要去幫助的人。在向他們道別後，你重新踏上尋找掙扎靈魂的旅途 ，你不禁希望能有其他人繼續為這裡的人帶來一個唱歌，跳舞和慶祝的理由。
-
-
-personalquest_a_helping_hand_objective_progress_tooltip,Other characters achieving Personal Quests experienced:
-personalquest_a_helping_hand_objective_progress_tooltip_empty,No Personal Quest completions experienced yet.
 
 personalquest_a_study_of_anatomy_completed,美妙。真是太美妙了。那些你所發現的，那些你所記錄的...你會在餘生中繼續研究它們。想想看吧，你只需要冷眼看著你的雇傭兵夥伴受傷！你一邊感激他們為科學而獻身，一邊整理好了行囊，向家進發——你有了一個將一生為之奮鬥的工作。會有其他人不得不接手你曾經的醫療工作，但你相信他們很快就會出現了。
 
-personalquest_a_study_of_anatomy_objective_progress_tooltip,Party member exhaustions experienced:
-personalquest_a_study_of_anatomy_objective_progress_tooltip_empty,No party members have become exhausted yet.
-
 personalquest_aberrant_slayer_completed,在於每個元素位元面的不同惡魔戰鬥的過程中，你只學到了一件事：殺死它們可能很有趣，但絕不高效。如果你想要贏得與惡魔軍團的戰鬥——不僅僅是無休止的延續——那麼你必須找到一個方法將惡魔永遠逐出這個位面。想達成如此壯舉所需的知識量並不存在於黯淡港灣，所以你拋下了公會裡的雇傭兵獨自起身追尋。與此同時，元素的傾軋將繼續在這座城市中上演......
 
-
-
-personalquest_augmented_abilities_completed,這種力量是你從未設想過的。你相信現在的你可以做到幾乎任何事情，但也沒必要完全確信——你想要自己證明。是時候帶著你新獲得的能力離開黯淡港灣，到世界各地去完成所有你能遇到的事情了。但你很快就會回來：你敢打賭下次回來時，會有更多行維族願意為了一點點錢來進一步強化你的力量。
-personalquest_augmented_abilities_desc,"<b>擁有四種附魔效果（需要解鎖女巫）</b>
-
-的確，黯淡港灣可能不是最宜居的地方，但若你追尋的是其他事物，這裡便是盡美之地，比如說：行維族。從未見過如此之多！甚至有傳聞某個居住在城裡的行維族人可以通過魔法對人的能力進行強化。只需一點小小的附魔，你就將會無所不能！"
-personalquest_augmented_abilities_objective_desc,擁有四種附魔效果（需要解鎖女巫）
-personalquest_augmented_abilities_objective_progress_tooltip,Enhancements purchased:
-personalquest_augmented_abilities_objective_progress_tooltip_empty,No enhancements purchased yet.
+personalquest_augmented_abilities_completed,這種力量是你從未設想過的。你相信現在的你可以做到幾乎任何事情，但也沒必要完全確信——你想要自己證明。是時候帶著你新獲得的能力離開黯淡港灣，到世界各地去完成所有你能遇到的事情了。但你很快就會回來：你敢打賭下次回來時，會有更多艾斯泰爾願意為了一點點錢來進一步強化你的力量。
 
 personalquest_battle_legend_completed,那些你被你擊敗的生物，那些你挫敗的計畫......你所做的一切將被永遠銘記。你敢肯定從來沒有傭兵能像你這麼偉大。為了確保你的傳奇被永遠傳頌，你必須去往更廣闊的世界展現你高超的技藝和故事，所以你離開了黯淡港灣去往更遙遠的地方追尋更宏大的戰鬥。如果運氣好的話，你可能還會碰見一個將你的史詩冒險全部寫入詩歌的吟游詩人......
 
-
-
-personalquest_battle_legend_objective_progress_tooltip,Perk Points earned from Battle Goals:
-personalquest_battle_legend_objective_progress_tooltip_empty,No Perk Points earned yet.
-
 personalquest_elemental_samples_completed,這個城市沒被科學家擠滿真是一個奇跡。實際上鑒於探索黯淡港灣和其周邊的危險程度，這並不意外，但這就是這群傭兵發揮作用的時候了。研究結果不言而喻：這裡的元素濃度空前的高，這展現出的可能性於你而言是無止境的。懷著對那些傭兵幫助的感激，你開始準備回到你在荒野的孤塔的長途旅行——你必須儘快找出使用這些力量的最佳方法，不會太久的：很快就將會有其他元素追求者來到黯淡港灣。
-
-
-personalquest_elemental_samples_objective_progress_tooltip_empty,No scenarios completed yet.
 
 personalquest_eternal_wanderer_completed,這是在夢中也不曾見過的瑰麗美景。作為一名傭兵，你親自踏足了那些人煙罕至的地方——甚至曾與其他位面的生物擦肩而過。置身于這些自然奇觀中，現在的你希望能專注於這些地點本身，而不是途中的戰鬥。作為傭兵的日子已經教會了你如何獨立處理問題，但其他居民會取代你的位置成為新的戰士：你離開了黯淡港灣，去以一種沒有流血與犧牲的方式追尋更多的風景與精力。
 
-
-
-
 personalquest_fearless_stand_completed,他們曾嘲笑你是個小不點，是個怪人；你曾被看輕，你曾被羞辱。沒有人會覺得你可以憑藉不屈的意志擊敗那些生物：傲慢者已經為他們的罪行付出了代價。你向黯淡港灣證明即使矮小的人也可以如此強大。你清楚現在你可以回到你原先的生活了，不會再有人來侮辱你了。但你在冥冥中有一個感覺，你不會是最後一個來到這座城市的矮小的，醜陋的戰士。
-personalquest_fearless_stand_desc,"<b>擊殺20個精英怪</b>
-
-在同齡人中你從來不是最高大的那個。事實上就是因為你身材矮小和長相奇特，在小時候飽受欺淩。真希望那些霸淩的頑童能看到你現在的模樣。是時候站出來幫助弱者，好讓那些自命不凡的傢伙們認識到自己的錯誤。將他們放倒在泥濘中吧。"
-personalquest_fearless_stand_objective_desc,擊殺20個精英怪。
-personalquest_fearless_stand_objective_progress_tooltip,Elite monsters killed:
-personalquest_fearless_stand_objective_progress_tooltip_empty,No Elite monsters killed yet.
 
 personalquest_finding_the_cure_completed,在離開前，你向傭兵團隊表達了最真摯的感謝，然後就趕緊回到了村莊。你當然想知道黯淡港灣背後的謎團，但你現在只想趕快回到家鄉——希望為時不晚。你不想要再看到別人的死亡了。
-personalquest_finding_the_cure_desc,"<b>擊殺8只叢林小惡魔。之後解鎖劇本“被遺忘的果林”並按照劇本說明繼續</b>
-
-領居的咳嗽聲讓你在夜裡輾轉難眠。起初只是咳嗽，但隨後症狀就不斷加深並出現了傳播現象。患者會七孔流血，生出疥瘡，最終痛苦死去。村裡的長老說在匕首叢林的深處藏著解藥，而叢林小惡魔知曉通往那個地方的方法。如果能夠收集足夠多叢林小惡魔身上的精粹的話，或許就能尋覓到解藥的所在地。"
-personalquest_finding_the_cure_objective_desc,擊殺8只叢林小惡魔。之後解鎖劇本“被遺忘的果林”並按照劇本說明繼續。
-personalquest_finding_the_cure_objective_progress_tooltip,Forest Imps killed:
-personalquest_finding_the_cure_objective_progress_tooltip_empty,No Forest Imps killed yet.
-personalquest_finding_the_cure_objective_step0_desc,擊殺8只叢林小惡魔。（階段目標）
-personalquest_finding_the_cure_objective_step1_desc,按照劇本“被遺忘的果林”的劇本說明繼續。
-personalquest_finding_the_cure_objective_step2_desc,按照劇本“煉金實驗室”的劇本說明繼續。
 personalquest_finding_the_cure_progress_completed_step_0,當你意識到剛剛做了什麼時，你開始全力強迫自己專注於眼前這場戰鬥。隨著最後一隻小妖的倒下，你已經盡可能收集了很多的叢林小惡魔精華——已經足夠去完成你的目標了。你不能再浪費時間了：一旦這邊的戰鬥結束，你必須使用這些精華去找到解藥。
 
 personalquest_goliath_toppler_completed,顯而易見，你才是真正的英雄。你尋找著黯淡港灣中最稀有最強大的敵人並光榮的擊敗了它們。你的戰鬥事蹟將被世代傳頌——雖然你還沒打算退休。你向曾經的傭兵同伴告別，踏上了開闊的大路。或許有天你會回到黯淡港灣，來看看有沒有出現別的值得你挑戰的稀有生物，但現在有更多的生物在這座城市之外的地方等著你，而你的職責就是去將它們一一擊敗。
-personalquest_goliath_toppler_desc,"<b>完成四個有頭目存在的劇本</b>
-
-你依然記得那天巨大的陰影劃過村莊上空的情景。所有人都說那只是一片烏雲，但你清楚地知道那其實是一條龍的身影！這景象讓你感到十分驚奇。你知道自己終有一日將會離開這個村莊去尋找一些非常罕見並氣勢磅礴的生物，而且你會因能在戰場上面對它們而感到榮幸。畢竟，那是真正的英雄所做的事。"
-personalquest_goliath_toppler_objective_desc,完成四個有頭目存在的劇本。
-personalquest_goliath_toppler_objective_progress_tooltip,Boss Quests completed:
-personalquest_goliath_toppler_objective_progress_tooltip_empty,No Boss Quests completed yet.
 
 personalquest_greed_is_good_completed,結束了。與其他傭兵對“團結一心”，“有仇必報”追求和廢棄墓穴下的臭味已經開始讓你厭煩了。然而，能聽到那叮噹聲的重量就值了。在盡可能掠奪了這個城市的一切後，你離開了黯淡港灣——這個城市肯定不會再出現如此富裕的傭兵了。你還沒走出大門就在思考新的方法來使錢包變得更沉：或許你應該投資一個屬於你自己的公會？
 
-personalquest_greed_is_good_objective_desc,持有200金幣
-personalquest_greed_is_good_objective_progress_tooltip,Gold earned:
-personalquest_greed_is_good_objective_progress_tooltip_empty,No gold earned yet.
-
 personalquest_implement_of_light_completed,情況比你想的還要糟：即使有這把戰斧，但亡靈天災已經變得太過龐大。呆在這已是無用之舉，亡靈這種頑疾早已不是這個城市的事那麼簡單了。在向雇傭兵夥伴道謝之後，你離開了黯淡港灣去追尋死靈法術的真正來源。你只希望有別的人會為這座城市的光明而戰，因為你將其留在了深深的黑暗中。
-personalquest_implement_of_light_desc,"<b>在死靈法師的聖所中找到骨禍斧，之後用它擊殺7個骷髏，行屍，或怨靈。</b>
 
-亡靈所造成的災害正在蔓延，你能感受到這些不潔的生命讓整個世界都透不過氣。你聽聞某個邪惡的死靈法師有一把傳說中的神斧。你的目標很簡單：殺了那個死靈法師，拿起那把神斧，然後將那些亡靈殺的片甲不留。"
-personalquest_implement_of_light_objective_desc,在死靈法師的聖所中找到骨禍斧，之後用它擊殺7個骷髏，行屍，或怨靈。
-personalquest_implement_of_light_objective_progress_tooltip,"Living Bones, Corpses and Spirits killed with the Skullbane Axe:"
-personalquest_implement_of_light_objective_progress_tooltip_empty,None killed yet.
-personalquest_law_bringer,執法者
 personalquest_law_bringer_completed,這是一個艱巨的任務，但總要有人來做，總要有人站出來對抗那些暴徒，維護法律與秩序。謝謝你，黯淡港灣更加安全了，所有敢於威脅這裡和平的人都已經清楚，他們的不法行徑不再會被姑息。你已經完成了你該做的，現在是時候享受你應有的假期了——會有其他人來保證黯淡港灣的秩序：這片大地上還有許多混亂的地方。
-personalquest_law_bringer_desc,"<b>擊殺20個強盜或邪教徒</b>
-
-世間萬物不過是秩序與混沌兩種形態——已經被馴服的和被控制的，以及就是等待被馴服和被控制的。黯淡港灣就是一個急需被控制的混亂之地，那麼從荒野周邊的那些非法之徒開始吧。雖然那些魔鼠也好不到哪去，但那些知法犯法的人類更是不可饒恕。"
-personalquest_law_bringer_objective_desc,擊殺20個強盜或邪教徒。
-personalquest_law_bringer_objective_progress_tooltip,Bandits and Cultists killed:
-personalquest_law_bringer_objective_progress_tooltip_empty,No Bandits or Cultists killed yet.
 
 personalquest_merchant_class_completed,這花了你不少時間，但最終你還是攢足了裝備來開一個屬於你的小商店。你不用再為了生活而在地下城裡好勇鬥狠，那些事情就留給曾與你一同冒險過的人吧。帶著商品，你走向了幽港港的大門。也許未來你會懷念你的雇傭兵朋友們，但不久之後你的腦袋已經在自己變成一個真正的商人的白日夢裡暢遊了——你確信他們會找到一個新的人來管理他們的倉庫。
 
+personalquest_piety_in_all_things_completed,你不得不停留的更久一些，但最終你還是想辦法把這座陰森城市的黃金帶去了當地的庇護所，讓它發揮了作用。多虧了你，黯淡港灣正在成為真正的希望之港，還要感謝聖橡樹，你終於可以離開這塊罪惡的土地，去另一座墮落的城市——一座沒有那麼多散發著惡臭的行屍走肉的城市。巨橡聖所會讓其他倒楣蛋來照顧黯淡港灣的。
 
-personalquest_piety_in_all_things_completed,你不得不停留的更久一些，但最終你還是想辦法把這座陰森城市的黃金帶去了當地的庇護所，讓它發揮了作用。多虧了你，黯淡港灣正在成為真正的希望之港，還要感謝聖橡樹，你終於可以離開這塊罪惡的土地，去另一座墮落的城市——一座沒有那麼多散發著惡臭的行屍走肉的城市。聖橡樹庇護所會讓其他倒楣蛋來照顧黯淡港灣的。
-personalquest_piety_in_all_things_desc,"<b>向聖橡樹庇護所捐贈120金</b>
-
-這座黯淡港灣的陰森城市像是個翻滾著邪惡與貪婪的巨坑。僅僅是呼吸之間你便覺得肺好像被邪惡所污染。但你仍決定去幫助這些聖橡樹庇護所的菜鳥們，所以你必須堅強。你將冒險進入這個城市周圍的罪惡巢穴，盡力讓這座城市重拾希望。"
-personalquest_piety_in_all_things_objective_desc,向聖橡樹庇護所捐贈120金
-personalquest_piety_in_all_things_objective_progress_tooltip,Gold donated to the Sanctuary of the Great Oak:
-personalquest_piety_in_all_things_objective_progress_tooltip_empty,No gold donated yet.
-personalquest_pounds_of_flesh,血債血償
 personalquest_pounds_of_flesh_completed,你讓他們付出了代價。他們奪走了你的家，你的父母，你的村莊，你的一切。一時的沉默也許能夠保全自己，但你的所作所為使你重獲自由，你意識到你絕不能袖手旁觀，看著別人經受相同的厄運。在與你的雇傭兵朋友們道別後，你向著黯淡港灣的荒野走去：另一個戰士會與你的朋友們並肩作戰——而你必須去阻止那些鼠人，永遠。
-personalquest_pounds_of_flesh_desc,"<b>擊殺十五個鼠人</b>
-
-這片燒焦的廢墟曾是一座充滿活力的村莊，在廢墟之中無聲地坐著一個嬰兒。能使你活下去的唯一辦法就是保持沉默。村民們曾被警告過這片土地並不安全，但他們仍舊在這裡建起了村子。然後鼠人們來了，殺光了所有人——除了這個嬰兒。現在這個長大成人的嬰兒已經準備好復仇了。"
-personalquest_pounds_of_flesh_objective_desc,擊殺十五個鼠人
-personalquest_pounds_of_flesh_objective_progress_tooltip,Vermlings killed:
-personalquest_pounds_of_flesh_objective_progress_tooltip_empty,No Vermlings killed yet.
 
 personalquest_seeker_of_xorn_completed,蟲群化作了人類的外形——那是一隻巢靈族人——用紊亂的嗡嗡聲說道：“我活過來了，瘟疫也將再次降臨。不必為你的朋友感到哀傷，他們已經盡了最大的作用了。我們會與你一同前行，為世界獻上禮物。瘟疫將擁抱這個世界。”
-
 personalquest_seeker_of_xorn_progress_completed_step_0,你剛從地穴出來時就感覺到索恩對你的呼喚變得比這麼多年來的更強了：你最後前往的三個地穴中有些東西——你錯過了的東西。他命令你在找到之前不能停下，所以你回到了地穴，最終找到了索恩想讓你發現的東西...
 
 personalquest_take_back_the_trees_completed,你沒法將你的村子復原，但得知那些將其奪走的人已經為他們犯下的罪行贖罪就夠了。在你從強盜手中救下的花晶族的幫助下，你可以按照心中所想的樣子重建村落。不再對戰鬥渴望的你向至親的戰友告別，離開了黯淡港灣回到樹林中生活。你相信叢林會為你的朋友們善行帶來回報的。
-personalquest_take_back_the_trees_desc,"<b>在匕首叢林內完成三個劇本。之後解鎖劇本“迷霧叢林”並按照劇本說明繼續</b>
-
-那群人突然來到樹林宣稱他們對這片土地擁有主權並要求你們交付稅金。每次你們把這群強盜擊退之後，他們就會帶著更多的人捲土重來。現在你的家人不是被殺就是被俘。你需要外出尋求援助，並希望找到他們的老巢，然後把所有問題一次性解決。"
-personalquest_take_back_the_trees_objective_desc,在匕首叢林內完成三個劇本。之後解鎖劇本“迷霧叢林”並按照劇本說明繼續。
-personalquest_take_back_the_trees_objective_progress_tooltip,"""Dagger Forest"" scenarios completed:"
-personalquest_take_back_the_trees_objective_progress_tooltip_empty,"No ""Dagger Forest"" scenarios completed yet."
-personalquest_take_back_the_trees_objective_step0_desc,在匕首叢林內完成三個劇本。（階段目標）
-personalquest_take_back_the_trees_objective_step1_desc,按照劇本“迷霧叢林”的劇本說明繼續。
-personalquest_take_back_the_trees_objective_step2_desc,按照劇本“強盜的樹林”的劇本說明繼續。
 personalquest_take_back_the_trees_progress_completed_step_0,你有點難以置信。就在剛剛你找到了你一直想要的東西。但你清楚你在那些樹裡看到的是什麼：找到那些屠殺你們村子的人並糾正一切的方法。一個奪回樹林的方法。
 
 personalquest_the_fall_of_man_completed,在結束了黯淡港灣過去的悲劇之謎，將靈魂從他們的遠古命運中解放之後，你感到一種名叫責任心的情感開始取代你的好奇心。你向其他傭兵告別，並計畫不僅要瞭解更多有關前人的資訊，還要將被困在位面魔法中的人解放。不管你將發現什麼，現在你確信這個城市被困在位面之間的人比任何人想像中的都要多。
-
-
-personalquest_the_fall_of_man_objective_progress_tooltip,"""Lingering Swamp"" scenarios completed:"
-personalquest_the_fall_of_man_objective_progress_tooltip_empty,"No ""Lingering Swamp"" scenarios completed yet."
 personalquest_the_fall_of_man_progress_completed_step_0,不，這並不是你的思維在愚弄你，也不是魔法帶來的不良影響，甚至不是因為沼澤奇怪的氣味。你知道你看到的是什麼，你也明白這代表的意義——即使只有一瞬間，但你確實看到了前人在此留下的東西。你可以在此找到它，並揭開其隱藏的謎團。
 
 personalquest_the_perfect_poison_completed,毒藥完成了。從未有過毒性如此複雜，外觀如此美麗的毒素。黯淡港灣的奇珍異獸真是大自然最優秀的成果，現在他們成就了你，讓你做出了完美的毒藥。你不確定是為什麼，但你情不自禁地覺得你做的太過了，就像你為這個城市帶來了瘟疫一般。你決定最好離開這，逃避你的所作所為帶來的後果。
-personalquest_the_perfect_poison_desc,"<b>擊殺三個軟泥怪，三個潛伏者，三個噴吐龍獸</b>
-
-製作毒藥是一門藝術。殺人的方法就像作畫那般五花八門。你迄今為止的所有作品都讓你感到十分滿意。但接下來才是你最高的傑作。有傳聞在黯淡港灣及其周遭的地區上生活著許多奇珍異獸。只要你能夠搞到哪怕是一丁點樣本，就能製作出一種傳奇毒藥，這可以讓你名聲大噪。"
-personalquest_the_perfect_poison_objective_desc,擊殺三個軟泥怪，三個潛伏者，三個噴吐龍獸。
-personalquest_the_perfect_poison_objective_progress_tooltip,"Oozes, Lurkers, and Spitting Drakes killed:"
-personalquest_the_perfect_poison_objective_progress_tooltip_empty,"No Oozes, Lurkers, and Spitting Drakes killed yet."
 
 personalquest_the_thin_places_completed,儘管你做了你能做的一切，但空氣依舊變得比以往更稀薄了。但你瞭解到的是，這是某個在另一面，某個正在注視著黯淡港灣的東西所為。在你瞭解更多之前，你什麼都做不到——所以你匆匆地離開了你的傭兵同伴，離開這座城市去追尋真正能夠拯救它的知識。只有一點是能肯定的：那些藏在位面之間的東西暫時還無法毀滅黯淡港灣......
-personalquest_the_thin_places_desc,"<b>完成六個旁支劇本</b>
-
-黯淡港灣周邊的大氣十分稀薄。唔姆，但是更糟糕的是，有什麼東西隱藏在這種氣息之後...就像有某種力量不斷地擠壓並苦苦琢磨著要從另一個空間出來似的。這種感覺困擾著你，你決定前往附近的幾個地方去進一步研究這個現象。運氣好的話，說不定能改變現狀。"
-personalquest_the_thin_places_objective_desc,完成六個旁支劇本。
-personalquest_the_thin_places_objective_progress_tooltip,Side scenarios completed:
-personalquest_the_thin_places_objective_progress_tooltip_empty,No 旁支劇本 completed yet.
 
 personalquest_trophy_hunt_completed,開始冒險時，你並不知道黑暗中潛藏著什麼生物，它們將帶來怎樣的考驗。不論你曾以為做不到的和做得到的，你都已經親手擊殺了它們。現在你已經見識過了黯淡港灣有的所有獵物，你很確信在這裡已經找不出能給你帶來些許挑戰的野獸了。你將你的戰利品全都裝上車離開了黯淡港灣，去往別處繼續你的狩獵。
 
-
-
-personalquest_trophy_hunt_objective_progress_tooltip_empty,No monsters killed yet.
-
 personalquest_vengeance_completed,失去計畫後你只感到空虛。從那天在棚屋裡來，你就一直無法擺脫這種麻木空虛的感覺。為你的摯友報仇曾經是為了讓你再次感到圓滿，但這只是剝奪了你的動力和情感。你決定是時候離開黯淡港灣了，去在大路上追尋自我；你這輩子已經厭倦了和神話生物打交道了。
-personalquest_vengeance_desc,每當你閉上雙眼，兩小無猜的童年便歷歷在目；然而當你睜開雙眼，你最好的朋友卻已不在人世。雖然衛兵們一口咬定這不過是一個意外，但你知道他們其實滿口謊言。你發誓一定會找到兇手並親手手刃。有些是必須血債血償。
-personalquest_vengeance_objective_desc,"<b>在黯淡港灣內完成四個劇本。（階段目標）</b>
-
-在黯淡港灣內完成四個劇本。之後解鎖劇本“調查”並按照劇本說明繼續。"
-personalquest_vengeance_objective_progress_tooltip,City scenarios within Gloomhaven completed:
-personalquest_vengeance_objective_progress_tooltip_empty,No city scenarios completed yet.
-personalquest_vengeance_objective_step0_desc,在黯淡港灣內完成四個劇本。（階段目標）
-personalquest_vengeance_objective_step1_desc,按照劇本“調查”的劇本說明繼續。
-personalquest_vengeance_objective_step2_desc,按照劇本“血腥小屋”的劇本說明繼續。
 personalquest_vengeance_progress_completed_step_0,在戰鬥結束後，你在一個強盜的屍體旁找到了這個小小的——裝得滿滿的——錢包，正是屬於你搜集到的所有證據指向的那個人。標籤背面用淩亂的字寫著“賄賂”，還印著當地強盜氏族的紋章。這是解開你疑惑的最後一塊拼圖：你已經確信是誰害死了你的摯友，並且無論如何你都會找出答案。
 
 personalquest_zealot_of_the_blood_god_completed,獻祭是必要的，所以祭品應被奉上。但你的獻祭已經完成了。嗜血之神已經表示你已不再受到庇護；你必須給自己找條出路了。你當然尊重神明的意志，但你還是不禁感覺信仰的神明背棄了你。似乎你的獻身是那麼的微不足道。在你離開這個城市時，你決定要過一個平靜的生活——也許是買下一個農場。不管如何，嗜血之神將會在黯淡港灣找一個新的信徒。
@@ -6981,6 +6866,11 @@ quartermaster_strengths,"- <indent=%15>擁有許多物品刷新技能</indent>
 quartermaster_weaknesses,"- <indent=%15>沒有一項能力是大師</indent>
 - <indent=%15>帶的物品越少越弱</indent>
 - <indent=%15>總是帶著太多行李</indent>"
+
+
+================================================================================================================================================
+#region quest_campaign
+================================================================================================================================================
 quest_campaign_001_desc,前往黑土墳塚尋找潔索菈的文件
 quest_campaign_001_intro,"你們一路向下走去，幸運的是，低處有微弱的光亮。不幸的是，伴隨著微光傳來一股濃烈的屍臭味。你們邊前進邊思索，究竟是什麼樣的強盜才會把營地選在如此噁心的地方。
 
@@ -7072,7 +6962,7 @@ quest_campaign_008_intro_travel_1,你們按照秘密連絡人的吩咐，趁著�
 quest_campaign_008_list,追捕潔索菈
 quest_campaign_008_name,黯淡港灣倉庫
 quest_campaign_008_outro_gh_1,“她已經逃出了我的情報範圍，”城市衛兵隊的阿姬絲聳了聳肩答道。當你們繼續追問時，她說道：“我們也想確保她不會再次製造出更多麻煩，可是她已經逃出了黯淡港灣，因為沒有她去向的相關情報，所以我可不想在那個危機四伏的荒野上瞎找。”
-quest_campaign_008_outro_gh_2,“也許你們的運氣會更好，說不定能在城裡找到行維族的附魔師，”阿姬絲給你們建議著，“若你們能夠得到她的幫助，那必定能夠窺測到那個膽小鬼的藏身之處。”
+quest_campaign_008_outro_gh_2,“也許你們的運氣會更好，說不定能在城裡找到艾斯泰爾的附魔師，”阿姬絲給你們建議著，“若你們能夠得到她的幫助，那必定能夠窺測到那個膽小鬼的藏身之處。”
 quest_campaign_009_desc,克服“邪惡的陰謀詭計”，獲得“相當可觀的報酬”
 quest_campaign_009_intro,無視阿姬絲的警告，你們出發前往鑽石礦井。“邪惡的陰謀詭計”，這聽起來的確值得你們擔憂，但是“相當可觀的報酬”這句話帶來的欲望一瞬間便壓過了它。
 quest_campaign_009_list,為潔索菈找到鑽石
@@ -7119,26 +7009,26 @@ quest_campaign_013_desc,請求神秘的力量指引你找到潔索菈
 quest_campaign_013_intro,"雖然道路明確，但旅途卻困難重重。在你們攀爬通往神廟的峭壁時，有無數次差點墜入腳下的萬丈懸崖。頂著凜冽的寒風，無懼鬆散的岩石，最終你們到達了山頂，穿過神廟的大門來到了一個寬廣的前廳。
 
 “很抱歉，我此時不方便見客，”一陣虛無縹緲的聲音在前廳中響起，“請十二年之後再來吧，到時我有可能會接待你們。”你們還沒來得及提出異議，一群由岩石構成的人形物體突然出現在了你們面前。"
-quest_campaign_013_intro_gh_1,你們向自己的聯緊人打探著潔索菈藏身地的線索，最終從聖橡樹庇護所那獲得一些相關的消息。
+quest_campaign_013_intro_gh_1,你們向自己的聯緊人打探著潔索菈藏身地的線索，最終從巨橡聖所那獲得一些相關的消息。
 quest_campaign_013_intro_gh_2,他們說在守望山脈的高處有著一座神廟，廟中存在著一股無形的力量，它可以解答你所提出的任何問題。然而來訪者必須先要通過艱險的路途，還要在神殿的試練之中存活下來才有資格向它提問。
 quest_campaign_013_intro_gh_3,聖橡樹的教義向來有一項傳統，他們會派出信徒前往先知神廟進行朝聖，在那裡，就算面對著自己所欲知的事情會得到解答的可能，他們依然拒絕提出任何的問題。因他們已經全心全意地信奉於聖橡樹。
 quest_campaign_013_intro_gh_4,庇護所的教徒為你們指出神廟所在的方向，於是你們出發前往神殿。有了清晰的方向，旅途也將變得輕鬆。
 quest_campaign_013_list,找到潔索菈
 quest_campaign_013_name,先知神廟
-quest_campaign_014_desc,尋找行維族附魔師
+quest_campaign_014_desc,尋找艾斯泰爾附魔師
 quest_campaign_014_intro,地圓畫得非常清楚。你們根據指引來到了銅頸山脈冰蓋的最深處，找到了一個黑暗狹長的洞窟。入口處有大量的狼群腳印，看上去令人感到非常不安，但你們仍舊堅定不移的走了進去。
-quest_campaign_014_intro_gh_1,既然需要一名附魔師，那就去找到他。根據情報所述，有一名行維族人在鍋爐街區出沒，據此你們找到了一所被遺棄的名叫“曲骨”的廢棄酒館。
+quest_campaign_014_intro_gh_1,既然需要一名附魔師，那就去找到他。根據情報所述，有一名艾斯泰爾人在鍋爐街區出沒，據此你們找到了一所被遺棄的名叫“曲骨”的廢棄酒館。
 quest_campaign_014_intro_gh_2,推開門，你們發現屋內的情景和外部一模一樣：隨處可見的蜘蛛網，歪斜的凳子，還有積滿灰塵的破玻璃杯。當你們踏入大門後，你個半透明的女子突然出現在你們的眼前：“傭兵們，你們為什麼要來這裡？這裡不歡迎你們，而且你們打擾了我的研究。”
 quest_campaign_014_intro_gh_3,"你連忙解釋了自己的來意，可那名女子的眉頭卻皺的更深了。
 
-“哦，看看這名神奇的行維族女子。她可以實現我們所有的願望。她只需要輕輕一揮手，就算是在不切實際的夢想也能成真。”她失意地歎了一口氣，然後真的做了個揮揮手的動作後說道，“別來煩我了。”"
+“哦，看看這名神奇的艾斯泰爾女子。她可以實現我們所有的願望。她只需要輕輕一揮手，就算是在不切實際的夢想也能成真。”她失意地歎了一口氣，然後真的做了個揮揮手的動作後說道，“別來煩我了。”"
 quest_campaign_014_intro_gh_4,"但你們一動不動。她也只是凝視著你們。
 
 “唔姆，與其繼續這樣打擾我，不如幫我做點事情吧。你們幫了我，那我也許也會幫你們，這就是做人處事之道，對吧？”那名女子轉身走向一條已經毀壞的樓梯，但沒走幾步就消失不見了。"
 quest_campaign_014_intro_gh_5,"“我需要你們去銅頸山脈的冰霜洞窟找到一個水晶球。”那名女子的聲音從你們正前方傳來，如同她根本沒有離開過一樣。“將它帶給我，說不定我也會幫助你們。”
 
 一卷地圖掉落在你們的腳邊。“順便一提，我的名字叫做黑爾。在拿到水晶球之前就別來打擾我了。”"
-quest_campaign_014_list,找到行維族人
+quest_campaign_014_list,找到艾斯泰爾人
 quest_campaign_014_name,冰霜洞窟
 quest_campaign_014_outro_gh_1,你們再次走進那個廢棄酒館，呼喚黑爾。沒得到任何回復的你們在周圍閒逛，觀察著四周混亂的景象。
 quest_campaign_014_outro_gh_2,你們不禁好奇黑爾是如何在如此糟糕的環境中工作的。就在你們靠近吧台時，黑爾突然出現在了你們的面前，手裡拿著你們帶回來的水晶球。
@@ -7283,7 +7173,7 @@ quest_campaign_027_intro,"之後黑爾就陷入了沉默，在你們到達地穴
 quest_campaign_027_intro_travel_1,"在你們一路返回廢墟地穴的時候，黑爾看起來似乎有點高興，因為這次終於可以親自與你們一同長途跋涉，並肩作戰，她迫切的想要幫你們擊退那些惡魔和亡靈。
 
 “從我上次離開黯淡港灣算起，已經不知道過了多久了，”她邊走邊說，手裡的元素能爐隨著行走而不斷地前後甩動，“我的研究工作讓我必須待在城裡，但是偶爾放鬆休息一下，在這個維度中再次旅行的感覺也相當不錯。更別提這次的旅行要安全許多。”"
-quest_campaign_027_intro_travel_2,你們一臉疑惑的看著這個行維族人。“當然，我並不是說旅途中邂逅邪教徒和惡魔是什麼好事啦，不過當我上一次在這片大地上旅行的時候......好吧，我發誓永遠不再提起當時發生的事兒。”
+quest_campaign_027_intro_travel_2,你們一臉疑惑的看著這個艾斯泰爾人。“當然，我並不是說旅途中邂逅邪教徒和惡魔是什麼好事啦，不過當我上一次在這片大地上旅行的時候......好吧，我發誓永遠不再提起當時發生的事兒。”
 quest_campaign_027_list,關閉裂縫
 quest_campaign_027_name,炎禍裂縫
 quest_campaign_028_desc,瞭解潔索菈遺言的含義...
@@ -7313,8 +7203,8 @@ quest_campaign_030_intro_gh_1,“你是說銅頸山脈深處的某個地方，�
 quest_campaign_030_intro_gh_2,他緊張的笑了幾聲。“嗯，好吧，我會盡力幫助你們。讓我先從一些能夠把聲音從實體中分離出來的意識開始查起。”智元族學者話還沒說完就沉浸在思考當中，隨後他走到書架旁邊開始翻閱起各種書籍。
 quest_campaign_030_intro_gh_3,"你們決定先逛一逛市集，打發一下時間。而當你們回來的時候，看到智元族學者激動地向你們跑了過來。
 
-“我找到了！”他在你們面前揮舞著一本書，“一開始我碰了不少死胡同，直到後來我意識到這個神秘聲音並不是從實體中分離出來的，僅僅是只有聲音能夠穿透這個囚禁他的屏障而已， 這說明屏障本身由多層所組成，很有可能是行維族很久以前所創造的。”"
-quest_campaign_030_intro_gh_4,“所以我又研究了一下手裡所有關於行維族儀式的書籍——可惜資料也不太多，他們對於儀式這方面的事情總是不願多提——不過我還是幸運的找到了這本書。書上重點敘述了一個在被封印在銅頸山地區的惡魔，和你們提到的東西很像。很顯然這個惡魔太過強大，以至於行維族向薩維斯和巢靈族尋求了幫助。他們在書上寫道這個惡魔強大到可以讓整片大陸化為焦土。”
+“我找到了！”他在你們面前揮舞著一本書，“一開始我碰了不少死胡同，直到後來我意識到這個神秘聲音並不是從實體中分離出來的，僅僅是只有聲音能夠穿透這個囚禁他的屏障而已， 這說明屏障本身由多層所組成，很有可能是艾斯泰爾很久以前所創造的。”"
+quest_campaign_030_intro_gh_4,“所以我又研究了一下手裡所有關於艾斯泰爾儀式的書籍——可惜資料也不太多，他們對於儀式這方面的事情總是不願多提——不過我還是幸運的找到了這本書。書上重點敘述了一個在被封印在銅頸山地區的惡魔，和你們提到的東西很像。很顯然這個惡魔太過強大，以至於艾斯泰爾向薩維斯和巢靈族尋求了幫助。他們在書上寫道這個惡魔強大到可以讓整片大陸化為焦土。”
 quest_campaign_030_intro_gh_5,“如果它要求你們幫忙，還它自由，那我強烈建議你們千萬不要這樣做。雖然這些記錄的真實性還值得商榷，但無論那個神秘的聲音是什麼，他們囚禁在那兒一定是有原因的。”
 quest_campaign_030_intro_gh_6,"智元族學者終於不再揮舞書籍，而是把它拿在手裡開始翻頁閱讀：“事實上，如果你們能在洞穴之外聽到它的聲音，而且還對你們產生了如此之深的影響，那可能是因為屏障的力量正在減弱，正如同書籍作者警告的那樣。”
 
@@ -7323,7 +7213,7 @@ quest_campaign_030_intro_gh_7,你們與智元族告別，隨即動身前往神�
 quest_campaign_030_list,瞭解更多關於那個聲音的資訊
 quest_campaign_030_name,深淵神殿
 quest_campaign_031_desc,讓黑爾檢查奇怪的神器
-quest_campaign_031_intro,不能你們開口拒絕，你的眼前就陷入了一片黑暗。一開始你們感覺自己好像在墜落，但隨後就已經站在堅實的地面上。當你們的視線恢復時，你們開始打量周遭的環境。你們正站在一個滿是光滑黑泥的洞穴裡。還有惡魔在你們周圍——數之不盡的惡魔。
+quest_campaign_031_intro,不能你們開口拒絕，你的眼前就陷入了一片黑暗。一開始你們感覺自己好像在墜落，但隨後就已經站在堅實的地面上。當你們的視線恢復時，你們開始打量周圍的環境。你們正站在一個滿是光滑黑泥的洞穴裡。還有惡魔在你們周圍——數之不盡的惡魔。
 quest_campaign_031_intro_travel_1,"黑爾興奮地搓了搓手。
 
 “我實話告訴你，在今天，我才第一次沒後悔當初答應管你們這檔子破事。”她實事求是的說道。“元素容器！你們說這東西竟然一直就在我眼皮底下放著，真是令人驚訝，有些東西j竟是如此容易被遺忘。”"
@@ -7512,7 +7402,7 @@ quest_campaign_043_outro_gh_1,你們回來後，黑爾安靜地接過了沾滿�
 quest_campaign_043_outro_gh_2,“好了，在你們下水之前，將這顆水息珠咽到喉嚨裡，這樣它應該就能過濾出空氣供你們在水下呼吸了。”
 quest_campaign_043_outro_gh_3,“但這個過程中你們會感覺非常痛苦，而且上岸後還需要花很多時間才能把它取出來。我可一點都不羡慕你們能水下呼吸，不過這應該能讓你們完成任務。”
 quest_campaign_043_outro_gh_4,黑爾露出了一個咧到耳根的微笑。“我對此次研究結果感到非常滿意。感謝你們提供如此有趣的挑戰。現在請離開我的房子吧。”
-quest_campaign_044_desc,確保花晶族村落周遭的安全
+quest_campaign_044_desc,確保花晶族村落周圍的安全
 quest_campaign_044_intro,"之後瑞德索爾就陷入了沉默。她只是一言不發的做出手勢讓你們跟上。不久之後，他指向了前面的樹林。你們順著手指方向看去，一開始只是以為那是片普通樹林，但馬上就發現有些樹木的枝葉形狀有些奇怪——那正是隱藏在樹間的房屋。同時你們還注意到一些頭上長著角的人影在房屋周圍晃動。
 
 “羚牛族！希望還為時未晚！”瑞德索爾握緊了他的弓並俯下身子潛行，“來吧傭兵們，助我拯救族人，並將這些野蠻的生物盡數抹除！”
@@ -7602,7 +7492,7 @@ quest_campaign_050_outro_gh_3,再加上失去了你們的幫助，惡魔的攻�
 quest_campaign_050_outro_gh_4,接下來的幾周依舊困難重重。居民們開始重建城牆和這次戰爭中毀掉的一切。此外你的所作所為使他們需要更多的時間重新建立對你們的信任。
 quest_campaign_050_outro_gh_5,但黯淡港灣正在恢復往日的繁榮。因為這裡有著堅韌不拔的居民，還是貿易商路的重要節點。現在城裡的感覺再也不會回到之前那樣了，但至少還有一點家的味道。
 quest_campaign_051_desc,黑爾必須儘快與你見面
-quest_campaign_051_intro,"當你們的眼睛逐漸適應黑暗後，你們看到房間中央有一個黑色人影。隨著時間推移，你們逐漸認出這是一個手持雙劍的行維族人。
+quest_campaign_051_intro,"當你們的眼睛逐漸適應黑暗後，你們看到房間中央有一個黑色人影。隨著時間推移，你們逐漸認出這是一個手持雙劍的艾斯泰爾人。
 
 “我為這次收割已經等待了太久，”他詭笑著說道，“我曾一度說服自己，看著你們慢慢走向毀滅會更有趣。然而那些多管閒事的同胞和陣亡的部下讓我不得不重拾一開始的計畫。”
 
@@ -7720,7 +7610,7 @@ quest_campaign_060_intro_travel_2,然而，就在你們快要到達煉金大樓�
 quest_campaign_060_intro_travel_3,你們快速端詳著圍觀的人群，卻發現那名智元族研究員正驚慌失措地從大樓裡逃出來。她在慌亂之中瞥到了你們一眼，神情很快從驚訝變為了恐懼。
 quest_campaign_060_intro_travel_4,“屋夜偏逢連夜雨，”在你們抓住她的衣領後，她悲歎道，“好吧我知道，妄圖將你們引入樹林葬身於野獸之口是我不對。沒錯你們完全有理由生氣，我不怪你們。但如果你們想找回解藥的話時間可不多了。”
 quest_campaign_060_list,與智元族研究員對峙
-quest_campaign_060_name,煉金實驗室
+
 quest_campaign_060_scenario_modifier_1,在7回合之後，每回合開始時所有單位損失2點生命值。
 quest_campaign_061_desc,跟著記號找到前人留下的東西...
 quest_campaign_061_intro,"經過一番協調合作，你們終於登上了座能俯瞰南部山崖一座若隱若現的遠古燈塔不知為何被夾在你們面前的兩個位面之間。
@@ -7980,9 +7870,9 @@ quest_campaign_080_outro_travel_2,等到這些馬匹終於精疲力盡，停了�
 quest_campaign_080_outro_travel_3,你們暗暗的在心底記下了，以後要儘量躲開守夜人這個組織。
 quest_campaign_080_scenario_modifier_0,一名角色在拾取目標寶箱之前的所有攻擊附加劣勢且不能使用任何道具。
 quest_campaign_080_scenario_modifier_1,每名角色只能拾取一個目標寶箱。
-quest_campaign_081_desc,按照行維族人所指的方向找到硬幣描繪的地方...
+quest_campaign_081_desc,按照艾斯泰爾人所指的方向找到硬幣描繪的地方...
 quest_campaign_081_intro,這座建築物似乎已被遺棄，但一旦你們踏入建築，就將被這裡迷人的景色所震撼：一道永恆暮光跨越在穹頂之上。時間停滯在晨昏分界的那一刻，為整個房間渲染了一層奇異的光輝。然而在環顧四周之後，你們發現這裡似乎並不歡迎你們。一群光與暗的惡魔正不斷向你們逼近。
-quest_campaign_081_intro_travel_1,在你們前往那個行維族人所指地點的路上，天空變得烏雲密佈，而就在你們快要到達那座隱藏在匕首叢林之中的小神廟時，天上下起了毛毛細雨。
+quest_campaign_081_intro_travel_1,在你們前往那個艾斯泰爾人所指地點的路上，天空變得烏雲密佈，而就在你們快要到達那座隱藏在匕首叢林之中的小神廟時，天上下起了毛毛細雨。
 quest_campaign_081_list,進入特殊儀式地點
 quest_campaign_081_name,蝕之神廟
 quest_campaign_081_scenario_modifier_1,在每回合開始時，將光元素與暗元素移動至激發，將火，風，冰，土元素移動至惰化
@@ -8051,7 +7941,7 @@ quest_campaign_088_list,調查水域
 quest_campaign_088_name,水之位面
 quest_campaign_088_outro_gh_1,刹那間，你發現你已經回到了你的房間裡，而召喚師正在你的面前。
 quest_campaign_088_outro_gh_2,“我在研究的過程中犯了蠢，不小心被捉住了，”她說道，“你們找到了我留的訊息並且救下了我，請收下這根法杖吧，作為我感謝你們的證明。”
-quest_campaign_088_outro_gh_3,就在你們拿起法杖時，這個行維族人突然消失了。
+quest_campaign_088_outro_gh_3,就在你們拿起法杖時，這個艾斯泰爾人突然消失了。
 quest_campaign_088_scenario_modifier_1,所有角色及其召喚物的所有移動<sprite name=Move>技能將 -1 移動力<sprite name=Move>。
 quest_campaign_088_scenario_modifier_2,所有角色及其召喚物在每個回合結束時都將強制向水流的方向移動一格，除非他們所占的格子相對於水流方向的後方是障礙物或牆壁。如果他們因為其他生物、障礙物或者牆壁的阻擋而無法進行水流移動。則他們將會因此受到3傷害。水流移動的結算按照從場景地圖頂部到底部的順序依次進行。
 quest_campaign_088_scenario_modifier_3,持有潛伏者王爪的角色所有移動<sprite name=Move>技能將 -2 移動力<sprite name=Move>。
@@ -8121,6 +8011,9 @@ quest_campaign_095_name,貪婪深坑
 quest_campaign_095_outro_travel_1,不過一眨眼間，你們發現自己處於屍骸森林，站在那個魔鼠巢穴旁的黑暗坑洞邊緣。
 quest_campaign_095_outro_travel_2,你們覺得剛才就像是一場夢，但是這是發現剛才握在手中的黑色水晶球卻變成了一顆頭顱，正是從那個薩維斯身上砍下來的。
 quest_campaign_095_scenario_modifier_1,所有在水地格子結束行動輪的單位損失等同於劇本等級+1的生命值。
+================================================================================================================================================
+#endregion quest_campaign
+================================================================================================================================================
 quest_campaign_1_desc,黑土墳塚的說明
 quest_campaign_1_intro,黑土墳塚的前言
 quest_campaign_1_list,黑土墳塚的名單
@@ -8219,7 +8112,7 @@ quest_job_twotribes_list,當地部族的爭鬥已經升級為全面戰爭
 quest_job_twotribes_name,兩個部落
 quest_job_vermling_cave_desc,一個魔鼠部落得了一種怪病，病得很重。可悲的是，他們必須被消剷除
 quest_job_vermling_cave_intro,有消息稱，一群魔鼠染上了怪病，他們附近的居民擔心病毒會蔓延。這種怪病甚至還會導致魔鼠們的異常得暴力，所以想要接近他們的醫生都會遭到箭雨的襲擊。你前往他們藏身的洞穴，即使只從外面看，你也能感覺到這裡已被污染得徹徹底底。
-quest_job_vermling_cave_intro_01,你進入洞穴。在周遭你幾乎可以嘗到疾病的味道。
+quest_job_vermling_cave_intro_01,你進入洞穴。在周圍你幾乎可以嘗到疾病的味道。
 quest_job_vermling_cave_intro_02,你需要儘快完成任務。如果時間太長，你也會染病。
 quest_job_vermling_cave_intro_03,魔鼠部落的確染了怪病，但需要注意的是，他們可能傳播這種怪病！
 quest_job_vermling_cave_list,魔鼠部落染上了一種傳染病
@@ -9041,7 +8934,7 @@ scenario_campaign_004_success_4,在卷軸的標記上你還發現了這個區域
 scenario_campaign_004_success_5,看起來你可以選擇去打斷他們的工作，或者通過幫助清除對他們的威脅來贏得他們的好感。
 scenario_campaign_005_success_1,隨著邪教徒和他們的隨從的死亡，暗黑裂縫似乎暫時停止了活動。然而它仍舊讓人看得心裡發毛。你撿起了一塊石頭丟了進去，石頭卻消失在了虛無之中。
 scenario_campaign_005_success_2,你必須掂量掂量你能不能進入到裂縫之中，並且你能不能從這吞噬了石塊的地方倖存。
-scenario_campaign_005_success_3,或者說，想辦法彌合這些裂痕是更為保守謹慎的決定。在黯淡港灣有一個行維族魔術師，他可能更加瞭解這些關於跨越位面的東西。
+scenario_campaign_005_success_3,或者說，想辦法彌合這些裂痕是更為保守謹慎的決定。在黯淡港灣有一個艾斯泰爾魔術師，他可能更加瞭解這些關於跨越位面的東西。
 scenario_campaign_005_success_4,然而眾所周知的是，她在幫助任何人之前，首先會提出一些根本不可能完成的要求。
 scenario_campaign_006_objective_1,抵達藏寶室
 scenario_campaign_006_objective_2,殺死所有看到的敵人
@@ -11310,13 +11203,13 @@ thickdoor,門
 thornshooter,荊棘射手
 threehexobstacle,三格障礙物
 times,次
-tinkerer,機工巧匠
+
 tinkerer_adventure_description,"機工巧匠是智人族的一員。智人族是製作各種精密機械和藥劑的專家，經常使用這些工具勇敢地探索荒野，希望發現古老的奇物。
 作為大型團隊中最好的初始種族選擇之一，他擁有多種影響敵人或幫助盟友的能力。 當情況需要時，他的召喚物也可以從盟友身上帶走一些熱量。"
 tinkerer_description,機工巧匠是智人族的一員。智人族是製作各種精密機械和藥劑的專家，經常使用這些工具勇敢地探索荒野，希望發現古老的奇物。
-tinkerer_difficulty,中
+
 tinkerer_role,遠端輔助
-tinkerer_skin_alt,大師匠心
+
 tinkerer_strengths,"- <indent=%15>不錯的遠程技能</indent>
 - <indent=%15>高效的醫者</indent>
 - <indent=%15>團隊萬金油</indent>"
@@ -11370,23 +11263,23 @@ town_records_reachprosperity4_7,隨著人類文明在這片大陸上快速擴張
 town_records_reachprosperity4_8,但軍方在大陸各地徵收沉重的賦稅，這使得商人的憤恨日益加深，因為他們很大部份的收入都被不怎麼正當的理由掠奪一空。毫無作為的軍方只是通過剝削他人就可富到流油。
 town_records_reachprosperity4_9,不斷激化的矛盾最終在首都爆發。商人公會的領袖西蒙威恩萊特使用公會的資金雇傭了一支傭兵部隊發動了一場軍事政變並奪走了城市要塞的控制權。事實上這並不需要用多少兵力，因為城市衛兵只能以寡敵眾而且他們大多久疏戰陣。對要塞的圍攻僅僅持續不到兩天——周邊城市的援軍根本就來不及支援。
 town_records_reachprosperity5_1,當你們走進城鎮檔案館的大門，多明尼克從櫃檯後面跑過來迎接你。“這不是傭兵大人嗎，我正想找你！我有些東西要給你們看。”
-town_records_reachprosperity5_10,煉魔族宣佈放棄他們那種血腥的擴張主義，而兩個種族共同合作建立了一個商業與軍事並重的文明。大災變的故事僅在領袖之間口頭傳述。在和平協議簽訂經歷好幾代人之後，當初兩位統帥的後人開始著手建造一座新的城市以紀念這個協議。這座城市就建在當初那名行維族講述故事的地點。而這座城市就叫黯淡港灣。
+town_records_reachprosperity5_10,煉魔族宣佈放棄他們那種血腥的擴張主義，而兩個種族共同合作建立了一個商業與軍事並重的文明。大災變的故事僅在領袖之間口頭傳述。在和平協議簽訂經歷好幾代人之後，當初兩位統帥的後人開始著手建造一座新的城市以紀念這個協議。這座城市就建在當初那名艾斯泰爾講述故事的地點。而這座城市就叫黯淡港灣。
 town_records_reachprosperity5_11,你抬起頭看到多明尼克正目不轉睛地盯著你，臉上露出一抹微笑。
 town_records_reachprosperity5_12,“沒錯吧？”他說道，“你肯定也有著和我相同的疑問。我是說，首先這個大災變究竟是什麼？”
-town_records_reachprosperity5_13,他開始在房間裡來回踱步，而且好幾次踩在自己的長袍上差點被絆倒。“它是指某種大災難嗎？這個行維族人究竟說了些什麼，居然能夠制止這場全面戰爭？而且黯淡港灣竟然是建在某個古代都市的遺址之上！雖然我們都知道城市地底下有廢墟的存在，但我一直以為那是被掠奪者摧毀的早期人類定居點。除此之外，這個遺址居然比人類誕生還要更早？難道是這個大災變摧毀了這個古代都市嗎？”
+town_records_reachprosperity5_13,他開始在房間裡來回踱步，而且好幾次踩在自己的長袍上差點被絆倒。“它是指某種大災難嗎？這個艾斯泰爾人究竟說了些什麼，居然能夠制止這場全面戰爭？而且黯淡港灣竟然是建在某個古代都市的遺址之上！雖然我們都知道城市地底下有廢墟的存在，但我一直以為那是被掠奪者摧毀的早期人類定居點。除此之外，這個遺址居然比人類誕生還要更早？難道是這個大災變摧毀了這個古代都市嗎？”
 town_records_reachprosperity5_14,多明尼克清了清嗓子並整理著自己的鬍鬚，繼續說道：“這裡面，唉，顯然是有太多的疑問。沒有找到答案，我便無法繼續編寫下去。”
-town_records_reachprosperity5_15,“所有從煉魔族圖書館那裡調來的文獻我已經全部查閱過了，可是沒有一本提到那個行維族人所講述的故事內容。文獻上所說的那個故事只在領袖之間口口相傳，但這一點實在令人難以置信。我認為在某個地方肯定留有文本記錄。”
+town_records_reachprosperity5_15,“所有從煉魔族圖書館那裡調來的文獻我已經全部查閱過了，可是沒有一本提到那個艾斯泰爾人所講述的故事內容。文獻上所說的那個故事只在領袖之間口口相傳，但這一點實在令人難以置信。我認為在某個地方肯定留有文本記錄。”
 town_records_reachprosperity5_16,他轉身向著你聳了聳肩並說道：“在不久的將來我也許還需要你們的説明，不過現階段我會四處打探並設法收集更多關於大災變文本資料的消息。一旦我有任何新發現就會第一時間告訴你們。”
 town_records_reachprosperity5_2,他激動地握著你的手，然後轉過身，引領你們跟著他朝檔案館的後室走去。“我向南方大陸申請的書籍終於運到了，而且它們派上了大用場。通過這些書籍的描繪，我現在對於這場‘惡魔戰爭’有了更深的瞭解。”
 town_records_reachprosperity5_3,多明尼克打開後室的門，並示意你們坐下，同時他那本書就攤在你們的面前。“我想讓你們看看我最新完成的章節，然後我們再展開討論。”
 town_records_reachprosperity5_4,在人類文明擴張的早期，不可避免會與那些在南部大陸新興發展的煉魔族發生衝突。這兩個種族同樣對權力充滿了渴望，而最終“蘊風平原事件”成為了戰爭的導火索。雙方都宣稱對該地區有統治權，而聚居地之間零星的小規模武裝衝突很快就升級成為一場全面戰爭。
 town_records_reachprosperity5_5,這場戰爭持續了六年。兩個文明的所有精力都傾瀉在這片被鮮血染紅的平原之上。兩個種族同樣的狂熱、頑固，而且雙方都被難以控制的暴怒驅使著。
 town_records_reachprosperity5_6,六年過後，戰爭使兩個種族都傷痕累累。因為所有的資源都被投入到這場戰爭之中，兩個種族都被各種內憂外患而威脅著——饑荒、疫病、犯罪猖獗。用不了多久，兩個種族都將被這場戰爭的重負所拖垮，從而走向毀滅的道路。
-town_records_reachprosperity5_7,之後發生了一件事。兩軍的統帥準備進行一場花銷最高的大型戰爭，就在這時，一名行維族人出現在兩軍之間，並且對雙方提出了一個和平的方案。這是兩個種族第一次見到行維族，當他解釋方案的具體內容時，雙方的統帥都對其充滿了懷疑。然而，他們最終還是決定給這名行維族一個機會。
-town_records_reachprosperity5_8,兩軍的統帥既不互信也不相信這位陌生的行維族，所以當行維族人要兩軍統帥跟隨其前往東方，他們都各自帶了一個營的士兵隨行。然而，在幾天的行軍之後，一場大霧籠罩了整個平原，而兩位統帥很快就與自己的部隊失散了。他們獨自從霧中走出——只有兩位統帥和那名行維族站在一片巨大廢墟的中央，這裡滿是雜草從生的石堆，它們是來自於一個早已被遺忘的文明。
-town_records_reachprosperity5_9,站在這個廢墟的中央，那名行維族轉身給兩位統帥講述了一個故事。那是關於一場大災變以及他們兩個種族真正歷史的故事。當他說完故事之後，兩名統帥就當場達成了和解。
+town_records_reachprosperity5_7,之後發生了一件事。兩軍的統帥準備進行一場花銷最高的大型戰爭，就在這時，一名艾斯泰爾人出現在兩軍之間，並且對雙方提出了一個和平的方案。這是兩個種族第一次見到艾斯泰爾，當他解釋方案的具體內容時，雙方的統帥都對其充滿了懷疑。然而，他們最終還是決定給這名艾斯泰爾一個機會。
+town_records_reachprosperity5_8,兩軍的統帥既不互信也不相信這位陌生的艾斯泰爾，所以當艾斯泰爾人要兩軍統帥跟隨其前往東方，他們都各自帶了一個營的士兵隨行。然而，在幾天的行軍之後，一場大霧籠罩了整個平原，而兩位統帥很快就與自己的部隊失散了。他們獨自從霧中走出——只有兩位統帥和那名艾斯泰爾站在一片巨大廢墟的中央，這裡滿是雜草從生的石堆，它們是來自於一個早已被遺忘的文明。
+town_records_reachprosperity5_9,站在這個廢墟的中央，那名艾斯泰爾轉身給兩位統帥講述了一個故事。那是關於一場大災變以及他們兩個種族真正歷史的故事。當他說完故事之後，兩名統帥就當場達成了和解。
 town_records_reachprosperity6_1,“啊，很高興得知你們收到了我的便條。”多明尼克在跟你握手之後便異常安靜地將你們領到後室，然後鎖上了門。
-town_records_reachprosperity6_2,“我認為我已經找到了答案，這正是我們苦苦追尋的關鍵線索，”他開口說道，“我猜的沒錯。 當初那位行維族所講述的故事確實留有文本記錄。它被記錄在‘指引法典’之中——那一本書只有各地區的最高長官才可以閱讀。”
+town_records_reachprosperity6_2,“我認為我已經找到了答案，這正是我們苦苦追尋的關鍵線索，”他開口說道，“我猜的沒錯。 當初那位艾斯泰爾所講述的故事確實留有文本記錄。它被記錄在‘指引法典’之中——那一本書只有各地區的最高長官才可以閱讀。”
 town_records_reachprosperity6_3,“曾經有一份副本被運送來黯淡港灣。但是別擔心，你們不必闖入幽魂堡來搶奪它。因為它永遠不會被運到那裡。”
 town_records_reachprosperity6_4,多明尼克專注地凝視著你們，說道：“我花了很多功夫，總算調查到城裡有一個衛兵，他就是當年負責護送運輸車的衛兵。車隊從首都出發，很明顯在途經匕首叢林南端附近就遭到了一夥羚牛族人的襲擊。”
 town_records_reachprosperity6_5,“這個守衛被俘後曾被帶到羚牛族的營地，之後他設法逃了出來，並且回到了黯淡港灣。奇怪的是，從來沒有人被派去尋找那個營地，更沒有人去奪回被掠走的貨物。也許他們只是不想再次激起羚牛族的怒火而已。”
@@ -11398,7 +11291,7 @@ town_records_scenario051complete_10,他的笑容稍稍恢復。“我會把這�
 town_records_scenario051complete_2,“我研究了一下你們在虛影迷域的房間牆上所拓寫的文字，這給我提供了不少有關‘黯’的資訊。”
 town_records_scenario051complete_3,多明尼克把他的書打開放在你們面前。“請允許我將黯淡港灣歷史的最後一段朗讀給你們聽。”
 town_records_scenario051complete_4,關於穿越維度旅行的研究實際上是某人的想法——探索者巴斯蒂安。就在他醉心於異世界事物的研究時，一個難以想像的強大存在穿越無限維度向巴斯蒂安呼喚著，並入侵進而腐化了他的夢想。這個存在之物許諾給予巴斯蒂安超越任何一個維度所能蘊含的力量與知識。巴斯蒂安於是致力研究怎樣可以打開一道空間裂縫，以便能夠將當前所處的維度與那個存在之物所處的維度相聯結。他已經被貪婪與邪惡吞噬並控制，裂縫終於打開了，大災變也即將開始，就在這時，那個不可名狀的邪惡存在毫不費力便融入了巴斯蒂安的身體之中，他就此成為了我們所知的“黯”。
-town_records_scenario051complete_5,根據行維族學者們的推測，這個邪惡的存在並沒有自己的形體，它只是單純地從一個維度穿越到另一個維度，佔據所尋找到的容器，並以散播死亡與破壞為樂。據說這股邪惡的存在是永生不滅的。如果它所佔據的容器被毀了，它只需要在當前或者下一個維度之中尋找一個新的容器，便可繼續作惡。
+town_records_scenario051complete_5,根據艾斯泰爾學者們的推測，這個邪惡的存在並沒有自己的形體，它只是單純地從一個維度穿越到另一個維度，佔據所尋找到的容器，並以散播死亡與破壞為樂。據說這股邪惡的存在是永生不滅的。如果它所佔據的容器被毀了，它只需要在當前或者下一個維度之中尋找一個新的容器，便可繼續作惡。
 town_records_scenario051complete_6,多明尼克把書關上：“感謝你們為我撰寫這段歷史提供如此多的幫助，而且真心希望這是我們最後一次遇上‘黯’ 。”
 town_records_scenario051complete_7,多明尼克臉上的笑容轉眼就消失了，他心神不寧地拿出了一張紙：“那個，還是有一件事請讓我感到躊躇。這是我在虛影迷域找到的一段文字，然而我無法將它破譯。這與我在北方見到過的某種魔法符文有著許多相似之處，但是在字形上卻有所不同。”他說完就默不作聲地將紙片遞給了你。
 town_records_scenario051complete_8,你仔細研究了這些符文，但並沒有辦法認出來。你搖搖頭：它們對你來說毫無意義。
@@ -11422,14 +11315,14 @@ town_records_scenario073complete_12,帶著強烈的渴望，遠古人開始著�
 town_records_scenario073complete_13,基於這種願望，一道聯接另一個維度的時空裂隙被創造出來，但一場浩劫也隨之降臨於世。那個維度裡完全沒有遠古人所追尋的無盡真理，卻只有夢魘般的生物——惡魔，牠們把遠古人所珍稀的一切全部摧毀。儘管遠古人擁有如此強大的知識和工具，他們的城市和同胞還是被盡數毀滅。城市的高牆變成了碎石，家人被撕成碎片、生吞活剝，而倖存者們逃亡到洞穴裡，在黑暗中擠成一圈，等待著末日的到來。
 town_records_scenario073complete_14,這就是所謂的大災變......
 town_records_scenario073complete_15,“故事還不完整，”多明尼克說道，“但它是一個開端。它解答了我諸多的問題，但我還有更多的疑問。如果我手上有更多的線索，到時我會再通知你們的。”
-town_records_scenario073complete_2,“才過了這麼短的時間就再次見到你們使我感覺有點不可思議。很明顯你們前不久才把‘指引法典’交給我，但通常來說我需要花費更長的時間來研究這本書以使我能將那個行維族人的故事撰寫出來，不......我們現在面臨著一個大麻煩。”
+town_records_scenario073complete_2,“才過了這麼短的時間就再次見到你們使我感覺有點不可思議。很明顯你們前不久才把‘指引法典’交給我，但通常來說我需要花費更長的時間來研究這本書以使我能將那個艾斯泰爾人的故事撰寫出來，不......我們現在面臨著一個大麻煩。”
 town_records_scenario073complete_3,像平常一樣，多明尼克帶著你們來到了後室，但是當多明尼克打開房門的時候，你們看到整個房間一片狼藉，桌子被翻倒在地，被撕毀的書籍散落一地。
 town_records_scenario073complete_4,“他們帶走了所有東西，”多明尼克歎了口氣，“他們帶走了法典，還有我的書......簡直就是一幫土匪。”
 town_records_scenario073complete_5,他注意到你們既迷茫又憂心的神情，然後接著說道：“他們自稱是守夜人，說我碰到了不該去碰的東西。就在你們離開沒多久，當我正在醉心研究法典的時候，他們全副武裝沖了進來。他們說自己是負責保護‘指引法典’的安全，沒收了法典的副本，並且檢查是否還有其他抄本，最終搶走了我正在撰寫的那本黯淡港灣歷史。”
 town_records_scenario073complete_6,多明尼克將一本被毀的書摔在地上。“簡直令 人髮指！守夜人？以聖橡樹之名，那些守夜人以為自己是誰呀？放屁！我看是原始人還差不多！看看他們是怎樣對待這些書的呀！”
 town_records_scenario073complete_7,多明尼克閉上眼睛，深深吸了一口氣，然後臉上露出了一絲微笑。“不過， 現在我們有兩件事情要做的。第一件事就是我們一定要把那些書搶回來。首先要聯繫我的眼線，也許還要做一些調查。查明那些該死的守夜人真正的身份，然後找出他們的藏身之處，最後就需要你們去把他們殺個精光。”
-town_records_scenario073complete_8,“第二件事就是我有著超強的記憶力。”多明尼克從長袍裡拿出一團被揉成球的紙，然後將那張紙慢慢攤開，說道：“當那些暴徒揮著利劍沖進來的時候，關於那段行維族所講的故事，我已經閱讀將近一半。我認為這份手抄本的轉錄應該還蠻精確的。”
-town_records_scenario073complete_9,以下就是行維族納萊特對兩軍統帥所講述的惡魔戰爭時期的故事：
+town_records_scenario073complete_8,“第二件事就是我有著超強的記憶力。”多明尼克從長袍裡拿出一團被揉成球的紙，然後將那張紙慢慢攤開，說道：“當那些暴徒揮著利劍沖進來的時候，關於那段艾斯泰爾所講的故事，我已經閱讀將近一半。我認為這份手抄本的轉錄應該還蠻精確的。”
+town_records_scenario073complete_9,以下就是艾斯泰爾納萊特對兩軍統帥所講述的惡魔戰爭時期的故事：
 town_records_scenario077complete_1,噢，我的天，你回來了，在你進入城鎮檔案館時多明尼克興奮的跳了起來，他快步跑向你，以至於被他的長袍絆倒，臉摔在了地上。
 town_records_scenario077complete_10,多明尼克聳了聳肩：“我會多花些時間調研相關的文獻，但是我不確定要怎麼做才能找到突破口。在我閱讀過的所有書籍中，直到現在才第一次看到有關‘黯’的內容。”
 town_records_scenario077complete_11,“等我有所發現的時候就會告知你們。”
@@ -11440,7 +11333,7 @@ town_records_scenario077complete_5,看到整個世界破敗不堪，滿目瘡痍
 town_records_scenario077complete_6,一群逃往大陸南方的遠古人倖存者被“黯”所俘獲，並被惡魔之血感染。結果造就了一個難以辨認的全新種族，一個充滿動物野性，一半像人類，一半像惡魔的種族。
 town_records_scenario077complete_7,之後“黯”就在觀望著，等待著它默默地注視著，終於人類從洞穴之中走出並再次重建自己的文明。它很高興看到人類那種傲慢的性格，他們不斷擴張自己的領土並從難以應付的荒野之上一點點奪回自己的土地。“黯”一手創造了這兩個種族，它等待著這兩個種族在戰場上兵戎相見並徹底摧毀彼此的那一天。
 town_records_scenario077complete_8,“黯......”多明尼克喃喃自語道。“每當我覺得能觸到事情真相的最深處時，就會有新的東西浮現出來。”
-town_records_scenario077complete_9,他一屁股坐倒在椅子上。“這聽起來不太妙。我猜那個行維族人說服了兩軍領袖讓他們停止戰爭，免得讓‘黯’的計畫如願以償，然而守夜人組織似乎堅信‘黯’有朝一日會回來不由分說地將我們全部毀滅。我現在真的不知道該怎麼想才對呢。”
+town_records_scenario077complete_9,他一屁股坐倒在椅子上。“這聽起來不太妙。我猜那個艾斯泰爾人說服了兩軍領袖讓他們停止戰爭，免得讓‘黯’的計畫如願以償，然而守夜人組織似乎堅信‘黯’有朝一日會回來不由分說地將我們全部毀滅。我現在真的不知道該怎麼想才對呢。”
 trainerdialogname,教官
 transferdooms,轉移厄運
 
