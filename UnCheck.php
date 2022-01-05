@@ -4465,9 +4465,6 @@ gui_confirm_push,確認推遠
 gui_confirm_targets,確認目標
 gui_confirm_use_item,使用物品
 
-
-gui_confirmation_buy,購買{0}
-gui_confirmation_buy_cost,成本
 gui_confirmation_cancel_ability,{0}將被燒祭，此卡中的任何其他場上的卡牌獎勵將結束
 gui_confirmation_cancel_discard_ability,{0}將被棄置
 gui_confirmation_enable_perk,獲得{0}個{1}/{2}
@@ -4603,7 +4600,7 @@ gui_enhancement_card_cant_be_enhanced,"這個<sprite name=""Card_Icon"">技能�
 gui_enhancement_card_fully_enhanced,"這個<sprite name=""Card_Icon"">技能卡已經<color=#CEAD5A>完全提升</color>"
 gui_enhancement_card_not_enhanced,"這個<sprite name=""Card_Icon"">技能卡<color=#CEAD5A>未被提升</color>"
 gui_enhancement_cards_enhanced,"所有<sprite name=""Card_Icon""> 技能卡都已<color=#CEAD5A>完全提升</color>"
-gui_enhancement_cost_base,基本成本
+
 gui_enhancement_cost_card_level,卡牌級別
 gui_enhancement_cost_existing,現有的技能卡提升
 gui_enhancement_cost_original,原價
@@ -5743,11 +5740,6 @@ lavagolem,Lava 魔像
 
 livingbomb,不死炸彈
 
-loading_tip_001,儘量選擇承受傷害，損失相應的生命值，而不是選擇燒祭卡牌來抵擋傷害——比起恢復燒牌堆的卡牌，回復生命值更容易！
-
-loading_tip_003,你可以使用強推和拉近技能來強迫敵人觸發陷阱。
-
-loading_tip_006,使用<align=center><b>R</b><color=#CCCCCC>鍵來旋轉AOE技能的攻擊區域，以便與敵人們的站位更加貼合。
 loading_tip_007,不要只專注於你自己，也要和你其他的團隊成員一起配合。
 loading_tip_008,卡牌上半部分的移動能力和下半部分的攻擊能力並不常用，但在某些特殊情況下也不失為一種選擇。
 loading_tip_009,如果你發現當前關卡過難或過於簡單，你可以隨時根據自己的喜好調整難度。
@@ -6343,9 +6335,9 @@ mindthief,心靈竊賊
 mindthief_adventure_description,"心靈竊賊通過使用精神攻擊、鋒利的刀片和鼠群的小牙齒來成為可怕的對手。
 有一個獨特的角色特效賦能攻擊系統，允許她為她所有的近戰進攻添加賦能特效，成長之後她的一些遠程進攻也擁有賦能特效。 她還可以控制敵人和召喚小兵，因而做到許多的玩法可能。 敬請注意她較少的生命值。"
 mindthief_description,心靈竊賊通過使用精神攻擊、鋒利的刀片和鼠群的小牙齒來成為可怕的對手。
-mindthief_difficulty,高
+
 mindthief_role,近戰輸出
-mindthief_skin_alt,巫醫
+
 mindthief_strengths,"- <indent=%15>強大而多樣的角色特效賦能系統</indent>
 - <indent=%15>能夠心靈控制敵人</indent>
 - <indent=%15>擁有好用的召喚物</indent>"
