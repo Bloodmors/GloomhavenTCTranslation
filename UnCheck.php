@@ -4491,10 +4491,10 @@ gui_confirmation_turn_off_tutorial_multiplayer,多人遊戲已開始，教學將
 gui_consume_element,消耗{0}
 gui_consume_items_tip,在輪次開始之前選擇消耗1個 {0}
 gui_consume_items_title,消耗1個 {0}
-gui_continue,繼續
+
 gui_continue_personal_quest_progression,繼續個人任務
 gui_copy,複製
-gui_core_quest,核心任務
+
 
 
 gui_create_character_class_roster_descr,選擇角色職業
@@ -5089,7 +5089,6 @@ gui_quest_completed,完成
 gui_quest_completed_rewards,任務完成！
 gui_quest_completed_rewards_close,獲得獎勵！
 gui_quest_completed_unavailable_rewards,沒有更多的獎勵能提供了，您已經完成了這個劇本。
-gui_quest_enemies,敵人:
 
 gui_quest_group_completed,已完成任務數
 gui_quest_group_job,角色職業
@@ -5325,7 +5324,7 @@ gui_town_records_intro_story_2,你的腦海中醞釀著一個想法，於是您�
 gui_town_unlocked_notification,你已經解鎖了黯淡港灣的城鎮記錄！
 gui_trainer_introduction,歡迎來到訓練營。此屏包含所有您可以去追求的遊戲成就及其獎勵。初始階段最重要的成就和獎勵是逐步解鎖地圖的探索任務，您完成任何成就後請返回此處兌換獎勵！
 gui_trainer_title,艾諾克斯教官
-gui_travel,旅行
+
 gui_turn_off_tutorial,關閉教學
 
 gui_tutorial_01_description,近戰進攻和移動
@@ -5397,7 +5396,6 @@ infiltrator,潛伏者
 infuse,元素充能
 init,Init.
 
-innate,天生的
 innate_shieldbasedonnumberofdeadxspresent,護甲值等於{0}{1}死去{2}的數量
 innate_shieldbasedonnumberofxspresent,護甲值等於 {0} {1} 目前 {2} 的數量
 innate_strengthispercentageofcurrenthp,攻擊值等於當前生命值的 {0}% ，向上圓整。
@@ -6363,7 +6361,7 @@ monstrousrat,巨鼠
 
 move_straightline,這個移動必須在一條直線上。
 movecost,所需移動
-movement,移動力
+
 muddle,混亂
 muddleshort,混亂
 mudview,三河匯社區
@@ -11471,7 +11469,7 @@ unlockmerchant,解鎖商人
 unlockquest,解鎖新人物
 unlocktemple,解鎖寺廟
 unlocktrainer,解鎖教官
-unnamedlocation,未命名地點
+
 
 v_sync_quality_every_second_v_blank,垂直行掃描每秒60幀
 v_sync_quality_every_v_blank, 垂直行掃描每秒30幀
