@@ -1888,11 +1888,11 @@ copperneckmountains,Copperneck Mountains
 corpsewood,Corpsewood
 covenofbones,Coven of Bones
 cragheart,Cragheart
-cragheart_adventure_description,"Craghearts are Savvas who were exiled for being incapable of mastering an element. Their core is shattered to mark them for life.
+cragheart_adventure_description,"were exiled for being incapable of mastering an element. Their core is shattered to mark them for life.
 They have a wide range of abilities and reasonable health meaning they can be used in a defensive melee role, as a ranged damage dealer or even a healer in a pinch. Prioritise using Earth Mana to get the most out of their abilities."
 cragheart_description,Craghearts are Savvas who were exiled for being incapable of mastering an element. Their core is shattered to mark them for life.
 cragheart_difficulty,Medium
-cragheart_role,Damage/Support
+
 cragheart_skin_alt,Boulderfist
 cragheart_strengths,"- <indent=%15>Can place and interact with obstacles</indent>
 - <indent=%15>Versatile with melee & ranged options</indent>
@@ -7147,7 +7147,7 @@ message_unlock_sunkeeper_2,She is now available to add via the character menu.
 millpond,Millpond
 minderer,Minderer
 mindthief,Mindthief
-mindthief_adventure_description,"Mindthieves make terrifying opponents through the use of psychic assaults, sharp blades, and swarms of tiny teeth.
+iption,"Mindthieves make terrifying opponents through the use of psychic assaults, sharp blades, and swarms of tiny teeth.
 The Mindthief has a unique Augment system, allowing her to add effects to all of her melee attacks, and later her ranged also. She additionally can control enemies and summon minions to give access to a lot of different gameplay options. Be wary of her low health, however."
 mindthief_description,"Mindthieves make terrifying opponents through the use of psychic assaults, sharp blades, and swarms of tiny teeth."
 mindthief_difficulty,High
@@ -11984,8 +11984,7 @@ scenarioability_untargetable,Untargetable by all abilities.
 schoolofthegreatoak,School of the Great Oak
 schoolofthegreatoak_descr,"The School is build around a huge oak tree, with various rooms and platforms built off its branches. Monks and healers are trained here, and sent to temples such as the one in Gloomhaven to help tend the sick and needy."
 scoundrel,Scoundrel
-scoundrel_adventure_description,"Scoundrels are self-serving and opportunistic. They believe that everything is theirs and will do anything to make sure it becomes so.
-She excels at high damage melee attacks, identifying lone targets and also gaining bonuses from working close to her team mates. She is a loner however, so don't expect her to help other party members apart from killing their attackers."
+
 scoundrel_description,Scoundrels are self-serving and opportunistic. They believe that everything is theirs and will do anything to make sure it becomes so.
 scoundrel_difficulty,Low
 scoundrel_role,Melee Damage
@@ -12085,9 +12084,7 @@ southshield_descr,"The Southernmost village in the area, South Shield is the sto
 spanish,Spanish
 spellshields,Spellshields
 spellweaver,Spellweaver
-spellweaver_adventure_description,"Spellweavers are Orchid sages able to draw forth powerful natural forces and craft them into concentrated attacks.
-They are great at dealing out damage at range, but due to their low health are pretty fragile, so keep them out of combat. The Spellweaver's most important ability is Reviving Ether, allowing her to Burn more cards than other characters and recover them in an adventure, but be careful not to use it too early."
-spellweaver_description,Spellweavers are Orchid sages able to draw forth powerful natural forces and craft them into concentrated attacks.
+spellweaver_adventure_description,"
 spellweaver_difficulty,High
 spellweaver_role,Ranged Damage
 spellweaver_skin_alt,Crystal Archivist
