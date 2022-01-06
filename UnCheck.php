@@ -1193,133 +1193,6 @@ adventure_achievement_tinkerer_3_desc,機匠使用20次回收燒祭卡牌或回�
 ================================================================================================================================================
 #endregion adventure_achievement
 ================================================================================================================================================
-
-abandonedfarm_descr,一個廢棄的農場就位於通往奇波特港的大道旁邊。 林煙的氣味在這裡縈繞，大部分的屋頂已經坍塌，但仍有一些房間可以住一晚。
-
-addaugment,增加角色特效賦能
-addheal,增加回血量
-addrange,增加射程
-addsong,額外的戰歌容量
-addtarget,增加目標數
-adjacentalliesandenemies2damage,在目標旁邊的所有敵軍和盟友受到2點傷害。
-affect_alladjacentallies,作用於所有相鄰的盟友
-affect_alladjacentsummonedallies,作用於所有相鄰的召喚物夥伴
-affect_allallies,作用于所有盟友
-affect_allalliesmovedthrough,作用於所有移動經過的盟友
-affect_allallieswithin,作用於以下範圍內的盟友：
-affect_allsummonedallies,作用於所有召喚物夥伴
-affect_anyoneally,作用于任意單個盟友
-affect_oneadjacentally,作用於單個相鄰的盟友
-affect_oneallywithinrange3,作用於以下範圍內的單個盟友： <nobr>射程<sprite name=Range> 3</nobr>
-affect_selfandalladjacentallies,作用於自身和所有相鄰的盟友
-affect_selfandallallies,作用於自身和所有盟友
-affect_selfandallalliesinrange2,作用於自身和以下範圍內的所有盟友：<nobr>射程<sprite name=Range> 2</nobr>
-affect_selfandallsummonedallies,作用於自身和所有召喚物夥伴
-allconditions,所有狀態
-allenemies2damage,所有敵軍遭受2點傷害。
-amberhill,琥珀嶺村
-amberhill_descr,琥珀嶺村位於惡魔閘口鎮和奇波特港的路線中間。 它是一個中等規模的農業社區，向兩邊的城鎮供應糧食和蔬菜。
-
-and,和
-
-antialiasing_render_dlaa,DLAA
-antialiasing_render_fxaa,FXAA
-antialiasing_render_fxaa1presetb,FXAA1預設B
-antialiasing_render_nfaa,NFAA
-antialiasing_render_smaa,SMAA
-antialiasing_render_ssaa,SSAA
-antialiasing_render_taa,TAA
-arcanegolem,秘法魔像
-ashenswordbarrow,阿什斯伍德之墓
-atendofturn,在輪次的結束
-attack,攻擊
-attack_area,攻擊範圍
-attackersgaindisadvantage,攻擊者們陷入劣勢進攻
-attacksapply,攻擊中附加
-attacksinfuse,在攻擊中元素充能
-augment,角色特效賦能
-augment_discardreminder,當你的另一張<nobr><color=#A7B3D2>角色特效賦能</color> <sprite name=Augment></nobr>被打出，棄置這張卡。
-augment_onyourmeleeattacks,你的近戰進攻：
-aura,光環
-
-banditcommander,強盜指揮官
-
-battleboar,豪豬
-battlebot,戰鬥機器
-============================================================================
-============================================================================
-============================================================================
-beartrap,陷阱
-beasttyrant,獸王
-beasttyrant_adventure_description,超越他們基本本能的魔鼠發現，如果在荒野中的野獸身上應用他們的意念，他們會受益多多。獸王們可以聚集帶著尖牙、獸爪和禽爪的驚人的軍隊，這讓他們在戰鬥中成為強大的對手
-beasttyrant_difficulty,中
-beasttyrant_role,近戰輸出/召喚
-beasttyrant_strengths,"- <indent=%15>開始就有一頭強力的熊夥伴</indent>
-- <indent=%15>與所有盟友召喚物合作地很好</indent>
-- <indent=%15>大量群體技能</indent>"
-beasttyrant_weaknesses,"- <indent=%15>熊精疲力盡時會很弱</indent>
-- <indent=%15>應該遠離近戰肉搏</indent>
-- <indent=%15>衣服上總是聞起來有股“肉味”</indent>"
-beasttyrantbear,獸王的熊
-beasttyrantbear_tooltip,"<b><size=120%><sprite name=""Heal"">： {0}   <sprite name=""Move"">： {1}   <sprite name=""Attack"">： {2}   <sprite name=""Range"">： {3}</size></b>
-<line-height=50%>
-<line-height=100%>熊直接在獸王之前行動。
-<line-height=50%>
-<line-height=100%>你可以燒祭卡牌來阻止對熊的傷害。當熊的血量掉到1點以下時，它精疲力盡，不能再回到劇本中。
-<line-height=50%>
-<line-height=100%>獸王特有“口令”行動，它允許熊去代替獸王執行技能卡。"
-berserker,狂羚戰士
-berserker_adventure_description,狂羚戰士們是那些已經投身於他們的力量和憤怒的艾諾克斯戰士。狂羚戰士將會竭盡全力保護她的朋友們的安全，甚至不惜犧牲她自己的生命。她的技能圍繞著高輸出，通過自我傷害將輸出推到更高的數值。這使她成為一個極其危險的戰鬥人員，無論是對她的敵人還是她自己
-berserker_difficulty,高
-berserker_role,近戰輸出
-berserker_strengths,"- <indent=%15>所有最高傷害輸出角色中的一個</indent>
-- <indent=%15>越瀕臨死亡越強</indent>
-- <indent=%15>能站在前排吸引敵人火力</indent>"
-berserker_weaknesses,"- <indent=%15>沒有幫助盟友的技能</indent>
-- <indent=%15>控制血量很難，做不好會導致她過早死亡</indent>
-- <indent=%15>情緒有憤怒管理問題</indent>"
-
-blackrockasylum,黑石瘋人院
-blackrockasylum_descr,從草原隱約可見黑石瘋人院的宏偉建築，這是一座古老的野戰醫院，現在用於那些被認為無法治癒或不願治療的人。當病人進入時身上稀有的魔法物品會被征繳，他們會抽時間加高價出售這些物品。
-blackunicorn,黑色獨角獸
-
-blightedkeep,枯萎堡壘
-bloatedregent,攝政王行屍
-bloodford,血色灘
-bloodford_descr,魔人城戰爭中一場偉大戰役的發生地，有人說這條河每到滿月仍然是紅色的。
-boneranger,骷髏弓箭手
-bonerangerelite,骷髏弓箭手精英
-boneshatterpass,碎骨走廊
-boneshatterpass_descr,這個採石場幾乎沒有生命跡象。搖搖欲墜的舊工棚風呼嘯而過，但仍然可以購買一些舊設備。
-boss,Boss
-boss_addhexesmovedtoattackbufftext,增加暗黑騎士這一輪已經移動的格子數量用以攻擊。
-boss_banditcommander_special1,移動到下一個門並顯露房間
-boss_baseattackstrengthisequalto,基礎攻擊值等於
-boss_darkrider_addhexesmovedtoattack,這個 X 是黑暗騎士這一輪已經移動的格子數量
-boss_elderdrake_special1,飛到另一個棲息處
-boss_mercilessoverseer_special1,所有斥候再行動一次
-boss_numberofplayerspresent,雇傭兵加上{0}的數量
-boss_numberofxspresent,當前{0}的數量
-boss_primedemon21_special,傳送祭壇和召喚魔怪
-boss_thebetrayer_fear,強迫所有雇傭兵和他們的召喚物去先手進行<nobr>“移動<sprite name=Move> 4”</nobr>，終點盡可能的遠離暗靈叛徒。
-boss_thebetrayer_teleport,強迫所有的雇傭兵和他們的召喚物移動到最相鄰的格子，然後強迫一個雇傭兵代替他們的輪次執行以下行動：
-boss_wingedhorror_special1,孵化所有的蛋
-
-brute_adventure_description,"蠻徒利用他巨大的體型和力量去支配他巨大的劍和令人印象深刻的盾牌，受雇于向那些出價最高的人以謀生。
-蠻徒們最好用作近戰部隊頂在前排吸收傷害，保護後排脆弱的遠端輸出，並最好裝備使他們長時間續命的物品！"
-brute_description,蠻徒利用他巨大的體型和力量去支配他巨大的劍和令人印象深刻的盾牌，受雇于向那些出價最高的人以謀生。
-
-brute_role,近戰輸出/肉盾
-brute_skin_alt,骷髏甲
-brute_strengths,"- <indent=%15>高生命值，擁有很多防禦技能</indent>
-- <indent=%15>成長初期就能夠擊暈或繳械敵人</indent>
-- <indent=%15>擅長利用蠻力推動敵人</indent>"
-brute_weaknesses,"- <indent=%15>較低的機動性</indent>
-- <indent=%15>可憐的攻擊範圍</indent>
-- <indent=%15>不是旅行路上健談的盟友</indent>"
-burnedtavern,燃燒酒館
-burnedtavern_descr,舊酒館的遺跡見證了那些快樂的時光。近年來，強盜們的掠奪以及對著南邊的石化森林裡那些不堪提及的生物窺視的視線使酒館業主們望而卻步。標牌“快樂灶爐”在微風中淒涼地吱吱作響。
-burningavatar,燃燒幻象
 ============================================================================
 #region campaign_achievement
 ============================================================================
@@ -1353,13 +1226,6 @@ campaign_achievement_townrecords_chapter_09_desc,章節 9
 ============================================================================
 #endregion campaign_achievement
 ============================================================================
-campaign_siegecannon,如果一名弓箭手到達大炮後面的三個格子，它就會開火，傷害所有大炮前面三排格子的雇傭兵和他們的召喚物。
-cancel_button,取消
-captainoftheguard,守衛官
-captive,俘虜
-card,卡牌
-
-
 ============================================================================
 #region combat_log
 ============================================================================
@@ -1407,7 +1273,7 @@ combat_log_discard_cards_name,丟棄{0}
 combat_log_doom,{0}對{1}施加了厄運
 combat_log_draw_attack_modifier,{0}抽到一張{1}攻擊修正卡牌
 combat_log_draw_attack_modifiers,{0}抽到{1}和{2}攻擊修正卡牌
-combat_log_enhancements,觸發技能提升
+combat_log_enhancements,觸發能力卡強化
 combat_log_failed_summon,{0}未能召喚{1}
 combat_log_failed_trap,{0}無法放置{1}
 combat_log_fear,{0}因恐懼{1}遠離{2}個格子
@@ -1425,7 +1291,7 @@ combat_log_immune,{0}可防止{1}至{2}
 combat_log_infuse_element,{0}元素正在被充能
 combat_log_infusing_element,{0}正在對{1}元素進行充能
 combat_log_invulnerable,{0}因免傷而受到了<b><color=#f76767> 0 </color></b>點傷害
-combat_log_kill,{0}殺死了{1}
+	combat_log_kill,{0}殺死了{1}
 combat_log_long_rest,{0}進行長休息，並燒毀了{1}
 combat_log_long_rest_no_card,{0}進行長休息
 combat_log_loot,{0}拾取了{1}
@@ -1442,7 +1308,7 @@ combat_log_pull_multiple,{0}把{1}拉近了{2}個格子
 combat_log_push,{0}把{1}推遠了{2}個格子
 combat_log_push_multiple,{0}把{1}推遠了{2}個格子
 combat_log_ready_player,<color=#A3DA77>{0}已準備就緒！
-combat_log_recover_all_discarded_cards,回手所有棄牌區的卡牌
+	combat_log_recover_all_discarded_cards,回手所有棄牌區的卡牌
 combat_log_recover_all_lost_cards,回手所有燒毀區的卡牌
 combat_log_recover_discarded_cards,回手{0}張棄牌區的卡牌
 combat_log_recover_discarded_cards_name,回手了棄牌區的卡牌 {0}
@@ -1460,125 +1326,13 @@ command,角色特效口令
 ============================================================================
 #endregion combat_log
 ============================================================================
-
-consumeitemcards,消耗物品卡牌
-controlactor,心靈控制
-controlenemy,心靈控制
-
-covenofbones,科文的骨頭
-
-cragheart_adventure_description,"岩石心們是薩維斯中那些因無法掌握一種元素而被流放的人。他們的核心被粉碎，用以終生標記他們。
-他們有大量的技能和合理的生命值，這代表，作為一個遠端輸出或是關鍵時候的治療師，他們卻可以充當近戰防禦角色。請優先使用土元法力來充分利用他們的能力。"
-cragheart_description,岩石心們是薩維斯中那些因無法掌握一種元素而被流放的人。他們的核心被粉碎，用以終生標記他們。
-
-cragheart_role,輸出/輔助
-
-cragheart_strengths,"- <indent=%15>高生命值加上好用的治療技能</indent>
-- <indent=%15>合理的近戰和遠程搭配</indent>
-- <indent=%15>擁有大量的無視護甲和劣勢進攻傷害技能</indent>"
-cragheart_weaknesses,"- <indent=%15>在任何方面都不是雇傭兵中最強的</indent>
-- <indent=%15>許多技能對障礙物位置有要求</indent>
-- <indent=%15>天生一張撲克臉</indent>"
-create,創建
-create_new_local_save,這個存檔被另一個人擁有。你想要以相同存檔去創建一個你自己的本地存檔嗎？
-create_new_local_save_button,創建新的本地存檔
-create_new_save_message_title,創建新的本地存檔
-crystalaltar,水晶祭壇
-crystalhollow,水晶塔洞
-crystalhollow_descr,一座古老的水晶塔曾經矗立在這裡，但現在存在的只是地基：整個結構已被拆除出售用以購買戰爭中的武器。
-
-cultistandvictim,異教徒及受害者
-
-cultofthebow,邪教之弓箭
-cultofthorns,邪教之荊棘
-
-cursedretreat,被詛咒的靜修所
-cursekeep,詛咒
-cursekeep_descr,這個石頭堡壘坐落在守望山脈的北部邊界，它是Gloomhaven城和惡魔閘口鎮城市守衛們的主要訓練營。
-curseshort,詛咒
-
-darkrider,暗黑騎師
-decayingsepulcher,腐朽墳墓
-decayingtombs,腐朽陵墓
-decoy,分身誘餌
-
-
-demonsgate_descr,該地區的核心城鎮，惡魔閘口的城牆在與魔人族的戰爭中堅守。許多人在戰爭中來到這裡避難，他們的家人從未離開。一個為你的旅行尋找裝備的好地方，但需要為此付費。
-demonspinehollow,魔脊洞穴
-demonspinehollow_descr,被石化的森林的這一區域被認為會因看到惡魔、小鬼甚至無頭騎士而受到詛咒。 它看起來足夠安全，但也許它聞起來不太對。
-demonsummonaltar,死靈祭壇
-denoffiends,惡魔巢穴
-denofrazors,剃刀巢穴
-desertedcamp,被遺棄的營地
-destroyobstacle,摧毀障礙物
-difficult_terrain_tooltip,困難地形
-
-difficulty_high,高
-difficulty_low,低
-difficulty_medium,中
-difficulty_very_high,非常高
-
-dingledell,幽谷
-disadvantage,劣勢進攻
-
-disarmallenemies,<nobr>繳械<sprite name=Disarm></nobr> 所有敵軍。
-disarmshort,繳械
-disarmtrap,拆卸陷阱
-diseasedcopse,破敗林地
-do nothing,不執行任何技能
-doom,角色特效厄運
-doom_discardremindertext,當敵人死亡或另一個<nobr><b><color=#39BEED>厄運</color></b> <sprite name=Doom></nobr>被打出，棄置這張卡牌。
-doom_marktext,將一個敵人標記為<b><color=#39BEED>被降厄的</color>。
-doomcrushers,末日突襲隊
-doomstalker,末日行者
-doomstalker_adventure_description,晶人族末日行者們被安排在Gloomhaven周圍的荒野中守衛各個晶人族定居點的安全。晶人族平靜的頭腦讓末日行者成為一個優秀的弓箭獵人，他從來箭無虛發。
-doomstalker_difficulty,中
-doomstalker_role,遠端輸出/輔助
-doomstalker_strengths,"- <indent=%15>高遠程輸出</indent>
-- <indent=%15>厄運技能帶來大量額外的攻擊效果</indent>
-- <indent=%15>合理數量的召喚技能</indent>"
-doomstalker_weaknesses,"- <indent=%15>通常一次只能把注意力放在一個敵人上</indent>
-- <indent=%15>釋放厄運技能經常導致呆在原地</indent>
-- <indent=%15>他每一次從Gloomhaven鎮回來，都有一些商人發現自己遭了厄運，物品賣不出好價錢。</indent>"
-
-doppelganger,幻影分身
-drakefirefarm,龍火地
-dungeon_exit_descr_tooltip,"雇傭兵必須被放置在出口格子上才能完成劇本。
-當所有雇傭兵都站在出口格子上或精疲力盡時站在出口格子上時，就會完成逃生。 "
-dungeon_exit_tooltip,出口格子
-eaglecrest,鷹山頂
-eaglecrest_descr,鷹山頂村被Vineyards葡萄園所包圍，這個葡萄園接壤著行軍地更陡峭的北部邊緣。專家物品商店價格很高，但在可以找到罕見的商品。
-earthbrand,大地劍
-
-eastgrove,東林地
-eastgrove_descr,這個低調的（unassuming）小村莊依偎在一個漂亮的叢林林間空地上。
-easy,簡單
-elderdrake,上古亞龍
-elementalist,元素師
-elementalist3demonsummonaltar,魔怪召喚祭壇
-elementalist_adventure_description,"元素師們是非常技藝嫺熟的薩維斯，他們是已經掌握多種元素。他們比別人更受尊敬，並能運用強大的魔法。
-作為擁有大量複雜技能的複雜角色，元素師能以一種驚人的速度生成並消耗元素。他與其他魔法單位合作得很好，但是如果他是團隊裡唯一的元素使用者，他可能會沒那麼有力，最好盡可能裝備他們一些生成元素的物品。"
-elementalist_description,元素師們是非常技藝嫺熟的薩維斯，他們是已經掌握多種元素。他們比別人更受尊敬，並能運用強大的魔法。
-elementalist_difficulty,非常高
-elementalist_role,遠程輸出
-elementalist_strengths,"- <indent=%15>技能有大量的搭配方式</indent>
-- <indent=%15>非常有效的遠程能力</indent>
-- <indent=%15>善於元素充能</indent>"
-elementalist_weaknesses,"- <indent=%15>如果沒有其他元素充能者搭配會比較弱</indent>
-- <indent=%15>可能有的輪次不太能有發揮</indent>
-- <indent=%15>有時技能卡的佈置會讓人頭痛</indent>"
-elite,精英
-elitecultist,異教徒精英
-emerald marauders,翡翠掠奪者
-empty_string,
-enchantressdialogname,女巫
-english,English
-enhancement,技能提升
+============================================================================
+#region enhancement
+============================================================================
 enhancement_air,氣元素
 enhancement_anyelement,任意元素
 enhancement_area, 施法範圍
-enhancement_bless,祝福
-enhancement_curse,詛咒
+
 enhancement_dark,暗元素
 enhancement_disarm,繳械
 enhancement_earth,土元素
@@ -1606,6 +1360,9 @@ enhancement_summonhp,召喚生命值
 enhancement_summonmove,召喚物移動力
 enhancement_summonrange,召喚物射程
 enhancement_wound,流血
+============================================================================
+#endregion enhancement
+============================================================================
 ============================================================================
 #region error
 ============================================================================
@@ -1783,7 +1540,7 @@ error_choreo_00171,無法處理等待修正卡抽取動畫
 error_choreo_00172,無法處理等待傷害動畫
 error_choreo_00173,無法處理等待一般動畫
 error_choreo_00174,Could not process Waiting For Progress Choreographer
-error_choreo_00175,無法處理等待玩家空閒
+                                                 error_choreo_00175,無法處理等待玩家空閒
 error_choreo_00176,無法處理等待技能結束動畫同步
 error_choreo_00177,無法進行等待結束輪次的同步
 error_choreo_00178,劇本載入無法完成
@@ -1800,11 +1557,11 @@ error_choreo_00188,Could not process Select Extra Turn Cards
 error_choreo_00189,Could not process Extra Turn Cards Selected
 error_choreo_00190,Could not process Ended Extra Turn
 error_choreo_00191,Could not process Check For Initiative Adjustments
-error_choreo_00192,Could not process End Initiative Adjustments
+                                               error_choreo_00192,Could not process End Initiative Adjustments
 error_choreo_00193,Could not process Update Initiative Track
 error_choreo_00194,Could not process Improved Short Rest
 error_choreo_00195,Could not process Unlock Waypoints For Clearing
-error_choreo_00196,Could not process Move Buff
+                                                          error_choreo_00196,Could not process Move Buff
 error_choreo_00197,Could not process Actor Casting Swap
 error_choreo_00198,Could not process Actors Are Swapping
 error_choreo_00199,Could not process Show Redistribute Damage UI
@@ -1815,13 +1572,13 @@ error_choreo_00203,Could not process Ability Targeting Combat Log
 error_choreo_00204,Could not process Damage Buff
 error_choreo_00205,Could not process Unlock Locked Door
 error_choreo_00206,Could not process Triggered Objectives Events Id List
-error_choreo_00207,Could not process Show Toggle Bonuses for AI
-error_choreo_00208,Could not process Show End Of Action Toggle Bonuses
+	error_choreo_00207,Could not process Show Toggle Bonuses for AI
+                                                                 error_choreo_00208,Could not process Show End Of Action Toggle Bonuses
 error_choreo_00209,Could not process Restart Round
 error_choreo_00210,Could not process Freeze Time
 error_choreo_00211,Could not process Tile Selection Finished
 error_choreo_00212,Could not process Wait For Delayed Drops
-error_choreo_00213,Could not process Undo
+                                              error_choreo_00213,Could not process Undo
 error_choreo_00214,Could not process Actor Been Doomed
 error_choreo_00215,Could not process Log Damage Calculation
 error_choreo_00216,An error occurred within the Scenario Rule Library
@@ -1876,7 +1633,7 @@ error_map_00013,Could not UpdateNodeAndBossQuittingToMenu
 error_map_00014,Could not process End Village
 error_map_00015,Could not Refresh Node Lines
 error_map_00016,Could not Get Nodes for Current Adventure
-error_map_00017,Could not Get End Village
+                                        error_map_00017,Could not Get End Village
 error_map_00018,無法設置劇本節點位置
 error_map_00019,Could not Show Node Info
 error_map_00020,Could not Get Nodes Between Villages
@@ -1943,7 +1700,7 @@ error_multiplayer_00034,Error releasing a controllable. The controllable returns
 error_multiplayer_00035,No such player found
 error_multiplayer_00036,Attempted to select a card that was not in the players hand
 error_multiplayer_00037,Client state is out of synch with host state.  See log for details.
-error_multiplayer_00038,Disconnected from the session
+                                                                                   error_multiplayer_00038,Disconnected from the session
 error_objectpool_00001,Error spawning an Object from the Object Pool
 error_objectpool_00002,Error returning an Object to the Object Pool
 error_ruleset_00001,Failed to load Core Rulebase
@@ -2049,8 +1806,8 @@ error_ui_00048,Could not process destroying card UI
 error_waypoint_00001,Could not process setting waypoint order
 error_waypoint_00002,Could not process checking if player can end movement
 error_waypoint_00003,Could not process checking for doors
-error_waypoint_00004,無法處理結束移動
-error_waypoint_00005,無法處理開門
+                                                    error_waypoint_00004,無法處理結束移動
+                                                    error_waypoint_00005,無法處理開門
 error_waypoint_00006,無法處理點擊路徑點
 error_waypoint_00007,無法處理刪除路徑點
 error_waypoint_00008,無法處理獲取下一個路徑點
@@ -2061,215 +1818,9 @@ error_waypoint_00012,無法處理設置板塊處理器
 ============================================================================
 #endregion error
 ============================================================================
-event_abandonedcart,一輛貨車似乎被遺棄在道路一側，它的主人已經無處可尋。貨車的後面大多是一些垃圾，但是好在還有一桶食物，而你正覺得饑腸轆轆......
-event_abandonedcart_a,吃點東西
-event_abandonedcart_b,別理這貨車
-event_abandonedcart_eat,"食物已經有相當時間了，在一塊堅如磐石的麵包上嘗試咬了幾口後，你歎了口氣把它扔到一邊。
-
-你只好繼續前行，暗自懊惱，為何沒有在食物還能入口的時候，早點到達貨車這裡。"
-event_abandonedcart_eat_poison,"食物的氣味一言難盡，但你已經饑不擇食，狼吞虎嚥一番。
-
-當你試圖離開時，你的胃開始翻湧，咆哮起來。幾個小時後，你在一片灌木叢中醒來，周圍密佈著你的嘔吐物。
-
-也許下次享用神秘的遺棄食物前，你會三思一下。"
-event_abandonedcart_eat_strengthen,"桶中的食物遠好於你隨身補給 一 柔軟的長條麵包，幹醃肉條，新鮮水果和蔬菜 一 真正的盛宴！你心情愉悅的飽餐一頓。
-
-飯後，你精神飽滿地繼續你的旅程。"
-event_abandonedcart_leave,從桶中取出些許食物的想法在你腦中徘徊了許久，你最終還是決定離開貨車以免主人返回，回歸了你的旅程。
-event_abandonedcart_leave2,"當你剛準備走開時，路邊的灌木叢中突然沙沙作響。一個矮胖的男人從灌木叢中走出來，發現你時提起馬褲驚訝地跳了起來。
-
-'哦！很高興認識你們，同路人們”，他一邊說一邊點頭致意。停頓了下，他看了眼他的貨車，笑得更真誠了些，“謝謝你們沒有在我......哦......‘全神貫注’的時候，從我的貨車順走東西。你知道的，我攜帶的食物比我能夠吃掉的多很多 一 歡迎和我一起聚餐。”
-
-你接受了這個男人的提議，並享用了比你攜帶的微不足道的食物要好得多的飯菜。吃飽喝足後，和這個善良的人兒分道揚鑣，這頓豐盛的佳餚讓你精力充沛。"
-event_abandonedcart_leave_a,離開
-event_abandonedcart_leave_gained,從桶中取出些許食物的想法在你腦中徘徊了許久，你最終還是決定離開貨車以免主人返回，回歸了你的旅程。
-event_adaggerinthechest,一具羚牛族人的屍體倒在前面的樹樁上，已被洗劫一空。當你靠近時，你注意到一把短刀插在她的胸口上。
-event_adaggerinthechest_a,拔出短刀
-event_adaggerinthechest_b,遠離她
-event_adaggerinthechest_daggerremoved,當你試圖從她的胸口拔出短刀時，已被腐蝕的刀片折斷了。你把沒用的刀柄扔到一邊，繼續你的旅程。
-event_adaggerinthechest_daggerremoved_gained1,"當你試圖從她的胸口拔出短刀時，已被腐蝕的刀片折斷了，而你嘗試用斷刀割傷自己。突然，你清醒過來，意識到刀片上塗有毒藥。
-
-你把沒用的刀柄扔到一邊，繼續你的旅程，感覺很糟糕。"
-event_adaggerinthechest_daggerremoved_gained2,"當你試圖從她的胸口拔出短刀時，已被腐蝕的刀片折斷了。當你把沒用的刀柄扔到一邊時，突然發現她的拳頭裡緊握著少許幾個錢幣。
-
-你把這些錢幣從她的拳頭中摳出來塞進腰包裡，若無其事的繼續你的旅程。"
-event_adaggerinthechest_leave,你無視了這具羚牛族的屍體，繼續你的旅程。
-event_adiscardedflask,你碰巧在路上看到一個帶塞的燒瓶，顯然是某個笨拙的冒險家掉落的。你拿起燒瓶並注意到裡面仍有很多，你感覺有點口渴了......
-event_adiscardedflask_a,喝上一口
-event_adiscardedflask_b,丟棄燒瓶
-event_adiscardedflask_drinkdrunk,燒瓶裡只裝了少量新鮮水。你一口喝下，口渴感頓時煙消雲散，然後繼續你的旅程。
-event_adiscardedflask_drinkdrunk_gained1,"你不知道你喝的是什麼，但它肯定是極好的！
-
-你將它分享給你的盟友，精力充沛的繼續你的旅程。"
-event_adiscardedflask_drinkdrunk_gained2,"當你將燒瓶舉到唇邊時，聞到濃縮酒精的強烈刺激味，但還是決定嘗試一下。儘管你感覺像吞了一團火似得，咳嗽、喘氣，但你的盟友都踴躍的嘗試了這種烈酒。
-
-燒瓶現在空了，而你們跌跌撞撞的繼續旅程，明顯都有些醉了。"
-event_adiscardedflask_leave,你忍住了喝酒的衝動，把瓶子扔到一邊。也許不明飲品最好不要隨意嘗試！
-event_adownedtraveler,"當你走到一個岔路口，你發現前方有一個人影，他正躺在一棵枝葉茂盛的大樹邊休息。他似乎弓著身子，一隻手抓著胸口。當你試探性地靠近時，他注意到你並招呼你靠近一點。
-
-“喂，這裡！請幫幫我！”
-
-陌生人的聲音中帶著一絲絕望，當他揮手試圖引起你的注意時，似乎更加痛苦呻吟起來。然而，在樹的陰影籠罩下，你無法辨認清楚他是誰或什麼。這個求助會不會是個陷阱？周圍的灌木叢是藏身的理想場所，也許裡面隱藏著他的同伴等著突襲然後搶劫你。"
-event_adownedtraveler_a,謹慎地接近大樹
-event_adownedtraveler_b,換另一條路線
-event_adownedtraveler_help,"當你走近時，你看到一個岩石般的原生族人，它正痛苦地抓著它玻璃般的胸膛上一條深深的裂縫。看起來它確實經歷了好些日子了。它用希冀的眼神仰視著你。
-
-“請給予我一點點的憐憫和幫助。附近有一座神廟可以治療我的傷口，但我沒有足夠的金幣。如果可以的話，能否給點金子我，我會盡我所能回報你。”"
-event_adownedtraveler_help_a,幫助這個可憐的的原生族吧。
-event_adownedtraveler_help_a_subtext,（失去 ¬ADownedTraveler_Pity.GoldAmount¬ 個金幣）
-event_adownedtraveler_help_b,嘲笑。幫助一個核心破裂的原生族有什麼用處，它必死無疑了。
-event_adownedtraveler_leave,因為擔心會被伏擊，你換了個方向繞過大樹試圖穿過灌木叢。荊棘叢生的灌木撕扯著你的衣服，牽絆著你的腳步。最終，你徹底的迷了路，幾個小時裡你被各種各樣的植物刺傷和刮傷，無數次絆倒，渾身密佈的細小傷口，真是個悲劇。好在你終於掙扎著回到了大路上。
-event_adownedtraveler_pity,"你把金子遞給原生族，它站起來做了個鬼臉並感謝你的憐憫。它手持著一個小型的脈動水晶，隨之一道綠光弄罩著你，你沐浴在綠光裡，渾身顯得綠油油的。
-
-當你沐浴在綠色的光芒中時，你肝到一股特殊能量在你體內湧動。原生族向你道別，而你希望它能早日康復，然後你回頭，向著前方走去。"
-event_adownedtraveler_scoff,你將原生族留在了原地，讓命運給與其憐憫。當你離開時，你聽到它呼吸聲中夾雜著喃喃自語。一股突如其來的惡寒刺痛著你的皮膚，你忍不住猜想是不是這個原生族是否在用冰魔法詛咒你......
-event_afatefulencounter,"夜幕降臨，群星隱匿，周圍愈發陰暗起來。你四處打量了下，在那深邃的陰影裡，似乎空無一物，但恍惚間又似乎有無窮的惡意目光在注視著你。你的心裡越來越低沉，想不顧一切的逃離這裡。這時你看見附近的洞穴，透出朦朧的亮光，你按下忐忑的意念，決定冒險進洞調查或者躲避。
-
-小心翼翼地靠近光亮，你發現洞穴裡一名花晶族正在冥想，而光亮正是源自她皮膚上的大水晶，這光亮照亮了整個洞穴。她似乎並沒有覺察到你的到來。
-
-你打量起四周，發現洞穴壁上有多幅繪畫，似乎正是描繪了你之前進行的任務，甚至有一幅正好描繪了光芒引導你進入洞穴的過程。而在花晶族不遠處，隨意放置著一些粉筆，補給以及一袋子金幣。"
-event_afatefulencounter_a,等待花晶族完成冥想
-event_afatefulencounter_b,拿走硬幣並悄悄離開
-event_afatefulencounter_take_gold,"你越是靠近那袋硬幣，花晶族的水晶散發出的光芒就更為刺眼，眼睛都能感覺到刺痛。但這又有什麼關係，你終究在沒有驚擾她的情況下，輕輕地把袋子揣到懷裡，然後慌不擇路的拼命逃走。
-
-當你覺得跑的夠遠的時候，你從懷中取出袋子，準備算算自己的收貨。你打開袋子，才發現裡面不止有硬幣，竟然還有一張羊皮卷，而上面就畫著你，一隻手拿著袋子，一隻手拿著一張羊皮卷在仔細地看。命運是如此奇妙，你不經懊惱，有沒有可能花晶族會獎勵你更多的東西，超過你竊取金幣的價值。"
-event_afatefulencounter_take_muddle,"你越是靠近那袋硬幣，花晶族的水晶散發出的光芒就更為刺眼，眼睛都能感覺到刺痛。當你小心翼翼的拿起袋子時，注意到你前面不遠的地面上有一幅模糊的繪畫，似乎描繪的就是你拿起了袋子，再然後一團閃電擊中你的頭......
-
-第二天清晨，你從昏迷中醒來，能聞到一股焦糊味，頭皮刺疼。好在謝天謝地，你還是個整體，沒有少什麼零件，可能就是體毛少了些，皮膚紅了些，更加慶倖的是，你的硬幣還在  一  你高興地想放聲大笑，突然感覺頭也很疼，就好像有7個小矮子一邊鋸著樹，一邊又跳又唱，還有個女歌手在飆著高音。"
-event_afatefulencounter_wait,"你坐在一旁等待花晶族完成她的冥想。終於......在黎明破曉時分，你從瞌睡中驚醒，用疲倦的眼神凝視著花晶族。她的水晶發出的光芒開始消退，最終歸於沉寂，而她則緩緩睜開紫水晶般的眼眸注視著你，沒有一點驚訝。
-
-“日安，旅行者們，我一直在等待你們。”花晶族輕聲說道。在她收集完所有物品後，靦腆地微笑了下， “你無疑有很多問題，但遺憾的是我沒有多少時間。在我離開之前，請允許我聆聽啟示，看看有什麼命運在等著你們......”
-
-她目不轉睛地凝視著你，用手指了指一幅洞穴壁畫 一 你確信之前沒有出現過的一幅 一 描繪了你與花晶族對話的情景。"
-event_afatefulencounter_wait_a,繼續
-event_afatefulencounter_wait_curse,"花晶族人再次閉上雙眼，另一隻手緩緩指向牆壁上的一處空白地方。她低聲吟唱著一些你根本無法理解的字詞，然後在那空白處慢慢浮現出小蜘蛛圖案。
-
-“蜘蛛，受咒而長生，因孤而怨恨，結千絲而侍陰影，織萬網而守孤獨，凡驚擾者必受其毒。”
-
-在你向她詢問之前，她打了個響指就消失了，而所有的洞穴壁畫也隨她一起消失了 一 只剩下黑冷的洞穴以及困惑的你。你一邊思索著她的啟示，一邊又得為之後的旅程做準備工作了。"
-event_afatefulencounter_wait_gold,"花晶族人再次閉上雙眼，另一隻手緩緩指向牆壁上的一處空白地方。她低聲吟唱著一些你根本無法理解的字詞，然後在那空白處慢慢浮現出一袋硬幣圖案。
-
-“財富固然使你快樂，但它也讓你迷失 一 幸運變為不幸。”
-
-在你向她詢問之前，她打了個響指就消失了，而所有的洞穴壁畫也隨她一起消失了 一 只剩下黑冷的洞穴以及困惑的你，當然還有心心念念的那袋硬幣。你收起袋子，一邊思索著她的啟示，一邊又得為之後的旅程做準備工作了。"
-event_afatefulencounter_wait_xp,"花晶族人再次閉上雙眼，另一隻手緩緩指向牆壁上的一處空白地方。她低聲吟唱著一些你根本無法理解的字詞，然後在那空白處慢慢浮現出一個雙手合十低頭懺悔的男人的圖案。
-
-“從錯誤中，我們收穫知識，但不可因懊悔而毀棄。”
-
-在你向她詢問之前，她打了個響指就消失了，而所有的洞穴壁畫也隨她一起消失了 一 只剩下黑冷的洞穴以及困惑的你。也許她是一個睿智的先知般人物，也許只是個裝神弄鬼的神棍，但你細細思索，似乎能洞察自身，獲益匪淺 一 但熬夜和憋尿都傷身啊。"
-event_ambushaftermath,"這裡發生了一場屠殺——一群牧師和治療師的屍體散落在小路上，而殺死這些人的兇手早已不見蹤影。
-
-如果你選擇撿屍，應該還有可能找到些貴重物品，但你也在揣測那些無上至尊存在是否會對好心埋葬他們的人施與微笑。"
-event_ambushaftermath_a,掠奪屍體
-event_ambushaftermath_b,埋葬屍體
-event_ambushaftermath_bury2,不知何故，你得到一種啟示，儘管你埋葬死者的意圖是好的，但你首先掠奪他們的事實在某種程度上否定了這一善行。
-event_ambushaftermath_bury_bless,你感到埋葬這些可憐的靈魂是正確的。你對你的善行感到心滿意足，繼續前進。
-event_ambushaftermath_bury_disarm,就在你準備挖掘時，你聽到了一根枯枝被踩斷的哢嗒聲。你抬頭一看，發現自己已經被一小群以逸待勞的土匪包圍——這是一次伏擊！無處可逃，別無選擇，你只能與他們拼死一戰了。
-event_ambushaftermath_c,離開
-event_ambushaftermath_fight,"儘管土匪人數眾多且讓你有些措手不及，但他們最終會明白，你可比他們伏擊的前一組人要厲害的多。當剩下的人轉身逃跑時，你注意到其中一個土匪背著小包東西，裡面應該是他們之前伏擊後搜刮的少量戰利品。
-
-你決定立刻離開，不準備看看土匪會不會帶著增援回來！"
-event_ambushaftermath_leave,殺了這些人的兇手隨時都有可能回來，而你也不太想遭遇同樣的命運——你最終匆匆離開了這個地區。
-event_ambushaftermath_loot,屍體已經被搜刮的乾乾淨淨了，比你的口袋都要乾淨，根本就沒有什麼值錢東西留下了。
-event_ambushaftermath_loot_a,埋葬屍體
-event_ambushaftermath_loot_b,離開
-event_ambushaftermath_loot_disarm,就在你摸屍尋找財物時，你聽到了一根枯枝被踩斷的哢嗒聲。你抬頭一看，發現自己已經被一小群以逸待勞的土匪包圍——這是一次伏擊！無處可逃，別無選擇，你只能與他們拼死一戰了。
-event_ambushaftermath_loot_disarm_a,攻擊土匪
-event_ambushaftermath_loot_gold,所有的裝備都是殘破的狀態不堪使用，而任何有價值的東西很可能已經被殺死這些人的兇手洗劫一空。好在，在你孜孜不倦的努力摸索下，在其中一名死者的口袋裡找到了少量黃金！
-event_ambushaftermath_loot_item,所有的裝備都是殘破的狀態不堪使用，而任何有價值的東西很可能已經被殺死這些人的兇手洗劫一空。不過，你終歸找到了一件可能對你有用的道具，兇手們畢竟不如你這麼仔細認真！
-event_ashortcut,當你疲于在這茂密的森林中穿行乏味的路線時，你考慮選擇一條能直接穿過這有著錯綜複雜樹枝的小路，以大大縮短你旅程的時間。你注意到前面的灌木叢後面有一小塊空地，可能是一條穿過這茂密森林的捷徑。
-event_ashortcut_a,嘗試那條隱藏的捷徑
-event_ashortcut_b,沿著道路前進
-event_ashortcut_berries,這些漿果實在是平平無奇。你重新回到道路上，也不用再考慮帶不帶這些果子，反而因為捷徑的成功而高興起來。
-event_ashortcut_berries_gained1,這些漿果不僅味道難聞，而且似乎還有毒！你不明白為什麼你團隊裡的每個人都要嘗嘗這些果子，但是現在當你們回到路上時，都抓著胃感覺很糟糕。
-event_ashortcut_berries_gained2,這些漿果不僅味道很好，而且似乎還有讓人精神振奮的特性——在這幾個月中你從未感覺如此之好！你用這些美味的漿果裝滿你的口袋，然後重新上路。
-event_ashortcut_continuedownroad,仔細考慮之後，你決定或許繼續前行才是最好的選擇。
-event_ashortcut_taketheshortcut,邊開路邊穿過森林，你很高興到達了另一邊。在森林的邊緣，你正要重新上路時，附近一塊點綴著奇怪紫色漿果的灌木叢吸引了你的注意。
-event_ashortcut_taketheshortcut_a,嘗一下這些漿果
-event_ashortcut_taketheshortcut_b,沿著道路前進
-event_bloodyvalrath,"當經過一個墓地時，你注意到了泥土中新產生的足跡，從一座墳墓一直蜿蜒到另一座墳墓。當你正追蹤足跡時，突然間，一陣刺耳的尖叫聲打破了可怕的寂靜，一種恐懼感在你的心中油然而生。
-
-你嘗試著溜過去尖叫聲的源頭，結果發現了一個女性煉魔族，而在她面前的，是被打開的墳墓，旁邊躺著一具屍體。他穿著一件邪教徒常穿的破舊黑斗篷，而你可以從他的傷口中看出他死得既血腥又暴力。
-
-這個女性煉魔族戴著一條華麗的項鍊，穿的是煉魔族典型的上流社會的服裝，笨重卻又色彩斑斕。？然而似乎有什麼地方不太對勁，你注意到她的衣服被蟲蛀了，頭髮髒亂，並且她顫抖的手緊握著一把刀，上面滴著鮮血。"
-event_bloodyvalrath_a,提供幫助
-event_bloodyvalrath_a_subtext,這個煉魔族可能是一名受害者......
-event_bloodyvalrath_attack,"儘管你試圖發起偷襲，然而那個煉魔族已經有所防備。她迅速躲開然後跳向你，用她的小刀向你奮力發起攻擊。你們激烈地交鋒了一陣子，然後抓住了一個時機擊中了她的脖子。她的頭顱被砍下，飛向一塊墓碑。
-
-她的屍體倒下時化成了一堆灰燼，而那種恐懼感立刻解除了。雖然你受了傷，但也松了一口氣，你回到了原來的道路上，想知道她和那個邪教徒之間發生了什麼——以及她是誰，又或者她是<i>什麼</i>......"
-event_bloodyvalrath_b,出其不意地攻擊她
-event_bloodyvalrath_b_subtext,她似乎潛藏著某種危險......
-event_bloodyvalrath_c,命令她把它交出來
-event_bloodyvalrath_c_subtext,這條項鍊看上去很有價值......
-event_bloodyvalrath_d,在她注意到你們之前逃跑
-event_bloodyvalrath_d_subtext,這裡的一切事物都不太對勁......
-event_bloodyvalrath_help,"你讓她知道了你的存在，並告訴她你沒有惡意。她仍然在顫抖，似乎受到了驚嚇。除了知道她想回家之外，你無法再從她那裡得到任何其他資訊，你給了她幾個硬幣和一些旅途中的食物，並指給了她最近的村莊的方向。
-
-她羞澀地朝你點點頭，似乎在表達感謝，低聲說了些奇怪的話，然後慢慢地轉身離開了，隨著她的離去，恐懼感從你身上解除了。"
-event_bloodyvalrath_leave,"不管這裡發生了什麼事，你都不想參與其中。你回過頭向叢林前進，但你聽到那名煉魔族在呼喚你，懇求你幫助她。
-
-你決心要離開，便頭也不回地繼續前進。那名煉魔族尖聲向你說了些什麼，而那種奇怪的恐懼感變得越來越強烈。當你離開墓地時，你確信你已經被詛咒了，你想知道如果留下來“幫助”她的話會發生些什麼......"
-event_bloodyvalrath_rob,"她轉過身來似乎要進行戰鬥，但當發現寡不敵眾時，她無奈的接受了。她交出了項鍊，用你從未從煉魔族人嘴裡聽到過的詞彙向你詛咒和吐口水。她憤怒地迅速離開了，你檢查了那個邪教徒的屍體，想知道這裡到底發生了什麼。
-
-你注意到項鍊上的銘文與空墳上的墓碑的墓誌銘一致......也許那是她的名字？隨著各種可怕的可能性在你的腦海中閃現，你突然感到非常不舒服，脊柱也在顫抖。你迅速離開了墓地，希望離開這個被詛咒的地方後不適就會消失，並決定一找到機會就把項鍊賣掉。"
-event_brokencart,你在路邊遇到一個年老酒商，他的手推車的一個輪子脫落了。你看到他正忙活著試圖把它裝回去。當你靠近時，他似乎也沒有注意到你，但很明顯，他沒有那個力氣抬起車來裝上車輪。
-event_brokencart_a,主動幫助酒商
-event_brokencart_b,打劫酒商
-event_brokencart_c,離開
-event_brokencart_drink,這些酒是你所品嘗過的最好的酒。感受到美酒帶來的活力，你繼續前行。
-event_brokencart_drink2,酒的味道特別糟糕——你喝了一口，就吐了出來。由於酒商已經沒有了其它有價值的東西，你放過了這個可憐的老頭，讓他自己滾去處理破損的車輪，然後繼續你的旅程。
-event_brokencart_drink2_gained_muddle,酒的味道很好，但也許有點太好了——哪怕已經耳熱眼花，你還是喝了個盡興。之後你跌跌撞撞的繼續旅程，路上還在回味這沒救。
-event_brokencart_drink2_gained_strengthen,這酒的味道令人難以置信——你因為喝了這麼好的酒而感到精神振奮。你讓商人自己去處理破損的車輪，然後繼續上路。
-event_brokencart_help,"你拍了拍酒商的肩膀，把他嚇了一跳，他竟然都懸空了！
-
-“嘿！不要這樣偷偷摸摸地接近一個老人！”
-
-他那雙炯炯有神的眼睛透過一副髒兮兮的劃痕眼鏡掃視你，正當你準備開口提供幫助時，他對你冷冷一笑。
-
-“你就打算在那裡傻站一整天嗎？你，別看了，把車抬起來，你，拿穩車輪！數到三——也就是正好到三，而不是數到三之後——你要抬起車輪，然後......”
-
-你可能會在這裡耗上一整天。"
-event_brokencart_help2,"你輕輕鬆松就把車輪安了上去，而老酒商用鄙夷的語氣抱怨道， “沒有你這個笨手笨腳的傢伙‘幫忙’，我可以做得更輕鬆！”。這老傢伙一句感謝的話都沒說，繼續對你的無能笨拙大發牢騷，然後揚長而去。
-
-當你準備離開時，你注意到有一瓶酒從顛簸的車上掉到了路邊的灌木叢裡。由於老酒商已經在走了一段距離，你決定把它作為對你提供幫助的回報，與同伴們共飲。"
-event_brokencart_help2_gained,你輕輕鬆松就把車輪安了上去，而老酒商用鄙夷的語氣抱怨道， “沒有你這個笨手笨腳的傢伙‘幫忙’，我可以做得更輕鬆！”。這老傢伙一句感謝的話都沒說，繼續對你的無能笨拙大發牢騷，然後嫌棄地撒了一小把硬幣在地上就揚長而去了。
-event_brokencart_help2_gained_next,繼續
-event_brokencart_help_a,幫助酒商
-event_brokencart_leave,你覺得酒商的難處不關你的事，然後揚長而去。
-event_brokencart_rob,"當酒商看到你拔出武器接近時，他畏畏縮縮地躲到手推車後面。
-
-“請......請不要傷害我！”，他結結巴巴地說，“我會給你我僅有的一點金子，你想拿多少酒也可以，只是請放過我！”
-
-他用顫抖的手伸向腰帶，費了半天勁掏出一個裝著疑似裝有硬幣的小袋子，並把它扔向你，“這是我所有的黃金了，我發誓！”
-
-你把袋子撿起來，清點了下，然後裝進自己的腰包，又順手從手推車上拿起一瓶酒。"
-event_brokencart_rob_a,暢飲
-event_bucketofluck,"你注意到前方的岔路口，有一個長相清奇的人擺了一個攤位。於是你靠近仔細查看一番，攤位上擺著一個大木桶，裡面裝滿了疑似泥巴的東西，而在桶邊上潦草的寫著‘幸運桶’的字樣。
-
-“歡迎，歡迎，大家都來吧！”他向你喊道，“想試試你的運氣嗎？”。"
-event_bucketofluck_a,靠近攤位
-event_bucketofluck_approach,"當你走近，你看到男人身上滿是泥土，在他長長的、爪狀的指甲下結成了塊。他注意到你盯著他看，他笑了。“嗯，我總得從什麼地方給自己弄點兒獎品，不是嗎？”他苦笑著說，然後尷尬的朝你眨了眨眼。
-
-“用你¬LoseSmallGold.GoldAmount¬金幣去試試——誰知道你會發現什麼呢，不是嗎？”"
-event_bucketofluck_approach_a,試試你們的運氣
-event_bucketofluck_approach_a_subtext,（失去 ¬LoseSmallGold.GoldAmount¬ 個金幣）
-event_bucketofluck_approach_b,離開
-event_bucketofluck_b,走過去
-event_bucketofluck_gainedloot_gained1,"你在桶裡摸索了一會兒，然後似乎摸到了什麼東西。你緊緊的抓住它，然後拎出了一雙皮靴。
-
-“哼，他們乒呤乓啷的，是不是？”他捏著鼻子，很明顯沒意識到自己聞起來比靴子還臭的多。“如果我沒記錯的話，好像是城衛兵的。”
-
-看著這雙靴子，他們似乎是用高品質的皮革製成的，雖然有點兒磨損。你撣去胳膊和靴子上的灰塵，帶著它離開了。"
-event_bucketofluck_gainedloot_gained2,"你在桶裡摸索了一會兒，然後似乎摸到了什麼東西。你緊緊的抓住它，然後拎出了一副破舊的護目鏡。
-
-“啊，這些東西......說實話我幾乎看不清他們，但我相信你會比我找到更多用處的。”
-
-跟這個陌生男人告別後，你擦去護目鏡的灰塵並戴上它，繼續上路了。"
-event_bucketofluck_leave,你決定不把手伸進這個誰知道裡面是啥的桶裡。你禮貌的拒絕了陌生男人的提議並離開了。
-event_bucketofluck_playbarrel,"你交出金子，他貪婪的把它裝進口袋。“來吧，伸進去試試吧！”
-
-你把你的胳膊深深的伸進桶裡，不確定會發生什麼。"
-event_bucketofluck_playbarrel_a,......
+============================================================================
+#region event city
+============================================================================
 event_city_campaign_10_intro,"在睡獅酒館放鬆的晚上，一個尖嘴猴腮的男人找上了你並伸出了手。手心中是一對蒼白的骰子，上面佈滿粗糙的劃痕。
 
 “你好呀，我的朋友。看起來你似乎可以讓氣氛變得更活躍一點。想跟我玩個骰子嗎？我相信我們可以讓事情變得更有趣。”他的另一隻手拍了拍身側的錢袋。"
@@ -2287,7 +1838,7 @@ event_city_campaign_11_option_a,和巢靈族達成交易
 event_city_campaign_11_option_b,搖搖頭走開。在這種情況下最好不要碰運氣。
 event_city_campaign_11_result_a_a,你對這張羊皮紙很感興趣，很快做出決定，從巢靈族人這裡買下它。交易很快達成，然後你迅速離開小巷返回大道，希望沒有人看到你。
 event_city_campaign_11_result_a_b,你試圖和巢靈族人討價還價，這激怒了它。它不滿地大聲嘶吼，避開你。
-event_city_campaign_11_result_b,你大聲地拒絕了巢靈族人，繼續做你的事。黯淡港灣其中一條不成文規則或者經驗，不要在陷沒市集區以外對的地方做交易。
+event_city_campaign_11_result_b,你大聲地拒絕了巢靈族人，繼續做你的事。黯淡港灣其中一條不成文規則或者經驗，不要在沉陷市集以外對的地方做交易。
 event_city_campaign_12_intro,"當你來到新市場購買物資時，那裡正在進行一場盛大的狂歡。你打聽了下，原來是鎮上正在進行吃餡餅比賽。
 
 在臨時搭建的舞臺上的一張長桌旁，坐著一群得意洋洋的水手，在他們周圍散落著餡餅碎屑。這時，他們中間的一個人站起來，向圍觀人群大聲炫耀著。
@@ -2335,7 +1886,7 @@ event_city_campaign_16_intro,"“放棄抵抗！束手就擒吧，老老實實�
 
 你們走在街上，發現前面有兩個城市衛兵扭送著一個身穿破爛衣服的男孩。“你偷了錢包，那你就得關進幽魂堡。這是無法避免的。”
 
-“但是我的家人就快要餓死了。”那名男孩哭喊道。你們在陷沒市集區上聽到過這個聲音，那名男孩就是曾經多次給你們提供一些小道消息的人，還記得這些消息協助了你們順利完成好幾件關於傭兵的工作。"
+“但是我的家人就快要餓死了。”那名男孩哭喊道。你們在沉陷市集上聽到過這個聲音，那名男孩就是曾經多次給你們提供一些小道消息的人，還記得這些消息協助了你們順利完成好幾件關於傭兵的工作。"
 event_city_campaign_16_option_a,出面干預並站在男孩這邊。
 event_city_campaign_16_option_b,讓衛兵把男孩押送至監獄裡。
 event_city_campaign_16_result_a_a,你們前去請求衛兵放了這個男孩，但是他們不為所動。經過一番討論，他們同意只要你們為男孩所犯的罪行交付罰金，他們就放了這名男孩。在你們付錢之後，衛兵拍了拍男孩的脖子然後放了他。
@@ -2352,7 +1903,7 @@ event_city_campaign_17_option_a,要求它用其它的東西交換。就給你們
 event_city_campaign_17_option_b,收下這枚硬幣，尋找它隱藏的價值。
 event_city_campaign_17_result_a,你們憤怒地把這枚硬幣拍到薩維斯的貨攤上，它伸手拿回硬幣，但是你們抓住它的胳膊要求給出合適的交易價格。它一言不發，鄙視地看著你們然後向你們撒了一把金光閃閃的錢幣。你們拿手遮住眼睛然後拔出武器，但是環顧四周卻發現那個薩維斯和貨攤一同消失不見了。 你們忿忿不平地撿起錢幣然後離開。
 event_city_campaign_17_result_b,你們冷靜地發現這枚硬幣可能蘊藏的價值遠比它外表看上去大得多。你們立馬去到大學然後花了數個小時來查閱古老文獻的記錄，但是卻一無所獲。就在夜裡，你們在酒館裡借酒消愁，不停地抱怨著關於這枚硬幣的事情。“這上面的花紋十分的有趣。”你們抬起頭來看到一個艾斯泰爾站在你們面前。“那些花紋描述了一個特別的交匯之地。我可以告訴你們具體的位置。”
-event_city_campaign_18_intro,"當你們在陷沒市集區談生意的時候，一個滿頭白髮的瘦弱女 人靠近你們並抓住了你的胳膊。
+event_city_campaign_18_intro,"當你們在沉陷市集談生意的時候，一個滿頭白髮的瘦弱女 人靠近你們並抓住了你的胳膊。
 
 “我說，你們看上去真的是挺強壯，”她說，“我家的地下室好像有點問題，你們能幫我解決嗎？”
 
@@ -2498,7 +2049,7 @@ event_city_campaign_2_option_b,拒絕付錢。永遠不要相信魔鼠。
 event_city_campaign_2_result_a_a,你們把錢遞給那個魔鼠然後接過了那塊垃圾。抹掉它表面噁心的棕色污泥之後你發現這塊廢舊金屬上有許多大概是老鼠和其他蟲子所造成的劃痕。沒辦法，有時候付出不一定就有所得。
 event_city_campaign_2_result_a_b,“呸~！你們這點錢根本不夠，等你們錢夠了再回來找我吧！”
 event_city_campaign_2_result_b,你們笑著擺手趕走了那個魔鼠。這種低級的詐騙手段你們一眼便可看穿。而且那塊垃圾看上去非常噁心，而且發出一陣陣的惡臭。
-event_city_campaign_30_intro,"當你們在陷沒市集區購買補給品的時候，你的手自然而然摸向自己腰間的錢包。
+event_city_campaign_30_intro,"當你們在沉陷市集購買補給品的時候，你的手自然而然摸向自己腰間的錢包。
 
 卻發現錢包不見了！
 
@@ -2557,9 +2108,9 @@ event_city_campaign_35_intro,"無論在黯淡港灣內外，巢靈族都是一�
 這個問題讓你們有點措手不及，你們詢問有關這香料的資訊，但他們只是以那些無法理解的嘶嘶聲作以回復。
 
 “它很難形容。我們看到它的時候自然就會知道。它對我們的母巢非常重要。”"
-event_city_campaign_35_option_a,為他們指引去陷沒市集區的路——只有那裡的人才願意和他們做生意。
+event_city_campaign_35_option_a,為他們指引去沉陷市集的路——只有那裡的人才願意和他們做生意。
 event_city_campaign_35_option_b,護送這些巢靈族去新市集並且幫他們找一個香料商人。
-event_city_campaign_35_result_a,你們迅速地給他們指了一指前往陷沒市集區的方向，感覺他們一定能在那裡找到想要的東西。幾個巢靈族嘰嘰喳喳的交談了幾句，然後給了你們一枚金幣。
+event_city_campaign_35_result_a,你們迅速地給他們指了一指前往沉陷市集的方向，感覺他們一定能在那裡找到想要的東西。幾個巢靈族嘰嘰喳喳的交談了幾句，然後給了你們一枚金幣。
 event_city_campaign_35_result_b_a,你:你們陪著這幾個巢靈族一路來到了新市集，在這裡很容易就找到了一名名聲良好的香料商人，不過要讓巢靈族和香料商人互相信任可就沒那麼容易。在最後，通過瘟疫瘟疫使者盟友的幫助，他們終於達成了一致，然後簽訂了合同。
 event_city_campaign_35_result_b_b,你們帶著這幾個巢靈族來到了新市集，但即便你們做出了最大的努力，也仍舊沒能找到一個願意與他們交易的香料商人。最後牠們兩手空空離開了。
 event_city_campaign_36_intro,"你們決定在睡獅酒館放鬆一下，可是還沒進入放鬆狀態，一個虎背熊腰的男人突然撞上你們的桌子，把酒菜打翻在地。
@@ -2627,7 +2178,7 @@ event_city_campaign_40_result_a_a,你們隊伍中的一些人立刻沖上去開�
 event_city_campaign_40_result_a_b,你們隊伍中的一些人開始通過控制元素來説明滅火，成功阻止了火勢的蔓延，控制了受損的範圍。
 event_city_campaign_40_result_a_c,你們盡力提供幫助，但是因為缺少相應的知識和能力，並沒有幫上太多的忙。
 event_city_campaign_40_result_b,你們迅速沖出去，然後一路狂奔進行追趕。那個人影向著城牆跑去，然後開始爬上樓梯。你們雖然不斷地與他縮小差距，但還是無奈地看著他翻過牆頭，向城外跳去。然而你猛衝上去，抓住了他的袍子，他的身子笨拙地扭動起來，然後從袍子中滑了出來。你們伸頭看向城牆下面，發現那個男人頭先著地砸在地上，之後再也沒有爬起來。
-event_city_campaign_41_intro,"陷沒市集區是一塊有著各式破舊房屋，還有許多無法在別處售賣貨物的商人所聚集的區域。所以當一個瘦成皮包骨的魔鼠拿著一個小麻袋向你們靠近時，你們並不驚訝。
+event_city_campaign_41_intro,"沉陷市集是一塊有著各式破舊房屋，還有許多無法在別處售賣貨物的商人所聚集的區域。所以當一個瘦成皮包骨的魔鼠拿著一個小麻袋向你們靠近時，你們並不驚訝。
 
 “一瓶適合高大、強壯的冒險者的藥水！”她邊向你們招手邊說道，“在戰鬥時它可以幫助你們！”
 
@@ -2831,7 +2382,7 @@ event_city_campaign_58_option_a,和那些醉鬼一同嘲笑講故事的男子。
 event_city_campaign_58_option_b,讓那群人安靜下來，並從那個男子那裡瞭解更多被襲擊的細節。
 event_city_campaign_58_result_a,你們靠過去和那些醉漢一起嘲笑這名男子。過了一會，他終於放棄了，顯得十分無奈，只好盯著自己的酒杯，沉默了好一陣子。不過他所說的故事能讓人當成笑話，說上好幾個星期。
 event_city_campaign_58_result_b,好不容易讓那群醉鬼安靜下來，並把這個衣衫不整的男子帶到酒館一處僻靜的角落，好讓他說出整件事情的經過。據他說，他實際上是一名地痞小混混，之前和同伴一齊前往匕首叢林採伐木頭。然而遇到了獸王，他帶著一群野獸軍隊， 在那群樵夫伐木的時候發起了進攻。儘管這名男子在戰鬥中逃了出來，不過他在混亂之中還聽見憤怒之靈發出駭人的嚎叫聲，他保證以上所說的都是事實。
-event_city_campaign_59_intro,"你們正往陷沒市集區走去，想看看有沒有便宜的補給物品，卻發現有一群人聚集在不遠之處。你們擠開人群靠了過去，看到一堆屍體躺在大街上，它們皮膚表面爬滿許多昆蟲，而且佈滿怪異的膿瘡。
+event_city_campaign_59_intro,"你們正往沉陷市集走去，想看看有沒有便宜的補給物品，卻發現有一群人聚集在不遠之處。你們擠開人群靠了過去，看到一堆屍體躺在大街上，它們皮膚表面爬滿許多昆蟲，而且佈滿怪異的膿瘡。
 
 你身邊的一名婦人驚恐地尖叫著，並快步跑開。而其他的圍觀者則不斷向前推擠，想找個好位置，以便觀看這幅可怕的景象。"
 event_city_campaign_59_option_a,上前幫忙儘快把這些屍體處理掉。
@@ -2839,7 +2390,7 @@ event_city_campaign_59_option_b,調查這些屍體。
 event_city_campaign_59_result_a,"因為這些屍體很可能會攜帶著某些疾病，於是你們阻止群眾上前圍觀，同時把死者裝上手推車迅速把屍體運送出城，然後把它們埋葬。
 
 可是那群人對於你們帶走屍體感到失望，因為這是他們一天的娛樂。當然城裡的衛兵更是不滿，因為你們沒讓他們先去調查屍體便私自進行掩埋。"
-event_city_campaign_59_result_b,同其他市民一樣，好奇心戰勝了理智，你們帶著病態般的迷戀湊上前去觀察屍體，想要看看究竟發生了什麼。屍體上那些數不清的昆蟲讓人感到十分噁心，還有病變的皮膚同樣令人反胃。據你猜測，罪魁禍首很可能就是巢靈族，或者說，是你們之前所復活的“索恩”幹的好事。接下來的幾天裡，這種疾病開始在陷沒市集區上蔓延開來，每天都有人因此而喪命。
+event_city_campaign_59_result_b,同其他市民一樣，好奇心戰勝了理智，你們帶著病態般的迷戀湊上前去觀察屍體，想要看看究竟發生了什麼。屍體上那些數不清的昆蟲讓人感到十分噁心，還有病變的皮膚同樣令人反胃。據你猜測，罪魁禍首很可能就是巢靈族，或者說，是你們之前所復活的“索恩”幹的好事。接下來的幾天裡，這種疾病開始在沉陷市集上蔓延開來，每天都有人因此而喪命。
 event_city_campaign_5_intro,"經過一夜的休息，在你們早上啟程準備出發的時候，發現城裡到處張貼著一些海報，那些海報相當吸引目光又顯得十分莊重。
 
 你們湊上前去看，海報裡面說聖橡樹聖所要在黯淡港灣東城區為一座新房屋作奠基儀式。鼓勵每個人前去幫忙出力。這可是一場重要的社區活動。"
@@ -2911,7 +2462,7 @@ event_city_campaign_65_intro,"深夜中，正在熟睡的你們被一陣重重�
 
 “你們要找的聖橡樹聖物，”那個男人邊說話一邊用手抓撓著臉側上的膿皰，“有些竊賊想要把那些東西賣給我，我可以帶你們去他們的藏身之處，不過我們行動要快，而且你們的報酬我要分一杯羹。”
 
-你們沒有多作考慮便同意了，並且趕到舊碼頭區附近一個搖搖欲墜的倉庫前。
+你們沒有多作考慮便同意了，並且趕到舊碼頭附近一個搖搖欲墜的倉庫前。
 
 “就是這裡，”那個男人開口說道，“不過看上去好像沒人在家呢。”"
 event_city_campaign_65_option_a,趁現在搜尋這個倉庫，找回被偷走的物品。
@@ -2969,18 +2520,18 @@ event_city_campaign_6_option_a,去協助保衛城市吧。
 event_city_campaign_6_option_b,如果守衛被攻擊部隊分散了注意力，那就是偷貴重物品的最佳時機。
 event_city_campaign_6_result_a,你們迅速沖向西城門，想要擊退入侵者。當靠近的時候，你們發現一大群魔鼠爬上城牆用匕首和弓箭向城市衛兵發起進攻。你們大吼一聲加入了混戰之中，戰鬥非常艱難，但是你們最終取得了勝利，身上滿是魔鼠的毛髮與血跡。黯淡港灣裡的居民安全了，而城市也可以繼續繁榮發展。
 event_city_campaign_6_result_b,城裡充滿了此起彼伏的恐慌叫喊聲“是魔鼠！”、“魔鼠入侵了！”——這些叫聲正是你們趁機得利的信號。你們繞著一間被遺棄的商店轉了幾圈，成功潛入進去並且撬開了保險櫃。到了早上，襲擊造成的慘像隨處可見，那些可憐的受災市民在你們經過的時候向你們點頭致意，這不禁讓你們想到要是當時趕去城牆那邊情況就不會這麼糟。
-event_city_campaign_70_intro,"當你們在陷沒市集區遊蕩著尋找工作機會的時候，一個臉上帶著傷疤的男孩向你們走過來。
+event_city_campaign_70_intro,"當你們在沉陷市集遊蕩著尋找工作機會的時候，一個臉上帶著傷疤的男孩向你們走過來。
 
 你們熱情地和他打招呼。他給你們提供了不少雇傭兵工作的線索，而你們之前也幫助他躲過了牢獄之災。
 
-“我需要你們的説明，我不知道還能去找誰了”他說道，“我們這裡所有的沉陷沒市集區的人都處於糟糕的狀態，房子正在倒塌，水是臭的，我們甚至沒有足夠的錢買食物。”
+“我需要你們的説明，我不知道還能去找誰了”他說道，“我們這裡所有的沉沉陷市集的人都處於糟糕的狀態，房子正在倒塌，水是臭的，我們甚至沒有足夠的錢買食物。”
 
 “我們快要死在這裡，但城裡的人卻不願意出一點力來幫助我們。你們一定有一些身處高位的朋友，對不對？求求你們，一定要幫我們訴說這裡糟糕的狀況。”"
 event_city_campaign_70_option_a,和一些商人談談關於復興這個街區的計畫。
 event_city_campaign_70_option_b,向他表示遣憾，並解釋你們對這種狀況無能為力。
 event_city_campaign_70_result_a_a,你們前往硬幣街區和一個之前打過交道的商人公會成員見了面。起初他疑惑地看著你們，但最後還是答應你們會儘量看看能做些什麼，好讓那個區域變得再宜居一些。
 event_city_campaign_70_result_a_b,你們去拜訪商人談論此事，他們都無一例外地把你們嘲笑一番之後便轟出了房門。你們既然無利可圖，憑什麼我會去幫助那些人呢？
-event_city_campaign_70_result_b,你們向他解釋，雖然你們在城裡有一些影響力，但陷沒市集區可能早已是一塊沒有希望的破敗之地。這裡越來越多的區域都在慢慢沉入海中，這是自從城市建立以來就開始不斷發生的事情。你們沒辦法說服商人掏錢來投資到這個早晚會沉入大海之下的地方。
+event_city_campaign_70_result_b,你們向他解釋，雖然你們在城裡有一些影響力，但沉陷市集可能早已是一塊沒有希望的破敗之地。這裡越來越多的區域都在慢慢沉入海中，這是自從城市建立以來就開始不斷發生的事情。你們沒辦法說服商人掏錢來投資到這個早晚會沉入大海之下的地方。
 event_city_campaign_71_intro,"在混合街區裡，你們沿著月色照耀的河邊上行走，突然你的口袋裡有些東西開始震動。這種感覺非常奇怪，於是你迅速地把之前在路上撿到的金屬圓球掏了出來。它不受控制震動著，並且把你的胳膊拉向旁邊的小河。
 
 你走到河堤上，但是它仍然在不停地拉動著你。仿佛河裡有什麼東西正在吸引著它。"
@@ -3028,7 +2579,7 @@ event_city_campaign_75_result_a,“呀......好吧，真是令人失望。”城
 event_city_campaign_75_result_b,"“啊！你說......什麼？好吧。”城市衛兵隊長一臉震驚地看著你們，“這麼說，確實有一條會噴火的亞龍住在山上，但是你們卻認為沒有理由去殺了它是嗎？真是有意思。”
 
 衛兵隊長轉身離開，喃喃低語，嘴裡說著需要尋找更好的幫手之類的話語。"
-event_city_campaign_76_intro,"你們正從新碼頭區經過，這時，一個穿著講究的商人向你們招手。“哎喲，碰到你們真是走運，”當你們走近這個商人，他低聲說道，“我做東，我們一起去喝一杯怎麼樣？我有一件非常棘手的工作
+event_city_campaign_76_intro,"你們正從新碼頭經過，這時，一個穿著講究的商人向你們招手。“哎喲，碰到你們真是走運，”當你們走近這個商人，他低聲說道，“我做東，我們一起去喝一杯怎麼樣？我有一件非常棘手的工作
 想交給你們，但是這裡人多眼雜，我們最好去別處。”
 
 商人對你們做了自我介紹，說他的名字叫蓋文，是一個鋼鐵貿易商。他對著一大群碼頭工人做了
@@ -3138,40 +2689,17 @@ event_city_campaign_9_intro,"徹夜狂飲之後，你們在後巷裡瞎轉，完
 
 借著酒勁與好奇心的驅使，你們決定進入地道來一場冒險。在這廣闊的隧道網路裡絆絆磕磕走了很久，正當你們覺得要無功而返之際，卻發現一條巧妙隱藏起來的通道，它將你們帶到一個被遺忘很久的貯藏室，這裡裝滿了武器與風乾的食物。
 
-這些東西在陷沒市集區能賣個好價錢，或者你們可以把它們交給城市守衛團，畢竟他們總是缺少武器與物資供給。"
+這些東西在沉陷市集能賣個好價錢，或者你們可以把它們交給城市守衛團，畢竟他們總是缺少武器與物資供給。"
 event_city_campaign_9_option_a,賣了這些東西。
 event_city_campaign_9_option_b,把它們捐贈給城市。
 event_city_campaign_9_result_a,通過幾次不怎麼光彩的交易，你們很快就把這些貨物脫手賣了一個好價錢。誰曾想到一次酒後的閒逛會讓你們發一筆橫財呢？
 event_city_campaign_9_result_b,你們回到住所，睡了一夜等待酒醒之後，找到了城市守衛團的隊長。“這真是個極好的消息！最近，城市遭到了越來越頻繁的襲擊，鐵匠的工作效率就快跟不上我們對武器的需求，你們捐贈的武器正好補上缺口；而如果城市被圍攻的話，這些風乾食物也可以派上用場。你們真的是幫了這座城市一個大忙。
-event_duel,"你聽到叮噹的響聲，聽起來像是前面正在發生一場戰鬥。當你走近的時候，你看到一個石人和一個羚牛族人正在激烈的決鬥。
-
-他們都看到了你的到來並向你呼救。"
-event_duel_a,幫助石人
-event_duel_a_unavailable,羚牛族永遠不會讓石人淩駕於我們之上。
-event_duel_b,幫助羚牛族。
-event_duel_b_unavailable,石人永遠不會背叛他們的親人！
-event_duel_breakup_gained_damage,"你跳進戰場中間，試圖終止這場決鬥。但就在這時，石人從大地上召喚了土塊擊打羚牛。
-
-儘快你因石塊而受傷，但你最終成功將他們拉開，並讓他們冷靜下來。
-
-他們沒有向你解釋為什麼他們打起來了，只是從你手中掙脫，然後朝相反的方向離開了。"
-event_duel_breakup_gained_item,"你跳進戰場中間，試圖終止這場決鬥。可是他們都認為你在給對面幫忙，所以他們都逃跑了。
-
-正在困惑中的你發現他們掉落了一個¬Duel_BreakUp.Item¬。你jlta撿起來然後繼續沿著路向前走。仍然想不通為什麼他們就打起來了。"
-event_duel_breakup_gained_xp,"你跳進戰場中間，試圖終止這場決鬥。你成功的將他們分開，讓他們冷靜下來。
-
-他們沒有向你解釋為什麼他們打起來了，只是從你手中掙脫，然後朝相反的方向離開了。"
-event_duel_c,嘗試在不傷害任何一方的前提下結束這場決鬥。
-event_duel_d,無視他們繼續往前走。
-event_duel_helpinox_gained_gold,你站在石人一方，羚牛族發現雙拳難敵四手，逃跑了。石人感謝於你的幫助，送給了你一小袋金子，然後向你道別。
-event_duel_helpinox_gained_item,你站在羚牛族一方，於是石人發現雙拳難敵四手，逃跑了。羚牛族感謝於你的幫助，送給了你一小袋金子，然後向你道別。
-event_duel_helpsavvas_gained_infusions,"你站在薩維斯一方，羚牛族發現雙拳難敵四手，逃跑了。
-
-薩維斯感謝於你的幫助，但是對他實在沒什麼能拿得出手以示感謝而表示歉意。
-
-但在你們分開之前，他胸口的四個能量核心閃閃發光，為你注入他掌握的四種元素。這會在你的下次遭遇戰中給予你元素協助。"
-event_duel_helpsavvas_gained_item,你站在薩維斯一方，羚牛族發現雙拳難敵四手，逃跑了。薩維斯感謝於你的幫助，在離別前給了你一瓶藥水。
-event_duel_leave,你決定不打擾他們的決鬥，繼續沿著路向前走。你漸行漸遠，聲音也漸漸消失。
+============================================================================
+#endregion event city
+============================================================================
+============================================================================
+#region event road
+============================================================================
 event_road_campaign_10_intro,"為了尋找目的地，你們稍微偏離大路行走，就在這時，腳下的地面突然開始移動。
 
 剛才還非常堅硬的地面已經消失不見，你們發現自己身處於一個暗坑之中，剛剛你們大概墜落了有二十多尺，幸好摔在一同掉落的土壤上面，使你們得到一定的緩衝。
@@ -3884,6 +3412,530 @@ event_road_campaign_9_result_a,你們非常願意滿足他的請求，讓他分�
 event_road_campaign_9_result_b,"你們向他表示遺憾和歉意，說你們自已的補給也並不富裕。之後你們迅速離開然後繼續趕路，背後傳來他的叫喊聲。
 
 “可…求求你們！你們不會真的就這樣把我留在這裡吧？”"
+============================================================================
+#endregion event road
+============================================================================
+================================================================================================================================================
+#region 起始教學
+================================================================================================================================================
+ftue_10,"黯淡港灣並不以有禮貌的民眾和見義勇為的人知名，但是從這個城市的街道上你能得到很多...
+點擊下方的按鈕，你可以現在<color=#EACF8C>參與城市遭遇</color>。
+<size=60><sprite name=""MapMarker_Story""></size>
+（遊戲鼓勵你這麼做，不論你什麼時候在城市，這麼做經常給予你不錯的回報）。"
+ftue_11,"你要是發現一個任務看起來太難，或者你不斷地失敗於一個任務，記住<color=#EACF8C>巨橡聖所</color>會賦予你它的祝福... 以一個合適的價格，你明白的。
+點擊下方的按鈕，你可以現在進入寺廟。
+<size=60><sprite name=""Temple_Icon""></size>"
+ftue_12,"<color=#EACF8C>第一個任務</color>位置被標記在黯淡港灣的正北；你將看到它用旗幟的圖示標出。 隨著你的進行，更多工地點將顯示在地圖上。想要查看它們，你可以使用螢幕右邊的任務記錄。
+點擊黑土墳塚或是進入任務記錄去選擇這個任務。"
+ftue_13,"記住你可以帶著<color=#EACF8C>最多四個雇傭兵</color>開始一個任務（但是你帶的雇傭兵越多，相應的任務難度也將會更高）。
+一旦開始一個任務，直到返回黯淡港灣之前，你不能夠改變你的團隊成員。"
+
+
+ftue_4,"下一步你將選擇一個<color=#EACF8C>起始角色職業</color>。
+每個角色擁有獨特的技能和遊戲方式。隨著你的等級提升，可獲取新技能卡並解鎖更多角色職業。
+點擊角色頭像以瞭解他們的更多資訊並選擇任意一個成為你的第一個雇傭兵！"
+ftue_4.2,選擇<color=#EACF8C>六個起始角色職業</color>中的一個
+	ftue_4.3,"不錯的選擇！現在記住，外表不代表一切，雇傭兵的技能卡才代表著他們戰鬥中的行動能力。你能點擊“<color=#EACF8C>起始技能卡</color>”按鈕去判斷他對你的團隊這是不是正確的雇傭兵。
+一旦你確定你的決定，點擊“<color=#EACF8C>選擇雇傭兵</color>”按鈕以繼續。"
+ftue_5,選擇<color=#EACF8C>兩個個人任務</color>之一
+	ftue_6,祝賀！你已經創建成功你的第一個雇傭兵！現在記住，你需要<color=#EACF8C>最少兩個雇傭兵</color>出去尋找冒險。構建一個戰鬥中成員之間互補的雇傭兵團隊是很重要的。
+	ftue_7,"在團隊面板中點擊<color=#EACF8C>第二角色槽</color>並創建一個新角色。
+要知道你不能同時在團隊中擁有數量超過一個的某個角色職業的雇傭兵，請創造不同的角色！"
+ftue_7.2,點擊<color=#EACF8C>第二角色槽</color>去打開角色選擇面板
+	ftue_8,"到了進行一些冒險的時候了！
+如果你心中已確定當前的團隊，點擊螢幕中心以關閉團隊角色選擇面板並返回世界地圖。"
+ftue_8.2,點擊<color=#EACF8C>螢幕中心</color>以返回世界地圖
+	ftue_9,"在啟程你的第一個任務之前，你<color=#EACF8C>應該做好行動準備</color>，畢竟，這是你第一次出發的開始...
+你會注意到每個雇傭兵都擁有一點金幣儲備。
+遊戲鼓勵你把這些錢帶到<color=#EACF8C>商人的店面</color>並花掉，購買任何可能讓你活命的東西。"
+ftue_9.2,使用下方的“商人”按鈕以<color=#EACF8C>進入商人的店面</color>
+	ftue_9.3,當準備好時，點擊下方的“世界地圖”按鈕以<color=#EACF8C>返回世界地圖</color>
+================================================================================================================================================
+#endregion 起始教學
+================================================================================================================================================
+
+abandonedfarm_descr,一個廢棄的農場就位於通往奇波特港的大道旁邊。 林煙的氣味在這裡縈繞，大部分的屋頂已經坍塌，但仍有一些房間可以住一晚。
+
+addaugment,增加角色特效賦能
+addheal,增加回血量
+addrange,增加射程
+addsong,額外的戰歌容量
+addtarget,增加目標數
+adjacentalliesandenemies2damage,在目標旁邊的所有敵軍和盟友受到2點傷害。
+affect_alladjacentallies,作用於所有相鄰的盟友
+affect_alladjacentsummonedallies,作用於所有相鄰的召喚物夥伴
+affect_allallies,作用于所有盟友
+affect_allalliesmovedthrough,作用於所有移動經過的盟友
+affect_allallieswithin,作用於以下範圍內的盟友：
+affect_allsummonedallies,作用於所有召喚物夥伴
+affect_anyoneally,作用于任意單個盟友
+affect_oneadjacentally,作用於單個相鄰的盟友
+affect_oneallywithinrange3,作用於以下範圍內的單個盟友： <nobr>射程<sprite name=Range> 3</nobr>
+affect_selfandalladjacentallies,作用於自身和所有相鄰的盟友
+affect_selfandallallies,作用於自身和所有盟友
+affect_selfandallalliesinrange2,作用於自身和以下範圍內的所有盟友：<nobr>射程<sprite name=Range> 2</nobr>
+affect_selfandallsummonedallies,作用於自身和所有召喚物夥伴
+allconditions,所有狀態
+allenemies2damage,所有敵軍遭受2點傷害。
+amberhill,琥珀嶺村
+amberhill_descr,琥珀嶺村位於惡魔閘口鎮和奇波特港的路線中間。 它是一個中等規模的農業社區，向兩邊的城鎮供應糧食和蔬菜。
+
+and,和
+
+antialiasing_render_dlaa,DLAA
+antialiasing_render_fxaa,FXAA
+antialiasing_render_fxaa1presetb,FXAA1預設B
+antialiasing_render_nfaa,NFAA
+antialiasing_render_smaa,SMAA
+antialiasing_render_ssaa,SSAA
+antialiasing_render_taa,TAA
+arcanegolem,秘法魔像
+ashenswordbarrow,阿什斯伍德之墓
+atendofturn,在輪次的結束
+attack,攻擊
+attack_area,攻擊範圍
+attackersgaindisadvantage,攻擊者們陷入劣勢進攻
+attacksapply,攻擊中附加
+attacksinfuse,在攻擊中元素充能
+augment,角色特效賦能
+augment_discardreminder,當你的另一張<nobr><color=#A7B3D2>角色特效賦能</color> <sprite name=Augment></nobr>被打出，棄置這張卡。
+augment_onyourmeleeattacks,你的近戰進攻：
+aura,光環
+
+banditcommander,強盜指揮官
+
+battleboar,豪豬
+battlebot,戰鬥機器
+beartrap,陷阱
+beasttyrant,獸王
+beasttyrant_adventure_description,超越他們基本本能的魔鼠發現，如果在荒野中的野獸身上應用他們的意念，他們會受益多多。獸王們可以聚集帶著尖牙、獸爪和禽爪的驚人的軍隊，這讓他們在戰鬥中成為強大的對手
+beasttyrant_difficulty,中
+beasttyrant_role,近戰輸出/召喚
+beasttyrant_strengths,"- <indent=%15>開始就有一頭強力的熊夥伴</indent>
+- <indent=%15>與所有盟友召喚物合作地很好</indent>
+- <indent=%15>大量群體技能</indent>"
+beasttyrant_weaknesses,"- <indent=%15>熊精疲力盡時會很弱</indent>
+- <indent=%15>應該遠離近戰肉搏</indent>
+- <indent=%15>衣服上總是聞起來有股“肉味”</indent>"
+beasttyrantbear,獸王的熊
+beasttyrantbear_tooltip,"<b><size=120%><sprite name=""Heal"">： {0}   <sprite name=""Move"">： {1}   <sprite name=""Attack"">： {2}   <sprite name=""Range"">： {3}</size></b>
+<line-height=50%>
+<line-height=100%>熊直接在獸王之前行動。
+<line-height=50%>
+<line-height=100%>你可以燒祭卡牌來阻止對熊的傷害。當熊的血量掉到1點以下時，它精疲力盡，不能再回到劇本中。
+<line-height=50%>
+<line-height=100%>獸王特有“口令”行動，它允許熊去代替獸王執行技能卡。"
+berserker,狂羚戰士
+berserker_adventure_description,狂羚戰士們是那些已經投身於他們的力量和憤怒的艾諾克斯戰士。狂羚戰士將會竭盡全力保護她的朋友們的安全，甚至不惜犧牲她自己的生命。她的技能圍繞著高輸出，通過自我傷害將輸出推到更高的數值。這使她成為一個極其危險的戰鬥人員，無論是對她的敵人還是她自己
+berserker_difficulty,高
+berserker_role,近戰輸出
+berserker_strengths,"- <indent=%15>所有最高傷害輸出角色中的一個</indent>
+- <indent=%15>越瀕臨死亡越強</indent>
+- <indent=%15>能站在前排吸引敵人火力</indent>"
+berserker_weaknesses,"- <indent=%15>沒有幫助盟友的技能</indent>
+- <indent=%15>控制血量很難，做不好會導致她過早死亡</indent>
+- <indent=%15>情緒有憤怒管理問題</indent>"
+
+blackrockasylum,黑石瘋人院
+blackrockasylum_descr,從草原隱約可見黑石瘋人院的宏偉建築，這是一座古老的野戰醫院，現在用於那些被認為無法治癒或不願治療的人。當病人進入時身上稀有的魔法物品會被征繳，他們會抽時間加高價出售這些物品。
+blackunicorn,黑色獨角獸
+
+blightedkeep,枯萎堡壘
+bloatedregent,攝政王行屍
+bloodford,血色灘
+bloodford_descr,魔人城戰爭中一場偉大戰役的發生地，有人說這條河每到滿月仍然是紅色的。
+boneranger,骷髏弓箭手
+bonerangerelite,骷髏弓箭手精英
+boneshatterpass,碎骨走廊
+boneshatterpass_descr,這個採石場幾乎沒有生命跡象。搖搖欲墜的舊工棚風呼嘯而過，但仍然可以購買一些舊設備。
+
+boss_addhexesmovedtoattackbufftext,增加暗黑騎士這一輪已經移動的格子數量用以攻擊。
+boss_banditcommander_special1,移動到下一個門並顯露房間
+boss_baseattackstrengthisequalto,基礎攻擊值等於
+boss_darkrider_addhexesmovedtoattack,這個 X 是黑暗騎士這一輪已經移動的格子數量
+boss_elderdrake_special1,飛到另一個棲息處
+boss_mercilessoverseer_special1,所有斥候再行動一次
+boss_numberofplayerspresent,雇傭兵加上{0}的數量
+boss_numberofxspresent,當前{0}的數量
+boss_primedemon21_special,傳送祭壇和召喚魔怪
+boss_thebetrayer_fear,強迫所有雇傭兵和他們的召喚物去先手進行<nobr>“移動<sprite name=Move> 4”</nobr>，終點盡可能的遠離暗靈叛徒。
+boss_thebetrayer_teleport,強迫所有的雇傭兵和他們的召喚物移動到最相鄰的格子，然後強迫一個雇傭兵代替他們的輪次執行以下行動：
+boss_wingedhorror_special1,孵化所有的蛋
+
+brute_adventure_description,"蠻徒利用他巨大的體型和力量去支配他巨大的劍和令人印象深刻的盾牌，受雇于向那些出價最高的人以謀生。
+蠻徒們最好用作近戰部隊頂在前排吸收傷害，保護後排脆弱的遠端輸出，並最好裝備使他們長時間續命的物品！"
+brute_description,蠻徒利用他巨大的體型和力量去支配他巨大的劍和令人印象深刻的盾牌，受雇于向那些出價最高的人以謀生。
+
+brute_role,近戰輸出/肉盾
+brute_skin_alt,骷髏甲
+brute_strengths,"- <indent=%15>高生命值，擁有很多防禦技能</indent>
+- <indent=%15>成長初期就能夠擊暈或繳械敵人</indent>
+- <indent=%15>擅長利用蠻力推動敵人</indent>"
+brute_weaknesses,"- <indent=%15>較低的機動性</indent>
+- <indent=%15>可憐的攻擊範圍</indent>
+- <indent=%15>不是旅行路上健談的盟友</indent>"
+burnedtavern,燃燒酒館
+burnedtavern_descr,舊酒館的遺跡見證了那些快樂的時光。近年來，強盜們的掠奪以及對著南邊的石化森林裡那些不堪提及的生物窺視的視線使酒館業主們望而卻步。標牌“快樂灶爐”在微風中淒涼地吱吱作響。
+burningavatar,燃燒幻象
+campaign_siegecannon,如果一名弓箭手到達大炮後面的三個格子，它就會開火，傷害所有大炮前面三排格子的雇傭兵和他們的召喚物。
+cancel_button,取消
+captainoftheguard,守衛官
+captive,俘虜
+card,卡牌
+
+consumeitemcards,消耗物品卡牌
+controlactor,心靈控制
+controlenemy,心靈控制
+
+covenofbones,科文的骨頭
+
+cragheart_adventure_description,"岩石心們是薩維斯中那些因無法掌握一種元素而被流放的人。他們的核心被粉碎，用以終生標記他們。
+他們有大量的技能和合理的生命值，這代表，作為一個遠端輸出或是關鍵時候的治療師，他們卻可以充當近戰防禦角色。請優先使用土元法力來充分利用他們的能力。"
+cragheart_description,岩石心們是薩維斯中那些因無法掌握一種元素而被流放的人。他們的核心被粉碎，用以終生標記他們。
+
+cragheart_role,輸出/輔助
+
+cragheart_strengths,"- <indent=%15>高生命值加上好用的治療技能</indent>
+- <indent=%15>合理的近戰和遠程搭配</indent>
+- <indent=%15>擁有大量的無視護甲和劣勢進攻傷害技能</indent>"
+cragheart_weaknesses,"- <indent=%15>在任何方面都不是雇傭兵中最強的</indent>
+- <indent=%15>許多技能對障礙物位置有要求</indent>
+- <indent=%15>天生一張撲克臉</indent>"
+create,創建
+create_new_local_save,這個存檔被另一個人擁有。你想要以相同存檔去創建一個你自己的本地存檔嗎？
+create_new_local_save_button,創建新的本地存檔
+create_new_save_message_title,創建新的本地存檔
+crystalaltar,水晶祭壇
+crystalhollow,水晶塔洞
+crystalhollow_descr,一座古老的水晶塔曾經矗立在這裡，但現在存在的只是地基：整個結構已被拆除出售用以購買戰爭中的武器。
+
+cultistandvictim,異教徒及受害者
+
+cultofthebow,邪教之弓箭
+cultofthorns,邪教之荊棘
+
+cursedretreat,被詛咒的靜修所
+cursekeep,詛咒
+cursekeep_descr,這個石頭堡壘坐落在守望山脈的北部邊界，它是Gloomhaven城和惡魔閘口鎮城市守衛們的主要訓練營。
+curseshort,詛咒
+
+darkrider,暗黑騎師
+decayingsepulcher,腐朽墳墓
+decayingtombs,腐朽陵墓
+decoy,分身誘餌
+
+
+demonsgate_descr,該地區的核心城鎮，惡魔閘口的城牆在與魔人族的戰爭中堅守。許多人在戰爭中來到這裡避難，他們的家人從未離開。一個為你的旅行尋找裝備的好地方，但需要為此付費。
+demonspinehollow,魔脊洞穴
+demonspinehollow_descr,被石化的森林的這一區域被認為會因看到惡魔、小鬼甚至無頭騎士而受到詛咒。 它看起來足夠安全，但也許它聞起來不太對。
+demonsummonaltar,死靈祭壇
+denoffiends,惡魔巢穴
+denofrazors,剃刀巢穴
+desertedcamp,被遺棄的營地
+destroyobstacle,摧毀障礙物
+difficult_terrain_tooltip,困難地形
+
+difficulty_high,高
+difficulty_low,低
+difficulty_medium,中
+difficulty_very_high,非常高
+
+dingledell,幽谷
+disadvantage,劣勢進攻
+
+disarmallenemies,<nobr>繳械<sprite name=Disarm></nobr> 所有敵軍。
+disarmshort,繳械
+disarmtrap,拆卸陷阱
+diseasedcopse,破敗林地
+do nothing,不執行任何技能
+doom,角色特效厄運
+doom_discardremindertext,當敵人死亡或另一個<nobr><b><color=#39BEED>厄運</color></b> <sprite name=Doom></nobr>被打出，棄置這張卡牌。
+doom_marktext,將一個敵人標記為<b><color=#39BEED>被降厄的</color>。
+doomcrushers,末日突襲隊
+doomstalker,末日行者
+doomstalker_adventure_description,晶人族末日行者們被安排在Gloomhaven周圍的荒野中守衛各個晶人族定居點的安全。晶人族平靜的頭腦讓末日行者成為一個優秀的弓箭獵人，他從來箭無虛發。
+doomstalker_difficulty,中
+doomstalker_role,遠端輸出/輔助
+doomstalker_strengths,"- <indent=%15>高遠程輸出</indent>
+- <indent=%15>厄運技能帶來大量額外的攻擊效果</indent>
+- <indent=%15>合理數量的召喚技能</indent>"
+doomstalker_weaknesses,"- <indent=%15>通常一次只能把注意力放在一個敵人上</indent>
+- <indent=%15>釋放厄運技能經常導致呆在原地</indent>
+- <indent=%15>他每一次從Gloomhaven鎮回來，都有一些商人發現自己遭了厄運，物品賣不出好價錢。</indent>"
+
+doppelganger,幻影分身
+drakefirefarm,龍火地
+dungeon_exit_descr_tooltip,"雇傭兵必須被放置在出口格子上才能完成劇本。
+當所有雇傭兵都站在出口格子上或精疲力盡時站在出口格子上時，就會完成逃生。 "
+dungeon_exit_tooltip,出口格子
+eaglecrest,鷹山頂
+eaglecrest_descr,鷹山頂村被Vineyards葡萄園所包圍，這個葡萄園接壤著行軍地更陡峭的北部邊緣。專家物品商店價格很高，但在可以找到罕見的商品。
+earthbrand,大地劍
+
+eastgrove,東林地
+eastgrove_descr,這個低調的（unassuming）小村莊依偎在一個漂亮的叢林林間空地上。
+easy,簡單
+elderdrake,上古亞龍
+elementalist,元素師
+elementalist3demonsummonaltar,魔怪召喚祭壇
+elementalist_adventure_description,"元素師們是非常技藝嫺熟的薩維斯，他們是已經掌握多種元素。他們比別人更受尊敬，並能運用強大的魔法。
+作為擁有大量複雜技能的複雜角色，元素師能以一種驚人的速度生成並消耗元素。他與其他魔法單位合作得很好，但是如果他是團隊裡唯一的元素使用者，他可能會沒那麼有力，最好盡可能裝備他們一些生成元素的物品。"
+elementalist_description,元素師們是非常技藝嫺熟的薩維斯，他們是已經掌握多種元素。他們比別人更受尊敬，並能運用強大的魔法。
+elementalist_difficulty,非常高
+elementalist_role,遠程輸出
+elementalist_strengths,"- <indent=%15>技能有大量的搭配方式</indent>
+- <indent=%15>非常有效的遠程能力</indent>
+- <indent=%15>善於元素充能</indent>"
+elementalist_weaknesses,"- <indent=%15>如果沒有其他元素充能者搭配會比較弱</indent>
+- <indent=%15>可能有的輪次不太能有發揮</indent>
+- <indent=%15>有時技能卡的佈置會讓人頭痛</indent>"
+elite,精英
+elitecultist,異教徒精英
+emerald marauders,翡翠掠奪者
+empty_string,
+enchantressdialogname,女巫
+
+
+
+event_abandonedcart,一輛貨車似乎被遺棄在道路一側，它的主人已經無處可尋。貨車的後面大多是一些垃圾，但是好在還有一桶食物，而你正覺得饑腸轆轆......
+event_abandonedcart_a,吃點東西
+event_abandonedcart_b,別理這貨車
+event_abandonedcart_eat,"食物已經有相當時間了，在一塊堅如磐石的麵包上嘗試咬了幾口後，你歎了口氣把它扔到一邊。
+
+你只好繼續前行，暗自懊惱，為何沒有在食物還能入口的時候，早點到達貨車這裡。"
+event_abandonedcart_eat_poison,"食物的氣味一言難盡，但你已經饑不擇食，狼吞虎嚥一番。
+
+當你試圖離開時，你的胃開始翻湧，咆哮起來。幾個小時後，你在一片灌木叢中醒來，周圍密佈著你的嘔吐物。
+
+也許下次享用神秘的遺棄食物前，你會三思一下。"
+event_abandonedcart_eat_strengthen,"桶中的食物遠好於你隨身補給 一 柔軟的長條麵包，幹醃肉條，新鮮水果和蔬菜 一 真正的盛宴！你心情愉悅的飽餐一頓。
+
+飯後，你精神飽滿地繼續你的旅程。"
+event_abandonedcart_leave,從桶中取出些許食物的想法在你腦中徘徊了許久，你最終還是決定離開貨車以免主人返回，回歸了你的旅程。
+event_abandonedcart_leave2,"當你剛準備走開時，路邊的灌木叢中突然沙沙作響。一個矮胖的男人從灌木叢中走出來，發現你時提起馬褲驚訝地跳了起來。
+
+'哦！很高興認識你們，同路人們”，他一邊說一邊點頭致意。停頓了下，他看了眼他的貨車，笑得更真誠了些，“謝謝你們沒有在我......哦......‘全神貫注’的時候，從我的貨車順走東西。你知道的，我攜帶的食物比我能夠吃掉的多很多 一 歡迎和我一起聚餐。”
+
+你接受了這個男人的提議，並享用了比你攜帶的微不足道的食物要好得多的飯菜。吃飽喝足後，和這個善良的人兒分道揚鑣，這頓豐盛的佳餚讓你精力充沛。"
+event_abandonedcart_leave_a,離開
+event_abandonedcart_leave_gained,從桶中取出些許食物的想法在你腦中徘徊了許久，你最終還是決定離開貨車以免主人返回，回歸了你的旅程。
+event_adaggerinthechest,一具羚牛族人的屍體倒在前面的樹樁上，已被洗劫一空。當你靠近時，你注意到一把短刀插在她的胸口上。
+event_adaggerinthechest_a,拔出短刀
+event_adaggerinthechest_b,遠離她
+event_adaggerinthechest_daggerremoved,當你試圖從她的胸口拔出短刀時，已被腐蝕的刀片折斷了。你把沒用的刀柄扔到一邊，繼續你的旅程。
+event_adaggerinthechest_daggerremoved_gained1,"當你試圖從她的胸口拔出短刀時，已被腐蝕的刀片折斷了，而你嘗試用斷刀割傷自己。突然，你清醒過來，意識到刀片上塗有毒藥。
+
+你把沒用的刀柄扔到一邊，繼續你的旅程，感覺很糟糕。"
+event_adaggerinthechest_daggerremoved_gained2,"當你試圖從她的胸口拔出短刀時，已被腐蝕的刀片折斷了。當你把沒用的刀柄扔到一邊時，突然發現她的拳頭裡緊握著少許幾個錢幣。
+
+你把這些錢幣從她的拳頭中摳出來塞進腰包裡，若無其事的繼續你的旅程。"
+event_adaggerinthechest_leave,你無視了這具羚牛族的屍體，繼續你的旅程。
+event_adiscardedflask,你碰巧在路上看到一個帶塞的燒瓶，顯然是某個笨拙的冒險家掉落的。你拿起燒瓶並注意到裡面仍有很多，你感覺有點口渴了......
+event_adiscardedflask_a,喝上一口
+event_adiscardedflask_b,丟棄燒瓶
+event_adiscardedflask_drinkdrunk,燒瓶裡只裝了少量新鮮水。你一口喝下，口渴感頓時煙消雲散，然後繼續你的旅程。
+event_adiscardedflask_drinkdrunk_gained1,"你不知道你喝的是什麼，但它肯定是極好的！
+
+你將它分享給你的盟友，精力充沛的繼續你的旅程。"
+event_adiscardedflask_drinkdrunk_gained2,"當你將燒瓶舉到唇邊時，聞到濃縮酒精的強烈刺激味，但還是決定嘗試一下。儘管你感覺像吞了一團火似得，咳嗽、喘氣，但你的盟友都踴躍的嘗試了這種烈酒。
+
+燒瓶現在空了，而你們跌跌撞撞的繼續旅程，明顯都有些醉了。"
+event_adiscardedflask_leave,你忍住了喝酒的衝動，把瓶子扔到一邊。也許不明飲品最好不要隨意嘗試！
+event_adownedtraveler,"當你走到一個岔路口，你發現前方有一個人影，他正躺在一棵枝葉茂盛的大樹邊休息。他似乎弓著身子，一隻手抓著胸口。當你試探性地靠近時，他注意到你並招呼你靠近一點。
+
+“喂，這裡！請幫幫我！”
+
+陌生人的聲音中帶著一絲絕望，當他揮手試圖引起你的注意時，似乎更加痛苦呻吟起來。然而，在樹的陰影籠罩下，你無法辨認清楚他是誰或什麼。這個求助會不會是個陷阱？周圍的灌木叢是藏身的理想場所，也許裡面隱藏著他的同伴等著突襲然後搶劫你。"
+event_adownedtraveler_a,謹慎地接近大樹
+event_adownedtraveler_b,換另一條路線
+event_adownedtraveler_help,"當你走近時，你看到一個岩石般的原生族人，它正痛苦地抓著它玻璃般的胸膛上一條深深的裂縫。看起來它確實經歷了好些日子了。它用希冀的眼神仰視著你。
+
+“請給予我一點點的憐憫和幫助。附近有一座神廟可以治療我的傷口，但我沒有足夠的金幣。如果可以的話，能否給點金子我，我會盡我所能回報你。”"
+event_adownedtraveler_help_a,幫助這個可憐的的原生族吧。
+event_adownedtraveler_help_a_subtext,（失去 ¬ADownedTraveler_Pity.GoldAmount¬ 個金幣）
+event_adownedtraveler_help_b,嘲笑。幫助一個核心破裂的原生族有什麼用處，它必死無疑了。
+event_adownedtraveler_leave,因為擔心會被伏擊，你換了個方向繞過大樹試圖穿過灌木叢。荊棘叢生的灌木撕扯著你的衣服，牽絆著你的腳步。最終，你徹底的迷了路，幾個小時裡你被各種各樣的植物刺傷和刮傷，無數次絆倒，渾身密佈的細小傷口，真是個悲劇。好在你終於掙扎著回到了大路上。
+event_adownedtraveler_pity,"你把金子遞給原生族，它站起來做了個鬼臉並感謝你的憐憫。它手持著一個小型的脈動水晶，隨之一道綠光弄罩著你，你沐浴在綠光裡，渾身顯得綠油油的。
+
+當你沐浴在綠色的光芒中時，你肝到一股特殊能量在你體內湧動。原生族向你道別，而你希望它能早日康復，然後你回頭，向著前方走去。"
+event_adownedtraveler_scoff,你將原生族留在了原地，讓命運給與其憐憫。當你離開時，你聽到它呼吸聲中夾雜著喃喃自語。一股突如其來的惡寒刺痛著你的皮膚，你忍不住猜想是不是這個原生族是否在用冰魔法詛咒你......
+event_afatefulencounter,"夜幕降臨，群星隱匿，周圍愈發陰暗起來。你四處打量了下，在那深邃的陰影裡，似乎空無一物，但恍惚間又似乎有無窮的惡意目光在注視著你。你的心裡越來越低沉，想不顧一切的逃離這裡。這時你看見附近的洞穴，透出朦朧的亮光，你按下忐忑的意念，決定冒險進洞調查或者躲避。
+
+小心翼翼地靠近光亮，你發現洞穴裡一名花晶族正在冥想，而光亮正是源自她皮膚上的大水晶，這光亮照亮了整個洞穴。她似乎並沒有覺察到你的到來。
+
+你打量起四周，發現洞穴壁上有多幅繪畫，似乎正是描繪了你之前進行的任務，甚至有一幅正好描繪了光芒引導你進入洞穴的過程。而在花晶族不遠處，隨意放置著一些粉筆，補給以及一袋子金幣。"
+event_afatefulencounter_a,等待花晶族完成冥想
+event_afatefulencounter_b,拿走硬幣並悄悄離開
+event_afatefulencounter_take_gold,"你越是靠近那袋硬幣，花晶族的水晶散發出的光芒就更為刺眼，眼睛都能感覺到刺痛。但這又有什麼關係，你終究在沒有驚擾她的情況下，輕輕地把袋子揣到懷裡，然後慌不擇路的拼命逃走。
+
+當你覺得跑的夠遠的時候，你從懷中取出袋子，準備算算自己的收貨。你打開袋子，才發現裡面不止有硬幣，竟然還有一張羊皮卷，而上面就畫著你，一隻手拿著袋子，一隻手拿著一張羊皮卷在仔細地看。命運是如此奇妙，你不經懊惱，有沒有可能花晶族會獎勵你更多的東西，超過你竊取金幣的價值。"
+event_afatefulencounter_take_muddle,"你越是靠近那袋硬幣，花晶族的水晶散發出的光芒就更為刺眼，眼睛都能感覺到刺痛。當你小心翼翼的拿起袋子時，注意到你前面不遠的地面上有一幅模糊的繪畫，似乎描繪的就是你拿起了袋子，再然後一團閃電擊中你的頭......
+
+第二天清晨，你從昏迷中醒來，能聞到一股焦糊味，頭皮刺疼。好在謝天謝地，你還是個整體，沒有少什麼零件，可能就是體毛少了些，皮膚紅了些，更加慶倖的是，你的硬幣還在  一  你高興地想放聲大笑，突然感覺頭也很疼，就好像有7個小矮子一邊鋸著樹，一邊又跳又唱，還有個女歌手在飆著高音。"
+event_afatefulencounter_wait,"你坐在一旁等待花晶族完成她的冥想。終於......在黎明破曉時分，你從瞌睡中驚醒，用疲倦的眼神凝視著花晶族。她的水晶發出的光芒開始消退，最終歸於沉寂，而她則緩緩睜開紫水晶般的眼眸注視著你，沒有一點驚訝。
+
+“日安，旅行者們，我一直在等待你們。”花晶族輕聲說道。在她收集完所有物品後，靦腆地微笑了下， “你無疑有很多問題，但遺憾的是我沒有多少時間。在我離開之前，請允許我聆聽啟示，看看有什麼命運在等著你們......”
+
+她目不轉睛地凝視著你，用手指了指一幅洞穴壁畫 一 你確信之前沒有出現過的一幅 一 描繪了你與花晶族對話的情景。"
+event_afatefulencounter_wait_a,繼續
+event_afatefulencounter_wait_curse,"花晶族人再次閉上雙眼，另一隻手緩緩指向牆壁上的一處空白地方。她低聲吟唱著一些你根本無法理解的字詞，然後在那空白處慢慢浮現出小蜘蛛圖案。
+
+“蜘蛛，受咒而長生，因孤而怨恨，結千絲而侍陰影，織萬網而守孤獨，凡驚擾者必受其毒。”
+
+在你向她詢問之前，她打了個響指就消失了，而所有的洞穴壁畫也隨她一起消失了 一 只剩下黑冷的洞穴以及困惑的你。你一邊思索著她的啟示，一邊又得為之後的旅程做準備工作了。"
+event_afatefulencounter_wait_gold,"花晶族人再次閉上雙眼，另一隻手緩緩指向牆壁上的一處空白地方。她低聲吟唱著一些你根本無法理解的字詞，然後在那空白處慢慢浮現出一袋硬幣圖案。
+
+“財富固然使你快樂，但它也讓你迷失 一 幸運變為不幸。”
+
+在你向她詢問之前，她打了個響指就消失了，而所有的洞穴壁畫也隨她一起消失了 一 只剩下黑冷的洞穴以及困惑的你，當然還有心心念念的那袋硬幣。你收起袋子，一邊思索著她的啟示，一邊又得為之後的旅程做準備工作了。"
+event_afatefulencounter_wait_xp,"花晶族人再次閉上雙眼，另一隻手緩緩指向牆壁上的一處空白地方。她低聲吟唱著一些你根本無法理解的字詞，然後在那空白處慢慢浮現出一個雙手合十低頭懺悔的男人的圖案。
+
+“從錯誤中，我們收穫知識，但不可因懊悔而毀棄。”
+
+在你向她詢問之前，她打了個響指就消失了，而所有的洞穴壁畫也隨她一起消失了 一 只剩下黑冷的洞穴以及困惑的你。也許她是一個睿智的先知般人物，也許只是個裝神弄鬼的神棍，但你細細思索，似乎能洞察自身，獲益匪淺 一 但熬夜和憋尿都傷身啊。"
+event_ambushaftermath,"這裡發生了一場屠殺——一群牧師和治療師的屍體散落在小路上，而殺死這些人的兇手早已不見蹤影。
+
+如果你選擇撿屍，應該還有可能找到些貴重物品，但你也在揣測那些無上至尊存在是否會對好心埋葬他們的人施與微笑。"
+event_ambushaftermath_a,掠奪屍體
+event_ambushaftermath_b,埋葬屍體
+event_ambushaftermath_bury2,不知何故，你得到一種啟示，儘管你埋葬死者的意圖是好的，但你首先掠奪他們的事實在某種程度上否定了這一善行。
+event_ambushaftermath_bury_bless,你感到埋葬這些可憐的靈魂是正確的。你對你的善行感到心滿意足，繼續前進。
+event_ambushaftermath_bury_disarm,就在你準備挖掘時，你聽到了一根枯枝被踩斷的哢嗒聲。你抬頭一看，發現自己已經被一小群以逸待勞的土匪包圍——這是一次伏擊！無處可逃，別無選擇，你只能與他們拼死一戰了。
+event_ambushaftermath_c,離開
+event_ambushaftermath_fight,"儘管土匪人數眾多且讓你有些措手不及，但他們最終會明白，你可比他們伏擊的前一組人要厲害的多。當剩下的人轉身逃跑時，你注意到其中一個土匪背著小包東西，裡面應該是他們之前伏擊後搜刮的少量戰利品。
+
+你決定立刻離開，不準備看看土匪會不會帶著增援回來！"
+event_ambushaftermath_leave,殺了這些人的兇手隨時都有可能回來，而你也不太想遭遇同樣的命運——你最終匆匆離開了這個地區。
+event_ambushaftermath_loot,屍體已經被搜刮的乾乾淨淨了，比你的口袋都要乾淨，根本就沒有什麼值錢東西留下了。
+event_ambushaftermath_loot_a,埋葬屍體
+event_ambushaftermath_loot_b,離開
+event_ambushaftermath_loot_disarm,就在你摸屍尋找財物時，你聽到了一根枯枝被踩斷的哢嗒聲。你抬頭一看，發現自己已經被一小群以逸待勞的土匪包圍——這是一次伏擊！無處可逃，別無選擇，你只能與他們拼死一戰了。
+event_ambushaftermath_loot_disarm_a,攻擊土匪
+event_ambushaftermath_loot_gold,所有的裝備都是殘破的狀態不堪使用，而任何有價值的東西很可能已經被殺死這些人的兇手洗劫一空。好在，在你孜孜不倦的努力摸索下，在其中一名死者的口袋裡找到了少量黃金！
+event_ambushaftermath_loot_item,所有的裝備都是殘破的狀態不堪使用，而任何有價值的東西很可能已經被殺死這些人的兇手洗劫一空。不過，你終歸找到了一件可能對你有用的道具，兇手們畢竟不如你這麼仔細認真！
+event_ashortcut,當你疲于在這茂密的森林中穿行乏味的路線時，你考慮選擇一條能直接穿過這有著錯綜複雜樹枝的小路，以大大縮短你旅程的時間。你注意到前面的灌木叢後面有一小塊空地，可能是一條穿過這茂密森林的捷徑。
+event_ashortcut_a,嘗試那條隱藏的捷徑
+event_ashortcut_b,沿著道路前進
+event_ashortcut_berries,這些漿果實在是平平無奇。你重新回到道路上，也不用再考慮帶不帶這些果子，反而因為捷徑的成功而高興起來。
+event_ashortcut_berries_gained1,這些漿果不僅味道難聞，而且似乎還有毒！你不明白為什麼你團隊裡的每個人都要嘗嘗這些果子，但是現在當你們回到路上時，都抓著胃感覺很糟糕。
+event_ashortcut_berries_gained2,這些漿果不僅味道很好，而且似乎還有讓人精神振奮的特性——在這幾個月中你從未感覺如此之好！你用這些美味的漿果裝滿你的口袋，然後重新上路。
+event_ashortcut_continuedownroad,仔細考慮之後，你決定或許繼續前行才是最好的選擇。
+event_ashortcut_taketheshortcut,邊開路邊穿過森林，你很高興到達了另一邊。在森林的邊緣，你正要重新上路時，附近一塊點綴著奇怪紫色漿果的灌木叢吸引了你的注意。
+event_ashortcut_taketheshortcut_a,嘗一下這些漿果
+event_ashortcut_taketheshortcut_b,沿著道路前進
+event_bloodyvalrath,"當經過一個墓地時，你注意到了泥土中新產生的足跡，從一座墳墓一直蜿蜒到另一座墳墓。當你正追蹤足跡時，突然間，一陣刺耳的尖叫聲打破了可怕的寂靜，一種恐懼感在你的心中油然而生。
+
+你嘗試著溜過去尖叫聲的源頭，結果發現了一個女性煉魔族，而在她面前的，是被打開的墳墓，旁邊躺著一具屍體。他穿著一件邪教徒常穿的破舊黑斗篷，而你可以從他的傷口中看出他死得既血腥又暴力。
+
+這個女性煉魔族戴著一條華麗的項鍊，穿的是煉魔族典型的上流社會的服裝，笨重卻又色彩斑斕。？然而似乎有什麼地方不太對勁，你注意到她的衣服被蟲蛀了，頭髮髒亂，並且她顫抖的手緊握著一把刀，上面滴著鮮血。"
+event_bloodyvalrath_a,提供幫助
+event_bloodyvalrath_a_subtext,這個煉魔族可能是一名受害者......
+event_bloodyvalrath_attack,"儘管你試圖發起偷襲，然而那個煉魔族已經有所防備。她迅速躲開然後跳向你，用她的小刀向你奮力發起攻擊。你們激烈地交鋒了一陣子，然後抓住了一個時機擊中了她的脖子。她的頭顱被砍下，飛向一塊墓碑。
+
+她的屍體倒下時化成了一堆灰燼，而那種恐懼感立刻解除了。雖然你受了傷，但也松了一口氣，你回到了原來的道路上，想知道她和那個邪教徒之間發生了什麼——以及她是誰，又或者她是<i>什麼</i>......"
+event_bloodyvalrath_b,出其不意地攻擊她
+event_bloodyvalrath_b_subtext,她似乎潛藏著某種危險......
+event_bloodyvalrath_c,命令她把它交出來
+event_bloodyvalrath_c_subtext,這條項鍊看上去很有價值......
+event_bloodyvalrath_d,在她注意到你們之前逃跑
+event_bloodyvalrath_d_subtext,這裡的一切事物都不太對勁......
+event_bloodyvalrath_help,"你讓她知道了你的存在，並告訴她你沒有惡意。她仍然在顫抖，似乎受到了驚嚇。除了知道她想回家之外，你無法再從她那裡得到任何其他資訊，你給了她幾個硬幣和一些旅途中的食物，並指給了她最近的村莊的方向。
+
+她羞澀地朝你點點頭，似乎在表達感謝，低聲說了些奇怪的話，然後慢慢地轉身離開了，隨著她的離去，恐懼感從你身上解除了。"
+event_bloodyvalrath_leave,"不管這裡發生了什麼事，你都不想參與其中。你回過頭向叢林前進，但你聽到那名煉魔族在呼喚你，懇求你幫助她。
+
+你決心要離開，便頭也不回地繼續前進。那名煉魔族尖聲向你說了些什麼，而那種奇怪的恐懼感變得越來越強烈。當你離開墓地時，你確信你已經被詛咒了，你想知道如果留下來“幫助”她的話會發生些什麼......"
+event_bloodyvalrath_rob,"她轉過身來似乎要進行戰鬥，但當發現寡不敵眾時，她無奈的接受了。她交出了項鍊，用你從未從煉魔族人嘴裡聽到過的詞彙向你詛咒和吐口水。她憤怒地迅速離開了，你檢查了那個邪教徒的屍體，想知道這裡到底發生了什麼。
+
+你注意到項鍊上的銘文與空墳上的墓碑的墓誌銘一致......也許那是她的名字？隨著各種可怕的可能性在你的腦海中閃現，你突然感到非常不舒服，脊柱也在顫抖。你迅速離開了墓地，希望離開這個被詛咒的地方後不適就會消失，並決定一找到機會就把項鍊賣掉。"
+event_brokencart,你在路邊遇到一個年老酒商，他的手推車的一個輪子脫落了。你看到他正忙活著試圖把它裝回去。當你靠近時，他似乎也沒有注意到你，但很明顯，他沒有那個力氣抬起車來裝上車輪。
+event_brokencart_a,主動幫助酒商
+event_brokencart_b,打劫酒商
+event_brokencart_c,離開
+event_brokencart_drink,這些酒是你所品嘗過的最好的酒。感受到美酒帶來的活力，你繼續前行。
+event_brokencart_drink2,酒的味道特別糟糕——你喝了一口，就吐了出來。由於酒商已經沒有了其它有價值的東西，你放過了這個可憐的老頭，讓他自己滾去處理破損的車輪，然後繼續你的旅程。
+event_brokencart_drink2_gained_muddle,酒的味道很好，但也許有點太好了——哪怕已經耳熱眼花，你還是喝了個盡興。之後你跌跌撞撞的繼續旅程，路上還在回味這沒救。
+event_brokencart_drink2_gained_strengthen,這酒的味道令人難以置信——你因為喝了這麼好的酒而感到精神振奮。你讓商人自己去處理破損的車輪，然後繼續上路。
+event_brokencart_help,"你拍了拍酒商的肩膀，把他嚇了一跳，他竟然都懸空了！
+
+“嘿！不要這樣偷偷摸摸地接近一個老人！”
+
+他那雙炯炯有神的眼睛透過一副髒兮兮的劃痕眼鏡掃視你，正當你準備開口提供幫助時，他對你冷冷一笑。
+
+“你就打算在那裡傻站一整天嗎？你，別看了，把車抬起來，你，拿穩車輪！數到三——也就是正好到三，而不是數到三之後——你要抬起車輪，然後......”
+
+你可能會在這裡耗上一整天。"
+event_brokencart_help2,"你輕輕鬆松就把車輪安了上去，而老酒商用鄙夷的語氣抱怨道， “沒有你這個笨手笨腳的傢伙‘幫忙’，我可以做得更輕鬆！”。這老傢伙一句感謝的話都沒說，繼續對你的無能笨拙大發牢騷，然後揚長而去。
+
+當你準備離開時，你注意到有一瓶酒從顛簸的車上掉到了路邊的灌木叢裡。由於老酒商已經在走了一段距離，你決定把它作為對你提供幫助的回報，與同伴們共飲。"
+event_brokencart_help2_gained,你輕輕鬆松就把車輪安了上去，而老酒商用鄙夷的語氣抱怨道， “沒有你這個笨手笨腳的傢伙‘幫忙’，我可以做得更輕鬆！”。這老傢伙一句感謝的話都沒說，繼續對你的無能笨拙大發牢騷，然後嫌棄地撒了一小把硬幣在地上就揚長而去了。
+event_brokencart_help2_gained_next,繼續
+event_brokencart_help_a,幫助酒商
+event_brokencart_leave,你覺得酒商的難處不關你的事，然後揚長而去。
+event_brokencart_rob,"當酒商看到你拔出武器接近時，他畏畏縮縮地躲到手推車後面。
+
+“請......請不要傷害我！”，他結結巴巴地說，“我會給你我僅有的一點金子，你想拿多少酒也可以，只是請放過我！”
+
+他用顫抖的手伸向腰帶，費了半天勁掏出一個裝著疑似裝有硬幣的小袋子，並把它扔向你，“這是我所有的黃金了，我發誓！”
+
+你把袋子撿起來，清點了下，然後裝進自己的腰包，又順手從手推車上拿起一瓶酒。"
+event_brokencart_rob_a,暢飲
+event_bucketofluck,"你注意到前方的岔路口，有一個長相清奇的人擺了一個攤位。於是你靠近仔細查看一番，攤位上擺著一個大木桶，裡面裝滿了疑似泥巴的東西，而在桶邊上潦草的寫著‘幸運桶’的字樣。
+
+“歡迎，歡迎，大家都來吧！”他向你喊道，“想試試你的運氣嗎？”。"
+event_bucketofluck_a,靠近攤位
+event_bucketofluck_approach,"當你走近，你看到男人身上滿是泥土，在他長長的、爪狀的指甲下結成了塊。他注意到你盯著他看，他笑了。“嗯，我總得從什麼地方給自己弄點兒獎品，不是嗎？”他苦笑著說，然後尷尬的朝你眨了眨眼。
+
+“用你¬LoseSmallGold.GoldAmount¬金幣去試試——誰知道你會發現什麼呢，不是嗎？”"
+event_bucketofluck_approach_a,試試你們的運氣
+event_bucketofluck_approach_a_subtext,（失去 ¬LoseSmallGold.GoldAmount¬ 個金幣）
+event_bucketofluck_approach_b,離開
+event_bucketofluck_b,走過去
+event_bucketofluck_gainedloot_gained1,"你在桶裡摸索了一會兒，然後似乎摸到了什麼東西。你緊緊的抓住它，然後拎出了一雙皮靴。
+
+“哼，他們乒呤乓啷的，是不是？”他捏著鼻子，很明顯沒意識到自己聞起來比靴子還臭的多。“如果我沒記錯的話，好像是城衛兵的。”
+
+看著這雙靴子，他們似乎是用高品質的皮革製成的，雖然有點兒磨損。你撣去胳膊和靴子上的灰塵，帶著它離開了。"
+event_bucketofluck_gainedloot_gained2,"你在桶裡摸索了一會兒，然後似乎摸到了什麼東西。你緊緊的抓住它，然後拎出了一副破舊的護目鏡。
+
+“啊，這些東西......說實話我幾乎看不清他們，但我相信你會比我找到更多用處的。”
+
+跟這個陌生男人告別後，你擦去護目鏡的灰塵並戴上它，繼續上路了。"
+event_bucketofluck_leave,你決定不把手伸進這個誰知道裡面是啥的桶裡。你禮貌的拒絕了陌生男人的提議並離開了。
+event_bucketofluck_playbarrel,"你交出金子，他貪婪的把它裝進口袋。“來吧，伸進去試試吧！”
+
+你把你的胳膊深深的伸進桶裡，不確定會發生什麼。"
+event_bucketofluck_playbarrel_a,......
+
+event_duel,"你聽到叮噹的響聲，聽起來像是前面正在發生一場戰鬥。當你走近的時候，你看到一個石人和一個羚牛族人正在激烈的決鬥。
+
+他們都看到了你的到來並向你呼救。"
+event_duel_a,幫助石人
+event_duel_a_unavailable,羚牛族永遠不會讓石人淩駕於我們之上。
+event_duel_b,幫助羚牛族。
+event_duel_b_unavailable,石人永遠不會背叛他們的親人！
+event_duel_breakup_gained_damage,"你跳進戰場中間，試圖終止這場決鬥。但就在這時，石人從大地上召喚了土塊擊打羚牛。
+
+儘快你因石塊而受傷，但你最終成功將他們拉開，並讓他們冷靜下來。
+
+他們沒有向你解釋為什麼他們打起來了，只是從你手中掙脫，然後朝相反的方向離開了。"
+event_duel_breakup_gained_item,"你跳進戰場中間，試圖終止這場決鬥。可是他們都認為你在給對面幫忙，所以他們都逃跑了。
+
+正在困惑中的你發現他們掉落了一個¬Duel_BreakUp.Item¬。你jlta撿起來然後繼續沿著路向前走。仍然想不通為什麼他們就打起來了。"
+event_duel_breakup_gained_xp,"你跳進戰場中間，試圖終止這場決鬥。你成功的將他們分開，讓他們冷靜下來。
+
+他們沒有向你解釋為什麼他們打起來了，只是從你手中掙脫，然後朝相反的方向離開了。"
+event_duel_c,嘗試在不傷害任何一方的前提下結束這場決鬥。
+event_duel_d,無視他們繼續往前走。
+event_duel_helpinox_gained_gold,你站在石人一方，羚牛族發現雙拳難敵四手，逃跑了。石人感謝於你的幫助，送給了你一小袋金子，然後向你道別。
+event_duel_helpinox_gained_item,你站在羚牛族一方，於是石人發現雙拳難敵四手，逃跑了。羚牛族感謝於你的幫助，送給了你一小袋金子，然後向你道別。
+event_duel_helpsavvas_gained_infusions,"你站在薩維斯一方，羚牛族發現雙拳難敵四手，逃跑了。
+
+薩維斯感謝於你的幫助，但是對他實在沒什麼能拿得出手以示感謝而表示歉意。
+
+但在你們分開之前，他胸口的四個能量核心閃閃發光，為你注入他掌握的四種元素。這會在你的下次遭遇戰中給予你元素協助。"
+event_duel_helpsavvas_gained_item,你站在薩維斯一方，羚牛族發現雙拳難敵四手，逃跑了。薩維斯感謝於你的幫助，在離別前給了你一瓶藥水。
+event_duel_leave,你決定不打擾他們的決鬥，繼續沿著路向前走。你漸行漸遠，聲音也漸漸消失。
 event_ropebridge,這條路把你們引導向一個峽谷，你們視野所見範圍內，唯一的通道是一座搖搖欲墜的舊吊橋。這座橋的繩索看起來非常破舊，木板也嚴重腐爛了，但另外尋找一條過河的路看起來可能需要相當長的時間。
 event_ropebridge_a,通過吊橋
 event_ropebridge_anotherway,你們很幸運！沿著峽谷邊緣不遠處，你發現一棵因暴風雨而倒下的大樹，形成了一座臨時的橋樑。它似乎比腐爛的吊橋要堅固得多，所以你順利地走了過去。
@@ -4095,45 +4147,6 @@ fordingbridge,灘橋地
 forgoactionsforcompanion,可以放棄給盟友施加Buff的行動
 forgottentunnels,遺忘隧道
 
-================================================================================================================================================
-#region 起始教學
-================================================================================================================================================
-ftue_10,"黯淡港灣並不以有禮貌的民眾和見義勇為的人知名，但是從這個城市的街道上你能得到很多...
-點擊下方的按鈕，你可以現在<color=#EACF8C>參與城市遭遇</color>。
-<size=60><sprite name=""MapMarker_Story""></size>
-（遊戲鼓勵你這麼做，不論你什麼時候在城市，這麼做經常給予你不錯的回報）。"
-ftue_11,"你要是發現一個任務看起來太難，或者你不斷地失敗於一個任務，記住<color=#EACF8C>巨橡聖所</color>會賦予你它的祝福... 以一個合適的價格，你明白的。
-點擊下方的按鈕，你可以現在進入寺廟。
-<size=60><sprite name=""Temple_Icon""></size>"
-ftue_12,"<color=#EACF8C>第一個任務</color>位置被標記在黯淡港灣的正北；你將看到它用旗幟的圖示標出。 隨著你的進行，更多工地點將顯示在地圖上。想要查看它們，你可以使用螢幕右邊的任務記錄。
-點擊黑土墳塚或是進入任務記錄去選擇這個任務。"
-ftue_13,"記住你可以帶著<color=#EACF8C>最多四個雇傭兵</color>開始一個任務（但是你帶的雇傭兵越多，相應的任務難度也將會更高）。
-一旦開始一個任務，直到返回黯淡港灣之前，你不能夠改變你的團隊成員。"
-
-
-ftue_4,"下一步你將選擇一個<color=#EACF8C>起始角色職業</color>。
-每個角色擁有獨特的技能和遊戲方式。隨著你的等級提升，可獲取新技能卡並解鎖更多角色職業。
-點擊角色頭像以瞭解他們的更多資訊並選擇任意一個成為你的第一個雇傭兵！"
-ftue_4.2,選擇<color=#EACF8C>六個起始角色職業</color>中的一個
-ftue_4.3,"不錯的選擇！現在記住，外表不代表一切，雇傭兵的技能卡才代表著他們戰鬥中的行動能力。你能點擊“<color=#EACF8C>起始技能卡</color>”按鈕去判斷他對你的團隊這是不是正確的雇傭兵。
-一旦你確定你的決定，點擊“<color=#EACF8C>選擇雇傭兵</color>”按鈕以繼續。"
-ftue_5,選擇<color=#EACF8C>兩個個人任務</color>之一
-ftue_6,祝賀！你已經創建成功你的第一個雇傭兵！現在記住，你需要<color=#EACF8C>最少兩個雇傭兵</color>出去尋找冒險。構建一個戰鬥中成員之間互補的雇傭兵團隊是很重要的。
-ftue_7,"在團隊面板中點擊<color=#EACF8C>第二角色槽</color>並創建一個新角色。
-要知道你不能同時在團隊中擁有數量超過一個的某個角色職業的雇傭兵，請創造不同的角色！"
-ftue_7.2,點擊<color=#EACF8C>第二角色槽</color>去打開角色選擇面板
-ftue_8,"到了進行一些冒險的時候了！
-如果你心中已確定當前的團隊，點擊螢幕中心以關閉團隊角色選擇面板並返回世界地圖。"
-ftue_8.2,點擊<color=#EACF8C>螢幕中心</color>以返回世界地圖
-ftue_9,"在啟程你的第一個任務之前，你<color=#EACF8C>應該做好行動準備</color>，畢竟，這是你第一次出發的開始...
-你會注意到每個雇傭兵都擁有一點金幣儲備。
-遊戲鼓勵你把這些錢帶到<color=#EACF8C>商人的店面</color>並花掉，購買任何可能讓你活命的東西。"
-ftue_9.2,使用下方的“商人”按鈕以<color=#EACF8C>進入商人的店面</color>
-ftue_9.3,當準備好時，點擊下方的“世界地圖”按鈕以<color=#EACF8C>返回世界地圖</color>
-================================================================================================================================================
-#endregion 起始教學
-================================================================================================================================================
-
 gain_flying,獲得<nobr>飛行<sprite name=Flying></nobr>
 german,German
 giantbat,巨型蝙蝠
@@ -4141,13 +4154,12 @@ giantooze,巨型軟泥怪
 giantrat,巨型鼠
 gianttoad,大蟾蜍
 
-
 giantviperid684,巨蟒臨近效果
 giantviperid685,巨蟒臨近效果
 gibbethill,絞架嶺
 gibbethill_descr,惡魔閘口鎮的東邊是絞架嶺，這裡的絞架是對肆虐該地區的強盜赤裸裸的警告。
 givesupplycard,給予卡牌
-gloomhaven,黯淡港灣
+
 gloomhaven_street_boilers_district,鍋爐街區
 gloomhaven_street_coin_district,硬幣街區
 gloomhaven_street_east_barracks,城東軍營
@@ -4156,16 +4168,13 @@ gloomhaven_street_hook_coast,鉤爪海岸
 gloomhaven_street_horn_district,號角街區
 gloomhaven_street_merchants_bay,商人海灣
 gloomhaven_street_mixed_district,混合街區
-gloomhaven_street_new_docks,新碼頭區
-gloomhaven_street_new_market,新市集
 gloomhaven_street_northern_barracks,城北軍營
-gloomhaven_street_old_docks,舊碼頭區
-gloomhaven_street_the_sinking_market,陷沒市集區
 gloomhaven_street_the_void,虛影迷域
 gloomhaven_street_travellers_district,旅人大街
 gloomhaven_street_university,學院
 gloomhaven_street_ward_of_scales,天秤街區
 gloomhaven_street_west_barracks,城西軍營
+
 glossary_action,行動是角色和怪物如何在幽暗迷城中進行它們的輪次，由一個或多個技能卡組成。
 glossary_addtarget,附加額外攻擊目標。
 glossary_advantage,優勢攻擊：具有優勢的攻擊者將抽取兩張攻擊修正卡並使用其中更好（數值更高）的那張。
@@ -4194,40 +4203,40 @@ glossary_disarm,繳械：繳械狀態的單位不能不能釋放任何攻擊技�
 glossary_dothex,這個點顯示了這個效果範圍以後可以被提升，從而在這個點處增加一個效果範圍格子。
 glossary_earth,元素充能 - 土：用土元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位被一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
 glossary_elite,一個精英怪擁有比非精英怪更高的數值資料，並且精英怪在非精英怪之前行動（因為精英怪和非精英怪時序值相同）。
-glossary_enhancement_air,技能提升 - 氣元素
-glossary_enhancement_anyelement,技能提升 - 任意元素
-glossary_enhancement_area,技能提升 - 施法範圍
-glossary_enhancement_bless,技能提升 - 祝福
-glossary_enhancement_curse,技能提升 - 詛咒
-glossary_enhancement_dark,技能提升 - 暗元素
-glossary_enhancement_disarm,技能提升 - 繳械
-glossary_enhancement_earth,技能提升 - 土元素
-glossary_enhancement_fire,技能提升 - 火元素
-glossary_enhancement_ice,技能提升 - 冰元素
-glossary_enhancement_immobilize,技能提升 - 禁足
-glossary_enhancement_jump,技能提升 - 跳躍
-glossary_enhancement_light,技能提升 - 光元素
-glossary_enhancement_muddle,技能提升 - 混亂
-glossary_enhancement_noenhancement,技能提升 - 無
-glossary_enhancement_plusattack,技能提升 - 攻擊+1
-glossary_enhancement_plusheal,技能提升 - 治療+1
-glossary_enhancement_plusmove,技能提升 - 移動+1
-glossary_enhancement_pluspierce,技能提升 - 穿透+1
-glossary_enhancement_pluspull,技能提升 - 拉近+1
-glossary_enhancement_pluspush,技能提升 - 強推+1
-glossary_enhancement_plusrange,技能提升 - 射程+1
-glossary_enhancement_plusretaliate,技能提升 - 反傷值+1
-glossary_enhancement_plusretaliaterange,技能提升 - 反傷距離+1
-glossary_enhancement_plusshield,技能提升 - 護甲+1
-glossary_enhancement_plustarget,技能提升 - 施法目標+1
-glossary_enhancement_poison,技能提升 - 中毒
-glossary_enhancement_strengthen,技能提升 - 強化
-glossary_enhancement_summonattack,技能提升 - 召喚物攻擊力
-glossary_enhancement_summonhp,技能提升 - 召喚生命值
-glossary_enhancement_summonmove,技能提升 - 召喚移動力
-glossary_enhancement_summonrange,技能提升 - 召喚射程
-glossary_enhancement_wound,技能提升 - 流血
-glossary_enhancementdot,技能可提升標識點：表示這個技能或效果範圍能進行技能提升。
+glossary_enhancement_air,能力卡強化 - 氣元素
+glossary_enhancement_anyelement,能力卡強化 - 任意元素
+glossary_enhancement_area,能力卡強化 - 施法範圍
+glossary_enhancement_bless,能力卡強化 - 祝福
+glossary_enhancement_curse,能力卡強化 - 詛咒
+glossary_enhancement_dark,能力卡強化 - 暗元素
+glossary_enhancement_disarm,能力卡強化 - 繳械
+glossary_enhancement_earth,能力卡強化 - 土元素
+glossary_enhancement_fire,能力卡強化 - 火元素
+glossary_enhancement_ice,能力卡強化 - 冰元素
+glossary_enhancement_immobilize,能力卡強化 - 禁足
+glossary_enhancement_jump,能力卡強化 - 跳躍
+glossary_enhancement_light,能力卡強化 - 光元素
+glossary_enhancement_muddle,能力卡強化 - 混亂
+glossary_enhancement_noenhancement,能力卡強化 - 無
+glossary_enhancement_plusattack,能力卡強化 - 攻擊+1
+glossary_enhancement_plusheal,能力卡強化 - 治療+1
+glossary_enhancement_plusmove,能力卡強化 - 移動+1
+glossary_enhancement_pluspierce,能力卡強化 - 穿透+1
+glossary_enhancement_pluspull,能力卡強化 - 拉近+1
+glossary_enhancement_pluspush,能力卡強化 - 強推+1
+glossary_enhancement_plusrange,能力卡強化 - 射程+1
+glossary_enhancement_plusretaliate,能力卡強化 - 反傷值+1
+glossary_enhancement_plusretaliaterange,能力卡強化 - 反傷距離+1
+glossary_enhancement_plusshield,能力卡強化 - 護甲+1
+glossary_enhancement_plustarget,能力卡強化 - 施法目標+1
+glossary_enhancement_poison,能力卡強化 - 中毒
+glossary_enhancement_strengthen,能力卡強化 - 強化
+glossary_enhancement_summonattack,能力卡強化 - 召喚物攻擊力
+glossary_enhancement_summonhp,能力卡強化 - 召喚生命值
+glossary_enhancement_summonmove,能力卡強化 - 召喚移動力
+glossary_enhancement_summonrange,能力卡強化 - 召喚射程
+glossary_enhancement_wound,能力卡強化 - 流血
+glossary_enhancementdot,技能可提升標識點：表示這個技能或效果範圍能進行能力卡強化。
 glossary_exhausted,當一個傭兵處於以下兩種情況之一精力耗盡：少於1點生命值；或者當一個回合開始的時候，他們只有不到兩張手牌，並且沒有足夠的卡牌去進行燒祭，用以通過休息去回手棄置堆的卡牌。如果所有傭兵精力耗盡，那麼劇本失敗！
 glossary_fear,強迫所有雇傭兵和他們的召喚物按照時序值次序進行<nobr>“移動<sprite name=Move> 4”</nobr>，路線的終點要盡可能地遠離暗靈叛徒。
 glossary_fire,元素充能 - 火：用火元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
@@ -4295,8 +4304,8 @@ gui_abandon_quest_while_players_joining_mp_tooltip,當前有玩家正在加入�
 
 
 gui_ability_table_tooltip,<color=#CEAD5A>已掌握的技能卡</color>是雇傭兵可以在劇本中執行的行動。
-gui_accept_city_event,接受城市事件
-gui_accept_city_event_tip,所有玩家必須在開始前接受城市事件
+gui_accept_city_event,接受城市遭遇
+gui_accept_city_event_tip,所有玩家必須在開始前接受城市遭遇
 gui_accept_quest,接受任務
 gui_accept_quest_tip,所有玩家必須在旅行前先接受已選好的任務
 gui_accept_town_records,接受城鎮記錄
@@ -4398,7 +4407,7 @@ gui_bind_move_item_confirmation_title,綁定到 {0}
 gui_blessings_unavailable,沒有可用的祝福
 
 
-gui_buy_enhancement_confirmation_title,購買技能提升
+gui_buy_enhancement_confirmation_title,購買能力卡強化
 gui_buy_party_confirmation,你確定要解鎖這個玩家團隊嗎？
 
 gui_cancel_active_bonus,點擊圖示以取消啟動的技能
@@ -4438,7 +4447,7 @@ gui_city_encounter_tooltip,"<size=+4><color=#F3DDABFF>城市遭遇</color></size
 你們每次到黯淡港灣時，只能完成1個城市遭遇。"
 gui_city_event_blocked,"<size=+2><color=#EACF8C>城市遭遇</color></size>
 當一個完成了個人任務的雇傭兵在玩家團隊中時，你們將不能進行一個城市遭遇。"
-gui_city_event_cancel,取消城市事件
+gui_city_event_cancel,取消城市遭遇
 gui_city_quest_description,{0}任務開放！
 gui_cleartargets,撤銷目標
 
@@ -4527,7 +4536,7 @@ gui_distribute_health_unavailable,<color=#C53F3FFF>您沒有傷害</color>
 gui_distribute_item,將物品綁定給一名雇傭兵
 gui_distribute_loseitem,1名雇傭兵必須失去這個物品
 gui_distributed_gold_points,"<color=#fcc951ff><sprite name=""Gold_Icon_White"" color=#FCC951FF>{0}金幣</color>剩餘"
-gui_draw_city_event,城市事件
+gui_draw_city_event,城市遭遇
 gui_dungeon_victory,恭喜！你通過了這個劇本！
 gui_dv_character_strengths,優點：
 gui_dv_character_weaknesses,缺點：
@@ -4571,7 +4580,7 @@ gui_enable_dlc_confirmation,Once a DLC is enabled on a save it cannot return to 
 
 gui_enchantment_points,技能附魔點數
 gui_enchantment_points_tooltip,"<size=+2><color=#EACF8C>技能附魔點數</color></size>
-每次黯淡港灣財富等級增加時，賺取一定的技能附魔點數<sprite name=""Enchantress_Icon"">。 您可以在想要提升的技能卡上使用附魔點數。一旦技能卡被附魔，您可以對技能進行和卡上槽數一致的技能提升。"
+每次黯淡港灣財富等級增加時，賺取一定的技能附魔點數<sprite name=""Enchantress_Icon"">。 您可以在想要提升的技能卡上使用附魔點數。一旦技能卡被附魔，您可以對技能進行和卡上槽數一致的能力卡強化。"
 
 gui_encounter_received,你收到了
 gui_end_extra_turn,結束額外的輪次
@@ -4650,12 +4659,12 @@ gui_gift_enemy_poison,下一個劇本的敵人開始時處於中毒狀態
 gui_gift_enemy_strengthen,下一個劇本的敵人開始時被強化
 gui_gift_enemy_stun,下一個劇本的敵人開始時處於眩暈狀態
 gui_gift_enemy_wound,下一個劇本的敵人開始時處於流血狀態
-gui_gift_enhancement,你獲得了一項技能提升
+gui_gift_enhancement,你獲得了一項能力卡強化
 gui_gift_immobilize,你被禁足了
 gui_gift_infusion,下一個劇本開始時戰場會充能{0}元素
 gui_gift_invisible,您已被賦予隱身狀態
 
-gui_gift_item_design,您收到了一個物品製作工藝。
+gui_gift_item_design,您收到了一個物品設計圖。
 gui_gift_lost_gold,您失去了{0}金幣
 gui_gift_muddle,您陷入混亂狀態了
 gui_gift_negative_condition,您遭受到未知的負面狀態
@@ -5068,11 +5077,11 @@ gui_quest_group_completed,已完成任務數
 gui_quest_group_job,角色職業
 gui_quest_group_relic,聖者遺物
 gui_quest_group_story,故事線
-gui_quest_group_travel,旅行
+
 
 gui_quest_locked,這個任務被鎖定了
 gui_quest_reward_addmodifiers,獲得{0}張攻擊修正卡
-gui_quest_reward_cityevent,解鎖城市事件
+
 gui_quest_reward_consumeitem,在劇本開始時每人消耗1個 {0}
 gui_quest_reward_consumeitem_combined,消耗1個 {0}
 gui_quest_reward_discard,在劇本開始時每人棄置{0}張卡牌
@@ -5081,26 +5090,14 @@ gui_quest_reward_enchantmentpoints,每人{0}附魔點數
 gui_quest_reward_enhancementslots,獲得{0}提升槽
 gui_quest_reward_globalachievement,獲得全域成就
 gui_quest_reward_goldeach,每人{0}金幣
-gui_quest_reward_itemstock,{0}製作工藝
 gui_quest_reward_loseitem,失去1個 {0}
-gui_quest_reward_multiplayer,多人模式
-
 gui_quest_reward_partyachievement,獲得玩家團隊成就
-gui_quest_reward_perk,獲得專精項目
-
-gui_quest_reward_perkpoint,獲得專精點數。
-gui_quest_reward_perkpoint_unlocked,新的專精點數解鎖！
-
 gui_quest_reward_prosperity,{0}個繁榮點數
 gui_quest_reward_reputation,{0}名聲
-
-gui_quest_reward_unlockchapter,解鎖章節{0}
-
-
 gui_quest_reward_unlockenhancer,解鎖技能附魔師
 
-gui_quest_reward_unlockrelicquest,解鎖聖者遺物任務
-gui_quest_rewards,獎勵：
+
+
 gui_quest_select_blocked,當一個完成了個人任務的雇傭兵在團隊中時，你不能開始任務。
 gui_quest_selected_by_host,<color=#FCC954FF>此任務已由主機選擇。</color>
 gui_quest_starting_location_missing,這個任務需要一個起點村莊
@@ -5189,7 +5186,7 @@ gui_select_quest,選擇任務
 gui_select_quest_tip,作為主機，為玩家團隊選擇一個任務
 
 
-gui_sell_enhancement_confirmation_title,賣出技能提升
+gui_sell_enhancement_confirmation_title,賣出能力卡強化
 
 gui_skip_ability,跳過技能
 
@@ -5319,7 +5316,7 @@ gui_use_item_title,使用物品
 gui_validate,驗證
 gui_view_alt_cards_tip,按住alt查看所有卡
 
-gui_wait_players_confirm_city_event,已選擇的城市事件
+gui_wait_players_confirm_city_event,已選擇的城市遭遇
 gui_wait_players_confirm_enter_scenario,進入戰鬥
 gui_wait_players_confirm_quest,已選擇的任務
 gui_wait_players_confirm_tip,等待玩家確認......
@@ -5723,7 +5720,7 @@ loading_tip_015,對於那些在公會模式中非常艱難的任務，你可以�
 loading_tip_016,你有機會在公會模式的職業任務中遇到一個寶箱！在完成劇本目標前務必把寶箱撿起來！
 loading_tip_017,當裝備新物品時請注意——它們將會綁定到那個雇傭兵身上。如果你想換到其他人身上，則必須支付一些費用解綁。
 loading_tip_018,你可以通過完成成就解鎖更多附魔類型，也可以通過探索地圖為每個雇傭兵解鎖更多的附魔槽。
-loading_tip_019,公會模式的旅行和職業任務等級將會隨著遊戲的進行而改變。故事和聖者遺物任務往往更難！
+loading_tip_019,公會模式的旅行和職業任務等級將會隨著遊戲的進行而改變。故事和遺物任務往往更難！
 
 loading_tip_021,召喚夥伴很有用，但它們往往比較莽撞 —— 若想讓它們活下來，就得幫它們吸引火力！
 loading_tip_022,如果你不確定你將行動得過早還是過晚，請考慮挑選兩張不管行動早晚都能發揮效用的牌。
@@ -5754,7 +5751,7 @@ loading_tip_045,僅剩下兩張牌在棄牌堆裡？短休息將導致你直接�
 
 loading_tip_048,如果一個非攻擊性角色試圖移動到一個位置但路線被阻擋不可達，那麼該角色將不會移動。
 loading_tip_049,你可以選擇讓你的團隊裡有2個、3個或者4個雇傭兵——但如何計算劇本的困難程度取決你帶了多少人。
-loading_tip_050,在道路和城市事件中做出的選擇可能會影響世界線的走向，導致新的任務和事件觸發。
+loading_tip_050,在道路和城市遭遇中做出的選擇可能會影響世界線的走向，導致新的任務和事件觸發。
 loading_tip_051,You can use Ctrl+Click to ping a tile in Multiplayer.
 loading_tip_052,"Unlike normal chests, you do not get to keep quest items looted from Ornate Chests if you fail the scenario."
 loading_tip_053,"Summons can only be summoned onto empty hexes - traps, difficult terrain and even gold will block summons!"
@@ -7064,7 +7061,7 @@ quest_campaign_020_list,擊殺潔索菈
 quest_campaign_020_name,死靈法師的聖所
 quest_campaign_020_outro_gh_1,你們回到了黯淡港灣，將潔索菈的頭顱交給了衛兵隊長，領取了豐厚的賞金。“如果你們感興趣的話，我還有一些工作要交給你們。”他一臉嚴峻地說道。
 quest_campaign_020_outro_gh_2,“首先，我們從收到了一些關於巨大飛行生物在北方出沒的情報。人們都很害怕那些惡龍。”他煩躁地搖了搖頭，“我想派你們去北邊進行調查。”
-quest_campaign_020_outro_gh_3,“另外，在城市內部，陷沒市集區下面的下水道裡也有不少麻煩。”
+quest_campaign_020_outro_gh_3,“另外，在城市內部，沉陷市集下面的下水道裡也有不少麻煩。”
 quest_campaign_020_outro_gh_4,那個地區的水井似乎有毒，而且下水道裡滋生的大量的毒蛇和軟泥怪讓深入調查變得十分困難。我希望你們能去那裡，並找出毒素的源頭。”
 quest_campaign_021_desc,你不能允許這種來自其他位面的威脅持續下去...
 quest_campaign_021_intro,"在你們抽出武器前，惡魔領主就已經感知到了你們的殺意。
@@ -7493,7 +7490,7 @@ quest_campaign_052_intro,"你們沿著樓梯向下穿越入口，來到了一個
 
 待塵埃散盡，你們發覺自己已是孤身一人，而且面前的牆向兩側滑開，露出了一道密門，門口還有這一群不太友善的怪物。但不管怎麼說，那個與古籍上相同符文的開關表明你們找對地方了。"
 quest_campaign_052_intro_gh_1,終於，在某個遠古石棺中你們找到了有關索恩遺骸的線索——一本閃著綠光的古書，全是由怪異符文編寫而成。
-quest_campaign_052_intro_gh_2,透過一些研究，你們成功解讀了書中一段晦澀難懂的章節，按它所指引的方向，你們來到陷沒市集區的某個老舊棚屋裡。
+quest_campaign_052_intro_gh_2,透過一些研究，你們成功解讀了書中一段晦澀難懂的章節，按它所指引的方向，你們來到沉陷市集的某個老舊棚屋裡。
 quest_campaign_052_intro_travel_1,然而，當你們來到這裡，卻沒有注意到任何讓你們感興趣的東西。你們再次查閱古書，發現其中提到必須要穿過拱門才可以進入，但這間棚屋根本沒有什麼拱門。
 quest_campaign_052_intro_travel_2,這是你們看到了它：有一組長條狀扁平石頭藏在棚屋門口的泥濘裡。你們之前就算看到它也不會起疑，但你們發現其中一塊石頭的頂端呈現弧形，就像拱門的尖端一樣。進一步的檢查後，你們注意到了一個小按鈕。在好奇心的驅使下，你們按了下去。
 quest_campaign_052_intro_travel_3,這些石頭接連沉入地下，一塊比一塊沉得深，最後形成了一道螺旋狀樓梯，通向一道清晰可見的拱門。
@@ -7547,7 +7544,7 @@ quest_campaign_056_name,強盜的樹林
 quest_campaign_057_desc,追尋你摯友之死的最新線索
 quest_campaign_057_intro,"收集關於你摯友之死的線索不是一件簡單的工作，但在你們堅持不懈的調查下，最終獲悉此事與某個駐紮在城西軍營的貪腐的副官有關。
 
-他公然對陷沒市集區的某些犯罪行為熟視無睹，並且還為罪犯提供保護這件事人盡皆知。而且在你摯友遇害的那晚正是他值班。
+他公然對沉陷市集的某些犯罪行為熟視無睹，並且還為罪犯提供保護這件事人盡皆知。而且在你摯友遇害的那晚正是他值班。
 
 現在是時候大鬧一場了，然後不擇手段從某些人嘴裡刨根問底。"
 quest_campaign_057_list,調查你的摯友之死
@@ -7911,7 +7908,7 @@ quest_campaign_088_scenario_modifier_2,所有角色及其召喚物在每個回�
 quest_campaign_088_scenario_modifier_3,持有潛伏者王爪的角色所有移動<sprite name=Move>技能將 -2 移動力<sprite name=Move>。
 quest_campaign_089_desc,與朧夜客一起，阻止惡棍組織在黯淡港灣獲利
 quest_campaign_089_intro,還沒等你們開口發問，究竟信號指的是什麼，那個朧夜客的身影就在眼前消失了。而你們就在困惑當中度過了幾分鐘，直到一把熟悉的匕首劃破夜空，刺入你們旁邊的地面。你們才明白那就是信號，你們立刻拔出武器沖進房間。
-quest_campaign_089_intro_gh_1,你們跟著那個朧夜客穿過黯淡港灣的大街小巷，直到在舊碼頭區某個小巷中的一個破舊辦公樓前他終於停下了腳步。
+quest_campaign_089_intro_gh_1,你們跟著那個朧夜客穿過黯淡港灣的大街小巷，直到在舊碼頭某個小巷中的一個破舊辦公樓前他終於停下了腳步。
 quest_campaign_089_intro_gh_2,“我希望你們不要期望他們會藏身于那些華麗的高樓裡，”他說道，“辛-拉一向做事低調，這也是為什麼大多數人根本不知道他們的存在。然而在這裡，我的朋友，這裡就是他們的心臟。我現在就要直插他們的心臟，一直捅到他們流幹最後一滴血為止。”
 quest_campaign_089_intro_gh_3,“我會堅守在屋頂上，除掉他們的崗哨，然後確保不會有一個人能夠進出這棟建築。一旦我給你們發出信號，你們要做的就是闖進去，然後殺光所有會動的東西。”
 quest_campaign_089_list,摧毀辛-拉集團的藏身處
@@ -8948,7 +8945,7 @@ scenario_campaign_012_success_1,潔索菈崩潰了，生命從她的瞳孔中流
 scenario_campaign_012_success_2,“真氣人。”衛兵隊長來接你了，他的上衣還沾著血。 “這麼多無謂的死亡，自相殘殺。 至少現在結束了。”
 scenario_campaign_012_success_3,“聽著，你今天證明了自己。沒有你的警告，沒有你的力量，我們早就被亡靈趕上了。 如果你感興趣，我會有更多的工作交給你去完成。”
 scenario_campaign_012_success_4,“首先，我們從北方得到了關於大型飛行生物的報告。人們害怕龍。” 他煩惱地搖了搖頭：“我想請你去北方的關口調查這件事。”
-scenario_campaign_012_success_5,““另外，在城市內部，陷沒市集區下面的下水道裡也有不少麻煩。” 該地區的水井似乎被投毒了，下水道也有毒蛇和軟泥怪出沒，這使得進一步調查變得困難。 我需要你找出毒素的源頭。”
+scenario_campaign_012_success_5,““另外，在城市內部，沉陷市集下面的下水道裡也有不少麻煩。” 該地區的水井似乎被投毒了，下水道也有毒蛇和軟泥怪出沒，這使得進一步調查變得困難。 我需要你找出毒素的源頭。”
 scenario_campaign_013_room_2_1,你打開通往裡面房間的門，更多的敵人出現在你的眼前。 飛翔的紅蜥蜴、哀嚎的精靈，還有可怕的巨熊。牠們似乎對突然被傳送至此十分生氣。
 scenario_campaign_013_start_1,“我知道，我知道，”那個聲音說。 “你有問題，我有答案。不幸的是，如果你現在不離開，你就不會一頭詢問問題。”
 scenario_campaign_013_start_2,你舉起了你的武器。不給他個下馬威，你恐怕沒辦法爬上這懸崖。
@@ -11320,7 +11317,7 @@ unhallowedhalls,污濁大廳
 unlockachievement,解鎖新成就
 unlockchapter,解鎖新章節
 unlockcharacter,解鎖新角色
-unlockenhancer,解鎖技能提升商店
+unlockenhancer,解鎖能力卡強化商店
 unlocklocation,解鎖新地點
 unlockmerchant,解鎖商人
 unlockquest,解鎖新人物
