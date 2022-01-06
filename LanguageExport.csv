@@ -896,7 +896,7 @@ ability_card_witheringclaw,凋零之爪,,,
 ability_card_wretchedcreature,可悲的造物,,,
 ability_card_wretchedswarm,驚駭蟲群,,,
 ability_card_zephyrwings,風神羽翼,,,
-add,增加,,,
+add,加入,,,
 addaugment,增加角色特效賦能,,,
 addheal,增加回生命值,,,
 addrange,增加射程,,,
@@ -1623,14 +1623,21 @@ compendium_areaeffects_4,"某些區域效果進攻具有射程的附加能力，
 
 請注意！使用區域效果時，雖然指定只要有一個紅色格子在視線範圍內即可進行指定，但區域效果只能傷害到視線中的目標，視線之外的目標即使在能力作用的範圍內也不會受到影響。",,,
 compendium_areaeffects_title,區域效果,,,
-compendium_attackeffects_1,攻擊附加效果會在攻擊結算後附加在防禦方上。無論相應的攻擊是否造成傷害，都會施加攻擊附加效果。在沒有結算攻擊的情況下，某些能力也可以施加這些攻擊附加效果，此能力的目標要求會顯示在能力卡上。,,,
+compendium_attackeffects_1,"攻擊附加效果會在攻擊結算後附加在防禦方上。
+無論相應的攻擊是否造成傷害，都會施加攻擊附加效果。
+在沒有結算攻擊的情況下，某些能力也可以施加這些攻擊附加效果，此能力的目標要求會顯示在能力卡上。",,,
 compendium_attackeffects_2,"<b>推遠 X</b>
-使防禦方被迫在攻擊方指定的路線上進行距離最多為 <b>X</b> 格的移動，但每格移動必須使防禦方更遠離攻擊方。如果沒有可以達成條件的可移動格子，則無法繼續推遠目標。目標可以在被推遠時通過其盟友所在的格子，但無法通過其敵人所在的格子。",,,
+使防禦方被迫在攻擊方指定的路線上進行距離最多為 <b>X</b> 格的移動，但每格移動必須使防禦方更遠離攻擊方。
+如果沒有可以達成條件的可移動格子，則無法繼續推遠目標。
+目標可以在被推遠時通過其盟友所在的格子，但無法通過其敵人所在的格子。",,,
 compendium_attackeffects_3,"<b>拉近 X</b>
-使防禦方被迫在攻擊方指定的路線上進行距離最多為 <b>X</b> 格的移動，但每格移動必須使防禦方更接近攻擊方。如果沒有可以達成條件的可移動格子，則無法繼續拉近目標。目標可以在被拉近時通過其盟友所在的格子，但無法通過其敵人所在的格子。",,,
+使防禦方被迫在攻擊方指定的路線上進行距離最多為 <b>X</b> 格的移動，但每格移動必須使防禦方更接近攻擊方。
+如果沒有可以達成條件的可移動格子，則無法繼續拉近目標。
+目標可以在被拉近時通過其盟友所在的格子，但無法通過其敵人所在的格子。",,,
 compendium_attackeffects_4,"<b>穿刺 X</b>
-忽略目標最多 <b>X</b> 點護盾進行攻擊。與其他效果不同，穿刺會在攻擊造成傷害時進行結算，而不是在攻擊後附加。",,,
-compendium_attackeffects_5,"<b>多重目標：</b>
+忽略目標最多 <b>X</b> 點護盾進行攻擊。
+與其他攻擊附加效果不同，穿刺會在攻擊造成傷害時進行結算，而不是在攻擊後附加。",,,
+compendium_attackeffects_5,"<b>多重目標</b>
 如果角色用進攻行動觸發多重目標的附加能力，則角色可以在攻擊範圍內選取額外的目標進行攻擊。攻擊行動本身的所有附加能力和條件也適用於額外選擇的目標（多重目標除外，不會重複套用多重目標）。",,,
 compendium_attackeffects_title,攻擊附加效果,,,
 compendium_attackmodifiers_1,"每次進攻時，每一個單獨的攻擊（針對不同目標）都會依照以下順序計算總傷害：
@@ -1740,7 +1747,7 @@ compendium_monsterattacks,"只有在其能力卡上存在進攻能力，怪物�
 怪物將始終攻擊他們盯上的敵人，但如果怪物可以攻擊多個目標，它將攻擊其盯上的敵人和儘可能多的其他敵人以獲得最大戰果（如果怪物有多重目標進攻，它將在選擇盯上的敵人後選擇其他攻擊的敵人，同一個敵人不會被攻擊兩次）。
 
 怪物進攻能力與角色進攻相同，並能獲得攻擊修正，然後抽取攻擊修正卡，然後是計算其目標的防禦力，並且它們可以具有優勢狀態或劣勢狀態。",,,
-compendium_monsterattacks_title,怪物移動,,,
+compendium_monsterattacks_title,怪物攻擊,,,
 compendium_monsterfocus,"在執行能力卡上的動作之前，每隻怪物都會盯上特定的敵人 一 不論是角色還是召喚物。
 
 怪物和召喚物會按照以下順序規則來確定它盯上的敵人，怪物在選擇盯人時不會考慮視線：
@@ -2430,9 +2437,9 @@ error_savedata_00005,The party save file data could not be saved,,,
 error_savedata_00006,The save system has been updated, press OK to update your existing saves. This process may take several minutes ‘ do not close the game during this process or you will corrupt your saves! You will need to re-enter your options menu settings when the process is complete.,,,,,
 error_savedata_00007,We have detected that your game has not been run for a while and needs a new Global Data file created （Don't worry, this is just your options settings ‘ not your party save files）. If that is the case, select 'Reset Save File', this may take a while to complete. If you have recently played the game, this could be a bug, please send an error report so we can investigate.,,,,,,,,,,,,,
 error_savedata_00008,The global save file data for the game requires resetting as the saved Steam User does not match,,,
-error_savedata_00009,無法完全刪除玩家團隊存檔檔資料,,,
-error_savedata_00010,玩家團隊存檔檔資料已被修改或損壞，導致無法載入。無法找到有效的檢查點數據，已損壞的玩家團隊資料已經被移動到放置損壞存檔的資料夾中,,,
-error_savedata_00011,玩家團隊存檔檔資料已被修改或損壞，導致無法載入。恢復到先前的檢查點數據，損壞的玩家團隊資料已被移動到放置損壞存檔的資料夾中。,,,
+error_savedata_00009,無法完全刪除團隊存檔檔資料,,,
+error_savedata_00010,團隊存檔檔資料已被修改或損壞，導致無法載入。無法找到有效的檢查點數據，已損壞的團隊資料已經被移動到放置損壞存檔的資料夾中,,,
+error_savedata_00011,團隊存檔檔資料已被修改或損壞，導致無法載入。恢復到先前的檢查點數據，損壞的團隊資料已被移動到放置損壞存檔的資料夾中。,,,
 error_savedata_00012,Map state data has been modified or corrupted and could not load. No valid checkpoint map state data could be found, corrupted map state data has been moved to the corrupted saves folder,,,,,
 error_savedata_00013,Map state data has been modified or corrupted and could not load. Reverted to a previous checkpoint, and corrupted map state data has been moved to the corrupted saves folder,,,,,
 error_savedata_00014,Map state file data could not be saved,,,
@@ -4572,7 +4579,7 @@ ftue_10,"黯淡港灣並不以有禮貌的民眾和見義勇為的人知名，�
 點擊下方的按鈕，你可以現在<color=#EACF8C>參與城市遭遇</color>。
 <size=60><sprite name=""MapMarker_Story""></size>
 （遊戲鼓勵你這麼做，不論你什麼時候在城市，這麼做經常給予你不錯的回報）。",,,
-ftue_11,"你要是發現一個任務看起來太難，或者你不斷地失敗於一個任務，記住<color=#EACF8C>大橡樹寺</color>會賦予你它的祝福... 以一個合適的價格，你明白的。
+ftue_11,"你要是發現一個任務看起來太難，或者你不斷地失敗於一個任務，記住<color=#EACF8C>巨橡聖所</color>會賦予你它的祝福... 以一個合適的價格，你明白的。
 點擊下方的按鈕，你可以現在進入寺廟。
 <size=60><sprite name=""Temple_Icon""></size>",,,
 ftue_12,"<color=#EACF8C>第一個任務</color>位置被標記在黯淡港灣的正北；你將看到它用旗幟的圖示標出。 隨著你的進行，更多工地點將顯示在地圖上。想要查看它們，你可以使用螢幕右邊的任務記錄。
@@ -4773,12 +4780,12 @@ gui_accept_town_records,接受城鎮記錄,,,
 gui_accept_town_records_tip,所有玩家必須在開始前接受城鎮記錄,,,
 gui_achievement_claim_reward,領取獎勵！,,,
 gui_achievement_complete,完成,,,
-gui_achievement_filter_enhancements,技能提升,,,
-gui_achievement_filter_general,常規成就,,,
-gui_achievement_filter_kill,擊殺成就,,,
-gui_achievement_filter_mercenaries,傭兵專屬,,,
-gui_achievement_filter_none,所有訓練,,,
-gui_achievement_filter_relics,聖者遺物,,,
+gui_achievement_filter_enhancements,強化成就,,,
+gui_achievement_filter_general,共通成就,,,
+gui_achievement_filter_kill,戰鬥成就,,,
+gui_achievement_filter_mercenaries,傭兵成就,,,
+gui_achievement_filter_none,所有成就,,,
+gui_achievement_filter_relics,遺物成就,,,
 gui_achievement_rewards,獎勵,,,
 gui_achievement_rewards_close,繼續,,,
 gui_achievements,成就,,,
@@ -4824,7 +4831,7 @@ gui_ally,盟友,,,
 gui_announce_retirement,宣佈退休,,,
 gui_apply_and_exit,套用並退出,,,
 gui_apply_and_load,套用並載入,,,
-gui_assemble_party,組成玩家團隊,,,
+gui_assemble_party,組成團隊,,,
 gui_assemble_party_new_character,新傭兵！,,,
 gui_assemble_party_new_character_desc,"一個新的傭兵已被添加到名單中！
 該角色當前被隱藏以避免不需要的劇透。
@@ -4833,14 +4840,14 @@ gui_assemble_party_new_character_desc,"一個新的傭兵已被添加到名單�
 gui_assembly_abilities,能力卡,,,
 gui_assembly_error_quest_min_heroe,這個任務必需要<color=#C53F3F>一個傭兵</color>才能開始,,,
 gui_assembly_error_quest_min_heroes,任務至少需要<color=#C53F3F> {0} 個傭兵 </color>才能開始,,,
-gui_assembly_error_quest_required_heroes,{0} 必須在玩家團隊中,,,
-gui_assembly_error_quest_required_items,此任務要求{0}物品的所有者裝備該物品並在玩家團隊，才能開始,,,
+gui_assembly_error_quest_required_heroes,{0} 必須在團隊中,,,
+gui_assembly_error_quest_required_items,此任務要求{0}物品的所有者裝備該物品並在團隊，才能開始,,,
 gui_assembly_error_quest_required_level_heroe,{0} 必須至少 {1} 級,,,
 gui_assembly_error_quest_required_personal_quest,開始這個任務要求團隊中包含個人任務 {0} 的所有者,,,
 gui_assembly_error_quest_required_starting_village,這個任務要求你首先解鎖路線起點 {0},,,
 gui_assembly_items,倉庫中的物品,,,
 gui_assembly_party_description,組織一個傭兵團隊開始冒險,,,
-gui_assembly_party_invalid_name,你必須在開始之前先命名玩家團隊,,,
+gui_assembly_party_invalid_name,你必須在開始之前先命名團隊,,,
 gui_assembly_party_lock1,"<color=#E6C88AFF>鎖住的</color>
 通過擊敗第一個Boss解鎖第三個團隊隊員槽",,,
 gui_assembly_party_lock2,"<color=#E6C88AFF>鎖住的</color>
@@ -4852,7 +4859,7 @@ gui_assembly_party_roster,傭兵,,,
 gui_assembly_party_select_hero_tip,選擇任一可用的傭兵，將其添加他們到團隊中，或進一步的詳細資訊查看其能力卡清單,,,
 gui_assembly_party_select_hero_tip_title,添加角色,,,
 gui_assembly_party_start,你準備好開始了！,,,
-gui_assembly_party_tip,一個玩家團隊至少需要2個傭兵才能開始冒險,,,
+gui_assembly_party_tip,一個團隊至少需要2個傭兵才能開始冒險,,,
 gui_assembly_remove_hero,"移除
 傭兵",,,
 gui_assembly_select_hero,選擇傭兵,,,
@@ -4879,7 +4886,7 @@ gui_blessings_unavailable,沒有可用的祝福,,,
 gui_buy,買入,,,
 gui_buy_confirmation_title,買入物品,,,
 gui_buy_enhancement_confirmation_title,購買技能提升,,,
-gui_buy_party_confirmation,你確定要解鎖這個玩家團隊嗎？,,,
+gui_buy_party_confirmation,你確定要解鎖這個團隊嗎？,,,
 gui_campaign,戰役模式,,,
 gui_campaign_invalid_name,輸入了無效的名稱,,,
 gui_campaign_repeated_name,該名稱已被使用，請輸入不同的名稱。,,,
@@ -4897,7 +4904,7 @@ gui_card_section_burnt_tooltip_descr,使用右下角的焚燒圖示的能力卡�
 gui_card_section_discarded,已丟棄的,,,
 gui_card_section_discarded_tooltip,棄牌堆的能力卡,,,
 gui_card_section_discarded_tooltip_descr,在使用後，沒有焚燒圖示的能力卡被丟棄，並且將在該角色的牌列表中呈現出灰色。通過執行休息，可以在劇本裡再次回手丟棄的牌。,,,
-gui_change_party,改變玩家團隊,,,
+gui_change_party,改變團隊,,,
 gui_character_name_repeated,該名稱已被使用，請輸入不同的名稱。,,,
 gui_character_retired,{0}退休了！,,,
 gui_characters_exhausted_tip,由於缺乏可用的能力卡而精力耗盡,,,
@@ -4921,7 +4928,7 @@ gui_city_encounter,城市遭遇,,,
 gui_city_encounter_tooltip,"<size=+4><color=#F3DDABFF>城市遭遇</color></size>
 你們每次到黯淡港灣時，只能完成1個城市遭遇。",,,
 gui_city_event_blocked,"<size=+2><color=#EACF8C>城市遭遇</color></size>
-當一個完成了個人任務的傭兵在玩家團隊中時，你們將不能進行一個城市遭遇。",,,
+當一個完成了個人任務的傭兵在團隊中時，你們將不能進行一個城市遭遇。",,,
 gui_city_event_cancel,取消城市事件,,,
 gui_city_quest_description,{0}任務開放！,,,
 gui_cleartargets,取消目標,,,
@@ -5027,9 +5034,8 @@ gui_delete_character,刪除角色,,,
 gui_delete_character_confirmation,角色持有的物品將返回商店裡繼續供應，而角色持有的金幣將會消失,,,
 gui_delete_party_confirmation,你想刪除這個存檔嗎？,,,
 gui_delete_warning,這個操作無法取消。你確定要繼續嗎？,,,
-gui_devotion_level,奉獻等級{0},,,
-gui_devotion_tooltip,"<size=+2><color=#EACF8C> 捐助</color></size>
-向大橡樹寺捐助金幣，以提高玩家團隊的奉獻等級。",,,
+gui_devotion_level,奉獻等級：{0},,,
+gui_devotion_tooltip,<color=#EACF8C>奉獻等級：</color>向巨橡聖所捐獻金幣，以提高團隊的奉獻等級。,,,
 gui_difficulty_brutal,殘酷,,,
 gui_difficulty_deadly,地獄,,,
 gui_difficulty_descr_campaign,難度也可以在進入遊戲後調整,,,
@@ -5189,7 +5195,7 @@ gui_frontendtutorial_10_description,四個<color=#C53F3F>復生的骷髏</color>
 gui_frontendtutorial_10_tilte,10.岩石心臟,,,
 gui_frontendtutorial_11_description,當你能召喚點什麼東西為你做事的時候，何必所有戰鬥親力親為呢？,,,
 gui_frontendtutorial_11_tilte,11.精神高於物質,,,
-gui_gained_gold,玩家團隊已賺取的金幣：,,,
+gui_gained_gold,團隊已賺取的金幣：,,,
 gui_gained_health,獲得{0}點生命值,,,
 gui_gained_level,獲得{0}級別,,,
 gui_gift_ability_card,你獲得了一張能力卡,,,
@@ -5241,7 +5247,7 @@ gui_guild_enchantress,魔女,,,
 gui_guild_enhancer,Enchantress,,,
 gui_guild_mercenarylog,城鎮記錄之傭兵記錄,,,
 gui_guild_merchant,商人,,,
-gui_guild_temple,大橡樹寺,,,
+gui_guild_temple,巨橡聖所,,,
 gui_guild_townrecords,城鎮記錄之敘事記錄,,,
 gui_guild_trainer,教官,,,
 gui_guild_worldmap,世界地圖,,,
@@ -5339,16 +5345,16 @@ gui_item_soldout,售罄！,,,
 gui_items_lose_durability,你的物品失去1點耐久度,,,
 gui_items_table,物品,,,
 gui_items_unavailable,沒有可用的物品,,,
-gui_journey,旅行,,,
+gui_journey,旅程任務列表,,,
 gui_journey_start_tip,選擇一個定居點的途徑。失敗旅程會讓你回到起點村莊。,,,
 gui_journey_start_tip_title,開始一段旅程,,,
 gui_journey_to,前往{0},,,
 gui_leave,離開,,,
-gui_level,等級,,,
+gui_level,團隊等級,,,
 gui_level_editor,關卡編輯器,,,
 gui_level_editor_create_new,建立新關卡,,,
-gui_level_editor_create_new_party,建立新玩家團隊,,,
-gui_level_editor_load_exisiting_party,載入現有玩家團隊,,,
+gui_level_editor_create_new_party,建立新團隊,,,
+gui_level_editor_load_exisiting_party,載入現有團隊,,,
 gui_level_editor_load_in_editor,進行編輯,,,
 gui_level_editor_multiple_levels_same_name,具有相同名稱的多個關卡。在自訂關卡目錄中保存一個副本。,,,
 gui_level_editor_play,進行遊戲,,,
@@ -5372,7 +5378,7 @@ gui_load,載入,,,
 gui_load_adventure,載入冒險,,,
 gui_load_adventure_description,選擇存檔資料以恢復...,,,
 gui_load_adventure_difficulty,困難：,,,
-gui_load_adventure_gold,玩家團隊金幣：,,,
+gui_load_adventure_gold,團隊金幣：,,,
 gui_load_adventure_items,物品：,,,
 gui_load_adventure_location,地點：,,,
 gui_load_adventure_quest,任務：,,,
@@ -5554,11 +5560,11 @@ gui_multiplayer_connecting_connecting,建立連接。,,,
 gui_multiplayer_connecting_downloadingnewsave,下載新存檔。,,,
 gui_multiplayer_connecting_downloadingruleset,下載MOD的規則集,,,
 gui_multiplayer_connecting_none,0,,,
-gui_multiplayer_connecting_savepointreached,玩家團隊已經到達存檔點。,,,
+gui_multiplayer_connecting_savepointreached,團隊已經到達存檔點。,,,
 gui_multiplayer_connecting_searchingforsession,搜索多人遊戲。,,,
 gui_multiplayer_connecting_sessionfound,找到多人遊戲！,,,
 gui_multiplayer_connecting_startingclient,啟動用戶端。,,,
-gui_multiplayer_connecting_waituntilsavepoint,等待玩家團隊回到黯淡港灣或者到達下一個劇本存檔點。,,,
+gui_multiplayer_connecting_waituntilsavepoint,等待團隊回到黯淡港灣或者到達下一個劇本存檔點。,,,
 gui_multiplayer_connection_failed,連接失敗,,,
 gui_multiplayer_connection_failed_connectiontobackendfailed,伺服器端連接失敗,,,
 gui_multiplayer_connection_failed_connectiontosessionfailed,連接逾時,,,
@@ -5629,9 +5635,9 @@ gui_no_mods_message,"你已建立新的自訂規則集！
 gui_notification_assign_all_my_slots,在冒險之前，必須分配給主機任一空的成員槽,,,
 gui_notification_city_event_selected,{0} 已經選擇了一個城鎮事件！,,,
 gui_notification_generate_invite_code,"<color=#92BF6E>生成的邀請碼！</color>
-複製邀請碼並將其發送給朋友，以便他們可以加入玩家團隊。",,,
+複製邀請碼並將其發送給朋友，以便他們可以加入團隊。",,,
 gui_notification_multiplayer_started,"<color=#92BF6E>你已啟動多人遊戲！</color>
-邀請朋友進你的玩家團隊以繼續遊戲。",,,
+邀請朋友進你的團隊以繼續遊戲。",,,
 gui_notification_player_disconnected,"<color=#C53F3FFF> {0}已斷開連接！</color>
 <color=#EACF8C>主機</color> {1}來控制{2}",,,
 gui_notification_player_disconnected_end_session,"<color=#C53F3FFF> {0}已斷開連接！</color>
@@ -5641,7 +5647,7 @@ gui_notification_player_won_control,<color=#92BF6E> {0}來控制{1}！</color>,,
 gui_notification_quest_selected,{0}選擇了一個任務！,,,
 gui_notification_quest_selected_title,進入戰鬥！,,,
 gui_notification_share_invite_code,"<color=#92BF6E>邀請碼複製到剪貼板！</color>
-與朋友分享邀請碼，以便他們可以加入玩家團隊。",,,
+與朋友分享邀請碼，以便他們可以加入團隊。",,,
 gui_notification_town_records_selected,<color=#EACF8C>主機</color> {0} 想要查看城鎮記錄！,,,
 gui_notification_waiting_players_join,"<color=#92BF6E>等待玩家加入！</color>
 如果沒有玩家加入，結束多人遊戲並繼續在單人模式下遊戲。",,,
@@ -5780,16 +5786,17 @@ gui_options,設置,,,
 gui_other_player_retirement_tooltip,"<size=+2><color=#EACF8C>退休</color></size>
 你的團隊中的一個傭兵馬上要退休。
 點擊按鈕以進行退休",,,
-gui_party,玩家團隊,,,
+gui_party,團隊,,,
 gui_party_assembly_enter_name,輸入名稱,,,
 gui_party_assembly_enter_name_campaign,輸入隊伍名稱,,,
 gui_party_price,成本：{0}Renown,,,
 gui_party_size,{0}個角色,,,
-gui_partygold,玩家團隊擁有的金幣。,,,
-gui_partygold_tooltip,"玩家團隊擁有的金幣。
+gui_partygold,團隊擁有的金幣。,,,
+gui_partygold_tooltip,"團隊擁有的金幣。
 總計：{0}",,,
-gui_partylevel,"<size=+4><color=#F1DBAE>玩家團隊級別</color></color></size>
-這是通過在玩家團隊的平均角色水準，除以2並向上圓整來計算。然後，這用於確定敵人的水準，陷阱的傷害以及戰利品的價值。",,,
+gui_partylevel,"<color=#F1DBAE>團隊等級</color>
+團隊等級的計算方式為，團隊中成員的平均等級，再除 2 並四捨五入（也等於團隊中成員的等級總和除 4 並四捨五入）。
+團隊等級用於決定敵人的等級、陷阱的傷害以及戰利品的價值。",,,
 gui_partyprosperity,黯淡港灣的繁榮度：,,,
 gui_partyprosperity_tooltip,"<size=+4><color=#F1DBAE>黯淡港灣的繁榮度：{0}</color></size>
 黯淡港灣的繁榮度能解鎖商店裡的新物品。另外，在你建立新角色時，角色的初始等級可以更高（最高等於繁榮度）。
@@ -5856,7 +5863,7 @@ gui_quest_reward_itemstock,{0}製作工藝,,,
 gui_quest_reward_loseitem,失去1個 {0},,,
 gui_quest_reward_multiplayer,多人模式,,,
 gui_quest_reward_none,未知,,,
-gui_quest_reward_partyachievement,獲得玩家團隊成就,,,
+gui_quest_reward_partyachievement,獲得團隊成就,,,
 gui_quest_reward_perk,獲得專精,,,
 gui_quest_reward_perkcheck,{0} 點專精點數,,,
 gui_quest_reward_perkpoint,獲得專精點數。,,,
@@ -5896,7 +5903,7 @@ gui_reset_character_level,重置傭兵,,,
 gui_reset_character_level_confirmation,重置能力卡,,,
 gui_reset_character_level_tooltip,"<color=#CEAD5A>重置傭兵</color>將使得傭兵掌握的能力卡和專精專案返回到起始狀態，並允許你重建角色為當前級別或以下的級別。
 重置傭兵不會影響傭兵當前的XP。",,,
-gui_reset_party,重置玩家團隊,,,
+gui_reset_party,重置團隊,,,
 gui_restart,重新開始,,,
 gui_restart_round,重新開始回合,,,
 gui_restart_round_gamemode_tooltip,你無法在教學中重新開始回合,,,
@@ -5968,7 +5975,7 @@ gui_select,選擇,,,
 gui_select_character,選擇角色,,,
 gui_select_characters,選擇角色,,,
 gui_select_quest,選擇任務,,,
-gui_select_quest_tip,作為主機，為玩家團隊選擇一個任務,,,
+gui_select_quest_tip,作為主機，為團隊選擇一個任務,,,
 gui_sell,賣出,,,
 gui_sell_confirmation_title,賣出物品,,,
 gui_sell_enhancement_confirmation_title,賣出技能提升,,,
@@ -6013,10 +6020,10 @@ gui_take_damage_burn,焚燒一張手牌,,,
 gui_take_damage_discard,焚燒兩張棄牌堆的牌,,,
 gui_take_damage_tooltip,此選擇將會失去生命值,,,
 gui_temple_bless_unavailable,被祝福的傭兵,,,
-gui_temple_confirm,捐助,,,
-gui_temple_confirmation,"在下一個任務，<color=#{1}>{0} <sprite name=""{2}"" color=#{1}></color> 獲得 x2 <sprite name=""Bless""><color=#A78634>祝福</color>修正卡",,,
+gui_temple_confirm,捐獻,,,
+gui_temple_confirmation,"在下一個任務中，<color=#{1}>{0} <sprite name=""{2}"" color=#{1}></color> 獲得 <color=orange><b>x2</b></color> <sprite name=""Bless"">修正卡",,,
 gui_temple_confirmation_title,給予佈施,,,
-gui_temple_description,"捐助大橡樹寺並收到x2 <color=#A78634>Bless</color><sprite name=""Bless"">修正卡可在下一個任務中使用。",,,
+gui_temple_description,"向巨橡聖所捐獻金幣並獲得<color=orange><b>x2</b></color><sprite name=""Bless"">修正卡在下一個任務中使用。",,,
 gui_temple_devotion_level,你持續的捐款一直是庇護所乃至整個城市的真正福音。這肯定會對這座城市產生明顯的影響，但放心吧，我們總是會充分使用外部的援助。,,,
 gui_tooltip_ability_choosing_1,啟動任意牌的頂部或底部。,,,
 gui_tooltip_ability_choosing_2,啟動另一張牌的另一半部。,,,
@@ -6089,7 +6096,7 @@ gui_tooltip_title_ability_choosing,能力卡選擇：,,,
 gui_tooltip_title_deal_damage,傷害結算階段,,,
 gui_tooltip_title_start_turn,開始輪次,,,
 gui_tooltip_transfer_doom,將厄運從已死的目標轉移到另一個目標。,,,
-gui_total_gold,玩家團隊總金幣,,,
+gui_total_gold,團隊總金幣,,,
 gui_town_records_blocked,"<size=+2><color=#EACF8C>城鎮記錄</color></size>
 當一個完成了個人任務的傭兵在團隊中時，你不能繼續該城鎮記錄故事線。",,,
 gui_town_records_intro_story_1,穿過城鎮記錄處的拱形門廊，你看到這是一個巨大但書本少到讓人悲傷的圖書館。突然一種墜落的感覺抓住你的腸胃，你記憶揮之不去地出現你和你去世的同事一起死在黯淡港灣的某個地城裡的場面。,,,
@@ -6105,7 +6112,7 @@ gui_tutorial_01_instructions,岩石心這一回合只有兩張能力卡。你現
 gui_tutorial_01_title,近戰進攻和移動,,,
 gui_tutorial_exit,退出教學,,,
 gui_tutorial_victory,勝利！,,,
-gui_tutorial_victory_info,"恭喜，你通過了教學，現在是應用你的所學進行戰鬥的時候了！走向【新冒險】來選擇一個玩家團隊並開始。
+gui_tutorial_victory_info,"恭喜，你通過了教學，現在是應用你的所學進行戰鬥的時候了！走向【新冒險】來選擇一個團隊並開始。
 
 有關黯淡港灣規則的更多資訊，請查看主功能表中的【簡易規則書】部分，它在遊戲進行時的暫停功能表中也可找到並查看。
 
@@ -6139,7 +6146,7 @@ gui_wrong_ability_deck_character,{0}的能力卡牌庫不完整,,,
 gui_wrong_ability_deck_characters,{0}的能力卡牌庫不完整,,,
 gui_wrong_inventory,錯誤的能力卡,,,
 gui_xp_progress,XP {0},,,
-gui_xpbar,經驗條顯示了你升級的進度。你可以在地圖或玩家團隊選擇頁面上進行升級。,,,
+gui_xpbar,經驗條顯示了你升級的進度。你可以在地圖或團隊選擇頁面上進行升級。,,,
 hail,黑爾,,,
 hammerholm,榔頭地,,,
 hard,難,,,
@@ -6222,7 +6229,7 @@ intro_personalquest_2,"離別總是苦澀的，但前行總是伴隨著一些不
 intro_prosperity,"黯淡港灣的繁榮度受到了你的所作所為的影響。每當獲得足夠的繁榮度，黯淡港灣財富等級將會上升。
 增加黯淡港灣的財富等級將解鎖<color=#EACF8C>商人商店的新道具</color>，並將允許你此後建立的新角色提升到不高於當前黯淡港灣財富等級的等級。",,,
 intro_quest,現在可能是個檢查傭兵的<color=#EACF8C>能力卡和裝備</color>，以確保他們做好了戰鬥準備的時機。在任務描述中，你可以看到你將面臨的敵人。將滑鼠懸停在他們身上來查看他們的詳細資訊。,,,
-intro_reputation,玩家團隊的名聲受到你行為的影響。 名聲將影響商人商店中的<color=#EACF8C>物品的售價</color>以及某些遭遇的結果。善良的行為通常會獲得獎勵，但它們可能沒那麼有趣...如何選擇取決於你。,,,
+intro_reputation,團隊的名聲受到你行為的影響。 名聲將影響商人商店中的<color=#EACF8C>物品的售價</color>以及某些遭遇的結果。善良的行為通常會獲得獎勵，但它們可能沒那麼有趣...如何選擇取決於你。,,,
 intro_temple_1,"每當向聖橡樹神廟捐獻10個金幣時，傭兵都會受到祝福。
 被祝福的傭兵將在下一個地城中<color=#EACF8C>獲得兩張額外的x2攻擊修正卡</color>。",,,
 intro_temple_2_splitgold,請記住，每個傭兵都有自己的金幣儲備和個人背包，所以請確認在捐款給神廟之前<color=#EACF8C>選擇了正確的傭兵頭像</color>。,,,
@@ -6603,7 +6610,7 @@ loading_tip_010,仔細考量在一個回合中是早點行動還是晚點行動 
 loading_tip_011,你可以通過按住Tab來查看相同類型的敵人們之間行動的次序。,,,
 loading_tip_012,你可以通過消耗元素來增強一個技能。在確認技能釋放之前，點擊元素選擇框使用對應元素。,,,
 loading_tip_013,當你打開一扇門時，準備好面對更多的敵人！,,,
-loading_tip_014,在出發前選擇好你的玩家團隊 一 一旦出發後，你將無法再更換團隊成員。,,,
+loading_tip_014,在出發前選擇好你的團隊 一 一旦出發後，你將無法再更換團隊成員。,,,
 loading_tip_015,對於那些在霸業模式中非常艱難的任務，你可以考慮先在寺廟中祈求祝福。,,,
 loading_tip_016,你有機會在霸業模式的職業任務中遇到一個寶箱！在完成劇本目標前務必把寶箱收集來！,,,
 loading_tip_017,當裝備新物品時請注意 一 它們將會綁定到那個傭兵身上。如果你想換到其他人身上，則必須支付一些費用解綁。,,,
@@ -12122,7 +12129,7 @@ soothsinger_strengths,"- <indent=%15>遠距離、強有力的Buff技能</indent>
 - <indent=%15>能力卡底部有著多樣的選擇</indent>
 - <indent=%15>善於群體控制</indent>",,,
 soothsinger_weaknesses,"- <indent=%15>可憐的傷害輸出</indent>
-- <indent=%15>玩家團隊越小，強度越弱</indent>
+- <indent=%15>團隊越小，強度越弱</indent>
 - <indent=%15>古怪的時尚品味</indent>",,,
 southshield,南盾村,,,
 southshield_descr,南盾村是該地區最南端的村莊，是勇敢的冒險者向南進入未知土地的停靠點。物品種類很少，並且不便宜。,,,
