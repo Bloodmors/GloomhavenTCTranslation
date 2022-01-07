@@ -4073,9 +4073,6 @@ gui_assembly_party_select_hero_tip,選擇任一可用的雇傭兵，將其添加
 gui_assembly_party_select_hero_tip_title,添加角色
 gui_assembly_party_start,你準備好開始了！
 gui_assembly_party_tip,一個玩家團隊至少需要2個雇傭兵才能開始冒險
-gui_assembly_remove_hero,"移除
-雇傭兵"
-gui_assembly_select_hero,選擇雇傭兵
 gui_attack_modifiers_description,執行一張攻擊技能卡時，為每個目標單獨使用攻擊修正卡
 gui_begin,開始
 gui_bind_equip_item_confirmation,"<color=#C53F3F>解綁的花費：</color><color=#FCC954><sprite name=""Gold_Icon_White"" color=#FCC954>{0}</color>"
@@ -4436,7 +4433,7 @@ gui_modding_ruleset_dir_error,嘗試創建新的規則集資料夾目錄時發�
 gui_modding_ruleset_loaded_fail,無法載入'{0}'
 gui_modding_ruleset_loaded_ok,成功載入'{0}'
 gui_modding_ruleset_lose_changes_confirmation,對規則集的所有改動都將丟失
-gui_modding_validated_notification,{0}已成功驗證！
+
 gui_modding_validation_mod_fail_confirmation,"點擊""查看錯誤""以查看出現的問題"
 gui_modding_validation_ruleset_fail_confirmation,"請確保您首先在規則集中驗證了所有Mod。
 如果任一Mod被編輯或更新，都將需要驗證。"

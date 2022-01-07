@@ -4860,8 +4860,7 @@ gui_assembly_party_select_hero_tip,選擇任一可用的傭兵，將其添加他
 gui_assembly_party_select_hero_tip_title,添加角色,,,
 gui_assembly_party_start,你準備好開始了！,,,
 gui_assembly_party_tip,一個團隊至少需要2個傭兵才能開始冒險,,,
-gui_assembly_remove_hero,"移除
-傭兵",,,
+gui_assembly_remove_hero,移除傭兵,,,
 gui_assembly_select_hero,選擇傭兵,,,
 gui_attack_modifiers,攻擊修正卡,,,
 gui_attack_modifiers_description,執行一張攻擊能力卡時，為每個目標單獨使用攻擊修正卡,,,
@@ -5350,7 +5349,7 @@ gui_journey_start_tip,選擇一個定居點的途徑。失敗旅程會讓你回�
 gui_journey_start_tip_title,開始一段旅程,,,
 gui_journey_to,前往{0},,,
 gui_leave,離開,,,
-gui_level,團隊等級,,,
+gui_level,等級,,,
 gui_level_editor,關卡編輯器,,,
 gui_level_editor_create_new,建立新關卡,,,
 gui_level_editor_create_new_party,建立新團隊,,,
