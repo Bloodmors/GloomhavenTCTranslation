@@ -6037,7 +6037,7 @@ gui_tooltip_single_target,Select a single target
 gui_tooltip_start_turn,"For each hero, select two ability cards or choose to rest"
 gui_tooltip_summon,Summon {0}
 gui_tooltip_summon_select_hex,Select a hex to summon the {0}
-gui_tooltip_take_quest_item,Confirm to take carriable Quest items from adjacent Mercenaries
+gui_tooltip_take_quest_item,Confirm to take carriable Quest items from adjacentitem_bootsofdashing Mercenaries
 gui_tooltip_title_ability_choosing,Ability Selection
 gui_tooltip_title_deal_damage,Deal Damage Phase
 gui_tooltip_title_start_turn,Start Turn

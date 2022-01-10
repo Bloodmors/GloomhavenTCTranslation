@@ -1301,7 +1301,7 @@ combat_log_move,移動
 combat_log_plays,{0}使用{1}
 combat_log_prevent_damage,{0}使用{1}阻擋了傷害
 combat_log_prevent_damage_amount,{0}用{2}阻擋了{1}點傷害
-combat_log_prevent_damage_burned_1_hand,{0}燒毀了1張手牌（{1}）來防止傷害
+
 combat_log_prevent_damage_burned_2_discarded,{0}燒毀了2張棄牌區的卡牌（{1}和{2}）來防止傷害
 combat_log_pull,{0}把{1}拉近了{2}個格子
 combat_log_pull_multiple,{0}把{1}拉近了{2}個格子
@@ -3086,12 +3086,12 @@ item_blackcenser,在你的行動輪中，<nobr>混亂<sprite name=Muddle></nobr>
 item_blackknife,在你進行近戰進攻時，對你的單次攻擊附加<nobr>詛咒<sprite name=Curse></nobr>。
 item_blinkingcape,在你的行動輪中，執行一次<nobr>“移動<sprite name=Move>4，</nobr><nobr>跳躍<sprite name=Jump>”</nobr>。
 item_bloodyaxe,在你進行近戰進攻時，損失2點生命值並對整個攻擊行動輪<nobr>+1進攻<sprite name=Attack></nobr>。
-item_bootsofdashing,在你執行移動行動時，對你的一次移動附加<nobr>+3移動力<sprite name=Move></nobr>。
+
 item_bootsoflevitation,獲得飛行。
 item_bootsofquickness,在一個回合開始時，當所有技能卡被揭示之後，你可以選擇讓你的時序值增加或者減少20點。
 item_bootsofspeed,在一個回合開始時，當所有技能卡被揭示之後，你可以選擇讓你的時序值增加或者減少10點。
-item_bootsofsprinting,在你執行移動行動時，對你的一次移動附加<nobr>+4移動力<sprite name=Move></nobr>。
-item_bootsofstriding,在你執行移動行動時，對你的一次移動附加<nobr>+2移動力<sprite name=Move></nobr>。
+
+
 item_brilliantblade,在你進行近戰進攻時，<sprite name=ConsumeLight>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_chainhood,當你與三個或者更多怪物相鄰時，獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_chainmail,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
@@ -3265,7 +3265,7 @@ item_ringofhaste,在你的行動輪結束時，從手牌中打出一張牌並立
 item_ringofskulls,召喚骷髏
 item_robesofevocation,在你進行攻擊時，<sprite name=ConsumeAny>並對你的整個攻擊行動輪攻擊附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_robesofsummoning,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>2，目標為召喚物夥伴”。
-item_rocketboots,在你執行移動行動時，對你的一次移動附加<nobr>+3移動力<sprite name=Move></nobr>和<nobr>跳躍<sprite name=Jump></nobr>。
+
 item_sacrificialrobes,在你進行遠程進攻時，損失3點生命值並對整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_scrollofhealing,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>3，<nobr></nobr>範圍<sprite name=Range>5”</nobr>。
 item_scrollofpower,在一個盟友進行攻擊時，對其整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
@@ -3312,7 +3312,7 @@ item_wandoftremors,在你的行動輪中，生成土元素。
 item_warhammer,在你進行近戰進攻時，對你的整個攻擊行動輪附加<nobr>擊暈<sprite name=Stun></nobr>。
 item_wavecrest,當你受到攻擊時，如果<sprite name=Ice>處於強烈，對攻擊者執行一次“強推<sprite name=Push>2”。
 item_weightednet,當你進行遠程進攻時，對你的單次攻擊附加<nobr>禁足<sprite name=Immobilize></nobr>•。
-item_wingedshoes,在你執行移動行動時，對你的整個移動行動輪附加<nobr>跳躍<sprite name=Jump></nobr>。
+
 ================================================================================================================================================
 #endregion item
 ================================================================================================================================================
@@ -6013,7 +6013,7 @@ gui_party_size,{0}個角色
 gui_pass,Pass
 gui_passive_attributes,被動屬性
 gui_passive_attributes_description,被動屬性允許角色忽略特定的負面影響
-gui_perform_long_rest,進行長休息
+
 gui_perk_check_tooltip,"<size=+2><color=#EACF8C> 專精項目 </color> /size>
 通過完成戰鬥目標贏得專精點數<sprite name=""""PerkPoint_Icon"""">。
 每當賺取3個專精點數，您都可以選擇一個專精項目解鎖。"
