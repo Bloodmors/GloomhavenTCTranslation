@@ -10788,10 +10788,10 @@ scenario_job_twotribes_success_1,叢林的地面上散落著屍體，但你勝�
 scenario_job_vermling_cave_sm1_desc,所有敵人的攻擊都附帶中毒和創傷,,,
 scenario_job_vermling_cave_sm2_desc,所有敵人開始時處於中毒和創傷狀態,,,
 scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附近的地穴,,,
-scenario_puzzle_2a_01,"歡迎來到你的第一場訓練關卡！你已經學會了基礎操作，現在你必須幫助重傷的<color=#A06E4B>野蠻人</color>解決這個<color=#C53F3F>【精英】強盜弓箭手</color>，這可是比普通敵人還強的對手，千萬小心！",,,
+scenario_puzzle_2a_01,"歡迎來到你的第一場訓練！你已經學會了基礎操作，現在你必須幫助重傷的<color=#A06E4B>野蠻人</color>解決這個<color=#C53F3F>【精英】強盜弓箭手</color>，這可是比普通敵人還強的對手，千萬小心！",,,
 scenario_puzzle_2a_02,"<color=#A06E4B>野蠻人</color>只剩最後 <b>1</b> 點生命值了，哪怕是一丁點傷害都會讓他<color=#FADC99>精疲力竭</color>。因此，接下來你需要通過<color=#FADC99>焚燒</color>一張手牌的方式來避免一次傷害。
 
-在本場訓練關卡中，攻擊修正卡牌庫全部都是 <color=orange><b>+0</b></color> 攻擊修正卡，所以暫時不用考慮它們。",,,
+在本場訓練中，攻擊修正卡牌庫全部都是 <color=orange><b>+0</b></color> 攻擊修正卡，所以暫時不用考慮它們。",,,
 scenario_puzzle_2a_03,"你本回合的目標為：
 <line-height=20%>
 <line-height=100%>→ 進行一次<color=#1F9EDC>進攻</color><sprite name=Attack>殺死<color=#C53F3F>【精英】強盜弓箭手</color>
@@ -10804,7 +10804,7 @@ scenario_puzzle_2a_06,"嘣！<color=#32E632>強勢突襲</color>是一張強牌�
 在<color=#32E632>強勢突襲</color>的頂部，標準動作的右下角有著焚燒圖示，此類型的<color=#FADC99>動作</color>在執行過後會將卡片<color=#FADC99>焚燒</color>，這代表在這個劇本裡你無法再次使用這張卡。
 
 現在，該收集那些金幣了！",,,
-scenario_puzzle_2a_07,做得不錯！敵人被消滅乾淨並且目標也完成了，劇本一般就到此結束了，那個寶箱會被留在這裡。但是在本場訓練關卡中，我會給你一個新的目標：收集那個寶箱！,,,
+scenario_puzzle_2a_07,做得不錯！敵人被消滅乾淨並且目標也完成了，劇本一般就到此結束了，那個寶箱會被留在這裡。但是在本場訓練中，我會給你一個新的目標：收集那個寶箱！,,,
 scenario_puzzle_2a_08,"在一頭栽進那個陷阱之前，你可能想先恢復一些生命值。
 我建議你執行一個<color=#FADC99>長休息</color>，這會讓你進行<color=#1F9EDC>治療</color><sprite name=Heal> <b>2</b> 並且回收棄牌堆中的牌，足以讓你承受陷阱的 <b>2</b> 點傷害並且接近寶箱。",,,
 scenario_puzzle_2a_09,噢！看著就很疼！<color=#FADC99>短休息</color>在你想立刻獲得一些卡時是不錯的選擇，但是它不能提供<color=#FADC99>長休息</color>的治療部分...下次確保選擇正確的休息方式！,,,
@@ -10856,24 +10856,28 @@ scenario_puzzle_2b_16,"別忘了，<color=#FADC99>短休息</color>可以讓你�
 scenario_puzzle_2b_obj_01,跳躍通過陷阱並且在強盜弓箭手攻擊前對其施加繳械狀態,,,
 scenario_puzzle_2b_obj_02,在本回合殺死強盜弓箭手,,,
 scenario_puzzle_2b_obj_03,跳躍通過陷阱並且收集寶箱,,,
-scenario_puzzle_2c_01,為了成為一名成功的會長，你需要多加注意敵人的行動並藉由這些資訊以規劃你自己的行動。,,,
-scenario_puzzle_2c_02,"你這次的目標非常簡單：
+scenario_puzzle_2c_01,為了成為一位成功的會長，你需要多加注意敵人的行動並藉由這些資訊來規劃你自己的行動。,,,
+scenario_puzzle_2c_02,"你本回合的目標非常簡單：
 <line-height=20%>
 <line-height=100%>→ 不要受到任何攻擊
 <line-height=20%>
 <line-height=100%>如果敵人造成了任何傷害你就必須重新來過！",,,
 scenario_puzzle_2c_03,你需要打開<color=#A06E4B>野蠻人</color>面前的這扇門來離開這個房間，但是別忘了下一個房間裡的敵人也會在本回合中行動。,,,
-scenario_puzzle_2c_04,你問我有什麼建議？儘快採取動作，觀察敵人準備進行什麼動作。我安排了一個安全的位置可以讓你脫離所有敵人的攻擊範圍。現在，讓我看看你能否存活下來！,,,
-scenario_puzzle_2c_05,"看上去<color=#C53F3F>強盜弓箭手</color>抓到你了。你需要儘快移動並且脫離她的<color=#FADC99>射程</color><sprite name=Range>，別忘了在她的能力卡揭露後立刻把滑鼠滑入她的頭像來進行查看。再試一次吧！",,,
+scenario_puzzle_2c_04,"你問我有什麼建議？我會說：儘可能快點行動，觀察敵人準備執行什麼動作。我安排了一個安全的位置可以讓你脫離所有敵人的攻擊範圍。
+現在，讓我看看你能否存活下來！",,,
+scenario_puzzle_2c_05,"看上去<color=#C53F3F>強盜弓箭手</color>抓到你了。你需要儘快移動並且脫離她的<color=#FADC99>射程</color><sprite name=Range>，別忘了在能力卡揭露後立刻把滑鼠滑入她的頭像來進行查看。
+再試一次吧！",,,
 scenario_puzzle_2c_06,別忘了在當前輪次結束以後，新揭露的敵人也會按照順序行動。現在，找到我說的那個安全位置吧......,,,
-scenario_puzzle_2c_07,很好，你避開了兩個房間的所有敵人！開門會讓你面對更多敵人，所以在往後的劇本裡務必確保你準備妥善了再去開門。,,,
+scenario_puzzle_2c_07,"很好，你避開了兩個房間的所有敵人！
+開門會讓你面對更多敵人，所以在往後的劇本裡務必確保你準備妥善了再去開門。",,,
 scenario_puzzle_2c_08,現在，在強盜的圍追堵截下再躲避一個回合來完成這場訓練吧！,,,
-scenario_puzzle_2c_09,這次很難再找到一個安全位置了。或許你可以試著阻止一次攻擊並存活下來？,,,
-scenario_puzzle_2c_10,你可以走到這個房間裡更深的地方來脫離第一個房間裡那些煩人的<color=#C53F3F>強盜弓箭手</color>，但是如何阻止這個<color=#C53F3F>強盜守衛</color>攻擊你呢？回想一下上一關你都學到了些什麼吧！,,,
+scenario_puzzle_2c_09,這次很難再找到一個安全位置了！或許你可以試著阻止一次攻擊並存活下來？,,,
+scenario_puzzle_2c_10,你可以走到這個房間裡更深的地方來脫離第一個房間裡那些煩人的<color=#C53F3F>強盜弓箭手</color>，但是如何阻止這個<color=#C53F3F>強盜守衛</color>攻擊你呢？回想一下上一個訓練你都學到了些什麼吧！,,,
 scenario_puzzle_2c_11,你避開了<color=#C53F3F>強盜弓箭手</color>的追擊，幹得漂亮！,,,
-scenario_puzzle_2c_12,但是你沒有避開這個<color=#C53F3F>強盜守衛</color>，這就表現不太好了......我猜或許有辦法阻止他攻擊？,,,
+scenario_puzzle_2c_12,但是你沒有避開這個<color=#C53F3F>強盜守衛</color>，這就表現不太好了...我猜你或許有辦法阻止他攻擊？,,,
 scenario_puzzle_2c_13,精彩絕倫！你表現得越來越專業了！,,,
-scenario_puzzle_2c_14,"那個<color=#1F9EDC>繳械</color><sprite name=Disarm>怎麼樣？真是一個相當不錯的狀態，對吧？並且 <b>10</b> 優先權也很低，使得<color=#32E632>嘲諷戰吼</color>成為一張非常靈活的牌，用以回避一些小規模的衝突。",,,
+scenario_puzzle_2c_14,"那個<color=#1F9EDC>繳械</color><sprite name=Disarm>怎麼樣？是一個相當不錯的狀態吧！
+超低的　<b>10</b> 優先權，使得<color=#32E632>嘲諷戰吼</color>成為一張非常靈活的牌，用以回避一些小規模的衝突。",,,
 scenario_puzzle_2c_15,接下來是最後一場訓練，完成後你就已經準備就緒，可以去探索世界並為我們的公會招募傭兵了！,,,
 scenario_puzzle_2c_16,你受到了攻擊！注意敵人這一輪的移動範圍。你需要避開所有敵人！,,,
 scenario_puzzle_2c_obj_1,兩回合內不要受到任何傷害,,,
@@ -10883,7 +10887,7 @@ scenario_puzzle_2d_02,"在正常的劇本裡，針對每個目標的<color=#FADC
 如果是 <color=orange><b>+1</b></color> 、 <color=orange><b>+2</b></color> 和 <color=orange><b>x2</b></color> 會提升傷害；如果是 <color=#A050E0><b>-1</b></color> 、 <color=#A050E0><b>-2</b></color> 和 <color=orange><b>x0</b></color> 會降低傷害，還可能會出現你之前看到的 <color=orange><b>+0</b></color> 則不影響造成的傷害。
 
 你可以通過將滑鼠滑入任意單位身上來看到他們的攻擊修正卡牌庫 一 注意，和角色不同的是，所有場上的怪物共用同一個攻擊修正卡牌庫！",,,
-scenario_puzzle_2d_03,"在本場訓練關卡中，<color=#C53F3F>強盜弓箭手</color>的攻擊修正卡牌庫裡只剩兩張攻擊修正卡： <color=orange><b>x2</b></color> 和 <color=orange><b>x0</b></color> 。我們希望她們抽到 <color=orange><b>x0</b></color> 來使傷害變為 <b>0</b> ，因此我們要讓她們進入<color=#FADC99>劣勢</color>狀態來確保她會抽到這張攻擊修正卡！",,,
+scenario_puzzle_2d_03,"在本場訓練中，<color=#C53F3F>強盜弓箭手</color>的攻擊修正卡牌庫裡只剩兩張攻擊修正卡： <color=orange><b>x2</b></color> 和 <color=orange><b>x0</b></color> 。我們希望她們抽到 <color=orange><b>x0</b></color> 來使傷害變為 <b>0</b> ，因此我們要讓她們進入<color=#FADC99>劣勢</color>狀態來確保她會抽到這張攻擊修正卡！",,,
 scenario_puzzle_2d_04,"遠程<color=#1F9EDC>進攻</color><sprite name=Attack>在攻擊一個相鄰格子裡的目標時會處於<color=#FADC99>劣勢</color>狀態。這會導致攻擊方需要抽取兩張攻擊修正卡並套用較差的攻擊修正卡（而不是只抽一張攻擊修正卡）。
 
 因為這些<color=#C53F3F>強盜弓箭手</color>只剩兩張攻擊修正卡了，如果他們攻擊時處於<color=#FADC99>劣勢</color>狀態，她們會把兩張攻擊修正卡都抽出來並且被迫選擇 <color=orange><b>x0</b></color> 而不是 <color=orange><b>x2</b></color> 作為結算的結果，也就是說不會造成任何傷害！當你在生命值條旁邊看到閃爍的紫色符號時，代表<color=#FADC99>劣勢</color>狀態已生效。",,,
@@ -10901,10 +10905,10 @@ scenario_puzzle_2d_09,"你的最終目標為：
 <line-height=100%>→ 殺死剩餘的<color=#C53F3F>強盜弓箭手</color>
 → 拾取寶箱",,,
 scenario_puzzle_2d_10,"你需要早點行動來優先發起<color=#1F9EDC>進攻</color>，並且對她造成 <b>4</b> 點傷害。",,,
-scenario_puzzle_2d_11,還記得你曾經成功造成了 <b>3+1</b> 點傷害的事情嗎？ 一 別忘了在這個訓練關卡中你只有 <color=orange><b>+1</b></color> 攻擊修正卡。,,,
-scenario_puzzle_2d_12,"你的目標是<color=#FADC99>收集</color>寶箱。我們下一個訓練關卡可能會用到裡面的東西，確保你能夠拿到它！",,,
+scenario_puzzle_2d_11,還記得你曾經成功造成了 <b>3+1</b> 點傷害的事情嗎？ 一 別忘了在這個訓練中你只有 <color=orange><b>+1</b></color> 攻擊修正卡。,,,
+scenario_puzzle_2d_12,"你的目標是<color=#FADC99>收集</color>寶箱。我們下一個訓練可能會用到裡面的東西，確保你能夠拿到它！",,,
 scenario_puzzle_2d_13,"很好！<color=#F8F8F8>扇形盾</color>可以幫你阻擋一些傷害！",,,
-scenario_puzzle_2d_14,你已經完成了基礎訓練關卡 一 是時候給你介紹幾名其他的傭兵並且讓你展開冒險了！,,,
+scenario_puzzle_2d_14,你已經完成了基礎訓練 一 是時候給你介紹幾名其他的傭兵並且讓你展開冒險了！,,,
 scenario_puzzle_2d_obj_01,站在一個強盜弓箭手旁邊並且殺死另一個強盜弓箭手,,,
 scenario_puzzle_2d_obj_02,殺死剩餘的弓箭手,,,
 scenario_puzzle_2d_obj_03,在本回合中拾取寶箱,,,
