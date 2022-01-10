@@ -6128,8 +6128,8 @@ gui_unknown,未知,,,
 gui_unready,未準備,,,
 gui_update_party_disabled_tooltip,當前另一個玩家正在加入遊戲，角色切換/移除會被禁用。,,,
 gui_upload,上傳,,,
-gui_use_item_attack_tip,點擊物品的圖示以將其效果添加到攻擊中,,,
-gui_use_item_movement_tip,點擊物品的圖示以將其效果添加到移動中,,,
+gui_use_item_attack_tip,點擊物品的圖示以將其效果套用到攻擊中,,,
+gui_use_item_movement_tip,點擊物品的圖示以將其效果套用到移動中,,,
 gui_use_item_title,使用物品：,,,
 gui_validate,驗證,,,
 gui_view_alt_cards_tip,按住alt查看所有卡,,,
@@ -6245,7 +6245,7 @@ ironbell_descr,這座小堡壘擁有鐵鐘the Iron Bell，這是一種數百年�
 ironwoodcamp,鐵木營地,,,
 item,物品,,,
 item_amuletoflife,"【在你的輪次中】
-進行<nobr>治療<sprite name=Heal> <b>1</b> </nobr>（自身）。",,,
+<nobr>治療<sprite name=Heal> <b>1</b> </nobr>（自身）",,,
 item_ancientdrill,在你進行近戰進攻時，對你的整個攻擊行動附加<nobr>+2進攻<sprite name=Attack></nobr>和<nobr>2穿透<sprite name=Pierce></nobr>。,,,
 item_balancedblade,當你使用能力卡頂部的預設行動時，將<nobr>“進攻<sprite name=Attack>2”</nobr>改為<nobr>“進攻<sprite name=Attack>4”</nobr>。,,,
 item_battleaxe,在你對單個目標使用近戰進攻時，將攻擊改為執行以下步驟：,,,
@@ -6257,14 +6257,14 @@ item_blackknife,在你進行近戰進攻時，對你的單次攻擊附加<nobr>�
 item_blinkingcape,【在你的輪次中】進行一次<nobr>“移動<sprite name=Move>4，</nobr><nobr>跳躍<sprite name=Jump>”</nobr>。,,,
 item_bloodyaxe,在你進行近戰進攻時，損失2點生命值並對整個攻擊輪次<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_bootsofdashing,"【在你進行前進行動時】
-你的一次移動： <nobr><b>+3</b> 移動<sprite name=Move></nobr>。",,,
+你的一次移動： <nobr><b>+3</b> <sprite name=Move></nobr>。",,,
 item_bootsoflevitation,獲得飛行。,,,
 item_bootsofquickness,在一個回合開始時，當所有能力卡被揭示之後，你可以選擇讓你的優先權增加或者減少20點。,,,
 item_bootsofspeed,在一個回合開始時，當所有能力卡被揭示之後，你可以選擇讓你的優先權增加或者減少10點。,,,
 item_bootsofsprinting,"【在你進行前進行動時】
-你的一次移動： <nobr><b>+4</b> 移動<sprite name=Move></nobr>。",,,
+你的一次移動： <nobr><b>+4</b> <sprite name=Move></nobr>。",,,
 item_bootsofstriding,"【在你進行前進行動時】
-你的一次移動： <nobr><b>+2</b> 移動 <sprite name=Move></nobr>。",,,
+你的一次移動： <nobr><b>+2</b> <sprite name=Move></nobr>。",,,
 item_brilliantblade,在你進行近戰進攻時，<sprite name=ConsumeLight>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
 item_chainhood,當你與三個或者更多怪物相鄰時，獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
 item_chainmail,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
@@ -6309,14 +6309,14 @@ item_luckyeye,【在你的輪次中】你和相鄰的盟友獲得<nobr>強壯<sp
 item_magmawaders,忽略危險地形的傷害。每個輪次中首次進入危險地形時，你可以立即進行一次“治療2，自身”。,,,
 item_majorcurepotion,【在你的輪次中】移除自身的所有負面狀態。此道具可以在你處於<nobr>暈眩<sprite name=Stun></nobr>狀態時使用。,,,
 item_majorhealingpotion,"【在你的輪次中】
-進行<nobr>治療<sprite name=Heal> <b>5</b> </nobr>（自身）。",,,
+<nobr>治療<sprite name=Heal> <b>5</b> </nobr>（自身）",,,
 item_majormanapotion,【在你的輪次中】生成任意兩個元素。,,,
 item_majorpowerpotion,在你進行攻擊時，對你的整個攻擊輪次附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
 item_majorstaminapotion,【在你的輪次中】<nobr>回收<sprite name=Recover></nobr>至多兩張在你棄牌堆中的牌。,,,
 item_maskofterror,在你進行近戰進攻時，附加<nobr>強推<sprite name=Push>1。</nobr>,,,
 item_minorcurepotion,【在你的輪次中】移除自身一個負面狀態。此道具可以在你處於<nobr>暈眩<sprite name=Stun></nobr>狀態時使用。,,,
 item_minorhealingpotion,"【在你的輪次中】
-進行<nobr>治療<sprite name=Heal> <b>3</b> </nobr>（自身）。",,,
+<nobr>治療<sprite name=Heal> <b>3</b> </nobr>（自身）",,,
 item_minormanapotion,【在你的輪次中】生成任意一個元素。,,,
 item_minorpowerpotion,在你進行攻擊時，對你的整個攻擊輪次附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_minorstaminapotion,【在你的輪次中】<nobr>回收<sprite name=Recover></nobr>至多一張在你棄牌堆中的牌。,,,
@@ -6481,7 +6481,7 @@ item_ringofskulls,召喚骷髏,,,
 item_robesofevocation,在你進行攻擊時，<sprite name=ConsumeAny>並對你的整個攻擊輪次攻擊附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_robesofsummoning,【在你的輪次中】進行一次<nobr>“治療<sprite name=Heal>2，目標為召喚物夥伴”。,,,
 item_rocketboots,"【在你進行前進行動時】
-你的一次移動： <nobr><b>+3</b> 移動<sprite name=Move></nobr> 並 附加<nobr>跳躍<sprite name=Jump></nobr>。",,,
+你的一次移動： <nobr><b>+3</b> <sprite name=Move></nobr> 並 附加<nobr>跳躍<sprite name=Jump></nobr>。",,,
 item_sacrificialrobes,在你進行遠程進攻時，損失3點生命值並對整個攻擊輪次附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_scrollofhealing,【在你的輪次中】進行一次<nobr>“治療<sprite name=Heal>3，<nobr></nobr>範圍<sprite name=Range>5”</nobr>。,,,
 item_scrollofpower,在一個盟友進行攻擊時，對其整個攻擊輪次附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
@@ -10824,36 +10824,38 @@ scenario_puzzle_2a_obj_04,進行一次長休息,,,
 scenario_puzzle_2a_obj_05,收集寶箱,,,
 scenario_puzzle_2a_tb_01,,,,
 scenario_puzzle_2a_tb_02,,,,
-scenario_puzzle_2b_01,現在，你已經學會了基本的<color=#1F9EDC>進攻</color><sprite name=Attack>和<color=#1F9EDC>前進</color><sprite name=Move>，但是這次我們要嘗試使用一些帶有<color=#FADC99>附加效果</color>的能力。,,,
-scenario_puzzle_2b_02,在現在這種狀況的時候，一個帶有<color=#1F9EDC>跳躍</color><sprite name=Jump>附加能力的<color=#FADC99>移動</color>可以起到奇效。<color=#1F9EDC>跳躍</color><sprite name=Jump>允許你穿越障礙物或者敵人、還可以在不觸發陷阱的情況下越過陷阱，只要你保證最後停留的那個格子是空格就行。,,,
-scenario_puzzle_2b_03,你上次撿到的那雙<color=#FFB300>飛跨之靴</color>能夠為一個<color=#FADC99>前進</color><sprite name=Move>提供兩格的額外移動力。這會讓你在這個輪次中走得更遠。,,,
-scenario_puzzle_2b_04,你能夠造成的傷害還不足以一擊必殺，但是如果你動作夠快，你也許可以在她進行<color=#FADC99>攻擊</color>前給她施加<nobr><color=#1F9EDC>繳械</color><sprite name=Disarm></nobr>狀態！,,,
+scenario_puzzle_2b_01,現在，你已經學會了正常的<color=#1F9EDC>進攻</color><sprite name=Attack>和<color=#1F9EDC>前進</color><sprite name=Move>，但是這次我們要嘗試進行一些帶有<color=#FADC99>附加效果</color>的能力。,,,
+scenario_puzzle_2b_02,"在現在這種狀況下，一個帶有<color=#1F9EDC>跳躍</color><sprite name=Jump>附加能力的<color=#FADC99>移動</color>可以起到奇效。
+<color=#1F9EDC>跳躍</color><sprite name=Jump>允許你穿越障礙物或敵人、還可以在不觸發陷阱的情況下越過陷阱，只要你保證最後停留的那個格子是空格就行。",,,
+scenario_puzzle_2b_03,你上次撿到的那雙<color=#FFB300>飛跨之靴</color>能夠為一個<color=#1F9EDC>前進</color><sprite name=Move>提供兩格的額外移動力。這會讓你在輪次中走得更遠。,,,
+scenario_puzzle_2b_04,你能夠造成的傷害還不足以一擊必殺，但是如果你動作夠快，你也許可以在她<color=#FADC99>攻擊</color>前給她施加<nobr><color=#1F9EDC>繳械</color><sprite name=Disarm></nobr>狀態！,,,
 scenario_puzzle_2b_05,"你本回合的目標為：
 <line-height=20%>
-<line-height=100%>→ 用一個帶有<color=#1F9EDC>跳躍</color><sprite name=Jump>的移動來無傷穿過陷阱
-→ 在<color=#C53F3F>強盜弓箭手</color>執行攻擊前對她施加<color=#1F9EDC>繳械</color><sprite name=Disarm>狀態
+<line-height=100%>→ 用一個附加<color=#1F9EDC>跳躍</color><sprite name=Jump>的<color=#FADC99>移動</color>來無傷穿過陷阱
+→ 在<color=#C53F3F>強盜弓箭手</color><color=#FADC99>攻擊</color>前對她施加<color=#1F9EDC>繳械</color><sprite name=Disarm>狀態
 <line-height=20%>
 <line-height=100%>祝你好運！",,,
 scenario_puzzle_2b_06,她非常敏捷而且還是遠程進攻，你需要快速行動來接近她 一 別忘了用上靴子！,,,
-scenario_puzzle_2b_07,"這裡的關鍵是越過那些陷阱，因此你需要利用帶有<color=#1F9EDC>跳躍</color><sprite name=Jump>效果的<color=#1F9EDC>前進</color><sprite name=Move>來避免傷害。",,,
-scenario_puzzle_2b_08,"你做到了！你不僅造成了可觀的傷害，更因為你用<color=#32E632>嘲諷戰吼</color>施加的<color=#1F9EDC>繳械</color><sprite name=Disarm>狀態，使得<color=#C53F3F>強盜弓箭手</color>在她的輪次中無法進行攻擊。",,,
-scenario_puzzle_2b_09,"現在她的生命值不多了，你應該能夠給她致命一擊。你本回合的目標為：
+scenario_puzzle_2b_07,這裡的關鍵是越過那些陷阱，因此你需要利用附加<color=#1F9EDC>跳躍</color><sprite name=Jump>效果的<color=#1F9EDC>前進</color><sprite name=Move>來避免傷害。,,,
+scenario_puzzle_2b_08,你做到了！你不僅造成了可觀的傷害，更因為你用<color=#32E632>嘲諷戰吼</color>施加的<color=#1F9EDC>繳械</color><sprite name=Disarm>狀態，使得<color=#C53F3F>強盜弓箭手</color>在她的輪次中無法<color=#FADC99>攻擊</color>。,,,
+scenario_puzzle_2b_09,"現在她的生命值不多了，你應該能夠給她致命一擊。
+你本回合的目標為：
 <line-height=20%>
 <line-height=100%>→ 殺死<color=#C53F3F>強盜弓箭手</color>
-→ 跳過陷阱並<color=#FADC99>收集</color>寶箱
+→ 跳躍通過陷阱並<color=#FADC99>收集</color>寶箱
 <line-height=20%>
 <line-height=100%>我希望你能在本回合中完成上面這兩個目標！",,,
 scenario_puzzle_2b_11,如果你想在本輪中比<color=#C53F3F>強盜弓箭手</color>更早行動，那麼你需要確保你選擇的第一張能力卡具有較低的優先權。,,,
 scenario_puzzle_2b_12,"我想我曾和你說過要<color=#1F9EDC>拾取</color><sprite name=Loot>那個寶箱吧？我相信只要你能夠做出更明智的選擇，你是可以在本回合中完成兩個目標的。",,,
 scenario_puzzle_2b_13,"已經累到不能再次<color=#1F9EDC>跳躍</color><sprite name=Jump>了嗎？也許你需要進行一次<color=#FADC99>休息</color>......為了拿回你的手牌，就像以前那樣，好嗎？",,,
-scenario_puzzle_2b_14,"休息、攻擊、跳躍、拾取寶箱，幹得漂亮！下一關中那瓶藥劑肯定能夠派上用場。",,,
-scenario_puzzle_2b_15,"別忘了，在進行一個<color=#1F9EDC>前進</color><sprite name=Move>的過程中，你可以使用像是<color=#FFB300>飛跨之靴</color>這樣的物品來提升你的移動範圍。",,,
-scenario_puzzle_2b_16,"別忘了<color=#FADC99>短休息</color>可以讓你回收棄牌堆的牌，並且在你即將進行的輪次中就可以投入使用。
+scenario_puzzle_2b_14,"休息...攻擊...跳躍...收集寶箱，幹得漂亮！下一個教學關中那瓶藥劑肯定能夠派上用場。",,,
+scenario_puzzle_2b_15,"別忘了，在進行<color=#1F9EDC>前進</color><sprite name=Move>能力的過程中，你可以使用像是<color=#FFB300>飛跨之靴</color>這樣的物品來提升你的移動力。",,,
+scenario_puzzle_2b_16,"別忘了，<color=#FADC99>短休息</color>可以讓你回收棄牌堆中的牌，並且在你即將進行的輪次中就可以投入使用。
 
-但是<color=#FADC99>長休息</color>會取代選擇兩張能力卡，並且需要消耗整個輪次（你依然可以做一些常規的事情例如使用道具），並且角色的優先權會被設定為 <b>99</b> 。也就是說，無法在本回合幫你取得勝利！",,,
-scenario_puzzle_2b_obj_01,跳躍通過陷阱並且在強盜弓箭手執行攻擊前對其施加繳械狀態,,,
+而<color=#FADC99>長休息</color>會取代選擇兩張能力卡，並且佔用整個輪次（你依然可以做一些基本的操作，例如：使用道具），角色的優先權會被設定為 <b>99</b> 。也就是說，無法在本回合讓你取得勝利！",,,
+scenario_puzzle_2b_obj_01,跳躍通過陷阱並且在強盜弓箭手攻擊前對其施加繳械狀態,,,
 scenario_puzzle_2b_obj_02,在本回合殺死強盜弓箭手,,,
-scenario_puzzle_2b_obj_03,跳躍通過陷阱並且拾取寶箱,,,
+scenario_puzzle_2b_obj_03,跳躍通過陷阱並且收集寶箱,,,
 scenario_puzzle_2c_01,為了成為一名成功的會長，你需要多加注意敵人的行動並藉由這些資訊以規劃你自己的行動。,,,
 scenario_puzzle_2c_02,"你這次的目標非常簡單：
 <line-height=20%>

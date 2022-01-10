@@ -6243,8 +6243,7 @@ gui_unknown,未知
 gui_unready,未準備
 gui_update_party_disabled_tooltip,當前另一個玩家正在加入遊戲，角色切換/移除會被禁用。
 gui_upload,上傳
-gui_use_item_attack_tip,切換顯示的物品以將其效果添加到攻擊中
-gui_use_item_movement_tip,切換顯示的物品以將其效果添加到移動
+
 gui_use_item_title,使用物品
 gui_validate,驗證
 gui_view_alt_cards_tip,按住alt查看所有卡
