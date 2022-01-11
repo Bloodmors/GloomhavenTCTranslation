@@ -1408,22 +1408,22 @@ error_choreo_00042,無法處理選擇目標焦點
 error_choreo_00043,無法處理行動者確認傷害技能
 error_choreo_00044,無法處理已受傷
 error_choreo_00045,無法處理受到傷害
-error_choreo_00046,無法處理拾取
+
 error_choreo_00047,無法處理選擇板塊
-error_choreo_00048,無法處理放置陷阱
+
 error_choreo_00049,無法處理拆卸陷阱
 error_choreo_00050,無法處理摧毀障礙物
 error_choreo_00051,無法處理使用強推摧毀障礙物
 error_choreo_00052,無法處理防止傷害
 error_choreo_00053,無法處理觸發防止傷害
-error_choreo_00054,無法處理目標護盾
+
 error_choreo_00055,無法處理攻擊增益
 error_choreo_00056,無法處理目標攻擊增益
 error_choreo_00057,無法處理光環效果結束
 error_choreo_00058,無法處理光環效果暫停
 error_choreo_00059,無法處理光環效果解除暫停
 error_choreo_00060,無法處理應用狀態增益效果
-error_choreo_00061,無法處理護盾
+
 error_choreo_00062,無法處理增加目標
 error_choreo_00063,無法處理增加回血量
 error_choreo_00064,無法處理附加增益效果
@@ -5461,8 +5461,8 @@ gui_achievement_rewards_close,繼續
 gui_achievements,成就
 gui_active_abilities,啟動技能
 gui_active_ability,啟動技能
-gui_active_bonuses,啟動的效果獎勵
-gui_additional_attack_modifiers,額外的攻擊修正卡
+
+
 gui_adv_character_difficulty,難度：
 gui_adv_character_role,角色：
 gui_adv_side_difficulty,進行難度：
@@ -6147,7 +6147,7 @@ gui_start_campaign,開始戰役
 gui_start_multiplayer_wrong_phase_tooltip,開始多人遊戲僅在卡選擇階段或世界地圖上可用
 gui_starting_perk_points_tooltip,"<size=+2> <color=#EACF8C>初始專精項目</color> </size>
 任何未來新加入的雇傭兵獲得的雇傭兵的初始專精項目數等於1加上之前退休的雇傭兵擁有的最高初始專精項目數。"
-gui_stats,基礎統計資料
+
 gui_steam_friends,朋友
 gui_submit,Submit
 gui_summon_card,召喚
@@ -6229,20 +6229,20 @@ gui_town_records_intro_story_1,穿過城鎮記錄處的拱形門廊，你看到�
 gui_town_records_intro_story_2,你的腦海中醞釀著一個想法，於是您想找到圖書館的記錄保管者。花了很長時間，最終你猛然發現發現一個身材小只的人在小心翼翼地重新排放架子上不多的幾本書。沒有浪費時間你直接將你巨大的想法轉述給他。
 gui_town_unlocked_notification,你已經解鎖了黯淡港灣的城鎮記錄！
 gui_trainer_introduction,歡迎來到訓練營。此屏包含所有您可以去追求的遊戲成就及其獎勵。初始階段最重要的成就和獎勵是逐步解鎖地圖的探索任務，您完成任何成就後請返回此處兌換獎勵！
-gui_turn_off_tutorial,關閉教學
+
 gui_tutorial_01_description,近戰進攻和移動
 gui_tutorial_01_instructions,岩石心這一回合只有兩張技能卡。您現在必須啟動一張牌的上半區和另一張牌的下半區（以任意順序）來殺死強盜衛兵。
 gui_tutorial_01_title,近戰進攻和移動
-gui_tutorial_exit,退出教學
-gui_tutorial_victory,勝利！
+
+
 gui_tutorial_victory_info,"恭喜，你通過了教學，現在是應用你的所學進行戰鬥的時候了！走向【新冒險】來選擇一個玩家團隊並開始。
 有關黯淡港灣規則的更多資訊，請查看主功能表中的【簡明規則書】部分，它在遊戲進行時的暫停功能表中也可找到並查看。
 祝你好運！"
 gui_unequipped,未被裝備
-gui_unknown,未知
+
 gui_unready,未準備
 gui_update_party_disabled_tooltip,當前另一個玩家正在加入遊戲，角色切換/移除會被禁用。
-gui_upload,上傳
+
 
 gui_use_item_title,使用物品
 gui_validate,驗證
@@ -6487,16 +6487,9 @@ message_complete_achievement_1_4_unlocklocations_2,讓我們尋找更北方的�
 message_complete_achievement_1_4_unlocklocations_3,現在我們的最後目標就是到達叢林深處的野尖塔。
 message_complete_achievement_1_5_unlocklocations_1,做的很好！所有荒涼海岸、東方叢林，荒地直到The Great North Forest的小鎮都已經聯繫到了。我們行會的歷史翻過了第一頁！
 message_complete_achievement_1_5_unlocklocations_2,看起來邊境的村莊已經團結起來準備獎勵我們一大筆金幣了！
-message_end_quest_story_2d_1,在基礎訓練任務做的非常好。讓我來給你介紹行會的第三名成員：雖然他不那麼像個戰士......
-message_end_quest_story_2d_2,"嘿，不是所有人都非常喜歡成為刺傷別人的專家！
-哦，呃......請允許我打斷一下。“咳咳”"
-message_end_quest_story_2d_3,你好，會長。我是你菜鳥公會中卑微的<b>商人</b>。我負責運營公會的重要方面......或者說<i>錢</i>。恕我直言，我們現在很缺這東西......
-message_end_quest_story_2d_4,"你現在能看到的是<b>世界地圖</b>。你可能已經注意到它現在有點空洞，嗯......好消息和壞消息都有一些。
-壞消息是邊境已經充斥著各種討厭的怪物——強盜土匪，不死生物，邪教徒們，你懂的。好消息是你會幫我們恢復到達隱藏在迷霧中的其他定居點的道路。"
-message_end_quest_story_2d_5,在我們能幹點什麼之前，我們首先需要給公會雇點雇傭兵。讓我們從真正招募老窮鬼<b>蠻子</b>開始，他會......重新陷入些麻煩之中。
-message_end_quest_story_3a_1,<b>蠻徒</b>肯定能吸收不少傷害，但跑的真不快，
-message_end_quest_story_3a_2,得到足夠的資金是讓我們的公會起飛的關鍵。你知道什麼人擅長......emm，撈錢麼？
-message_end_quest_story_3a_3,我只知道這個女人——她也是一個在擋道者身上開洞的高手。她正在“解放”一些黃金，我們要搭把手麼？
+
+
+
 message_end_quest_story_3b_1,作為一個公會，我們要做的第一件事情就是重建絞架嶺到西邊的貿易路線。我們有點小小的麻煩就是沿路林地中的強盜，但在蠻徒和凶徒的幫助下，這小菜一碟。
 message_end_quest_story_3b_2,它會給你這工作急需的一些經驗，並且在道路暢通後將一些新的<b>道具</b>放進倉庫中。走，讓我們敲碎這些強盜的腦殼！
 message_end_quest_story_4a_1,是時候讓你瞭解一些魔法的基礎知識了。我知道一個<b>織魔師</b>能給你露兩手，我最後一次得知她的消息是她在絞架嶺附近的叢林中研究一些石陣。現在這地方這麼多怪物，我們得確保她的安全。
@@ -6938,7 +6931,7 @@ mudview,三河匯社區
 mudview_descr,三河匯社區坐落在三條河流的交匯處，這是一個靠泥沼為生的農民社區，他們切取泥炭板並將它們運到各個城市作為燃料出售。對於這樣一個不愉快的地方，生活在這裡的人們看起來很快樂和健康。
 mystically,神秘嘉賓
 nailsphere,釘刺圓球
-narratordialogname,旁白
+
 nasitra,楠斯厝
 nasitra_descr,從魔人族語言得名，本意為“甜水”，它以從守望山脈脈流下的清澈河流而得名，是從凱爾地區到大海的駁船的樞紐。楠斯厝也以其高品質的魔杖而聞名。
 
@@ -7263,8 +7256,6 @@ quest_relic_steelring_name,區區一戒指
 quest_relic_steelring_unlock_1,我看到你們已經學會了處理疼痛，所以我覺得你們已經可以接受一個更加危險的任務了。
 quest_relic_steelring_unlock_2,在石板城下方的詛咒墓穴中隱藏著一枚保護之戒，它可以有效幫上我們的任務，但是你需要多加小心。
 quest_relic_steelring_unlock_3,那裡不僅有邪教徒們和不死族，墓穴本身就會損害你的健康。記得帶上額外的治療藥品！
-
-quest_story_3a_intro,教官讓你前往惡魔閘口鎮墓地，在剛進門的地方你發現了一座陵墓。你走入陵墓，在黑暗中沿著一條滿是破碎骨頭的道路前行，隨後你聽到了深處傳來的打鬥聲。在一個房間裡你發現了受傷的蠻徒正獨自面對一群不死族。
 
 
 quest_story_3b_desc,教官給你標記出了第二個潛在夥伴的位置。
@@ -8717,33 +8708,8 @@ scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附
 ============================================================================
 ============================================================================
 ============================================================================
-scenario_puzzle_3a_01,"讓我們來仔細看看每個角色分別能夠做些什麼。在這個劇本中，<b>蠻徒</b>要面對兩個<b> 1 </b>級的<b>骷髏精英</b> —代表它們的屬性相比<b> 0 </b>級時更高一些。
-在回合開始時你看到的揭露出來的“怪物技能卡”由那隻怪物的種類和從對應種類的怪物技能牌堆中抽出的基本技能卡共同決定。因此，有時候它們能夠移動的更遠或者獲得更高的攻擊力，更別說這兩個骷髏還是<link=""Glossary_Elite""><b>精英</b></link>級別的了！"
-scenario_puzzle_3a_02,"注意它們有一個先天的<b><link=""Glossary_Shield"">護盾</link></b><b> 1 </b>效果，用<sprite name=Shield>圖示來顯示。每一點<b><link=""Glossary_Shield"">護盾</link></b>效果可以阻擋一點來自於攻擊的傷害。
-然而，當使用帶有<b><link=""Glossary_Pierce"">穿透</link></b><sprite name=Pierce>效果的攻擊時可以忽略<b><link=""Glossary_Shield"">護盾</link></b>的部分效果。"
-scenario_puzzle_3a_04,"嗯…我得到了一些可靠情報，在這個回合中這些<b>骷髏</b>將進行不止一次攻擊。然而你的牌不多了，無法承擔移除更多卡牌的代價，所以這時候要想活下去，你需要給自己啟動一些<b><link=""Glossary_Shield"">護盾</link></b>。
-順便說一下，雖然這些敵人的<b><link=""Glossary_Shield"">護盾</link></b>是先天的持續效果，平時像是<b><link=""Glossary_Shield"">護盾</link></b>這樣的<b>增益效果</b>都會伴隨著一個<link=""Glossary_Round""><b>回合</b></link><sprite name=Round>或是<link=""Glossary_Persistent""><b>持續</b></link><sprite name=Persistent>圖示。"
-scenario_puzzle_3a_05,"看到了嗎？<b>骷髏</b>的技能卡可以讓它們多次指定同一個敵人為<b><link=""Glossary_Target"">目標</link></b><sprite name=Target>，不必去以不同敵人為目標。你需要用一些<b><link=""Glossary_Shield"">護盾</link></b>來阻擋傷害。"
-scenario_puzzle_3a_06,"下次別忘了在你的行動輪中使用<b><font=""MarcellusAlt SDF""><color=#F8F8F8>次級治療藥水</color></font></b>！"
-scenario_puzzle_3a_07,這個時候逃跑可不能幫助你取得勝利。給我回來砸碎這堆骨頭！
-scenario_puzzle_3a_08,"你確實殺死了一些<b>骷髏</b>，但是如果你移除了卡牌，下個回合就沒有足夠的牌可以用了。別忘了使用藥水和<b><link=""Glossary_Shield"">護盾</link></b>技能。"
-scenario_puzzle_3a_09,"哇哦，那可真是猛烈地攻擊！還好，你的<b><link=""Glossary_Shield"">護盾</link></b>幫你阻擋了足夠多的傷害，所以<b>蠻徒</b>還活著。真是驚險！"
-scenario_puzzle_3a_10,最終目標：殺死剩下的<b>骷髏</b>——祝你好運，它可是非常的皮糙肉厚！
-scenario_puzzle_3a_11,"給你個小提示：或許你可以試著利用<b><link=""Glossary_Push"">強推</link></b>加陷阱的組合？記住<b><link=""Glossary_Shield"">護盾</link></b>只能阻擋來自於攻擊的傷害，但是對於來自於像是陷阱這樣的直接傷害不會起到任何作用！"
-scenario_puzzle_3a_12,他這一回合不會很快進行行動，所以你也許可以在他有機會幹掉你之前殺死他！
-scenario_puzzle_3a_13,"別忘了執行短休息來拿回<font=""MarcellusAlt SDF""><color=#F5E3B0><b>守護之力</b></color></font>以便把骷髏<b>強推</b>到陷阱上。"
-scenario_puzzle_3a_14,又一次拯救了<b>蠻徒</b>！我聽說他不想再獨自冒險了，所以他願意成為你公會裡的第一名傭兵！恭喜！
-scenario_puzzle_3a_15,讓我們離開這個佈滿灰塵的墓穴看看還有誰能夠招募吧。
-scenario_puzzle_3a_16,"你的目標為：
-<line-height=20%>
-</line-height>→ 使用一次帶有<b><link=""Glossary_Pierce"">穿透</link></b><sprite name=Pierce>效果的攻擊殺死一個<b>骷髏</b>
-→ 在你身上啟動<b><link=""Glossary_Shield"">護盾</link></b><sprite name=Shield>
-→ 使用<b><font=""MarcellusAlt SDF""><color=#F8F8F8>次級治療藥水</color></font></b>
-<line-height=20%>
-</line-height>這些足以讓你在本回合中存活下來。"
-scenario_puzzle_3a_obj_01,使用帶有穿透<sprite name=Pierce>效果的攻擊殺死一個骷髏
-scenario_puzzle_3a_obj_01b,通過使用治療藥水和啟動護盾<sprite name=Shield>在本回合中存活下來
-scenario_puzzle_3a_obj_02,在本輪中殺死剩餘的骷髏
+
+
 scenario_puzzle_3b_01,來認識一下<b>凶徒</b>！她身手矯健並且擅長移動，更別提當一切順利的時候能夠爆發大量近戰傷害。現在，讓我們來幫她擺脫這個困境。
 scenario_puzzle_3b_02,"你的第一個目標為：
 <line-height=20%>
@@ -9929,11 +9895,6 @@ stormfall,風暴降臨
 suffer_2damage,損失2點傷害。
 suffer_3damage,損失3點生命值。
 summerwell,夏井地
-summon,召喚
-summon_attack,召喚物攻擊力
-summon_health,召喚物生命值
-summon_move,召喚物移動力
-summon_range,召喚物射程
 
 summonsaltar,召喚祭壇
 sunkeeper,烈日守衛
