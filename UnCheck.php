@@ -6776,7 +6776,7 @@ gui_playstest_levels,試玩等級
 gui_positive_conditions,正面狀態
 gui_prop_can_be_looted_by,{0}
 gui_quest_completed,完成
-gui_quest_completed_rewards,任務完成！
+
 gui_quest_completed_rewards_close,獲得獎勵！
 gui_quest_completed_unavailable_rewards,沒有更多的獎勵能提供了，您已經完成了這個劇本。
 gui_quest_group_completed,已完成任務數
@@ -7229,7 +7229,6 @@ message_complete_achievement_1_5_unlocklocations_1,做的很好！所有荒涼�
 message_complete_achievement_1_5_unlocklocations_2,看起來邊境的村莊已經團結起來準備獎勵我們一大筆金幣了！
 
 
-message_end_quest_story_4a_1,是時候讓你瞭解一些魔法的基礎知識了。我知道一個<b>織魔師</b>能給你露兩手，我最後一次得知她的消息是她在絞架嶺附近的叢林中研究一些石陣。現在這地方這麼多怪物，我們得確保她的安全。
 message_end_quest_story_5a_1,那是充斥著魔力的元素學校。也許我們能招募到一個高科技人才？我發誓那裡前不久有一個智元族<b>機匠</b>帶著一個能量核心或者其他造物在酒館裡閒逛。
 message_end_quest_story_5a_2,很不錯。我聽說他在尋找冒險者調查一個附近的墳墓，酒保說他昨天就出發了。聽起來像那種會加入我們工會的人——讓我們試試能不能找到他！
 message_end_quest_story_5b_1,我們現在已經建立了一個比較完善的傭兵工會了！說到雇傭，我最近碰到了一個尋求我們幫助的人。
@@ -7569,7 +7568,7 @@ message_end_travel_blackrockasylum_1,由於軍械庫受到嚴重損壞，庇護�
 message_end_travel_blackrockasylum_2,儘管庇護者需要這麼大的劍很奇怪，但我大概並不想知道為什麼。
 message_end_travel_boneshatterpass_1,碎骨走廊的僧侶很高興看到道路被清理乾淨了，他們給了我一些很好的鞋具！
 message_end_travel_mistfellcopse_1,一個來自沉霧矮林的村民給了我一個祖傳刀片作為謝禮。有機會來看看吧！
-message_rewards_quest_story_4a_1,"啊，口袋裡叮噹響的感覺真好！但我們該用這筆錢投資什麼呢？也許我應該買點 <nobr><b><font=""MarcellusAlt SDF""><color=#F8F8F8>小型魔法藥水</color></font></b></nobr>s 作為儲備。"
+
 message_start_quest_boss_banditcommander_1,從亂心賊的老巢發現的盒子裡有從三個薩維斯神殿裡搶來的神器，但也有來自第四個神殿的東西。
 message_start_quest_boss_banditcommander_2,看，這個紋章很明顯是來自燼之神殿的。他們終於找到了！
 message_start_quest_boss_banditcommander_3,這個箱子上有狂野尖塔外船運公司的標記。我賭一個金幣神殿就在附近！
@@ -7995,13 +7994,7 @@ quest_relic_steelring_unlock_2,在石板城下方的詛咒墓穴中隱藏著一�
 quest_relic_steelring_unlock_3,那裡不僅有邪教徒們和不死族，墓穴本身就會損害你的健康。記得帶上額外的治療藥品！
 
 
-
-quest_story_4a_desc,強盜被阻攔在絞架嶺外的小路上，需要你將他們趕跑。
-quest_story_4a_list,解鎖絞架嶺貿易路線
-quest_story_4a_name,拋給你劊子手一枚硬幣
-quest_story_5a_desc,織魔師在叢林中遭遇了麻煩——把她解救出來，她肯定會加入公會的！
 quest_story_5a_intro,在絞架嶺詢問了一圈後，你選擇了一條通向被遺忘的古老廢墟的道路。當你到達廢墟時聽到前方傳來的一陣騷動：似乎一些強盜圍住了一個花晶族女性。她會是你要找的人嗎？
-
 quest_story_5b_desc,幫助機匠逃離惡魔閘口鎮地穴，他肯定會加入公會的！
 quest_story_5b_intro,教官告訴你那個智元族已經被人目擊待在城市南部一棟廢棄宅邸的地下室裡。你趕到宅邸時發現大門是打開的，滿是灰塵的地面上有著小小的腳印，你跟著腳印到了通往漆黑的地下室的門前。
 
@@ -8038,7 +8031,7 @@ quest_story_berserker_1_desc,監督者現在在哪？
 quest_story_berserker_1_intro,自從公會接到監工回到黯淡港灣的消息以來，你們所有人就籠罩著一種沉重的氣氛，教官一直強調他的危險和消滅他的必要性。有傳言說監工現在在磨塘地外的一個強盜營地，所以你現要去那裡，路上會由狂戰士帶領。旅程不長，你們很快就要面對強盜通常喜歡的木柵欄和毛皮帳篷。然而，你很快就會注意到這個搖搖欲墜的基地裡的人並不是強盜，而是守衛。當你們靠近大門時，一個警衛笨拙地走近你，大聲命令道：“哦，迷路了吧。這個舊營地正在被城市守衛調查。狂戰士走到他跟前，看著他的眼睛，猛地刺傷了他。此時其他的衛兵們拔出劍，向你們逼近過來......
 quest_story_berserker_1_list,狂戰士一定是找到了一位老朋友
 quest_story_berserker_1_name,公務
-quest_story_berserker_1_reward,解鎖狂戰士的故事任務
+
 quest_story_berserker_2_desc,監督者已經到達了鐵木營地，確保那是他的葬身之處。
 quest_story_berserker_2_intro,鐵木營地並不難找。監督者留下了一縷貫穿村莊直沖雲霄的煙羽。你來之前預料到了一場大屠殺，果不其然，村裡屍橫遍野，建築被燒毀殆盡。看起來不願意加入他的人都倒在了血泊之中。你掏出了武器，謹慎地走進村莊深處，一路上聞著焦木還有落水狗的氣味。決定在村莊廢墟尋找掩體並且逐步尋找惡臭的來源之後，你發現了在殘骸間四處竄動的魔鼠。他們並不像往常的魔鼠一樣吞噬屍骸，反倒是在廢墟中搜集金屬廢料，並把他們帶回遠處的營地裡。於是你尾隨它們的其中一員，想要找出他們運輸金屬的目的地，但是你腳下的一片廢墟碎木出賣了你的行蹤。魔鼠聽到聲音轉過身來，突然間你就被包圍了。
 quest_story_berserker_2_list,在他的足跡中阻止監督者
@@ -8085,7 +8078,7 @@ quest_story_doomstalker_1_desc,有人試圖摧毀整個花晶族的棲息之所�
 quest_story_doomstalker_1_intro,旅途中，末日行者向你解釋了他和其他花晶族人是如何穿越迷霧之海在惡魔閘口鎮附近定居的。他與其他在此勞作的花晶族人捨棄原本的花晶族的冥想悟道之法——而是選擇在不可寬恕之地進行勞作以尋求開悟之法。當你抵達時，感受到鍛造廠，鍛造爐以及南盾村的鐵匠的花晶族人數遠超於在花晶族簡易木屋以及農田中的人數。當你跟隨末日行者遭遇其他村民的堅毅目光時，你能從他們的眼中看到斬釘截鐵的決心。他將你引至首領木屋並向你闡述了那次襲擊。幾天前，一支人類部隊佔據了居住地，人類部隊的強盛很明顯是花晶族們沒料到的，甚至那兒的末日行者沒有保護他們。當一支箭從首領頭部旁掠過時，你正打算詢問人類的樣貌。她指向木屋門邊的強盜向你示意了（他們就是）肇事者。
 quest_story_doomstalker_1_list,誰襲擊了末日行者的家園？
 quest_story_doomstalker_1_name,狩獵途中
-quest_story_doomstalker_1_reward,解鎖末日行者的故事任務
+
 quest_story_doomstalker_2_desc,一串血跡將花晶族們的襲擊者與一家可疑的肉店聯繫起來——到底發生了什麼?
 quest_story_doomstalker_2_intro,儘管守衛隊長已承諾調查此事，但末日行者決定自己調查。有用的是，你可以直接經過欺誠市集前往肉鋪。當你踏進滿是污垢的門扉，兩個智元族屠夫因幾頭腐爛的花晶族牲畜而不得不付給商人更多的錢。一本髒兮兮的帳冊正擺在智元族人和商人這間的櫃檯上，雙方正在寫些什麼。末日行者撞向商人想去搶奪帳冊。暫態全部人炸了鍋。一名智元族人打開櫃檯後的門準備從後門開溜——在他丟下帳冊之前並沒能得逞。商人和另一名智元族人沖向鋪子的前窗，逃離搶劫。幾乎同時，城市衛兵出現在你身後，命令你退下。儘管出口近在眼前但你只能選擇留下。
 quest_story_doomstalker_2_list,調查屠夫的商店
@@ -8098,7 +8091,7 @@ quest_story_elementalist_1_desc,説明元素大師弄明白偉大的英雄史華
 quest_story_elementalist_1_intro,斯萬格被稱為他那一代最偉大的英雄之一，傳聞被認為是近戰戰鬥的大師和全元素之力的持有者。作為一個強大的魔法師，元素師熱衷於研究斯萬格是如何駕馭身體和精神力量的，所以想讓我們幫助去調查過去的歷史。斯萬格最著名的英雄事蹟之一是保護泥道村，該村莊位於血色灘的西北部，所以你們要去的地點就是這裡。 泥道村戰役的故事幾乎是傳奇的，史華傑爾單槍匹馬地對抗整個強盜營，保護了整個城鎮。當你到達泥道村時，該村已經超過一個多世紀一直是廢墟。也許你可以在這裡找到一些有關斯萬格的資訊？
 quest_story_elementalist_1_list,調查歷史上最偉大的冒險者
 quest_story_elementalist_1_name,最偉大的英雄？
-quest_story_elementalist_1_reward,解鎖元素大師的故事任務
+
 quest_story_elementalist_2_desc,在泥道村找出來的卷軸指向銀燈芯基地附近的一座高塔，去調查一下吧
 quest_story_elementalist_2_intro,銀燈芯基地的村民們給你們指了一個模糊的方向，一座被毀掉的塔，你們很快跌跌撞撞地沿著他們指的方向爬上一條危險的岩石小路。你發現你想搞清楚的問題實在太多了。為什麼泥道村破產了？為什麼要把錢送到山裡的一座塔上？這跟史華傑爾又有什麼關係？走了幾個小時後，當你爬上山脊，看到前面山坡上的塔時，這一切的謎底很快就要揭開了。你還可以看到塔的入口處鋪滿了骨頭和其他碎屑。似乎有別的東西搬進來了…
 quest_story_elementalist_2_list,找出泥道村付錢給這座塔的原因
@@ -8128,7 +8121,7 @@ quest_story_mindthief_1_desc,人類挖到了你的巢穴，回家去保護你的
 quest_story_mindthief_1_intro,當你回頭穿過你的狼群居住的那個巢穴，苔蘚和菌類的清香充斥著你的鼻腔，你向它們揮手。很久以前，你引導你的狼群離開令人作嘔的城市下水道並再也沒有回來看過，讓它們在野外享受寧靜的生活。食物雖少，生活卻美滿......或者更確切地說，曾經是，直到你們聽到許許多多湧進洞穴裡的腳步聲。這個巢穴遭到了攻擊！
 quest_story_mindthief_1_list,亂心賊的巢穴正在受到攻擊
 quest_story_mindthief_1_name,保護巢穴
-quest_story_mindthief_1_reward,解鎖亂心賊的故事任務
+
 quest_story_mindthief_2_desc,群眾們沒有食物堅持不了多久，從強盜營地偷些補給品給他們，更重要的是，找出是哪個混蛋襲擊了你。
 quest_story_mindthief_2_intro,你拜訪了低鎮的群眾，他們的日子過得很艱難。因為食物短缺，人們的情緒非常低落，每次有人類從他們頭頂經過時不少年輕人都感到非常害怕。傳來的新消息也不容樂觀，巢穴更遠處，多個氏族目擊了身上有著標記的強盜，那些標記和襲擊巢穴的強盜身上一模一樣。很明顯，他們在舊洞穴和地下巢穴中尋找寶藏。你決定回頭直面強盜，通過洗劫他們的營地來為你的氏族獲取食物。你穿過地下來到了最近的一個強盜營地，他們正在收拾從其他羚牛族和魔鼠那搶來的戰利品。現在，是動手的時候了。
 quest_story_mindthief_2_list,竊取補給品給群眾
@@ -8141,7 +8134,7 @@ quest_story_nightshroud_1_desc,朧夜客想要調查怨靈被摧毀時的殘留�
 quest_story_nightshroud_1_intro,自從你上次掃清了火州城後，駐守在這裡的守衛時刻保持警惕，害怕建築外和這個區域的墳墓裡傳來的聲音。朧夜客帶著團隊離開火州城，在勇敢地穿越了幾次小規模沙塵暴後來到了附近一個人跡罕至的地穴。他用一些碎石堵住入口，只留下一條小縫，然後擠了進去。你跟著他不知目的地前進，在穿越了幾個蜿蜒曲折的通道之後，你來到了一個似乎是主墓室的地方，剛進去時房間裡似乎什麼都沒有，但是不一會兒詭異的鬼魂從棺材裡升了起來，然後你身後的門“嘭”地一下猛地關上！
 quest_story_nightshroud_1_list,幫助朧夜客研究怨靈
 quest_story_nightshroud_1_name,偷偷溜走
-quest_story_nightshroud_1_reward,解鎖朧夜客的故事任務
+
 quest_story_nightshroud_2_desc,朧夜客想知道是什麼讓殺戮幽魂騷動起來。
 quest_story_nightshroud_2_intro,獵犬嶺到處都是關於議會與巢靈族結盟的謠言，附近村裡的成員定期失蹤。所有的建築物都被搜查過了，但鎮上的人根本不知道巢靈族可能藏在哪裡。當你到達城鎮時，朧夜客正在領導調查，詢問受害者最後已知的下落，幾個小時後，他讓受害者的家人們在城鎮地圖上標出他們的下落。所有這些案件都發生在一條蜿蜒的小路上，那條小路與城市的主要下水道相連，朧夜客建議你去那裡看看。你沒有從某一端開始，而是從半道爬下去，因為你認為敵人都不會提防你從中間發起攻擊。當你從小通道進入主下水道時，你發現自己的判斷是正確的，這裡的強盜完全沒有意識到朧夜客已經跳沖向了他們。
 quest_story_nightshroud_2_list,幫助朧夜客研究巢靈族
@@ -8154,7 +8147,7 @@ quest_story_plagueherald_1_desc,瘟疫使者也許發現了一種非常規的，
 quest_story_plagueherald_1_intro,到瘟疫使者的巢穴的旅途比你預期的要長得多，當你到達被它稱之為家的楠斯厝的廢棄下水道時，沙子和汗水幾乎填滿了你身上的每一個縫隙。瘟疫使者似乎一點也不介意這裡的環境，甚至可以說它在整個旅程中都在快樂地嗡嗡作響。進入下水道後，你感到如釋重負，因為你終於擺脫了沙漠的沙塵和酷熱。然而，當你意識到你站在一個從上到下滿是昆蟲和污水的房間裡時，這種寬慰很快就被沖淡了，即使這些下水道已經被廢棄了。瘟疫使者的類人形態消散成一小團昆蟲，整個房間充滿了蟲子的腿和扇動翅膀的嗡嗡聲。在幾分鐘後，蟲群再次安靜下來，瘟疫先驅在你面前變回人形。“我們必須走，”它說，他說話時就像嘴裡叼著憤怒的蜜蜂。當你轉身離開這噩夢般的房間，再次面對沙漠時，一支箭刺穿了你面前地板上的一隻昆蟲，房間裡的蟲子全部消失了，除了瘟疫使者。
 quest_story_plagueherald_1_list,把好消息帶給蟲巢
 quest_story_plagueherald_1_name,忙碌的蟲巢
-quest_story_plagueherald_1_reward,解鎖瘟疫使者的故事任務
+
 quest_story_plagueherald_2_desc,在這個蜂巢裡有著能治癒疾病的神奇咒語，把它們找出來。
 quest_story_plagueherald_2_intro,當你第二次來到夏井地時，你很高興地發現天氣始終是晴朗的。在和煦的微風中，林中小徑是那麼的令人感到愜意，你幾乎忘記了，你要去的是一座早已被遺忘的(而且可能仍然危險的)神廟。雖然你很不情願的進入夏井地的洞穴，但你驚訝地發現洞穴裡完全沒有熊。你更驚訝地發現，這座被遺忘已久的神廟的門被炸斷了鉸鏈，正倒在地上冒煙。拔出武器，你進入這座被據為蟲巢的神廟。寂靜的空中籠罩著一團沉重的黑影。當你再往前走的時候，聽到有東西在你腳下嘎吱作響。低下頭，你看到地板上散落著死巢靈族留下的蜷縮的昆蟲，混在許多薩維斯和人類的屍體之間。在你繼續前進之前，一聲機械的呼呼聲打破了寂靜，把你的注意力吸引到守衛神廟內部的遠古炮臺上。蜂群入侵者的紋章在火把的光照下在他們的外殼上閃爍著。在炮臺後面，黑暗的身影影影綽綽。你會覺得，想要找到你要的檔，必然需要大戰一場。
 quest_story_plagueherald_2_list,找到瘟疫使者需要的咒語
@@ -8169,7 +8162,7 @@ quest_story_quartermaster_1_intro,"低鎮曾經是惡魔閘口鎮的一個前哨
 你沿著小路出發了，但沒過多久，你就在一個臭氣熏天的洞穴外面發現了一把血跡斑斑的守衛用劍和頭盔。正當你拔出武器時，一些魔鼠跳了出來…"
 quest_story_quartermaster_1_list,從低鎮那取回金庫鑰匙
 quest_story_quartermaster_1_name,這裡不安全
-quest_story_quartermaster_1_reward,解鎖軍需官的故事任務
+
 quest_story_quartermaster_2_desc,看看惡魔閘口鎮的金庫裡發生了什麼…
 quest_story_quartermaster_2_intro,惡魔閘口鎮金庫坐落於這座城市華麗的歷史建築之下，很少有普通市民見過它。議會利用這個古老的空間來儲存最重要的資產，其中包含了為城市衛兵隊準備的備用裝備。但現在，你只看到一堵奇特的石牆。按照軍需官的指示，你將金庫鑰匙放入牆中央的簡單插孔中。牆左右兩邊的兩個矩形向裡面陷了進去，然後消失了，露出了兩條短而相同的走廊。你在每個走廊的盡頭都發現了壓力板。你站在上面，什麼也沒發生。你轉身朝身後看去，但隨即被一種低沉的隆隆聲所吸引，因為走廊底部的牆都移開了，你看到的是古老的壯麗場面和金庫主室的可疑氣味。可能是你在想像，也可能是黑暗中真的發出了嘶嘶聲…
 quest_story_quartermaster_2_list,調查這個金庫
@@ -8195,7 +8188,7 @@ quest_story_scoundrel_1_desc,一個不願意透露身份的高大羚牛族讓你
 quest_story_scoundrel_1_intro,你前往森林深處的會面地點，一路上好奇著這名羚牛族到底長什麼樣子。到目前為止，你一直在和中間人打交道，但你能感覺到這名羚牛族正在召集一支小軍隊......而你的工作是幫助他幹掉敵人。你做在約定好的空地上，等待他的到來。
 quest_story_scoundrel_1_list,凶徒就在旁邊
 quest_story_scoundrel_1_name,發薪日
-quest_story_scoundrel_1_reward,解鎖凶徒的故事任務
+
 quest_story_scoundrel_2_desc,南盾村最近來了許多令人討厭的魔鼠。在得知是一個羚牛族在領導他們後，一筆針對他腦袋的懸賞被發出。
 quest_story_scoundrel_2_intro,Asking around in South Shield, you find the mayor has little or no information on the Inox himself, just that they are hidden out ‘in the forest‘ somewhere. The picture of the target is laughable, a furry circle with some fangs! With a sigh, you trek out into the undergrowth, in the direction of a waved arm. Surprisingly, the trail is not hard to find: clearly whoever has been raiding the villages isn‘t hiding the paths they use. Usually a sign of overconfidence. After a few hours in the forest, you smell woodsmoke, and that leads you to a clearing in the forest where you see a hive of activity. Vermlings are swarming, and an Inox stands out clearly, This must be them!,,,,,
 quest_story_scoundrel_2_list,跟著羚牛族的頭兒的蹤跡前往南盾村
@@ -8212,7 +8205,7 @@ quest_story_soothsinger_1_desc,The Soothsinger wants to expand her repertoire of
 quest_story_soothsinger_1_intro,After stocking up for the trip in Gibbet Hill, you start out towards the Bandit Camp. It seems strange to visit a group of Bandits without planning on killing them all when you get there, but needs must. You hear the camp before you see it: a lot of laughing and shouting can be heard. As you arrive, you are all ushered into the heart of the celebration. Apparently, the Bandits had a pretty successful raid on an opposing faction the night before, and the loot was primarily spent on alcohol. The Soothsinger spends the night talking excitedly to the Bandits, learning lots of new jokes and stories, and you all bed down for the night under the stars. You are woken in the middle of the night by screaming. The camp is under attack!,,,,,,,,
 quest_story_soothsinger_1_list,Learn some jokes at the Bandit Camp
 quest_story_soothsinger_1_name,The Rogue‘s Refrain
-quest_story_soothsinger_1_reward,Unlock the Soothsinger's Story Quests
+
 quest_story_soothsinger_2_desc,Head to a Vermling Camp to learn some new insults.
 quest_story_soothsinger_2_intro,The Vermling Camp is situated deep in the forest, but the directions you were given were easy to follow, and soon you hear their chittering from a distance. After some initial confusion where the Soothsinger was prodded with a few sharp sticks, the Vermlings relaxed and welcomed you into their camp. You are given a strange mixture of herbs to smoke. To avoid causing offence, you breathe them in, and soon begin to feel rather light-headed. This relaxes the atmosphere, and you spend a pleasant evening with your new furry friends as they tell stories and sing strange songs. You drop off to sleep, but are almost immediately woken to the sounds of alarm. The camp is under attack! In a scene reminiscent of your recent trip to the Bandit camp, Undead forms can be seen in the moonlight. Have you been cursed?,,,,,,,
 quest_story_soothsinger_2_list,Learn some insults at the Vermling Camp
@@ -8225,7 +8218,7 @@ quest_story_spellweaver_1_desc,Who or what is creating an imbalance in the fabri
 quest_story_spellweaver_1_intro,The Aesther community has contacted the Spellweaver and asked for her help in investigating a disturbance in magic in the Eastern forest. They are suitably confused about the cause itself, but apparently Magic Power has been enhanced in a small localised area. After staying the night in the Sloshed Squirrel, the Spellweaver leads the party into the forest. As you head closer and closer to the location, the Spellweaver notices a tingling in her fingers. Nothing visibly changes, but it gets stronger as you progress. Reaching a clearing, you deduce that this must be wherever the event took place. It seems the magic has attracted other magical beings to the area: it is swarming with Imps!,,,,,,,,,,
 quest_story_spellweaver_1_list,The Spellweaver needs to investigate strange magical occurrences
 quest_story_spellweaver_1_name,An Imbalance in the Elements
-quest_story_spellweaver_1_reward,Unlock the Spellweaver's Story Quests
+
 quest_story_spellweaver_2_desc,Head to the Emerald Knaves base and investigate who or what has been summoning demons.
 quest_story_spellweaver_2_intro,You set off from Eastgrove towards the area of the forest controlled by the Emerald Knaves. The Spellweaver can again feel something amiss with the magic in this area, but it is much less vivid, as if the summoning was done a time ago. You quietly take down a couple of the Bandits scouting the area's perimeter, but soon you are spotted. You‘ll have to get through some more before you reach the hideout itself.,,,,,,,,,,,,
 quest_story_spellweaver_2_list,Follow the trail to the Demon Summoners
@@ -8238,7 +8231,7 @@ quest_story_summoner_1_desc,Help the Summoner discover what is interfering with 
 quest_story_summoner_1_intro,The Summoner has led you to the main path outside Wayward. It‘s much more uneventful than you remember it: only a strong wind flowing through the undergrowth makes any sound or movement. Wayward itself is a rich, dynamic and multicultural community, but the Summoner soon directs you off of the main route toward it, on to a more boring dirt path you don‘t recognise. Not that you would ‘ all of the undergrowth looks unsettlingly similar. The Summoner stops, causing the rest of your party to almost trip up behind her. She taps her staff down on the dirt. Apparently satisfied, she crouches and takes a fistful of grass. Pulling it up, she reveals a concealed trapdoor. You gather around, and inside you are greeted by a dimly-lit dungeon. Various Undead, some still moving, lay twisted inside the jaws of traps. Once you enter, the trap door collapses under a landslide of dirt. You‘ll have to find your own way out.,,,,,
 quest_story_summoner_1_list,Locate the interplanar disturbance
 quest_story_summoner_1_name,A Great Disturbance
-quest_story_summoner_1_reward,Unlock the Summoner's Story Quests
+
 quest_story_summoner_2_desc,Ancient records put the spellbook you need in this library. Retrieve it.
 quest_story_summoner_2_intro,The School of The Great Oak had once maintained a library of magical tomes north of Mudview. After a great accident now only remembered by Orchid elders, the library and its knowledge was abandoned long ago. That‘s how the legends go at least. Now, locals give the crumbling building a wide berth, claiming possessed warriors defend the ancient and powerful magic within. As you approach the library, you see these rumours for yourself: City Guard, Bandits and Inox swarm the property. Their clothes are dirty, their eyes pure white, and the entire place reeks of black magic. You move toward the door, but find the Summoner is not with you. Retreating, you find her gasping for breath on the floor ‘ next to a Harrower. ‘Follow me.‘ You are taken aback by the Harrower‘s grinding ‘voice‘, but it doesn‘t appear to notice your reaction. The Summoner pulls herself to her feet, and nods to you. Reluctantly, you follow the Harrower. If you didn‘t know better, you would think you could see a city street through the library‘s doorway...,,
 quest_story_summoner_2_list,Recover the lost spellbook
@@ -8251,7 +8244,7 @@ quest_story_sunkeeper_1_desc,執日者決定去説明那些有需要的人了，
 quest_story_sunkeeper_1_intro,The Sunkeeper leads the party to the location of the Vermling camp, but before you can get close a number of Vermlings appear and shout angrily. They are wary of intruders after a recent attack and won‘t let you come any closer. After a heated exchange, the Vermling leader accepts the Sunkeeper‘s offer of help and explains a local cave used as a storeroom has been overrun by wild animals. You follow his direction to the cave and reach the entrance, the smell coming from within certainly indicates bears and hounds are living inside‘ As you enter the maze of caves you hear a rumbling and dive in different directions as the ceiling comes crashing down. It looks as if you‘ll need to start split up.,,,,,,,,,,,,
 quest_story_sunkeeper_1_list,Time to help those in need
 quest_story_sunkeeper_1_name,A Just Cause
-quest_story_sunkeeper_1_reward,Unlock the Sunkeeper's Story Quests
+
 quest_story_sunkeeper_2_desc,Take down those who have kidnapped the Vermling villagers.
 quest_story_sunkeeper_2_intro,You head south from Mudview, being guided by a Vermling scout who chitters angrily for the whole journey. After a few hours he suddenly falls silent and gestures for you all to crouch down. He points ahead and you see a shadowy figure glide by, a Harrower, followed by a number of Inox and City Guard. It looks as if someone is paying a wide group of ne‘er do wells to work together in this slavery operation. You head forwards again on the Vermling‘s signal until you reach a copse of trees and the main operation. Vermlings are being kept inside an Inox Camp, and the area is being run by a number of Harrowers. As you plan your attack, the Vermling Scout charges into attack, you decide it best to act now! ,,,,,,,,,
 quest_story_sunkeeper_2_list,Rescue the Vermlings
@@ -8264,7 +8257,7 @@ quest_story_tinkerer_1_desc,It‘s time for the Tinkerer to complete his thesis.
 quest_story_tinkerer_1_intro,After visiting the Shadowfield Manor private library, the Tinkerer identified a location where Demons were first seen on the continent. A smallholding to the east was attacked by ‘creatures of the night which had come down from the hills‘ centuries ago, so you head east to investigate. After some searching, you find the remains of an old well and some foundations of a farm building, and in the distance, the low hills that lead into the eastern mountain range. Heading further east, you spot an entrance to a cave high above, and you start the climb. Reaching the entrance, you don‘t see anything that appears to indicate demons: just more wild animal bones. Nonetheless, you venture inside.,,,,,,
 quest_story_tinkerer_1_list,Research the origins of Demonology
 quest_story_tinkerer_1_name,The Thesis
-quest_story_tinkerer_1_reward,Unlock the Tinkerer's Story Quests
+
 quest_story_tinkerer_2_desc,Scrolls found at the last location point to a hidden temple in the north, go and investigate.,,,,,,,,,,,,,,
 quest_story_tinkerer_2_intro,Asking around the School, none of the Acolytes have any knowledge of an ancient abandoned temple in the area. Then again, they are forbidden to leave the campus. You head north, following the vague instructions on the scrolls, deciphering the ancient text and following a long dry river bed described as a great watercourse. Beside the site of a now silent waterfall, you head deeper into the forest from the left bank and worry you are chasing an empty lead, when you hear voices. Bandits, and what sounds like a Cultist giving them orders...,,,,,,,,
 quest_story_tinkerer_2_list,Find the Temple described on the scrolls
@@ -8322,7 +8315,7 @@ quest_travel_fordingbridge_intro,從灘橋地傳來的大量報告稱，植被�
 quest_travel_fordingbridge_list,調查灘橋地附近的異常地震活動。
 quest_travel_fordingbridge_name,咆哮深淵
 
-quest_travel_gibbethill_list,解鎖絞架嶺的貿易路線
+
 quest_travel_hammerholm_desc,近幾個月來，一群強盜佔領了榔頭地，那裡的鍛造廠已經不再工作。從那兒逃出來的人很少，但有關死靈儀式的傳言卻十分盛行。
 quest_travel_hammerholm_intro,當你靠近榔頭地時，過去風中飄散的硫磺和煤煙味消失了。小鎮很安靜：街上沒有人，房屋的門也被閂上了，但空氣中充滿了鼓聲和緩慢的吟唱聲。你走向聲音的來源，一個沒有人看守的地下地窖的入口，通常表明裡面的人不需要保護…
 quest_travel_hammerholm_list,榔頭地正在被一群有組織的強盜所佔據。解放這座城鎮。
