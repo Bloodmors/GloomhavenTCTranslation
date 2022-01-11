@@ -1011,7 +1011,7 @@ adventure_achievement_1_1_unlocklocations_desc,解鎖9個地點,,,
 adventure_achievement_1_1_useitems,看刀！,,,
 adventure_achievement_1_1_useitems_desc,使用30次物品,,,
 adventure_achievement_1_2_consumeair,大氣精通,,,
-adventure_achievement_1_2_consumeair_desc,消耗15個氣元素,,,
+adventure_achievement_1_2_consumeair_desc,消耗15個空氣元素,,,
 adventure_achievement_1_2_consumeany,元素精通,,,
 adventure_achievement_1_2_consumeany_desc,完成其他6種元素精通的成就,,,
 adventure_achievement_1_2_consumedark,黑暗精通,,,
@@ -1644,7 +1644,7 @@ compendium_attackmodifiers_1,"每次進攻時，每一個單獨的攻擊（針�
 
 • <indent=15>首先，計算攻擊方的攻擊修正。這些修正包含生效的增益或是減益效果、物品或其他來源（例如：中毒會 <b>+1</b> 攻擊力）。</indent>
 
-• <indent=15>接下來，從攻擊方的攻擊修正牌組抽取一張攻擊修正卡並且將數值修正套用到此次攻擊中，抽到的數值會顯示在防禦方的生命值條上方。將滑鼠游標滑入角色上方可以看到資訊面板，面板顯示了攻擊修正卡牌庫內，各數值牌的分佈狀況。在回合結束階段時，若此回合有抽到 <color=orange><b>x0</b></color> 或 <color=orange><b>x2</b></color> 攻擊修正卡時，則將所有被抽出的攻擊修正卡放回攻擊修正卡牌庫混洗。</indent>",,,
+• <indent=15>接下來，從攻擊方的攻擊修正牌組抽取一張攻擊修正卡並且將數值修正套用到此次攻擊中，抽到的數值會顯示在防禦方的生命值條上方。將滑鼠游標滑入角色上方可以看到資訊面板，面板顯示了攻擊修正卡牌庫內，各數值牌的分佈狀況。在回合結束階段時，若此回合有抽到 <color=purple><b>x0</b></color> 或 <color=orange><b>x2</b></color> 攻擊修正卡時，則將所有被抽出的攻擊修正卡放回攻擊修正卡牌庫混洗。</indent>",,,
 compendium_attackmodifiers_2,"• <indent=15>最後，計算防禦方的防禦力。根據防禦方的護盾或其他防禦修正減少對其的傷害（攻擊力扣去防禦力為造成的傷害）。
 
 請注意！由於每個攻擊單獨計算，因此同一次的進攻能力最終可能對每個目標敵人造成不同的傷害。",,,
@@ -1653,7 +1653,7 @@ compendium_blessandcurse_1,詛咒和祝福與其他附加效果不同，它們�
 compendium_blessandcurse_2,"<b>祝福</b>
 如果目標被祝福，則將祝福（<color=orange><b>x2</b></color>）攻擊修正卡放進目標的攻擊修正卡牌庫中洗混。當抽到此攻擊修正卡時，攻擊結算後會從攻擊修正卡牌庫中移除。",,,
 compendium_blessandcurse_3,"<b>詛咒</b>
-如果目標被詛咒，則將詛咒（<color=orange><b>x0</b></color>）攻擊修正卡放進目標的攻擊修正卡牌庫中洗混。當抽到此攻擊修正卡時，攻擊結算後會從攻擊修正卡牌庫中移除。",,,
+如果目標被詛咒，則將詛咒（<color=purple><b>x0</b></color>）攻擊修正卡放進目標的攻擊修正卡牌庫中洗混。當抽到此攻擊修正卡時，攻擊結算後會從攻擊修正卡牌庫中移除。",,,
 compendium_blessandcurse_title,祝福和詛咒,,,
 compendium_cardlayout,"<b>1. 卡片名稱：</b>
 <line-height=40%>
@@ -1846,7 +1846,7 @@ compendium_roundsummary,"一個劇本包含數個回合，直到玩家符合劇�
 從優先權最小的一位開始，單位將依順序行動。怪物只會採取能力卡上的能力，角色從剛剛選擇的兩張能力卡上選擇執行的動作，也可以在自己的輪次時使用物品。</indent>
 
 • <indent=15><b>回合結束階段</b>
-持續一回合的回合增益效果結束，並依照牌上敘述將其丟棄或焚燒，元素從強烈形態變為衰退形態或從衰退形態變為惰性形態，如果 <color=orange><b>x0</b></color> 或 <color=orange><b>x2</b></color> 攻擊修正卡被抽出，則將所有被抽出的攻擊修正卡放回攻擊修正卡牌庫混洗。</indent>",,,
+持續一回合的回合增益效果結束，並依照牌上敘述將其丟棄或焚燒，元素從強烈形態變為衰退形態或從衰退形態變為惰性形態，如果 <color=purple><b>x0</b></color> 或 <color=orange><b>x2</b></color> 攻擊修正卡被抽出，則將所有被抽出的攻擊修正卡放回攻擊修正卡牌庫混洗。</indent>",,,
 compendium_roundsummary_title,回合構成,,,
 compendium_section_abilitiesattack,能力：進攻,,,
 compendium_section_abilitiesmove,能力：前進,,,
@@ -1981,13 +1981,13 @@ denofrazors,剃刀巢穴,,,
 desertedcamp,被遺棄的營地,,,
 destroyobstacle,摧毀障礙物,,,
 difficult_terrain_tooltip,困難地形,,,
-difficulty_blessed,受祝福的人：英雄們以兩張的祝福（x2）卡開始每次劇本,,,
+difficulty_blessed,受祝福的人：英雄們以兩張的祝福（<color=orange><b>x2</b></color>）卡開始每次劇本,,,
 difficulty_brutal_enemies,殘酷的環境：怪物、陷阱、金幣將會高2級,,,
 difficulty_campaign_easy,容易：-1 劇本等級修正,,,
 difficulty_campaign_hard,困難：+1 劇本等級修正,,,
 difficulty_campaign_insane,殘酷：+2 劇本等級修正,,,
 difficulty_campaign_normal,普通：標準劇本等級修正,,,
-difficulty_cursed,受詛咒的人：英雄們以兩張的詛咒（x0）卡開始每次劇本,,,
+difficulty_cursed,受詛咒的人：英雄們以兩張的詛咒（<color=purple><b>x0</b></color>）卡開始每次劇本,,,
 difficulty_deadly_enemies,地獄的環境：怪物、陷阱、金幣將會高3級,,,
 difficulty_easy_enemies,簡單的環境：怪物、陷阱、金幣將會低1級,,,
 difficulty_hard_enemies,困難的環境：怪物、陷阱、金幣將會高1級,,,
@@ -2056,7 +2056,7 @@ empty_string,,,
 enchantressdialogname,女巫,,,
 english,English,,,
 enhancement,能力卡強化,,,
-enhancement_air,氣元素,,,
+enhancement_air,空氣元素,,,
 enhancement_anyelement,任意元素,,,
 enhancement_area,施法範圍,,,
 enhancement_bless,祝福,,,
@@ -4648,14 +4648,14 @@ gloomhaven_street_west_barracks,城西軍營,,,
 glossary_action,動作是單位如何在幽暗迷城中進行它們的輪次，由一個或多個能力卡組成。,,,
 glossary_addtarget,附加額外攻擊目標。,,,
 glossary_advantage,優勢攻擊：具有優勢的攻擊方將抽取兩張攻擊修正卡並使用其中更好（數值更高）的那張。,,,
-glossary_air,元素充能 一 氣：用氣元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能同一輪次連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。,,,
+glossary_air,元素充能 一 氣：用空氣元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能同一輪次連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。,,,
 glossary_any,元素充能 一 任意元素：用你選擇的元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。具有任意元素充能標識的怪物行動時隨機選擇一個元素進行充能。,,,
 glossary_attack,攻擊：“攻擊 X”能力卡使得單位以基礎值X去攻擊射程內的一個敵人。,,,
 glossary_attackdefault,基礎進攻：放棄使用卡的頂部行動，並進行一個“攻擊 2”的行動。此行動依然棄牌。,,,
 glossary_attackersgaindisadvantage,攻擊方陷入劣勢進攻：任意針對這名單位的攻擊將陷入劣勢進攻。,,,
 glossary_augment,心靈竊賊特效賦能：無論何時心靈竊賊進行近戰進攻時，場地上的角色特效攻擊將被使用。,,,
 glossary_aura,光環：“光環”的效果僅當它的目標在光環射程範圍內被啟動。如果移動出光環的射程範圍，光環外的目標們將失去被賦予的任何效果。,,,
-glossary_bless,祝福：被祝福的單位添加一張祝福（x2）卡進入他們的攻擊修正卡堆。當被抽後，攻擊造成雙倍傷害，並且這張祝福（x2）卡從攻擊修正卡堆移除。,,,
+glossary_bless,祝福：被祝福的單位添加一張祝福（<color=orange><b>x2</b></color>）卡進入他們的攻擊修正卡堆。當被抽後，攻擊造成雙倍傷害，並且這張祝福（<color=orange><b>x2</b></color>）卡從攻擊修正卡堆移除。,,,
 glossary_command,獸王特效口令：帶“口令”的行動使得獸王的熊而非獸王釋放能力卡。,,,
 glossary_condition,0,,,
 glossary_consumeair,消耗元素 一 氣,,,
@@ -4666,14 +4666,14 @@ glossary_consumefire,消耗元素 一 火,,,
 glossary_consumeice,消耗元素 一 冰,,,
 glossary_consumelight,消耗元素 一 光,,,
 glossary_controlled,被操控的心靈：在這一回合，這個敵人將會將它的盟友看作敵人、將它的敵人看作盟友。,,,
-glossary_curse,詛咒：被詛咒的單位添加一張詛咒（x0）卡進入他們的攻擊修正卡堆。當被抽後，攻擊不造成傷害，並且這張詛咒（x0）卡從攻擊修正卡堆移除。,,,
+glossary_curse,詛咒：被詛咒的單位添加一張詛咒（<color=purple><b>x0</b></color>）卡進入他們的攻擊修正卡堆。當被抽後，攻擊不造成傷害，並且這張詛咒（x0）卡從攻擊修正卡堆移除。,,,
 glossary_dark,元素充能 一 暗：用暗元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。,,,
 glossary_disadvantage,劣勢進攻：劣勢進攻的攻擊方將抽取兩張攻擊修正卡，並使用其中較差（數值更低）的那張。,,,
 glossary_disarm,繳械：繳械狀態的單位不能不能釋放任何攻擊技能，繳械狀態在被施法單位下一輪次結束時被移除。,,,
 glossary_dothex,這個點顯示了這個效果範圍以後可以被提升，從而在這個點處增加一個效果範圍格子。,,,
 glossary_earth,元素充能 一 土：用大地元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位被一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。,,,
 glossary_elite,一個精英怪擁有比非精英怪更高的數值資料，並且精英怪在非精英怪之前行動（因為精英怪和非精英怪優先權相同）。,,,
-glossary_enhancement_air,能力卡強化 一 氣元素,,,
+glossary_enhancement_air,能力卡強化 一 空氣元素,,,
 glossary_enhancement_anyelement,能力卡強化 一 任意元素,,,
 glossary_enhancement_area,能力卡強化 一 施法範圍,,,
 glossary_enhancement_bless,能力卡強化 一 祝福,,,
@@ -5286,10 +5286,10 @@ gui_house_rules_advantage_variant_tooltip,"在有優勢或是劣勢狀態下進�
 * 在有劣勢狀態時，選擇兩張最糟且沒有""連抽""圖示的攻擊修正卡套用至攻擊中。",,,
 gui_house_rules_attack_modifiers,攻擊修正卡,,,
 gui_house_rules_attack_modifiers_original,<color=#ED1F18>【推薦】</color>原始：x2 與 x0 攻擊修正卡,,,
-gui_house_rules_attack_modifiers_original_tooltip,攻擊修正卡牌庫將會包含 <color=orange><b>x2</b></color> 與 <color=orange><b>x0</b></color> 的攻擊修正卡。,,,
+gui_house_rules_attack_modifiers_original_tooltip,攻擊修正卡牌庫將會包含 <color=orange><b>x2</b></color> 與 <color=purple><b>x0</b></color> 的攻擊修正卡。,,,
 gui_house_rules_attack_modifiers_variant,變體：+2 與 -2 攻擊修正卡,,,
 gui_house_rules_attack_modifiers_variant_tooltip,"<color=orange><b>x2</b></color> 的攻擊修正卡 將會替換成 <color=orange><b>+2</b></color>。
-<color=orange><b>x0</b></color> 的攻擊修正卡 將會替換成 <color=orange><b>-2</b></color>。",,,
+<color=purple><b>x0</b></color> 的攻擊修正卡 將會替換成 <color=purple><b>-2</b></color>。",,,
 gui_house_rules_descr,自改規則也可以在進入遊戲後調整。可以在設置選單中找到此設定。,,,
 gui_house_rules_line_of_sight,視線,,,
 gui_house_rules_line_of_sight_original,原始：標準的視線規則,,,
@@ -6235,7 +6235,7 @@ intro_prosperity,"黯淡港灣的繁榮度受到了你的所作所為的影響�
 intro_quest,現在可能是個檢查傭兵的<color=#EACF8C>能力卡和裝備</color>，以確保他們做好了戰鬥準備的時機。在任務描述中，你可以看到你將面臨的敵人。將滑鼠懸停在他們身上來查看他們的詳細資訊。,,,
 intro_reputation,團隊的名聲受到你行為的影響。 名聲將影響商人商店中的<color=#EACF8C>物品的售價</color>以及某些遭遇的結果。善良的行為通常會獲得獎勵，但它們可能沒那麼有趣...如何選擇取決於你。,,,
 intro_temple_1,"每當向巨橡神廟捐獻10個金幣時，傭兵都會受到祝福。
-被祝福的傭兵將在下一個地城中<color=#EACF8C>獲得兩張額外的x2攻擊修正卡</color>。",,,
+被祝福的傭兵將在下一個地城中<color=#EACF8C>獲得兩張額外的<color=orange><b>x2</b></color>攻擊修正卡</color>。",,,
 intro_temple_2_splitgold,請記住，每個傭兵都有自己的金幣儲備和個人背包，所以請確認在捐款給神廟之前<color=#EACF8C>選擇了正確的傭兵頭像</color>。,,,
 invisible,隱形,,,
 invisibleshort,隱形,,,
@@ -6256,15 +6256,15 @@ item_blackcenser,【在你的輪次中】<nobr>混亂<sprite name=Muddle></nobr>
 item_blackknife,在你進行近戰進攻時，對你的單次攻擊附加<nobr>詛咒<sprite name=Curse></nobr>。,,,
 item_blinkingcape,【在你的輪次中】進行一次<nobr>“移動<sprite name=Move>4，</nobr><nobr>跳躍<sprite name=Jump>”</nobr>。,,,
 item_bloodyaxe,在你進行近戰進攻時，損失2點生命值並對整個攻擊輪次<nobr>+1進攻<sprite name=Attack></nobr>。,,,
-item_bootsofdashing,"【在你進行前進行動時】
-你的一次移動： <nobr><b>+3</b> <sprite name=Move></nobr>。",,,
+item_bootsofdashing,"【在你的前進行動中】
+你的一次移動： <nobr><b>+3</b> <sprite name=Move></nobr>",,,
 item_bootsoflevitation,獲得飛行。,,,
 item_bootsofquickness,在一個回合開始時，當所有能力卡被揭示之後，你可以選擇讓你的優先權增加或者減少20點。,,,
 item_bootsofspeed,在一個回合開始時，當所有能力卡被揭示之後，你可以選擇讓你的優先權增加或者減少10點。,,,
-item_bootsofsprinting,"【在你進行前進行動時】
-你的一次移動： <nobr><b>+4</b> <sprite name=Move></nobr>。",,,
-item_bootsofstriding,"【在你進行前進行動時】
-你的一次移動： <nobr><b>+2</b> <sprite name=Move></nobr>。",,,
+item_bootsofsprinting,"【在你的前進行動中】
+你的一次移動： <nobr><b>+4</b> <sprite name=Move></nobr>",,,
+item_bootsofstriding,"【在你的前進行動中】
+你的一次移動： <nobr><b>+2</b> <sprite name=Move></nobr>",,,
 item_brilliantblade,在你進行近戰進攻時，<sprite name=ConsumeLight>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
 item_chainhood,當你與三個或者更多怪物相鄰時，獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
 item_chainmail,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
@@ -6301,7 +6301,7 @@ item_hidearmor,在下兩次受到以你為攻擊目標所造成的傷害時，�
 item_hookedchain,當你進行遠程進攻時，對你的整個攻擊行動附加<nobr>拉近<sprite name=Pull>2</nobr>。,,,
 item_hornedhelm,若在你自己的輪次中移動了4個或者更多格子，對你此輪次的下一次近戰進攻附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_infernoblade,在你進行近戰進攻時，<sprite name=ConsumeFire>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
-item_ironhelmet,當你受到攻擊時，將敵人抽到的任何x2攻擊修正卡視為其抽到了一張+0攻擊修正卡。,,,
+item_ironhelmet,當你受到攻擊時，將敵人抽到的任何<color=orange><b>x2</b></color>攻擊修正卡視為其抽到了一張+0攻擊修正卡。,,,
 item_jaggedsword,在你進行近戰進攻時，對你的單次攻擊附加<nobr>創傷<sprite name=Wound></nobr>。,,,
 item_leatherarmor,<size=80%>在下兩次受到攻擊時，攻擊方均獲得劣勢。,,,
 item_longspear,在你對單個目標使用近戰進攻時，將攻擊改為執行以下步驟：,,,
@@ -6480,8 +6480,8 @@ item_ringofhaste,在你的輪次結束時，從手牌中打出一張牌並立即
 item_ringofskulls,召喚骷髏,,,
 item_robesofevocation,在你進行攻擊時，<sprite name=ConsumeAny>並對你的整個攻擊輪次攻擊附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_robesofsummoning,【在你的輪次中】進行一次<nobr>“治療<sprite name=Heal>2，目標為召喚物夥伴”。,,,
-item_rocketboots,"【在你進行前進行動時】
-你的一次移動： <nobr><b>+3</b> <sprite name=Move></nobr> 並 附加<nobr>跳躍<sprite name=Jump></nobr>。",,,
+item_rocketboots,"【在你的前進行動中】
+你的一次移動： <nobr><b>+3</b> <sprite name=Move></nobr> 並 附加<nobr>跳躍<sprite name=Jump></nobr>",,,
 item_sacrificialrobes,在你進行遠程進攻時，損失3點生命值並對整個攻擊輪次附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_scrollofhealing,【在你的輪次中】進行一次<nobr>“治療<sprite name=Heal>3，<nobr></nobr>範圍<sprite name=Range>5”</nobr>。,,,
 item_scrollofpower,在一個盟友進行攻擊時，對其整個攻擊輪次附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
@@ -6523,13 +6523,13 @@ item_wandofbrilliance,【在你的輪次中】生成光元素。,,,
 item_wandofdarkness,【在你的輪次中】生成暗元素。,,,
 item_wandoffrost,【在你的輪次中】生成冰元素。,,,
 item_wandofinfernos,【在你的輪次中】生成火元素。,,,
-item_wandofstorms,【在你的輪次中】生成氣元素。,,,
+item_wandofstorms,【在你的輪次中】生成空氣元素。,,,
 item_wandoftremors,【在你的輪次中】生成大地元素。,,,
 item_warhammer,在你進行近戰進攻時，對你的整個攻擊輪次附加<nobr>暈眩<sprite name=Stun></nobr>。,,,
 item_wavecrest,當你受到攻擊時，如果<sprite name=Ice>處於強烈，對攻擊方進行一次“強推<sprite name=Push>2”。,,,
 item_weightednet,當你進行遠程進攻時，對你的單次攻擊附加<nobr>禁足<sprite name=Immobilize></nobr>•。,,,
-item_wingedshoes,"【在你進行前進行動時】
-你的整個行動：附加<nobr>跳躍<sprite name=Jump></nobr>。",,,
+item_wingedshoes,"【在你的前進行動中】
+你的整個行動：附加<nobr>跳躍<sprite name=Jump></nobr>",,,
 jadefalcon,玉鷹,,,
 jekserah,潔索菈,,,
 jump,跳躍,,,
@@ -6634,7 +6634,7 @@ loading_tip_024,你可以按住L來查看人物的視野範圍。,,,
 loading_tip_025,在角色的每個輪次中，所選卡的每個半區是一個行動，每個行動可以由一個或多個小技能組成。,,,
 loading_tip_026,具有指定類型的行動代表行動中至少有一個小技能屬於該類型。例如：“移動行動”包含至少一個移動技能。,,,
 loading_tip_027,當強推/拉近時，總是要進行到底，除非被障礙物/單位阻擋，要麼就選擇完全跳過該效果。,,,
-loading_tip_028,注意，如果你因為優勢攻擊而抽取的兩張牌中，一張是“Miss （x0）”，另一張是帶有“連抽箭頭符號”的牌，此時Miss （x0）依然會生效！（傷害為0，但是其他附加效果依然會被結算）,,,
+loading_tip_028,注意，如果你因為優勢攻擊而抽取的兩張牌中，一張是“Miss （<color=purple><b>x0</b></color>）”，另一張是帶有“連抽箭頭符號”的牌，此時Miss （<color=purple><b>x0</b></color>）依然會生效！（傷害為0，但是其他附加效果依然會被結算）,,,
 loading_tip_029,在攻擊一個中毒的<sprite name=Poison>角色時，敵人的攻擊增加+1。 治療技能能夠治療中毒但是不產生其它作用（例如不回復生命值）。,,,
 loading_tip_030,創傷<sprite name=Wound>使得單位在每一輪次開始時受到一點傷害。 治療技能可移除創傷狀態，但不回血。,,,
 loading_tip_031,禁足<sprite name=Immobilize>將使得單位不能進行任何移動技能，直到該單位下一輪次結束。,,,
@@ -6642,11 +6642,11 @@ loading_tip_032,繳械<sprite name=Disarm> 將使得一個單位不能進行任�
 loading_tip_033,暈眩<sprite name=Stun>將阻止一個單位執行任何行動或使用道具，直到該單位下一輪次結束。,,,
 loading_tip_034,暈眩<sprite name=Stun>的角色仍然需要選擇本輪次的兩張能力卡，但會被直接棄牌。長休息將會如常進行。,,,
 loading_tip_035,混亂<sprite name=Muddle>將使得單位一直處於劣勢進攻，直到該單位下一輪次結束。,,,
-loading_tip_036,詛咒 <sprite name=Curse>將一張詛咒卡（x0）加入了目標的攻擊修正卡堆。當這張卡被抽到時，攻擊不造成傷害，同時詛咒卡被移除。,,,
+loading_tip_036,詛咒 <sprite name=Curse>將一張詛咒卡（<color=purple><b>x0</b></color>）加入了目標的攻擊修正卡堆。當這張卡被抽到時，攻擊不造成傷害，同時詛咒卡被移除。,,,
 loading_tip_037,隱形<sprite name=Invisible>的單位不會被視為目標，敵人也不能以他為目標。在該單位下一輪次結束時，隱形狀態將自動移除。怪物們將隱形單位視為障礙物。,,,
 loading_tip_038,隱形<sprite name=Invisible>的單位們依然會受到非指向性（不指定目標）技能的傷害。隱形不影響與盟友的互動。,,,
 loading_tip_039,強壯<sprite name=Strengthen> 可以使某單位直到其下一個輪次結束時在他所有的攻擊中都處於優勢。,,,
-loading_tip_040,祝福<sprite name=Bless>=可以將一張祝福 （x2） 加入目標對應的攻擊修正牌堆。當此牌被抽取後，此次攻擊將造成雙倍傷害，並且這張祝福（x2）卡從攻擊修正牌堆中移除。,,,
+loading_tip_040,祝福<sprite name=Bless>=可以將一張祝福 （<color=orange><b>x2</b></color>） 加入目標對應的攻擊修正牌堆。當此牌被抽取後，此次攻擊將造成雙倍傷害，並且這張祝福（<color=orange><b>x2</b></color>）卡從攻擊修正牌堆中移除。,,,
 loading_tip_041,怪物們共用一個攻擊修正牌堆，所以如果一隻怪物被詛咒或者祝福，其他的怪物也會受到影響！,,,
 loading_tip_042,注意，移除負面狀態的技能或者物品（例如醫療藥劑）不能從攻擊修正卡堆裡移除詛咒卡。,,,
 loading_tip_043,詛咒卡有10張的上限，此規則分別適用於傭兵的攻擊修正牌堆和怪物的攻擊修正牌堆。試圖向任一攻擊修正牌堆添加第1一張詛咒卡，都是無效的！,,,
@@ -10881,37 +10881,42 @@ scenario_puzzle_2c_14,"那個<color=#1F9EDC>繳械</color><sprite name=Disarm>�
 scenario_puzzle_2c_15,接下來是最後一場訓練，完成後你就已經準備就緒，可以去探索世界並為我們的公會招募傭兵了！,,,
 scenario_puzzle_2c_16,你受到了攻擊！注意敵人這一輪的移動範圍。你需要避開所有敵人！,,,
 scenario_puzzle_2c_obj_1,兩回合內不要受到任何傷害,,,
-scenario_puzzle_2d_01,"讓我們來看看<color=#FADC99>攻擊修正卡</color>。在之前的訓練中，角色在攻擊時總是抽取 <color=orange><b>+0</b></color> 的<color=#FADC99>攻擊修正卡</color>，代表他們的攻擊傷害總是和牌上敘述的一樣。
+scenario_puzzle_2d_01,"讓我們來看看<color=#FADC99>攻擊修正卡</color>。
+在之前的訓練中，角色在攻擊時只會抽到 <color=orange><b>+0</b></color> 的<color=#FADC99>攻擊修正卡</color>，代表他們的攻擊傷害總是和牌上敘述的一樣。
+
 但是正常情況下可不是這樣的！",,,
 scenario_puzzle_2d_02,"在正常的劇本裡，針對每個目標的<color=#FADC99>攻擊</color>，都會抽取一張<color=#FADC99>攻擊修正卡</color>來影響實際造成的傷害。
-如果是 <color=orange><b>+1</b></color> 、 <color=orange><b>+2</b></color> 和 <color=orange><b>x2</b></color> 會提升傷害；如果是 <color=#A050E0><b>-1</b></color> 、 <color=#A050E0><b>-2</b></color> 和 <color=orange><b>x0</b></color> 會降低傷害，還可能會出現你之前看到的 <color=orange><b>+0</b></color> 則不影響造成的傷害。
+如果是 <color=orange><b>+1</b></color> 、 <color=orange><b>+2</b></color> 或 <color=orange><b>x2</b></color> 會提升傷害；如果是 <color=purple><b>-1</b></color> 、 <color=purple><b>-2</b></color> 或 <color=purple><b>x0</b></color> 會降低傷害；若出現你之前看過的 <color=orange><b>+0</b></color> 則不影響造成的傷害。
 
-你可以通過將滑鼠滑入任意單位身上來看到他們的攻擊修正卡牌庫 一 注意，和角色不同的是，所有場上的怪物共用同一個攻擊修正卡牌庫！",,,
-scenario_puzzle_2d_03,"在本場訓練中，<color=#C53F3F>強盜弓箭手</color>的攻擊修正卡牌庫裡只剩兩張攻擊修正卡： <color=orange><b>x2</b></color> 和 <color=orange><b>x0</b></color> 。我們希望她們抽到 <color=orange><b>x0</b></color> 來使傷害變為 <b>0</b> ，因此我們要讓她們進入<color=#FADC99>劣勢</color>狀態來確保她會抽到這張攻擊修正卡！",,,
-scenario_puzzle_2d_04,"遠程<color=#1F9EDC>進攻</color><sprite name=Attack>在攻擊一個相鄰格子裡的目標時會處於<color=#FADC99>劣勢</color>狀態。這會導致攻擊方需要抽取兩張攻擊修正卡並套用較差的攻擊修正卡（而不是只抽一張攻擊修正卡）。
+你可以將滑鼠滑入任意單位身上來看到他們的攻擊修正卡牌庫 一 注意，和角色不同的是，所有場上的怪物共用同一個攻擊修正卡牌庫！",,,
+scenario_puzzle_2d_03,"在本場訓練中，<color=#C53F3F>強盜弓箭手</color>的攻擊修正卡牌庫裡只剩兩張攻擊修正卡： <color=orange><b>x2</b></color> 和 <color=purple><b>x0</b></color> 。
+我們希望她們抽到 <color=purple><b>x0</b></color> 來使傷害變為 <b>0</b> ，因此我們要讓她們進入<color=#FADC99>劣勢</color>狀態來確保她會抽到這張攻擊修正卡！",,,
+scenario_puzzle_2d_04,"遠程<color=#1F9EDC>進攻</color><sprite name=Attack>在攻擊一個相鄰格子裡的目標時會處於<color=#FADC99>劣勢</color>狀態。
+這會導致攻擊方需要抽取兩張攻擊修正卡並套用較差的攻擊修正卡。
 
-因為這些<color=#C53F3F>強盜弓箭手</color>只剩兩張攻擊修正卡了，如果他們攻擊時處於<color=#FADC99>劣勢</color>狀態，她們會把兩張攻擊修正卡都抽出來並且被迫選擇 <color=orange><b>x0</b></color> 而不是 <color=orange><b>x2</b></color> 作為結算的結果，也就是說不會造成任何傷害！當你在生命值條旁邊看到閃爍的紫色符號時，代表<color=#FADC99>劣勢</color>狀態已生效。",,,
-scenario_puzzle_2d_05,"現在你只能讓一名<color=#C53F3F>強盜弓箭手</color>處於<color=#FADC99>劣勢</color>狀態，所以你還需要用遠程進攻把另一個殺死。
+因為這些<color=#C53F3F>強盜弓箭手</color>只剩兩張攻擊修正卡了，如果他們攻擊時處於<color=#FADC99>劣勢</color>狀態，她們會把兩張攻擊修正卡都抽出來並且被迫選擇 <color=purple><b>x0</b></color> 作結算（而不是 <color=orange><b>x2</b></color>），也就是說不會造成任何傷害！
+當你在生命值條旁邊看到閃爍的紫色圖示時，表示目標處於<color=#FADC99>劣勢</color>狀態。",,,
+scenario_puzzle_2d_05,"現在你只能讓一名<color=#C53F3F>強盜弓箭手</color>處於<color=#FADC99>劣勢</color>狀態，所以你還需要用遠程進攻把另一名<color=#C53F3F>強盜弓箭手</color>殺死。
 這應該不難，因為我在<color=#A06E4B>野蠻人</color>的攻擊修正卡牌庫裡面塞滿了 <color=orange><b>+1</b></color> 攻擊修正卡。
 你本回合的目標為：
 <line-height=20%>
 <line-height=100%>→ 站在一名<color=#C53F3F>強盜弓箭手</color>旁邊來讓她處於<color=#FADC99>劣勢</color>狀態
-→ 用一個遠程<color=#1F9EDC>進攻</color><sprite name=Attack>殺死另一名<color=#C53F3F>強盜弓箭手</color>",,,
+→ 用一次遠程<color=#1F9EDC>進攻</color><sprite name=Attack>殺死另一名<color=#C53F3F>強盜弓箭手</color>",,,
 scenario_puzzle_2d_06,"喔！那可真是一次強力的攻擊！再試一次 一 這次，站在一個<color=#C53F3F>強盜弓箭手</color>旁邊並殺死另一個<color=#C53F3F>強盜弓箭手</color>。",,,
-scenario_puzzle_2d_07,"注意到了嗎？她抽到了 <color=orange><b>x0</b></color> 和 <color=orange><b>x2</b></color> 這兩張攻擊修正卡，<color=#FADC99>劣勢</color>狀態會強制她抽取兩張攻擊修正卡並且套用較差的那張！",,,
-scenario_puzzle_2d_08,"還可以看到你使用<color=#32E632>備用匕首</color>攻擊時抽到了一張 <color=orange><b>+1</b></color> 攻擊修正卡，因此造成了 <b>4</b> 點傷害來殺死另一個<color=#C53F3F>強盜弓箭手</color>。",,,
+scenario_puzzle_2d_07,"注意到了嗎？她抽到了 <color=purple><b>x0</b></color> 和 <color=orange><b>x2</b></color> 這兩張攻擊修正卡，<color=#FADC99>劣勢</color>狀態會強制她抽取兩張攻擊修正卡並套用較差的那張！",,,
+scenario_puzzle_2d_08,"還可以看到你使用<color=#32E632>備用匕首</color>攻擊時抽到了一張 <color=orange><b>+1</b></color> 攻擊修正卡，因此造成了 <b>4</b> 點傷害來殺死另一名<color=#C53F3F>強盜弓箭手</color>。",,,
 scenario_puzzle_2d_09,"你的最終目標為：
 <line-height=20%>
-<line-height=100%>→ 殺死剩餘的<color=#C53F3F>強盜弓箭手</color>
-→ 拾取寶箱",,,
+<line-height=100%>→ 殺死剩下的<color=#C53F3F>強盜弓箭手</color>
+→ 收集寶箱",,,
 scenario_puzzle_2d_10,"你需要早點行動來優先發起<color=#1F9EDC>進攻</color>，並且對她造成 <b>4</b> 點傷害。",,,
 scenario_puzzle_2d_11,還記得你曾經成功造成了 <b>3+1</b> 點傷害的事情嗎？ 一 別忘了在這個訓練中你只有 <color=orange><b>+1</b></color> 攻擊修正卡。,,,
 scenario_puzzle_2d_12,"你的目標是<color=#FADC99>收集</color>寶箱。我們下一個訓練可能會用到裡面的東西，確保你能夠拿到它！",,,
 scenario_puzzle_2d_13,"很好！<color=#F8F8F8>扇形盾</color>可以幫你阻擋一些傷害！",,,
 scenario_puzzle_2d_14,你已經完成了基礎訓練 一 是時候給你介紹幾名其他的傭兵並且讓你展開冒險了！,,,
-scenario_puzzle_2d_obj_01,站在一個強盜弓箭手旁邊並且殺死另一個強盜弓箭手,,,
-scenario_puzzle_2d_obj_02,殺死剩餘的弓箭手,,,
-scenario_puzzle_2d_obj_03,在本回合中拾取寶箱,,,
+scenario_puzzle_2d_obj_01,站在一名強盜弓箭手旁邊並且殺死另一名強盜弓箭手,,,
+scenario_puzzle_2d_obj_02,殺死剩下的強盜弓箭手,,,
+scenario_puzzle_2d_obj_03,在本回合中收集寶箱,,,
 scenario_puzzle_3a_01,"讓我們來仔細看看每個角色分別能夠做些什麼。在這個劇本裡，野蠻人要面對兩個<b> 1 </b>級的<b>骷髏精英</b> 一 代表它們的屬性相比<b> 0 </b>級時更高一些。
 
 在回合開始時你看到的揭露出來的“怪物能力卡”由那隻怪物的種類和從對應種類的怪物技能牌堆中抽出的基本能力卡共同決定。因此，有時候它們能夠移動的更遠或者獲得更高的攻擊力，更別說這兩個骷髏還是<link=""Glossary_Elite""><b>精英</b></link>級別的了！",,,
@@ -10941,7 +10946,7 @@ scenario_puzzle_3a_16,"你本回合的目標為：
 </line-height>這些足以讓你在本回合中存活下來。",,,
 scenario_puzzle_3a_obj_01,使用帶有穿透<sprite name=Pierce>效果的攻擊殺死一個骷髏,,,
 scenario_puzzle_3a_obj_01b,通過使用治療藥水和啟動護盾<sprite name=Shield>在本回合中存活下來,,,
-scenario_puzzle_3a_obj_02,在本輪中殺死剩餘的骷髏,,,
+scenario_puzzle_3a_obj_02,在本輪中殺死剩下的骷髏,,,
 scenario_puzzle_3b_01,來認識一下<b>惡棍</b>！她身手矯健並且擅長移動，更別提當一切順利的時候能夠爆發大量近戰傷害。現在，讓我們來幫她擺脫這個困境。,,,
 scenario_puzzle_3b_02,"你的第一個目標為：
 <line-height=20%>
@@ -10983,7 +10988,7 @@ scenario_puzzle_5a_07,"<color=#32E632><b>乘風</b></color>同時也充能了<b>
 scenario_puzzle_5a_08,"幸運的是，<b>織魔師</b>有一個非常強力的秘密能力。她的很多強力卡在使用過後都會被移除，但是<color=#32E632><b>乙太蘇生</b></color>的頂部允許她將<i>所有</i>移除區的牌回收到手裡！把握好這個每個劇本一次的回收所有移除區卡的時機是用好<b>織魔師</b>的關鍵。",,,
 scenario_puzzle_5a_09,"你本回合的目標為：
 <line-height=20%>
-</line-height>→ 殺死剩餘的<b>強盜衛兵</b>
+</line-height>→ 殺死剩下的<b>強盜衛兵</b>
 <line-height=20%>
 </line-height><color=#32E632>乙太蘇生</color>可以回收所有移除區的牌，所以你應該可以輕鬆搞定這些強盜！",,,
 scenario_puzzle_5a_10,因為幫助<b>織魔師</b>脫離險境，她同意加入我們的公會！如你所見，她的技能非常強大，但是因為需要更複雜的策略使得她成為一名難度較高的角色。,,,
@@ -11007,7 +11012,7 @@ scenario_puzzle_5b_09,"當敵人在附近時記得優先行動，<color=#32E632>
 scenario_puzzle_5b_10,身材不大，拳頭不小，對吧？讓我們來幫他登記註冊然後看看公會能不能接到一些有償的任務。,,,
 scenario_puzzle_5b_obj_01,用治療來淨化機工巧匠的創傷狀態,,,
 scenario_puzzle_5b_obj_02,在本回合中命中3個骷髏,,,
-scenario_puzzle_5b_obj_03,在本回合中殺死剩餘的骷髏,,,
+scenario_puzzle_5b_obj_03,在本回合中殺死剩下的骷髏,,,
 scenario_puzzle_5c_01,墓穴充斥著污穢的氣息，是從房間角落裡的神秘傳送門裡散發出來的。面對未知的邪惡你繃緊了神經準備戰鬥。,,,
 scenario_puzzle_5c_02,那些傳送門突然就消失了！無論之前是什麼樣的黑暗魔法在驅使著這些軀殼，現在都停了下來。那些屍體也重新癱倒在了地上。你成功擋住了不死生物的猛攻並且聖所再一次得到了安寧。,,,
 scenario_puzzle_5c_obj_01,存活三個回合,,,
@@ -11030,7 +11035,7 @@ scenario_puzzle_7a_08,現在，殺死這些骷髏好讓我們離開這裡！,,,
 scenario_puzzle_7a_09,"別忘了你還有兩次來自於<color=#32E632><b>左右開弓</b></color>的<b><link=""Glossary_Retaliate"">復仇</link></b>啟動次數，因此你可以把它們的傷害也考慮進去。或者說還有什麼其他的方法能夠穿透敵人的<b><link=""Glossary_Shield"">護盾</link></b>來直接擊敗這些骷髏呢？",,,
 scenario_puzzle_7a_10,幹得漂亮！儘管一開始看上去像是個不可完成的挑戰，但是如果你合理地使用卡，即便是最複雜的狀況你也能夠應對。,,,
 scenario_puzzle_7a_obj_01,在本回合中殺死4個骷髏,,,
-scenario_puzzle_7a_obj_02,殺死剩餘的骷髏,,,
+scenario_puzzle_7a_obj_02,殺死剩下的骷髏,,,
 scenario_puzzle_7b_01,"來認識下最後一位元新人，<b>心靈竊賊</b>。她不是很擅長硬碰硬，相對的，她擁有控制敵人行動和在戰場中<b><link=""Glossary_Summon"">召喚</link></b>盟友的能力。
 
 <b><link=""Glossary_Summon"">召喚物</link></b>會在它的召喚者輪次開始前自發地執行動作，並且每次都會執行一個<b>“<link=""Glossary_Move"">移動</link> X，<link=""Glossary_Attack"">攻擊</link> Y”</b>的行動，其中<b>X</b>和<b>Y</b>分別是它們所標示出來的基本屬性數值。",,,
@@ -11047,7 +11052,7 @@ scenario_puzzle_7b_04,"使用<color=#32E632><b>齧噬部落</b></color>來召喚
 scenario_puzzle_7b_05,"雖然你的<b><link=""Glossary_Push"">強推</link></b>能力卡已經被<link=""Glossary_burn"">移除</link>了，但是或許有其他辦法來讓一個敵人強制前進到陷阱上來承受一些直接傷害？",,,
 scenario_puzzle_7b_06,"你的最終目標為：
 <line-height=20%>
-</line-height>→ 殺死剩餘的惡夜惡魔
+</line-height>→ 殺死剩下的惡夜惡魔
 <line-height=20%>
 </line-height>",,,
 scenario_puzzle_7b_07,"<b>心靈竊賊</b>還有一個特色是擁有一些帶有<b><link=""Glossary_Augment"">增強</link></b>技能的牌，比如<color=#32E632>凋零之爪</color>。
@@ -11060,7 +11065,7 @@ scenario_puzzle_7b_10,"我猜你現在也能自稱是一個<i>屠魔者</i>了�
 總之，重點是：做得不錯！",,,
 scenario_puzzle_7b_obj_01,在本回合中殺死一個惡夜惡魔,,,
 scenario_puzzle_7b_obj_02,在本回合中召喚一名盟友,,,
-scenario_puzzle_7b_obj_03,殺死剩餘的惡夜惡魔,,,
+scenario_puzzle_7b_obj_03,殺死剩下的惡夜惡魔,,,
 scenario_relic_ancientdrill_room_3_1,你在這個房間裡看見了一堆裝備，或許你正在尋找的鑽頭就在其中？,,,
 scenario_relic_ancientdrill_sm1_desc,所有敵人獲得護盾+1,,,
 scenario_relic_ancientdrill_start_1,洞穴似乎是由很多個部分組成的，你還沒來得及仔細搜尋就聽見了嘶嘶聲和陣陣咆哮。很明顯，洞穴裡棲息著什麼東西！,,,
@@ -11147,7 +11152,7 @@ scenario_relic_resonantcrystal_start_1,進入墳墓後，你受到了強盜的�
 scenario_relic_resonantcrystal_start_2,你別想得到這塊星石，它是我們找到的，滾開！,,,
 scenario_relic_resonantcrystal_start_3,他轉頭讓他的同伴守好後面的房間。好吧，現在你知道它被放在哪裡了，真是個聰明的傢伙...,,,
 scenario_relic_resonantcrystal_success_1,水晶在你手中微微顫動，你能明顯感覺到其中蘊含著某種強大的魔力。你將它放進背包並繼續踏上旅途。,,,
-scenario_relic_ringofskulls_room_3_1,那裡就是戒指所在的地方，在增援到來之前消滅剩餘的敵人並奪得戒指！,,,
+scenario_relic_ringofskulls_room_3_1,那裡就是戒指所在的地方，在增援到來之前消滅剩下的敵人並奪得戒指！,,,
 scenario_relic_ringofskulls_sm1_desc,邪教徒永久獲得護盾+1,,,
 scenario_relic_ringofskulls_sm2_desc,邪教徒在每個回合結束時治療1點生命值,,,
 scenario_relic_ringofskulls_start_1,這裡是邪教大本營之一，準備好面對頑強的抵抗和強大的魔法吧！,,,
@@ -11286,7 +11291,7 @@ scenario_story_captainoftheguard_start_3,對不起，但我們究竟是如何被
 scenario_story_captainoftheguard_success_1,守衛隊長倒在地上，那個護著他的良心壞掉的城市衛兵開始逃離。,,,
 scenario_story_captainoftheguard_success_2,用盡他最後的力量，隊長盯著末日行者和瘟疫使者。 “你們兩個是他們那些雜碎中的雜碎”，他咆哮道，最後那些傷口永遠帶走了他。,,,
 scenario_story_captainoftheguard_success_3,我會將這個地點和我們知道的一切告訴我的一個城市衛兵朋友，確保解決這一切。,,,
-scenario_story_cragheart_1_sm1_desc,每個回合開始時將氣元素移至強烈。,,,
+scenario_story_cragheart_1_sm1_desc,每個回合開始時將空氣元素移至強烈。,,,
 scenario_story_cragheart_1_start_1,就這樣，你將雕像的頭撬了下來。它會在一些領主的莊園裡值點錢。,,,
 scenario_story_cragheart_1_start_2,其中一些看起來栩栩如生。看著門邊的那個，他 一 等等，一分鐘前是不是還在...？該死，他有朋友！,,,
 scenario_story_cragheart_1_success_1,這些傢伙顯然是一個有組織的團夥，從事掠奪和盜竊。神殿入口堆滿了贓物。,,,
@@ -11562,7 +11567,7 @@ scenario_story_spellweaver_1_sm1_desc,織魔師在遠程進攻時獲得<nobr>+1 
 scenario_story_spellweaver_1_sm2_desc,叢林小惡魔在遠程進攻中獲得<nobr>+1 進攻<sprite name=Attack></nobr>,,,
 scenario_story_spellweaver_1_sm3_desc,在每個回合開始階段時將冰元素移至強烈。,,,
 scenario_story_spellweaver_1_start_1,由於這些小妖們在周圍，你沒辦法調查該區域。你必須要趕走他們。,,,
-scenario_story_spellweaver_1_start_2,此外，場面上似乎無論是你的還是他們的攻擊都變得更危險了。,,,
+scenario_story_spellweaver_1_start_2,此外，場上似乎無論是你的還是他們的攻擊都變得更危險了。,,,
 scenario_story_spellweaver_1_success_1,空地現在整個平靜下來了，你開始四處搜尋線索。你在地板上發現了許多奇怪的燒灼過的標記，並推斷出這裡進行過強力惡魔召喚。,,,
 scenario_story_spellweaver_1_success_2,在一棵樹後面，你找到了一個匆匆挖好的墳墓。裡面是強盜的屍體，似乎被鳥類的爪子撕成了碎片。,,,
 scenario_story_spellweaver_2_room_3_1,還有更多的惡魔！為什麼這些壞人們會單純到認為他們居然能控制惡魔幫他們做事？,,,
