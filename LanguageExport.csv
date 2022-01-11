@@ -5270,20 +5270,21 @@ gui_hard,難的,,,
 gui_herolevel,角色等級。,,,
 gui_house_rules,自改規則,,,
 gui_house_rules_advantage,優勢或劣勢,,,
-gui_house_rules_advantage_original,原始：可能在有優勢狀態下抽到""失手"",,,
+gui_house_rules_advantage_original,原始：可能在具有優勢狀態下抽到""失手"",,,
 gui_house_rules_advantage_original_tooltip,"在有優勢或是劣勢狀態下進行攻擊時：
-【如果只抽到一張有""連抽""圖示的攻擊修正卡】
-* 在有優勢狀態時，兩張攻擊修正卡都將套用至攻擊中。
-* 在有劣勢狀態時，只有沒有""連抽""圖示的攻擊修正卡套用至攻擊中。
-【如果兩張都是有""連抽""圖示的攻擊修正卡】就持續抽卡直到出現沒有""連抽""圖示的攻擊修正卡為止
-* 在有優勢狀態時，全部的攻擊修正卡都將套用至攻擊中。
-* 在有劣勢狀態時，只有沒有""連抽""圖示的攻擊修正卡套用至攻擊中。",,,
-gui_house_rules_advantage_variant,<color=#ED1F18>【推薦】</color>變體：不會在有優勢狀態下抽到""失手"",,,
-gui_house_rules_advantage_variant_tooltip,"在有優勢或是劣勢狀態下進行攻擊時：
-【如果第一張攻擊修正卡有""連抽""圖示】就持續抽卡直到出現沒有""連抽""圖示的攻擊修正卡為止，
-然後再抽一張攻擊修正卡，此卡無論是否有""連抽""圖示都將忽視此圖示效果
-* 在有優勢狀態時，選擇最佳的兩張攻擊修正卡套用至攻擊中。
-* 在有劣勢狀態時，選擇兩張最糟且沒有""連抽""圖示的攻擊修正卡套用至攻擊中。",,,
+【如果只抽到一張有""連抽""圖示的攻擊修正卡】進行以下判定
+* 在具有優勢狀態時，兩張攻擊修正卡都將套用至攻擊中。
+* 在具有劣勢狀態時，只有沒有""連抽""圖示的攻擊修正卡套用至攻擊中。
+- 另一種狀況
+【如果兩張都是有""連抽""圖示的攻擊修正卡】就持續抽卡直到出現沒有""連抽""圖示的攻擊修正卡為止，然後進行以下判定
+* 在具有優勢狀態時，全部的攻擊修正卡都將套用至攻擊中。
+* 在具有劣勢狀態時，只有沒有""連抽""圖示的攻擊修正卡套用至攻擊中。",,,
+gui_house_rules_advantage_variant,<color=#ED1F18>【推薦】</color>變體：不會在具有優勢狀態下抽到""失手"",,,
+gui_house_rules_advantage_variant_tooltip,"在具有優勢或是劣勢狀態下進行攻擊時：
+【如果第一張攻擊修正卡有""連抽""圖示】就持續抽卡直到出現沒有""連抽""圖示的攻擊修正卡為止。
+【不論第一張攻擊修正卡是否有""連抽""圖示】再抽一張攻擊修正卡，此卡無論是否有""連抽""圖示都將忽視此圖示效果，然後進行以下判定
+* 在具有優勢狀態時，選擇最佳的兩張攻擊修正卡套用至攻擊中。
+* 在具有劣勢狀態時，選擇兩張最糟且沒有""連抽""圖示的攻擊修正卡套用至攻擊中。",,,
 gui_house_rules_attack_modifiers,攻擊修正卡,,,
 gui_house_rules_attack_modifiers_original,<color=#ED1F18>【推薦】</color>原始：x2 與 x0 攻擊修正卡,,,
 gui_house_rules_attack_modifiers_original_tooltip,攻擊修正卡牌庫將會包含 <color=orange><b>x2</b></color> 與 <color=purple><b>x0</b></color> 的攻擊修正卡。,,,
@@ -5776,9 +5777,9 @@ gui_opt_lang_apply,套用不同的語言需要重新載入遊戲,,,
 gui_opt_lang_title,需要進行的動作,,,
 gui_opt_language,語言,,,
 gui_opt_shared_gold,共用,,,
-gui_opt_shared_gold_description,金幣都是公會中的所有傭兵共享,,,
+gui_opt_shared_gold_description,金幣是公會中的所有傭兵共享,,,
 gui_opt_split_gold,獨立,,,
-gui_opt_split_gold_description,每位傭兵各自持有自己的金幣,,,
+gui_opt_split_gold_description,每位傭兵各自持有各自的金幣,,,
 gui_opt_video,顯示,,,
 gui_opt_video_borderless,無邊框模式,,,
 gui_opt_video_borderlesswindowed,無邊框模式,,,
