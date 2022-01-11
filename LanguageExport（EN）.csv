@@ -9582,7 +9582,8 @@ quest_travel_fordingbridge_intro,"Reports have flooded in from Fordingbridge tel
 quest_travel_fordingbridge_list,Investigate strange seismic activity near Fordingbridge
 quest_travel_fordingbridge_name,The Rumbling Deep
 quest_travel_gibbethill_desc,"Bandits are blocking the road to Gibbet Hill, and it's up to you to drive them away."
-quest_travel_gibbethill_intro,"The road is deserted as you make your way towards Gibbet Hill. Trading in the area has effectively stopped for many months now, with so few daring to venture along the main highways.
+quest_travel_gibbethill_intro,"The road is deserted as you make your way towards Gibbet Hill. Trading in the area has effectively stopped for many months now,
+ with so few daring to venture along the main highways.
 
 As you make your way along the trail, wending its way through a wooded grove, the crack of a twig snapping underfoot pierces the silence. You hear rustling in the undergrowth, getting louder as its source makes its way towards you..."
 quest_travel_gibbethill_list,Unlock the Gibbet Hill Trade Route
