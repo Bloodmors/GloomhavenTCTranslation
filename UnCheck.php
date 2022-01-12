@@ -7229,8 +7229,7 @@ message_complete_achievement_1_5_unlocklocations_1,做的很好！所有荒涼�
 message_complete_achievement_1_5_unlocklocations_2,看起來邊境的村莊已經團結起來準備獎勵我們一大筆金幣了！
 
 
-message_end_quest_story_5a_1,那是充斥著魔力的元素學校。也許我們能招募到一個高科技人才？我發誓那裡前不久有一個智元族<b>機匠</b>帶著一個能量核心或者其他造物在酒館裡閒逛。
-message_end_quest_story_5a_2,很不錯。我聽說他在尋找冒險者調查一個附近的墳墓，酒保說他昨天就出發了。聽起來像那種會加入我們工會的人——讓我們試試能不能找到他！
+
 message_end_quest_story_5b_1,我們現在已經建立了一個比較完善的傭兵工會了！說到雇傭，我最近碰到了一個尋求我們幫助的人。
 message_end_quest_story_5b_2,"願你安康。我是這裡的<b>祭司</b>，遵從於巨橡聖所。感謝我們之間的會面，我們所在的聖所急需援助。
 如你所見，聖所地下陵寢中的神聖的教堂地穴被瘋狂的邪教徒破壞並玷污了，喚醒了大量不死生物來完成他們的邪惡企圖......我懇求你們，幫我們解決這個威脅！"
@@ -7994,10 +7993,6 @@ quest_relic_steelring_unlock_2,在石板城下方的詛咒墓穴中隱藏著一�
 quest_relic_steelring_unlock_3,那裡不僅有邪教徒們和不死族，墓穴本身就會損害你的健康。記得帶上額外的治療藥品！
 
 
-quest_story_5a_intro,在絞架嶺詢問了一圈後，你選擇了一條通向被遺忘的古老廢墟的道路。當你到達廢墟時聽到前方傳來的一陣騷動：似乎一些強盜圍住了一個花晶族女性。她會是你要找的人嗎？
-quest_story_5b_desc,幫助機匠逃離惡魔閘口鎮地穴，他肯定會加入公會的！
-quest_story_5b_intro,教官告訴你那個智元族已經被人目擊待在城市南部一棟廢棄宅邸的地下室裡。你趕到宅邸時發現大門是打開的，滿是灰塵的地面上有著小小的腳印，你跟著腳印到了通往漆黑的地下室的門前。
-
 quest_story_5c_desc,地穴中的不死族已經蘇醒——是時候讓他們重返沉眠了。
 quest_story_5c_intro,"許多侍者似乎很怕靠近這棟神廟，你在入口處碰見了守門人，她解釋到，地穴的大門已經被打開，雖然他們隨身都帶有一個聖徽，但是沒有人有勇氣進入地穴。
 她給了你一個神器，“你需要在地穴裡待上一段時間，然後這個徽記就會驅散並關閉大門，祝你好運。”她在前面一邊帶路一邊說道。"
@@ -8687,30 +8682,7 @@ scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附
 ============================================================================
 ============================================================================
 
-scenario_puzzle_5a_01,這一位是<b>織魔師</b>，一名能夠利用大自然元素的強大卻又脆弱的施法者。幸虧我們成功找到她了，這裡的強盜可真多！
-scenario_puzzle_5a_02,"為了讓她擺脫這個困境，你需要利用戰場中的元素力量。元素的充能情況顯示在螢幕的右側，表示哪種魔法元素可以被使用。在這個劇本中，<b><link=""Glossary_Ice"">冰</link></b>元素已經充能完畢了，但是一般情況下使用帶有元素符號的動作充能出來的元素只會維持兩個回合，並且在執行充能的那個行動輪結束之後才允許被消耗，即不能同一個行動輪中先充能再立刻使用。"
-scenario_puzzle_5a_03,"你本回合的目標為：
-<line-height=20%>
-</line-height>→ 消耗<b><link=""Glossary_Ice"">冰</link></b>元素來增強<font=""MarcellusAlt SDF""><color=#F5E3B0><b>冰霜新星</b></color></font>的攻擊，盡可能多的殺死強盜
-→ 通過使用一次<b>跳躍移動</b>脫離攻擊範圍並在這個回合存活下來
-<line-height=20%>
-</line-height>"
-scenario_puzzle_5a_04,"在用冰霜新星攻擊強盜之後你需要用跳躍前往安全位置！"
-scenario_puzzle_5a_05,"為了增強<font=""MarcellusAlt SDF""><color=#F5E3B0><b>冰霜新星</b></color></font>你需要在使用它之前先消耗<b><link=""Glossary_Ice"">冰</link></b>元素。確保你在執行行動前先點擊<b><link=""Glossary_Ice"">冰</link></b>元素的符號來對它進行消耗。"
-scenario_puzzle_5a_06,"通過消耗冰元素，<b><font=""MarcellusAlt SDF""><color=#F5E3B0>冰霜新星</color></font></b>造成了<b> 3 </b>點傷害而不是 <b>2</b> 點！殺死三個強盜的同時還施加了<link=""Glossary_Immobilize""><b>禁足</b></link>狀態效果，所以剩下的強盜就追不上你了，那可真是個非常強的技能，對吧？"
-scenario_puzzle_5a_07,"<font=""MarcellusAlt SDF""><color=#F5E3B0><b>乘風</b></color></font>同時也充能了<b><link=""Glossary_Air"">氣</link></b>元素以供未來使用。
-你可能注意到了，<b>織魔師</b>只剩三張尚未移除的卡牌了，所以下個回合結束時她就會精疲力竭，因為你無法通過休息來回收移除區的卡牌。"
-scenario_puzzle_5a_08,"幸運的是，<b>織魔師</b>有一個非常強力的秘密能力。她的很多強力卡牌在使用過後都會被移除，但是<font=""MarcellusAlt SDF""><color=#F5E3B0><b>乙太蘇生</b></color></font>的上半部分允許她將<i>所有</i>移除區的卡牌回收到手裡！把握好這個每個劇本一次的回收所有移除區卡牌的時機是用好<b>織魔師</b>的關鍵。"
-scenario_puzzle_5a_09,"你的目標為：
-<line-height=20%>
-</line-height>→ 殺死剩餘的<b>強盜衛兵</b>
-<line-height=20%>
-</line-height><font=""MarcellusAlt SDF""><color=#F5E3B0>乙太蘇生</color></font>可以回收所有移除區的卡牌，所以你應該可以輕鬆搞定這些強盜！"
-scenario_puzzle_5a_10,因為幫助<b>織魔師</b>脫離險境，她同意加入我們的公會！如你所見，她的技能非常強大，但是因為需要更複雜的策略使得她成為一名難度較高的角色。
-scenario_puzzle_5a_11,"利用她的技能再試一次吧。記得消耗元素來增強技能，並且不要因“用<b><link=""Glossary_Range"">遠程</link></b>攻擊相鄰目標時”而使自己處於<b><link=""Glossary_Disadvantage"">劣勢</link></b>！"
-scenario_puzzle_5a_obj_01,使用一次“跳躍移動”在本回合存活下來
-scenario_puzzle_5a_obj_02,消耗冰元素來增強冰霜新星並且殺死生命值較低的強盜
-scenario_puzzle_5a_obj_03,殺死剩下的強盜
+
 scenario_puzzle_5b_01,來見見<b>機匠</b>！他是團隊中重要的輔助角色，但必要時也可以承擔攻擊多個敵人的任務。看見那些骷髏了嗎，這正是我所說的“多個敵人”！
 scenario_puzzle_5b_02,"目前他正處於<b><link=""Glossary_Wound"">流血</link></b><sprite name=Wound>狀態，這會讓他在每個行動輪開始時受到一點傷害，因此你需要儘快用<b><font=""MarcellusAlt SDF""><color=#F8F8F8>次級治療藥水</color></font></b>對他進行<link=""Glossary_Heal""><b>治療</b></link>。"
 scenario_puzzle_5b_03,"看看這個房間裡敵人所在的位置，我建議你這個回合儘量晚一些行動。有時採取較慢的動作並讓敵人來接近你是更好的選擇，並且還不用冒著被攻擊的風險。之後你就可以使用<b>機匠</b>那聞名遐邇的<b>區域</b>攻擊來同時對多個敵人造成一些傷害！
