@@ -513,7 +513,7 @@ ability_card_earthenspikes,土力尖峰
 ability_card_earthensteed,土制駿馬
 ability_card_echoingaria,復仇詠歎調
 ability_card_elementalaegis,元素魔盾
-ability_card_empatheticassault,詭意突襲
+
 ability_card_empoweringcommand,強化咒令
 ability_card_empoweringvoid,伺機待發
 ability_card_encompassingshadow,暗影附體
@@ -532,7 +532,7 @@ ability_card_explosivepunch,爆炸拳
 ability_card_expose,暴露
 ability_card_eyeofthehurricane,颶風之眼
 ability_card_eyesofthenight,暗夜之眼
-ability_card_fearsomeblade,恐懼之刃
+
 ability_card_feedbackloop,反饋回路
 ability_card_fellingswoop,俯衝突襲
 ability_card_feralinstincts,野性本能
@@ -560,7 +560,7 @@ ability_card_gentlemansanger,紳士之怒
 ability_card_giantclub,巨兵俱樂部
 ability_card_gloomdarts,蝕心鏢
 ability_card_gloriousbolt,輝煌脈衝
-ability_card_gnawinghorde,齧噬部落
+
 ability_card_graspingthevoid,攫取虛空
 ability_card_graspingvermin,抓住害蟲
 ability_card_gravelvortex,礫石渦旋
@@ -590,7 +590,7 @@ ability_card_inspiringanthem,鼓舞聖歌
 ability_card_inspiringsanctity,聖心鼓舞
 ability_card_interplanarmastery,晶面掌握
 ability_card_interveningapparitions,幻影干涉
-ability_card_intothenight,潛入陰影
+
 ability_card_ironbulwark,鋼鐵碉堡
 ability_card_jawsofdeath,死亡之顎
 ability_card_kineticassault,動力拳擊
@@ -637,11 +637,7 @@ ability_card_otherworldlyrage,異界之怒
 ability_card_oversizedpack,超大包裹
 ability_card_painsend,結束痛苦
 ability_card_paralyzingbite,麻痹之咬
-ability_card_parasiticinfluence,寄生支配
 ability_card_patchfur,毛皮補丁
-ability_card_pathofglory,榮耀之路
-ability_card_perverseedge,墮落邊緣
-ability_card_petrify,石化
 ability_card_phantasmalkiller,瘋狂殺手
 ability_card_pilfer,竊取
 ability_card_portableballista,便攜弩炮
@@ -695,12 +691,6 @@ ability_card_rumblingadvance,魯莽行軍
 ability_card_saplife,生命汲取
 ability_card_scalesofjustice,正義仲裁
 ability_card_scatteredterror,散佈恐懼
-ability_card_scrollofannihilation,湮滅卷軸
-ability_card_scrollofblizzards,暴雪卷軸
-ability_card_scrollofjudgment,審判卷軸
-ability_card_scrolloflightning,閃電卷軸
-ability_card_scrollofrecall,回復卷軸
-ability_card_scurry,疾走
 ability_card_sentientgrowth,感知增長
 ability_card_shadowpuppets,影子木偶
 ability_card_shapingtheaether,靈能賦形
@@ -714,14 +704,11 @@ ability_card_singingarrow,輕吟飛箭
 ability_card_singleout,抓單
 ability_card_singularfocus,聚焦
 ability_card_sinisteropportunity,圍殺
-
-ability_card_smokestep,踏煙步
+ability_card_smokestep,迷蹤步
 ability_card_soaringally,無拘夥伴
-ability_card_solidbow,硬弓
+ability_card_solidbow,實心弓
 ability_card_songofspeed,速度之歌
 ability_card_soothinglullaby,撫慰搖籃曲
-ability_card_soulfire,靈魂火
-
 ability_card_spiritofthenight,暗夜之靈
 ability_card_spiritswap,靈魂互換
 ability_card_spreadingscourge,傳播禍害
@@ -737,22 +724,15 @@ ability_card_stonesigil,石頭魔召
 ability_card_stormofwings,飛羽風暴
 ability_card_stormsigil,暴風魔召
 ability_card_strengthinnumbers,人多勢眾
-ability_card_submissiveaffliction,服從的痛苦
 ability_card_succumbtothegift,帶走你的禮物
 ability_card_supportivechant,輔助詠唱
 ability_card_surgeonssatchel,外科挎包
 ability_card_swallowedbyfear,被恐懼吞沒
-
 ability_card_swifttrickery,靈活詭計
-ability_card_syringe,注射
 ability_card_tacticalorder,戰術秩序
-ability_card_teamwork,團隊合作
 ability_card_tearthefabric,結構崩毀
 ability_card_terrorblade,恐怖利刃
 ability_card_thehuntbegins,狩獵開始
-ability_card_themindsweakness,心靈的弱點
-
-
 ability_card_throwvoice,聲音投射
 ability_card_tranquiltrill,無言戰慄
 ability_card_tremulantcyclone,戰慄旋風
@@ -793,7 +773,7 @@ ability_card_wingedcongregation,帶翼的會眾
 ability_card_wingsofthenight,暗夜之翼
 ability_card_wintersedge,冬日邊緣
 ability_card_wistfulwounding,渴望傷害
-ability_card_witheringclaw,凋零之爪
+
 ability_card_wretchedcreature,可悲的造物
 ability_card_wretchedswarm,驚駭蟲群
 ================================================================================================================================================
@@ -6271,7 +6251,7 @@ gui_bind_move_item_confirmation_title,綁定到 {0}
 gui_blessings_unavailable,沒有可用的祝福
 gui_buy_enhancement_confirmation_title,購買能力卡強化
 gui_buy_party_confirmation,你確定要解鎖這個玩家團隊嗎？
-gui_cancel_active_bonus,點擊圖示以取消啟動的技能
+
 gui_cancel_sending_error_report,取消錯誤報告......請稍候
 gui_cancel_town_records,取消城鎮記錄
 gui_card_cannot_be_enhanced,此技能卡<color=#C53F3FFF>不能被提升</color>
@@ -6314,14 +6294,11 @@ gui_completed_personal_quest_progress_tip_female,{0}已經邁出了朝著<color=
 gui_completed_personal_quest_progress_tip_male,{0}已經邁出了朝著<color=#EACF8C>完成了他的個人任務</color>前進的第一步。繼續看看未來的東西。
 gui_completed_personal_quest_tip_female,{0}已經<color=#EACF8C>完成了她的個人任務</color>，人物並沒有任何動機再去探索那些充滿怪物的廢墟
 gui_completed_personal_quest_tip_male,{0}已經<color=#EACF8C>完成了他的個人任務</color>，人物並沒有任何動機再去探索那些充滿怪物的廢墟
-gui_conditions_effects,狀態和附加效果
-gui_confirm_action,確認行動
 
 
 
 
-gui_confirmation_cancel_ability,{0}將被燒祭，此卡中的任何其他場地上的卡牌獎勵將結束
-gui_confirmation_cancel_discard_ability,{0}將被棄置
+
 gui_confirmation_enable_perk,獲得{0}個{1}/{2}
 gui_confirmation_enable_perk_warning,一旦應用，就無法移除一個專精項目
 gui_confirmation_end_session,返回單人模式繼續遊戲
@@ -6625,7 +6602,7 @@ gui_modding_welcome_desc,"您需要做的第一件事是創建自訂規則集。
 只要Mods不編輯相同的檔，每個自訂規則集都可以應用多個Mod。如果發生這種情況，將顯示警告消息。
 從Steam 創意工坊下載的Mod不會官方答疑支持，因此如果您有任何問題，請聯繫Mod 貢獻者。我們也無法保證您不會在這些模式下不被劇透。"
 gui_modding_welcome_title,歡迎來到黯淡港灣的Mod管理！
-gui_move,前往{0}
+
 gui_multiplayer_connecting_cancelingconnection,取消多人遊戲。
 gui_multiplayer_connecting_connecting,建立連接。
 gui_multiplayer_connecting_downloadingnewsave,下載新存檔。
@@ -6679,7 +6656,7 @@ gui_multiplayer_warning_text_waitingforconnectingplayerstojoin,新玩家目前�
 gui_multiplayer_warning_text_waitingformoreplayers,邀請另一名玩家繼續多人遊戲或切回到玩家功能表中的單人遊戲。
 gui_multiplayer_warning_text_waitingformycharassignment,等待主機給我分配一個角色
 gui_multiplayer_warning_title_progression_disabled,被禁用的進程
-gui_negative_conditions,負面狀態
+
 gui_neutral,中立的
 gui_new_card_notification,添加了新的技能卡，它低於當前級別。出於這個原因，我們會給你有機會<color=#CEAD5A>免費重置你的技能卡堆 </color>，並嘗試一些你可能已經錯過的技能！
 gui_new_card_notification_title,已添加新卡牌！
@@ -6823,7 +6800,7 @@ gui_reset_character_level_confirmation,重置技能卡
 gui_reset_character_level_tooltip,"<color=#CEAD5A>重置雇傭兵</color>將使得雇傭兵掌握的技能卡和專精專案返回到起始狀態，並允許您重建角色為當前級別或以下的級別。
 重置雇傭兵不會影響雇傭兵當前的XP。"
 gui_reset_party,重置玩家團隊
-gui_result_win_exit,退出地牢
+
 gui_results_accomplishments,成就
 gui_results_chests,拾取寶箱數
 gui_results_damage_done,造成傷害值
@@ -7229,12 +7206,6 @@ message_complete_achievement_1_5_unlocklocations_1,做的很好！所有荒涼�
 message_complete_achievement_1_5_unlocklocations_2,看起來邊境的村莊已經團結起來準備獎勵我們一大筆金幣了！
 
 
-
-message_end_quest_story_7a_1,<b>岩石心</b>加入了——這是我們招募的第五位傭兵！我估計我們再拉一個入夥就足夠我們接一些離惡魔閘口鎮很遠的任務了。
-message_end_quest_story_7a_2,你懂的，如果我們能找到在戰場上召喚盟友的人，那就像我們一下有了很多人一樣！我知道有些魔鼠對處理他們獸性的同胞相當精通。
-message_end_quest_story_7a_3,魔鼠？你說我們要招募一個魔鼠？
-message_end_quest_story_7a_4,"不要讓他們齧齒動物的外觀欺騙你，他們並不全都是野生食腐動物。有些魔鼠鍛煉出了強大的心靈能力——而且有流言說一位這樣的魔鼠<b>亂心賊</b>就在這附近狩獵惡魔。你會因為一位惡魔獵手的長的像老鼠而拒絕一位她的加入嗎？
-我覺得我們需要找到這位元<b>亂心賊</b>看看她想不想為了......比狩獵惡魔更大的榮耀加入我們。好吧，也許現在沒那麼<i>大</i>的榮耀，但榮耀不都是類似的麼。"
 message_end_quest_story_7b_1,現在我們的公會已經開始運作，能夠接取範圍更加廣闊的任務。我也瞭解到一些可能值得調查的傳聞，是有關強大神器的位置。
 message_end_quest_story_7b_2,實際上，你應該先調查這個：前幾天的晚上，據說有一顆明星墜落在了絞架嶺的森林之中的湖泊裡，但當村民去調查時，卻沒有看到任何墜落的東西。
 message_end_quest_story_7b_3,一天左右的時間後，村子的北面出現了一些輕微的地震，就在那塊只有一個年久失修的地穴的空地不遠處—但村民們，一介草夫，他們害怕得不知所措。
@@ -7979,13 +7950,6 @@ quest_relic_steelring_unlock_2,在石板城下方的詛咒墓穴中隱藏著一�
 quest_relic_steelring_unlock_3,那裡不僅有邪教徒們和不死族，墓穴本身就會損害你的健康。記得帶上額外的治療藥品！
 
 
-quest_story_7a_desc,再頑強的雇傭兵偶爾也需要援手。
-quest_story_7a_intro,當你發現自己再次來到了被遺棄的地穴入口時，你不禁向自己發問，是什麼讓這些雇傭軍前赴後繼地來探索這個不死族墳墓？黃金，肯定是黃金...你進入了墳墓，希望找到另一個需要你戰略知識的人。
-
-quest_story_7b_desc,如果身為惡魔獵人的她加入公會，那將是一筆寶貴的財富。
-quest_story_7b_intro,荒蕪地帶裡沒有人願意幫助你尋找亂心賊，當你提到魔鼠時他們都將頭轉了過去。你起身準備離開時，一個小女孩站起來說道：“我知道那個鼠人女士在哪，她說她要去城堡東邊地下的廢棄地牢裡趕走那些惡魔。她還給了我這個！”她向你展示了一個小小的稻草人偶，這個人偶是一個不怎麼討喜的老鼠形狀。於是你前往城堡，下到充滿黴味的地牢之中。
-
-
 quest_story_banditcommander_desc,所有證據都表明強盜頭目就在神殿廢墟，是時候去打到他了。
 quest_story_banditcommander_intro,你先前往了位於狂野尖塔的貨運公司，在那兒一位倔強的職員起初不願透露使用了貨倉的顧客。但是，當他們三分之一的貨物被傾瀉一空之後，他果不其然改變了注意。後來他透露給你的位置是一處位於城鎮外的洞穴，坐落于森林的深處。你立即起身前往，希望在強盜指揮官有機會掠奪神龕而且逃走之前抓住他。當你到達一處散落著岩石的地方後，聽到了強盜們喧鬧的爭吵。這裡一定就是灰燼神廟了！
 quest_story_banditcommander_list,強盜首領一定要被除掉
@@ -8661,37 +8625,6 @@ scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附
 ============================================================================
 ============================================================================
 
-
-
-scenario_puzzle_7a_01,"看看這個人見人愛的移動巨石—<b>岩石心</b>。我們的人數真是壓倒性的不利，看來需要採取一些防禦戰術。讓我們來看看<b><link=""Glossary_Retaliate"">復仇</link></b><sprite name=Retaliate>是如何起到作用並且幫助岩石心擺脫這個困境的。"
-scenario_puzzle_7a_02,"與<b><link=""Glossary_Shield"">護盾</link></b>類似，<b><link=""Glossary_Retaliate"">復仇</link></b>是一種<b>增益效果</b>，通常維持一個<link=""Glossary_Round""><b>回合</b></link><sprite name=Round>或是<link=""Glossary_Persistent""><b>持續</b></link><sprite name=Persistent>生效，直到稍晚些時候滿足終止條件時會被取消。
-當復仇處於啟動狀態時，使用近戰進攻的單位會在每次執行攻擊後受到和<b><link=""Glossary_Retaliate"">復仇</link></b>所標示數值等量的傷害。"
-scenario_puzzle_7a_03,"當被這麼多的<b>骷髏</b>包圍時，在他們攻擊後造成的復仇傷害也非常可觀…當然，前提是如果你能在本回合中存活下來！
-噢，還有一件事：<b><link=""Glossary_Earth"">土</link></b>元素已經充能就緒，如果你想使用元素來增強技能的話別忘了點擊<sprite name=ConsumeEarth>圖示來消耗這個元素！"
-scenario_puzzle_7a_04,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">復仇</link></b>，但是另一個動作你可以用來執行攻擊。<font=""MarcellusAlt SDF""><color=#F5E3B0><b>雪崩</b></color></font>是個不錯的卡牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！"
-scenario_puzzle_7a_05,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">復仇</link></b>，但是另一個動作你可以用來執行攻擊。<font=""MarcellusAlt SDF""><color=#F5E3B0><b>雪崩</b></color></font>是個不錯的卡牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！"
-scenario_puzzle_7a_06,"你受到了一些傷害，但是取得了不錯的成果！一個時機恰當的<b><link=""Glossary_Retaliate"">復仇</link></b>一樣能成為毀滅性的力量。
-另外，看看螢幕上方<b>岩石心</b>的頭像，你能看到來自於<font=""MarcellusAlt SDF""><color=#F5E3B0><b>左右開弓</b></color></font>的<b>增益效果</b>仍在生效。這個<b>增益效果</b>的小方格可以快速提示你還剩幾次獎勵可以啟動，並且當你將滑鼠懸停在上面時可以進一步確認效果描述和經驗獲取的詳情。"
-scenario_puzzle_7a_07,"除此以外，你注意到<b>骷髏</b>們的<b><link=""Glossary_Shield"">護盾</link></b>並沒有阻擋<b><link=""Glossary_Retaliate"">復仇</link></b>的傷害了嗎？就像陷阱一樣，<b><link=""Glossary_Retaliate"">復仇</link></b>傷害不視作是一次攻擊，並且造成的傷害數值和標示的一模一樣，不會被<b><link=""Glossary_Shield"">護盾</link></b>、攻擊修正卡牌或是其他類似的效果影響。"
-scenario_puzzle_7a_08,現在，殺死這些骷髏好讓我們離開這裡！
-scenario_puzzle_7a_09,"別忘了你還有兩次來自於<font=""MarcellusAlt SDF""><color=#F5E3B0><b>左右開弓</b></color></font>的<b><link=""Glossary_Retaliate"">復仇</link></b>啟動次數，因此你可以把它們的傷害也考慮進去。或者說還有什麼其他的方法能夠穿透敵人的<b><link=""Glossary_Shield"">護盾</link></b>來直接擊敗這些骷髏呢？"
-scenario_puzzle_7a_10,幹得漂亮！儘管一開始看上去像是個不可完成的挑戰，但是如果你合理地使用卡牌，即便是最複雜的狀況你也能夠應對。
-scenario_puzzle_7a_obj_01,在本回合中殺死4個骷髏
-scenario_puzzle_7a_obj_02,殺死剩餘的骷髏
-
-
-scenario_puzzle_7b_01,"來認識下最後一位元新人，<b>亂心賊</b>。她不是很擅長硬碰硬，相對的，她擁有控制敵人行動和在戰場中<b><link=""Glossary_Summon"">召喚</link></b>盟友的能力。
-<b><link=""Glossary_Summon"">召喚物</link></b>會在它的召喚者行動輪開始前自發地執行動作，並且每次都會執行一個<b>“<link=""Glossary_Move"">移動</link> X，<link=""Glossary_Attack"">攻擊</link> Y”</b>的行動，其中<b>X</b>和<b>Y</b>分別是它們所標示出來的基本屬性數值。"
-scenario_puzzle_7b_02,"正好<b>亂心賊</b>在討伐惡魔，你能夠見識一下更厲害的敵人——<b>暗夜惡魔</b>。
-這種恐怖生物擁有一個固有技能來讓攻擊者們在“以它們作為目標執行任何攻擊”時處於<b><link=""Glossary_Disadvantage"">劣勢</link></b>狀態，這使得它們通常很難對付。也許你可以試試通過非攻擊的手段從而造成一些直接傷害來殺死它們？"
-scenario_puzzle_7b_03,"你本回合的目標為：
-<line-height=20%>
-</line-height>→ <b><link=""Glossary_Summon"">召喚</link></b>一名盟友
-→ 殺死一個<b>暗夜惡魔</b>
-<line-height=20%>
-</line-height>一個重要提示：當你和你的<b><link=""Glossary_Summon"">召喚物</link></b>距離相同時，敵人會優先專注於你的召喚物。好好利用這一點！"
-scenario_puzzle_7b_04,"使用<font=""MarcellusAlt SDF""><color=#F5E3B0><b>齧噬部落</b></color></font>來召喚一個“鼠群”，它能協助你戰勝這些惡魔！"
-scenario_puzzle_7b_05,"雖然你的<b><link=""Glossary_Push"">強推</link></b>技能卡已經被<link=""Glossary_burn"">移除</link>了，但是或許有其他辦法來讓一個敵人強制前進到陷阱上來承受一些直接傷害？"
 scenario_puzzle_7b_06,"你的最終目標為：
 <line-height=20%>
 </line-height>→ 殺死剩餘的暗夜惡魔
@@ -8703,9 +8636,9 @@ scenario_puzzle_7b_08,這些惡魔可真嚇人，交給你來處理，我先溜�
 scenario_puzzle_7b_09,"也許你可以利用陷阱來殺死一個暗夜惡魔，再和你的<b><link=""Glossary_Summon"">召喚物</link></b>一起攻擊另一個？"
 scenario_puzzle_7b_10,"我猜你現在也能自稱是一個<i>屠魔者</i>了？呃，怎麼說的來著…<i>獵魔者</i>？
 總之，重點是：做得不錯！"
-scenario_puzzle_7b_obj_01,在本回合中殺死一個暗夜惡魔
-scenario_puzzle_7b_obj_02,在本回合中召喚一名盟友
-scenario_puzzle_7b_obj_03,殺死剩餘的暗夜惡魔
+
+
+
 ============================================================================
 ============================================================================
 ============================================================================

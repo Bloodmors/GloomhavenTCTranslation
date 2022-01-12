@@ -529,7 +529,7 @@ ability_card_earthensteed,土制駿馬,,,
 ability_card_echoingaria,復仇詠歎調,,,
 ability_card_elementalaegis,元素魔盾,,,
 ability_card_elementalaid,元素協助,,,
-ability_card_empatheticassault,詭意突襲,,,
+ability_card_empatheticassault,共情突襲,,,
 ability_card_empoweringcommand,強化咒令,,,
 ability_card_empoweringvoid,伺機待發,,,
 ability_card_encompassingshadow,暗影附體,,,
@@ -639,7 +639,7 @@ ability_card_inspiringanthem,鼓舞聖歌,,,
 ability_card_inspiringsanctity,聖心鼓舞,,,
 ability_card_interplanarmastery,晶面掌握,,,
 ability_card_interveningapparitions,幻影干涉,,,
-ability_card_intothenight,潛入陰影,,,
+ability_card_intothenight,融入夜色,,,
 ability_card_ironbulwark,鋼鐵碉堡,,,
 ability_card_jawsofdeath,死亡之顎,,,
 ability_card_jetpropulsion,噴射推進器,,,
@@ -700,9 +700,9 @@ ability_card_oversizedpack,超大包裹,,,
 ability_card_overwhelmingassault,強勢突襲,,,
 ability_card_painsend,結束痛苦,,,
 ability_card_paralyzingbite,麻痹之咬,,,
-ability_card_parasiticinfluence,寄生支配,,,
+ability_card_parasiticinfluence,寄生控制,,,
 ability_card_patchfur,毛皮補丁,,,
-ability_card_pathofglory,榮耀之路,,,
+ability_card_pathofglory,榮光之道,,,
 ability_card_perverseedge,墮落邊緣,,,
 ability_card_petrify,石化,,,
 ability_card_phantasmalkiller,瘋狂殺手,,,
@@ -767,11 +767,11 @@ ability_card_rumblingadvance,魯莽行軍,,,
 ability_card_saplife,生命汲取,,,
 ability_card_scalesofjustice,正義仲裁,,,
 ability_card_scatteredterror,散佈恐懼,,,
-ability_card_scrollofannihilation,湮滅卷軸,,,
-ability_card_scrollofblizzards,暴雪卷軸,,,
+ability_card_scrollofannihilation,殲滅卷軸,,,
+ability_card_scrollofblizzards,暴風雪卷軸,,,
 ability_card_scrollofjudgment,審判卷軸,,,
 ability_card_scrolloflightning,閃電卷軸,,,
-ability_card_scrollofrecall,回復卷軸,,,
+ability_card_scrollofrecall,回溯卷軸,,,
 ability_card_scurry,疾走,,,
 ability_card_seeingred,殺紅眼,,,
 ability_card_selfishretribution,自私報復,,,
@@ -793,12 +793,12 @@ ability_card_sinisteropportunity,圍殺,,,
 ability_card_skewer,串刺,,,
 ability_card_skirmishingmaneuver,偵察計畫,,,
 ability_card_smokebomb,煙霧彈,,,
-ability_card_smokestep,踏煙步,,,
+ability_card_smokestep,迷蹤步,,,
 ability_card_soaringally,無拘夥伴,,,
-ability_card_solidbow,硬弓,,,
+ability_card_solidbow,實心弓,,,
 ability_card_songofspeed,速度之歌,,,
 ability_card_soothinglullaby,撫慰搖籃曲,,,
-ability_card_soulfire,靈魂火,,,
+ability_card_soulfire,靈魂之火,,,
 ability_card_sparedagger,備用匕首,,,
 ability_card_specialmixture,特殊藥物,,,
 ability_card_spikedarmor,尖刺裝甲,,,
@@ -822,7 +822,7 @@ ability_card_stormsigil,暴風魔召,,,
 ability_card_strengthinagony,苦痛之力,,,
 ability_card_strengthinnumbers,人多勢眾,,,
 ability_card_stunshot,暈眩射擊,,,
-ability_card_submissiveaffliction,服從的痛苦,,,
+ability_card_submissiveaffliction,聽話的折磨,,,
 ability_card_succumbtothegift,帶走你的禮物,,,
 ability_card_supportivechant,輔助詠唱,,,
 ability_card_surgeonssatchel,外科挎包,,,
@@ -830,14 +830,14 @@ ability_card_swallowedbyfear,被恐懼吞沒,,,
 ability_card_sweepingblow,橫掃千軍,,,
 ability_card_swiftbow,疾速射擊,,,
 ability_card_swifttrickery,靈活詭計,,,
-ability_card_syringe,注射,,,
+ability_card_syringe,注射器,,,
 ability_card_tacticalorder,戰術秩序,,,
 ability_card_teamwork,團隊合作,,,
 ability_card_tearthefabric,結構崩毀,,,
 ability_card_terrorblade,恐怖利刃,,,
 ability_card_thehuntbegins,狩獵開始,,,
 ability_card_themawofmadness,瘋狂之喉,,,
-ability_card_themindsweakness,心靈的弱點,,,
+ability_card_themindsweakness,玻璃心,,,
 ability_card_thiefsknack,神偷,,,
 ability_card_throwingknives,飛刀,,,
 ability_card_throwvoice,聲音投射,,,
@@ -4899,7 +4899,7 @@ gui_campaign_invalid_name,輸入了無效的名稱,,,
 gui_campaign_repeated_name,該名稱已被使用，請輸入不同的名稱。,,,
 gui_campaign_ruleset,戰役模式規則集,,,
 gui_cancel,取消,,,
-gui_cancel_active_bonus,點擊圖示以取消啟動的技能,,,
+gui_cancel_active_bonus,點擊圖示以取消啟動區域的能力卡,,,
 gui_cancel_sending_error_report,取消錯誤報告......請稍候,,,
 gui_cancel_town_records,取消城鎮記錄,,,
 gui_card_cannot_be_enhanced,此能力卡<color=#C53F3FFF>不能被提升</color>,,,
@@ -4967,8 +4967,9 @@ gui_confirmation_abandon_adventure_scenario,"本次劇本你將以失敗告終�
 gui_confirmation_abandon_single_scenario,本次劇本你將以失敗結束，並返回主選單,,,
 gui_confirmation_buy,購買者：{0},,,
 gui_confirmation_buy_cost,花費：,,,
-gui_confirmation_cancel_ability,{0}將被焚燒，此卡中的任何其他場地上的牌獎勵將結束,,,
-gui_confirmation_cancel_discard_ability,{0}將被丟棄,,,
+gui_confirmation_cancel_ability,"{0} 將被焚燒
+因為此牌所帶來的增益效果將失效",,,
+gui_confirmation_cancel_discard_ability,{0} 將被丟棄,,,
 gui_confirmation_enable_perk,獲得{0}個{1}/{2},,,
 gui_confirmation_enable_perk_warning,一旦應用，就無法移除一個專精,,,
 gui_confirmation_end_session,返回單人模式繼續遊戲,,,
@@ -5132,7 +5133,7 @@ gui_end_selection,結束選擇,,,
 gui_end_turn,結束{0}的輪次,,,
 gui_enemieskilled,這是你為了贏下劇本必須完成的目標。下面的進度條顯示了目標的進度。,,,
 gui_enemy2,敵人隊伍2,,,
-gui_enhance,提升,,,
+gui_enhance,強化,,,
 gui_enhancement_card_cant_be_enhanced,"這個<sprite name=""Card_Icon"">能力卡是<color=#CEAD5A>不可提升型</color>",,,
 gui_enhancement_card_fully_enhanced,"這個<sprite name=""Card_Icon"">能力卡已經<color=#CEAD5A>完全提升</color>",,,
 gui_enhancement_card_not_enhanced,"這個<sprite name=""Card_Icon"">能力卡<color=#CEAD5A>未被提升</color>",,,
@@ -5201,7 +5202,7 @@ gui_frontendtutorial_08_description,<color=#a06e4b>織咒師</color>是一個強
 gui_frontendtutorial_08_tilte,8.掌握元素,,,
 gui_frontendtutorial_09_description,<color=#a06e4b>機工巧匠</color>屬於靈活機智的職業，難道流個血就能難住他們嗎？,,,
 gui_frontendtutorial_09_tilte,9.大腦勝過肌肉,,,
-gui_frontendtutorial_10_description,四個<color=#C53F3F>復生的骷髏</color>已經圍住了<color=#a06e4b><b>岩石心</b></color>，時間不多了，你能不能突圍並全部擊殺他們呢？,,,
+gui_frontendtutorial_10_description,四個<color=#C53F3F>復生的骷髏</color>已經圍住了<color=#a06e4b><color=#a06e4b>岩石心</color></color>，時間不多了，你能不能突圍並全部擊殺他們呢？,,,
 gui_frontendtutorial_10_tilte,10.岩石心臟,,,
 gui_frontendtutorial_11_description,當你能召喚點什麼東西為你做事的時候，何必所有戰鬥親力親為呢？,,,
 gui_frontendtutorial_11_tilte,11.精神高於物質,,,
@@ -5563,7 +5564,7 @@ gui_modding_welcome_desc,"你需要做的第一件事是建立自訂規則集。
 從Steam 創意工坊下載的Mod不會官方答疑支持，因此如果你有任何問題，請聯繫Mod 貢獻者。我們也無法保證你不會在這些模式下不被劇透。",,,
 gui_modding_welcome_title,歡迎來到黯淡港灣的Mod管理！,,,
 gui_monster_card,怪物,,,
-gui_move,前往{0},,,
+gui_move,前往 {0},,,
 gui_multiplayer,多人遊戲,,,
 gui_multiplayer_connecting,連接中...,,,
 gui_multiplayer_connecting_cancelingconnection,取消多人遊戲。,,,
@@ -6817,17 +6818,18 @@ message_end_quest_story_6a_2,"有些振奮人心的好消息！
 
 隨著你核心訓練接近尾聲，我希望你已經充分瞭解了不同的能力和效果如何相互影響。接下來的任務中你肯定需要些高科技的東西！",,,
 message_end_quest_story_6a_3,廢話少說，我已經找到了第五位可能會加入公會的傭兵，我是指 一 如果你能說服他加入的話。這傢伙可是有石拳的，我可沒在開玩笑！,,,
-message_end_quest_story_7a_1,<b>岩石心</b>加入了 一 這是我們招募的第五位傭兵！我估計我們再拉一個入夥就足夠我們接一些離惡魔閘口鎮很遠的任務了。,,,
-message_end_quest_story_7a_2,你懂的，如果我們能找到在戰場上召喚盟友的人，那就像我們一下有了很多人一樣！我知道有些魔鼠對處理他們獸性的同胞相當精通。,,,
+message_end_quest_story_7a_1,<color=#a06e4b>岩石心</color>加入公會了 一 這是我們招募的第五位傭兵！我估計我們再有一個人加入就足夠我們接一些離惡魔閘口鎮很遠的任務了。,,,
+message_end_quest_story_7a_2,你懂的，如果我們找到能在戰場上召喚盟友的人，那我們就像瞬間有了很多夥伴一樣！我知道有些魔鼠對於處理他們獸類的同胞相當精通。,,,
 message_end_quest_story_7a_3,魔鼠？你說我們要招募一個魔鼠？,,,
-message_end_quest_story_7a_4,"不要讓他們齧齒動物的外觀欺騙你，他們並不全都是野生食腐動物。有些魔鼠鍛煉出了強大的心靈能力 一 而且有流言說一位這樣的魔鼠<b>心靈竊賊</b>就在這附近狩獵惡魔。你會因為一位惡魔獵手的長的像老鼠而拒絕一位她的加入嗎？
+message_end_quest_story_7a_4,"不要被他們齧齒動物的外表所影響，他們並不全都是野蠻未開化的動物。
+有些魔鼠鍛煉出了強大的心靈能力 一 而且有流言說正好有一位魔鼠的<color=#a06e4b>心靈竊賊</color>就在這附近狩獵惡魔。你會因為一位惡魔獵手長得像老鼠而拒絕她的加入嗎？
 
-我覺得我們需要找到這位元<b>心靈竊賊</b>看看她想不想為了......比狩獵惡魔更大的榮耀加入我們。好吧，也許現在沒那麼<i>大</i>的榮耀，但榮耀不都是類似的麼。",,,
+我提議我們需要找到這位<color=#a06e4b>心靈竊賊</color>看看她想不想為了...比狩獵惡魔還更加有意義的事情加入我們。好吧！也許現在沒那麼大的目標，但還是很有成就感好嗎？",,,
 message_end_quest_story_7b_1,現在我們的公會已經開始運作，能夠接取範圍更加廣闊的任務。我也瞭解到一些可能值得調查的傳聞，是有關強大神器的位置。,,,
 message_end_quest_story_7b_2,實際上，你應該先調查這個：前幾天的晚上，據說有一顆明星墜落在了絞架嶺的森林之中的湖泊裡，但當村民去調查時，卻沒有看到任何墜落的東西。,,,
 message_end_quest_story_7b_3,一天左右的時間後，村子的北面出現了一些輕微的地震，就在那塊只有一個年久失修的地穴的空地不遠處 一 但村民們，一介草夫，他們害怕得不知所措。,,,
 message_end_quest_story_7b_4,不過對於我來說，這反而聽起來像是一個神奇的文物，所以你應該去調查看看！,,,
-message_end_quest_story_7b_5,我建議你帶上<b>裂心人</b>和<b>心靈竊賊</b>，他們應該能更輕鬆的完成任務。,,,
+message_end_quest_story_7b_5,我建議你帶上<b>裂心人</b>和<color=#a06e4b>心靈竊賊</color>，他們應該能更輕鬆的完成任務。,,,
 message_end_quest_story_7c_1,"現在，你已經結束了你的教學。你的未來充滿了無限機遇 一 充斥著橫行霸道的強盜，漫山遍野的亡靈，出沒無蹤的惡魔。
 
 我們用你迄今為止獲得的所有錢為你整理了一套初始裝備，但你看中的其他裝備仍需要你花錢購買。",,,
@@ -9367,11 +9369,15 @@ quest_story_5c_intro,"守密者在祠堂的入口處與你碰面，周圍許多�
 quest_story_5c_list,調查不死生物的危害,,,
 quest_story_5c_name,恐怖的墓,,,
 quest_story_7a_desc,再頑強的傭兵偶爾也需要援手。,,,
-quest_story_7a_intro,當你發現自己再次來到了被遺棄的地穴入口時，你不禁向自己發問，是什麼讓這些傭兵前赴後繼地來探索這個不死生物墳墓？黃金，肯定是黃金...你進入了墳墓，希望找到另一個需要你戰略知識的人。,,,
+quest_story_7a_intro,"當你發現自己再次來到了廢棄的地下聖堂的入口時，你不禁疑惑了起來，是什麼讓這些傭兵前赴後繼地來探索這個不死生物的墳墓？
+
+黃金，答案就是黃金了吧...你進入了墳墓，期待會找到另一位讓你用你的孫子兵法來幫助的人。",,,
 quest_story_7a_list,將<color=#a06e4b>岩石心</color>招募至公會,,,
 quest_story_7a_name,岩石心臟,,,
-quest_story_7b_desc,如果身為惡魔獵人的她加入公會，那將是一筆寶貴的財富。,,,
-quest_story_7b_intro,荒蕪地帶裡沒有人願意幫助你尋找心靈竊賊，當你提到魔鼠時他們都將頭轉了過去。你起身準備離開時，一個小女孩站起來說道：“我知道那個魔鼠女士在哪，她說她要去城堡東邊地下的廢棄地城裡趕走那些惡魔。她還給了我這個！”她向你展示了一個小小的稻草人偶，這個人偶是一個不怎麼討喜的老鼠形狀。於是你前往城堡，下到充滿黴味的地城之中。,,,
+quest_story_7b_desc,如果身為惡魔獵人的她加入公會，那可是三輩子才能修得的福分。,,,
+quest_story_7b_intro,"荒蕪地帶裡沒有人願意幫助你尋找心靈竊賊，因為你一提到魔鼠這個詞大家就怕得要死。你起身準備離開時，一個小女孩站起來說道：「我知道那個魔鼠女士在哪裡，她說她要去趕走潛伏在東邊的要塞底下，一個廢棄地牢裡的惡魔。她還給了我這個！」她拿出了一個小小的稻草人偶給你看，這個人偶是一個不怎麼討喜的老鼠形狀。
+
+於是你前往要塞，沿著發霉的台階冒險前往下面的地牢。,,,
 quest_story_7b_list,將<color=#a06e4b>心靈竊賊</color>招募至公會,,,
 quest_story_7b_name,精神高於物質,,,
 quest_story_banditcommander_desc,所有證據都表明強盜頭目就在神殿廢墟，是時候去打到他了。,,,
@@ -10825,7 +10831,7 @@ scenario_puzzle_2a_02,"<color=#A06E4B>野蠻人</color>只剩最後 <b>1</b> 點
 scenario_puzzle_2a_03,"你本回合的目標為：
 <line-height=20%>
 <line-height=100%>→ 進行一次<color=#1F9EDC>進攻</color><sprite name=Attack>擊殺<color=#C53F3F>【精英】強盜弓箭手</color>
-→ 收集她掉落的金幣
+→ 收集<color=#C53F3F>【精英】強盜弓箭手</color>掉落的金幣
 
 相信你能夠完成任務！",,,
 scenario_puzzle_2a_04,當心！<color=#A06E4B>野蠻人</color>只剩下最後 <b>1</b> 點生命值了，這代表他無法承擔更多傷害......再試一次吧！但這次要選擇<color=#FADC99>焚燒</color>一張手牌中的牌來避免傷害。,,,
@@ -10883,9 +10889,9 @@ scenario_puzzle_2b_15,"別忘了，在進行<color=#1F9EDC>前進</color><sprite
 scenario_puzzle_2b_16,"別忘了，<color=#FADC99>短休息</color>可以讓你回收棄牌堆中的牌，並且在你即將進行的輪次中就可以投入使用。
 
 而<color=#FADC99>長休息</color>會取代選擇兩張能力卡，並且佔用整個輪次（你依然可以做一些基本的操作，例如：使用物品），角色的優先權會被設定為 <b>99</b> 。也就是說，無法在本回合讓你取得勝利！",,,
-scenario_puzzle_2b_obj_01,跳躍通過陷阱並且在強盜弓箭手攻擊前對其施加繳械狀態,,,
-scenario_puzzle_2b_obj_02,在本回合擊殺強盜弓箭手,,,
-scenario_puzzle_2b_obj_03,跳躍通過陷阱並且收集寶箱,,,
+scenario_puzzle_2b_obj_01,（本回合）跳躍通過陷阱並且在強盜弓箭手攻擊前對其施加繳械狀態,,,
+scenario_puzzle_2b_obj_02,（本回合）擊殺強盜弓箭手,,,
+scenario_puzzle_2b_obj_03,（本回合）跳躍通過陷阱並且收集寶箱,,,
 scenario_puzzle_2c_01,為了成為一位成功的會長，你需要多加注意敵人的行動並藉由這些資訊來規劃你自己的行動。,,,
 scenario_puzzle_2c_02,"你本回合的目標為：
 <line-height=20%>
@@ -10910,7 +10916,7 @@ scenario_puzzle_2c_14,"那個<color=#1F9EDC>繳械</color><sprite name=Disarm>�
 超低的　<b>10</b> 優先權，使得<color=#32E632>嘲諷戰吼</color>成為一張非常靈活的牌，用以回避一些小規模的衝突。",,,
 scenario_puzzle_2c_15,接下來是最後一場訓練，完成後你就已經準備就緒，可以去探索世界並為我們的公會招募傭兵了！,,,
 scenario_puzzle_2c_16,你受到了攻擊！注意敵人這一輪的移動範圍。你需要避開所有敵人！,,,
-scenario_puzzle_2c_obj_1,兩回合內不要受到任何傷害,,,
+scenario_puzzle_2c_obj_1,<b>2</b> 個回合內不要受到任何傷害,,,
 scenario_puzzle_2d_01,"讓我們來看看<color=#FADC99>攻擊修正卡</color>。
 在之前的訓練中，角色在攻擊時只會抽到 <color=orange><b>+0</b></color> 的<color=#FADC99>攻擊修正卡</color>，代表他們的攻擊傷害總是和牌上敘述的一樣。
 
@@ -10944,9 +10950,9 @@ scenario_puzzle_2d_11,還記得你曾經成功造成了 <b>3+1</b> 點傷害的�
 scenario_puzzle_2d_12,"你的目標是<color=#FADC99>收集</color>寶箱。我們下一個訓練可能會用到裡面的東西，確保你能夠拿到它！",,,
 scenario_puzzle_2d_13,"很好！<color=#FFB300>扇形盾</color>可以幫你阻擋一些傷害！",,,
 scenario_puzzle_2d_14,你已經完成了基礎訓練 一 是時候給你介紹幾名其他的傭兵並且讓你展開冒險了！,,,
-scenario_puzzle_2d_obj_01,站在一隻強盜弓箭手旁邊並且擊殺另一隻強盜弓箭手,,,
-scenario_puzzle_2d_obj_02,擊殺剩下的強盜弓箭手,,,
-scenario_puzzle_2d_obj_03,在本回合中收集寶箱,,,
+scenario_puzzle_2d_obj_01,（本回合）站在一隻強盜弓箭手旁邊並且擊殺另一隻強盜弓箭手,,,
+scenario_puzzle_2d_obj_02,（本回合）擊殺剩下的強盜弓箭手,,,
+scenario_puzzle_2d_obj_03,（本回合）收集寶箱,,,
 scenario_puzzle_3a_01,"讓我們仔細看看每個角色能夠做到什麼事情！
 在這個劇本裡，野蠻人要面對兩隻等級 <b>1</b> 的<color=#C53F3F>【精英】復生的骷髏</color> 一 代表它們的屬性比等級 <b>0</b> 的時候更高。
 
@@ -10989,9 +10995,9 @@ scenario_puzzle_3a_16,"你本回合的目標為：
 → 使用<color=#FFB300>初級治療藥水</color>
 
 這些足以讓你在本回合中存活下來。",,,
-scenario_puzzle_3a_obj_01,使用一次具有穿透<sprite name=Pierce>附加效果的攻擊擊殺一隻【精英】復生的骷髏,,,
-scenario_puzzle_3a_obj_01b,透過使用初級治療藥水和為你自身附加護盾<sprite name=Shield>能力，在本回合中存活下來,,,
-scenario_puzzle_3a_obj_02,在本回合中擊殺剩下的【精英】復生的骷髏,,,
+scenario_puzzle_3a_obj_01,（本回合）使用一次具有穿透<sprite name=Pierce>附加效果的攻擊擊殺一隻【精英】復生的骷髏,,,
+scenario_puzzle_3a_obj_01b,（本回合）透過使用初級治療藥水和為你自身附加護盾<sprite name=Shield>能力，在本回合中存活下來,,,
+scenario_puzzle_3a_obj_02,（本回合）擊殺剩下的【精英】復生的骷髏,,,
 scenario_puzzle_3b_01,"讓我們來認識一下<color=#a06e4b>惡棍</color>！
 她身手矯健並且擅長移動，更別提在特殊的情況下還能夠爆發大量近戰傷害。
 
@@ -11014,8 +11020,8 @@ scenario_puzzle_3b_06,<color=#1F9EDC>拾取</color><sprite name=Loot>能力會�
 scenario_puzzle_3b_07,你需要在<color=#1F9EDC>拾取</color><sprite name=Loot>前先進行<color=#1F9EDC>前進</color><sprite name=Move>，而<color=#1F9EDC>前進</color><sprite name=Move>能力不一定只出現在能力卡的底部！,,,
 scenario_puzzle_3b_08,漂亮！暫時就讓我來替你保管這些金幣吧...,,,
 scenario_puzzle_3b_09,因為你在這個劇本裡的幫助，<color=#a06e4b>惡棍</color>已經同意加入公會 一 代表現在我們擁有足夠多的傭兵來進行正式的任務了！,,,
-scenario_puzzle_3b_obj_01,在敵人行動前擊殺 <b>3</b> 隻強盜弓箭手,,,
-scenario_puzzle_3b_obj_02,收集 <b>5</b> 堆以上的金幣,,,
+scenario_puzzle_3b_obj_01,（本回合）在敵人行動前擊殺 <b>3</b> 隻強盜弓箭手,,,
+scenario_puzzle_3b_obj_02,（本回合）收集 <b>5</b> 堆以上的金幣,,,
 scenario_puzzle_4a_01,"好了！這是你第一場正式的戰鬥。
 看來你需要清理兩個房間，每個房間裡都有兩名強盜。",,,
 scenario_puzzle_4a_02,"回憶下我之前教過你的內容，並且在沒有做好準備前不要進入第二個房間。
@@ -11053,8 +11059,8 @@ scenario_puzzle_5a_09,"你的最終目標為：
 scenario_puzzle_5a_10,因為幫助<color=#a06e4b>織魔師</color>脫離了險境，她同意加入公會！如你所見，她的技能非常強大，但因為需要更複雜的策略，使她成為一位操作難度較高的角色。,,,
 scenario_puzzle_5a_11,"利用她的能力再試一次吧！
 記得消耗元素來提升能力，而且在進行遠程<color=#1F9EDC>進攻</color><sprite name=Attack>時，不要相鄰目標而讓自己處於劣勢狀態！",,,
-scenario_puzzle_5a_obj_01,透過一次跳躍移動，脫離強盜守衛的攻擊範圍並在這個回合存活下來,,,
-scenario_puzzle_5a_obj_02,消耗冰霜元素來提升冰霜新星的能力並擊殺生命值較低的強盜守衛,,,
+scenario_puzzle_5a_obj_01,（本回合）透過一次跳躍移動，脫離強盜守衛的攻擊範圍並在這個回合存活下來,,,
+scenario_puzzle_5a_obj_02,（本回合）消耗冰霜元素來提升冰霜新星的能力並擊殺生命值較低的強盜守衛,,,
 scenario_puzzle_5a_obj_03,擊殺剩下的強盜守衛,,,
 scenario_puzzle_5b_01,來見見<color=#a06e4b>機工巧匠</color>！他是團隊中重要的輔助角色，但必要時也可以承擔攻擊多個敵人的任務。
 
@@ -11077,8 +11083,8 @@ scenario_puzzle_5b_08,"現在，終結掉剩下這些壞傢伙！
 話說你知道可以透過按下R鍵來旋轉區域效果的形狀嗎？",,,
 scenario_puzzle_5b_09,當敵人在附近時記得搶先行動，<color=#32E632>拋繩槍</color>應該可以幫助你擊殺它們。,,,
 scenario_puzzle_5b_10,這個小傢伙很厲害，對吧？讓我們來把他登記為公會成員然後開始接一些能為公會賺錢的任務吧！,,,
-scenario_puzzle_5b_obj_01,進行治療來移除機工巧匠的創傷狀態,,,
-scenario_puzzle_5b_obj_02,一次進攻命中 <b>3</b> 隻復生的骷髏,,,
+scenario_puzzle_5b_obj_01,（本回合）進行治療來移除機工巧匠的創傷狀態,,,
+scenario_puzzle_5b_obj_02,（本回合）進行一次進攻命中 <b>3</b> 隻復生的骷髏,,,
 scenario_puzzle_5b_obj_03,擊殺剩下的復生的骷髏,,,
 scenario_puzzle_5c_01,地下聖堂充斥著污穢的氣息，是從房間角落的神秘傳送門裡散發出來的。面對未知的邪惡你繃緊了神經準備戰鬥。,,,
 scenario_puzzle_5c_02,那些傳送門突然就消失了！無論之前是什麼樣的黑暗魔法在驅使著這些軀殼，現在都停了下來，那些屍體也重新癱倒在了地上。你成功擋住了不死生物的猛攻讓聖所再次得到了安寧。,,,
@@ -11087,51 +11093,59 @@ scenario_puzzle_6a_01,"幾隻獵犬從灌木叢中鑽了出來，威脅性的對
 
 他似乎對於突然遇到一群傭兵感到有些驚訝，不過很快就鎮靜下來並且拉弓上弦，進入戰鬥狀態。",,,
 scenario_puzzle_6a_02,你找到了一個防禦薄弱的魔鼠營地。把這些敵人趕走應該可以再次保障貿易路線的安全。,,,
-scenario_puzzle_7a_01,"看看這個人見人愛的移動巨石 一 <b>岩石心</b>。我們的人數真是壓倒性的不利，看來需要採取一些防禦戰術。讓我們來看看<b><link=""Glossary_Retaliate"">復仇</link></b><sprite name=Retaliate>是如何起到作用並且幫助岩石心擺脫這個困境的。",,,
-scenario_puzzle_7a_02,"與護盾類似，<b><link=""Glossary_Retaliate"">復仇</link></b>是一種<b>增益效果</b>，通常維持一個回合<sprite name=Round>或是<link=""Glossary_Persistent""><b>持續</b></link><sprite name=Persistent>生效，直到稍晚些時候滿足終止條件時會被取消。
+scenario_puzzle_7a_01,"看看這個人見人愛的移動巨石 一 <color=#a06e4b>岩石心</color>。
 
-當復仇處於啟動狀態時，使用近戰進攻的單位會在每次執行攻擊後受到和<b><link=""Glossary_Retaliate"">復仇</link></b>所標示數值等量的傷害。",,,
-scenario_puzzle_7a_03,"當被這麼多的<color=#C53F3F>【精英】復生的骷髏</color>包圍時，在他們攻擊後造成的復仇傷害也非常可觀...當然，前提是如果你能在本回合中存活下來！
+我們的人數真是壓倒性的不利，看來需要採取一些防禦戰術。讓我們來看看<color=#1F9EDC>復仇</color><sprite name=Retaliate>是如何起到作用並且幫助<color=#a06e4b>岩石心</color>擺脫這個困境。",,,
+scenario_puzzle_7a_02,"與<color=#1F9EDC>護盾</color>類似，<color=#1F9EDC>復仇</color>是一種增益效果，通常維持一個回合<sprite name=Round>  或是持續<sprite name=Persistent>生效，直到滿足效果結束的條件時，效果才會失效。
 
-噢，還有一件事：<b><link=""Glossary_Earth"">土</link></b>元素已經充能就緒，如果你想使用元素來增強技能的話別忘了點擊<sprite name=ConsumeEarth>圖示來消耗這個元素！",,,
-scenario_puzzle_7a_04,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">復仇</link></b>，但是另一個動作你可以用來進行攻擊。<color=#32E632><b>雪崩</b></color>是個不錯的牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！",,,
-scenario_puzzle_7a_05,"當然我們已知一個動作要用來啟動<b><link=""Glossary_Retaliate"">復仇</link></b>，但是另一個動作你可以用來進行攻擊。<color=#32E632><b>雪崩</b></color>是個不錯的牌，尤其是你消耗<b><link=""Glossary_Earth"">土</link></b>元素來增強它的時候！",,,
-scenario_puzzle_7a_06,"你受到了一些傷害，但是取得了不錯的成果！一個時機恰當的<b><link=""Glossary_Retaliate"">復仇</link></b>一樣能成為毀滅性的力量。
+當<color=#1F9EDC>復仇</color>生效時，使用近戰進攻的單位會在每次執行攻擊後受到和復仇所標示數值相等的傷害。",,,
+scenario_puzzle_7a_03,"當被這麼多的<color=#C53F3F>【精英】復生的骷髏</color>包圍時，在他們攻擊後造成的復仇傷害也非常可觀...當然，前提是你得在本回合中存活下來！
 
-另外，看看螢幕上方<b>岩石心</b>的頭像，你能看到來自於<color=#32E632><b>左右開弓</b></color>的<b>增益效果</b>仍在生效。這個<b>增益效果</b>的小方格可以快速提示你還剩幾次獎勵可以啟動，並且當你將滑鼠懸停在上面時可以進一步確認效果描述和經驗獲取的詳情。",,,
-scenario_puzzle_7a_07,"除此以外，你注意到<color=#C53F3F>【精英】復生的骷髏</color>們的護盾並沒有阻擋<b><link=""Glossary_Retaliate"">復仇</link></b>的傷害了嗎？就像陷阱一樣，<b><link=""Glossary_Retaliate"">復仇</link></b>傷害不視作是一次攻擊，並且造成的傷害數值和標示的一模一樣，不會被護盾、攻擊修正卡或是其他類似的效果影響。",,,
-scenario_puzzle_7a_08,現在，擊殺這些骷髏好讓我們離開這裡！,,,
-scenario_puzzle_7a_09,"別忘了你還有兩次來自於<color=#32E632><b>左右開弓</b></color>的<b><link=""Glossary_Retaliate"">復仇</link></b>啟動次數，因此你可以把它們的傷害也考慮進去。或者說還有什麼其他的方法能夠穿透敵人的護盾來直接擊敗這些骷髏呢？",,,
-scenario_puzzle_7a_10,幹得漂亮！儘管一開始看上去像是個不可完成的挑戰，但是如果你合理地使用卡，即便是最複雜的狀況你也能夠應對。,,,
-scenario_puzzle_7a_obj_01,在本回合中擊殺 <b>4</b> 個骷髏,,,
-scenario_puzzle_7a_obj_02,擊殺剩下的骷髏,,,
-scenario_puzzle_7b_01,"來認識下最後一位元新人，<b>心靈竊賊</b>。她不是很擅長硬碰硬，相對的，她擁有控制敵人行動和在戰場中<b><link=""Glossary_Summon"">召喚</link></b>盟友的能力。
+噢！還有一件事忘了說。大地元素已經充能完畢了，如果你想消耗元素來提升能力的話別忘了點擊<sprite name=ConsumeEarth>圖示來消耗這個元素！",,,
+scenario_puzzle_7a_04,我們已知其中一個動作要用來為你自身附加<color=#1F9EDC>復仇</color>，但是另一個動作你可以用來進行攻擊。<color=#32E632>雪崩</color>是個不錯的牌，尤其是你消耗大地元素來提升它的時候！,,,
+scenario_puzzle_7a_05,我們已知其中一個動作要用來為你自身附加<color=#1F9EDC>復仇</color>，但是另一個動作你可以用來進行攻擊。<color=#32E632>雪崩</color>是個不錯的牌，尤其是你消耗大地元素來提升它的時候！,,,
+scenario_puzzle_7a_06,"你受到了一些傷害，但是取得了不錯的成果！一個時機恰當的<color=#1F9EDC>復仇</color>一樣能成為毀滅性的力量。
 
-<b><link=""Glossary_Summon"">召喚物</link></b>會在它的召喚者輪次開始前自發地執行動作，並且每次都會執行一個<b>“<link=""Glossary_Move"">移動</link> X，<link=""Glossary_Attack"">攻擊</link> Y”</b>的行動，其中<b>X</b>和<b>Y</b>分別是它們所標示出來的基本屬性數值。",,,
-scenario_puzzle_7b_02,"正好<b>心靈竊賊</b>在討伐惡魔，你能夠見識一下更厲害的敵人 一 <b>惡夜惡魔</b>。
+另外，看看螢幕上方<color=#a06e4b>岩石心</color>的頭像，你能看到來自於<color=#32E632>左右開弓</color>的增益效果有一個小圖示。
+這個增益效果的小圖示可以快速提醒你還剩幾次效果可以觸發，並且當你將滑鼠滑入圖示時可以進一步確認效果描述和經驗獲取的狀況。",,,
+scenario_puzzle_7a_07,"除此以外，你注意到<color=#C53F3F>【精英】復生的骷髏</color>們的<color=#1F9EDC>護盾</color>並沒有阻擋<color=#1F9EDC>復仇</color>的傷害了嗎？
+就像陷阱一樣，<color=#1F9EDC>復仇</color>造成的傷害並不是來自於攻擊，而且會造成與標示數值相等的傷害，因此不會被<color=#1F9EDC>護盾</color>、攻擊修正卡或是其他類似的效果影響。",,,
+scenario_puzzle_7a_08,現在，擊殺這些<color=#C53F3F>【精英】復生的骷髏</color>好讓我們離開這裡！,,,
+scenario_puzzle_7a_09,"別忘了你還有兩次來自於<color=#32E632>左右開弓</color>的<color=#1F9EDC>復仇</color>次數，因此你可以把它們的傷害也考慮進去。
 
-這種恐怖生物擁有一個固有技能來讓攻擊方們在“以它們作為目標進行任何攻擊”時處於劣勢狀態狀態，這使得它們通常很難對付。也許你可以試試通過非攻擊的手段從而造成一些直接傷害來擊殺它們？",,,
+或者說還有什麼其他的方法能夠穿透敵人的<color=#1F9EDC>護盾</color>來直接擊敗這些<color=#C53F3F>【精英】復生的骷髏</color>呢？",,,
+scenario_puzzle_7a_10,幹得漂亮！儘管一開始看上去像是個不可能的任務，但如果你合理地使用能力卡，即便是最複雜的情況你也能夠冷靜應對！,,,
+scenario_puzzle_7a_obj_01,（本回合）擊殺 <b>4</b> 隻【精英】復生的骷髏,,,
+scenario_puzzle_7a_obj_02,擊殺剩下的【精英】復生的骷髏,,,
+scenario_puzzle_7b_01,"來認識一下最後一位角色 一 <color=#a06e4b>心靈竊賊</color>。
+她並不擅長硬碰硬，但相對的，她擁有控制敵人行動和在場上召喚盟友的能力。
+
+召喚物會在它的召喚者的輪次開始前自動行動，並且每次都會進行<color=#1F9EDC>前進</color><sprite name=Move> <b>X</b> 、<color=#1F9EDC>進攻</color><sprite name=Attack> <b>Y</b> 的能力，其中 <b>X</b> 和 <b>Y</b> 分別對應到它們所標示出來的基本屬性數值。",,,
+scenario_puzzle_7b_02,"正好<color=#a06e4b>心靈竊賊</color>在討伐<color=#C53F3F>惡夜惡魔</color>，你能夠見識一下更厲害的敵人 一 <color=#C53F3F>惡夜惡魔</color>。
+
+這種恐怖生物擁有一個天賦能力，讓攻擊方在以它們作為目標進行任何進攻時處於劣勢狀態，這使得它們通常很難對付。
+也許你可以試試通過非攻擊的手段從而造成一些直接傷害來擊殺它們？",,,
 scenario_puzzle_7b_03,"你本回合的目標為：
 <line-height=20%>
-<line-height=100%>→ <b><link=""Glossary_Summon"">召喚</link></b>一名盟友
-→ 擊殺一隻<b>惡夜惡魔</b>
+<line-height=100%>→ 召喚 <b>1</b> 名盟友
+→ 擊殺 <b>1</b> 隻<color=#C53F3F>惡夜惡魔</color>
 
-一個重要提示：當你和你的<b><link=""Glossary_Summon"">召喚物</link></b>距離相同時，敵人會優先專注於你的召喚物。好好利用這一點！",,,
-scenario_puzzle_7b_04,"使用<color=#32E632><b>齧噬部落</b></color>來召喚一個“鼠群”，它能協助你戰勝這些惡魔！",,,
-scenario_puzzle_7b_05,"雖然你的強推能力卡已經被<link=""Glossary_burn"">移除</link>了，但是或許有其他辦法來讓一個敵人強制前進到陷阱上來承受一些直接傷害？",,,
+一個重要提示：當你和你的召喚物距離相同時，敵人會優先盯上你的召喚物。好好利用這一點！",,,
+scenario_puzzle_7b_04,"使用<color=#32E632>齧噬部落</color>來召喚一個鼠群，它能協助你戰勝這些<color=#C53F3F>惡夜惡魔</color>！",,,
+scenario_puzzle_7b_05,"雖然你的強推能力卡已經被焚燒了，但是或許有其他辦法來讓一個敵人強制前進到陷阱上來承受一些直接性的傷害？",,,
 scenario_puzzle_7b_06,"你的最終目標為：
 <line-height=20%>
 <line-height=100%>→ 擊殺剩下的惡夜惡魔",,,
-scenario_puzzle_7b_07,"<b>心靈竊賊</b>還有一個特色是擁有一些帶有<b><link=""Glossary_Augment"">增強</link></b>技能的牌，比如<color=#32E632>凋零之爪</color>。
+scenario_puzzle_7b_07,"<color=#a06e4b>心靈竊賊</color>還有一個特色是擁有一些帶有<b><link=""Glossary_Augment"">增強</link></b>技能的牌，比如<color=#32E632>凋零之爪</color>。
 
-在這種技能啟動時，會在她的近戰進攻中提供<link=""Glossary_Persistent""><b>持續</b></link>buff，不過通常她只能同時啟動一個<b><link=""Glossary_Augment"">增強</link></b>技能。當處於<b><link=""Glossary_Augment"">增強</link></b>的啟動狀態時，這些增益會直接追加到攻擊行動中。",,,
+在這種技能啟動時，會在她的近戰進攻中提供持續buff，不過通常她只能同時啟動一個<b><link=""Glossary_Augment"">增強</link></b>技能。當處於<b><link=""Glossary_Augment"">增強</link></b>的啟動狀態時，這些增益會直接追加到攻擊行動中。",,,
 scenario_puzzle_7b_08,這些惡魔可真嚇人，交給你來處理，我先溜了。祝你好運！,,,
-scenario_puzzle_7b_09,"也許你可以利用陷阱來擊殺一隻惡夜惡魔，再和你的<b><link=""Glossary_Summon"">召喚物</link></b>一起攻擊另一個？",,,
+scenario_puzzle_7b_09,"也許你可以利用陷阱來擊殺一隻惡夜惡魔，再和你的召喚物一起攻擊另一個？",,,
 scenario_puzzle_7b_10,"我猜你現在也能自稱是一個<i>屠魔者</i>了？呃，怎麼說的來著...<i>獵魔者</i>？
 
 總之，重點是：做得不錯！",,,
-scenario_puzzle_7b_obj_01,在本回合中擊殺 <b>1</b> 隻惡夜惡魔,,,
-scenario_puzzle_7b_obj_02,在本回合中召喚 <b>1</b> 名盟友,,,
+scenario_puzzle_7b_obj_01,（本回合）擊殺 <b>1</b> 隻惡夜惡魔,,,
+scenario_puzzle_7b_obj_02,（本回合）召喚 <b>1</b> 名盟友,,,
 scenario_puzzle_7b_obj_03,擊殺剩下的惡夜惡魔,,,
 scenario_relic_ancientdrill_room_3_1,你在這個房間裡看見了一堆裝備，或許你正在尋找的鑽頭就在其中？,,,
 scenario_relic_ancientdrill_sm1_desc,所有敵人獲得護盾+1,,,

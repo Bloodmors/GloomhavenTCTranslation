@@ -401,7 +401,6 @@ abandonedcatacombs,Abandoned Catacombs
 abandonedfarm,Abandoned Farm
 abandonedfarm_descr,"An abandoned farm lies just off the main road from Keyport. The smell of woodsmoke lingers here, and much of the roof has collapsed, but a few of the rooms are still habitable for a night."
 ability_card_acceleratedend,Accelerated End
-ability_card_aidfromtheaether,Aid From the Ether
 ability_card_airbornetoxin,Airborne Toxin
 ability_card_amomentspeace,A Moment's Peace
 ability_card_amputate,Amputate
@@ -409,12 +408,9 @@ ability_card_ancientward,Ancient Ward
 ability_card_angelicascension,Angelic Ascension
 ability_card_angelofdeath,Angel of Death
 ability_card_armorofthenight,Armor of the Night
-ability_card_autoturret,Auto Turret
 ability_card_avalanche,Avalanche
-ability_card_backstab,Backstab
 ability_card_backupammunition,Backup Ammunition
 ability_card_bagofholding,Bag of Holding
-ability_card_balancedmeasure,Balanced Measure
 ability_card_banefulhex,Baneful Hex
 ability_card_battlefieldmedicine,Battlefield Medicine
 ability_card_beaconoflight,Beacon of Light
@@ -423,54 +419,43 @@ ability_card_bitinggnats,Biting Gnats
 ability_card_bitingwind,Biting Wind
 ability_card_blackarrow,Black Arrow
 ability_card_blackfire,Black Fire
-ability_card_blackhole,Black Hole
 ability_card_blackknives,Black Knives
 ability_card_blacktides,Black Tides
 ability_card_bladedboomerang,Bladed Boomerang
 ability_card_blinddestruction,Blind Destruction
 ability_card_blisteringvortex,Blistering Vortex
 ability_card_bloodhunger,Blood Hunger
-ability_card_bloodpact,Blood Pact
 ability_card_bloodtransfusion,Blood Transfusion
 ability_card_bloodysaw,Bloody Saw
 ability_card_bluntforce,Blunt Force
 ability_card_boilingarc,Boiling Arc
 ability_card_bondedmight,Bonded Might
-ability_card_bonebreaker,Bone Breaker
 ability_card_boomingproclamation,Booming Proclamation
 ability_card_boostershot,Booster Shot
 ability_card_borrowedessence,Borrowed Essence
 ability_card_bounceback,Bounce Back
 ability_card_brainleech,Brain Leech
-ability_card_breakthechains,Break the Chains
 ability_card_brightaegis,Bright Aegis
 ability_card_brilliantflash,Brilliant Flash
 ability_card_brilliantprayer,Brilliant Prayer
 ability_card_brutalmomentum,Brutal Momentum
-ability_card_bruteforce,Brute Force
 ability_card_burial,Burial
 ability_card_burningflash,Burning Flash
-ability_card_burninghatred,Burning Hatred
-ability_card_burningoil,Burning Oil
+ability_card_burningoil,Burning Hatred
 ability_card_calltoaction,Call to Action
 ability_card_camouflage,Camouflage
 ability_card_captivatingperformance,Captivating Performance
-ability_card_carelesscharge,Careless Charge
 ability_card_cataclysm,Cataclysm
 ability_card_catastrophicbomb,Catastrophic Bomb
-ability_card_cauterize,Cauterize
 ability_card_cautiousadvance,Cautious Advance
 ability_card_chainlightning,Chain Lightning
 ability_card_changetempo,Change Tempo
 ability_card_chimericformula,Chimeric Formula
-ability_card_chromaticexplosion,Chromatic Explosion
 ability_card_clawsofthenight,Claws of the Night
 ability_card_cleansingforce,Cleansing Force
 ability_card_cleartheway,Clear the Way
 ability_card_cleavingaxe,Cleaving Axe
 ability_card_cloakofshade,Cloak of Shade
-ability_card_coldfire,Cold Fire
-ability_card_coldfront,Cold Front
 ability_card_commandingpresence,Commanding Presence
 ability_card_concealeddominance,Concealed Dominance
 ability_card_concentratedrage,Concentrated Rage
@@ -478,16 +463,13 @@ ability_card_conjuredaid,Conjured Aid
 ability_card_continualsupply,Continual Supply
 ability_card_converttheflock,Convert the Flock
 ability_card_corruptingembrace,Corrupting Embrace
-ability_card_cracklingair,Crackling Air
 ability_card_craniumoverload,Cranium Overload
-ability_card_crankbow,Crank Bow
 ability_card_crashingwave,Crashing Wave
 ability_card_crater,Crater
 ability_card_creepingcurse,Creeping Curse
 ability_card_cripplingbow,Crippling Bow
 ability_card_cripplingchorus,Crippling Chorus
 ability_card_cripplingnoose,Crippling Noose
-ability_card_cripplingoffensive,Crippling Offensive
 ability_card_cripplingpoison,Crippling Poison
 ability_card_crushinggrasp,Crushing Grasp
 ability_card_crushinghammer,Crushing Hammer
@@ -505,15 +487,12 @@ ability_card_dazingwound,Dazing Wound
 ability_card_dazzlingcharge,Dazzling Charge
 ability_card_defensiveditty,Defensive Ditty
 ability_card_defensivestance,Defensive Stance
-ability_card_defensivetactics,Defensive Tactics
 ability_card_defianceofdeath,Defiance of Death
 ability_card_detonation,Detonation
-ability_card_devastatinghack,Devastating Hack
 ability_card_devilhorns,Devil Horns
 ability_card_digpit,Dig Pit
 ability_card_dirttornado,Dirt Tornado
 ability_card_disappearingwounds,Disappearing Wounds
-ability_card_disintegrationbeam,Disintegration Beam
 ability_card_disorientingdirge,Disorienting Dirge
 ability_card_disorientingflash,Disorienting Flash
 ability_card_disorientingroar,Disorienting Roar
@@ -528,16 +507,13 @@ ability_card_earthenspikes,Earthen Spikes
 ability_card_earthensteed,Earthen Steed
 ability_card_echoingaria,Echoing Aria
 ability_card_elementalaegis,Elemental Aegis
-ability_card_elementalaid,Elemental Aid
-ability_card_empatheticassault,Empathetic Assault
 ability_card_empoweringcommand,Empowering Command
 ability_card_empoweringvoid,Empowering Void
 ability_card_encompassingshadow,Encompassing Shadow
 ability_card_endlessspikes,Endless Spikes
 ability_card_energizingstrike,Energizing Strike
-ability_card_energizingtonic,Energizing Tonic
+ability_card_energizingtonic,Energizing Strike
 ability_card_enervatingwound,Enervating Wound
-ability_card_engulfedinflames,Engulfed in Flames
 ability_card_engulfingradiance,Engulfing Radiance
 ability_card_enhancementfield,Enhancement Field
 ability_card_epidemic,Epidemic
@@ -547,125 +523,84 @@ ability_card_etherealvines,Ethereal Vines
 ability_card_euthanize,Euthanize
 ability_card_explosivepunch,Explosive Punch
 ability_card_expose,Expose
-ability_card_eyeforaneye,Eye for an Eye
 ability_card_eyeofthehurricane,Eye of the Hurricane
 ability_card_eyesofthenight,Eyes of the Night
-ability_card_faceyourend,Face Your End
-ability_card_fataladvance,Fatal Advance
-ability_card_fatalfury,Fatal Fury
-ability_card_fearsomeblade,Fearsome Blade
+
 ability_card_feedbackloop,Feedback Loop
 ability_card_fellingswoop,Felling Swoop
 ability_card_feralinstincts,Feral Instincts
 ability_card_fetidflurry,Fetid Flurry
-ability_card_finalfight,Final Fight
-ability_card_fireorbs,Fire Orbs
-ability_card_firstaid,First Aid
-ability_card_flamestrike,Flame Strike
-ability_card_flamethrower,Flamethrower
-ability_card_flankingstrike,Flanking Strike
-ability_card_flashingburst,Flashing Burst
 ability_card_flightofflame,Flight of Flame
 ability_card_flintlock,Flintlock
-ability_card_flurryofaxes,Flurry of Axes
 ability_card_flurryofblades,Flurry of Blades
 ability_card_focusedaggression,Focused Aggression
 ability_card_footsnare,Foot Snare
 ability_card_forcefulstorm,Forceful Storm
 ability_card_forcefulswipe,Forceful Swipe
 ability_card_forgedferocity,Forged Ferocity
-ability_card_forkedbeam,Forked Beam
 ability_card_formlesspower,Formless Power
 ability_card_fortifiedposition,Fortified Position
 ability_card_foulwind,Foul Wind
-ability_card_freezingnova,Freezing Nova
-ability_card_frenziedonslaught,Frenzied Onslaught
 ability_card_freshkill,Fresh Kill
 ability_card_frighteningcurse,Frightening Curse
 ability_card_frigidapparition,Frigid Apparition
 ability_card_frigidtorrent,Frigid Torrent
 ability_card_fromthebrink,From the Brink
-ability_card_frostarmor,Frost Armor
 ability_card_frozenmind,Frozen Mind
-ability_card_frozennight,Frozen Night
-ability_card_furiousaid,Furious Aid
-ability_card_gascanister,Gas Canister
 ability_card_gatheringdoom,Gathering Doom
 ability_card_gentlemansanger,Gentleman's Anger
 ability_card_giantclub,Giant Club
-ability_card_glasshammer,Glass Hammer
 ability_card_gloomdarts,Gloom Darts
 ability_card_gloriousbolt,Glorious Bolt
-ability_card_gnawinghorde,Gnawing Horde
-ability_card_grabandgo,Grab and Go
+
 ability_card_graspingthevoid,Grasping the Void
 ability_card_graspingvermin,Grasping Vermin
 ability_card_gravelvortex,Gravel Vortex
 ability_card_grimbargain,Grim Bargain
 ability_card_grimsustenance,Grim Sustenance
 ability_card_grislytrauma,Grisly Trauma
-ability_card_growingrage,Growing Rage
 ability_card_gruesomeadvantage,Gruesome Advantage
 ability_card_hammerblow,Hammer Blow
 ability_card_hamstring,Hamstring
 ability_card_handofthesurgeon,Hand of the Surgeon
-ability_card_hardenedspikes,Hardened Spikes
-ability_card_harmlesscontraption,Harmless Contraption
-ability_card_harshstimulants,Harsh Stimulants
 ability_card_hastenedstep,Hastened Step
 ability_card_heavingswing,Heaving Swing
 ability_card_hiddendaggers,Hidden Daggers
 ability_card_holdbackthepain,Hold Back the Pain
 ability_card_holystrike,Holy Strike
-ability_card_hookandchain,Hook and Chain
-ability_card_hookgun,Hook Gun
 ability_card_hornedmajesty,Horned Majesty
 ability_card_hostiletakeover,Hostile Takeover
 ability_card_howlingbolts,Howling Bolts
 ability_card_icespikes,Ice Spikes
-ability_card_icyblast,Icy Blast
 ability_card_illuminatethetarget,Illuminate the Target
-ability_card_immortality,Immortality
-ability_card_immovablephalanx,Immovable Phalanx
-ability_card_impalingeruption,Impaling Eruption
 ability_card_impalingspear,Impaling Spear
 ability_card_impendingend,Impending End
 ability_card_inescapablefate,Inescapable Fate
 ability_card_inexorablemomentum,Inexorable Momentum
 ability_card_infernalvortex,Infernal Vortex
-ability_card_inferno,Inferno
-ability_card_inkbomb,Ink Bomb
 ability_card_inspiringanthem,Inspiring Anthem
 ability_card_inspiringsanctity,Inspiring Sanctity
 ability_card_interplanarmastery,Interplanar Mastery
 ability_card_interveningapparitions,Intervening Apparitions
-ability_card_intothenight,Into The Night
+
 ability_card_ironbulwark,Iron Bulwark
 ability_card_jawsofdeath,Jaws of Death
-ability_card_jetpropulsion,Jet Propulsion
-ability_card_juggernaut,Juggernaut
 ability_card_kineticassault,Kinetic Assault
-ability_card_kingofthehill,King of the Hill
 ability_card_largemedicalpack,Large Medical Pack
 ability_card_lashout,Lash Out
 ability_card_lavaeruption,Lava Eruption
 ability_card_layonhands,Lay on Hands
 ability_card_leadtoslaughter,Lead to Slaughter
-ability_card_leapingcleave,Leaping Cleave
 ability_card_leatherywings,Leathery Wings
-ability_card_lethalinjection,Lethal Injection
 ability_card_livingmountain,Living Mountain
 ability_card_livingnight,Living Night
-ability_card_livingtorch,Living Torch
 ability_card_longcon,Long Con
-ability_card_longrest,Long Rest
 ability_card_lumberingbash,Lumbering Bash
 ability_card_lurkingruin,Lurking Ruin
 ability_card_malleableevocation,Malleable Evocation
-ability_card_manabolt,Mana Bolt
 ability_card_manyasone,Many As One
 ability_card_marchingbeat,Marching Beat
-ability_card_massextinction,Mass Extinction
+ability_card_massextinction,Marching Beat
 ability_card_masshysteria,Mass Hysteria
 ability_card_massiveboulder,Massive Boulder
 ability_card_masterphysician,Master Physician
@@ -673,43 +608,32 @@ ability_card_maul,Maul
 ability_card_medicalpack,Medical Pack
 ability_card_melodyandharmony,Melody and Harmony
 ability_card_meteor,Meteor
-ability_card_microbots,Micro Bots
 ability_card_mightybond,Mighty Bond
 ability_card_mobileresponse,Mobile Response
 ability_card_mobilizingaxiom,Mobilizing Axiom
 ability_card_mobilizingmeasure,Mobilizing Measure
 ability_card_multiprongedassault,Multi-Pronged Assault
-ability_card_murderouscontraption,Murderous Contraption
 ability_card_naturalremedy,Natural Remedy
 ability_card_natureshunger,Nature's Hunger
 ability_card_natureslift,Nature's Lift
 ability_card_negativeenergy,Negative Energy
-ability_card_netshooter,Net Shooter
 ability_card_nightfall,Nightfall
 ability_card_nightmareserenade,Nightmare Serenade
 ability_card_nightmarishaffliction,Nightmarish Affliction
 ability_card_nimbleknife,Nimble Knife
-ability_card_noxiousvials,Noxious Vials
-ability_card_numbthepain,Numb the Pain
 ability_card_obsidianshards,Obsidian Shards
 ability_card_oozingmanifestation,Oozing Manifestation
 ability_card_openwound,Open Wound
 ability_card_opposingstrike,Opposing Strike
 ability_card_otherworldlyrage,Otherworldly Rage
 ability_card_oversizedpack,Oversized Pack
-ability_card_overwhelmingassault,Overwhelming Assault
 ability_card_painsend,Pain's End
 ability_card_paralyzingbite,Paralyzing Bite
-ability_card_parasiticinfluence,Parasitic Influence
 ability_card_patchfur,Patch Fur
-ability_card_pathofglory,Path of Glory
-ability_card_perverseedge,Perverse Edge
-ability_card_petrify,Petrify
 ability_card_phantasmalkiller,Phantasmal Killer
 ability_card_pilfer,Pilfer
 ability_card_portableballista,Portable Ballista
 ability_card_possession,Possession
-ability_card_potentpotables,Potent Potables
 ability_card_powerballad,Power Ballad
 ability_card_practicalplans,Practical Plans
 ability_card_pragmaticreinforcement,Pragmatic Reinforcement
@@ -725,38 +649,29 @@ ability_card_primalduality,Primal Duality
 ability_card_proficiency,Proficiency
 ability_card_protectiveblessing,Protective Blessing
 ability_card_provoketerror,Provoke Terror
-ability_card_provokingroar,Provoking Roar
-ability_card_proximitymine,Proximity Mine
 ability_card_psychicprojection,Psychic Projection
 ability_card_pullthestrings,Pull the Strings
 ability_card_pulverize,Pulverize
 ability_card_punchthrough,Punch Through
 ability_card_pureaugmentation,Pure Augmentation
 ability_card_purifyingaura,Purifying Aura
-ability_card_quickhands,Quick Hands
 ability_card_quietfrenzy,Quiet Frenzy
-ability_card_quietus,Quietus
 ability_card_quiverofarrows,Quiver of Arrows
 ability_card_racetothegrave,Race to the Grave
 ability_card_rainofarrows,Rain of Arrows
 ability_card_rampage,Rampage
 ability_card_rawenhancement,Raw Enhancement
-ability_card_recklessoffensive,Reckless Offensive
 ability_card_reforge,Reforge
 ability_card_refreshment,Refreshment
 ability_card_regenerativetissue,Regenerative Tissue
 ability_card_reinforcedsteel,Reinforced Steel
-ability_card_reinvigoratingelixir,Reinvigorating Elixir
 ability_card_relentlessally,Relentless Ally
 ability_card_relentlessoffensive,Relentless Offensive
 ability_card_researchthecure,Research the Cure
 ability_card_reservedenergy,Reserved Energy
-ability_card_resolutestand,Resolute Stand
 ability_card_restock,Restock
 ability_card_restorativemist,Restorative Mist
-ability_card_revivingether,Reviving Ether
 ability_card_revivingshock,Reviving Shock
-ability_card_ridethewind,Ride the Wind
 ability_card_righteousstrength,Righteous Strength
 ability_card_risingmomentum,Rising Momentum
 ability_card_rockslide,Rock Slide
@@ -767,21 +682,11 @@ ability_card_rumblingadvance,Rumbling Advance
 ability_card_saplife,Sap Life
 ability_card_scalesofjustice,Scales of Justice
 ability_card_scatteredterror,Scattered Terror
-ability_card_scrollofannihilation,Scroll of Annihilation
-ability_card_scrollofblizzards,Scroll of Blizzards
-ability_card_scrollofjudgment,Scroll of Judgment
-ability_card_scrolloflightning,Scroll of Lightning
-ability_card_scrollofrecall,Scroll of Recall
-ability_card_scurry,Scurry
-ability_card_seeingred,Seeing Red
-ability_card_selfishretribution,Selfish Retribution
 ability_card_sentientgrowth,Sentient Growth
 ability_card_shadowpuppets,Shadow Puppets
 ability_card_shapingtheaether,Shaping the Ether
 ability_card_sharednightmare,Shared Nightmare
 ability_card_sharpeningkit,Sharpening Kit
-ability_card_shieldbash,Shield Bash
-ability_card_shinydistraction,Shiny Distraction
 ability_card_sidepouch,Side Pouch
 ability_card_silentforce,Silent Force
 ability_card_silentscream,Silent Scream
@@ -790,84 +695,53 @@ ability_card_singingarrow,Singing Arrow
 ability_card_singleout,Single Out
 ability_card_singularfocus,Singular Focus
 ability_card_sinisteropportunity,Sinister Opportunity
-ability_card_skewer,Skewer
-ability_card_skirmishingmaneuver,Skirmishing Maneuver
-ability_card_smokebomb,Smoke Bomb
-ability_card_smokestep,Smoke Step
 ability_card_soaringally,Soaring Ally
-ability_card_solidbow,Solid Bow
 ability_card_songofspeed,Song of Speed
 ability_card_soothinglullaby,Soothing Lullaby
-ability_card_soulfire,Soulfire
-ability_card_sparedagger,Spare Dagger
-ability_card_specialmixture,Special Mixture
-ability_card_spikedarmor,Spiked Armor
-ability_card_spiritofdoom,Spirit of Doom
 ability_card_spiritofthenight,Spirit of the Night
 ability_card_spiritswap,Spirit Swap
 ability_card_spreadingscourge,Spreading Scourge
 ability_card_spreadtheplague,Spread the Plague
 ability_card_springthetrap,Spring the Trap
 ability_card_staffofvisions,Staff of Visions
-ability_card_staminabooster,Stamina Booster
 ability_card_sticktotheshadows,Stick to the Shadows
 ability_card_stilettostorm,Stiletto Storm
 ability_card_stingingcloud,Stinging Cloud
 ability_card_stokinghail,Stoking Hail
-ability_card_stonefists,Stone Fists
 ability_card_stonepummel,Stone Pummel
 ability_card_stonesigil,Stone Sigil
 ability_card_stormofwings,Storm of Wings
 ability_card_stormsigil,Storm Sigil
-ability_card_strengthinagony,Strength in Agony
 ability_card_strengthinnumbers,Strength in Numbers
-ability_card_stunshot,Stun Shot
-ability_card_submissiveaffliction,Submissive Affliction
+
 ability_card_succumbtothegift,Succumb to the Gift
 ability_card_supportivechant,Supportive Chant
 ability_card_surgeonssatchel,Surgeon's Satchel
 ability_card_swallowedbyfear,Swallowed by Fear
-ability_card_sweepingblow,Sweeping Blow
-ability_card_swiftbow,Swift Bow
 ability_card_swifttrickery,Swift Trickery
-ability_card_syringe,Syringe
 ability_card_tacticalorder,Tactical Order
-ability_card_teamwork,Teamwork
 ability_card_tearthefabric,Tear the Fabric
 ability_card_terrorblade,Terror Blade
 ability_card_thehuntbegins,The Hunt Begins
-ability_card_themawofmadness,The Maw of Madness
-ability_card_themindsweakness,The Mind's Weakness
-ability_card_thiefsknack,Thief's Knack
-ability_card_throwingknives,Throwing Knives
 ability_card_throwvoice,Throw Voice
-ability_card_tinkererstools,Tinkerer's Tools
-ability_card_toxicbolt,Toxic Bolt
-ability_card_trample,Trample
 ability_card_tranquiltrill,Tranquil Trill
 ability_card_tremulantcyclone,Tremulant Cyclone
 ability_card_triage,Triage
 ability_card_tribalsigil,Tribal Sigil
 ability_card_trickstersreversal,Trickster's Reversal
 ability_card_tuningtheoutcome,Tuning the Outcome
-ability_card_twinrestoration,Twin Restoration
 ability_card_tyrannicalforce,Tyrannical Force
-ability_card_unbridledpower,Unbridled Power
 ability_card_undertheskin,Under the Skin
 ability_card_unendingchant,Unending Chant
 ability_card_unendingdominance,Unending Dominance
 ability_card_unseendread,Unseen Dread
 ability_card_unstableupheaval,Unstable Upheaval
-ability_card_unstoppablebeast,Unstoppable Beast
 ability_card_unstoppablecharge,Unstoppable Charge
-ability_card_unstoppabledestruction,Unstoppable Destruction
 ability_card_unwaveringhand,Unwavering Hand
 ability_card_unwaveringmandate,Unwavering Mandate
 ability_card_vaccine,Vaccine
 ability_card_vengeance,Vengeance
-ability_card_vengefulbarrage,Vengeful Barrage
 ability_card_venomousally,Venomous Ally
-ability_card_venomshiv,Venom Shiv
 ability_card_viciousally,Vicious Ally
 ability_card_viciousblood,Vicious Blood
 ability_card_vilepestilence,Vile Pestilence
@@ -876,15 +750,11 @@ ability_card_visageoftheinevitable,Visage of the Inevitable
 ability_card_vitalcharge,Vital Charge
 ability_card_vitalstrike,Vital Strike
 ability_card_voiceofthenight,Voice of the Night
-ability_card_volatileconcoction,Volatile Concoction
 ability_card_volatileconsumption,Volatile Consumption
 ability_card_volatileflame,Volatile Flame
-ability_card_wallofdoom,Wall of Doom
 ability_card_wardingdagger,Warding Dagger
-ability_card_wardingstrength,Warding Strength
 ability_card_watchitburn,Watch It Burn
 ability_card_weaponofpurity,Weapon of Purity
-ability_card_whirlwind,Whirlwind
 ability_card_wildanimation,Wild Animation
 ability_card_wildcommand,Wild Command
 ability_card_willingsacrifice,Willing Sacrifice
@@ -892,10 +762,9 @@ ability_card_wingedcongregation,Winged Congregation
 ability_card_wingsofthenight,Wings of the Night
 ability_card_wintersedge,Winter's Edge
 ability_card_wistfulwounding,Wistful Wounding
-ability_card_witheringclaw,Withering Claw
+
 ability_card_wretchedcreature,Wretched Creature
 ability_card_wretchedswarm,Wretched Swarm
-ability_card_zephyrwings,Zephyr Wings
 add,Add
 addaugment,Add Augment
 addheal,Add Heal
