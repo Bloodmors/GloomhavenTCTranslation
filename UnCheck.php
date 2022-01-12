@@ -37,7 +37,7 @@
 060_t,一名與你相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>至多兩張燒牌堆的卡牌，然後他們燒祭兩張牌。
 062_t,此外，指定所有在<nobr>主要目標路徑</nobr>上的敵人為目標。
 063_t,<nobr>回收<sprite name=Recover></nobr>所有你<nobr>燒牌堆的卡牌</nobr>。
-066_b,<nobr>免疫</nobr>接下來受到的兩次傷害。
+
 069_t_1,在你接下來的四次攻擊中，<nobr>附加 +*TActive* 攻擊力<sprite name=Attack>。</nobr>
 069_t_1_alt,在你接下來的四次攻擊中，<nobr>附加+2攻擊力<sprite name=Attack>。</nobr>
 069_t_2,則獲得+2攻擊力<sprite name=Attack>。
@@ -64,7 +64,7 @@
 097_b_2,由你操控行動，並停留在一個與你相鄰的格子。
 097_t_1,每一個與目標相鄰的盟友使你獲得<nobr>+1攻擊力<sprite name=Attack>。</nobr>
 097_t_2,則獲得<nobr>+2攻擊力<sprite name=Attack>，</nobr><sprite name=XP1>
-098_b,本回合中，免疫下一次你即將受到的傷害。
+
 098_t,附加+X攻擊力<sprite name=Attack>，其中X是目標護盾值的兩倍。
 099_b,拾取<sprite name=Loot>每一個你通過此行動經過的格子。
 100_t,當目標與<nobr>你的盟友</nobr>相鄰時，附加流血<sprite name=Wound>並獲得<sprite name=XP1>。
@@ -149,7 +149,7 @@
 178_t_1,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>兩張他棄牌堆的卡牌。
 178_t_2,則至多三張棄牌堆的卡牌，<sprite name=XP1>。
 179_b,本回合，你和所有相鄰的盟友不受任何傷害。
-184_b,從你的所有移動行動中扣除-1移動力<sprite name=Move>。
+184_b,從你的所有移動行動中扣除-1前進<sprite name=Move>。
 185_t,治療一名<nobr>相鄰盟友</nobr>所受的所有傷害。
 187_b,<line-height=110%>在接下來你的五個行動輪結束時，如果<size=150%><voffset=-3><sprite name=Light></voffset></size>不處於激發狀態，充能<size=150%><voffset=-3><sprite name=Light></voffset></size>。
 190_t,一名相鄰的盟友可以立即執行一個額外的行動輪來打出手牌中的兩張卡牌。
@@ -4069,7 +4069,7 @@ quest_campaign_036_intro_travel_4,"你們正艱難地爬上了元力位面的懸
 “這是最糟糕的事態了，”他在聽取了你們的解釋後說，“你們的行為會為這座城市帶來災難，但萬幸的是你們還有機會挽救一切。”"
 quest_campaign_036_list,擊退邪惡
 quest_campaign_036_name,黯淡港灣城垛 B
-quest_campaign_036_scenario_modifier_1,當門被摧毀時，惡魔領主將會生成在場上。若在第8回合結束時門還未被摧毀，則門會被強制摧毀。
+quest_campaign_036_scenario_modifier_1,當門被摧毀時，惡魔領主將會生成在場地上。若在第8回合結束時門還未被摧毀，則門會被強制摧毀。
 quest_campaign_036_scenario_modifier_2,惡魔領主在生成時將會受到傷害。門存活的越久，惡魔領主受到的傷害越高。
 quest_campaign_037_desc,找出神器與這裡連結的原因
 quest_campaign_037_intro,"你們盯著黑爾在地圓上所標出的第一個地點。它位於迷霧之海的萬丈波濤之下。當然了，她都這麼說了，你們也只能去做了。
@@ -6072,7 +6072,7 @@ glossary_any,元素充能 - 任意元素：用你選擇的元素充滿戰場，�
 glossary_attack,攻擊：“攻擊 X”技能卡使得單位以基礎值X去攻擊射程內的一個敵人。
 glossary_attackdefault,基礎進攻：放棄使用卡牌的上半區行動，並進行一個“攻擊 2”的行動。此行動依然棄牌。
 glossary_attackersgaindisadvantage,攻擊者陷入劣勢進攻：任意針對這名單位的攻擊將陷入劣勢進攻。
-glossary_augment,心靈竊賊特效賦能：無論何時心靈竊賊進行近戰進攻時，場上的角色特效攻擊將被使用。
+glossary_augment,心靈竊賊特效賦能：無論何時心靈竊賊進行近戰進攻時，場地上的角色特效攻擊將被使用。
 glossary_aura,光環：“光環”的效果僅當它的目標在光環射程範圍內被啟動。如果移動出光環的射程範圍，光環外的目標們將失去被賦予的任何效果。
 glossary_bless,祝福：被祝福的單位添加一張祝福(x2)卡進入他們的攻擊修正卡堆。當被抽後，攻擊造成雙倍傷害，並且這張祝福(x2)卡從攻擊修正卡堆移除。
 glossary_command,獸王特效口令：帶“口令”的行動使得獸王的熊而非獸王釋放技能卡。
@@ -6163,7 +6163,7 @@ glossary_round,回合效果獎勵：表示這個效果持續到回合結束。
 glossary_self,這個技能卡的目標為單位自身。
 glossary_shield,護甲：所有打在有護甲的單位身上的攻擊減少X點。多個護甲效果將會疊加。護甲效果只能應用於“攻擊”技能傷害，即不能阻止其它形式的傷害。
 glossary_sleep,睡眠：睡眠的單位不能在這一輪釋放任何技能，也不能使用任何物品。當任何非盟友單位傷害、被放置一個負面狀態、移動終點在睡眠單位旁邊時，睡眠狀態被移除。 單位仍必須在本輪次選擇兩張卡牌或選擇休息，當然行動不起作用，卡牌被直接棄置。長休息將如常進行。除非被單位直接控制，單位的召喚物和盟友將不攻擊睡眠的目標。當醒來後，單位將按規則行動，好像剛剛出生一樣。
-glossary_song,戰歌：場上的戰歌效果將被持續，直到另一首戰歌牌被打出。
+glossary_song,戰歌：場地上的戰歌效果將被持續，直到另一首戰歌牌被打出。
 glossary_stopflying,不能飛行：單位不能再飛行。
 glossary_strengthen,強化：被強化地單位在他們的所有攻擊中獲得攻擊優勢。強化狀態在被施法單位下一輪次結束時被移除。
 glossary_stun,暈眩：一個暈眩的單位不能在他的輪次使用任何技能或者物品。 暈眩狀態在被施法單位的下一輪結束時被移除。單位仍必須在本輪次選擇兩張卡牌或選擇休息，當然行動不起作用，卡牌被直接棄置。長休息將如常進行。
@@ -6257,7 +6257,7 @@ gui_assembly_party_reveal_character,揭曉雇傭兵
 gui_assembly_party_select_hero_tip,選擇任一可用的雇傭兵，將其添加他們到團隊中，或進一步的詳細資訊查看其技能卡清單
 gui_assembly_party_select_hero_tip_title,添加角色
 gui_assembly_party_start,你準備好開始了！
-gui_assembly_party_tip,一個玩家團隊至少需要2個雇傭兵才能開始冒險
+
 gui_attack_modifiers_description,執行一張攻擊技能卡時，為每個目標單獨使用攻擊修正卡
 gui_begin,開始
 gui_bind_equip_item_confirmation,"<color=#C53F3F>解綁的花費：</color><color=#FCC954><sprite name=""Gold_Icon_White"" color=#FCC954>{0}</color>"
@@ -6320,7 +6320,7 @@ gui_confirm_action,確認行動
 
 
 
-gui_confirmation_cancel_ability,{0}將被燒祭，此卡中的任何其他場上的卡牌獎勵將結束
+gui_confirmation_cancel_ability,{0}將被燒祭，此卡中的任何其他場地上的卡牌獎勵將結束
 gui_confirmation_cancel_discard_ability,{0}將被棄置
 gui_confirmation_enable_perk,獲得{0}個{1}/{2}
 gui_confirmation_enable_perk_warning,一旦應用，就無法移除一個專精項目
@@ -6733,7 +6733,7 @@ gui_objective_loot_x_win_filtered,撿到{0} 個{1}勝利
 gui_objective_reach_position_lose,如果{0}敵人到達地牢出口，則失敗
 gui_objective_reach_position_win,帶著{0}名雇傭兵到達地牢出口
 gui_objective_reach_round_lose,遊戲進行到第{0}回合，則失敗
-gui_objective_reach_round_win,存活至少{0}回合
+
 gui_ok,好的
 gui_on_attack_conditions_title,On-攻擊條件
 gui_on_death_adjacent,On death: 進攻<sprite name=Attack> {0}。針對所有鄰近的敵人。
@@ -6912,7 +6912,7 @@ gui_tooltip_consuming_clicked,這一行動將被元素增強。可點擊右邊�
 gui_tooltip_consuming_disabled,該行動可以通過消耗元素來增強。您只能在角色輪次期間並且已經充能了所需的元素時執行此行動。
 gui_tooltip_consuming_unavailable,該行動可以通過消耗元素來增強。首先，使用某些行動來充能所需的元素。
 gui_tooltip_deal_damage_companion,選擇對{0}的傷害結算方式，燒祭一張{1}的手牌或著兩張棄牌堆的卡牌。
-gui_tooltip_deal_damage_mandatory_use,如果傷害持續，必須使用。
+
 gui_tooltip_deal_damage_mp,{0}不得不選擇如何承受傷害。
 gui_tooltip_distribute_health,重新分配來自自己和召喚夥伴的傷害。
 gui_tooltip_element_inert,目前沒有任何元素可供使用。元素可以使用某些操作來充能。
@@ -7229,9 +7229,7 @@ message_complete_achievement_1_5_unlocklocations_1,做的很好！所有荒涼�
 message_complete_achievement_1_5_unlocklocations_2,看起來邊境的村莊已經團結起來準備獎勵我們一大筆金幣了！
 
 
-message_end_quest_story_6a_1,只有一條路需要被清理了，到那時我就能重新與足夠的供應商取得聯繫，讓我的商店重新營業！我相信你等不及想買點牛逼的裝備了。
-message_end_quest_story_6a_2,有些振奮人心的好消息！隨著你核心訓練接近尾聲，我希望你充分瞭解了不同的能力和效果如何相互影響。接下來的任務中你肯定需要些高科技的東西！
-message_end_quest_story_6a_3,無論如何，我為公會找到了可能的第五名傭兵，如果你能說服他加入的話。這傢伙有石拳，沒錯！就是字面上的意思！
+
 message_end_quest_story_7a_1,<b>岩石心</b>加入了——這是我們招募的第五位傭兵！我估計我們再拉一個入夥就足夠我們接一些離惡魔閘口鎮很遠的任務了。
 message_end_quest_story_7a_2,你懂的，如果我們能找到在戰場上召喚盟友的人，那就像我們一下有了很多人一樣！我知道有些魔鼠對處理他們獸性的同胞相當精通。
 message_end_quest_story_7a_3,魔鼠？你說我們要招募一個魔鼠？
@@ -8024,7 +8022,7 @@ quest_story_brute_1_list,和一個老朋友在薩默特地區附近進行日常�
 quest_story_brute_1_name,老夥計們
 quest_story_brute_1_reward,解鎖蠻徒故事線任務
 quest_story_brute_2_desc,斯甘威一直忙於搜尋有關羚牛族叛徒的資訊，在黃銅綠洲附近的營地與他見面。
-quest_story_brute_2_intro,你抵達了魔鼠村莊，在篝火旁遇到了斯甘威。他向你招了招手，並表示他的魔鼠哨兵在鷹山頂北部發現一群羚牛族入侵者正在集結，他們身上的標記和襲擊你的人一樣。他還沒來得及告訴你更多細節，號角就被吹響了：村莊正在遭受攻擊。看起來他的調查反而讓羚牛族找到了他的營地！
+quest_story_brute_2_intro,你抵達了魔鼠村莊，在篝火旁遇到了斯甘威。他向你招了招手，並表示他的魔鼠偵察兵在鷹山頂北部發現一群羚牛族入侵者正在集結，他們身上的標記和襲擊你的人一樣。他還沒來得及告訴你更多細節，號角就被吹響了：村莊正在遭受攻擊。看起來他的調查反而讓羚牛族找到了他的營地！
 quest_story_brute_2_list,斯甘威持有關於羚牛族叛徒的資訊
 quest_story_brute_2_name,魔鼠村
 quest_story_brute_3_desc,是時候搞清楚叛徒的偉大計畫是什麼了。此時他正在忙著集結他的部隊，根據情報你要前往附近的一個地穴。
@@ -8442,11 +8440,9 @@ quest_travel_thehole_desc,去薩維斯聲稱要去的那座死火山。
 quest_travel_thehole_intro,當你離開夏井地時，村民們正在清掃人行道上最後的雪泥，你想知道在經歷了這場暴雪後，這座村子會不會會改名！你的目的地是“崖洞”，那是一座古老的死火山，考古學家在那裡發現了一座古老的薩維斯神廟的遺跡。當你看到遠處山峰周圍的風暴雲時，你歎了口氣，你覺得自己很清楚會發生什麼。在你沿著古老的山路前往發掘現場時，你看到一些考古學家的家人擠在小帳篷裡面。 自從這種天氣開始後，所有的考古工作都停止了。在你前往神廟的路上，你沒看到任何人。神廟裡面會有些什麼呢？
 quest_travel_thehole_list,調查在“崖洞”發現的薩維斯神廟
 quest_travel_thehole_name,冰之神廟
-quest_travel_themarches_desc,魔鼠群控制著這片區域——你必須清理掉它們的營地。
-quest_travel_themarches_intro,"在你從惡魔閘口鎮往北出發後，一路上腳下逐漸變得泥濘，周圍的農田也變成了小塊的林地。
-進入這些灌木叢，你聽到狼的嗥叫聲飄散在風裡，還有奇怪的、尖銳的咕嚕聲催促著狼群前進。這些傢伙好像聞到了你的氣味。你做好了戰鬥準備。"
-quest_travel_themarches_list,解鎖荒蕪地帶的貿易路線
-quest_travel_themarches_name,向北行軍
+
+
+
 quest_travel_thepyre_desc,居住在南方人類堡壘的最後一批守衛帶著有亡靈和怪物進攻他們的流言逃來了。是時候調查了。
 quest_travel_thepyre_intro,火州城是過去300年來人類所建造的堡壘，它標誌著人類在南方的進展。幾年前這裡還有人居住，但現在人們都把這座城市與鬼故事聯繫在一起。你在沙暴中到達了火州城。這裡空無一人，但你感覺不到任何不對勁的地方。風越刮越猛，你只好躲入地下，在一座古老的墳墓裡紮營。你在半夜突然被骨頭的劈啪聲驚醒，但還有更令人不安的東西：鎖鏈的哢嗒聲。
 quest_travel_thepyre_list,調查關於火州城中沙漠幽靈的報告
@@ -8666,8 +8662,7 @@ scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附
 ============================================================================
 
 
-scenario_puzzle_6a_01,幾隻獵犬從灌木叢中鑽了出來，兇狠地朝你狂吠，沒多久就跟來了一個魔鼠哨兵。他似乎對撞上一隊傭兵感到有些驚訝，不過很快就鎮靜下來並且拉弓上弦，進入戰鬥狀態。
-scenario_puzzle_6a_02,你找到了一個防禦薄弱的魔鼠營地。把這些敵人趕走應該可以再次保障貿易路線的安全。
+
 scenario_puzzle_7a_01,"看看這個人見人愛的移動巨石—<b>岩石心</b>。我們的人數真是壓倒性的不利，看來需要採取一些防禦戰術。讓我們來看看<b><link=""Glossary_Retaliate"">復仇</link></b><sprite name=Retaliate>是如何起到作用並且幫助岩石心擺脫這個困境的。"
 scenario_puzzle_7a_02,"與<b><link=""Glossary_Shield"">護盾</link></b>類似，<b><link=""Glossary_Retaliate"">復仇</link></b>是一種<b>增益效果</b>，通常維持一個<link=""Glossary_Round""><b>回合</b></link><sprite name=Round>或是<link=""Glossary_Persistent""><b>持續</b></link><sprite name=Persistent>生效，直到稍晚些時候滿足終止條件時會被取消。
 當復仇處於啟動狀態時，使用近戰進攻的單位會在每次執行攻擊後受到和<b><link=""Glossary_Retaliate"">復仇</link></b>所標示數值等量的傷害。"
@@ -8683,6 +8678,8 @@ scenario_puzzle_7a_09,"別忘了你還有兩次來自於<font=""MarcellusAlt SDF
 scenario_puzzle_7a_10,幹得漂亮！儘管一開始看上去像是個不可完成的挑戰，但是如果你合理地使用卡牌，即便是最複雜的狀況你也能夠應對。
 scenario_puzzle_7a_obj_01,在本回合中殺死4個骷髏
 scenario_puzzle_7a_obj_02,殺死剩餘的骷髏
+
+
 scenario_puzzle_7b_01,"來認識下最後一位元新人，<b>亂心賊</b>。她不是很擅長硬碰硬，相對的，她擁有控制敵人行動和在戰場中<b><link=""Glossary_Summon"">召喚</link></b>盟友的能力。
 <b><link=""Glossary_Summon"">召喚物</link></b>會在它的召喚者行動輪開始前自發地執行動作，並且每次都會執行一個<b>“<link=""Glossary_Move"">移動</link> X，<link=""Glossary_Attack"">攻擊</link> Y”</b>的行動，其中<b>X</b>和<b>Y</b>分別是它們所標示出來的基本屬性數值。"
 scenario_puzzle_7b_02,"正好<b>亂心賊</b>在討伐惡魔，你能夠見識一下更厲害的敵人——<b>暗夜惡魔</b>。
@@ -9213,7 +9210,7 @@ scenario_story_spellweaver_1_sm1_desc,織魔師在遠程進攻時獲得<nobr>+1 
 scenario_story_spellweaver_1_sm2_desc,叢林小惡魔在遠程進攻中獲得<nobr>+1 進攻<sprite name=Attack></nobr>
 scenario_story_spellweaver_1_sm3_desc,在每個回合的開始時將冰元素移至強烈。
 scenario_story_spellweaver_1_start_1,由於這些小妖們在周圍，你沒辦法調查該區域。你必須要趕走他們。
-scenario_story_spellweaver_1_start_2,此外，場面上似乎無論是你的還是他們的攻擊都變得更危險了。
+scenario_story_spellweaver_1_start_2,此外，場地上似乎無論是你的還是他們的攻擊都變得更危險了。
 scenario_story_spellweaver_1_success_1,空地現在整個平靜下來了，你開始四處搜尋線索。你在地板上發現了許多奇怪的燒灼過的標記，並推斷出這裡進行過強力惡魔召喚。
 scenario_story_spellweaver_1_success_2,在一棵樹後面，你找到了一個匆匆挖好的墳墓。裡面是強盜的屍體，似乎被鳥類的爪子撕成了碎片。
 scenario_story_spellweaver_2_room_3_1,還有更多的惡魔！為什麼這些壞人們會單純到認為他們居然能控制惡魔幫他們做事？
