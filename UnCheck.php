@@ -7229,11 +7229,6 @@ message_complete_achievement_1_5_unlocklocations_1,做的很好！所有荒涼�
 message_complete_achievement_1_5_unlocklocations_2,看起來邊境的村莊已經團結起來準備獎勵我們一大筆金幣了！
 
 
-
-message_end_quest_story_5b_1,我們現在已經建立了一個比較完善的傭兵工會了！說到雇傭，我最近碰到了一個尋求我們幫助的人。
-message_end_quest_story_5b_2,"願你安康。我是這裡的<b>祭司</b>，遵從於巨橡聖所。感謝我們之間的會面，我們所在的聖所急需援助。
-如你所見，聖所地下陵寢中的神聖的教堂地穴被瘋狂的邪教徒破壞並玷污了，喚醒了大量不死生物來完成他們的邪惡企圖......我懇求你們，幫我們解決這個威脅！"
-message_end_quest_story_5b_3,這些天這種情況太常見了......無論如何，聽起來是個鍛煉兩名新成員的好機會——走吧。
 message_end_quest_story_5c_1,我沒法表達我對你們有多感激......真的非常感謝。隨著對聖所威脅的消失，我們終於可以繼續恢復這裡的神廟。這需要一些時間來恢復到日常的工作，但我希望將來可以給你們提供幫助。向你道別。
 message_end_quest_story_5c_2,"等等，我們幹這個是<i>免費</i>的？！我以為我們會幹點能掙錢——哦，沒啥了......
 <size=90%>他們說加入一個公會<size=80%>他們說會很有趣<size=70%>“你會掙一大堆錢”......噗！<size=60%>*Grumble grumble*"
@@ -7996,8 +7991,8 @@ quest_relic_steelring_unlock_3,那裡不僅有邪教徒們和不死族，墓穴�
 quest_story_5c_desc,地穴中的不死族已經蘇醒——是時候讓他們重返沉眠了。
 quest_story_5c_intro,"許多侍者似乎很怕靠近這棟神廟，你在入口處碰見了守門人，她解釋到，地穴的大門已經被打開，雖然他們隨身都帶有一個聖徽，但是沒有人有勇氣進入地穴。
 她給了你一個神器，“你需要在地穴裡待上一段時間，然後這個徽記就會驅散並關閉大門，祝你好運。”她在前面一邊帶路一邊說道。"
-quest_story_5c_list,調查不死族的侵擾
-quest_story_5c_name,一個恐怖的墳墓
+
+
 quest_story_7a_desc,再頑強的雇傭兵偶爾也需要援手。
 quest_story_7a_intro,當你發現自己再次來到了被遺棄的地穴入口時，你不禁向自己發問，是什麼讓這些雇傭軍前赴後繼地來探索這個不死族墳墓？黃金，肯定是黃金...你進入了墳墓，希望找到另一個需要你戰略知識的人。
 
@@ -8683,21 +8678,6 @@ scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附
 ============================================================================
 
 
-scenario_puzzle_5b_01,來見見<b>機匠</b>！他是團隊中重要的輔助角色，但必要時也可以承擔攻擊多個敵人的任務。看見那些骷髏了嗎，這正是我所說的“多個敵人”！
-scenario_puzzle_5b_02,"目前他正處於<b><link=""Glossary_Wound"">流血</link></b><sprite name=Wound>狀態，這會讓他在每個行動輪開始時受到一點傷害，因此你需要儘快用<b><font=""MarcellusAlt SDF""><color=#F8F8F8>次級治療藥水</color></font></b>對他進行<link=""Glossary_Heal""><b>治療</b></link>。"
-scenario_puzzle_5b_03,"看看這個房間裡敵人所在的位置，我建議你這個回合儘量晚一些行動。有時採取較慢的動作並讓敵人來接近你是更好的選擇，並且還不用冒著被攻擊的風險。之後你就可以使用<b>機匠</b>那聞名遐邇的<b>區域</b>攻擊來同時對多個敵人造成一些傷害！
-你可以注意到類似的技能所影響的區域範圍和形狀會標示在技能卡上。"
-scenario_puzzle_5b_04,別忘了使用<b>道具</b>，你能用的東西不是只有技能卡牌！
-scenario_puzzle_5b_05,"你沒能成功命中三個敵人。有時等這些壞傢伙來接近你也是不錯的選擇，試著先選中<font=""MarcellusAlt SDF""><color=#F5E3B0>墨水炸彈</color></font>然後再選中<font=""MarcellusAlt SDF""><color=#F5E3B0>淬毒箭矢</color></font>來讓敵人在<b>機匠</b>的行動輪開始前走進他的<b><link=""Glossary_Range"">射程</link></b>。"
-scenario_puzzle_5b_06,"你可能注意到了在你處於<b><link=""Glossary_Wound"">流血</link></b><sprite name=Wound>狀態的時候執行<b><link=""Glossary_Heal"">治療</link></b>技能，角色不僅會回復生命值還會移除<b><link=""Glossary_Wound"">流血</link></b><sprite name=Wound>狀態。
-<b><link=""Glossary_Heal"">治療</link></b>也能移除<b><link=""Glossary_Poison"">中毒</link></b><sprite name=Poison>狀態，但是那種情況下只能移除狀態而無法回復生命值。"
-scenario_puzzle_5b_07,"嘣！<font=""MarcellusAlt SDF""><color=#F5E3B0>墨水炸彈</color></font>真是相當不錯，對吧？"
-scenario_puzzle_5b_08,現在，終結掉剩下這些壞傢伙。話說你知道可以通過按下<b>R</b>鍵來旋轉區域效果的形狀嗎？
-scenario_puzzle_5b_09,"當敵人在附近時記得優先行動，<font=""MarcellusAlt SDF""><color=#F5E3B0><b>拋繩槍</b></color></font>應該可以幫助你殺死他們。"
-scenario_puzzle_5b_10,身材不大，拳頭不小，對吧？讓我們來幫他登記註冊然後看看公會能不能接到一些有償的任務。
-scenario_puzzle_5b_obj_01,用治療來淨化機匠的流血狀態
-scenario_puzzle_5b_obj_02,在本回合中命中3個骷髏
-scenario_puzzle_5b_obj_03,在本回合中殺死剩餘的骷髏
 scenario_puzzle_5c_01,墓穴充斥著污穢的氣息，是從房間角落裡的神秘傳送門裡散發出來的。面對未知的邪惡你繃緊了神經準備戰鬥。
 scenario_puzzle_5c_02,那些傳送門突然就消失了！無論之前是什麼樣的黑暗魔法在驅使著這些軀殼，現在都停了下來。那些屍體也重新癱倒在了地上。你成功擋住了不死生物的猛攻並且聖所再一次得到了安寧。
 scenario_puzzle_5c_obj_01,存活三個回合
