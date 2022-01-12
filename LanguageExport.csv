@@ -901,7 +901,7 @@ addaugment,增加角色特效賦能,,,
 addheal,增加回生命值,,,
 addrange,增加射程,,,
 addsong,額外的戰歌容量,,,
-addtarget,增加目標數,,,
+addtarget,增加目標,,,
 adjacentalliesandenemies2damage,在目標旁邊的所有敵人和盟友受到2點傷害。,,,
 advantage,優勢狀態,,,
 adventure_achievement_1_1_beasttyrantreachlevel2,德魯伊,,,
@@ -1326,7 +1326,7 @@ antialiasing_render_taa,TAA,,,
 arcanegolem,秘法魔像,,,
 ashenswordbarrow,阿什斯伍德之墓,,,
 atendofturn,在輪次的結束,,,
-attack,攻擊力,,,
+attack,進攻,,,
 attack_area,攻擊範圍,,,
 attackersgaindisadvantage,攻擊方們陷入劣勢進攻,,,
 attacksapply,攻擊中附加,,,
@@ -1756,7 +1756,7 @@ compendium_monsterfocus,"在執行能力卡上的動作之前，每隻怪物都�
 <b>2. 最短：</b>當多名敵方<b>可達</b>時，所需移動力最少者（考慮繞路）優先被盯上。
 <b>3. 最近：</b>當多名敵方<b>最短</b>時，初始距離最近者（不考慮繞路）優先被盯上。
 <b>4. 最早：</b>當多名敵方<b>最近</b>時，在回合中更早行動的角色優先被盯上，玩家的召喚物視為比其召喚者更早行動；同一召喚者先召喚的召喚物比後召喚的更早行動；精英階級怪物比普通階級怪物更早行動；同階級同種類的怪物編號小的比編號大的更早行動。
-<b>5. 最優：</b>依照前四個條件確認被盯上的敵人，怪物會儘可能在不具有劣勢狀態攻擊被盯上單位的前提下（具有禁足/混亂狀態時可能無法避免劣勢），儘可能攻擊到更多敵人（對每個單位進行前四個條件判定，並依照目標數，從最優的單位開始選取）。",,,
+<b>5. 最優：</b>依照前四個條件確認被盯上的敵人，怪物會儘可能在不具有劣勢狀態攻擊被盯上單位的前提下（具有禁足/混亂狀態時可能無法避免劣勢），儘可能攻擊到更多敵人（對每個單位進行前四個條件判定，並依照目標數量，從最優的單位開始選取）。",,,
 compendium_monsterfocus_title,怪物盯人,,,
 compendium_monstermovement_1,"只有在其能力卡上存在前進能力，怪物才可以在其輪次中移動。它可以移動的距離不能超過其移動力。
 
@@ -2086,7 +2086,7 @@ enhancement_plusrange,提升射程,,,
 enhancement_plusretaliate,提升反傷,,,
 enhancement_plusretaliaterange,提升反傷射程,,,
 enhancement_plusshield,提升護甲,,,
-enhancement_plustarget,提升目標數,,,
+enhancement_plustarget,提升目標,,,
 enhancement_poison,中毒,,,
 enhancement_strengthen,強壯,,,
 enhancement_summonattack,召喚物攻擊力,,,
@@ -4756,7 +4756,7 @@ glossary_strengthen,強壯：被強壯地單位在他們的所有攻擊中獲得
 glossary_stun,暈眩：一個暈眩的單位不能在他的輪次使用任何技能或者物品。 暈眩狀態在被施法單位的下一輪結束時被移除。單位仍必須在本輪次選擇兩張牌或選擇休息，當然行動不起作用，卡被直接丟棄。長休息將如常進行。,,,
 glossary_summon,召喚：在相鄰於施法者的空格子中召喚一個指定的盟友單位到劇本裡。如果相鄰沒有可用的格子，召喚物技能將不能被使用。召喚物在施法者每個回合的輪次之前行動，總是自動地（不受玩家控制地）進行一個“移動 X，攻擊 Y”行動。可以同時擁有多個在場的召喚物。,,,
 glossary_summon_health,生命值：召喚物的初始生命值。,,,
-glossary_target,目標數： “目標數 X”的技能代表這名單位可以選擇最多X個技能射程內的不同目標。,,,
+glossary_target,目標： “目標 X”的技能代表這名單位可以選擇最多X個技能射程內的不同目標。,,,
 glossary_trap,陷阱：一個陷阱占一個格子。當一個單位用正常的移動或者被迫的移動進入陷阱格子，陷阱被觸發（例如強推/拉近）。,,,
 glossary_wound,創傷：如果目標創傷，它在每個輪次的開始時會遭受一點傷害。治療技能可移除創傷狀態。,,,
 glossary_xp,XP：這個標誌代表著經驗值。,,,
@@ -5143,7 +5143,7 @@ gui_enhancement_cost_existing,現有的能力卡提升,,,
 gui_enhancement_cost_original,原價,,,
 gui_enhancement_filter,能力卡提升：<color=white>{0}</color>,,,
 gui_enhancement_mode_original,原始：強化會影響當前的角色或是未來相同職業的角色。強化不能被售出,,,
-gui_enhancement_mode_variant,<color=#ED1F18>【推薦】</color>新版：強化只影響當前的角色。強化可以被售出並取回 75% 的費用（費用也有經過優化以刺激玩家選擇這個版本）。,,,
+gui_enhancement_mode_variant,<color=#ED1F18>【推薦】</color>新版：強化只影響當前的角色。強化可以被售出並取回 75% 的費用（費用也有調整以刺激玩家選擇這個設定）,,,
 gui_enhancements,能力卡強化,,,
 gui_enhancements_tooltip,此頁面允許你為所有能力卡添加提升功能。選擇能力卡，然後選擇提升槽，然後將要添加到該槽的提升功能。請注意，不同的提升功能成本為不同的基礎金額，並且該成本由卡上已經上的提升次數和它的能力卡類型進行了修改。當你移除提升時，可以恢復其原始成本。,,,
 gui_enhancements_unavailable,沒有可進行的提升,,,
@@ -5998,7 +5998,7 @@ gui_side_quest,旁支任務,,,
 gui_skin_off_tooltip,基本的造型,,,
 gui_skin_on_tooltip,華麗的造型,,,
 gui_skip,跳過,,,
-gui_skip_ability,跳過能力,,,
+gui_skip_ability,跳過動作,,,
 gui_skip_action,跳過行動,,,
 gui_skip_attack,跳過攻擊,,,
 gui_skip_ftue,跳過教學,,,
@@ -6029,7 +6029,7 @@ gui_swap_position_tip,將{0}的位置與{1}交換,,,
 gui_take_damage,承受傷害,,,
 gui_take_damage_burn,焚燒一張手牌,,,
 gui_take_damage_discard,焚燒兩張棄牌堆的牌,,,
-gui_take_damage_tooltip,此選擇將會失去生命值,,,
+gui_take_damage_tooltip,直接失去對應的生命值,,,
 gui_temple_bless_unavailable,被祝福的傭兵,,,
 gui_temple_confirm,捐獻,,,
 gui_temple_confirmation,"在下一個任務中，<color=#{1}>{0} <sprite name=""{2}"" color=#{1}></color> 獲得 <color=orange><b>x2</b></color> <sprite name=""Bless"">攻擊修正卡",,,
@@ -6098,8 +6098,9 @@ gui_tooltip_select_recover_lost_cards,選擇回手{0}張被焚燒的牌。,,,
 gui_tooltip_select_summon_movement,Choose to move the Summoned Ally towards its Summoner,,,
 gui_tooltip_select_summon_movement_title,Summon Movement,,,
 gui_tooltip_shields,護甲：一個帶護甲的角色減少X點所受到的攻擊。護甲值可以疊加。護甲僅適用於能力卡的“攻擊”傷害，不會阻止其他形式的傷害。,,,
-gui_tooltip_short_rest,隨機焚燒一張棄牌堆中的牌以回收棄牌堆中剩下的牌。如果你不想焚燒抽出的牌，你可以選擇失去 1 點生命值並重抽一張牌來替換原本要被焚燒的牌。,,,
-gui_tooltip_short_rest_warning,需要兩張或以上棄牌堆的牌。,,,
+gui_tooltip_short_rest,"隨機焚燒一張棄牌堆中的牌以回收棄牌堆中剩下的牌。
+如果你不想焚燒抽出的牌，你可以選擇失去 1 點生命值並重抽一張牌來替換原本要被焚燒的牌。",,,
+gui_tooltip_short_rest_warning,棄牌堆中的牌需要有兩張以上。,,,
 gui_tooltip_single_target,選擇一個單體目標。,,,
 gui_tooltip_start_turn,讓每個角色選擇兩個能力卡打出或選擇休息。,,,
 gui_tooltip_summon,召喚{0},,,
@@ -6265,15 +6266,15 @@ item_blackcenser,【你的輪次中】<nobr>混亂<sprite name=Muddle></nobr><no
 item_blackknife,在你進行近戰進攻時，對你的單次攻擊附加<nobr>詛咒<sprite name=Curse></nobr>。,,,
 item_blinkingcape,【你的輪次中】進行一次<nobr>“移動<sprite name=Move>4，</nobr><nobr>跳躍<sprite name=Jump>”</nobr>。,,,
 item_bloodyaxe,在你進行近戰進攻時，損失2點生命值並對整個攻擊輪次<nobr>+1進攻<sprite name=Attack></nobr>。,,,
-item_bootsofdashing,"【你的前進行動中】
-你的一次移動： <nobr><b>+3</b> <sprite name=Move></nobr>",,,
+item_bootsofdashing,"【你的<color=#1F9EDC>前進</color>中】
+本次能力：<nobr><b>+3</b> <sprite name=Move></nobr>",,,
 item_bootsoflevitation,獲得飛行。,,,
 item_bootsofquickness,在一個回合開始時，當所有能力卡被揭示之後，你可以選擇讓你的優先權增加或者減少20點。,,,
 item_bootsofspeed,在一個回合開始時，當所有能力卡被揭示之後，你可以選擇讓你的優先權增加或者減少10點。,,,
-item_bootsofsprinting,"【你的前進行動中】
-你的一次移動： <nobr><b>+4</b> <sprite name=Move></nobr>",,,
-item_bootsofstriding,"【你的前進行動中】
-你的一次移動： <nobr><b>+2</b> <sprite name=Move></nobr>",,,
+item_bootsofsprinting,"【你的<color=#1F9EDC>前進</color>中】
+本次能力：<nobr><b>+4</b> <sprite name=Move></nobr>",,,
+item_bootsofstriding,"【你的<color=#1F9EDC>前進</color>中】
+本次能力：<nobr><b>+2</b> <sprite name=Move></nobr>",,,
 item_brilliantblade,在你進行近戰進攻時，<sprite name=ConsumeLight>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
 item_chainhood,當你與三個或者更多怪物相鄰時，獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
 item_chainmail,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
@@ -6489,8 +6490,8 @@ item_ringofhaste,在你的輪次結束時，從手牌中打出一張牌並立即
 item_ringofskulls,召喚骷髏,,,
 item_robesofevocation,在你進行攻擊時，<sprite name=ConsumeAny>並對你的整個攻擊輪次攻擊附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_robesofsummoning,【你的輪次中】進行一次<nobr>“治療<sprite name=Heal>2，目標為召喚物夥伴”。,,,
-item_rocketboots,"【你的前進行動中】
-你的一次移動： <nobr><b>+3</b> <sprite name=Move></nobr> 並 附加<nobr>跳躍<sprite name=Jump></nobr>",,,
+item_rocketboots,"【你的<color=#1F9EDC>前進</color>中】
+本次能力：<nobr><b>+3</b> <sprite name=Move></nobr> 並 具有<nobr>跳躍<sprite name=Jump>附加能力</nobr>",,,
 item_sacrificialrobes,在你進行遠程進攻時，損失3點生命值並對整個攻擊輪次附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_scrollofhealing,【你的輪次中】進行一次<nobr>“治療<sprite name=Heal>3，<nobr></nobr>範圍<sprite name=Range>5”</nobr>。,,,
 item_scrollofpower,在一個盟友進行攻擊時，對其整個攻擊輪次附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
@@ -6537,8 +6538,8 @@ item_wandoftremors,【你的輪次中】生成大地元素。,,,
 item_warhammer,在你進行近戰進攻時，對你的整個攻擊輪次附加<nobr>暈眩<sprite name=Stun></nobr>。,,,
 item_wavecrest,當你受到攻擊時，如果<sprite name=Ice>處於強烈，對攻擊方進行一次“強推<sprite name=Push>2”。,,,
 item_weightednet,當你進行遠程進攻時，對你的單次攻擊附加<nobr>禁足<sprite name=Immobilize></nobr>•。,,,
-item_wingedshoes,"【你的前進行動中】
-你的整個行動：附加<nobr>跳躍<sprite name=Jump></nobr>",,,
+item_wingedshoes,"【你的<color=#1F9EDC>前進</color>中】
+本次能力：具有<nobr>跳躍<sprite name=Jump>附加能力</nobr>",,,
 jadefalcon,玉鷹,,,
 jekserah,潔索菈,,,
 jump,跳躍,,,
@@ -10820,8 +10821,8 @@ scenario_puzzle_2a_03,"你本回合的目標為：
 <line-height=20%>
 <line-height=100%>→ 進行一次<color=#1F9EDC>進攻</color><sprite name=Attack>擊殺<color=#C53F3F>【精英】強盜弓箭手</color>
 → 收集她掉落的金幣
-<line-height=20%>
-<line-height=100%>相信你能夠完成任務！",,,
+
+相信你能夠完成任務！",,,
 scenario_puzzle_2a_04,當心！<color=#A06E4B>野蠻人</color>只剩下最後 <b>1</b> 點生命值了，這代表他無法承擔更多傷害......再試一次吧！但這次要選擇<color=#FADC99>焚燒</color>一張手牌中的牌來避免傷害。,,,
 scenario_puzzle_2a_05,能夠活下來是還算不錯，但你的目標是擊殺<nobr><color=#C53F3F>【精英】強盜弓箭手</color></nobr>。或許你手牌裡有張帶有<nobr><color=#1F9EDC>進攻</color><sprite name=Attack></nobr>的能力卡可以一次性造成足夠的傷害？再試一次吧！,,,
 scenario_puzzle_2a_06,"嘣！<color=#32E632>強勢突襲</color>是一張強牌，但是強大的力量總是伴隨著代價。
@@ -10857,8 +10858,8 @@ scenario_puzzle_2b_05,"你本回合的目標為：
 <line-height=20%>
 <line-height=100%>→ 用一個附加<color=#1F9EDC>跳躍</color><sprite name=Jump>的<color=#FADC99>移動</color>來無傷穿過陷阱
 → 在<color=#C53F3F>強盜弓箭手</color><color=#FADC99>攻擊</color>前對她施加<color=#1F9EDC>繳械</color><sprite name=Disarm>狀態
-<line-height=20%>
-<line-height=100%>祝你好運！",,,
+
+祝你好運！",,,
 scenario_puzzle_2b_06,她非常敏捷而且還是遠程進攻，你需要快速行動來接近她 一 別忘了用上靴子！,,,
 scenario_puzzle_2b_07,這裡的關鍵是越過那些陷阱，因此你需要利用附加<color=#1F9EDC>跳躍</color><sprite name=Jump>效果的<color=#1F9EDC>前進</color><sprite name=Move>來避免傷害。,,,
 scenario_puzzle_2b_08,你做到了！你不僅造成了可觀的傷害，更因為你用<color=#32E632>嘲諷戰吼</color>施加的<color=#1F9EDC>繳械</color><sprite name=Disarm>狀態，使得<color=#C53F3F>強盜弓箭手</color>在她的輪次中無法<color=#FADC99>攻擊</color>。,,,
@@ -10867,8 +10868,8 @@ scenario_puzzle_2b_09,"現在她的生命值不多了，你應該能夠給她致
 <line-height=20%>
 <line-height=100%>→ 擊殺<color=#C53F3F>強盜弓箭手</color>
 → 跳躍通過陷阱並<color=#FADC99>收集</color>寶箱
-<line-height=20%>
-<line-height=100%>我希望你能在本回合中完成上面這兩個目標！",,,
+
+我希望你能在本回合中完成上面這兩個目標！",,,
 scenario_puzzle_2b_11,如果你想在本回合中比<color=#C53F3F>強盜弓箭手</color>更早行動，那麼你需要確保你選擇的第一張能力卡具有較低的優先權。,,,
 scenario_puzzle_2b_12,"我想我曾和你說過要<color=#1F9EDC>拾取</color><sprite name=Loot>那個寶箱吧？我相信只要你能夠做出更明智的選擇，你是可以在本回合中完成兩個目標的。",,,
 scenario_puzzle_2b_13,"已經累到不能再次<color=#1F9EDC>跳躍</color><sprite name=Jump>了嗎？也許你需要進行一次<color=#FADC99>休息</color>......為了拿回你的手牌，就像以前那樣，好嗎？",,,
@@ -10881,11 +10882,11 @@ scenario_puzzle_2b_obj_01,跳躍通過陷阱並且在強盜弓箭手攻擊前對
 scenario_puzzle_2b_obj_02,在本回合擊殺強盜弓箭手,,,
 scenario_puzzle_2b_obj_03,跳躍通過陷阱並且收集寶箱,,,
 scenario_puzzle_2c_01,為了成為一位成功的會長，你需要多加注意敵人的行動並藉由這些資訊來規劃你自己的行動。,,,
-scenario_puzzle_2c_02,"你本回合的目標非常簡單：
+scenario_puzzle_2c_02,"你本回合的目標為：
 <line-height=20%>
 <line-height=100%>→ 不要受到任何攻擊
-<line-height=20%>
-<line-height=100%>如果敵人造成了任何傷害你就必須重新來過！",,,
+
+相當簡單吧！如果敵人造成了任何傷害你就必須重新來過。",,,
 scenario_puzzle_2c_03,你需要打開<color=#A06E4B>野蠻人</color>面前的這扇門來離開這個房間，但是別忘了下一個房間裡的敵人也會在本回合中行動。,,,
 scenario_puzzle_2c_04,"你問我有什麼建議？我會說：儘可能快點行動，觀察敵人準備執行什麼動作。我安排了一個安全的位置可以讓你脫離所有敵人的攻擊範圍。
 現在，讓我看看你能否存活下來！",,,
@@ -10941,54 +10942,60 @@ scenario_puzzle_2d_14,你已經完成了基礎訓練 一 是時候給你介紹�
 scenario_puzzle_2d_obj_01,站在一隻強盜弓箭手旁邊並且擊殺另一隻強盜弓箭手,,,
 scenario_puzzle_2d_obj_02,擊殺剩下的強盜弓箭手,,,
 scenario_puzzle_2d_obj_03,在本回合中收集寶箱,,,
-scenario_puzzle_3a_01,"讓我們來仔細看看每個角色能夠做到什麼事情！
-在這個劇本裡，野蠻人要面對兩隻等級 <b>1</b> 的<color=#C53F3F>【精英】復生的骷髏</color> 一 代表它們的屬性比等級 <b>0</b> 的<color=#C53F3F>【精英】復生的骷髏</color>更高。
+scenario_puzzle_3a_01,"讓我們仔細看看每個角色能夠做到什麼事情！
+在這個劇本裡，野蠻人要面對兩隻等級 <b>1</b> 的<color=#C53F3F>【精英】復生的骷髏</color> 一 代表它們的屬性比等級 <b>0</b> 的時候更高。
 
-每個回合所揭露的怪物能力卡上的數值，是由怪物的基本屬性與該種類怪物基本能力卡的數值合計。
-因此，有時候它們能夠移動更遠或者傷害會更高，當然，這兩個骷髏是精英階級的那就更不用說了！",,,
+每個回合所揭露的怪物能力卡，上面的數值是由怪物的基本屬性與該種類怪物基本能力卡的數值合計。因此，有時候它們能夠移動更遠或者傷害會更高，至於兩個骷髏是精英階級的，那就更不用說會有多強了！",,,
 scenario_puzzle_3a_02,"注意！這些<color=#C53F3F>【精英】復生的骷髏</color>的天賦能力是護盾 <b>1</b>，用<sprite name=Shield>圖示來表示。每一點護盾值可以減免一點來自於攻擊的傷害。
 
 若攻擊具有穿透<sprite name=Pierce>的附加能力時可以忽略一部分護盾的效果。",,,
-scenario_puzzle_3a_04,"嗯......我得到了一些可靠情報，在這個回合中這些<color=#C53F3F>【精英】復生的骷髏</color>將進行不止一次的進攻<sprite name=Attack>。
-然而你的牌不多了，無法再繼續焚燒更多的牌，所以這時候要想活下去，你需要給自己一些護盾。
+scenario_puzzle_3a_04,"嗯......我得到了一些可靠情報，在這個回合中這些<color=#C53F3F>【精英】復生的骷髏</color>將進行不止一次的進攻<sprite name=Attack>。然而你的牌不多了，無法再繼續焚燒更多的牌，所以這時候要想活下去，你需要給自己一些護盾。
 
 順帶一提，這些敵人的護盾是天賦能力，代表這些能力並不會消失，正常護盾的能力都會具有<sprite name=Round>  回合增益或是<sprite name=Persistent>持續增益的圖示。",,,
-scenario_puzzle_3a_05,"看到了嗎？<color=#C53F3F>【精英】復生的骷髏</color>的能力卡可以讓它們多次指定同一個敵人為目標<sprite name=Target>（而不是不同敵人）。
+scenario_puzzle_3a_05,"看到了嗎？
+<color=#C53F3F>【精英】復生的骷髏</color>的能力卡讓它們可以多次指定同一個敵人為目標 <sprite name=Target>（而不是不同敵人）。
+
 你需要一些護盾來阻擋傷害。",,,
 scenario_puzzle_3a_06,下次別忘了在你的輪次中使用<color=#FFB300>初級治療藥水</color>！,,,
 scenario_puzzle_3a_07,這個時候逃跑可不能幫助你取得勝利。給我回來砸碎這堆骨頭！,,,
 scenario_puzzle_3a_08,"你確實擊殺了一些<color=#C53F3F>【精英】復生的骷髏</color>，但是如果你焚燒了一些牌，下個回合就沒有足夠的牌可以選擇了。
 別忘了使用<color=#FFB300>初級治療藥水</color>和附加護盾<sprite name=Shield>能力。",,,
-scenario_puzzle_3a_09,"哇哦，那可真是猛烈地攻擊！
-還好，你的護盾幫你阻擋了足夠多的傷害，所以你還活著。真是太驚險了！",,,
+scenario_puzzle_3a_09,"哇哦，那可真是猛烈地攻擊！還好，你的護盾幫你阻擋了足夠多的傷害，所以你還活著。
+
+真是太驚險了！",,,
 scenario_puzzle_3a_10,"你的最終目標為：
 <line-height=20%>
 <line-height=100%>→ 擊殺剩下的<color=#C53F3F>【精英】復生的骷髏</color>
-<line-height=20%>
-<line-height=100%>祝你好運，這些骨頭可是相當難啃的！",,,
+
+祝你好運，這些骨頭可是相當難啃的！",,,
 scenario_puzzle_3a_11,"給你個小提示：或許你可以試著利用強推讓怪物掉入陷阱？
+
 記住，護盾只能阻擋來自於攻擊的傷害，但是對於來自於像是陷阱這樣的直接傷害不會起到任何作用！",,,
 scenario_puzzle_3a_12,他這一回合不會很早行動，所以你或許能夠在他有機會幹掉你之前擊殺他！,,,
 scenario_puzzle_3a_13,別忘了執行短休息來拿回<color=#32E632>>守護之力</color>以便把<color=#C53F3F>【精英】復生的骷髏</color>強推到陷阱上。,,,
-scenario_puzzle_3a_14,<color=#a06e4b>野蠻人</color>再次被救出！我聽說他不想再獨自冒險了，所以他願意成為你公會裡的第一名傭兵。恭喜！,,,
-scenario_puzzle_3a_15,讓我們離開這個佈滿灰塵的墓穴看看還有能夠招募到誰吧！,,,
+scenario_puzzle_3a_14,"<color=#a06e4b>野蠻人</color>再次被救出！我聽說他不想再獨自冒險了，所以他願意成為你公會裡的第一名傭兵。
+
+恭喜！",,,
+scenario_puzzle_3a_15,讓我們離開這個佈滿灰塵的墓穴看看還能夠招募到誰吧！,,,
 scenario_puzzle_3a_16,"你本回合的目標為：
 <line-height=20%>
-<line-height=100%>→ 使用一次具有穿透<sprite name=Pierce>附加效果的<color=#FADC99>攻擊</color>擊殺一隻<color=#C53F3F>【精英】復生的骷髏</color>
-→ 在你身上附加護盾<sprite name=Shield>能力
+<line-height=100%>→ 透過一次具有穿透<sprite name=Pierce>附加效果的<color=#FADC99>攻擊</color>擊殺一隻<color=#C53F3F>【精英】復生的骷髏</color>
+→ 為你自身附加護盾<sprite name=Shield>能力
 → 使用<color=#FFB300>初級治療藥水</color>
-<line-height=20%>
-<line-height=100%>這些足以讓你在本回合中存活下來。",,,
+
+這些足以讓你在本回合中存活下來。",,,
 scenario_puzzle_3a_obj_01,使用一次具有穿透<sprite name=Pierce>附加效果的攻擊擊殺一隻【精英】復生的骷髏,,,
-scenario_puzzle_3a_obj_01b,透過使用初級治療藥水和附加護盾<sprite name=Shield>能力，在本回合中存活下來,,,
+scenario_puzzle_3a_obj_01b,透過使用初級治療藥水和為你自身附加護盾<sprite name=Shield>能力，在本回合中存活下來,,,
 scenario_puzzle_3a_obj_02,在本回合中擊殺剩下的【精英】復生的骷髏,,,
-scenario_puzzle_3b_01,"來認識一下<color=#a06e4b>惡棍</color>！她身手矯健並且擅長移動，更別提在特殊的情況下能夠爆發大量近戰傷害。
+scenario_puzzle_3b_01,"讓我們來認識一下<color=#a06e4b>惡棍</color>！
+她身手矯健並且擅長移動，更別提在特殊的情況下還能夠爆發大量近戰傷害。
+
 現在，讓我們來幫她擺脫這個困境。",,,
 scenario_puzzle_3b_02,"你本回合的目標為：
 <line-height=20%>
 <line-height=100%>→ 在敵人行動前擊殺 <b>3</b> 隻<color=#C53F3F>強盜弓箭手</color>
-<line-height=20%>
-<line-height=100%>你肯定得用些能夠同時瞄準不止一個目標<sprite name=Target>的東西！",,,
+
+你肯定得用些能夠同時瞄準不止一個目標<sprite name=Target>的東西！",,,
 scenario_puzzle_3b_03,<color=#C53F3F>強盜弓箭手</color>打到你了！<color=#a06e4b>惡棍</color>有一些優先權超低的能力卡，選擇其中一張來當你的第一張能力卡。,,,
 scenario_puzzle_3b_04,"還不夠，你需要在這個回合中擊殺所有的<color=#C53F3F>強盜弓箭手</color>！
 如果你將<color=#32E632>飛刀</color>和<color=#32E632>煙霧彈</color>以恰當的方式組合的話就能將所有<color=#C53F3F>強盜弓箭手</color>擊殺！",,,
@@ -10996,10 +11003,10 @@ scenario_puzzle_3b_05,"哈哈！在一個輪次中瞄準多個目標的感覺不
 你的最終目標為：
 <line-height=20%>
 <line-height=100%>→ 收集 <b>5</b> 堆以上的金幣
-<line-height=20%>
-<line-height=100%>小提示：有時後能力卡的頂部也會允許你進行<color=#1F9EDC>前進</color><sprite name=Move>能力！",,,
+
+小提示：有時後能力卡的頂部也會允許你進行<color=#1F9EDC>前進</color><sprite name=Move>能力！",,,
 scenario_puzzle_3b_06,<color=#1F9EDC>拾取</color><sprite name=Loot>能力會收集指定距離內的所有金幣，所以好好想想你應該站在哪裡進行<color=#1F9EDC>拾取</color><sprite name=Loot>吧！,,,
-scenario_puzzle_3b_07,你需要在<color=#1F9EDC>拾取</color><sprite name=Loot>前先進行<color=#1F9EDC>前進</color><sprite name=Move>，而且<color=#1F9EDC>前進</color><sprite name=Move>能力不是只出現在能力卡的底部！,,,
+scenario_puzzle_3b_07,你需要在<color=#1F9EDC>拾取</color><sprite name=Loot>前先進行<color=#1F9EDC>前進</color><sprite name=Move>，而<color=#1F9EDC>前進</color><sprite name=Move>能力不一定只出現在能力卡的底部！,,,
 scenario_puzzle_3b_08,漂亮！暫時就讓我來替你保管這些金幣吧...,,,
 scenario_puzzle_3b_09,因為你在這個劇本裡的幫助，<color=#a06e4b>惡棍</color>已經同意加入公會 一 代表現在我們擁有足夠多的傭兵來進行正式的任務了！,,,
 scenario_puzzle_3b_obj_01,在敵人行動前擊殺 <b>3</b> 隻強盜弓箭手,,,
@@ -11020,28 +11027,28 @@ scenario_puzzle_5a_02,"為了幫助她擺脫這個困境，你需要利用場上
 scenario_puzzle_5a_03,"你本回合的目標為：
 <line-height=20%>
 <line-height=100%>→ 消耗冰霜元素來提升<color=#32E632>冰霜新星</color>的能力，儘可能多擊殺幾隻<color=#C53F3F>強盜守衛</color>
-→ 進行一次跳躍移動，以脫離<color=#C53F3F>強盜守衛</color>的攻擊範圍並在這個回合存活下來",,,
-scenario_puzzle_5a_04,在用<color=#32E632>冰霜新星</color>攻擊強盜之後你需要用跳躍前往安全位置！,,,
+→ 透過一次跳躍移動，脫離<color=#C53F3F>強盜守衛</color>的攻擊範圍並在這個回合存活下來",,,
+scenario_puzzle_5a_04,在用<color=#32E632>冰霜新星</color>攻擊強盜之後你需要透過跳躍移動前往安全位置！,,,
 scenario_puzzle_5a_05,為了提升<color=#32E632>冰霜新星</color>的能力你需要在執行動作前先消耗冰霜元素（在執行動作前先點擊冰霜元素的圖示來消耗冰霜元素）。,,,
-scenario_puzzle_5a_06,"因為你消耗了冰霜元素，<color=#32E632>冰霜新星</color>造成了 <b>3</b> 點傷害而不是 <b>2</b> 點！
+scenario_puzzle_5a_06,"因為你消耗了冰霜元素，<color=#32E632>冰霜新星</color>造成了 <b>3</b> 點傷害（原先為 <b>2</b> 點傷害）！
 
 擊殺三隻<color=#C53F3F>強盜守衛</color>的同時還施加了<nobr>禁足<sprite name=Immobilize></nobr>的附加狀態，所以剩下的<color=#C53F3F>強盜守衛</color>就追不上你了，這可真是個非常強的技能，對吧？",,,
 scenario_puzzle_5a_07,"<color=#32E632>乘風</color>同時也充能了空氣元素以供未來使用。
 
 你可能注意到了，<color=#a06e4b>織魔師</color>只剩三張尚未焚燒的牌了，所以下個回合結束時她就會精疲力竭，因為你無法透過休息來回收燼牌堆的牌。",,,
 scenario_puzzle_5a_08,"幸運的是，<color=#a06e4b>織魔師</color>有一個非常強力的秘密能力。
-
 她的很多強力的能力卡在使用過後都會被焚燒，但是<color=#32E632>乙太蘇生</color>的頂部動作能夠讓她將燼牌堆中所有的牌回收到手牌中！
-把握好這個每個劇本只有一次的機會，來收回燼牌堆中所有的牌，是用好<color=#a06e4b>織魔師</color>的關鍵。",,,
+
+把握好這個每次劇本只有一次的機會來收回燼牌堆中所有的牌，是用好<color=#a06e4b>織魔師</color>的關鍵。",,,
 scenario_puzzle_5a_09,"你的最終目標為：
 <line-height=20%>
 <line-height=100%>→ 擊殺剩下的<color=#C53F3F>強盜守衛</color>
-<line-height=20%>
-<line-height=100%><color=#32E632>乙太蘇生</color>可以收回燼牌堆中所有的牌，所以你應該可以輕鬆搞定這些強盜！",,,
+
+<color=#32E632>乙太蘇生</color>可以收回燼牌堆中所有的牌，所以你應該可以輕鬆搞定這些強盜！",,,
 scenario_puzzle_5a_10,因為幫助<color=#a06e4b>織魔師</color>脫離了險境，她同意加入公會！如你所見，她的技能非常強大，但因為需要更複雜的策略，使她成為一位操作難度較高的角色。,,,
 scenario_puzzle_5a_11,"利用她的能力再試一次吧！
 記得消耗元素來提升能力，而且在進行遠程<color=#1F9EDC>進攻</color><sprite name=Attack>時，不要相鄰目標而讓自己處於劣勢狀態！",,,
-scenario_puzzle_5a_obj_01,進行一次跳躍移動，以脫離強盜守衛的攻擊範圍並在這個回合存活下來,,,
+scenario_puzzle_5a_obj_01,透過一次跳躍移動，脫離強盜守衛的攻擊範圍並在這個回合存活下來,,,
 scenario_puzzle_5a_obj_02,消耗冰霜元素來提升冰霜新星的能力並擊殺生命值較低的強盜守衛,,,
 scenario_puzzle_5a_obj_03,擊殺剩下的強盜守衛,,,
 scenario_puzzle_5b_01,來見見<color=#a06e4b>機工巧匠</color>！他是團隊中重要的輔助角色，但必要時也可以承擔攻擊多個敵人的任務。看見那些骷髏了嗎，這正是我所說的“多個敵人”！,,,
@@ -11094,15 +11101,13 @@ scenario_puzzle_7b_03,"你本回合的目標為：
 <line-height=20%>
 <line-height=100%>→ <b><link=""Glossary_Summon"">召喚</link></b>一名盟友
 → 擊殺一隻<b>惡夜惡魔</b>
-<line-height=20%>
-<line-height=100%>一個重要提示：當你和你的<b><link=""Glossary_Summon"">召喚物</link></b>距離相同時，敵人會優先專注於你的召喚物。好好利用這一點！",,,
+
+一個重要提示：當你和你的<b><link=""Glossary_Summon"">召喚物</link></b>距離相同時，敵人會優先專注於你的召喚物。好好利用這一點！",,,
 scenario_puzzle_7b_04,"使用<color=#32E632><b>齧噬部落</b></color>來召喚一個“鼠群”，它能協助你戰勝這些惡魔！",,,
 scenario_puzzle_7b_05,"雖然你的強推能力卡已經被<link=""Glossary_burn"">移除</link>了，但是或許有其他辦法來讓一個敵人強制前進到陷阱上來承受一些直接傷害？",,,
 scenario_puzzle_7b_06,"你的最終目標為：
 <line-height=20%>
-<line-height=100%>→ 擊殺剩下的惡夜惡魔
-<line-height=20%>
-<line-height=100%>",,,
+<line-height=100%>→ 擊殺剩下的惡夜惡魔",,,
 scenario_puzzle_7b_07,"<b>心靈竊賊</b>還有一個特色是擁有一些帶有<b><link=""Glossary_Augment"">增強</link></b>技能的牌，比如<color=#32E632>凋零之爪</color>。
 
 在這種技能啟動時，會在她的近戰進攻中提供<link=""Glossary_Persistent""><b>持續</b></link>buff，不過通常她只能同時啟動一個<b><link=""Glossary_Augment"">增強</link></b>技能。當處於<b><link=""Glossary_Augment"">增強</link></b>的啟動狀態時，這些增益會直接追加到攻擊行動中。",,,
@@ -12276,7 +12281,7 @@ sweetwater,甜水地,,,
 swiftscars,速行車,,,
 swordlodge,藏劍房,,,
 taloncamp,禽爪營地,,,
-target,目標數,,,
+target,目標,,,
 target_alladjacentallies,目標為所有相鄰的盟友,,,
 target_alladjacentenemies,目標為所有相鄰的敵人,,,
 target_allallies,目標為所有盟友,,,
@@ -12622,7 +12627,7 @@ tutorial_2_text_025_2,基礎知識你都知道了，現在是時候讓你體驗�
 twohexobstacle,兩格障礙物,,,
 ui_augment_group_tooltip_cgflurry,損失 X 生命值以在這次攻擊增加 X 點攻擊力。,,,
 ui_augment_group_tooltip_cgmaw,損失 X 生命值以在這次攻擊增加 X 點攻擊力。,,,
-ui_augment_group_tooltip_cgreckless,損失 X 生命值以在這次攻擊增加 X 個目標數。,,,
+ui_augment_group_tooltip_cgreckless,損失 X 生命值以在這次攻擊增加 X 個目標。,,,
 ui_augment_group_tooltip_cgstrength,損失 X生命值以增加 X 點移動。,,,
 ui_augment_group_tooltip_title_cgflurry,狂亂斧劈,,,
 ui_augment_group_tooltip_title_cgmaw,瘋狂之喉,,,

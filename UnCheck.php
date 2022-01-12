@@ -5588,7 +5588,7 @@ and,和
 arcanegolem,秘法魔像
 ashenswordbarrow,阿什斯伍德之墓
 atendofturn,在輪次的結束
-attack,攻擊
+
 attack_area,攻擊範圍
 attackersgaindisadvantage,攻擊者們陷入劣勢進攻
 attacksapply,攻擊中附加
@@ -5596,7 +5596,7 @@ attacksinfuse,在攻擊中元素充能
 augment,角色特效賦能
 augment_discardreminder,當你的另一張<nobr><color=#A7B3D2>角色特效賦能</color> <sprite name=Augment></nobr>被打出，棄置這張卡。
 augment_onyourmeleeattacks,你的近戰進攻：
-aura,光環
+
 banditcommander,強盜指揮官
 battleboar,豪豬
 battlebot,戰鬥機器
@@ -6955,7 +6955,7 @@ gui_tooltip_select_recover_lost_cards,選擇回手{0}張被燒祭的卡。
 gui_tooltip_select_summon_movement,Choose to move the Summoned Ally towards its Summoner
 gui_tooltip_select_summon_movement_title,Summon Movement
 gui_tooltip_shields,護甲：一個帶護甲的角色減少X點所受到的攻擊。護甲值可以疊加。護甲僅適用於技能卡的“攻擊”傷害，不會阻止其他形式的傷害。
-gui_tooltip_short_rest_warning,需要2張或以上棄牌堆的卡牌。
+
 gui_tooltip_single_target,選擇一個單體目標。
 gui_tooltip_start_turn,讓每個角色選擇兩個技能卡打出或選擇休息。
 gui_tooltip_summon,召喚{0}
