@@ -5683,7 +5683,7 @@ dungeon_exit_descr_tooltip,"雇傭兵必須被放置在出口格子上才能完�
 當所有雇傭兵都站在出口格子上或精疲力盡時站在出口格子上時，就會完成逃生。 "
 dungeon_exit_tooltip,出口格子
 eaglecrest,鷹山頂
-eaglecrest_descr,鷹山頂村被Vineyards葡萄園所包圍，這個葡萄園接壤著行軍地更陡峭的北部邊緣。專家物品商店價格很高，但在可以找到罕見的商品。
+eaglecrest_descr,鷹山頂村被Vineyards葡萄園所包圍，這個葡萄園接壤著荒蕪地帶更陡峭的北部邊緣。專家物品商店價格很高，但在可以找到罕見的商品。
 earthbrand,大地劍
 eastgrove,東林地
 eastgrove_descr,這個低調的（unassuming）小村莊依偎在一個漂亮的叢林林間空地上。
@@ -6047,8 +6047,8 @@ giantrat,巨型鼠
 gianttoad,大蟾蜍
 giantviperid684,巨蟒臨近效果
 giantviperid685,巨蟒臨近效果
-gibbethill,絞架嶺
-gibbethill_descr,惡魔閘口鎮的東邊是絞架嶺，這裡的絞架是對肆虐該地區的強盜赤裸裸的警告。
+
+
 givesupplycard,給予卡牌
 gloomhaven_street_boilers_district,鍋爐街區
 gloomhaven_street_coin_district,硬幣街區
@@ -7229,13 +7229,6 @@ message_complete_achievement_1_5_unlocklocations_1,做的很好！所有荒涼�
 message_complete_achievement_1_5_unlocklocations_2,看起來邊境的村莊已經團結起來準備獎勵我們一大筆金幣了！
 
 
-message_end_quest_story_5c_1,我沒法表達我對你們有多感激......真的非常感謝。隨著對聖所威脅的消失，我們終於可以繼續恢復這裡的神廟。這需要一些時間來恢復到日常的工作，但我希望將來可以給你們提供幫助。向你道別。
-message_end_quest_story_5c_2,"等等，我們幹這個是<i>免費</i>的？！我以為我們會幹點能掙錢——哦，沒啥了......
-<size=90%>他們說加入一個公會<size=80%>他們說會很有趣<size=70%>“你會掙一大堆錢”......噗！<size=60%>*Grumble grumble*"
-message_end_quest_story_5c_3,"別在意他。感謝你，神廟將適時重新開啟，你會很樂意接受他們的祝福。
-現在，下一個和我們失去聯繫的村莊是行軍地。由於一些附近魔鼠營地的襲擊，這會兒道路被封鎖了。"
-message_end_quest_story_5c_4,"我希望你向北走，看看你能不能把他們趕走。
-哦，記得小心他們的獵犬。希望我臉上的疤能給你點警示——你靠近那些狗它們就會咬回來！"
 message_end_quest_story_6a_1,只有一條路需要被清理了，到那時我就能重新與足夠的供應商取得聯繫，讓我的商店重新營業！我相信你等不及想買點牛逼的裝備了。
 message_end_quest_story_6a_2,有些振奮人心的好消息！隨著你核心訓練接近尾聲，我希望你充分瞭解了不同的能力和效果如何相互影響。接下來的任務中你肯定需要些高科技的東西！
 message_end_quest_story_6a_3,無論如何，我為公會找到了可能的第五名傭兵，如果你能說服他加入的話。這傢伙有石拳，沒錯！就是字面上的意思！
@@ -7988,16 +7981,11 @@ quest_relic_steelring_unlock_2,在石板城下方的詛咒墓穴中隱藏著一�
 quest_relic_steelring_unlock_3,那裡不僅有邪教徒們和不死族，墓穴本身就會損害你的健康。記得帶上額外的治療藥品！
 
 
-quest_story_5c_desc,地穴中的不死族已經蘇醒——是時候讓他們重返沉眠了。
-quest_story_5c_intro,"許多侍者似乎很怕靠近這棟神廟，你在入口處碰見了守門人，她解釋到，地穴的大門已經被打開，雖然他們隨身都帶有一個聖徽，但是沒有人有勇氣進入地穴。
-她給了你一個神器，“你需要在地穴裡待上一段時間，然後這個徽記就會驅散並關閉大門，祝你好運。”她在前面一邊帶路一邊說道。"
-
-
 quest_story_7a_desc,再頑強的雇傭兵偶爾也需要援手。
 quest_story_7a_intro,當你發現自己再次來到了被遺棄的地穴入口時，你不禁向自己發問，是什麼讓這些雇傭軍前赴後繼地來探索這個不死族墳墓？黃金，肯定是黃金...你進入了墳墓，希望找到另一個需要你戰略知識的人。
 
 quest_story_7b_desc,如果身為惡魔獵人的她加入公會，那將是一筆寶貴的財富。
-quest_story_7b_intro,行軍地裡沒有人願意幫助你尋找亂心賊，當你提到魔鼠時他們都將頭轉了過去。你起身準備離開時，一個小女孩站起來說道：“我知道那個鼠人女士在哪，她說她要去城堡東邊地下的廢棄地牢裡趕走那些惡魔。她還給了我這個！”她向你展示了一個小小的稻草人偶，這個人偶是一個不怎麼討喜的老鼠形狀。於是你前往城堡，下到充滿黴味的地牢之中。
+quest_story_7b_intro,荒蕪地帶裡沒有人願意幫助你尋找亂心賊，當你提到魔鼠時他們都將頭轉了過去。你起身準備離開時，一個小女孩站起來說道：“我知道那個鼠人女士在哪，她說她要去城堡東邊地下的廢棄地牢裡趕走那些惡魔。她還給了我這個！”她向你展示了一個小小的稻草人偶，這個人偶是一個不怎麼討喜的老鼠形狀。於是你前往城堡，下到充滿黴味的地牢之中。
 
 
 quest_story_banditcommander_desc,所有證據都表明強盜頭目就在神殿廢墟，是時候去打到他了。
@@ -8285,7 +8273,7 @@ quest_travel_crystalhollow_intro,當你沿著古老的山路跋涉到水晶塔�
 quest_travel_crystalhollow_list,摧毀腐化的源頭
 quest_travel_crystalhollow_name,不眠洞窟
 quest_travel_demonspinehollow_desc,已經好幾個月沒人見到有人從魔脊洞穴出來了，從那片森林裡傳來的唯一的消息就是妖精們把村民嚇得目瞪口呆。
-quest_travel_demonspinehollow_intro,當你朝東南方向穿過行軍地時，話題聊到了那些你聽過的關於魔脊洞穴的故事，妖精和小妖詛咒旅行者和迷惑他們的牲畜的傳說，這一切聽起來遙不可及！當到達森林邊緣時，你產生了一種奇怪的感覺。這裡的色彩好像更加鮮豔，你還能聽到翅膀拍打的聲音。當然，這些只是你的想像…
+quest_travel_demonspinehollow_intro,當你朝東南方向穿過荒蕪地帶時，話題聊到了那些你聽過的關於魔脊洞穴的故事，妖精和小妖詛咒旅行者和迷惑他們的牲畜的傳說，這一切聽起來遙不可及！當到達森林邊緣時，你產生了一種奇怪的感覺。這裡的色彩好像更加鮮豔，你還能聽到翅膀拍打的聲音。當然，這些只是你的想像…
 quest_travel_demonspinehollow_list,詢問老婦人關於森林裡的神奇生物的傳說
 quest_travel_demonspinehollow_name,童話故事
 quest_travel_drakefirefarm_desc,龍火地附近的貿易已經停止了，那裡的莊稼死亡，牲畜患病。附近森林的一片區域已經被確認為是腐化的源頭。解決這個問題應該可以重啟龍火地的貿易。
@@ -8457,7 +8445,7 @@ quest_travel_thehole_name,冰之神廟
 quest_travel_themarches_desc,魔鼠群控制著這片區域——你必須清理掉它們的營地。
 quest_travel_themarches_intro,"在你從惡魔閘口鎮往北出發後，一路上腳下逐漸變得泥濘，周圍的農田也變成了小塊的林地。
 進入這些灌木叢，你聽到狼的嗥叫聲飄散在風裡，還有奇怪的、尖銳的咕嚕聲催促著狼群前進。這些傢伙好像聞到了你的氣味。你做好了戰鬥準備。"
-quest_travel_themarches_list,解鎖行軍地的貿易路線
+quest_travel_themarches_list,解鎖荒蕪地帶的貿易路線
 quest_travel_themarches_name,向北行軍
 quest_travel_thepyre_desc,居住在南方人類堡壘的最後一批守衛帶著有亡靈和怪物進攻他們的流言逃來了。是時候調查了。
 quest_travel_thepyre_intro,火州城是過去300年來人類所建造的堡壘，它標誌著人類在南方的進展。幾年前這裡還有人居住，但現在人們都把這座城市與鬼故事聯繫在一起。你在沙暴中到達了火州城。這裡空無一人，但你感覺不到任何不對勁的地方。風越刮越猛，你只好躲入地下，在一座古老的墳墓裡紮營。你在半夜突然被骨頭的劈啪聲驚醒，但還有更令人不安的東西：鎖鏈的哢嗒聲。
@@ -8484,7 +8472,7 @@ quest_travel_wayfarersrest_intro,你們找到了一個位於一小撮灌木叢�
 quest_travel_wayfarersrest_list,伏擊強盜團夥
 quest_travel_wayfarersrest_name,設下圈套
 quest_travel_wayward_desc,你得知那名薩維斯遊蕩者正在前往向路鎮。是時候前往那裡試試能否讓它為你們帶路了。
-quest_travel_wayward_intro,你們從行軍地向北前往這片區域的其中一個較大村莊，向路鎮。這裡是一個多種族融合的社區，並且一直作為薩維斯尋找志同道合的夥伴的地方存在著。旅途的前半程一直很和平，但隨著繼續前進，你們注意到天氣不合常理的開始刮起大風。狂風在你們抵達森林旁的庇護所前不斷增強著。你們擠在一小塊空地上，狂風在你們周圍呼嘯。就在你們用手護住雙臉時，風突然停了...
+quest_travel_wayward_intro,你們從荒蕪地帶向北前往這片區域的其中一個較大村莊，向路鎮。這裡是一個多種族融合的社區，並且一直作為薩維斯尋找志同道合的夥伴的地方存在著。旅途的前半程一直很和平，但隨著繼續前進，你們注意到天氣不合常理的開始刮起大風。狂風在你們抵達森林旁的庇護所前不斷增強著。你們擠在一小塊空地上，狂風在你們周圍呼嘯。就在你們用手護住雙臉時，風突然停了...
 quest_travel_wayward_list,調查位於向路鎮的薩維斯蹤跡
 quest_travel_wayward_name,變化之風
 quest_travel_wildspire_desc,每過一百年，荒野尖塔的人們都需要選出一隊代表。但這一次他們的實力太過貧瘠，所以需要你們的説明。
@@ -8678,9 +8666,6 @@ scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附
 ============================================================================
 
 
-scenario_puzzle_5c_01,墓穴充斥著污穢的氣息，是從房間角落裡的神秘傳送門裡散發出來的。面對未知的邪惡你繃緊了神經準備戰鬥。
-scenario_puzzle_5c_02,那些傳送門突然就消失了！無論之前是什麼樣的黑暗魔法在驅使著這些軀殼，現在都停了下來。那些屍體也重新癱倒在了地上。你成功擋住了不死生物的猛攻並且聖所再一次得到了安寧。
-scenario_puzzle_5c_obj_01,存活三個回合
 scenario_puzzle_6a_01,幾隻獵犬從灌木叢中鑽了出來，兇狠地朝你狂吠，沒多久就跟來了一個魔鼠哨兵。他似乎對撞上一隊傭兵感到有些驚訝，不過很快就鎮靜下來並且拉弓上弦，進入戰鬥狀態。
 scenario_puzzle_6a_02,你找到了一個防禦薄弱的魔鼠營地。把這些敵人趕走應該可以再次保障貿易路線的安全。
 scenario_puzzle_7a_01,"看看這個人見人愛的移動巨石—<b>岩石心</b>。我們的人數真是壓倒性的不利，看來需要採取一些防禦戰術。讓我們來看看<b><link=""Glossary_Retaliate"">復仇</link></b><sprite name=Retaliate>是如何起到作用並且幫助岩石心擺脫這個困境的。"
@@ -9882,8 +9867,7 @@ thehermitage,隱居地
 thehiddengarrison,隱蔽守衛
 thehole,崖洞
 thehole_descr,崖壁上的這個洞口似乎很安全，但在洞穴的後段是一個深的，完全圓形的洞。可以從下方深處聽到刮擦聲。如果你在這裡睡覺，最好保持警惕。
-themarches,行軍地
-themarches_descr,這片荒涼崎嶇的土地覆蓋了惡魔閘口鎮以北的地區，其特點是開闊的平原和山坡。眾所周知，隱藏的沼澤會帶走粗心的旅行者，所以要小心你的腳步。
+
 themournlighthideout,憂光隱匿所
 thenecropolis,死靈城
 theossuary,骨罐
