@@ -476,7 +476,7 @@ ability_card_cripplingbow,致殘弓
 ability_card_cripplingchorus,致殘和聲
 ability_card_cripplingnoose,致殘繩套
 ability_card_cripplingpoison,致殘毒藥
-ability_card_crushinggrasp,大地抓
+
 ability_card_crushinghammer,破碎錘
 ability_card_crystallizingblast,結晶轟爆
 ability_card_culltheweak,優勝劣汰
@@ -507,7 +507,7 @@ ability_card_domination,主宰
 ability_card_donoharm,慈悲為懷
 ability_card_doomedbreeze,厄運微息
 ability_card_duelistsadvance,上前單挑
-ability_card_earthenclod,大地固
+
 ability_card_earthenspikes,土力尖峰
 ability_card_earthensteed,土制駿馬
 ability_card_echoingaria,復仇詠歎調
@@ -630,7 +630,7 @@ ability_card_nimbleknife,龍頭刀
 ability_card_obsidianshards,黑曜石飛礫
 ability_card_oozingmanifestation,泥漿具現
 ability_card_openwound,放血
-ability_card_opposingstrike,左右開弓
+.
 ability_card_otherworldlyrage,異界之怒
 ability_card_oversizedpack,超大包裹
 ability_card_painsend,結束痛苦
