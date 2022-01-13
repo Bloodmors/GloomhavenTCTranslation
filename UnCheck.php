@@ -13,7 +13,7 @@
 030_t_1,在相鄰的一個空格內創建一個造成6點傷害的陷阱。
 030_t_2,當敵人觸發陷阱時獲得<sprite name=XP2>。
 031_t,召喚分身誘餌
-037_b,一名與你相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>所有的棄牌堆的卡牌。
+
 040_b,本輪中，你以及所有與你相鄰的盟友在所有攻擊中附加<nobr>+1攻擊力<sprite name=Attack>。</nobr>
 043_b_1,一名在你<nobr>射程<sprite name=Range>2</nobr>以內的盟友可以<nobr>回收<sprite name=Recover></nobr>一張其棄牌堆的卡牌。
 043_b_2,則最多兩張棄牌。
@@ -34,7 +34,7 @@
 058_b_2,所有與你相鄰的盟友損失2點生命值。
 058_t,損失2點生命值。
 060_b,在你<nobr>射程範圍<sprite name=Range>3</nobr>以內的一名盟友可以從他的職業牌堆中選擇一張符合當前等級的卡牌加入手牌，此效果持續到劇本結束。
-060_t,一名與你相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>至多兩張燒牌堆的卡牌，然後他們燒祭兩張牌。
+060_t,一名與你相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>最多兩張燒牌堆的卡牌，然後他們燒祭兩張牌。
 062_t,此外，指定所有在<nobr>主要目標路徑</nobr>上的敵人為目標。
 063_t,<nobr>回收<sprite name=Recover></nobr>所有你<nobr>燒牌堆的卡牌</nobr>。
 
@@ -47,7 +47,7 @@
 079_b,在敵人接下來對你的五次攻擊中，各獲得<nobr>復仇<sprite name=Retaliate>*BRetaliate*。</nobr>
 080_b,召喚燃燒幻象
 080_t,所有與目標相鄰的敵人<nobr>損失2點生命值，<sprite name=XP1>。</nobr>
-082_t,回收<sprite name=Recover>至多兩張你<nobr>燒牌堆的卡牌。</nobr>
+082_t,回收<sprite name=Recover>最多兩張你<nobr>燒牌堆的卡牌。</nobr>
 084_t_1,則拾取<sprite name=Loot>3，<sprite name=XP1>
 084_t_2,你不能通過此行動拾取超過四個金幣堆和寶藏。
 085_b,在接下來三次以你為目標的攻擊中，免疫受到的傷害並獲得<nobr>復仇<sprite name=Retaliate>3，</nobr><nobr>射程<sprite name=Range>3。</nobr>
@@ -86,7 +86,7 @@
 
 120_t,所有與目標相鄰的單位損失1點生命值。
 121_t,在你接下來的四次遠程進攻行動中，獲得附加目標<sprite name=Target>。
-122_t,摧毀一個相鄰的障礙物。
+
 
 
 
@@ -128,7 +128,7 @@
 152_b,強迫一個<nobr>射程範圍<sprite name=Range> 4以內</nobr>的敵人執行
 154_t,目標的每個負面狀態將為你的攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>並使你獲得<sprite name=XP1>。
 157_b,<nobr>射程範圍<sprite name=Range>3以內</nobr>的一名盟友<nobr>可以執行</nobr>
-157_t,一名相鄰的盟友可以執行
+
 159_t,召喚巨鼠
 160_b,本回合，強迫一個<nobr>射程範圍<sprite name=Range>3以內</nobr>的敵人執行它的行動輪。此時它將盟友視作敵人，將敵人（玩家）視作盟友。
 163_t,每個相鄰的敵人使你獲得一份額外的金幣堆
@@ -145,7 +145,7 @@
 175_t,在接下來的五次受到近戰進攻時，獲得<nobr>復仇<sprite name=Retaliate>*TRetaliate*。</nobr>
 177_t,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>一張他燒牌堆的卡牌。
 178_t_1,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>兩張他棄牌堆的卡牌。
-178_t_2,則至多三張棄牌堆的卡牌，<sprite name=XP1>。
+178_t_2,則最多三張棄牌堆的卡牌，<sprite name=XP1>。
 179_b,本回合，你和所有相鄰的盟友不受任何傷害。
 184_b,從你的所有移動行動中扣除-1前進<sprite name=Move>。
 185_t,治療一名<nobr>相鄰盟友</nobr>所受的所有傷害。
@@ -157,7 +157,7 @@
 197_b,本回合，所有的盟友在他們的移動行動中附加<nobr>+2移動力<sprite name=Move>。</nobr>
 197_t,本回合，所有盟友在他們的所有攻擊中附加<nobr>+1攻擊力<sprite name=Attack>。</nobr>
 199_t,在你執行任何攻擊行動前，你可以<sprite name=ConsumeLight>來為你的附加<nobr>+2攻擊力<sprite name=Attack></nobr>，並獲得優勢與<sprite name=XP1>。
-200_b,則至多兩張燒牌堆的卡牌，<sprite name=XP1>
+200_b,則最多兩張燒牌堆的卡牌，<sprite name=XP1>
 202_t,則消滅一個敵人，<sprite name=XP1>
 203_t,在你接下來的四次攻擊行動中，附加<nobr>+3攻擊力<sprite name=Attack></nobr>，<nobr>流血<sprite name=Wound></nobr>，並獲得優勢。
 204_t,當任意盟友受到傷害時，你可以代為損失減少1點的生命值。
@@ -167,9 +167,9 @@
 208_t,每當你執行攻擊行動時，如果你使用道具，就為你的攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
 215_t,<nobr>重置<sprite name=Refresh></nobr>你的一個已消耗的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
 216_t,一名相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>他所有的已使用的道具。
-217_b,<nobr>回收<sprite name=Recover></nobr>至多兩張你棄牌堆的卡牌。
+217_b,<nobr>回收<sprite name=Recover></nobr>最多兩張你棄牌堆的卡牌。
 217_t,你或一名相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>一個<nobr>單手道具<sprite name=InvOneHand></nobr>或<nobr>雙手道具<sprite name=InvTwoHands></nobr>。
-219_b,<nobr>回收<sprite name=Recover></nobr>至多兩張你燒牌堆的卡牌。
+219_b,<nobr>回收<sprite name=Recover></nobr>最多兩張你燒牌堆的卡牌。
 219_t,在你的每一個行動輪結束時，你可以棄掉一張牌牌使一名相鄰的盟友<nobr>重置<sprite name=Refresh></nobr>一個他已消耗的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
 221_t,一名相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>他所有的道具。
 223_t,在每回合結束時，<nobr>重置<sprite name=Refresh></nobr>你的一個已使用的道具。
@@ -184,7 +184,7 @@
 232_b,你和所有相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>所有已消耗的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
 235_b,本回合，所有以你或召喚物夥伴為目標的攻擊獲得劣勢。
 235_t,2只暗影幽狼
-236_b,回收<sprite name=Recover>至多四張你<nobr>燒牌堆的卡牌。</nobr>
+236_b,回收<sprite name=Recover>最多四張你<nobr>燒牌堆的卡牌。</nobr>
 238_t,一名相鄰的召喚物夥伴執行
 245_t,在你或者任意你的召喚物執行移動行動前，你可以<sprite name=ConsumeEarth>來附加<nobr>+2移動力<sprite name=Move></nobr>並獲得<sprite name=XP1>。
 247_t,消滅所有相鄰的普通級別敵人如果它們的生命值小於或等於5點。
@@ -220,7 +220,7 @@
 304_t,對所有<nobr>與指定目標相鄰</nobr>的盟友施加<nobr>中毒<sprite name=Poison></nobr>。
 305_t,消滅一個<nobr>射程範圍<sprite name=Range>3以內</nobr>的處於<nobr>中毒<sprite name=Poison></nobr>的普通級別敵人。
 309_t,所有處於<nobr>中毒<sprite name=Poison></nobr>的敵人損失<nobr>1點生命值。</nobr>
-310_b,所有處於<nobr>中毒<sprite name=Poison></nobr>的盟友可以<nobr>回收<sprite name=Recover></nobr>至多兩張他們棄牌堆的卡牌。
+310_b,所有處於<nobr>中毒<sprite name=Poison></nobr>的盟友可以<nobr>回收<sprite name=Recover></nobr>最多兩張他們棄牌堆的卡牌。
 310_t,在你的每次移動行動前，你可以損失1點生命值使一個處於<nobr>中毒<sprite name=Poison></nobr>的敵人損失3點生命值。
 314_t,如果一個敵人因<nobr>詛咒<sprite name=Curse></nobr>在攻擊中未造成傷害，使該敵人損失<nobr>3點生命值。</nobr>
 316_b,本回合，你的下一次攻擊行動的攻擊力翻倍。
@@ -242,11 +242,11 @@
 331_b,你可以損失2點生命值來<nobr>擊暈<sprite name=Stun></nobr>一個相鄰的敵人。
 331_t,你可以損失2點生命值來獲得<nobr>護盾<sprite name=Shield>1，<sprite name=XP1></nobr>。
 332_b,所有指定你為目標的近戰進攻附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
-332_t,你可以損失至多3點生命值。
+332_t,你可以損失最多3點生命值。
 333_b,如果你的當前生命值小於你最大生命值的一半<nobr>（向上取整）</nobr>，為你的移動行動附加<nobr>+2移動力<sprite name=Move></nobr>。
 334_t,本回合，你的每次<nobr>復仇<sprite name=Retaliate></nobr>造成2點額外傷害。
 335_t,如果一個相鄰的普通級別敵人的當前生命值小於你已損失生命值的一半（向上取整），消滅該敵人。
-336_t,你可以損失至多4點生命值。
+336_t,你可以損失最多4點生命值。
 337_b,本回合，你的所有攻擊獲得優勢，所有指定你為目標的攻擊獲得劣勢。
 337_b_1,本回合，你的所有攻擊獲得優勢。
 337_b_2,本回合，所有指定你為目標的攻擊獲得劣勢。
@@ -260,7 +260,7 @@
 345_b,本回合，為你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>，<sprite name=XP1>。
 345_t,在接下來五次你受到傷害時，執行一次<nobr>“進攻<sprite name=Attack> 3”</nobr>行動，即使你的射程範圍內沒有敵人，依然執行此行動。
 346_t,免疫你接下來將受到的五次傷害。
-347_b,你可以損失至多5點生命值。
+347_b,你可以損失最多5點生命值。
 347_t,你每對一個敵人造成傷害，執行一次“<nobr>治療<sprite name=Heal>2</nobr>，目標為自己”的行動。
 348_t,所有盟友在他們的每個行動輪可以為一次攻擊附加+1攻擊力<sprite name=Attack>。
 349_b,本回合，<nobr>射程範圍<sprite name=Range>2以內</nobr>的任意一名盟友免疫一次他接下來將受到的傷害。
@@ -325,7 +325,7 @@
 403_b,如果此敵人死亡，且它的<nobr>射程範圍<sprite name=Range>2以內</nobr>有另外一個敵人，可將此卡與另外一張<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>轉移到該敵人上，而不是棄掉它們。
 405_b,當指定此敵人為目標時，為你和所有盟友的攻擊附加<nobr>+X攻擊力<sprite name=Attack></nobr>，X是射程範圍和同敵人距離的差值。
 406_b,將所有啟動的<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>轉移到你<nobr>射程範圍<sprite name=Range>4以內</nobr>的一個敵人上。
-406_t,強迫目標向離它最近的敵人移動至多三格。
+406_t,強迫目標向離它最近的敵人移動最多三格。
 407_t,給一名相鄰的盟友一張“<nobr>醫療包</nobr>”技能卡。
 408_b,本回合，你的所有治療行動同時對你，及與目標相鄰的盟友生效。
 409_b,本回合，你的所有近戰進攻將指定所有相鄰的敵人為目標。
@@ -3079,11 +3079,11 @@ item_crystalofzenith,在你的行動輪結束時，如果與無瑕者相鄰，�
 item_curiousgear,在你的行動輪中，解除所有<nobr>射程範圍<sprite name=Range>2</nobr>以內的陷阱。
 item_dampeningring,在你的行動輪中，消耗至多2個元素而不產生任何效果。
 item_doomedcompass,在你的行動輪中，強迫一個<nobr>射程範圍<sprite name=Range> 5</nobr>以內的敵人執行一次<nobr>“移動<sprite name=Move>2”</nobr>行動，由你操控移動的方向。
-item_doompowder,在你攻擊時，對你的單次攻擊附加<nobr>擊暈<sprite name=Stun></nobr>，<nobr>中毒<sprite name=Poison>，</nobr>和<nobr>詛咒<sprite name=Curse></nobr>。
+item_doompowder,【你的進攻中】對你的單次攻擊附加<nobr>擊暈<sprite name=Stun></nobr>，<nobr>中毒<sprite name=Poison>，</nobr>和<nobr>詛咒<sprite name=Curse></nobr>。
 item_drakescalearmor,你免疫中毒<sprite name=Poison>和流血<sprite name=Wound>
 	item_drakescaleboots,你不受困難地形和危險地形的影響。
 item_drakescalehelm,任何時候，當你獲得混亂<sprite name=Muddle>時，則改為獲得強化<sprite name=Strengthen>。
-item_eagleeyegoggles,在你攻擊時，使你的整個攻擊行動獲得優勢。
+
 item_empoweringtalisman,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>自身一個已消耗<sprite name=InvSmallItem>道具。
 item_endurancefootwraps,若在你自己的行動輪中的移動了4個或更多格子，則執行一次<nobr>“治療<sprite name=Heal>1，自身”</nobr>行動。
 item_falconfigurine,召喚玉鷹
@@ -3110,15 +3110,12 @@ item_longspear,在你對單個目標使用近戰進攻時，將攻擊改為執�
 item_luckyeye,在你的行動輪中，你和相鄰的盟友獲得<nobr>強化<sprite name=Strengthen></nobr>。
 item_magmawaders,忽略危險地形的傷害。每個行動輪中首次進入危險地形時，你可以立即執行一次“治療2，自身”。
 item_majorcurepotion,在你的行動輪中，移除自身的所有負面狀態。此道具可以在你處於<nobr>擊暈<sprite name=Stun></nobr>狀態時使用。
-item_majormanapotion,在你的行動輪中，生成任意兩個元素。
-item_majorpowerpotion,在你進行攻擊時，對你的整個攻擊行動輪附加<nobr>+2進攻<sprite name=Attack></nobr>。
-item_majorstaminapotion,在你的行動輪中，<nobr>回收<sprite name=Recover></nobr>至多2張在你棄牌堆裡的卡牌。
+
+
 item_maskofterror,在你進行近戰進攻時，附加<nobr>強推<sprite name=Push>1。</nobr>
 item_minorcurepotion,在你的行動輪中，移除自身一個負面狀態。此道具可以在你處於<nobr>擊暈<sprite name=Stun></nobr>狀態時使用。
-item_minormanapotion,在你的行動輪中，生成任意一個元素。
-item_minorpowerpotion,在你進行攻擊時，對你的整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
-item_minorstaminapotion,在你的行動輪中，<nobr>回收<sprite name=Recover></nobr>至多1張在你棄牌堆裡的卡牌。
-item_moonearring,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>所有你已使用的道具。
+
+
 item_mountainhammer,Item_MountainHammer PLACEHOLDER
 item_mountainhammer_1,召喚戰爭英靈
 item_mountainhammer_2,生命值：4 移動力：1
@@ -3158,7 +3155,7 @@ item_name_heartofthebetrayer,背叛者之心
 item_name_heavybasinet,重型鋼盔
 item_name_helixring,雙生環戒
 item_name_helmofthemountain,山嶺頭盔
-item_name_hidearmor,獸皮甲
+
 item_name_hookedchain,鎖鏈鉤
 item_name_infernoblade,獄炎之刃
 item_name_luckyeye,幸運之眼
@@ -3170,13 +3167,13 @@ item_name_nightblade,暗夜之刃
 item_name_occultdagger,神秘匕首
 item_name_orbofdawn,黎明法球
 item_name_orboftwilight,暮光法球
-item_name_piercingbow,穿刺弓
+
 item_name_platemail,板甲
-item_name_poisondagger,淬毒匕首
+
 item_name_powercore,能量核心
 item_name_protectivecharm,守護魔符
 item_name_remotespider,遙控蜘蛛
-item_name_resonantcrystal,共振水晶
+
 item_name_ringofbrutality,殘暴之戒
 item_name_ringofhaste,急促之戒
 item_name_robesofevocation,喚能法袍
@@ -3234,7 +3231,7 @@ item_powercore,Item_PowerCore PLACEHOLDER
 item_protectivecharm,你免疫中毒<sprite name=Poison>和流血<sprite name=Wound>
 	item_reapingscythe,在你對單個目標使用近戰進攻時，將攻擊改為執行以下步驟：
 item_remotespider,在你的行動輪中，對所有相鄰的敵人施加<nobr>中毒<sprite name=Poison></nobr>。
-item_resonantcrystal,在你的行動輪中，摧毀一個相鄰的障礙物。
+
 item_ringofbrutality,在你的行動輪結束時，從手牌中打出一張牌並立即執行卡的上半部分行動。
 item_ringofhaste,在你的行動輪結束時，從手牌中打出一張牌並立即執行卡的下半部分行動。
 item_ringofskulls,召喚骷髏
@@ -5536,7 +5533,7 @@ summoner_weaknesses,"- <indent=%15>低傷害輸出能力</indent>
 #endregion 角色介紹
 ================================================================================================================================================
 abandonedfarm_descr,一個廢棄的農場就位於通往奇波特港的大道旁邊。 林煙的氣味在這裡縈繞，大部分的屋頂已經坍塌，但仍有一些房間可以住一晚。
-addaugment,增加特效賦能
+
 addheal,增加回血量
 addrange,增加射程
 addsong,額外的戰歌容量
