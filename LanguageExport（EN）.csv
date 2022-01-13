@@ -5489,10 +5489,10 @@ gui_objective_kill_x_lose_filtered,"Lose if {0} {1} die
 "
 gui_objective_kill_x_win,Kill {0} enemies to win
 gui_objective_kill_x_win_filtered,Kill {0} {1} to win
-gui_objective_loot_x_lose,Lose if you loot {0}
-gui_objective_loot_x_lose_filtered,Lose if you loot {0} {1}
-gui_objective_loot_x_win,Loot {0} to win
-gui_objective_loot_x_win_filtered,Loot {0} {1} to win
+
+
+
+
 gui_objective_reach_position_lose,Lose if {0} enemies reach dungeon exit
 gui_objective_reach_position_win,Reach dungeon exit with {0} mercenaries to win
 gui_objective_reach_round_lose,Lose in {0} rounds
@@ -6606,7 +6606,7 @@ message_end_quest_story_7a_4,"Don't let the rodent exterior fool you, they aren'
 
 I vote we find this <b>Mindthief</b> and see if she fancies joining us for a chance at greater glory... than hunting demons. Okay, perhaps not <i>greater</i> glory just yet, but glory all the same."
 message_end_quest_story_7b_1,"Now we’ve got the Guild going, we're starting to get job requests coming in from far and wide. I'm also hearing rumours regarding the locations of powerful artifacts that could be worth investigating."
-message_end_quest_story_7b_2,"In fact, you should check this one out first: A few nights ago a falling star was said to have been seen landing in a forest clearing near Gibbet Hill, but when villagers went to investigate, there was no trace of anything having landed there."
+ fact, you should check this one out first: A few nights ago a falling star was said to have been seen landing in a forest clearing near Gibbet Hill, but when villagers went to investigate, there was no trace of anything having landed there."
 message_end_quest_story_7b_3,"A day or so later, they started experiencing minor earthquakes emanating just north of the village, not far from the clearing. Nothing up there except an old, decrepit crypt - and the villagers, being villagers, are too scared to investigate. "
 message_end_quest_story_7b_4,"Sounds like a magical artifact of some kind to me, you should go check it out!"
 message_end_quest_story_7b_5,"I recommend you bring along the <b>Cragheart</b> and <b>Mindthief</b>, they should easily be up to the task."
@@ -10935,7 +10935,7 @@ scenario_relic_remotespider_sm1_desc,Vermling Scouts have Poison added to their 
 scenario_relic_remotespider_start_1,"Look at them, living in a cave with Snakes. This is not how Vermlings should live!"
 scenario_relic_remotespider_start_2,"Beware the archers, they also have Poisoned arrows... Attack!"
 scenario_relic_remotespider_success_1,Well fought! These Vermling shall no longer be plaguing my tribe!
-scenario_relic_resonantcrystal_room_2_1,"It’s clear this room is being used as some kind of storage dump, and you can see a chest sitting on the floor. Time to grab the loot and silence anyone who stands in your way."
+scenario_relic_resonantcrystal_room_2_1 Time to grab the loot and silence anyone who stands in your way."
 scenario_relic_resonantcrystal_start_1,"Entering the tomb, you are greeted by the angry shouts of bandits."
 scenario_relic_resonantcrystal_start_2,"You ain’t getting this star stone, we found it, so Bugger off!"
 scenario_relic_resonantcrystal_start_3,"He turns to one of his accomplices and tells them to guard the back room. Well, now you know where it is being stored, smart guy..."

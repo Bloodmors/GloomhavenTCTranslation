@@ -10,23 +10,23 @@
 022_t,消滅一個與你相鄰的被<nobr>擊暈<sprite name=Stun></nobr>的普通級別敵人。
 023_b,你可以將所有的<nobr>前進<sprite name=Move></nobr>能力轉化為等值的<nobr>進攻<sprite name=Attack></nobr>行動。
 026_b,本回合中，你對處於<nobr>繳械<sprite name=Disarm></nobr>，<nobr>禁足<sprite name=Immobilize></nobr>，<nobr>擊暈<sprite name=Stun></nobr>狀態敵人的攻擊附加<nobr>+3攻擊力<sprite name=Attack>。</nobr>
-030_t_1,在相鄰的一個空格子內創建一個造成6點傷害的陷阱。
+030_t_1,在相鄰的一個空格內創建一個造成6點傷害的陷阱。
 030_t_2,當敵人觸發陷阱時獲得<sprite name=XP2>。
 031_t,召喚分身誘餌
 037_b,一名與你相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>所有的棄牌堆的卡牌。
 040_b,本輪中，你以及所有與你相鄰的盟友在所有攻擊中附加<nobr>+1攻擊力<sprite name=Attack>。</nobr>
 043_b_1,一名在你<nobr>射程<sprite name=Range>2</nobr>以內的盟友可以<nobr>回收<sprite name=Recover></nobr>一張其棄牌堆的卡牌。
 043_b_2,則最多兩張棄牌。
-043_t,在一個相鄰的空格子內創建一個2點傷害的附加中毒<sprite name=Poison>的陷阱。
+043_t,在一個相鄰的空格內創建一個2點傷害的附加中毒<sprite name=Poison>的陷阱。
 044_t,你接下來的4次治療能力附加<nobr>+2治療值<sprite name=Heal>。</nobr>
 045_b,<nobr>射程範圍<sprite name=Range>3</nobr>內的一名盟友可以<nobr>回收<sprite name=Recover></nobr>一張他的燒牌堆的卡牌。
-047_b,在一個相鄰的空格子內創建一個附加擊暈<sprite name=Stun>的陷阱。
+047_b,在一個相鄰的空格內創建一個附加擊暈<sprite name=Stun>的陷阱。
 049_t,召喚戰鬥機器
 051_t,一名相鄰盟友可以<nobr>重置<sprite name=Refresh></nobr>他的一個已消耗的隨身物品<sprite name=InvSmallItem>。
 052_t_1,消滅目的地區域內當前生命值<nobr>小於或等於5</nobr>的所有敵人。
 052_t_2,每消滅一個敵人獲得<sprite name=XP1>。
 053_b,在你接下來的四個輪次結束時，每輪可以選擇一名<nobr>射程範圍<sprite name=Range>3</nobr>內的盟友<nobr>回收<sprite name=Recover></nobr>一張他的棄牌堆的卡牌。
-053_t,在相鄰的一個空格子內創建一個造成4傷害並附加<nobr>混亂<sprite name=Muddle></nobr>的陷阱。
+053_t,在相鄰的一個空格內創建一個造成4傷害並附加<nobr>混亂<sprite name=Muddle></nobr>的陷阱。
 054_t,在你接下來的五個行動輪結束時，執行一次<nobr>“進攻<sprite name=Attack>2，</nobr><nobr>射程範圍<sprite name=Range>5”</nobr>的行動。
 055_t,召喚殺戮機器
 057_t,所有<nobr>射程範圍<sprite name=Range>3以內</nobr>的召喚物夥伴都<nobr>可以執行</nobr>
@@ -82,7 +82,7 @@
 114_b,本回合，強迫一個相鄰的敵人來執行它的行動輪。此時它將敵人（玩家）視作盟友，將盟友視作敵人，並由你操控它的行動。
 115_t,為你的所有攻擊附加<nobr>中毒<sprite name=Poison></nobr>和<nobr>流血<sprite name=Wound></nobr>。
 116_b,在接下來六次受到近戰進攻時，獲得<nobr>復仇<sprite name=Retaliate>*BRetaliate*。</nobr>
-118_b,在相鄰的兩個空格子內分別創建兩個占一格的障礙物。
+118_b,在相鄰的兩個空格內分別創建兩個占一格的障礙物。
 119_b,所有相鄰的單位損失*BDamage* 點生命值。
 120_t,所有與目標相鄰的單位損失1點生命值。
 121_t,在你接下來的四次遠程進攻行動中，獲得附加目標<sprite name=Target>。
@@ -100,16 +100,16 @@
 130_t,指定所有與被摧毀的障礙物相鄰的敵人為目標。
 131_t,影響目的地區域中的所有盟友
 132_b,摧毀你經過的所有障礙物，解除你經過的所有陷阱。
-132_t_1,將一個相鄰的單格的障礙物移動到<nobr>射程範圍<sprite name=Range> 4</nobr>以內的空格子中。
+132_t_1,將一個相鄰的單格的障礙物移動到<nobr>射程範圍<sprite name=Range> 4</nobr>以內的空格中。
 132_t_2,指定所有與移動後的障礙物相鄰的敵人為目標
-134_t_1,在<nobr>射程範圍<sprite name=Range> 4</nobr>以內，在三個空格子上創建三個單格的障礙物。
+134_t_1,在<nobr>射程範圍<sprite name=Range> 4</nobr>以內，在三個空格上創建三個單格的障礙物。
 134_t_2,所有與創造出的障礙物相鄰的單位損失2點生命值。
 136_t_1,消滅一個<nobr>射程範圍<sprite name=Range> 4以內</nobr>的普通級別敵人。
 136_t_2,在敵人死亡的格子中創建一個單格的障礙物。
 137_b,在你接下來的四次近戰進攻時，盡可能地摧毀一個相鄰的障礙物來為你的攻擊附加<nobr>+3 攻擊力<sprite name=Attack></nobr>。
-138_t,在一個相鄰的空格子中創建一個2點傷害的附加擊暈<sprite name=Stun>的陷阱
+138_t,在一個相鄰的空格中創建一個2點傷害的附加擊暈<sprite name=Stun>的陷阱
 139_t,禁足<sprite name=Immobilize>目的地區域中所有的單位。
-140_t_1,在<nobr>射程範圍<sprite name=Range> 3以內</nobr>的三角形空格子上創建一個占三個格子的三角形障礙物。
+140_t_1,在<nobr>射程範圍<sprite name=Range> 3以內</nobr>的三角形空格上創建一個占三個格子的三角形障礙物。
 140_t_2,指定所有與該障礙物相鄰的敵人為目標
 141_b_1,本回合，為你的所有遠程進攻附加+1攻擊力<sprite name=Attack>。
 141_b_1_alt,本回合，為你的所有遠程進攻附加+2攻擊力<sprite name=Attack>。
@@ -126,7 +126,6 @@
 146_b_2,由你操控該行動並指定另一個你的敵人為目標。
 146_t,目標的每個負面狀態將為你的攻擊附加+1攻擊力<sprite name=Attack>。
 149_b,如果你停留在你執行移動行動時所處的格子上，執行
-150_t,召喚瘟疫之源
 152_b,強迫一個<nobr>射程範圍<sprite name=Range> 4以內</nobr>的敵人執行
 154_t,目標的每個負面狀態將為你的攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>並使你獲得<sprite name=XP1>。
 157_b,<nobr>射程範圍<sprite name=Range>3以內</nobr>的一名盟友<nobr>可以執行</nobr>
@@ -289,19 +288,19 @@
 376_b,當你指定此敵人為目標時，為你的所有攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>。
 376_t,接下來四次當有<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>的敵人死亡時，執行一次“<nobr>進攻<sprite name=Attack>2</nobr>，<nobr>射程範圍<sprite name=Range>5</nobr>”的行動。
 377_b,此敵人的<nobr>攻擊力<sprite name=Attack></nobr>，<nobr>移動力<sprite name=Move></nobr>以及<nobr>射程範圍<sprite name=Range></nobr>均減少1點。
-377_t_1,在一個相鄰的空格子中創建一個4點傷害的附加<nobr>擊暈<sprite name=Stun></nobr>的陷阱。
+377_t_1,在一個相鄰的空格中創建一個4點傷害的附加<nobr>擊暈<sprite name=Stun></nobr>的陷阱。
 377_t_2,當敵人觸發陷阱時獲得<sprite name=XP2>。
 378_b,當此敵人死亡時，移動到它所在的格子。
 379_b,當此敵人死亡時，執行一次“<nobr>治療<sprite name=Heal>4</nobr>，目標為自己”的行動。
 380_b,此敵人在它的每個行動輪開始時損失2點生命值。
 381_b,當指定該敵人為目標時，所有盟友為他們的攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
 382_b,當此敵人死亡時，所有與它相鄰的敵人損失3點生命值。
-382_t_1,在相鄰的一個空格子內創建一個造成3點傷害的陷阱。
+382_t_1,在相鄰的一個空格內創建一個造成3點傷害的陷阱。
 382_t_2,當此陷阱觸發時，所有與它相鄰的敵人損失2點生命值。
 382_t_3,當敵人踩中陷阱時獲得<sprite name=XP2>。
 383_b,當此敵人死亡時，強迫所有與它相鄰的敵人執行一次“<nobr>移動<sprite name=Move>1</nobr>”行動，並由你操控移動的方向。
 383_t,接下來三次，當帶有<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>的敵人死亡時，如果它的<nobr>射程範圍<sprite name=Range>2以內</nobr>有另一名敵人，則將<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>轉移到該敵人上。
-384_t,在相鄰的一個空格子內創建一個造成2點傷害附加<nobr>禁足<sprite name=Immobilize></nobr>的陷阱。
+384_t,在相鄰的一個空格內創建一個造成2點傷害附加<nobr>禁足<sprite name=Immobilize></nobr>的陷阱。
 387_t,如果你的目標有<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>，則為你的攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。
 388_b,每當此敵人受到傷害時，執行一次“<nobr>治療<sprite name=Heal>2</nobr>，目標為自己”的行動。
 389_b,當召喚物夥伴指定此敵人為目標時，為他們的所有攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>。
@@ -313,7 +312,7 @@
 393_b,當此敵人死亡時，執行一次“<nobr>進攻<sprite name=Attack>2</nobr>，<nobr>射程範圍<sprite name=Range>3</nobr>，<nobr>目標<sprite name=Target>3</nobr>”的行動。
 394_t,如果目標帶有<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>，為你的攻擊附加<nobr>+3攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。
 395_b,指定此敵人為目標時，你和所有盟友的攻擊獲得優勢。
-396_t_1,在相鄰的一個空格子內創建一個造成2點傷害附加<nobr>流血<sprite name=Wound></nobr>的陷阱。
+396_t_1,在相鄰的一個空格內創建一個造成2點傷害附加<nobr>流血<sprite name=Wound></nobr>的陷阱。
 396_t_2,當此陷阱觸發時，對所有與該陷阱相鄰的敵人附加<nobr>流血<sprite name=Wound></nobr>。
 397_b,在接下來三個行動輪開始時，將此卡的效果推進一次。在此效果推進三次後，消滅目標並棄掉這張卡。
 397_b_reminder,為任意一名敵人施加<b><color=#39BEED>厄運</color>。
@@ -382,21 +381,21 @@
 504_t,消滅一個當前生命值小於等於6的，相鄰的，普通級別敵人。
 505_b,回收<sprite name=Recover>至多兩張帶有召喚行動的，你燒牌堆的卡牌。
 505_t,所有相鄰的盟友為他們的所有攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>。
-538,在相鄰的一個距離敵人最近的空格子內創建一個造成3傷害的陷阱。
+538,在相鄰的一個距離敵人最近的空格內創建一個造成3傷害的陷阱。
 542,如果攻擊目標與任意獵犬的盟友相鄰，附加<nobr>+2攻擊力<sprite name=Attack></nobr>。
 569,行屍損失*Damage1*點生命值。
 609,邪教徒損失*Damage1*點生命值。
 627,冰霜惡魔損失*CFireDamage*點生命值。
 633,烈焰惡魔損失*CIceDamage*點生命值。
 634,所有相鄰的敵人損失2點生命值。
-635,在相鄰的一個距離敵人最近的空格子內創建一個造成4點傷害的陷阱。
+635,在相鄰的一個距離敵人最近的空格內創建一個造成4點傷害的陷阱。
 636,指定所有射程範圍<sprite name=Range>3以內的敵人為目標。
 667,所有相鄰的單位損失 *Damage1* 點生命值。
 684,如果目標與巨蟒的盟友相鄰，附加<nobr>+2攻擊力<sprite name=Attack></nobr>。
 689,本回合，指定巨蟒為目標的所有攻擊獲得劣勢。
 697_a,軟泥怪損失 *Damage2* 點生命值。
 697_b,召喚普通級別軟泥怪，召喚物的生命值等於召喚者的當前生命值（不可超過普通級別軟泥怪在該等級的最大生命值）。
-738,在目標相鄰的一個空格子上召喚一個普通級別深淵的恐怖。
+738,在目標相鄰的一個空格上召喚一個普通級別深淵的恐怖。
 741,石魔偶損失*Damage1*點生命值。
 744,石魔偶損失*Damage2*點生命值。
 ================================================================================================================================================
@@ -1464,7 +1463,7 @@ error_choreo_00118,無法處理清除路徑點及目標
 error_choreo_00119,無法處理召喚物夥伴不再被操控
 error_choreo_00120,無法處理行動者正在應用操控行動者
 error_choreo_00121,無法處理行動者被操控
-error_choreo_00122,無法處理行動者正在應用增加角色特效賦能
+error_choreo_00122,無法處理行動者正在應用增加特效賦能
 error_choreo_00123,Could not process Apply To Actor Add Augment
 error_choreo_00124,無法處理行動者正在應用增加戰歌
 error_choreo_00125,Could not process Apply To Actor Add Song
@@ -1836,7 +1835,7 @@ event_city_campaign_14_result_b,自信謹慎的你走向碼頭，人群自覺地
 event_city_campaign_15_intro,"真是個美妙的夜晚，酒精讓你們的記憶模模糊糊的，只記得每個人都喝了不少。你們興致高昂地往自己的住處走去，沒想卻轉到一個錯誤的拐角，進入了一條小巷。你們其中一人被一具殘破的屍體給絆倒了。
 “發生什麼了？”你抬起頭看到一個城市衛兵走進小巷，他顯然被你們剛才的狂歡聲吵得有些煩躁。
 還沒等你們作出反應，他就拔出了自己的佩劍：“你…你們究竟做了些什麼？”
-這時你這才發現，剛才你摔在地上使衣服染滿了鮮血。這個衛兵很明顯把你們當作殺死受害者的兇手。這個美妙的夜晚突然間向著最差的方向來了一個急轉彎。"
+這時你這才發現，剛才你摔在地上使衣服染滿了鮮血。這個衛兵顯然把你們當作殺死受害者的兇手。這個美妙的夜晚突然間向著最差的方向來了一個急轉彎。"
 event_city_campaign_15_option_a,盡你所能去解釋，當你們發現這具屍體之際，它就已經是這副模樣了。
 event_city_campaign_15_option_b,慌亂之中殺死這個衛兵，然後處理掉這兩具屍體。
 event_city_campaign_15_result_a_a,你們馬上從醉態中醒來，然後向衛兵說明了情況。很走運，這個衛兵聽說過你們的事蹟並且相信了你們。在詳細追問了幾個問題之後，他相信你們是無辜的，並允許你們離開。
@@ -1903,7 +1902,7 @@ event_city_campaign_21_intro,"“有人跟我說，要是想委託工作的話�
 event_city_campaign_21_option_a,在答應尋找他的兄弟之前先要求報酬。
 event_city_campaign_21_option_b,答應幫忙尋找他的兄弟。
 event_city_campaign_21_result_a_a,“什麼？我…唉，好吧，”男人結結巴巴地念叨了幾句，“我相信你們會信守諾言的，那這些金幣就當是我給你們添麻煩的補償吧。”他向你們詳細描述了他兄弟的樣貌，然後遞給你們一把金幣。
-event_city_campaign_21_result_a_b,那個男人因為氣憤漲紅了臉頰，很明顯他是被你們的行為所冒犯了。之後他帶著一臉怒氣離開了酒館。
+event_city_campaign_21_result_a_b,那個男人因為氣憤漲紅了臉頰，顯然他是被你們的行為所冒犯了。之後他帶著一臉怒氣離開了酒館。
 event_city_campaign_21_result_b,男人不斷地向你們表示感謝，然後給你們詳細地描述了他兄弟的外貌。“如果你們找到他的話，不管究竟發生了什麼事，一定把事實告訴我，不要隱瞞。”
 event_city_campaign_22_intro,"你們決定在晚上去棕門酒吧欣賞一場智元族的音樂會。
 墮落與犯罪等事情在這個酒吧裡氾濫成災，但是這裡的音樂也是整個黯淡港灣裡獨一無二的。
@@ -1983,7 +1982,7 @@ event_city_campaign_30_option_a,馬上追過去。偷了你的東西還想逃？
 event_city_campaign_30_option_b,站在原地，趁他還沒逃進下水道之前，拿起弓箭向他來一發。
 event_city_campaign_30_result_a_a,那個魔鼠小偷逃入了下水道，但是你們團隊中的亂心賊有辦法追蹤他，最後在這個小偷的老巢裡逮到了他，除了你們被偷的東西之外，還發現這裡有其它的財物，而且數量也不少。
 event_city_campaign_30_result_a_b,那個魔鼠小偷逃入了下水道，你們追了上去試圖抓住他。但是幾分鐘後，毫無頭緒的你們不得不放棄而歸。
-event_city_campaign_30_result_b,你抬起弓箭瞄準那個魔鼠小偷。看到這個情形，一個路過的女人尖叫起來，你盡力不讓她影響到你。那個小偷停下來想開打下水道的柵欄，就在這時，你射出了箭矢，那只全身是毛的小偷應聲倒下。你們笑著過去從屍體上取回了被盜的財物，但是迎來的卻是許多厭惡的目光。很明顯在這麼擁擠的道路上張弓射箭是不會受到歡迎的。
+event_city_campaign_30_result_b,你抬起弓箭瞄準那個魔鼠小偷。看到這個情形，一個路過的女人尖叫起來，你盡力不讓她影響到你。那個小偷停下來想開打下水道的柵欄，就在這時，你射出了箭矢，那只全身是毛的小偷應聲倒下。你們笑著過去從屍體上取回了被盜的財物，但是迎來的卻是許多厭惡的目光。顯然在這麼擁擠的道路上張弓射箭是不會受到歡迎的。
 event_city_campaign_31_intro,"你們在棕門酒吧喝了不少酒，還不停的在賭局中輸掉你們辛苦掙來的錢，這時一個穿著長袍的女人向你們靠過來。
 “求求你們，”她說到，“你們一定得幫我，他們帶走了我唯一的女兒。我求你們了！”
 她遞過來一卷羊皮紙，“他們留下了這張......”
@@ -2139,7 +2138,7 @@ event_city_campaign_48_intro,"你們需要購買一些路上所需的乾糧，�
 當你伸手接信的時候，那個信使小哥卻向後退了一小步，“先生們，我可是經過千山萬水才把這封信帶了過來，要想得到它請你們先給我一點小費吧。”"
 event_city_campaign_48_option_a,在很不情願的情況下，給了他一點錢。
 event_city_campaign_48_option_b,拒絕為這封信付錢。
-event_city_campaign_48_result_a_a,你們扔了幾枚金幣給那個小哥，然後接過了信件。裡面除了給你們的信函之外還有一枚表面雕刻著太陽圖案的微章。很明顯你們昔日的執日者盟友認為這個東西也許在未來能為你們的冒險旅程提供幫助。但是她沒有說明這個東西究竟該如何使用，從表面看沒發現它有什麼用處。於是你們就把這枚徽章與其他東西一同隨意扔進行李之中。
+event_city_campaign_48_result_a_a,你們扔了幾枚金幣給那個小哥，然後接過了信件。裡面除了給你們的信函之外還有一枚表面雕刻著太陽圖案的微章。顯然你們昔日的執日者盟友認為這個東西也許在未來能為你們的冒險旅程提供幫助。但是她沒有說明這個東西究竟該如何使用，從表面看沒發現它有什麼用處。於是你們就把這枚徽章與其他東西一同隨意扔進行李之中。
 event_city_campaign_48_result_a_b,你們掏了一掏口袋，想要拿錢給這個信使，但是口袋裡面空空如也。這個小哥一臉氣憤，於是默默地離開了。
 event_city_campaign_48_result_b,你們煩躁地嘲笑了幾聲，然後把這個小哥從身邊推開。他剛想張嘴抗議之時，仔細想了一想之後還是轉身跑走了。你們通過此事向這位商人展示了你們極其節儉的一面，然後繼續與他討價還價。
 event_city_campaign_49_intro,"“你們的朋盟友需官讓我來的。”你們滿面疑惑地看著這個站在門口的瓦拉斯。
@@ -2149,7 +2148,7 @@ event_city_campaign_49_option_a,答應協助他與軍方取得聯繫。
 event_city_campaign_49_option_b,向他索要一筆仲介費。
 event_city_campaign_49_result_a,你們把這名瓦拉斯商人帶到幽魂堡，然後把他介紹給城市衛兵團的隊長。一開始衛兵隊長也是心存疑慮的，但是隨後他承認確實需要一些額外的武器供應管道。接下來他們就具體的條款進行了協商，然後簽訂了合同。
 event_city_campaign_49_result_b_a,這個瓦拉斯看著你們顯得有些誠惶誠恐，但經過你們一番勸說，他答應支付你們一筆引薦費。
-event_city_campaign_49_result_b_b,這個瓦拉斯對你們這種行為感到十分厭惡，很明顯你們的想法冒犯了他。他氣衝衝地走了，嘴裡還抱怨著你們完全不懂得友誼的可貴。
+event_city_campaign_49_result_b_b,這個瓦拉斯對你們這種行為感到十分厭惡，顯然你們的想法冒犯了他。他氣衝衝地走了，嘴裡還抱怨著你們完全不懂得友誼的可貴。
 event_city_campaign_4_intro,"你們剛冒險完回到城裡，整個人都累成狗一樣，這時，一個髒兮兮的小男孩淚流滿臉地向你們走了過來。
 “幫幫我吧，先生們。你們能不能救救我的小貓咪？牠跑到那邊去了，我很擔心牠。”那個男孩伸出髒兮兮的手，指向旁邊一幢被遺棄的破敗房屋。“我實在不知道該怎麼辦。”"
 event_city_campaign_4_option_a,找貓？你們還有更重要的事情等著去幹呢。
@@ -3940,7 +3939,7 @@ quest_campaign_027_intro,"之後黑爾就陷入了沉默，在你們到達地穴
 “好吧，看來你們沒有開玩笑，”黑爾說，“這東西真是太美妙了！看看它的尺寸！還有它的穩定性！——真叫人歎為觀止！”黑爾圍繞著祭壇轉了一圈，同時向空中拋灑著沙塵並觀察它們飄落的方向。
 “我很確定自己能夠關閉這道裂隙，當然這多虧了碎石者老兄的元素能爐。不過，我敢肯定裂隙另一側的勢力對此會感到非常生氣。”
 黑爾用一隻胳膊將能爐舉過頭頂，然後將另一隻胳膊連同肘部一同伸到了裂隙之中。“女士們先生們，向我靠攏！一場血腥的殺戮宴會馬上就要開始了。”"
-quest_campaign_027_intro_travel_1,"在你們一路返回殘破的地下聖堂的時候，黑爾看起來似乎有點高興，因為這次終於可以親自與你們一同長途跋涉，並肩作戰，她迫切的想要幫你們擊退那些惡魔和亡靈。
+quest_campaign_027_intro_travel_1,"在你們一路返回殘破的墓室的時候，黑爾看起來似乎有點高興，因為這次終於可以親自與你們一同長途跋涉，並肩作戰，她迫切的想要幫你們擊退那些惡魔和亡靈。
 “從我上次離開黯淡港灣算起，已經不知道過了多久了，”她邊走邊說，手裡的元素能爐隨著行走而不斷地前後甩動，“我的研究工作讓我必須待在城裡，但是偶爾放鬆休息一下，在這個維度中再次旅行的感覺也相當不錯。更別提這次的旅行要安全許多。”"
 quest_campaign_027_intro_travel_2,你們一臉疑惑的看著這個艾斯泰爾人。“當然，我並不是說旅途中邂逅邪教徒和惡魔是什麼好事啦，不過當我上一次在這片大地上旅行的時候......好吧，我發誓永遠不再提起當時發生的事兒。”
 quest_campaign_027_list,關閉裂縫
@@ -4249,7 +4248,7 @@ quest_campaign_053_desc,繼續尋找索恩
 quest_campaign_053_intro,"“索恩的門徒！”幻影急切地說道，“我知道你們將索恩的法杖帶到了這裡以便重鑄其昔日的力量。我是這裡的看守者，肩負重鑄索恩力量的責任。快把損壞的法杖放在鍛造爐上。”
 當你們走近時，注意到在視線角落有一些蹣跚身影在晃動。“這世上有許多勢力強烈希望索恩保持現狀，”那個幻影說道。
 “在我重鑄法杖時務必將這些爪牙拖住。保持警惕，在它們用人海戰術壓倒你們之前儘快殺死它們。”"
-quest_campaign_053_intro_travel_1,你們再次來到被詛咒的地下聖堂，找到了通往密室的入口。
+quest_campaign_053_intro_travel_1,你們再次來到被詛咒的墓室，找到了通往密室的入口。
 quest_campaign_053_intro_travel_2,借助古籍，你們打開了向下的通道，同時一股令人窒息的惡臭湧入鼻腔。綠色的濃煙不斷從下面冒出。你們用布蒙住臉後進入了密室。
 quest_campaign_053_intro_travel_3,樓梯通往一個圓形房間，房間中央擺著一個長相奇異的鍛造爐。一個鬼魅幻影站在鍛造爐旁，在你們靠近後，它轉過身來。
 quest_campaign_053_list,進入隱藏房間
@@ -5541,7 +5540,7 @@ summoner_weaknesses,"- <indent=%15>低傷害輸出能力</indent>
 #endregion 角色介紹
 ================================================================================================================================================
 abandonedfarm_descr,一個廢棄的農場就位於通往奇波特港的大道旁邊。 林煙的氣味在這裡縈繞，大部分的屋頂已經坍塌，但仍有一些房間可以住一晚。
-addaugment,增加角色特效賦能
+addaugment,增加特效賦能
 addheal,增加回血量
 addrange,增加射程
 addsong,額外的戰歌容量
@@ -5573,9 +5572,6 @@ attack_area,攻擊範圍
 attackersgaindisadvantage,攻擊者們陷入劣勢進攻
 attacksapply,攻擊中附加
 attacksinfuse,在攻擊中元素充能
-augment,角色特效賦能
-augment_discardreminder,當你的另一張<nobr><color=#A7B3D2>角色特效賦能</color> <sprite name=Augment></nobr>被打出，棄置這張卡。
-augment_onyourmeleeattacks,你的近戰進攻：
 
 banditcommander,強盜指揮官
 battleboar,豪豬
@@ -5586,7 +5582,7 @@ blackrockasylum_descr,從草原隱約可見黑石瘋人院的宏偉建築，這�
 blackunicorn,黑色獨角獸
 blightedkeep,枯萎堡壘
 bloatedregent,攝政王行屍
-bloodford,血色灘
+
 bloodford_descr,魔人城戰爭中一場偉大戰役的發生地，有人說這條河每到滿月仍然是紅色的。
 boneranger,骷髏弓箭手
 bonerangerelite,骷髏弓箭手精英
@@ -6109,7 +6105,7 @@ glossary_enhancementdot,技能可提升標識點：表示這個技能或效果�
 glossary_exhausted,當一個傭兵處於以下兩種情況之一精力耗盡：少於1點生命值；或者當一個回合開始的時候，他們只有不到兩張手牌，並且沒有足夠的卡牌去進行燒祭，用以通過休息去回手棄置堆的卡牌。如果所有傭兵精力耗盡，那麼劇本失敗！
 glossary_fear,強迫所有雇傭兵和他們的召喚物按照時序值次序進行<nobr>“移動<sprite name=Move> 4”</nobr>，路線的終點要盡可能地遠離暗靈叛徒。
 glossary_fire,元素充能 - 火：用火元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
-glossary_flying,飛行：飛行的單位將會在他們的移動期間完全忽視所有單位、障礙物、格子上的地面效果和陷阱，包含他們最後要去的格子。但是最後要去的格子不能被其他單位佔據。當佔據障礙物格子上方的飛行單位停止飛行，這個單位會承受傷害，傷害值等同於單位觸發陷阱，並移動到最近的空格子（“空”指沒有任何陷阱、障礙物、單位、打開的門等）。最後這句太難準確翻譯了！
+glossary_flying,飛行：飛行的單位將會在他們的移動期間完全忽視所有單位、障礙物、格子上的地面效果和陷阱，包含他們最後要去的格子。但是最後要去的格子不能被其他單位佔據。當佔據障礙物格子上方的飛行單位停止飛行，這個單位會承受傷害，傷害值等同於單位觸發陷阱，並移動到最近的空格（“空”指沒有任何陷阱、障礙物、單位、打開的門等）。最後這句太難準確翻譯了！
 glossary_greyhex,灰格子顯示著使用者的位置，代表該攻擊範圍為近戰範圍攻擊，因此攻擊範圍只能圍繞著這個格子（使用者）。
 glossary_heal,治療：“治療 X” 技能卡使單位讓在技能射程內的目標回復X點生命值。
 glossary_hitarea,顯示攻擊的效果範圍。紅格子是目標施法範圍，灰格子是近戰範圍攻擊時攻擊者的位置。
@@ -6147,7 +6143,7 @@ glossary_song,戰歌：場地上的戰歌效果將被持續，直到另一首戰
 glossary_stopflying,不能飛行：單位不能再飛行。
 glossary_strengthen,強化：被強化地單位在他們的所有攻擊中獲得攻擊優勢。強化狀態在被施法單位下一輪次結束時被移除。
 glossary_stun,暈眩：一個暈眩的單位不能在他的輪次使用任何技能或者物品。 暈眩狀態在被施法單位的下一輪結束時被移除。單位仍必須在本輪次選擇兩張卡牌或選擇休息，當然行動不起作用，卡牌被直接棄置。長休息將如常進行。
-glossary_summon,召喚：在相鄰于施法者的空格子中召喚一個指定的盟友單位到劇本中。如果相鄰沒有可用的格子，召喚物技能將不能被使用。召喚物在施法者每回合的輪次之前行動，總是自動地（不受玩家控制地）進行一個“移動 X，攻擊 Y”行動。可以同時擁有多個在場的召喚物。
+glossary_summon,召喚：在相鄰于施法者的空格中召喚一個指定的盟友單位到劇本中。如果相鄰沒有可用的格子，召喚物技能將不能被使用。召喚物在施法者每回合的輪次之前行動，總是自動地（不受玩家控制地）進行一個“移動 X，攻擊 Y”行動。可以同時擁有多個在場的召喚物。
 glossary_summon_health,生命值：召喚物的初始生命值。
 glossary_target,目標數： “目標數 X”的技能代表這名單位可以選擇最多X個技能射程內的不同目標。
 glossary_trap,陷阱：一個陷阱占一個格子。當一個單位用正常的移動或者被迫的移動進入陷阱格子，陷阱被觸發（例如強推/拉近）。
@@ -6173,13 +6169,10 @@ gui_accept_quest,接受任務
 gui_accept_quest_tip,所有玩家必須在旅行前先接受已選好的任務
 gui_accept_town_records,接受城鎮記錄
 gui_accept_town_records_tip,所有玩家必須在開始前接受城鎮記錄
-gui_achievement_claim_reward,領取獎勵！
-gui_achievement_complete,完成
-gui_achievement_rewards,獎勵
-gui_achievement_rewards_close,繼續
+
+
 gui_achievements,成就
-gui_active_abilities,啟動技能
-gui_active_ability,啟動技能
+
 
 
 gui_adv_character_difficulty,難度：
@@ -6711,8 +6704,8 @@ gui_objective_reach_position_lose,如果{0}敵人到達地牢出口，則失敗
 gui_objective_reach_position_win,帶著{0}名雇傭兵到達地牢出口
 gui_objective_reach_round_lose,遊戲進行到第{0}回合，則失敗
 
-gui_ok,好的
-gui_on_attack_conditions_title,On-攻擊條件
+
+
 gui_on_death_adjacent,On death: 進攻<sprite name=Attack> {0}。針對所有鄰近的敵人。
 gui_opt_control_controller,映射控制器
 gui_opt_control_controller_highlight_hexes,高亮的格子
@@ -6754,7 +6747,6 @@ gui_positive_conditions,正面狀態
 gui_prop_can_be_looted_by,{0}
 gui_quest_completed,完成
 
-gui_quest_completed_rewards_close,獲得獎勵！
 gui_quest_completed_unavailable_rewards,沒有更多的獎勵能提供了，您已經完成了這個劇本。
 gui_quest_group_completed,已完成任務數
 gui_quest_group_job,角色職業
@@ -6910,7 +6902,7 @@ gui_tooltip_player_disarmed,"{0}被<color=#A050E0>繳械</color> <size=180%><spr
 gui_tooltip_player_immobilized,"{0}被<color=#A050E0>禁足</color> <size=180%><sprite name=""HoverImmobilized""></size>了。"
 gui_tooltip_player_sleeping,"{0}陷入<color=#A050E0>睡眠</color> <size=180%><sprite name=""HoverSleeping""></size>狀態了。"
 gui_tooltip_player_starting_placement,雇傭兵數量必須在入口房間之間均勻分配。
-gui_tooltip_player_starting_placement_companion_summons,必須放置{0}一遍有一個相鄰的空格子子來召喚他們的夥伴。
+gui_tooltip_player_starting_placement_companion_summons,必須放置{0}一遍有一個相鄰的空格子來召喚他們的夥伴。
 gui_tooltip_player_stunned,"{0}陷入<color=#A050E0>暈眩</color><size=180%><sprite name=""HoverStunned""></size>狀態了。"
 gui_tooltip_player_wounded,"{0}陷入<color=#A050E0>流血</color><size=180%><sprite name=""HoverWounded""></size>狀態了。"
 gui_tooltip_remove_conditions,移除自己的所有負面狀態。
@@ -6929,14 +6921,12 @@ gui_tooltip_select_recover_discarded_cards,選擇回手{0}張棄牌堆的卡牌�
 gui_tooltip_select_recover_increase_card,選擇1張卡添加到可用卡牌。
 gui_tooltip_select_recover_lost_card,選擇回手1張被燒祭的卡。
 gui_tooltip_select_recover_lost_cards,選擇回手{0}張被燒祭的卡。
-gui_tooltip_select_summon_movement,Choose to move the Summoned Ally towards its Summoner
-gui_tooltip_select_summon_movement_title,Summon Movement
+
 gui_tooltip_shields,護甲：一個帶護甲的角色減少X點所受到的攻擊。護甲值可以疊加。護甲僅適用於技能卡的“攻擊”傷害，不會阻止其他形式的傷害。
 
 gui_tooltip_single_target,選擇一個單體目標。
 gui_tooltip_start_turn,讓每個角色選擇兩個技能卡打出或選擇休息。
-gui_tooltip_summon,召喚{0}
-gui_tooltip_summon_select_hex,選擇一個格子來召喚{0}
+
 gui_tooltip_take_quest_item,確認從相鄰的雇傭兵拿走可攜帶的任務物品
 gui_tooltip_transfer_doom,將厄運從已死的目標轉移到另一個目標。
 gui_total_gold,玩家團隊總金幣
@@ -7017,8 +7007,8 @@ intro_battlegoals,"在進入地牢之前，每個傭兵必須<color=#EACF8C>在�
 intro_cityquest,"你們解鎖了一個<color=#EACF8C>城鎮任務</color>！
 你可以通過點擊城鎮地圖按鈕或點擊日誌中的新任務查看。"
 intro_enchantress,在此介面你可以為你所有技能卡進行附魔。首先選擇技能卡，然後選擇附魔槽，就可以將你希望的附魔效果附加到該附魔槽位上。請注意，不同的附魔會對應不同的附魔基礎成本，而且同一張牌附魔次數越多成本越高。當你移除附魔時，其附魔成本將恢復到最初的狀態。
-intro_equipmentpanel,"你可以在裝備面板找到雇傭兵可以攜帶的<color=#EACF8C>各類道具</color>。點擊道具槽將顯示該名雇傭兵所擁有的此類型的全部道具。
-如果道具槽為灰色，則表示你目前沒有此類型的道具。"
+
+
 intro_itemdesign,"你解鎖了一張新的道具設計圖！
 當你發現一張道具設計圖後，<color=#EACF8C>商店</color>就會開始出售該道具。"
 intro_levelup_1,"恭喜！你升級了！
@@ -7143,7 +7133,7 @@ message_complete_achievement_1_1_doomstalkerreachlevel2_2,城市守衛沒辦法�
 message_complete_achievement_1_1_doomstalkerreachlevel2_3,我已經讓衛兵隊長去調查了，但他說他有更棘手的問題要處理。
 message_complete_achievement_1_1_doomstalkerreachlevel2_4,我想我們應該調查一下。城市守衛不妨給我們發點穩定工資算了...
 message_complete_achievement_1_1_elementalistreachlevel2_1,元素師已經在研究斯萬格了，這位上古英雄在數百年前是物法雙修的大師。
-message_complete_achievement_1_1_elementalistreachlevel2_2,我已經讓他們去調查血色灘旁邊泥道村的廢墟了。說不定他們能發現加強自身近戰能力的方法。
+message_complete_achievement_1_1_elementalistreachlevel2_2,我已經讓他們去調查血色灘地旁邊泥道村的廢墟了。說不定他們能發現加強自身近戰能力的方法。
 message_complete_achievement_1_1_mindthiefreachlevel2_1,心靈竊賊從惡魔閘口鎮的老窩其他人手上收到了一條字跡潦草的消息，警告她人類正在威脅她的家園。
 message_complete_achievement_1_1_nightshroudreachlevel2_1,現在冥夜死衣已經牢牢地成為了團隊一員，他暗示我說想要研究大陸中的一些更稀有的敵人。
 message_complete_achievement_1_1_nightshroudreachlevel2_2,他想要怎麼研究他們？
@@ -7176,7 +7166,7 @@ message_complete_achievement_1_1_summonerreachlevel2_2,介面轉移？那是啥�
 message_complete_achievement_1_1_summonerreachlevel2_3,“不相容的兩個介面之間發生了一次不可能的聯繫，必須研究一下”這是我問她的時候她的原話。
 message_complete_achievement_1_1_summonerreachlevel2_4,聽起來有點糟。我們應該做點什麼。
 message_complete_achievement_1_1_sunkeeperreachlevel2_1,執日士告訴我，她希望用她的新能力在大路上做點好事。
-message_complete_achievement_1_1_sunkeeperreachlevel2_2,我在最近被襲擊的逆旅鎮附近發現了一個魔鼠的營地，他們可能需要我們的説明。
+message_complete_achievement_1_1_sunkeeperreachlevel2_2,我在最近被襲擊的旅者棲地附近發現了一個魔鼠的營地，他們可能需要我們的説明。
 message_complete_achievement_1_1_sunkeeperreachlevel2_3,但他們要怎麼付錢呢？...我搞不懂！
 message_complete_achievement_1_1_tinkererreachlevel2_1,機匠一直在研究惡魔學的起源，以希望找到打敗惡魔們的方法。他現在找到了一個值得調查的地方。
 message_complete_achievement_1_1_unlocklocations_1,你們往西南的開始做的非常好，我們又收到了更多的小鎮向我們求助，一直到海岸都有！
@@ -7206,24 +7196,6 @@ message_complete_achievement_1_5_unlocklocations_1,做的很好！所有荒涼�
 message_complete_achievement_1_5_unlocklocations_2,看起來邊境的村莊已經團結起來準備獎勵我們一大筆金幣了！
 
 
-message_end_quest_story_7b_1,現在我們的公會已經開始運作，能夠接取範圍更加廣闊的任務。我也瞭解到一些可能值得調查的傳聞，是有關強大神器的位置。
-message_end_quest_story_7b_2,實際上，你應該先調查這個：前幾天的晚上，據說有一顆明星墜落在了絞架嶺的森林之中的湖泊裡，但當村民去調查時，卻沒有看到任何墜落的東西。
-message_end_quest_story_7b_3,一天左右的時間後，村子的北面出現了一些輕微的地震，就在那塊只有一個年久失修的地穴的空地不遠處—但村民們，一介草夫，他們害怕得不知所措。
-message_end_quest_story_7b_4,不過對於我來說，這反而聽起來像是一個神奇的文物，所以你應該去調查看看！
-message_end_quest_story_7b_5,我建議你帶上<b>裂心人</b>和<b>亂心賊</b>，他們應該能更輕鬆的完成任務。
-message_end_quest_story_7c_1,"現在，你已經結束了你的教學。你的未來充滿了無限機遇——充斥著橫行霸道的強盜，漫山遍野的亡靈，出沒無蹤的惡魔。
-我們用你迄今為止獲得的所有錢為你整理了一套初始裝備，但你看中的其他裝備仍需要你花錢購買。"
-message_end_quest_story_7c_10,選擇你的團隊，武裝他們，然後你就準備好出發了。祝你好運，會長！
-message_end_quest_story_7c_11,多人遊戲現已啟用。
-message_end_quest_story_7c_2,"左側的面板是用於選擇團隊的陣容，並且在解鎖更多內容時自訂其技能卡和道具。現在你還可以在每個任務中帶上最多4個你自由選擇的傭兵。
-但請注意，劇本的難度會隨著角色的數量改變。除非你曾經玩過<color=#BA7956><b>黯淡港灣</b></color>，否則建議保持2個角色來確保決策的可控性！"
-message_end_quest_story_7c_3,當裝備道具時，注意裝備道具的傭兵將與其綁定。你可以付出一定代價來解綁，但請試著直接將其給予合適的傭兵。
-message_end_quest_story_7c_4,為了幫助你在完成培訓後繼續提升你的技術，我提供了一系列成就供你達成。這些成就可以通過螢幕底部的<b>教官</b>按鈕查看。
-message_end_quest_story_7c_5,完成這些挑戰將給予公會更多的獎金，任務，和地點。有時甚至會是回收強大遺物的任務！
-message_end_quest_story_7c_6,你可以通過點擊螢幕底部的商家按鈕來訪問我的商店。我現在已經有了大部分基礎道具的庫存，但隨著你的繼續探索和恢復通往更多村莊的道路，更多道具將被添加至我的庫存！
-message_end_quest_story_7c_7,說到這，你可以去往西南海岸，重新開啟舊香料路線麼？
-message_end_quest_story_7c_8,過去我和2個城鎮有聯繫：西部的血色灘...
-message_end_quest_story_7c_9,...和西南的旅行者休息點。
 message_end_quest_story_banditcommander_1,隨著強盜指揮者的死亡，神廟和惡魔閘口鎮的據點已經安全了。
 message_end_quest_story_banditcommander_2,嗯，能看到他面朝黃土背朝天真是太讓人高興了，而且你得到的那枚戒指看起來十分有用。
 message_end_quest_story_beasttyrant_1_1,這裡的腐化比我們一開始預想的還要糟，它正在整片土地上蔓延。
@@ -7549,7 +7521,7 @@ message_start_quest_boss_darkrider_9,好吧，看起來至少我們有下個合�
 message_start_quest_boss_highcultist_1,現在織魔師有了恩賜，不管那是什麼，我們應該計畫對邪教總部的襲擊了。
 message_start_quest_boss_highcultist_2,但我們怎麼知道它在哪裡？
 message_start_quest_boss_highcultist_3,烈光惡魔一直在盡力溝通，也許是地圖上燒毀的地方？
-message_start_quest_boss_highcultist_4,去到血色灘的北部，沼澤地裡？我猜那就是我們要去的地方？
+message_start_quest_boss_highcultist_4,去到血色灘地的北部，沼澤地裡？我猜那就是我們要去的地方？
 message_start_quest_boss_inoxbodyguard_1,你現在既有叛徒基地的位置又知道怎麼進入那裡，準備戰鬥！
 message_start_quest_boss_jekserah_1,有沒有人試過把兩個半機件裝在一起，變成一個球？
 message_start_quest_boss_jekserah_2,真有趣，它們完美地貼合在一起了。上面的銘文組合在一起了。
@@ -7645,11 +7617,9 @@ overwrite_existing_local_save,這個存檔被另一個用戶所有。一個同�
 overwrite_save_button,覆蓋本地存檔
 overwrite_save_title,覆蓋本地存檔
 performs,執行
-pierce,穿透
+
 pierceshort,穿透
 
-plaguerat,瘟疫之源
-playsong,演奏戰歌
 plus,加上
 poison,中毒
 poisoned flame,劇毒烈焰
@@ -7860,7 +7830,7 @@ quest_relic_orboftwilight_intro,你們回到了上次發現暗夜惡魔的患病
 quest_relic_orboftwilight_list,取回暮光法球
 quest_relic_orboftwilight_name,暗夜之心
 quest_relic_orboftwilight_unlock_1,那些玩意的數量是無窮無盡的麼？它們總得有個出處吧。
-quest_relic_orboftwilight_unlock_2,來自我們學校的一些賢者已經確定了原爆發點附近一個被詛咒的地下聖堂，那裡應該有有助於我們的戰鬥的遺物。
+quest_relic_orboftwilight_unlock_2,來自我們學校的一些賢者已經確定了原爆發點附近一個被詛咒的墓室，那裡應該有有助於我們的戰鬥的遺物。
 quest_relic_orboftwilight_unlock_3,在龍火地附近發現第一個暗夜惡魔一點也不奇怪，因為它來自叢林深處的地牢。
 quest_relic_remotespider_complete_1,這似乎是一批毒害你敵人們的發條蜘蛛？為什麼一切都必須如此令人不快......他們不能製作一隻可愛的貓或一隻松鼠嗎？
 quest_relic_remotespider_desc,魔鼠居住在和蝮蛇坑洞交織的洞穴網中。多加小心。
@@ -7871,10 +7841,8 @@ quest_relic_remotespider_unlock_1,你們已經使用很多次毒藥了，所以�
 quest_relic_remotespider_unlock_2,一個蠻徒的老盟友說他可以幫忙。斯甘威，告訴他們你和我說的那些東西。
 quest_relic_remotespider_unlock_3,我知道一組和蛇共處的野生魔鼠…骯髒的生物。他們想搞到一個老舊的機匠設備並在其中灌注蛇毒。
 quest_relic_remotespider_unlock_4,不幸的是，他們一直在騷擾我的部族。如果你們幫我追蹤他們，你就能搞到這玩意。
-quest_relic_resonantcrystal_desc,奇怪的地下衝擊一直困擾著絞架嶺，因為一顆星落到了地球，去調查了！
-quest_relic_resonantcrystal_intro,在絞架嶺聽從村民的指路後，你來到了一個古老地穴入口。很顯然，入口的最近有人來過，多加小心！
-quest_relic_resonantcrystal_list,帶回天空中掉下的東西
-quest_relic_resonantcrystal_name,墜落之星
+
+
 quest_relic_ringofskulls_complete_1,這戒指擁有強大的力量。它可以幫助我們將來的很多戰爭。
 quest_relic_ringofskulls_complete_2,只有我想知道，曾經被困在這裡的那個可憐骷髏是誰麼？
 quest_relic_ringofskulls_desc,找到邪教徒們創造召喚寶物的地點，偷走一件。
@@ -8028,7 +7996,7 @@ quest_story_doomstalker_3_intro,帳本提到了隱藏在陰涼休息營地鎮外
 quest_story_doomstalker_3_list,調查那些雇傭兵
 quest_story_doomstalker_3_name,跟著帳簿的指示
 quest_story_elementalist_1_desc,説明元素大師弄明白偉大的英雄史華傑爾是如何成為一個兼具魔法攻擊和近戰戰鬥能力的大師的。
-quest_story_elementalist_1_intro,斯萬格被稱為他那一代最偉大的英雄之一，傳聞被認為是近戰戰鬥的大師和全元素之力的持有者。作為一個強大的魔法師，元素師熱衷於研究斯萬格是如何駕馭身體和精神力量的，所以想讓我們幫助去調查過去的歷史。斯萬格最著名的英雄事蹟之一是保護泥道村，該村莊位於血色灘的西北部，所以你們要去的地點就是這裡。 泥道村戰役的故事幾乎是傳奇的，史華傑爾單槍匹馬地對抗整個強盜營，保護了整個城鎮。當你到達泥道村時，該村已經超過一個多世紀一直是廢墟。也許你可以在這裡找到一些有關斯萬格的資訊？
+quest_story_elementalist_1_intro,斯萬格被稱為他那一代最偉大的英雄之一，傳聞被認為是近戰戰鬥的大師和全元素之力的持有者。作為一個強大的魔法師，元素師熱衷於研究斯萬格是如何駕馭身體和精神力量的，所以想讓我們幫助去調查過去的歷史。斯萬格最著名的英雄事蹟之一是保護泥道村，該村莊位於血色灘地的西北部，所以你們要去的地點就是這裡。 泥道村戰役的故事幾乎是傳奇的，史華傑爾單槍匹馬地對抗整個強盜營，保護了整個城鎮。當你到達泥道村時，該村已經超過一個多世紀一直是廢墟。也許你可以在這裡找到一些有關斯萬格的資訊？
 quest_story_elementalist_1_list,調查歷史上最偉大的冒險者
 quest_story_elementalist_1_name,最偉大的英雄？
 
@@ -8041,7 +8009,7 @@ quest_story_elementalist_3_intro,巨橡學校裡的侍從們對你要找的神�
 quest_story_elementalist_3_list,這座神廟就是史華傑爾的力量的秘密嗎？
 quest_story_elementalist_3_name,眾神的禮物
 quest_story_highcultist_desc,機匠和織魔師必須聯合起來才能打敗高階邪教徒和他的隨從。
-quest_story_highcultist_intro,"你動身前往血色灘的沼澤，長途沷涉了數日。困難地形正是邪教將總據點設於此處的原因。
+quest_story_highcultist_intro,"你動身前往血色灘地的沼澤，長途沷涉了數日。困難地形正是邪教將總據點設於此處的原因。
 次日，你注意到腳下的土地開始硬化並且這種硬化的跡象延伸到彎木林之間的建築處。它是由一整塊黑岩精雕而成的，看起來與周圍的自然環境格格不入。附近沒有任何守衛，寂靜無聲。你下定決心並進入。"
 quest_story_highcultist_list,必須殺死高階邪教徒
 quest_story_highcultist_name,聖所
@@ -8222,8 +8190,8 @@ quest_travel_blackrockasylum_desc,在一次劇烈的地震之後，黑石瘋人�
 quest_travel_blackrockasylum_intro,在解決完灘橋地附近地震所帶來的影響後，你們聽聞東南方有更多類似的事件。最嚴重的莫過於黑石瘋人院的情況了，那座建築關押了這片區域危險度最高的那批罪犯。一次地震使瘋人院的地窖裂開了一條縫隙。但就是這條縫隙讓許多危險的罪犯得以借此通過地窖底下的洞穴通道逃跑。你們抵達了瘋人院，迎接你們的是一名表情十分嚴肅的修女。她向你們解釋瘋人院的目標是説明那些有精神問題的人能夠融入社會，但地下關押的都是一些極端患者。而且她還解釋了為何你們不太可能安全的將他們帶回來：看守的武器庫也在地下，而且已經被洗劫一空。
 quest_travel_blackrockasylum_list,臨近瘋人院的一次地震讓一部分被羈押者逃了出去
 quest_travel_blackrockasylum_name,越獄
-quest_travel_bloodford_desc,血色灘被那些行屍所困擾，清理附近的地穴
-quest_travel_bloodford_intro,你們越靠近血色灘的村莊，經過的沼澤地也越多。每走一步你們的腿都會陷入地裡，道路旁的水窪還會翻滾出令你反胃的臭氣泡。道路南方的廢棄建築是腐爛程度最高的地方。你們面無表情地朝它走去，心裡只期望這次的遭遇不會更糟。
+quest_travel_bloodford_desc,血色灘地被那些行屍所困擾，清理附近的地穴
+quest_travel_bloodford_intro,你們越靠近血色灘地的村莊，經過的沼澤地也越多。每走一步你們的腿都會陷入地裡，道路旁的水窪還會翻滾出令你反胃的臭氣泡。道路南方的廢棄建築是腐爛程度最高的地方。你們面無表情地朝它走去，心裡只期望這次的遭遇不會更糟。
 quest_travel_bloodford_list,清理亡靈地穴
 quest_travel_bloodford_name,無心之人
 quest_travel_boneshatterpass_desc,這座山裡的武僧群體已經失聯了好幾個月了。很有可能是一個隱秘的薩維斯神殿所導致的。
@@ -8620,25 +8588,7 @@ scenario_job_twotribes_start_3,如果可以的話，你需要繼續穿過叢林�
 scenario_job_twotribes_success_1,叢林的地面上散落著屍體，但你勝利了。
 scenario_job_vermling_cave_sm1_desc,所有敵人的攻擊都附帶中毒和流血
 scenario_job_vermling_cave_sm2_desc,所有敵人開始時處於中毒和流血狀態
-scenario_journey_bloodford_descr_0,血色灘被那些行屍所困擾，清理附近的地穴
-============================================================================
-============================================================================
-============================================================================
-
-scenario_puzzle_7b_06,"你的最終目標為：
-<line-height=20%>
-</line-height>→ 殺死剩餘的暗夜惡魔
-<line-height=20%>
-</line-height>"
-scenario_puzzle_7b_07,"<b>亂心賊</b>還有一個特色是擁有一些帶有<b><link=""Glossary_Augment"">增強</link></b>技能的卡牌，比如<font=""MarcellusAlt SDF""><color=#F5E3B0><b>凋零之爪</b></color></font>。
-在這種技能啟動時，會在她的近戰進攻中提供<link=""Glossary_Persistent""><b>持續</b></link>buff，不過通常她只能同時啟動一個<b><link=""Glossary_Augment"">增強</link></b>技能。當處於<b><link=""Glossary_Augment"">增強</link></b>的啟動狀態時，這些增益會直接追加到攻擊行動中。"
-scenario_puzzle_7b_08,這些惡魔可真嚇人，交給你來處理，我先溜了。祝你好運！
-scenario_puzzle_7b_09,"也許你可以利用陷阱來殺死一個暗夜惡魔，再和你的<b><link=""Glossary_Summon"">召喚物</link></b>一起攻擊另一個？"
-scenario_puzzle_7b_10,"我猜你現在也能自稱是一個<i>屠魔者</i>了？呃，怎麼說的來著…<i>獵魔者</i>？
-總之，重點是：做得不錯！"
-
-
-
+scenario_journey_bloodford_descr_0,血色灘地被那些行屍所困擾，清理附近的地穴
 ============================================================================
 ============================================================================
 ============================================================================
@@ -8723,11 +8673,8 @@ scenario_relic_remotespider_sm1_desc,魔鼠偵察兵的攻擊附帶中毒效果
 scenario_relic_remotespider_start_1,看看他們，和蛇一起住在洞穴裡，這不是魔鼠應該過的生活！
 scenario_relic_remotespider_start_2,小心弓箭手，他們的箭上也有毒...攻擊！
 scenario_relic_remotespider_success_1,漂亮的戰鬥！這些魔鼠不會再困擾我的族群了！
-scenario_relic_resonantcrystal_room_2_1,很明顯，這個房間曾被用作儲存作用，你可以看到地上有一個寶箱。是時候拾取戰利品並消滅任何敢站在你面前的人了。
-scenario_relic_resonantcrystal_start_1,進入墳墓後，你受到了強盜的吼叫作為歡迎。
-scenario_relic_resonantcrystal_start_2,你別想得到這塊星石，它是我們找到的，滾開！
-scenario_relic_resonantcrystal_start_3,他轉頭讓他的同伴守好後面的房間。好吧，現在你知道它被放在哪裡了，真是個聰明的傢伙...
-scenario_relic_resonantcrystal_success_1,水晶在你手中微微顫動，你能明顯感覺到其中蘊含著某種強大的魔力。你將它放進背包並繼續踏上旅途。
+
+
 scenario_relic_ringofskulls_room_3_1,那裡就是戒指所在的地方，在增援到來之前消滅剩餘的敵人並奪得戒指！
 scenario_relic_ringofskulls_sm1_desc,邪教徒永久獲得護盾+1
 scenario_relic_ringofskulls_sm2_desc,邪教徒在每回合結束時治療1點生命值
@@ -9967,7 +9914,7 @@ villager,村民
 voideater,噬空者
 warhawk,戰鷹
 warriorspirit,戰爭英靈
-wayfarersrest,徒步客休息點
+
 wayward,向路鎮
 wayward_descr,作為許多冒險的起點，向路鎮是商人在Gloomhaven和惡魔閘口鎮之間旅行的中轉站。魔人族帝國的許多稀有香料和絲綢都經過這裡，給小鎮帶來了異國情調。
 wildspire,野尖塔
