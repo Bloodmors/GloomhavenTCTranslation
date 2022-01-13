@@ -1323,7 +1323,7 @@ enhancement_pluspush,提升強推
 enhancement_plusrange,提升射程
 enhancement_plusretaliate,提升反傷
 enhancement_plusretaliaterange,提升反傷射程
-enhancement_plusshield,提升護甲
+enhancement_plusshield,提升護盾
 enhancement_plustarget,提升目標數
 enhancement_poison,中毒
 enhancement_strengthen,強化
@@ -3224,9 +3224,9 @@ item_occultdagger,在你攻擊收割者時，獲得<nobr>穿透<sprite name=Pier
 item_orbofdawn,在你的行動輪中，消耗<nobr>暗元素<sprite name=ConsumeDark>並充能<nobr>光元素<sprite name=Light>。
 item_orboftwilight,在你的行動輪中，消耗<nobr>光元素<sprite name=ConsumeLight></nobr>並充能<nobr>暗元素<sprite name=Dark></nobr>。
 item_pendantofdarkpacts,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>自身2個已消耗<sprite name=InvSmallItem>道具。獲得<nobr>詛咒<sprite name=Curse></nobr>。
-item_piercingbow,在你進行遠程進攻時，你的所有攻擊均忽略護甲值。
+
 item_platemail,在下五次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
-item_poisondagger,在你進行近戰進攻時，對你的單次攻擊附加<nobr>中毒<sprite name=Poison></nobr>。
+
 item_powercore,Item_PowerCore PLACEHOLDER
 item_protectivecharm,你免疫中毒<sprite name=Poison>和流血<sprite name=Wound>
 	item_reapingscythe,在你對單個目標使用近戰進攻時，將攻擊改為執行以下步驟：
@@ -3347,7 +3347,7 @@ perk_brute_08_desc,添加一張<sprite name=Rolling>繳械<sprite name=Disarm>�
 perk_brute_09,橫掃
 perk_brute_09_desc,添加一張<sprite name=Rolling>增加目標<sprite name=Target>卡
 perk_brute_10,堡壘
-perk_brute_10_desc,"添加一張<color=""orange"">+1</color>護甲<sprite name=Shield>1，自己卡"
+perk_brute_10_desc,"添加一張<color=""orange"">+1</color>護盾<sprite name=Shield>1，自己卡"
 perk_brute_11,堅韌
 perk_brute_11_desc,"忽略物品負面狀態並添加一張<color=""orange"">+1</color>卡"
 perk_cragheart_01,除塵
@@ -3623,7 +3623,7 @@ perk_sunkeeper_07_desc,添加一張<sprite name=Rolling>擊暈<sprite name=Stun>
 perk_sunkeeper_08,光輝
 perk_sunkeeper_08_desc,添加兩張<sprite name=Rolling> <sprite name=Light>卡
 perk_sunkeeper_09,蹲守
-perk_sunkeeper_09_desc,添加兩張<sprite name=Rolling>護甲<sprite name=Shield>1，自己卡
+perk_sunkeeper_09_desc,添加兩張<sprite name=Rolling>護盾<sprite name=Shield>1，自己卡
 perk_sunkeeper_10,不動要塞
 perk_sunkeeper_10_desc,"忽略物品負面狀態並添加兩張<color=""orange"">+1</color>卡"
 perk_sunkeeper_11,堅韌
