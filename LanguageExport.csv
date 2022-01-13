@@ -3,16 +3,17 @@
 004_b,本回合中，任何指定一個相鄰盟友的攻擊的目標改為你，無視攻擊範圍。,,,
 007_b,在之後的的6次指定你為目標的攻擊中，獲得<nobr>護盾<sprite name=Shield> *BShield*。</nobr>,,,
 013_b,<nobr>本回合，</nobr>你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack>。</nobr>,,,
-015_b,【之後三次你承受傷害時】免疫此次傷害。,,,
+015_b,"【之後三次你受到傷害時】
+免疫此次傷害",,,
 016_b,如果你的移動路徑為一條直線，執行,,,
-022_t,消滅一個與你相鄰的被<nobr>暈眩<sprite name=Stun></nobr>的普通階級敵人。,,,
+022_t,消滅一個相鄰的被<nobr>暈眩<sprite name=Stun></nobr>的普通階級敵人。,,,
 023_b,你可以將所有的<nobr>移動<sprite name=Move></nobr>行動轉化為等值的<nobr>進攻<sprite name=Attack></nobr>行動。,,,
 026_b,本回合中，你對處於<nobr>繳械<sprite name=Disarm></nobr>，<nobr>禁足<sprite name=Immobilize></nobr>，<nobr>暈眩<sprite name=Stun></nobr>狀態敵人的攻擊附加<nobr>+3攻擊力<sprite name=Attack>。</nobr>,,,
 030_t_1,在相鄰的一個空格內建立一個造成6點傷害的陷阱。,,,
 030_t_2,當敵人觸發陷阱時獲得<sprite name=XP2>。,,,
 031_t,召喚分身誘餌,,,
 037_b,一名相鄰的盟友可以從他的棄牌堆中<nobr>回收<sprite name=Recover></nobr>所有的牌。,,,
-040_b,本回合中，你以及所有與你相鄰的盟友在所有攻擊中附加<nobr>+1攻擊力<sprite name=Attack>。</nobr>,,,
+040_b,本回合中，你以及所有相鄰的盟友在所有攻擊中附加<nobr>+1攻擊力<sprite name=Attack>。</nobr>,,,
 043_b_1,一名在你<nobr>射程<sprite name=Range>2</nobr>以內的盟友可以<nobr>回收<sprite name=Recover></nobr>一張其棄牌堆的卡。,,,
 043_b_2,則最多兩張棄牌。,,,
 043_t,在一個相鄰的空格內建立一個2點傷害的附加中毒<sprite name=Poison>的陷阱。,,,
@@ -28,14 +29,15 @@
 054_t,在你之後的的五個輪次結束時，進行一次<nobr>“進攻<sprite name=Attack>2，</nobr><nobr>射程範圍<sprite name=Range>5”</nobr>的行動。,,,
 055_t,召喚殺戮機器,,,
 057_t,所有<nobr>射程範圍<sprite name=Range>3以內</nobr>的召喚物夥伴都<nobr>可以執行</nobr>,,,
-058_b_1,本回合中所有與你相鄰的盟友在他們的所有攻擊中附加<nobr>+2攻擊力<sprite name=Attack></nobr>。,,,
-058_b_2,所有與你相鄰的盟友損失2點生命值。,,,
+058_b_1,本回合中所有相鄰的盟友在他們的所有攻擊中附加<nobr>+2攻擊力<sprite name=Attack></nobr>。,,,
+058_b_2,所有相鄰的盟友損失2點生命值。,,,
 058_t,損失2點生命值。,,,
 060_b,在你<nobr>射程範圍<sprite name=Range>3</nobr>以內的一名盟友可以從他的職業牌堆中選擇一張符合當前等級的卡加入手牌，此效果持續到劇本結束。,,,
 060_t,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>最多兩張燼牌堆的牌，然後他們焚燒兩張牌。,,,
 062_t,此外，指定所有在<nobr>主要目標路徑</nobr>上的敵人為目標。,,,
 063_t,<nobr>回收<sprite name=Recover></nobr>所有你<nobr>燼牌堆的牌</nobr>。,,,
-066_b,【之後兩次你承受傷害時】免疫此次傷害。,,,
+066_b,"【之後兩次你受到傷害時】
+免疫此次傷害",,,
 069_t_1,在你之後的的四次攻擊中，<nobr>附加 +*TActive* 攻擊力<sprite name=Attack>。</nobr>,,,
 069_t_1_alt,在你之後的的四次攻擊中，<nobr>附加+2攻擊力<sprite name=Attack>。</nobr>,,,
 069_t_2,則獲得+2攻擊力<sprite name=Attack>。,,,
@@ -59,10 +61,10 @@
 091_t,當目標不與任何它的盟友相鄰時獲得<nobr>+2攻擊力<sprite name=Attack></nobr>並且獲得<sprite name=XP1>。,,,
 092_t,解除一個相鄰的陷阱。,,,
 097_b_1,強迫一名相鄰的敵人執行,,,
-097_b_2,由你操控行動，並停留在一個與你相鄰的格子。,,,
+097_b_2,由你操控行動，並停留在一個相鄰的格子。,,,
 097_t_1,每一個與目標相鄰的盟友使你獲得<nobr>+1攻擊力<sprite name=Attack>。</nobr>,,,
 097_t_2,則獲得<nobr>+2攻擊力<sprite name=Attack>，</nobr><sprite name=XP1>,,,
-098_b,本回合中，之後一次你承受傷害時：免疫此次傷害。,,,
+098_b,本回合中，之後一次你受到傷害時：免疫此次傷害。,,,
 098_t,附加+X攻擊力<sprite name=Attack>，其中X是目標護盾值的兩倍。,,,
 099_b,拾取<sprite name=Loot>每一個你通過此行動經過的格子。,,,
 100_t,當目標與<nobr>你的盟友</nobr>相鄰時，附加創傷<sprite name=Wound>並獲得<sprite name=XP1>。,,,
@@ -71,12 +73,12 @@
 105_t_1,如果你的目標與任意一個<nobr>你的盟友</nobr>相鄰，為攻擊附加<nobr>+3攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。,,,
 105_t_2,如果你的目標不與任何<nobr>它的盟友</nobr>相鄰，為你的攻擊附加<nobr>+3攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。,,,
 106_b,如果你的敵人處於<nobr>繳械<sprite name=Disarm></nobr>，<nobr>禁足<sprite name=Immobilize></nobr>，或<nobr>暈眩<sprite name=Stun></nobr>狀態。在之後的的六次攻擊中，為你的攻擊<nobr>附加+2攻擊/攻擊力<sprite name=Attack>。</nobr>,,,
-107_t,如果一個與你相鄰的普通階級敵人既不與任何它的盟友相鄰，又與你的盟友相鄰，則將其消滅。,,,
+107_t,如果一個相鄰的普通階級敵人既不與任何它的盟友相鄰，又與你的盟友相鄰，則將其消滅。,,,
 108_t,為你的所有指定<nobr>中毒<sprite name=Poison></nobr>狀態的敵人為目標的攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>。,,,
 110_t,如果你的攻擊目標與任意你的盟友相鄰，則為你的攻擊附加<nobr>+4攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP2>。,,,
 111_b,如果你的目標既不與任何它的盟友相鄰，又與你的盟友相鄰，則你的下次攻擊附加雙倍攻擊力並獲得<sprite name=XP2>。,,,
 111_t,指定一個<nobr>射程範圍<sprite name=Range>3</nobr>以內的敵人來遭受<nobr>被解除陷阱</nobr>的效果。,,,
-113_b,消滅一個當前生命值小於或等於3的與你相鄰的敵人。,,,
+113_b,消滅一個當前生命值小於或等於3的相鄰的敵人。,,,
 114_b,本回合，強迫一個相鄰的敵人來執行它的輪次。此時它將敵人（玩家）視作盟友，將盟友視作敵人，並由你操控它的行動。,,,
 115_t,為你的所有攻擊附加<nobr>中毒<sprite name=Poison></nobr>和<nobr>創傷<sprite name=Wound></nobr>。,,,
 116_b,在之後的六次受到近戰進攻時，獲得<nobr>復仇<sprite name=Retaliate>*BRetaliate*。</nobr>,,,
@@ -227,10 +229,10 @@
 316_t,在你之後的的六次攻擊行動中，<nobr>詛咒<sprite name=Curse></nobr>一名<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友，為你的攻擊附加2次<nobr>附加目標<sprite name=Target></nobr>。,,,
 317_b,所有處於<nobr>中毒<sprite name=Poison></nobr>的敵人<nobr>損失2點生命值。</nobr>,,,
 318_b_1,所有處於<nobr>中毒<sprite name=Poison></nobr>的盟友<nobr>損失2點生命值。</nobr>,,,
-318_b_2,本回合，每有兩個盟友（向下取整）因此效果損失生命值，為你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。,,,
+318_b_2,本回合，每有兩名盟友（向下取整）因此效果損失生命值，為你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。,,,
 320_b,如果你當前生命值小於你最大生命值的一半（向上取整），獲得<sprite name=XP1>並執行,,,
 321_t,你可以損失2點生命值來為你的攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。,,,
-322_b,【之後三次你承受傷害時】如果你的生命值將因傷害降低到1點以下，免疫此次傷害。,,,
+322_b,【之後三次你受到傷害時】如果你的生命值將因傷害降低到1點以下，免疫此次傷害。,,,
 322_t,如果你當前的生命值小於你最大生命值的一半（向上取整），為你的攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。,,,
 324_b_1,為你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。,,,
 324_b_2,每當你輪次開始時，損失1點生命值。,,,
@@ -314,7 +316,7 @@
 396_t_1,在相鄰的一個空格內建立一個造成2點傷害附加<nobr>創傷<sprite name=Wound></nobr>的陷阱。,,,
 396_t_2,當此陷阱觸發時，對所有與該陷阱相鄰的敵人附加<nobr>創傷<sprite name=Wound></nobr>。,,,
 397_b,在之後的三個輪次開始時，將此卡的效果推進一次。在此效果推進三次後，消滅目標並棄掉這張卡。,,,
-397_b_reminder,為任意一名敵人施加<b><color=#39BEED>厄運</color>。,,,
+397_b_reminder,為任意一個敵人施加<b><color=#39BEED>厄運</color>。,,,
 397_t_1,你可以在同一目標上同時啟動兩種<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>。,,,
 397_t_2,如果第三張<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>指定同一目標，棄掉已有的一張<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>。如果第三張<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>指定不同目標，則同時棄掉原有目標的兩張<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>。,,,
 398_b,指定任意一個帶有<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>的敵人為目標,,,
@@ -337,7 +339,7 @@
 415_t,在你之後的的四個輪次中，進行一次“<nobr>治療<sprite name=Heal>2</nobr>，<nobr>射程範圍<sprite name=Range>1</nobr>”行動。,,,
 416_t,在你的每個輪次開始時，移除任意一名盟友身上的一個負面狀態。,,,
 429_b,所有相鄰的盟友可以進行一次“<nobr>移動<sprite name=Move>2</nobr>”行動。,,,
-429_t,你和所有相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>最多X張棄牌堆的卡，X為與你相鄰的盟友的數目。,,,
+429_t,你和所有相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>最多X張棄牌堆的卡，X為相鄰的盟友的數目。,,,
 433_b,在你的每個輪次開始時，進行一次“<nobr>治療<sprite name=Heal>1</nobr>，目標為自己”行動。,,,
 437_t,移除相鄰盟友身上所有的負面狀態。,,,
 439_t,消滅一個帶有至少兩種負面狀態的，相鄰的，普通階級敵人。,,,
@@ -1298,9 +1300,9 @@ affect_allallies,作用於所有盟友,,,
 affect_allalliesmovedthrough,作用於所有移動經過的盟友,,,
 affect_allallieswithin,作用於以下範圍內的盟友：,,,
 affect_allsummonedallies,作用於所有召喚物夥伴,,,
-affect_anyoneally,作用於任意單個盟友,,,
+affect_anyoneally,作用於任意單名盟友,,,
 affect_oneadjacentally,作用於單個相鄰的盟友,,,
-affect_oneallywithinrange3,作用於以下範圍內的單個盟友： <nobr>射程<sprite name=Range> 3</nobr>,,,
+affect_oneallywithinrange3,作用於以下範圍內的單名盟友： <nobr>射程<sprite name=Range> 3</nobr>,,,
 affect_selfandalladjacentallies,作用於自身和所有相鄰的盟友,,,
 affect_selfandallallies,作用於自身和所有盟友,,,
 affect_selfandallalliesinrange2,作用於自身和以下範圍內的所有盟友：<nobr>射程<sprite name=Range> 2</nobr>,,,
@@ -1518,7 +1520,7 @@ combat_log_apply_ability,{0}將{1}應用於{2},,,
 combat_log_attack,{0}使用{2}對{1}進行攻擊,,,
 combat_log_attack_override_buff,{0}因{2}將{1}應用於攻擊中,,,
 combat_log_change_modifier,攻擊修正從{0}更改為{1},,,
-combat_log_choose_ability,當使用元素時{0}可對一名敵人造成傷害或者進行一次治療,,,
+combat_log_choose_ability,當使用元素時{0}可對一個敵人造成傷害或者進行一次治療,,,
 combat_log_consume,{0}消耗了{1},,,
 combat_log_consume_ability,{0}消耗了{1}，附加{2},,,
 combat_log_consume_ability_noelement,{0}附加{1},,,
@@ -1657,11 +1659,11 @@ compendium_blessandcurse_3,"<b>詛咒</b>
 compendium_blessandcurse_title,祝福和詛咒,,,
 compendium_cardlayout,"<b>1. 卡片名稱：</b>
 <line-height=40%>
-<line-height=100%>每個角色能力卡都有獨特的卡片名稱。
+<line-height=100%>每位角色能力卡都有獨特的卡片名稱。
 
 <b>2. 優先權：</b>
 <line-height=40%>
-<line-height=100%>每個角色選擇的第一張能力卡，上面的優先權決定了該角色在本回合中何時行動（優先權越小，角色越先行動）。
+<line-height=100%>每位角色選擇的第一張能力卡，上面的優先權決定了該角色在本回合中何時行動（優先權越小，角色越先行動）。
 
 <b>3. 動作：</b>
 <line-height=40%>
@@ -1699,7 +1701,7 @@ compendium_exhaustion_title,精疲力竭,,,
 compendium_gainingexperience_1,某些能力卡的動作上，有一個包含數字的星形圖示，其中的數字代表角色選擇該動作時會獲得的經驗值。角色必須成功進行一個以上的能力才能獲得相應的經驗值。,,,
 compendium_gainingexperience_2,"有時牌上會具體說明，僅在滿足某個條件時（例如：消耗某種指定元素）才會獲得經驗值，或當增益效果觸發了特定次數時獲得經驗值，條件顯示在經驗值進度條上（參見<b>增益效果</b>項目來獲得更多說明）。
 
-此外，在每次冒險成功結束時，參與本次冒險的每個角色都將根據冒險困難度獲得經驗值。更困難的冒險將獎勵你更多的經驗值，要注意！即使冒險失敗了，你也不會失去在冒險過程中獲得的經驗值，大膽冒險吧！",,,
+此外，在每次冒險成功結束時，參與本次冒險的每位角色都將根據冒險困難度獲得經驗值。更困難的冒險將獎勵你更多的經驗值，要注意！即使冒險失敗了，你也不會失去在冒險過程中獲得的經驗值，大膽冒險吧！",,,
 compendium_gainingexperience_title,獲得經驗,,,
 compendium_heal_1,"<b>治療 X</b>
 治療能力允許一個單位或其盟友恢復<b> X </b>點生命值。",,,
@@ -1712,7 +1714,7 @@ compendium_infusingelements_2,"螢幕右側的元素環境檢測器將以圓圈�
 compendium_infusingelements_title,元素充能,,,
 compendium_initiative_1,"優先權決定單位的行動順序.
 
-每個角色選擇的第一張能力卡決定了這個角色的在這一回合中的優先權 一 越小的數值代表角色越早行動。
+每位角色選擇的第一張能力卡決定了這位角色的在這一回合中的優先權 一 越小的數值代表角色越早行動。
 你可以透過點擊閃爍的優先權數字來調換兩張被選擇能力卡的順序。",,,
 compendium_initiative_2,"角色在選擇能力卡時，不會知道怪物將抽取的能力卡會是什麼。因此，你必須嘗試在不知道怪物何時採取何種行動的情況下評估角色應採取的行動。
 
@@ -1722,14 +1724,14 @@ compendium_initiative_2,"角色在選擇能力卡時，不會知道怪物將抽�
 compendium_initiative_title,優先權,,,
 compendium_itemslots,"當不在劇本中時，角色可以在各個部位中配備物品卡。請注意，角色不能持有任何完全重複的物品卡。
 
-每個角色只能配備一個頭部物品，一個身體物品，一個腳部物品，兩個單手物品或一個雙手物品，和數量不超過角色等級一半（向上取整）的小道具物品。",,,
+每位角色只能配備一個頭部物品，一個身體物品，一個腳部物品，兩個單手物品或一個雙手物品，和數量不超過角色等級一半（向上取整）的小道具物品。",,,
 compendium_itemslots_title,攜帶部位,,,
 compendium_levellingup_1,在會長模式中，當角色擁有其升級所需的經驗值（在其經驗值量表上顯示），並在世界地圖介面時，該角色可以升級。,,,
 compendium_levellingup_2,升級後，他們的最大生命值將會增加，每個等級他們可以從兩張新能力卡中解鎖一張並獲得該能力卡。此能力卡在接下來的旅行中可以被選擇使用。通過解鎖更多的角色能力卡，你可以升級和自訂角色的能力卡牌庫，讓角色能夠更好地互相搭配，或是進行角色之間的組合技，這也考驗著你的策略能力。,,,
 compendium_levellingup_title,升級,,,
 compendium_loot_1,"<b>拾取 X</b>
 拾取能力允許單位收集在 <b>X</b> 格內的所有金幣和寶箱。這個動作不受怪物或障礙物的影響，但請注意！該能力只會收集視線內的格子。",,,
-compendium_loot_2,"除了拾取能力之外，在每個角色輪次次結束時，此角色將自動收集他們當前格子中的金幣或寶箱。角色的召喚物不具有此效果。
+compendium_loot_2,"除了拾取能力之外，在每位角色輪次次結束時，此角色將自動收集他們當前格子中的金幣或寶箱。角色的召喚物不具有此效果。
 
 在會長模式中，金幣都是公會中的所有傭兵共享。",,,
 compendium_loot_title,拾取,,,
@@ -1738,7 +1740,7 @@ compendium_meleeandranged_1,"<b>進攻 X</b>
 進攻分為兩種類型，近戰和遠程：",,,
 compendium_meleeandranged_2,一般的進攻沒有指定射程，攻擊距離預設為一格，這代表它們通常用來攻擊相鄰的敵人。,,,
 compendium_meleeandranged_3,附加了射程能力的進攻為遠程進攻，射程能力附帶的數值 <b>Y</b> 代表了攻擊距離，代表你可以攻擊 <b>Y</b> 格內的敵人。任何指定相鄰敵人的遠程進攻都會使攻擊方處於劣勢狀態（參見""優勢和劣勢""項目來獲得更多說明）。,,,
-compendium_meleeandranged_4,"只能對視線中的敵人進行攻擊，視線計算方法為單位所在格子的任一角能連一條直線到另一個角色所在格子的任一角，連線不能與牆壁相交（按住 <b>L</b> 鍵並移動滑鼠游標以查看視線）。
+compendium_meleeandranged_4,"只能對視線中的敵人進行攻擊，視線計算方法為單位所在格子的任一角能連一條直線到另一位角色所在格子的任一角，連線不能與牆壁相交（按住 <b>L</b> 鍵並移動滑鼠游標以查看視線）。
 除此此外，任何指定範圍的能力也只能傷害到視線內的目標。如果能力未指定範圍，則不需要視線。
 另外，被牆分隔的兩個格子不被視為相鄰，並且不能通過牆壁計算距離。",,,
 compendium_meleeandranged_title,近戰和遠程,,,
@@ -1790,7 +1792,7 @@ compendium_movementtypes_3,"<b>飛行</b>
 compendium_movementtypes_title,前進類型,,,
 compendium_multipletargets_1,"<b>目標 X</b>
 有些進攻具有目標的附加能力，這代表此次進攻可以指定攻擊範圍內的 <b>X</b> 個不同的敵人。",,,
-compendium_multipletargets_2,"對於複數目標的進攻，每個攻擊都會獨立進行結算（抽取不同的攻擊修正卡）。無法通過相同的進攻能力攻擊同一位敵人。
+compendium_multipletargets_2,"對於複數目標的進攻，每個攻擊都會獨立進行結算（抽取不同的攻擊修正卡）。無法通過相同的進攻能力攻擊同一個敵人。
 
 進攻永遠無法以盟友為目標。盟友可以在能力作用的範圍內，但它們不會成為攻擊的目標。",,,
 compendium_multipletargets_title,多重目標進攻,,,
@@ -1842,13 +1844,13 @@ compendium_roundsummary,"一個劇本包含數個回合，直到玩家符合劇�
 一個回合包含以下階段：
 
 • <indent=15><b>能力卡選擇階段</b>
-為每個角色選擇兩張能力卡。若沒有辦法選擇的角色，可以改為選擇進行長休息或是短休息（進行短休息可以先將棄牌區的能力卡回收）。選擇的第一張牌將會決定該角色本回合的優先權。</indent>
+為每位角色選擇兩張能力卡。若沒有辦法選擇的角色，可以改為選擇進行長休息或是短休息（進行短休息可以先將棄牌區的能力卡回收）。選擇的第一張牌將會決定該角色本回合的優先權。</indent>
 
 • <indent=15><b>怪物能力卡揭露階段</b>
 為每個存在場地上的怪物類型，揭露一張怪物能力卡（所有同種類的怪物會共用同一張能力卡）。然後單位的能力卡優先權將會列在螢幕頂部的優先權序列中，由左至右代表行動的順序。</indent>
 
 • <indent=15><b>行動階段</b>
-從優先權最小的一位開始，單位將依順序行動。怪物只會採取能力卡上的能力，角色從剛剛選擇的兩張能力卡上選擇執行的動作，也可以在自己的輪次時使用物品。</indent>
+從優先權最小的單位開始，單位將依順序行動。怪物只會採取能力卡上的能力，角色從剛剛選擇的兩張能力卡上選擇執行的動作，也可以在自己的輪次時使用物品。</indent>
 
 • <indent=15><b>回合結束階段</b>
 持續一回合的回合增益效果結束，並依照牌上敘述將其丟棄或焚燒，元素從強烈形態變為衰退形態或從衰退形態變為惰性形態，如果 <color=purple><b>x0</b></color> 或 <color=orange><b>x2</b></color> 攻擊修正卡被抽出，則將所有被抽出的攻擊修正卡放回攻擊修正卡牌庫混洗。</indent>",,,
@@ -1864,7 +1866,7 @@ compendium_section_experience,經驗值,,,
 compendium_section_items,攜帶物品,,,
 compendium_section_monsterbehaviour,怪物行為,,,
 compendium_section_overview,概述,,,
-compendium_selectingcards,"在回合開始時，必須為每個角色選擇兩張能力卡或進行長休息。
+compendium_selectingcards,"在回合開始時，必須為每位角色選擇兩張能力卡或進行長休息。
 
 基於所選的牌來決定角色在輪次中可以進行的動作，以及該角色的優先權。
 若想在<color=#BA7956><b>黯淡港灣</b></color>中實行好的策略，則要明智地選擇能力卡並進行組合，以利用他們的能力和優先權。
@@ -4595,20 +4597,20 @@ ftue_12,"<color=#EACF8C>第一個任務</color>位置被標記在黯淡港灣的
 ftue_13,"記住你可以帶著<color=#EACF8C>最多四個傭兵</color>開始一個任務（但是你帶的傭兵越多，相應的任務難度也將會更高）。
 一旦開始一個任務，直到返回黯淡港灣之前，你不能夠改變你的團隊成員。",,,
 ftue_2,"在螢幕左側你會看到<color=#EACF8C>團隊面板</color>。這裡你將看到你團隊中傭兵的基本資訊。
-點擊第一個角色空位以打開<color=#EACF8C>角色選擇面板</color>。",,,
-ftue_2.2,點擊<color=#EACF8C>第一個角色空位</color>以打開角色選擇面板,,,
-ftue_3,使用<color=#EACF8C>角色選擇面板</color>，你可以查看目前團隊的傭兵或僱用新傭兵到你的團隊中。現在它看起來像<color=#BA7956>銅頸山脈</color>一樣一無所有，所以最好趕快點擊<color=#EACF8C>【僱傭新傭兵】</color>以建立你的第一個角色！,,,
-ftue_3.2,點擊<color=#EACF8C>【僱傭新傭兵】</color>以建立一個角色,,,
+點擊第一位角色空位以打開<color=#EACF8C>角色選擇面板</color>。",,,
+ftue_2.2,點擊<color=#EACF8C>第一位角色空位</color>以打開角色選擇面板,,,
+ftue_3,使用<color=#EACF8C>角色選擇面板</color>，你可以查看目前團隊的傭兵或僱用新傭兵到你的團隊中。現在它看起來像<color=#BA7956>銅頸山脈</color>一樣一無所有，所以最好趕快點擊<color=#EACF8C>【僱傭新傭兵】</color>以建立你的第一位角色！,,,
+ftue_3.2,點擊<color=#EACF8C>【僱傭新傭兵】</color>以建立一位角色,,,
 ftue_4,"下一步你將選擇一個<color=#EACF8C>起始角色職業</color>。
-每個角色擁有獨特的技能和遊戲方式。隨著你的等級提升，可獲取新能力卡並解鎖更多角色職業。
-點擊角色頭像以瞭解他們的更多資訊並選擇任意一位成為你的第一位傭兵！",,,
+每位角色擁有獨特的技能和遊戲方式。隨著你的等級提升，可獲取新能力卡並解鎖更多角色職業。
+點擊角色頭像以瞭解他們的更多資訊並選擇任意一名成為你的第一名傭兵！",,,
 ftue_4.2,選擇<color=#EACF8C>六個起始角色職業</color>中的一個,,,
 ftue_4.3,"不錯的選擇！現在記住，外表不代表一切，傭兵的能力卡才代表著他們戰鬥中的行動能力。你能點擊“<color=#EACF8C>初始能力卡</color>”按鈕去判斷他對你的團隊這是不是正確的傭兵。
 一旦你確定你的決定，點擊“<color=#EACF8C>選擇傭兵</color>”按鈕以繼續。",,,
 ftue_5,選擇<color=#EACF8C>兩個個人任務</color>之一,,,
 ftue_6,恭喜！你已經建立成功你的第一位傭兵！現在記住，你需要<color=#EACF8C>最少兩個傭兵</color>出去尋找冒險。構建一個戰鬥中成員之間互補的傭兵團隊是很重要的。,,,
 ftue_7,"在團隊面板中點擊<color=#EACF8C>第二角色槽</color>並建立一個新角色。
-要知道你不能同時在團隊中擁有數量超過一個的某個角色職業的傭兵，請創造不同的角色！",,,
+要知道你不能同時在團隊中擁有數量超過一個的某位角色職業的傭兵，請創造不同的角色！",,,
 ftue_7.2,點擊<color=#EACF8C>第二角色槽</color>去打開角色選擇面板,,,
 ftue_8,"到了進行一些冒險的時候了！
 如果你心中已確定當前的團隊，點擊螢幕中心以關閉團隊角色選擇面板並返回世界地圖。",,,
@@ -4881,13 +4883,13 @@ gui_back,回上層選單,,,
 gui_battle_goals,戰鬥目標：,,,
 gui_battle_goals_tip,在進入劇本前為每個傭兵選擇一個戰鬥目標。,,,
 gui_begin,開始,,,
-gui_bind_equip_item_confirmation,"<color=#C53F3F>解綁的花費：</color><color=#FCC954><sprite name=""Gold_Icon_White"" color=#FCC954>{0}</color>",,,
-gui_bind_equip_item_confirmation_title,綁定並裝備物品,,,
+gui_bind_equip_item_confirmation,<color=#C53F3F>解除綁定的花費：</color><color=#FCC954><sprite name=""Gold_Icon_White"" color=#FCC954> {0}</color>,,,
+gui_bind_equip_item_confirmation_title,綁定並配備物品,,,
 gui_bind_item,綁定物品,,,
 gui_bind_item_error_confirmation_title,無法裝備物品,,,
-gui_bind_item_error_repeated,傭兵每種物品只可能擁有一個,,,
-gui_bind_move_item_confirmation,"綁定到<color=#{0}>{1}</color><size=140%><sprite name=""{2}"" color=#{0}></size>
-<color=#C53F3F>移動綁定的花費{3}：</color><color=#FCC954><sprite name =""gold_icon_white"" color=#fcc954>{4}</color>",,,
+gui_bind_item_error_repeated,傭兵每個同名的物品只可以擁有一份,,,
+gui_bind_move_item_confirmation,"已綁定：<color=#{0}>{1}</color><size=140%><sprite name=""{2}"" color=#{0}></size>
+<color=#C53F3F>移動綁定的花費{3}：</color><color=#FCC954><sprite name=""gold_icon_white"" color=#fcc954>{4}</color>",,,
 gui_bind_move_item_confirmation_title,綁定到 {0},,,
 gui_blessings_unavailable,沒有可用的祝福,,,
 gui_buy,買入,,,
@@ -5213,7 +5215,7 @@ gui_gift_ability_card,你獲得了一張能力卡,,,
 gui_gift_advantage,你獲得了攻擊優勢,,,
 gui_gift_bless,你被祝福了,,,
 gui_gift_curse,你被詛咒了,,,
-gui_gift_damage,每個角色下一次劇本開始時都遭受{0}點傷害,,,
+gui_gift_damage,每位角色下一次劇本開始時都遭受{0}點傷害,,,
 gui_gift_damage_now,遭受 {0} 點傷害,,,
 gui_gift_disadvantage,你陷入劣勢進攻,,,
 gui_gift_disarm,你被繳械了,,,
@@ -5630,14 +5632,14 @@ gui_multiplayer_waiting_players_reward,等待玩家返回到世界地圖......,,
 gui_multiplayer_warning_text_waitingforcharassignment,等待所有玩家完成角色安排,,,
 gui_multiplayer_warning_text_waitingforconnectingplayerstojoin,新玩家目前正在加入遊戲。等待每個人都加入後，開始進程。,,,
 gui_multiplayer_warning_text_waitingformoreplayers,邀請另一名玩家繼續多人遊戲或切回到玩家功能表中的單人遊戲。,,,
-gui_multiplayer_warning_text_waitingformycharassignment,等待主機給我分配一個角色,,,
+gui_multiplayer_warning_text_waitingformycharassignment,等待主機給我分配一位角色,,,
 gui_multiplayer_warning_title_progression_disabled,被禁用的進程,,,
 gui_negative_conditions,負面狀態,,,
 gui_neutral,中立的,,,
 gui_new,開始新遊戲,,,
 gui_new_adventure,新冒險,,,
 gui_new_campaign,新戰役,,,
-gui_new_card_notification,添加了新的能力卡，它低於當前級別。出於這個原因，我們會給你有機會<color=#CEAD5A>免費重置你的能力卡牌庫 </color>，並嘗試一些你可能已經錯過的技能！,,,
+gui_new_card_notification,添加了新的能力卡，它低於當前級別。出於這個原因，我們會給你有機會<color=#CEAD5A>免費重置你的能力卡牌庫</color>，並嘗試一些你可能已經錯過的技能！,,,
 gui_new_card_notification_title,已加入新卡！,,,
 gui_new_character,僱傭新傭兵,,,
 gui_new_quest_location_title,新任務地點！,,,
@@ -5681,9 +5683,9 @@ gui_objective_kill_bosses_lose,如果所有的boss死亡，則以失敗告終,,,
 gui_objective_kill_bosses_win,擊殺所有的boss,,,
 gui_objective_kill_enemy_lose,如果所有敵人死亡，則以失敗告終,,,
 gui_objective_kill_enemy_win,擊殺所有房間的所有敵人,,,
-gui_objective_kill_x_lose,如果{0}名敵人死亡，則以失敗告終,,,
+gui_objective_kill_x_lose,如果{0}個敵人死亡，則以失敗告終,,,
 gui_objective_kill_x_lose_filtered,如果{0}個 {1}死亡，則以失敗告終,,,
-gui_objective_kill_x_win,擊殺{0}名敵人獲勝,,,
+gui_objective_kill_x_win,擊殺{0}個敵人獲勝,,,
 gui_objective_kill_x_win_filtered,擊殺{0}個 {1}獲勝,,,
 gui_objective_loot_x_lose,如果你收集到{0}，則以失敗告終,,,
 gui_objective_loot_x_lose_filtered,如果你收集到 {0} 個{1}，則以失敗告終,,,
@@ -5802,7 +5804,7 @@ gui_party,團隊,,,
 gui_party_assembly_enter_name,輸入名稱,,,
 gui_party_assembly_enter_name_campaign,輸入隊伍名稱,,,
 gui_party_price,成本：{0}Renown,,,
-gui_party_size,{0}個角色,,,
+gui_party_size,{0}位角色,,,
 gui_partygold,團隊擁有的金幣。,,,
 gui_partygold_tooltip,"團隊擁有的金幣。
 總計：{0}",,,
@@ -6024,7 +6026,7 @@ gui_steam_friends,朋友,,,
 gui_submit,Submit,,,
 gui_summon_card,召喚,,,
 gui_summoned_allies,召喚物夥伴,,,
-gui_swap_characters_positions_tip,選擇{0}/2個角色以交換位置,,,
+gui_swap_characters_positions_tip,選擇{0}/2位角色以交換位置,,,
 gui_swap_enemy_positions_tip,選擇{0}/2個敵人以交換位置,,,
 gui_swap_position_tip,將{0}的位置與{1}交換,,,
 gui_take_damage,承受傷害,,,
@@ -6103,7 +6105,7 @@ gui_tooltip_short_rest,"隨機焚燒一張棄牌堆中的牌以回收棄牌堆�
 如果你不想焚燒抽出的牌，你可以選擇失去 1 點生命值並重抽一張牌來替換原本要被焚燒的牌。",,,
 gui_tooltip_short_rest_warning,棄牌堆中的牌需要有兩張以上。,,,
 gui_tooltip_single_target,選擇一個單體目標。,,,
-gui_tooltip_start_turn,讓每個角色選擇兩個能力卡打出或選擇休息。,,,
+gui_tooltip_start_turn,讓每位角色選擇兩個能力卡打出或選擇休息。,,,
 gui_tooltip_summon,召喚 {0},,,
 gui_tooltip_summon_select_hex,選擇一個格子來召喚 {0},,,
 gui_tooltip_take_quest_item,確認從相鄰的傭兵拿走可攜帶的任務物品,,,
@@ -6142,7 +6144,7 @@ gui_update_party_disabled_tooltip,當前另一個玩家正在加入遊戲，角�
 gui_upload,上傳,,,
 gui_use_item_attack_tip,點擊物品的圖示以將其效果套用到攻擊中,,,
 gui_use_item_movement_tip,點擊物品的圖示以將其效果套用到移動中,,,
-gui_use_item_title,使用物品：,,,
+gui_use_item_title,使用物品,,,
 gui_validate,驗證,,,
 gui_view_alt_cards_tip,按住alt查看所有卡,,,
 gui_visit_workshop,瀏覽工作坊,,,
@@ -6214,7 +6216,7 @@ intro_abilitycardpanel_2,"你可以在能力卡面板中<color=#EACF8C>調整要
 
 每位傭兵可以攜帶的牌組容量不同，而且進入地城時牌組必須裝滿。將滑鼠滑入能力卡上可以查看該能力卡的詳細資訊。",,,
 intro_battlegoals,"在進入地城之前，每個傭兵必須<color=#EACF8C>在兩個戰鬥目標中選擇一個</color>。
-戰鬥目標是傭兵在地城中要盡力達成的秘密任務。失敗不會帶來懲罰，但成功完成將會獲得額外的經驗獎勵，這將會讓你在之後的戰鬥中更加得心應手。",,,
+戰鬥目標是傭兵在地城中要盡力達成的秘密任務。失敗不會有懲罰，但成功完成將會獲得額外的獎勵，這將會讓你在之後的戰鬥中更加得心應手。",,,
 intro_cityquest,"你們解鎖了一個<color=#EACF8C>城鎮任務</color>！
 你可以透過點擊城鎮地圖按鈕或點擊日誌中的新任務查看。",,,
 intro_enchantress,在此介面你可以為你所有能力卡進行附魔。首先選擇能力卡，然後選擇附魔槽，就可以將你希望的附魔效果附加到該附魔槽位上。請注意，不同的附魔會對應不同的附魔基礎成本，而且同一張牌附魔次數越多成本越高。當你移除附魔時，其附魔成本將恢復到最初的狀態。,,,
@@ -6282,8 +6284,10 @@ item_bootsofstriding,"【你的<color=#1F9EDC>前進</color>中】
 item_brilliantblade,【你的近戰<color=#1F9EDC>進攻</color>中】<sprite name=ConsumeLight>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
 item_chainhood,當你與三個或者更多怪物相鄰時，獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
 item_chainmail,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
-item_circletofelements,【你的輪次中】<sprite name=ConsumeAny>並充能任意一個元素。,,,
-item_cloakofinvisibility,【你的輪次中】獲得<nobr>隱形<sprite name=Invisible>。</nobr>,,,
+item_circletofelements,"【你的輪次中】
+<sprite name=ConsumeAny>並充能任意一個元素。",,,
+item_cloakofinvisibility,"【你的輪次中】
+自身附加<nobr>隱形<sprite name=Invisible></nobr>",,,
 item_cloakofphasing,獲得飛行。當處於障礙物格子時，你被視為<nobr>隱形<sprite name=Invisible></nobr>並且你無法攻擊。,,,
 item_cloakofpockets,你可以額外攜帶兩個<sprite name=InvSmallItem>小道具。,,,
 item_comfortableshoes,當你使用能力卡底部的預設行動時，將<nobr>“移動<sprite name=Move>2”</nobr>改為<nobr>“移動<sprite name=Move>3”</nobr>。,,,
@@ -6304,36 +6308,41 @@ item_falconfigurine,召喚玉鷹,,,
 item_fleabittenshawl,當敵人進行攻擊目標判定時，你的優先權始終視為 <b>99</b>。,,,
 item_frigidblade,【你的近戰<color=#1F9EDC>進攻</color>中】<sprite name=ConsumeIce>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
 item_fueledfalchion,在你對單個目標使用近戰進攻時，該攻擊目標以及所有與其相鄰的敵人損失1點生命值。,,,
-item_giantremotespider,【你的輪次中】進行一次<nobr>“拾取<sprite name=Loot>1”</nobr> 。,,,
+item_giantremotespider,"【你的輪次中】
+<nobr>“拾取<sprite name=Loot>1”</nobr>",,,
 item_halberd,在你執行單一目標的近戰進攻行動時，你可以攻擊兩格以內的任意一個敵人。,,,
 item_hawkhelm,當你進行遠程進攻時，對你的整個攻擊輪次附加<nobr>+1射程<sprite name=Range></nobr>。,,,
 item_heartofthebetrayer,【你的輪次中】強迫一個<nobr>射程範圍<sprite name=Range> 3以內</nobr>的敵人進行一次<nobr>進攻<sprite name=Attack>+0</nobr>，<nobr>射程範圍<sprite name=Range>+0</nobr>行動，由你操控整個行動。,,,
-item_heatershield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>1</nobr>。,,,
+item_heatershield,"<size=80%>【你受到攻擊的傷害時】</size>
+結算傷害階段中：自身視為具有<nobr>護盾<sprite name=Shield> <b>1</b</nobr>能力",,,
 item_heavybasinet,你免疫暈眩<sprite name=Stun>和混亂<sprite name=Muddle>,,,
 item_heavygreaves,你免疫所有由敵人和劇本機制所造成的強制移動行動,,,
 item_helixring,【你的輪次中】<sprite name=ConsumeLight><sprite name=ConsumeDark>並進行一次<nobr>“治療<sprite name=Heal>25，自身”</nobr>。,,,
 item_helmofthemountain,當你受到攻擊時，如果<sprite name=Earth>處於強烈，則對攻擊方施加<sprite name=Immobilize>。,,,
-item_hidearmor,在下兩次受到以你為攻擊目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
+item_hidearmor,"【之後兩次你受到攻擊的傷害時】
+結算傷害階段中：自身視為具有<nobr>護盾<sprite name=Shield> <b>1</b></nobr能力",,,
 item_hookedchain,當你進行遠程進攻時，對你的整個攻擊行動附加<nobr>拉近<sprite name=Pull>2</nobr>。,,,
 item_hornedhelm,若在你自己的輪次中移動了4個或者更多格子，對你此輪次的下一次近戰進攻附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_infernoblade,"【你的近戰<color=#1F9EDC>進攻</color>中】
 <sprite name=ConsumeFire>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>",,,
 item_ironhelmet,當你受到攻擊時，將敵人抽到的任何<color=orange><b>x2</b></color>攻擊修正卡視為其抽到了一張+0攻擊修正卡。,,,
 item_jaggedsword,【你的近戰<color=#1F9EDC>進攻</color>中】對你的單次攻擊附加<nobr>創傷<sprite name=Wound></nobr>。,,,
-item_leatherarmor,<size=80%>在下兩次受到攻擊時，攻擊方均獲得劣勢。,,,
+item_leatherarmor,"【你受到攻擊時自動發動】
+攻擊方具有劣勢狀態",,,
 item_longspear,在你對單個目標使用近戰進攻時，將攻擊改為執行以下步驟：,,,
 item_luckyeye,【你的輪次中】你和相鄰的盟友獲得<nobr>強壯<sprite name=Strengthen></nobr>。,,,
 item_magmawaders,忽略危險地形的傷害。每個輪次中首次進入危險地形時，你可以立即進行一次“治療2，自身”。,,,
 item_majorcurepotion,【你的輪次中】移除自身的所有負面狀態。此物品可以在你處於<nobr>暈眩<sprite name=Stun></nobr>狀態時使用。,,,
 item_majorhealingpotion,"【你的輪次中】
 <nobr>治療<sprite name=Heal> <b>5</b> </nobr>（自身）",,,
-item_majormanapotion,【你的輪次中】
+item_majormanapotion,"【你的輪次中】
 充能任意兩個元素",,,
 item_majorpowerpotion,"【你的<color=#1F9EDC>進攻</color>中】
 本次能力：<nobr><b>+2</b> <sprite name=Attack></nobr>",,,
 item_majorstaminapotion,"【你的輪次中】
 從你的棄牌堆中<nobr>回收<sprite name=Recover></nobr>最多兩張牌",,,
-item_maskofterror,【你的近戰<color=#1F9EDC>進攻</color>中】附加<nobr>強推<sprite name=Push>1。</nobr>,,,
+item_maskofterror,"【你的近戰<color=#1F9EDC>進攻</color>中】
+附加<nobr>強推<sprite name=Push>1。</nobr>",,,
 item_minorcurepotion,"【你的輪次中】
 移除自身一個負面狀態。此物品可以在你處於<nobr>暈眩<sprite name=Stun></nobr>狀態時使用",,,
 item_minorhealingpotion,"【你的輪次中】
@@ -6512,7 +6521,7 @@ item_rocketboots,"【你的<color=#1F9EDC>前進</color>中】
 本次能力：<nobr><b>+3</b> <sprite name=Move></nobr> 並 具有<nobr>跳躍<sprite name=Jump>附加能力</nobr>",,,
 item_sacrificialrobes,在你進行遠程進攻時，損失3點生命值並對整個攻擊輪次附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_scrollofhealing,【你的輪次中】進行一次<nobr>“治療<sprite name=Heal>3，<nobr></nobr>範圍<sprite name=Range>5”</nobr>。,,,
-item_scrollofpower,在一個盟友進行攻擊時，對其整個攻擊輪次附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
+item_scrollofpower,在一名盟友進行攻擊時，對其整個攻擊輪次附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_scrollofstamina,【你的輪次中】<nobr>範圍<sprite name=Range>5</nobr>以內的一名盟友可以<nobr>回收<sprite name=Recover></nobr>最多兩張在其棄牌堆中的牌。,,,
 item_secondchancering,在你的輪次結束時，從手牌中打出兩張牌並按照新主導卡的優先權來進行一個額外的輪次（新的優先權必須比你當前優先權高）,,,
 item_secondskin,移除你攻擊修正牌堆裡的兩張-1卡。,,,
@@ -6553,11 +6562,12 @@ item_wandoffrost,【你的輪次中】充能冰霜元素。,,,
 item_wandofinfernos,【你的輪次中】充能火元素。,,,
 item_wandofstorms,【你的輪次中】充能空氣元素。,,,
 item_wandoftremors,【你的輪次中】充能大地元素。,,,
-item_warhammer,【你的近戰<color=#1F9EDC>進攻</color>中】對你的整個攻擊輪次附加<nobr>暈眩<sprite name=Stun></nobr>。,,,
+item_warhammer,"【你的近戰<color=#1F9EDC>進攻</color>中】
+本次能力：具有<nobr>暈眩<sprite name=Stun></nobr>附加能力",,,
 item_wavecrest,當你受到攻擊時，如果<sprite name=Ice>處於強烈，對攻擊方進行一次“強推<sprite name=Push>2”。,,,
 item_weightednet,當你進行遠程進攻時，對你的單次攻擊附加<nobr>禁足<sprite name=Immobilize></nobr>•。,,,
 item_wingedshoes,"【你的<color=#1F9EDC>前進</color>中】
-本次能力：具有<nobr>跳躍<sprite name=Jump>附加能力</nobr>",,,
+本次能力：具有<nobr>跳躍<sprite name=Jump></nobr>附加能力",,,
 jadefalcon,玉鷹,,,
 jekserah,潔索菈,,,
 jump,跳躍,,,
@@ -6651,7 +6661,7 @@ loading_tip_013,當你打開一扇門時，準備好面對更多的敵人！,,,
 loading_tip_014,在出發前選擇好你的團隊 一 一旦出發後，你將無法再更換團隊成員。,,,
 loading_tip_015,對於那些在會長模式中非常艱難的任務，你可以考慮先在寺廟中祈求祝福。,,,
 loading_tip_016,你有機會在會長模式的職業任務中遇到一個寶箱！在完成劇本目標前務必把寶箱收集來！,,,
-loading_tip_017,當裝備新物品時請注意 一 它們將會綁定到那個傭兵身上。如果你想換到其他人身上，則必須支付一些費用解綁。,,,
+loading_tip_017,當裝備新物品時請注意 一 它們將會綁定到那個傭兵身上。如果你想換到其他人身上，則必須支付一些費用解除綁定。,,,
 loading_tip_018,你可以通過完成成就解鎖更多附魔類型，也可以通過探索地圖為每個傭兵解鎖更多的附魔槽。,,,
 loading_tip_019,會長模式的旅行和職業任務等級將會隨著遊戲的進行而改變。故事和遺物任務往往更難！,,,
 loading_tip_020,不是所有通關劇本的方式都是消滅所有敵人 一 請務必檢查你的劇本目標。,,,
@@ -7910,7 +7920,7 @@ plus,加上,,,
 poison,中毒,,,
 poisoned flame,劇毒烈焰,,,
 poisonshort,中毒,,,
-portal_descr_tooltip,移動路徑終點在傳送門上將會傳送一個角色到相連的傳送門。,,,
+portal_descr_tooltip,移動路徑終點在傳送門上將會傳送一位角色到相連的傳送門。,,,
 portal_tooltip,傳送門,,,
 pressure_plate_tooltip,壓力板,,,
 preventdamage,阻止傷害,,,
@@ -8927,8 +8937,8 @@ quest_campaign_080_name,守夜堡壘,,,
 quest_campaign_080_outro_travel_1,也許是因為戰鬥所引發的恐懼感，這些馬匹比你們預想的跑的更快，從山間小徑上一路向下飛奔。,,,
 quest_campaign_080_outro_travel_2,等到這些馬匹終於精疲力盡，停了下來，這時你們已經遠遠的甩開那些追兵，並且距離黯淡港灣也只剩下一半的路程。,,,
 quest_campaign_080_outro_travel_3,你們暗暗的在心底記下了，以後要儘量躲開守夜人這個組織。,,,
-quest_campaign_080_scenario_modifier_0,一名角色在拾取目標寶箱之前的所有攻擊附加劣勢且不能使用任何物品。,,,
-quest_campaign_080_scenario_modifier_1,每名角色只能拾取一個目標寶箱。,,,
+quest_campaign_080_scenario_modifier_0,一位角色在拾取目標寶箱之前的所有攻擊具有劣勢狀態且不能使用任何物品。,,,
+quest_campaign_080_scenario_modifier_1,每位角色只能拾取一個目標寶箱。,,,
 quest_campaign_081_desc,按照艾斯泰爾人所指的方向找到硬幣描繪的地方...,,,
 quest_campaign_081_intro,這座建築物似乎已被遺棄，但一旦你們踏入建築，就將被這裡迷人的景色所震撼：一道永恆暮光跨越在穹頂之上。時間停滯在晨昏分界的那一刻，為整個房間渲染了一層奇異的光輝。然而在環顧四周之後，你們發現這裡似乎並不歡迎你們。一群光與暗的惡魔正不斷向你們逼近。,,,
 quest_campaign_081_intro_travel_1,在你們前往那個艾斯泰爾人所指地點的路上，天空變得烏雲密佈，而就在你們快要到達那座隱藏在尖刀森林之中的小神廟時，天上下起了毛毛細雨。,,,
@@ -9021,7 +9031,7 @@ quest_campaign_090_intro_travel_1,在午夜，你們來到了地圖所標示的�
 quest_campaign_090_intro_travel_2,看見織魔師手持著香爐站在空地中央，凝視著遠處閃爍的亮光。,,,
 quest_campaign_090_list,與織魔師見面,,,
 quest_campaign_090_name,邪魔裂縫,,,
-quest_campaign_090_scenario_modifier_1,每當偶數回合結束時，如果沒有至少一名角色在元力位面，則物質位面將生成一隻惡夜惡魔。你可以通過在裂隙上結束移動來在兩個位面之間穿梭。,,,
+quest_campaign_090_scenario_modifier_1,每當偶數回合結束時，如果沒有至少一位角色在元力位面，則物質位面將生成一隻惡夜惡魔。你可以通過在裂隙上結束移動來在兩個位面之間穿梭。,,,
 quest_campaign_091_desc,那名男子的囈語會是真的嗎？,,,
 quest_campaign_091_intro,"“啊，森林之靈說你們會前來幫我，”他說道，“你們若能再早一點過來就好了。你瞧，這些破壞已經嚴重褻瀆了我的先祖，我現在唯一能聽到的就是他們無邊無際的悲鳴聲。”
 
@@ -9310,7 +9320,7 @@ quest_relic_secondskin_name,犯罪夥伴,,,
 quest_relic_secondskin_unlock_1,我們經常衝突不斷，傭兵在戰鬥中不堪重負。,,,
 quest_relic_secondskin_unlock_2,一個瓦拉斯護甲匠告訴我他已經發明了一件測試性的緊身胸甲，但是被他的業務夥伴偷走了原型。,,,
 quest_relic_secondskin_unlock_3,然後它和同伴們一起逃往了病灣村，所以你們需要去那裡把它找回來。,,,
-quest_relic_staffofelements_complete_1,很顯然你可以把這把法杖授予最強力的魔法使用者，但是給予另外一個角色讓他能在輪次開始前獲取元素也許會更加有利。謹慎選擇吧。,,,
+quest_relic_staffofelements_complete_1,很顯然你可以把這把法杖授予最強力的魔法使用者，但是給予另外一位角色讓他能在輪次開始前獲取元素也許會更加有利。謹慎選擇吧。,,,
 quest_relic_staffofelements_desc,元素試煉是一個危險的任務，但是獎勵也令人印象深刻：一把強力的元素法杖。大功告成。,,,
 quest_relic_staffofelements_intro,你們本希望再不用返回崖洞周圍的群山，但是你還是來了。硫磺的味道襲擊了你們的感官，灼燒著你們的雙眼。這裡沒有通常意義上的道路，只有碎石較少便於攀爬的模糊路徑。你們不確定女巫指出的路徑是否正確。路過幾個虛假的警示後，廢棄的洞穴通往了一個遍佈蝙蝠和碎骨的房間，你們拾級而上，看到了被符文圍繞的邃暗入口。你們振作精神，進入入口。,,,
 quest_relic_staffofelements_list,進入惡魔侵染的洞穴以取回神器,,,
@@ -10767,7 +10777,7 @@ scenario_job_1_1_undead_crypt_success,不死生物消失了，但空氣中仍飄
 scenario_job_aneyeforaneye_sm1_desc,所有英雄在戰役開始時處於中毒狀態,,,
 scenario_job_aneyeforaneye_start_1,在第一個房間裡，有許多異教徒將強盜“轉化”為了不死生物。這裡充斥著令人作嘔的氣味。,,,
 scenario_job_aneyeforaneye_start_2,我知道異教徒都很卑鄙，可是這次真是讓我覺得噁心。是時候送他們下地獄了！,,,
-scenario_job_aneyeforaneye_success_1,隨著最後一名敵人死亡，強盜弓箭手也無力地跪倒在地。,,,
+scenario_job_aneyeforaneye_success_1,隨著最後一個敵人死亡，強盜弓箭手也無力地跪倒在地。,,,
 scenario_job_aneyeforaneye_success_2,謝謝你的幫助......至少我已經報了仇。收下吧，這是你應得的報酬。,,,
 scenario_job_callofthewild_start_1,在進入洞穴，穿過洞中長廊時，你捕捉帶空氣中依舊飄散著的血腥味，地上則四處散落著吃剩的骨頭。,,,
 scenario_job_callofthewild_start_2,通道打開之後，你看到了一群各式各樣的生物群居在一起。或許是因為這裡富饒的環境使它們能夠共存？,,,
@@ -10878,7 +10888,7 @@ scenario_puzzle_2a_obj_05,收集寶箱,,,
 scenario_puzzle_2a_tb_01,,,,
 scenario_puzzle_2a_tb_02,,,,
 scenario_puzzle_2b_01,現在，你已經學會了正常的<color=#1F9EDC>進攻</color><sprite name=Attack>和<color=#1F9EDC>前進</color><sprite name=Move>，但是這次我們要嘗試進行一些帶有<color=#FADC99>附加效果</color>的能力。,,,
-scenario_puzzle_2b_02,"在現在這種狀況下，一個帶有<color=#1F9EDC>跳躍</color><sprite name=Jump>附加能力的<color=#FADC99>移動</color>可以起到奇效。
+scenario_puzzle_2b_02,"在現在這種狀況下，一個具有<color=#1F9EDC>跳躍</color><sprite name=Jump>附加能力的<color=#FADC99>移動</color>可以起到奇效。
 <color=#1F9EDC>跳躍</color><sprite name=Jump>允許你穿越障礙物或敵人、還可以在不觸發陷阱的情況下越過陷阱，只要你保證最後停留的那個格子是空格就行。",,,
 scenario_puzzle_2b_03,你上次撿到的那雙<color=#FFB300>飛跨之靴</color>能夠為一個<color=#1F9EDC>前進</color><sprite name=Move>提供兩格的額外前進。這會讓你在輪次中走得更遠。,,,
 scenario_puzzle_2b_04,你能夠造成的傷害還不足以一擊必殺，但是如果你動作夠快，你也許可以在她<color=#FADC99>攻擊</color>前給她施加<nobr><color=#1F9EDC>繳械</color><sprite name=Disarm></nobr>狀態！,,,
@@ -10970,7 +10980,7 @@ scenario_puzzle_2d_14,你已經完成了基礎訓練 一 是時候給你介紹�
 scenario_puzzle_2d_obj_01,（本回合）站在一隻強盜弓箭手旁邊並且擊殺另一隻強盜弓箭手,,,
 scenario_puzzle_2d_obj_02,（本回合）擊殺剩下的強盜弓箭手,,,
 scenario_puzzle_2d_obj_03,（本回合）收集寶箱,,,
-scenario_puzzle_3a_01,"讓我們仔細看看每個角色能夠做到什麼事情！
+scenario_puzzle_3a_01,"讓我們仔細看看每位角色能夠做到什麼事情！
 在這個劇本裡，野蠻人要面對兩隻等級 <b>1</b> 的<color=#C53F3F>【精英】復生的骷髏</color> 一 代表它們的屬性比等級 <b>0</b> 的時候更高。
 
 每個回合所揭露的怪物能力卡，上面的數值是由怪物的基本屬性與該種類怪物基本能力卡的數值合計。因此，有時候它們能夠移動更遠或者傷害會更高，至於兩個骷髏是精英階級的，那就更不用說會有多強了！",,,
@@ -11008,12 +11018,12 @@ scenario_puzzle_3a_15,讓我們離開這個佈滿灰塵的墓穴看看還能夠�
 scenario_puzzle_3a_16,"你本回合的目標為：
 <line-height=20%>
 <line-height=100%>→ 透過一次具有穿透<sprite name=Pierce>附加效果的<color=#FADC99>攻擊</color>擊殺一隻<color=#C53F3F>【精英】復生的骷髏</color>
-→ 為你自身附加護盾<sprite name=Shield>能力
+→ 為自身附加護盾<sprite name=Shield>能力
 → 使用<color=#FFB300>初級治療藥水</color>
 
 這些足以讓你在本回合中存活下來。",,,
 scenario_puzzle_3a_obj_01,（本回合）使用一次具有穿透<sprite name=Pierce>附加效果的攻擊擊殺一隻【精英】復生的骷髏,,,
-scenario_puzzle_3a_obj_01b,（本回合）透過使用初級治療藥水和為你自身附加護盾<sprite name=Shield>能力，在本回合中存活下來,,,
+scenario_puzzle_3a_obj_01b,（本回合）透過使用初級治療藥水和為自身附加護盾<sprite name=Shield>能力，在本回合中存活下來,,,
 scenario_puzzle_3a_obj_02,（本回合）擊殺剩下的【精英】復生的骷髏,,,
 scenario_puzzle_3b_01,"讓我們來認識一下<color=#a06e4b>惡棍</color>！
 她身手矯健並且擅長移動，更別提在特殊的情況下還能夠爆發大量近戰傷害。
@@ -11119,8 +11129,8 @@ scenario_puzzle_7a_02,"與<color=#1F9EDC>護盾</color>類似，<color=#1F9EDC>�
 scenario_puzzle_7a_03,"當被這麼多的<color=#C53F3F>【精英】復生的骷髏</color>包圍時，在他們攻擊後造成的復仇傷害也非常可觀...當然，前提是你得在本回合中存活下來！
 
 噢！還有一件事忘了說。大地元素已經充能完畢了，如果你想消耗元素來提升能力的話別忘了點擊<sprite name=ConsumeEarth>圖示來消耗這個元素！",,,
-scenario_puzzle_7a_04,我們已知其中一個動作要用來為你自身附加<color=#1F9EDC>復仇</color>，但是另一個動作你可以用來進行攻擊。<color=#32E632>雪崩</color>是個不錯的牌，尤其是你消耗大地元素來提升它的時候！,,,
-scenario_puzzle_7a_05,我們已知其中一個動作要用來為你自身附加<color=#1F9EDC>復仇</color>，但是另一個動作你可以用來進行攻擊。<color=#32E632>雪崩</color>是個不錯的牌，尤其是你消耗大地元素來提升它的時候！,,,
+scenario_puzzle_7a_04,我們已知其中一個動作要用來為自身附加<color=#1F9EDC>復仇</color>，但是另一個動作你可以用來進行攻擊。<color=#32E632>雪崩</color>是個不錯的牌，尤其是你消耗大地元素來提升它的時候！,,,
+scenario_puzzle_7a_05,我們已知其中一個動作要用來為自身附加<color=#1F9EDC>復仇</color>，但是另一個動作你可以用來進行攻擊。<color=#32E632>雪崩</color>是個不錯的牌，尤其是你消耗大地元素來提升它的時候！,,,
 scenario_puzzle_7a_06,"你受到了一些傷害，但是取得了不錯的成果！一個時機恰當的<color=#1F9EDC>復仇</color>一樣能成為毀滅性的力量。
 
 另外，看看螢幕上方<color=#a06e4b>岩石心</color>的頭像，你能看到來自於<color=#32E632>左右開弓</color>的增益效果有一個小圖示。
@@ -12735,9 +12745,9 @@ xis_hpdiff, X 是你的最大生命值和當前生命值的差值。,,,
 xis_lostcardcount,X 是你已經焚燒的牌數。,,,
 xis_numberofsummonedallies,X 是所有召喚物夥伴的數量。,,,
 xp,經驗值,,,
-xp_per5damage,每造成5點傷害獲得<sprite name=XP1>。,,,
-xp_perattackperformed,每進行一次攻擊獲得<sprite name=XP1>。,,,
-xp_perenemy,每指定一個敵人作為目標獲得<sprite name=XP1>。,,,
-xp_pertwoenemiestargeted,每指定兩個敵人作為目標獲得<sprite name=XP1>。,,,
+xp_per5damage,每造成 <b>5</b> 點傷害就獲得<sprite name=XP1>,,,
+xp_perattackperformed,每進行一次攻擊就獲得<sprite name=XP1>,,,
+xp_perenemy,每指定一個敵人作為目標就獲得<sprite name=XP1>,,,
+xp_pertwoenemiestargeted,每指定兩個敵人作為目標就獲得<sprite name=XP1>,,,
 yes,是,,,
 zephyr,旋風,,,
