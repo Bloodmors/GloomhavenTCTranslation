@@ -83,14 +83,13 @@
 115_t,為你的所有攻擊附加<nobr>中毒<sprite name=Poison></nobr>和<nobr>流血<sprite name=Wound></nobr>。
 116_b,在接下來六次受到近戰進攻時，獲得<nobr>復仇<sprite name=Retaliate>*BRetaliate*。</nobr>
 118_b,在相鄰的兩個空格內分別創建兩個占一格的障礙物。
-119_b,所有相鄰的單位損失*BDamage* 點生命值。
+
 120_t,所有與目標相鄰的單位損失1點生命值。
 121_t,在你接下來的四次遠程進攻行動中，獲得附加目標<sprite name=Target>。
 122_t,摧毀一個相鄰的障礙物。
-123_b,所有盟友損失<nobr> *BShieldSubDamage* 點生命值</nobr>。
-123_t_2,所有相鄰的盟友損失<nobr>*TDamage* 點生命值</nobr>。
-124_b_1,所有相鄰的單位損失<nobr>*BDamage1* 點生命值</nobr>。
-124_b_2,所有相鄰的單位損失<nobr>*BDamage2* 點生命值</nobr>。
+
+
+
 124_b_3,<nobr> 2點生命值，<sprite name=XP1></nobr>
 125_t,<nobr>混亂<sprite name=Muddle></nobr>目的地區域內的所有單位。
 127_b,本回合，為你的所有遠程進攻附加+1攻擊力<sprite name=Attack>。
@@ -412,9 +411,7 @@ ability_card_ancientward,遠古守護
 ability_card_angelicascension,天使飛升
 ability_card_angelofdeath,降死天使
 ability_card_armorofthenight,暗夜之甲
-ability_card_avalanche,雪崩
 
-ability_card_backupammunition,備用彈藥
 ability_card_bagofholding,百寶袋
 ability_card_banefulhex,邪惡符咒
 ability_card_battlefieldmedicine,戰地醫療
@@ -470,7 +467,7 @@ ability_card_converttheflock,群體改造
 ability_card_corruptingembrace,腐蝕之擁
 ability_card_craniumoverload,顱頂超壓
 ability_card_crashingwave,乘風破浪
-ability_card_crater,火山口
+
 ability_card_creepingcurse,慢性詛咒
 ability_card_cripplingbow,致殘弓
 ability_card_cripplingchorus,致殘和聲
@@ -496,7 +493,7 @@ ability_card_defianceofdeath,漠視死亡
 ability_card_detonation,爆炸
 ability_card_devilhorns,惡魔角
 ability_card_digpit,挖洞
-ability_card_dirttornado,龍捲風摧毀停車場
+
 ability_card_disappearingwounds,移除傷口
 ability_card_disorientingdirge,迷亂挽歌
 ability_card_disorientingflash,閃光彈
@@ -541,7 +538,7 @@ ability_card_flintlock,燧發槍
 ability_card_flurryofblades,刀扇
 ability_card_focusedaggression,聚焦攻擊
 ability_card_footsnare,套足縛鎖
-ability_card_forcefulstorm,強力風暴
+
 ability_card_forcefulswipe,強力重擊
 ability_card_forgedferocity,虛張聲勢
 ability_card_formlesspower,無形之力
@@ -570,7 +567,7 @@ ability_card_hammerblow,錘擊
 ability_card_hamstring,斷筋
 ability_card_handofthesurgeon,神醫妙手
 ability_card_hastenedstep,小步雙打
-ability_card_heavingswing,新月斬
+
 ability_card_hiddendaggers,袖裡藏匕
 ability_card_holdbackthepain,止痛
 ability_card_holystrike,聖潔重擊
@@ -608,7 +605,7 @@ ability_card_manyasone,多人如一
 ability_card_marchingbeat,行進節拍
 ability_card_massextinction,無差別滅絕
 ability_card_masshysteria,群體狂亂
-ability_card_massiveboulder,巨岩
+
 ability_card_masterphysician,主治醫師
 ability_card_maul,打傷
 ability_card_medicalpack,醫療包
@@ -621,7 +618,7 @@ ability_card_mobilizingmeasure,動員措施
 ability_card_multiprongedassault,多重射擊
 ability_card_naturalremedy,自然補救措施
 ability_card_natureshunger,自然饑渴
-ability_card_natureslift,自然回復
+
 ability_card_negativeenergy,反能量
 ability_card_nightfall,黃昏
 ability_card_nightmareserenade,夢魘小夜曲
@@ -681,11 +678,11 @@ ability_card_restorativemist,急救噴霧
 ability_card_revivingshock,電擊療法
 ability_card_righteousstrength,正義力量
 ability_card_risingmomentum,愈戰愈勇
-ability_card_rockslide,岩崩
-ability_card_rocktunnel,穿石
+ability_card_rockslide,土石流
+
 ability_card_rockyend,砂岩葬
 ability_card_rotmaggots,腐爛蛆蟲
-ability_card_rumblingadvance,魯莽行軍
+
 ability_card_saplife,生命汲取
 ability_card_scalesofjustice,正義仲裁
 ability_card_scatteredterror,散佈恐懼
@@ -743,7 +740,7 @@ ability_card_undertheskin,皮下穿刺
 ability_card_unendingchant,無休止的詠唱
 ability_card_unendingdominance,永恆支配
 ability_card_unseendread,看不見的恐懼
-ability_card_unstableupheaval,亂局
+
 ability_card_unstoppablecharge,不可阻擋的衝鋒
 ability_card_unwaveringhand,堅毅援助
 ability_card_unwaveringmandate,堅定使命
