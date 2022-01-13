@@ -9411,15 +9411,15 @@ quest_story_wingedhorror_name,School's Out
 quest_travel_amberhill_desc,Learn why traders have stopped returning from routine trips to Amberhill.
 quest_travel_amberhill_intro,"More and more traders have gone missing on routine jobs to Amberhill, and with an increasing amount of families asking for your help, you finally decide to investigate. The journey through the woodland to Amberhill is uncomfortably peaceful — could this really be the journey that so many have not returned from? You arrive at Amberhill’s gates, and a voice quickly stops you in your tracks. ‘Halt, travelers! By order of the Keyport Militia, Amberhill’s gates are closed to outsiders.’ You can see blood on the cobblestones beyond the gate. Stressing your need to enter, you advance toward the gates, and the City Guard close in around you..."
 quest_travel_amberhill_list,Investigate the lack of trade from Amberhill
-quest_travel_amberhill_name,You Shall Not Pass
+quest_travel_amberhquest_travel_bloodford_desc,"Bloodford is plagued by walking corpses, clear a nearby crypt of the blight"ill_name,You Shall Not Pass
 quest_travel_blackrockasylum_desc,"After a particularly violent Earthquake, the cellar under the Blackrock Asylum collapsed into a network of tunnels. You have been asked to prevent any dangerous escapees from returning to society."
 quest_travel_blackrockasylum_intro,"After resolving the tremors in the area around Fordingbridge, you hear more stories of similar occurrences further South East. The first missive comes from the Blackrock Asylum, a building that houses the most dangerous criminals in the area. An earthquake opened a small fissure under part of the building, allowing a number of dangerous criminals to escape directly into a cave network under the cellar itself. You arrive at the asylum, and are greeted by a very stern looking nun, who explains that the goal of the asylum is to help the troubled among us back into society. In this case however, the lower floors had their more extreme patients, and she explains that it is very unlikely you will be able to bring them back safely: the armoury for the guards was also on the lower floor, and has been ransacked."
 quest_travel_blackrockasylum_list,An earthquake near the Asylum has allowed a number of internees to escape
 quest_travel_blackrockasylum_name,Prison Break
-quest_travel_bloodford_desc,"Bloodford is plagued by walking corpses, clear a nearby crypt of the blight"
+
 quest_travel_bloodford_intro,"As you get closer to the village of Bloodford, you pass through steadily more boggy terrain. The ground sucks at your every step and away from the path, pools release foul smelling bubbles, their stink turning your stomach. The rot is at its worst from a ruined structure to the south of the path. You grimly head towards it, not expecting this encounter to be pleasant."
 quest_travel_bloodford_list,Clear out the Undead crypt
-quest_travel_bloodford_name,The Hollow Men
+
 quest_travel_boneshatterpass_desc,This small community of monks in the mountains have not been seen for months. It is likely a hidden Savvas temple is to blame.
 quest_travel_boneshatterpass_intro,"Apart from Rockfall, Boneshatter Pass has the only other settlement in the area, a group of peaceful monks living atop a snowy mountain. They shun all contact, but periodically come down the mountain to trade their fine footwear for food and other basic resources. The villagers from Silverwick have not seen them for months, and as there is a Savvas Temple in the area you decide to head up the small trail to their outpost to investigate. The path is rocky, and certainly has been affected by a number of rockfalls in recent times. You repair the path as you go, pushing large rocks to the side to allow passage. After an arduous climb, you see the first of the monks' huts in the distance, when you hear an ear splitting crack. The ground opens up beneath your feet, and you fall into the blackness below..."
 quest_travel_boneshatterpass_list,The Monks of Boneshatter Pass have been cut off due to tremors
@@ -9630,8 +9630,8 @@ quest_travel_toadmoor_list,Villagers are complaining of attacks from Dragons. Go
 quest_travel_toadmoor_name,The Drakefens
 quest_travel_wayfarersrest_desc,"This area of Merchant camps is now silent due to nightly Bandit raids. Set a trap, and drive the Bandits away!"
 quest_travel_wayfarersrest_intro,"You find a large clearing in a small copse and set it up to look like any normal Merchant’s camp. As night falls, you hear low voices converge on your location. As they charge into the clearing, you jump up, ready to teach the Bandits a lesson they won’t forget. However, you just didn’t expect there to be quite so many of them!"
-quest_travel_wayfarersrest_list,Ambush the mob of Bandits
-quest_travel_wayfarersrest_name,Set A Trap
+quest_travel_wayfarersrest_list,Ambush th
+
 quest_travel_wayward_desc,You have been told that rogue Savvas may have headed to Wayward. Time to head there to see if you can find any leads.
 quest_travel_wayward_intro,"You head north from the Marches towards Wayward, one of the larger villages in the area. It has always been a melting pot of races and communities, and makes sense as a destination for Savvas looking to find like-minded individuals. The journey passes peacefully at first, but as you continue, you notice the weather getting unseasonably blustery. It continues rising in strength until you seek shelter in a nearby forest. You huddle together in a small clearing as the wind roars around you, your hands covering your faces, when it abruptly stops..."
 quest_travel_wayward_list,Investigate the Savvas trail at Wayward

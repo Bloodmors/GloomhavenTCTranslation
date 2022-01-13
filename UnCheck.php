@@ -163,7 +163,7 @@
 204_t,當任意盟友受到傷害時，你可以代為損失減少1點的生命值。
 205_t,所有<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友<nobr>重置<sprite name=Refresh></nobr>一個他們的道具。
 206_b,<nobr>重置<sprite name=Refresh></nobr>你所有的已消耗的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
-207_b,本回合，你和你的所有<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友為你們的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
+207_b,本回合，你和你的所有<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友為你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
 208_t,每當你執行攻擊行動時，如果你使用道具，就為你的攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
 215_t,<nobr>重置<sprite name=Refresh></nobr>你的一個已消耗的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
 216_t,一名相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>他所有的已使用的道具。
@@ -8173,10 +8173,10 @@ quest_travel_blackrockasylum_desc,在一次劇烈的地震之後，黑石瘋人�
 quest_travel_blackrockasylum_intro,在解決完灘橋地附近地震所帶來的影響後，你們聽聞東南方有更多類似的事件。最嚴重的莫過於黑石瘋人院的情況了，那座建築關押了這片區域危險度最高的那批罪犯。一次地震使瘋人院的地窖裂開了一條縫隙。但就是這條縫隙讓許多危險的罪犯得以借此通過地窖底下的洞穴通道逃跑。你們抵達了瘋人院，迎接你們的是一名表情十分嚴肅的修女。她向你們解釋瘋人院的目標是説明那些有精神問題的人能夠融入社會，但地下關押的都是一些極端患者。而且她還解釋了為何你們不太可能安全的將他們帶回來：看守的武器庫也在地下，而且已經被洗劫一空。
 quest_travel_blackrockasylum_list,臨近瘋人院的一次地震讓一部分被羈押者逃了出去
 quest_travel_blackrockasylum_name,越獄
-quest_travel_bloodford_desc,血色灘地被那些行屍所困擾，清理附近的地穴
-quest_travel_bloodford_intro,你們越靠近血色灘地的村莊，經過的沼澤地也越多。每走一步你們的腿都會陷入地裡，道路旁的水窪還會翻滾出令你反胃的臭氣泡。道路南方的廢棄建築是腐爛程度最高的地方。你們面無表情地朝它走去，心裡只期望這次的遭遇不會更糟。
-quest_travel_bloodford_list,清理亡靈地穴
-quest_travel_bloodford_name,無心之人
+
+
+
+
 quest_travel_boneshatterpass_desc,這座山裡的武僧群體已經失聯了好幾個月了。很有可能是一個隱秘的薩維斯神殿所導致的。
 quest_travel_boneshatterpass_intro,除了落石村，就只有碎骨走廊還有一小群愛好和平的武僧在雪山上定居。他們與世隔絕，但還是會定期下山用精美的鞋履交換食物和其他生活必需品。但由於銀燈芯基地的居民已經數個月沒有見過他們了，並且考慮到這片區域中還有一個薩維斯神殿的，你們最終決定沿著小徑前往武僧的據點調查。小徑上由於不久前墜落的那幾塊岩石而佈滿碎石，你們只能一邊將大石塊推至一旁以清除道路一邊前行。艱辛萬苦的攀爬後，你們總算見到了遠處出現了第一座僧侶的小屋，但還沒等你們慶倖，突然傳來了一聲震耳欲聾的崩裂聲。你們腳下的大地突然開裂，你們墜入了下方的黑暗之中...
 quest_travel_boneshatterpass_list,碎骨走廊的武僧因為地震失聯了
@@ -8378,10 +8378,10 @@ quest_travel_toadmoor_desc,這個位於東部沼澤中的蟾鳴地的偏僻村�
 quest_travel_toadmoor_intro,蟾鳴地的村長在你們前往村子途中接見了你們，並告知你們有關近期遭受的野生生物襲擊當地家畜之事。他表示雖然有許多野狼野狗在附近的荒野上遊蕩，但最近牧民們發現了一些被肢解的動物屍體，每次襲擊丟失的數量也多了許多。現在居民都不敢離開村子半步，有些人還聲稱看到了龍。據村長所說，大部分襲擊都發生在巨岩附近，那是塊突出的大岩石。你朝著巨岩方向前進，在花崗岩峭壁的底部發現了一個被骸骨包圍的洞穴入口。這一定就是你在找的地方了...你們進入了洞穴。
 quest_travel_toadmoor_list,村民們正在因為亞龍的攻擊而煩惱。去調查一下吧
 quest_travel_toadmoor_name,龍棲沼澤
-quest_travel_wayfarersrest_desc,由於強盜夜襲，這塊區域的商人營地已經快維持不下去了。設下圈套來將這些強盜趕走！
-quest_travel_wayfarersrest_intro,你們找到了一個位於一小撮灌木叢中的空地並將它佈置成尋常商人營地的樣子。靜待夜幕降臨，你們聽到一些輕微的動靜正在靠近你們。在他們沖入空地後，你們高高躍起，準備教一教這些無恥的強盜什麼才叫做殘忍。但...你們千算萬算卻算漏了一點——這些強盜的數量也太多了！
-quest_travel_wayfarersrest_list,伏擊強盜團夥
-quest_travel_wayfarersrest_name,設下圈套
+
+
+
+
 quest_travel_wayward_desc,你得知那名薩維斯遊蕩者正在前往向路鎮。是時候前往那裡試試能否讓它為你們帶路了。
 quest_travel_wayward_intro,你們從荒蕪地帶向北前往這片區域的其中一個較大村莊，向路鎮。這裡是一個多種族融合的社區，並且一直作為薩維斯尋找志同道合的夥伴的地方存在著。旅途的前半程一直很和平，但隨著繼續前進，你們注意到天氣不合常理的開始刮起大風。狂風在你們抵達森林旁的庇護所前不斷增強著。你們擠在一小塊空地上，狂風在你們周圍呼嘯。就在你們用手護住雙臉時，風突然停了...
 quest_travel_wayward_list,調查位於向路鎮的薩維斯蹤跡
