@@ -1,4 +1,4 @@
-﻿Key,Tranditional Chinese [zh-TC]
+﻿Key,Traditional Chinese [zh-TC]
 002_t,<nobr>本回合</nobr>每進行一次復仇獲得<sprite name=XP1>。,,,
 004_b,本回合中，任何指定一個相鄰盟友的攻擊的目標改為你，無視攻擊範圍。,,,
 007_b,在之後的的6次指定你為目標的攻擊中，獲得<nobr>護盾<sprite name=Shield> *BShield*。</nobr>,,,
@@ -1612,10 +1612,10 @@ compendium_advantageanddisadvantage_1,某些進攻可能從效果或相互的距
 compendium_advantageanddisadvantage_2,攻擊時具有優勢狀態，將抽取兩張攻擊修正卡並選擇其中結果較好的進行結算。,,,
 compendium_advantageanddisadvantage_3,攻擊時具有劣勢狀態，將抽取兩張攻擊修正卡並選擇其中結果較差的進行結算。,,,
 compendium_advantageanddisadvantage_title,優勢和劣勢,,,
-compendium_adventuremode,"在<color=#BA7956><b>黯淡港灣</b></color>的霸業模式中，你是惡魔閘口鎮的傭兵領導者。該地區相當危險，各種怪物氾濫成災，人們根本不敢離開安全的村莊。
+compendium_adventuremode,"在<color=#BA7956><b>黯淡港灣</b></color>的會長模式中，你是惡魔閘口鎮的傭兵領導者。該地區相當危險，各種怪物氾濫成災，人們根本不敢離開安全的村莊。
 
 你的公會所立定的目標是通過消滅困擾這片土地的邪惡力量，來恢復這些村莊之間的貿易路線 一 然後就能賺很多的錢！",,,
-compendium_adventuremode_title,霸業模式,,,
+compendium_adventuremode_title,會長模式,,,
 compendium_areaeffects_1,某些能力卡上的某些能力或物品卡上的某些能力，允許你在使用能力時指定多個格子。在這種情況下，牌上將顯示能力作用的範圍。你可以旋轉指定區域，在設置中的""控制"" > ""目標控制""選項中查看快速鍵。,,,
 compendium_areaeffects_2,牌上的紅色格子表示能力作用的格子。,,,
 compendium_areaeffects_3,牌上的灰色格子表示目前該單位當前的格子。包含有灰色格子進攻將被視作近戰進攻。,,,
@@ -1724,14 +1724,14 @@ compendium_itemslots,"當不在劇本中時，角色可以在各個部位中配�
 
 每個角色只能配備一個頭部物品，一個身體物品，一個腳部物品，兩個單手物品或一個雙手物品，和數量不超過角色等級一半（向上取整）的小道具物品。",,,
 compendium_itemslots_title,攜帶部位,,,
-compendium_levellingup_1,在霸業模式中，當角色擁有其升級所需的經驗值（在其經驗值量表上顯示），並在世界地圖介面時，該角色可以升級。,,,
+compendium_levellingup_1,在會長模式中，當角色擁有其升級所需的經驗值（在其經驗值量表上顯示），並在世界地圖介面時，該角色可以升級。,,,
 compendium_levellingup_2,升級後，他們的最大生命值將會增加，每個等級他們可以從兩張新能力卡中解鎖一張並獲得該能力卡。此能力卡在接下來的旅行中可以被選擇使用。通過解鎖更多的角色能力卡，你可以升級和自訂角色的能力卡牌庫，讓角色能夠更好地互相搭配，或是進行角色之間的組合技，這也考驗著你的策略能力。,,,
 compendium_levellingup_title,升級,,,
 compendium_loot_1,"<b>拾取 X</b>
 拾取能力允許單位收集在 <b>X</b> 格內的所有金幣和寶箱。這個動作不受怪物或障礙物的影響，但請注意！該能力只會收集視線內的格子。",,,
 compendium_loot_2,"除了拾取能力之外，在每個角色輪次次結束時，此角色將自動收集他們當前格子中的金幣或寶箱。角色的召喚物不具有此效果。
 
-在霸業模式中，金幣都是公會中的所有傭兵共享。",,,
+在會長模式中，金幣都是公會中的所有傭兵共享。",,,
 compendium_loot_title,拾取,,,
 compendium_meleeandranged_1,"<b>進攻 X</b>
 進攻能力允許單位攻擊其攻擊範圍內的敵人並造成 <b>X</b> 點傷害。單位無法攻擊他們各自的盟友。
@@ -4833,7 +4833,7 @@ gui_adv_tutorial_intro,在向路鎮旅館喝酒時，你無意中聽到了兩個
 gui_adv_tutorial_intro_title,歡迎，傭兵們！,,,
 gui_adv_tutorial_wayward,顯然，你尚未準備好攻擊他的基地，所以準備離開向路鎮並開始突襲一些當地的墓室群以搜尋知識資訊和一些更好的設備。,,,
 gui_adventure,冒險模式,,,
-gui_adventure2,霸業模式,,,
+gui_adventure2,會長模式,,,
 gui_adventure_complete,完成！,,,
 gui_ally,盟友,,,
 gui_announce_retirement,宣佈退休,,,
@@ -5077,7 +5077,7 @@ gui_early_access_page_1_info_1,"它在這裡！你們很多人一直在等待這
 完整的戰役模式現在可以用了！
 是時候敲開一些敵人的頭骨了！",,,
 gui_early_access_page_1_info_2,有95個劇本和分支故事線，戰役是原版桌遊的完整複製品！,,,
-gui_early_access_page_1_info_3,"對於任何第一次加入我們的新玩家，我們建議你在感受戰役模式的力量之前先花一段時間在霸業模式磨練磨練！
+gui_early_access_page_1_info_3,"對於任何第一次加入我們的新玩家，我們建議你在感受戰役模式的力量之前先花一段時間在會長模式磨練磨練！
 
 至少，在你被強盜反復刺傷之前學習一下這個教學！",,,
 gui_early_access_page_1_info_4,我們已經在努力進行下一個更新了，並且我們有一些令人興奮的計畫，在未來會製作更多的內容，所以不用擔心，我們仍在努力！,,,
@@ -5092,7 +5092,7 @@ gui_early_access_page_2_info_2,如果你想瞭解更多或參與社區，請點�
 gui_early_access_page_2_title,加入玩家社區,,,
 gui_early_access_page_3_info,"在兩年的早期版本中，最終隨著戰役模式的發佈達到1.0正式版本，我們只是想借此機會對所有的早期訪問玩家表示巨大的感謝。你們每個人都在某種程度上為最終的結果做出了貢獻，如果沒有你們的幫助和支持，我們真的不可能做到這一點。
 
-我們自2019年7月以來已經走了很長的路，有了全新的霸業模式，多人模式和現在的戰役模式，更不用說我們逐漸添加了所有角色、怪物和物品了！這是一個巨大的項目，但因為從社區收到的熱情，我們喜歡它的每一分鐘。
+我們自2019年7月以來已經走了很長的路，有了全新的會長模式，多人模式和現在的戰役模式，更不用說我們逐漸添加了所有角色、怪物和物品了！這是一個巨大的項目，但因為從社區收到的熱情，我們喜歡它的每一分鐘。
 
 希望我們不辱使命。
 
@@ -5265,7 +5265,7 @@ gui_guild_worldmap,世界地圖,,,
 gui_guildmaster_difficulty_title,難度,,,
 gui_guildmaster_invalid_name,輸入了無效的名稱,,,
 gui_guildmaster_repeated_name,該名稱已被使用，請輸入不同的名稱。,,,
-gui_guildmaster_ruleset,霸業模式規則集,,,
+gui_guildmaster_ruleset,會長模式規則集,,,
 gui_guildmaster_start_game,開始遊戲,,,
 gui_guildmaster_tutorial_full,全部教學,,,
 gui_guildmaster_tutorial_introduction_descr,<color=#C2AF89FF>介紹：</color>體驗初始故事和解謎任務,,,
@@ -5422,9 +5422,9 @@ gui_main_menu_campaign_tooltip,"<color=#F1DBAE>戰役模式</color>
 戰役模式對於新玩家來說是非常危險的，準備好再出發！",,,
 gui_main_menu_extras_tooltip,"<color=#F1DBAE>其他</color>
 你可以在""簡易規則書""中找到黯淡港灣的全部規則；在""關卡編輯器""中盡情釋放你的創作能力；在""Mod管理""中自定義你的遊戲。",,,
-gui_main_menu_guildmaster_tooltip,"<color=#F1DBAE>霸業模式</color>
+gui_main_menu_guildmaster_tooltip,"<color=#F1DBAE>會長模式</color>
 只有數位版才有的全新模式，目的在讓玩家掌握黯淡港灣的規則和傭兵的特色，共有100多個訓練任務讓你去完成。
-霸業模式相對來說是一個比較友善的模式，可以優先選擇遊玩！",,,
+會長模式相對來說是一個比較友善的模式，可以優先選擇遊玩！",,,
 gui_main_menu_multiplayer_how_to_host,如何建立房間,,,
 gui_main_menu_multiplayer_how_to_host_descr,"<size=+4><sprite name=""Pointer""></size><indent=20>While <color=#F1DBAE>in an existing Gloomhaven saved game</color>, click ""Esc"" to open the Pause menu and select ""Multiplayer"".
 </indent>
@@ -5445,7 +5445,7 @@ gui_main_menu_multiplayer_tooltip,"<color=#F1DBAE>多人遊戲</color>
 gui_main_menu_options_tooltip,"<color=#F1DBAE>設置</color>
 變更遊戲的設定以契合你的遊玩風格。",,,
 gui_main_menu_tutorial_tooltip,"<color=#F1DBAE>教學</color>
-第一次來到黯淡港灣？透過遊玩教學可以熟悉黯淡港灣的基本機制。你也可以當成是霸業模式的前導",,,
+第一次來到黯淡港灣？透過遊玩教學可以熟悉黯淡港灣的基本機制。你也可以當成是會長模式的前導",,,
 gui_manage_mods,管理Mod,,,
 gui_manage_mods_title,管理Mod,,,
 gui_medium,中等的,,,
@@ -5461,8 +5461,8 @@ gui_mod_created,Mod'{0}'已建立,,,
 gui_mod_customlevels_type,自製關卡Mod,,,
 gui_mod_deleted,Mod'{0}'已被刪除,,,
 gui_mod_global_type,全域Mod,,,
-gui_mod_guildmaster,加入了Mod的霸業模式,,,
-gui_mod_guildmaster_type,霸業模式Mod,,,
+gui_mod_guildmaster,加入了Mod的會長模式,,,
+gui_mod_guildmaster_type,會長模式Mod,,,
 gui_mod_has_executables,Mod已經執行,,,
 gui_mod_invalid_type,無效的Mod類型,,,
 gui_mod_is_active,啟動的,,,
@@ -5513,7 +5513,7 @@ gui_modding_file_conflict,檔衝突,,,
 gui_modding_file_conflict_desc,Mod之間存在衝突！,,,
 gui_modding_finish_edit_ruleset,完成編輯,,,
 gui_modding_finish_edit_ruleset_confirmation,編輯此規則集將刪除所有現有的保存資料,,,
-gui_modding_guildmaster_mod,霸業模式Mod,,,
+gui_modding_guildmaster_mod,會長模式Mod,,,
 gui_modding_hash_compare_fail_message,自上次編譯以來，當前的規則集已被修改。你需要重新編譯該規則，以便播放。,,,
 gui_modding_hash_compare_fail_title,雜湊比較失敗,,,
 gui_modding_invalid_ruleset_char,規則集的名稱不能包含作業系統的目錄名稱不支援的任何字元,,,
@@ -6632,11 +6632,11 @@ loading_tip_011,你可以通過按住Tab來查看相同種類的敵人們之間�
 loading_tip_012,你可以通過消耗元素來增強一個技能。在確認技能釋放之前，點擊元素選擇框使用對應元素。,,,
 loading_tip_013,當你打開一扇門時，準備好面對更多的敵人！,,,
 loading_tip_014,在出發前選擇好你的團隊 一 一旦出發後，你將無法再更換團隊成員。,,,
-loading_tip_015,對於那些在霸業模式中非常艱難的任務，你可以考慮先在寺廟中祈求祝福。,,,
-loading_tip_016,你有機會在霸業模式的職業任務中遇到一個寶箱！在完成劇本目標前務必把寶箱收集來！,,,
+loading_tip_015,對於那些在會長模式中非常艱難的任務，你可以考慮先在寺廟中祈求祝福。,,,
+loading_tip_016,你有機會在會長模式的職業任務中遇到一個寶箱！在完成劇本目標前務必把寶箱收集來！,,,
 loading_tip_017,當裝備新物品時請注意 一 它們將會綁定到那個傭兵身上。如果你想換到其他人身上，則必須支付一些費用解綁。,,,
 loading_tip_018,你可以通過完成成就解鎖更多附魔類型，也可以通過探索地圖為每個傭兵解鎖更多的附魔槽。,,,
-loading_tip_019,霸業模式的旅行和職業任務等級將會隨著遊戲的進行而改變。故事和遺物任務往往更難！,,,
+loading_tip_019,會長模式的旅行和職業任務等級將會隨著遊戲的進行而改變。故事和遺物任務往往更難！,,,
 loading_tip_020,不是所有通關劇本的方式都是消滅所有敵人 一 請務必檢查你的劇本目標。,,,
 loading_tip_021,召喚夥伴很有用，但它們往往比較莽撞 一 若想讓它們活下來，就得幫它們吸引火力！,,,
 loading_tip_022,如果你不確定你將行動得過早還是過晚，請考慮挑選兩張不管行動早晚都能發揮效用的牌。,,,
