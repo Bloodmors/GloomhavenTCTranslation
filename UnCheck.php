@@ -532,7 +532,6 @@ ability_card_expose,暴露
 ability_card_eyeofthehurricane,颶風之眼
 ability_card_eyesofthenight,暗夜之眼
 
-ability_card_feedbackloop,反饋回路
 ability_card_fellingswoop,俯衝突襲
 ability_card_feralinstincts,野性本能
 ability_card_fetidflurry,腥臭碎雪
@@ -550,7 +549,7 @@ ability_card_fortifiedposition,強化列陣
 ability_card_foulwind,森森妖風
 ability_card_freshkill,開場擊殺
 ability_card_frighteningcurse,恐懼詛咒
-ability_card_frigidapparition,寒霜幻影
+
 ability_card_frigidtorrent,寒霜奔流
 ability_card_fromthebrink,刀口舔血
 ability_card_frozenmind,冰凍之心
@@ -640,7 +639,7 @@ ability_card_patchfur,毛皮補丁
 ability_card_phantasmalkiller,瘋狂殺手
 ability_card_pilfer,竊取
 ability_card_portableballista,便攜弩炮
-ability_card_possession,洗腦
+
 ability_card_powerballad,力量戰歌
 ability_card_practicalplans,務實計畫
 ability_card_pragmaticreinforcement,務實加固
@@ -700,9 +699,9 @@ ability_card_silentforce,無聲偷襲
 ability_card_silentscream,沉默尖嘯
 ability_card_simulacrum,替身幻象
 ability_card_singingarrow,輕吟飛箭
-ability_card_singleout,抓單
+
 ability_card_singularfocus,聚焦
-ability_card_sinisteropportunity,圍殺
+
 ability_card_smokestep,迷蹤步
 ability_card_soaringally,無拘夥伴
 ability_card_solidbow,實心弓
@@ -737,7 +736,7 @@ ability_card_tranquiltrill,無言戰慄
 ability_card_tremulantcyclone,戰慄旋風
 ability_card_triage,傷情鑒定
 ability_card_tribalsigil,部落魔召
-ability_card_trickstersreversal,逆轉戲法
+
 ability_card_tuningtheoutcome,調整結果
 ability_card_tyrannicalforce,暴虐力量
 ability_card_undertheskin,皮下穿刺
@@ -6935,11 +6934,6 @@ gui_town_records_blocked,"<size=+2><color=#EACF8C>城鎮記錄</color></size>
 gui_town_records_intro_story_1,穿過城鎮記錄處的拱形門廊，你看到這是一個巨大但書本少到讓人悲傷的圖書館。突然一種墜落的感覺抓住你的腸胃，你記憶揮之不去地出現你和你去世的同事一起死在黯淡港灣的某個地牢裡的場面。
 gui_town_records_intro_story_2,你的腦海中醞釀著一個想法，於是您想找到圖書館的記錄保管者。花了很長時間，最終你猛然發現發現一個身材小只的人在小心翼翼地重新排放架子上不多的幾本書。沒有浪費時間你直接將你巨大的想法轉述給他。
 gui_town_unlocked_notification,你已經解鎖了黯淡港灣的城鎮記錄！
-gui_trainer_introduction,歡迎來到訓練營。此屏包含所有您可以去追求的遊戲成就及其獎勵。初始階段最重要的成就和獎勵是逐步解鎖地圖的探索任務，您完成任何成就後請返回此處兌換獎勵！
-
-gui_tutorial_01_description,近戰進攻和移動
-gui_tutorial_01_instructions,岩石心這一回合只有兩張技能卡。您現在必須啟動一張牌的上半區和另一張牌的下半區（以任意順序）來殺死強盜衛兵。
-gui_tutorial_01_title,近戰進攻和移動
 
 
 gui_tutorial_victory_info,"恭喜，你通過了教學，現在是應用你的所學進行戰鬥的時候了！走向【新冒險】來選擇一個玩家團隊並開始。
@@ -6998,10 +6992,7 @@ innate_shieldbasedonnumberofxspresent,護甲值等於 {0} {1} 目前 {2} 的數�
 innate_strengthispercentageofcurrenthp,攻擊值等於當前生命值的 {0}% ，向上圓整。
 inoxbodyguard,艾諾克斯大衛士
 instead,代替
-intro_abilitycardpanel_1,"雇傭兵每次升級時都會解鎖更強大的技能卡。
-探尋<color=#EACF8C>更加強力的技能卡組合</color>並根據你將要面對的敵人類型合理調整卡組。
-選擇正確的技能卡對抗敵人將使你立於不敗之地。"
-intro_abilitycardpanel_2,你可以在技能卡介面上<color=#EACF8C>調整要帶進地牢的卡組</color>。每一位元雇傭兵可以攜帶的卡組容量不同，並且進入地牢時必須將卡組填滿。將滑鼠懸停在技能卡上可以查看詳細資訊。
+
 intro_battlegoals,"在進入地牢之前，每個傭兵必須<color=#EACF8C>在兩個戰鬥目標中選擇一個</color>。
 戰鬥目標是傭兵在地牢中要盡力達成的秘密任務。失敗不會帶來懲罰，但成功完成將會獲得額外的經驗獎勵，這將會讓你在之後的戰鬥中更加得心應手。"
 intro_cityquest,"你們解鎖了一個<color=#EACF8C>城鎮任務</color>！
@@ -7926,7 +7917,7 @@ quest_story_beasttyrant_1_desc,獸王在甜水地外面發現了一些不尋常�
 quest_story_beasttyrant_1_intro,先前被驅離甜水地的生物們通過下水道網路散落在周圍的郊區。獸王通過和一些在這片區域的原生動物進行交流，發現這對許多動物的棲息地都構成了威脅，他確信你們能與自然一道抵禦這些普通的敵人。以獸王作為團隊先鋒，你們離開了甜水地前往東南方一片密佈小洞穴的岩地。在這裡，腐化的痕跡，動植物的死屍和惡臭的水窪肉眼可見。他領著你們沿著一條岩石小徑來到了一處洞穴口。入口處散落著一些蛇蛻。你還沒來得及提醒他小心危險，一群巨蟒從洞中竄出向他遊去。在蝮蛇們攻擊前，獸王就抬起他的手，吹了幾聲尖銳的蛇嘶。這些蛇就轉頭回到了洞穴裡，獸王示意你們跟上他...
 quest_story_beasttyrant_1_list,驅散甜水地附近的腐化
 quest_story_beasttyrant_1_name,碧蛇之眼
-quest_story_beasttyrant_1_reward,解鎖獸王故事線任務
+
 quest_story_beasttyrant_2_desc,更多野生動物尋求獸王的救助
 quest_story_beasttyrant_2_intro,獸王將你再次引至隱居地，你對期望之物一無所知。亞龍，熊亦或是小妖？當一批獵狗在隱居地南方八英里的灌木叢中跳出時你得到了回答。獸王試圖和他們交談，接著解釋腐蝕，腐爛已經影響到了附近的墓地，並顯這令人憎惡之物已漫布整個叢林。獵狗們沿著雜草叢生的路將你們引至一塊有著不適風景的空地。不死生物和軟泥怪在此徘徊。你們還未被發現，你們應先發制人。
 quest_story_beasttyrant_2_list,驅散隱居地附近的腐化
@@ -7952,7 +7943,7 @@ quest_story_brute_1_desc,薩默特地區周圍的道路還是經常被叢林裡�
 quest_story_brute_1_intro,有些人認為你與魔鼠的友誼有一點點奇怪，但是你從小就瞭解司卡波威特。作為一個遊歷全國的大商人，他不是最誠實的那一個，但他總能在你們部落的香料和護衛生意中大賺一筆。今天你要和他一起再去一次荒涼海岸。雖然自從你們重新開闢了道路，減少了野生魔鼠襲擊，對他來說這仍然不安全。旅途的大部分時間都是安然無事，你聽到森林裡傳來了嚎叫聲，當你們正在談論過去的時光。獵犬...但是誰或什麼東西把它們趕到路邊的?
 quest_story_brute_1_list,和一個老朋友在薩默特地區附近進行日常的守衛巡邏工作。
 quest_story_brute_1_name,老夥計們
-quest_story_brute_1_reward,解鎖蠻徒故事線任務
+
 quest_story_brute_2_desc,斯甘威一直忙於搜尋有關羚牛族叛徒的資訊，在黃銅綠洲附近的營地與他見面。
 quest_story_brute_2_intro,你抵達了魔鼠村莊，在篝火旁遇到了斯甘威。他向你招了招手，並表示他的魔鼠偵察兵在鷹山頂北部發現一群羚牛族入侵者正在集結，他們身上的標記和襲擊你的人一樣。他還沒來得及告訴你更多細節，號角就被吹響了：村莊正在遭受攻擊。看起來他的調查反而讓羚牛族找到了他的營地！
 quest_story_brute_2_list,斯甘威持有關於羚牛族叛徒的資訊
@@ -7969,7 +7960,7 @@ quest_story_cragheart_1_desc,薩維斯的古老神殿之一，歷史悠久的風
 quest_story_cragheart_1_intro,自從被逐出薩維斯部族以來，岩石心耗費大量時光獨自反思他們的失敗。如今作為傭兵公會的一份子，他們決定調查風之神殿地區的薩維斯歷史，那是一處貢奉無動之風的聖地。先祖們曾於些地傳授駕馭風元素的秘法，而如今已破敗，年久失修。調查這座神殿，你發覺它已不再沉寂，反而迴響著劫匪們褻瀆雕像和壁畫的聲音。
 quest_story_cragheart_1_list,造訪神殿以重獲先賢的智慧。
 quest_story_cragheart_1_name,旋風神殿
-quest_story_cragheart_1_reward,解鎖岩石心故事線任務
+
 quest_story_cragheart_2_desc,為了獲取更多的戰得品，強盜很可能把根之神殿作為目標。你需要去調查一番。
 quest_story_cragheart_2_intro,穿過叢林則後，你看到大樹下根之神殿的入口。泥濘髒亂的足跡遍佈此處，你感受到了恐懼：強盜已在此地！進入第一個房間，牆上的壁畫顯示出對不再生長的植物的敬重，然而這些壁畫此刻已被用鎬頭損害。你原想著會發現一群劫匪，但相反，你聽到一陣打鬥聲從神廟深處傳來。你向下前行直至一處岩壁，然後你進入一間屋子，看到一群劫匪正與各種生物博鬥。雙方似乎都不高興看到你，神殿定是被清洗了。
 quest_story_cragheart_2_list,淨化入侵之殿
@@ -8083,7 +8074,7 @@ quest_story_sawbones_1_desc,魔脊洞穴的鞋匠經常意外受傷，找出原�
 quest_story_sawbones_1_intro,再一次踏上了去魔脊洞穴路，你松了一口氣，發現月夜下的村莊十分寧靜。然而，一種沉重的、受傷的寂靜籠罩著這個小鎮，苦難的氛圍和一股你發誓你認得的微弱而令人不安的味道佐證了現狀。你們來到村鎮大廳，這裡已經成了一處臨時醫院。在裡面，許多鎮民們痛苦的在堅硬的床上打滾扭動。有些人的鞋帶系到一起，他們的頭上滿是綻裂的傷口；有些人失去了整個四肢，怪罪著他們的皮革剪刀。一個村民甚至雙腿骨折，腳被困在系的緊的不可思議的鞋子裡。你找到當地的醫生，他告訴你這些人在制鞋的時候嚴重受傷了。“我們經常能聽到外面的森林傳來誦經的聲音，”這個醫生告訴你們。“我只是認為這是一些村民在祈禱好運降臨。”你對這個老人搖了搖頭，備好了武器，向他詢問去森林的路。你打開了城市大廳的門，卻發現這門不可思議的輕。一個瘋狂的叢林小惡魔從門背後出現，飛了進來，你們能做的就是在和它們扭打出去，關上大廳的門，拿下這些噁心人的玩意。你認出了這股味道——小妖身軀散發的黑魔法的味道。現在在村鎮大廳外面，你可以聽見四周傳來的墮落妖精的歌聲...
 quest_story_sawbones_1_list,魔脊洞穴的奇怪傷害是什麼造成的?
 quest_story_sawbones_1_name,將會出現意外
-quest_story_sawbones_1_reward,解鎖鋸骨醫者故事線任務
+
 quest_story_sawbones_2_desc,魔脊洞穴的邪教徒日記裡提到在黑石瘋人院有一個更強大的儀式，阻止它
 quest_story_sawbones_2_intro,你的黑石瘋人院之旅一切順利。你為途中未經地震而感欣慰。相反，一座高大雄偉的建築了出現在遠處，在你到來之前，依偎在群山之邊已有許久歲月。當你抵達時，兩名老僧尼精神矍鑠地向你打招呼。“繪畫班，”當你詢問他們是否看到過奇異之事時，其中一名尼姑回應到。“提起這事，他們只是隨身帶了些紅色顏料”僧尼領你去看看繪畫班，當你們抵達時，你發現房間裡有一群人類邪教徒和羚牛族戰士，房間的牆上繪滿了血色符號。一名邪教徒注意到你，然後呵呵一笑。“你想加入我們嗎，雇傭兵？”僧尼讓你入內。隨即身後的門扉關閉。“在此能和你的朋友們相逢，真替你高興。”僧尼們離開時對你如此說道。“不久，我將會讓你出來。”僧尼們一離開聽力範圍，邪教徒們就抄起了他們的武器。“歡迎參加派對。”其中一人怒吼道。
 quest_story_sawbones_2_list,停止黑石瘋人院裡的儀式

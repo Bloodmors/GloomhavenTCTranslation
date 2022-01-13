@@ -526,7 +526,6 @@ ability_card_expose,Expose
 ability_card_eyeofthehurricane,Eye of the Hurricane
 ability_card_eyesofthenight,Eyes of the Night
 
-ability_card_feedbackloop,Feedback Loop
 ability_card_fellingswoop,Felling Swoop
 ability_card_feralinstincts,Feral Instincts
 ability_card_fetidflurry,Fetid Flurry
@@ -543,7 +542,7 @@ ability_card_fortifiedposition,Fortified Position
 ability_card_foulwind,Foul Wind
 ability_card_freshkill,Fresh Kill
 ability_card_frighteningcurse,Frightening Curse
-ability_card_frigidapparition,Frigid Apparition
+
 ability_card_frigidtorrent,Frigid Torrent
 ability_card_fromthebrink,From the Brink
 ability_card_frozenmind,Frozen Mind
@@ -633,7 +632,7 @@ ability_card_patchfur,Patch Fur
 ability_card_phantasmalkiller,Phantasmal Killer
 ability_card_pilfer,Pilfer
 ability_card_portableballista,Portable Ballista
-ability_card_possession,Possession
+
 ability_card_powerballad,Power Ballad
 ability_card_practicalplans,Practical Plans
 ability_card_pragmaticreinforcement,Pragmatic Reinforcement
@@ -692,9 +691,9 @@ ability_card_silentforce,Silent Force
 ability_card_silentscream,Silent Scream
 ability_card_simulacrum,Simulacrum
 ability_card_singingarrow,Singing Arrow
-ability_card_singleout,Single Out
+
 ability_card_singularfocus,Singular Focus
-ability_card_sinisteropportunity,Sinister Opportunity
+
 ability_card_soaringally,Soaring Ally
 ability_card_songofspeed,Song of Speed
 ability_card_soothinglullaby,Soothing Lullaby
@@ -728,7 +727,7 @@ ability_card_tranquiltrill,Tranquil Trill
 ability_card_tremulantcyclone,Tremulant Cyclone
 ability_card_triage,Triage
 ability_card_tribalsigil,Tribal Sigil
-ability_card_trickstersreversal,Trickster's Reversal
+
 ability_card_tuningtheoutcome,Tuning the Outcome
 ability_card_tyrannicalforce,Tyrannical Force
 ability_card_undertheskin,Under the Skin
