@@ -780,8 +780,6 @@ ability_card_wretchedswarm,驚駭蟲群
 adventure_achievement_1_1_controlallies_desc,對盟友使用30次操控技能
 
 
-adventure_achievement_1_1_infusedark,暗黑領主，再臨
-
 adventure_achievement_1_1_infuselight,光輝之神注視著我們！
 
 adventure_achievement_1_1_killbanditarchers_1,觸發陷阱
