@@ -6092,16 +6092,15 @@ gui_linked_quest_invalid_choice,在接受這個任務之前，你必須返回黯
 gui_linked_quest_linkedquest_choice,如果你現在接受任務，你不會面對一條道路遇到
 gui_load_adventure_difficulty,困難:
 gui_load_adventure_gold,玩家團隊金幣:
-gui_load_adventure_start_journey,準備開始新的旅程！
-gui_load_adventure_start_quest,準備開始一個新的任務！
+
 gui_load_campaign,載入戰役
 gui_load_modconfig,載入Mod設定檔.
-gui_load_scenario,載入劇本
+
 gui_loading_state_compare,對比玩家狀態。請稍等...
 gui_loading_waiting_for_players,等待其他玩家......
-gui_loadout_enemies,敵人
-gui_loadout_enter_scenario,進入地牢
-gui_loadout_overview,概述
+
+
+
 gui_loadout_special_rules,特別規則
 gui_locked_card_tooltip,"尚未添加到掌握技能卡的卡保持<color=#CEAD5A>鎖定</color>除非花費解鎖點。
 選擇<color=#CEAD5A>重置雇傭兵 </color>重建掌握技能卡集。"
