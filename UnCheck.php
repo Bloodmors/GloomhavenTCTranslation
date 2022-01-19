@@ -67,7 +67,7 @@
 
 098_t,附加+X攻擊力<sprite name=Attack>，其中X是目標護盾值的兩倍。
 099_b,拾取<sprite name=Loot>每一個你通過此行動經過的格子。
-100_t,當目標與<nobr>你的盟友</nobr>相鄰時，附加流血<sprite name=Wound>並獲得<sprite name=XP1>。
+100_t,當目標與<nobr>你的盟友</nobr>相鄰時，附加創傷<sprite name=Wound>並獲得<sprite name=XP1>。
 103_b,本回合，為你的所有以不與任何它的盟友相鄰的敵人為目標的攻擊附加+2攻擊力<sprite name=Attack>。
 104_b,本回合，在你的所有攻擊中獲得優勢。
 105_t_1,如果你的目標與任意一個<nobr>你的盟友</nobr>相鄰，為攻擊附加<nobr>+3攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。
@@ -80,7 +80,7 @@
 111_t,指定一個<nobr>射程範圍<sprite name=Range>3</nobr>以內的敵人來遭受<nobr>被解除陷阱</nobr>的效果。
 113_b,消滅一個當前生命值小於或等於3的相鄰的敵人。
 114_b,本回合，強迫一個相鄰的敵人來執行它的行動輪。此時它將敵人（玩家）視作盟友，將盟友視作敵人，並由你操控它的行動。
-115_t,為你的所有攻擊附加<nobr>中毒<sprite name=Poison></nobr>和<nobr>流血<sprite name=Wound></nobr>。
+115_t,為你的所有攻擊附加<nobr>中毒<sprite name=Poison></nobr>和<nobr>創傷<sprite name=Wound></nobr>。
 116_b,在接下來六次受到近戰進攻時，獲得<nobr>復仇<sprite name=Retaliate>*BRetaliate*。</nobr>
 118_b,在相鄰的兩個空格內分別創建兩個占一格的障礙物。
 
@@ -159,7 +159,7 @@
 199_t,在你執行任何攻擊行動前，你可以<sprite name=ConsumeLight>來為你的附加<nobr>+2攻擊力<sprite name=Attack></nobr>，並獲得優勢與<sprite name=XP1>。
 200_b,則最多兩張燒牌堆的卡牌，<sprite name=XP1>
 202_t,則消滅一個敵人，<sprite name=XP1>
-203_t,在你接下來的四次攻擊行動中，附加<nobr>+3攻擊力<sprite name=Attack></nobr>，<nobr>流血<sprite name=Wound></nobr>，並獲得優勢。
+203_t,在你接下來的四次攻擊行動中，附加<nobr>+3攻擊力<sprite name=Attack></nobr>，<nobr>創傷<sprite name=Wound></nobr>，並獲得優勢。
 204_t,當任意盟友受到傷害時，你可以代為損失減少1點的生命值。
 205_t,所有<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友<nobr>重置<sprite name=Refresh></nobr>一個他們的道具。
 206_b,<nobr>重置<sprite name=Refresh></nobr>你所有的已消耗的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
@@ -207,7 +207,7 @@
 279_b,如果你處於<nobr>隱身<sprite name=Invisible></nobr>，在你接下來的四次移動行動之後，執行“<nobr>進攻<sprite name=Attack> 2</nobr>，指定所有相鄰敵人為目標”。
 283_t_1,在你的所有攻擊中獲得優勢。
 283_t_2,你可以指定<nobr>隱身<sprite name=Invisible></nobr>敵人為目標。
-286_t,如果你處於<nobr>隱身<sprite name=Invisible></nobr>，附加<nobr>中毒<sprite name=Poison></nobr>，<nobr>混亂<sprite name=Muddle></nobr>，<nobr>流血<sprite name=Wound></nobr>並獲得<sprite name=XP1>。
+286_t,如果你處於<nobr>隱身<sprite name=Invisible></nobr>，附加<nobr>中毒<sprite name=Poison></nobr>，<nobr>混亂<sprite name=Muddle></nobr>，<nobr>創傷<sprite name=Wound></nobr>並獲得<sprite name=XP1>。
 287_b,消滅一個相鄰的普通級別敵人，<sprite name=XP1>。
 287_t,則消滅所有的普通級別敵人，<sprite name=XP2>。
 288_t,當你處於<nobr>隱身<sprite name=Invisible></nobr>，為你接下來的四次攻擊附加<nobr>擊暈<sprite name=Stun></nobr>。
@@ -256,7 +256,7 @@
 341_b,如果你下回合執行短休息，視為你執行一次<nobr>長休息</nobr>。
 341_t,你可以損失2點生命值使此次攻擊無視目標的護盾並獲得<sprite name=XP1>。
 343_b,你免疫所有的負面狀態。
-343_t,為你以及所有相鄰的盟友施加<nobr>流血<sprite name=Wound></nobr>以附加<nobr>強推<sprite name=Push>2，</nobr><nobr>禁足<sprite name=Immobilize>。</nobr>
+343_t,為你以及所有相鄰的盟友施加<nobr>創傷<sprite name=Wound></nobr>以附加<nobr>強推<sprite name=Push>2，</nobr><nobr>禁足<sprite name=Immobilize>。</nobr>
 345_b,本回合，為你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>，<sprite name=XP1>。
 345_t,在接下來五次你受到傷害時，執行一次<nobr>“進攻<sprite name=Attack> 3”</nobr>行動，即使你的射程範圍內沒有敵人，依然執行此行動。
 346_t,免疫你接下來將受到的五次傷害。
@@ -267,7 +267,7 @@
 350_t,所有盟友為他們的所有移動行動附加<nobr>+1移動力<sprite name=Move></nobr>，並為他們的所有遠程進攻附加<nobr>+1射程範圍<sprite name=Range></nobr>。
 352_b,一名<nobr>射程範圍<sprite name=Range>3以內</nobr>的盟友<nobr>可以執行</nobr>
 354_b,強迫所有目的地區域中的敵人執行一次<nobr>“移動<sprite name=Move>1”</nobr>行動，並由你操控它們移動的方向。
-357_t,為所有盟友的所有攻擊附加<nobr>流血<sprite name=Wound></nobr>。
+357_t,為所有盟友的所有攻擊附加<nobr>創傷<sprite name=Wound></nobr>。
 358_t,在接下來五次你<nobr>詛咒<sprite name=Curse></nobr>一個敵人時，額外<nobr>詛咒<sprite name=Curse></nobr>一次。
 360_t,所有盟友可以在他們行動輪開始時執行一次<nobr>“治療<sprite name=Heal>1，目標為自己”</nobr>。
 362_t,所有盟友獲得<nobr>復仇<sprite name=Retaliate>2，</nobr><nobr>復仇射程範圍<sprite name=Range>2</nobr>。
@@ -311,8 +311,8 @@
 393_b,當此敵人死亡時，執行一次“<nobr>進攻<sprite name=Attack>2</nobr>，<nobr>射程範圍<sprite name=Range>3</nobr>，<nobr>目標<sprite name=Target>3</nobr>”的行動。
 394_t,如果目標帶有<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>，為你的攻擊附加<nobr>+3攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。
 395_b,指定此敵人為目標時，你和所有盟友的攻擊獲得優勢。
-396_t_1,在相鄰的一個空格內創建一個造成2點傷害附加<nobr>流血<sprite name=Wound></nobr>的陷阱。
-396_t_2,當此陷阱觸發時，對所有與該陷阱相鄰的敵人附加<nobr>流血<sprite name=Wound></nobr>。
+396_t_1,在相鄰的一個空格內創建一個造成2點傷害附加<nobr>創傷<sprite name=Wound></nobr>的陷阱。
+396_t_2,當此陷阱觸發時，對所有與該陷阱相鄰的敵人附加<nobr>創傷<sprite name=Wound></nobr>。
 397_b,在接下來三個行動輪開始時，將此卡的效果推進一次。在此效果推進三次後，消滅目標並棄掉這張卡。
 397_b_reminder,為任意一個敵人施加<b><color=#39BEED>厄運</color>。
 397_t_1,你可以在同一目標上同時啟動兩種<nobr><b><color=#39BEED>厄運</color><sprite name=Doom></b></nobr>。
@@ -361,7 +361,7 @@
 469_b_2,你的召喚物可以代替你執行攻擊行動。
 470_t,則消滅所有普通級別<nobr>目標，<sprite name=XP1></nobr>。
 471_t,受治療的單位可以回收<sprite name=Recover>一張他們棄牌堆的卡牌。
-472_b_1,<nobr>+2移動力<sprite name=Move></nobr>，並對所有經過的敵人施加<nobr>流血<sprite name=Wound></nobr>，<sprite name=XP1>。
+472_b_1,<nobr>+2移動力<sprite name=Move></nobr>，並對所有經過的敵人施加<nobr>創傷<sprite name=Wound></nobr>，<sprite name=XP1>。
 472_b_2,<nobr>+2移動力<sprite name=Move></nobr>，並對所有經過的敵人施加<nobr>禁足<sprite name=Immobilize></nobr>，<sprite name=XP1>。
 472_t,如果你在行動中消耗過元素，你可以在行動後令<nobr>射程範圍<sprite name=Range>2以內</nobr>的一個敵人損失1點生命值，或者你執行一次<nobr>“治療<sprite name=Heal>1，射程範圍<sprite name=Range>2”</nobr>行動。
 474_b,執行以下任意一種技能：
@@ -627,7 +627,7 @@ ability_card_nimbleknife,龍頭刀
 ability_card_obsidianshards,黑曜石飛礫
 ability_card_oozingmanifestation,泥漿具現
 ability_card_openwound,放血
-.
+
 ability_card_otherworldlyrage,異界之怒
 ability_card_oversizedpack,超大包裹
 ability_card_painsend,結束痛苦
@@ -911,8 +911,8 @@ adventure_achievement_1_2_inflictmuddle,混亂精通
 adventure_achievement_1_2_inflictmuddle_desc,造成20次混亂
 adventure_achievement_1_2_inflictpoison,毒素精通
 adventure_achievement_1_2_inflictpoison_desc,造成20次中毒
-adventure_achievement_1_2_inflictwound,流血精通
-adventure_achievement_1_2_inflictwound_desc,造成20次流血
+adventure_achievement_1_2_inflictwound,創傷精通
+adventure_achievement_1_2_inflictwound_desc,造成20次創傷
 adventure_achievement_1_2_killgiantvipers_1,蛇，為什麼非得是蛇？
 adventure_achievement_1_2_killgiantvipers_1_desc,殺死20條巨蟒
 adventure_achievement_1_2_killgiantvipers_2,蛇......很危險......你先走。
@@ -988,7 +988,7 @@ adventure_achievement_1_5_trapkills_desc,用陷阱殺死20個敵人
 adventure_achievement_1_5_unlocklocations,往復旅途
 adventure_achievement_1_5_unlocklocations_desc,到達野尖塔
 adventure_achievement_2_1_healpoisonwound,我不會這樣輕易地狗帶！
-adventure_achievement_2_1_healpoisonwound_desc,治療40次中毒或流血
+adventure_achievement_2_1_healpoisonwound_desc,治療40次中毒或創傷
 adventure_achievement_2_1_infuseelements,元素基礎
 adventure_achievement_2_1_infuseelements_desc,充能100個元素
 adventure_achievement_2_1_killearthdemons_1,麻煩礦工
@@ -1260,7 +1260,7 @@ combat_log_heal,{0}使用{2}治療了{1}
 combat_log_healed,{0}得到了治療
 combat_log_healed_heal,對於{0}
 combat_log_healed_poison,移除中毒
-combat_log_healed_wound,並移除流血
+combat_log_healed_wound,並移除創傷
 combat_log_hexes,格子
 combat_log_immune,{0}可防止{1}至{2}
 combat_log_infuse_element,{0}元素正在被充能
@@ -1331,7 +1331,7 @@ enhancement_summonattack,召喚物攻擊力
 enhancement_summonhp,召喚生命值
 enhancement_summonmove,召喚物移動力
 enhancement_summonrange,召喚物射程
-enhancement_wound,流血
+enhancement_wound,創傷
 ============================================================================
 #endregion enhancement
 ============================================================================
@@ -1415,8 +1415,8 @@ error_choreo_00074,無法處理詛咒狀態
 error_choreo_00075,無法處理暈眩狀態
 error_choreo_00076,無法處理中毒觸發條件
 error_choreo_00077,無法處理禁足狀態
-error_choreo_00078,無法處理流血狀態
-error_choreo_00079,無法處理流血觸發條件
+error_choreo_00078,無法處理創傷狀態
+error_choreo_00079,無法處理創傷觸發條件
 error_choreo_00080,無法處理繳械狀態
 error_choreo_00081,無法處理目標反傷
 error_choreo_00082,無法處理恢復失去的卡牌
@@ -3000,7 +3000,7 @@ event_road_campaign_8_result_a,"你們歎了口氣掏出金幣遞了過去。
 那個領頭的人依然咧著嘴笑道：“啊，先生們真是好心腸，非常感謝。很高興能遇見你們，祝願你們度過美好的一天。”
 這些強盜拿過錢之後便離開了，你們也往另一個方向繼續前行。"
 event_road_campaign_8_result_b,你們沒有因為受到埋伏而退縮，拔出武器向著灌木叢裡的強盜沖了上去。那個領頭的人想要逃跑，卻被你們砍到在地。雖然強盜的人數不少，但作戰能力和士氣並不很高。而且他們看上去非常虛弱，簡直就是營養不良，看來那個領頭的人並不是開玩笑的，他們真的需要錢來購買食物。
-event_road_campaign_9_intro,"當你們正在穿越一片低地的時候，發現一個身穿盔甲的男人背靠著一塊巨石坐著。當你們靠近他時，發現他的身體正在流血。
+event_road_campaign_9_intro,"當你們正在穿越一片低地的時候，發現一個身穿盔甲的男人背靠著一塊巨石坐著。當你們靠近他時，發現他的身體正在創傷。
 “唉，運氣不好，”他說道，“我跟兄弟們走散了，之後又倒楣得撞上一頭熊。恐怕連站起來的力氣都沒有。”
 他凝視著你們並哀求說道：“如果你們有的話，能給我一瓶藥水或者其他什麼東西嗎？只要能讓我恢復一點體力走回黯淡港灣就行。”"
 event_road_campaign_9_option_a,幫助這個守衛。
@@ -3058,7 +3058,7 @@ item_blackcard_1,選擇一個相鄰的非精英或精英敵人。
 item_blackcard_2,你對目標敵人的所有攻擊均獲得<nobr>+1進攻<sprite name=Attack></nobr>。
 item_blackcard_activetext,{0}所有對被選中的敵人的攻擊獲得<nobr>+1進攻<sprite name=Attack></nobr>。
 item_blackcenser,在你的行動輪中，<nobr>混亂<sprite name=Muddle></nobr><nobr>射程範圍<sprite name=Range>2</nobr>以內的所有敵人。
-item_blackknife,在你進行近戰進攻時，對你的單次攻擊附加<nobr>詛咒<sprite name=Curse></nobr>。
+item_blackknife,在你進行近戰進攻時，對你的其中一個攻擊附加<nobr>詛咒<sprite name=Curse></nobr>。
 item_blinkingcape,在你的行動輪中，執行一次<nobr>“移動<sprite name=Move>4，</nobr><nobr>跳躍<sprite name=Jump>”</nobr>。
 item_bloodyaxe,在你進行近戰進攻時，損失2點生命值並對整個攻擊行動輪<nobr>+1進攻<sprite name=Attack></nobr>。
 
@@ -3067,7 +3067,7 @@ item_bootsofquickness,在一個回合開始時，當所有技能卡被揭示之�
 item_bootsofspeed,在一個回合開始時，當所有技能卡被揭示之後，你可以選擇讓你的時序值增加或者減少10點。
 
 
-item_brilliantblade,在你進行近戰進攻時，<sprite name=ConsumeLight>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
+item_brilliantblade,在你進行近戰進攻時，<sprite name=ConsumeLight>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_chainhood,當你與三個或者更多怪物相鄰時，獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_chainmail,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_circletofelements,在你的行動輪中，<sprite name=ConsumeAny>並生成任意一個元素。
@@ -3079,8 +3079,8 @@ item_crystalofzenith,在你的行動輪結束時，如果與無瑕者相鄰，�
 item_curiousgear,在你的行動輪中，解除所有<nobr>射程範圍<sprite name=Range>2</nobr>以內的陷阱。
 item_dampeningring,在你的行動輪中，消耗至多2個元素而不產生任何效果。
 item_doomedcompass,在你的行動輪中，強迫一個<nobr>射程範圍<sprite name=Range> 5</nobr>以內的敵人執行一次<nobr>“移動<sprite name=Move>2”</nobr>行動，由你操控移動的方向。
-item_doompowder,【你的進攻中】對你的單次攻擊附加<nobr>擊暈<sprite name=Stun></nobr>，<nobr>中毒<sprite name=Poison>，</nobr>和<nobr>詛咒<sprite name=Curse></nobr>。
-item_drakescalearmor,你免疫中毒<sprite name=Poison>和流血<sprite name=Wound>
+item_doompowder,【你的進攻中】對你的其中一個攻擊附加<nobr>擊暈<sprite name=Stun></nobr>，<nobr>中毒<sprite name=Poison>，</nobr>和<nobr>詛咒<sprite name=Curse></nobr>。
+item_drakescalearmor,你免疫中毒<sprite name=Poison>和創傷<sprite name=Wound>
 	item_drakescaleboots,你不受困難地形和危險地形的影響。
 item_drakescalehelm,任何時候，當你獲得混亂<sprite name=Muddle>時，則改為獲得強化<sprite name=Strengthen>。
 
@@ -3088,7 +3088,7 @@ item_empoweringtalisman,在你的行動輪中，<nobr>重置<sprite name=Refresh
 item_endurancefootwraps,若在你自己的行動輪中的移動了4個或更多格子，則執行一次<nobr>“治療<sprite name=Heal>1，自身”</nobr>行動。
 item_falconfigurine,召喚玉鷹
 item_fleabittenshawl,當敵人進行攻擊目標判定時，你的時序值始終視為99。
-item_frigidblade,在你進行近戰進攻時，<sprite name=ConsumeIce>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
+item_frigidblade,在你進行近戰進攻時，<sprite name=ConsumeIce>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_fueledfalchion,在你對單個目標使用近戰進攻時，該攻擊目標以及所有與其相鄰的敵人損失1點生命值。
 item_giantremotespider,在你的行動輪中，執行一次<nobr>“拾取<sprite name=Loot>1”</nobr> 。
 item_halberd,在你執行單一目標的近戰進攻行動時，你可以攻擊兩格以內的任意一個敵人。
@@ -3102,9 +3102,9 @@ item_helmofthemountain,當你受到攻擊時，如果<sprite name=Earth>處於�
 
 item_hookedchain,當你進行遠程進攻時，對你的整個攻擊行動附加<nobr>拉近<sprite name=Pull>2</nobr>。
 item_hornedhelm,若在你自己的行動輪中移動了4個或者更多格子，對你此行動輪的下一次近戰進攻附加<nobr>+1進攻<sprite name=Attack></nobr>。
-item_infernoblade,在你進行近戰進攻時，<sprite name=ConsumeFire>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
+item_infernoblade,在你進行近戰進攻時，<sprite name=ConsumeFire>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_ironhelmet,當你受到攻擊時，將敵人抽到的任何x2攻擊修正卡牌視為其抽到了一張+0攻擊修正卡牌。
-item_jaggedsword,在你進行近戰進攻時，對你的單次攻擊附加<nobr>流血<sprite name=Wound></nobr>。
+item_jaggedsword,在你進行近戰進攻時，對你的其中一個攻擊附加<nobr>創傷<sprite name=Wound></nobr>。
 
 item_longspear,在你對單個目標使用近戰進攻時，將攻擊改為執行以下步驟：
 item_luckyeye,在你的行動輪中，你和相鄰的盟友獲得<nobr>強化<sprite name=Strengthen></nobr>。
@@ -3219,7 +3219,7 @@ item_name_wandoftremors,戰慄魔杖
 item_name_warhammer,戰錘
 item_name_wavecrest,波浪項鍊
 item_necklaceofteeth,每當你在自己的行動輪中消滅一個敵人時，執行一次<nobr>“治療<sprite name=Heal>1，</nobr>自身”。
-item_nightblade,在你進行近戰進攻時，<sprite name=ConsumeDark>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
+item_nightblade,在你進行近戰進攻時，<sprite name=ConsumeDark>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_occultdagger,在你攻擊收割者時，獲得<nobr>穿透<sprite name=Pierce>4。</nobr>
 item_orbofdawn,在你的行動輪中，消耗<nobr>暗元素<sprite name=ConsumeDark>並充能<nobr>光元素<sprite name=Light>。
 item_orboftwilight,在你的行動輪中，消耗<nobr>光元素<sprite name=ConsumeLight></nobr>並充能<nobr>暗元素<sprite name=Dark></nobr>。
@@ -3228,7 +3228,7 @@ item_pendantofdarkpacts,在你的行動輪中，<nobr>重置<sprite name=Refresh
 item_platemail,在下五次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 
 item_powercore,Item_PowerCore PLACEHOLDER
-item_protectivecharm,你免疫中毒<sprite name=Poison>和流血<sprite name=Wound>
+item_protectivecharm,你免疫中毒<sprite name=Poison>和創傷<sprite name=Wound>
 	item_reapingscythe,在你對單個目標使用近戰進攻時，將攻擊改為執行以下步驟：
 item_remotespider,在你的行動輪中，對所有相鄰的敵人施加<nobr>中毒<sprite name=Poison></nobr>。
 
@@ -3247,7 +3247,7 @@ item_secondskin,移除你攻擊修正牌堆裡的2張-1卡。
 item_serenesandals,當你使用技能卡下半部分的預設行動時，將<nobr>“移動<sprite name=Move>2”</nobr>改為<nobr>“移動<sprite name=Move>4”</nobr>。
 item_shadowarmor,當敵人即將對你造成傷害時，取消該次傷害。
 item_shoesofhappiness,若在你自己的行動輪中移動了6個或者更多格子，則獲得<sprite name=XP1>。
-item_skullbaneaxe,在你對行屍，怨靈或骷髏進行近戰進攻時，對你的單次攻擊附加<nobr>+5進攻<sprite name=Attack></nobr>。
+item_skullbaneaxe,在你對行屍，怨靈或骷髏進行近戰進攻時，對你的其中一個攻擊附加<nobr>+5進攻<sprite name=Attack></nobr>。
 item_skullofhatred,在你的行動輪中，<nobr>詛咒<sprite name=Curse></nobr>所有相鄰的敵人。
 item_sphereofmidnight,在你的行動輪結束時，如果與無瑕者相鄰，你可以對其造成兩倍於團隊中傭兵數量的傷害。
 item_spikedshield,當你因為<nobr>攻擊</nobr>而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>復仇<sprite name=Retaliate>2</nobr>。
@@ -3260,16 +3260,16 @@ item_starearring,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr
 item_steamarmor,在下五次受到以你為目標所造成的傷害時，獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_steelring,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>4</nobr>。
 item_steelsabatons,若在你自己的行動輪中移動了1個或者更少格子，則你此回合獲得<nobr>護盾<sprite name=Shield>1</nobr>。
-item_stormblade,在你進行近戰進攻時，<sprite name=ConsumeAir>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
+item_stormblade,在你進行近戰進攻時，<sprite name=ConsumeAir>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_studdedleather,在下兩次受到攻擊時，攻擊者獲得劣勢；如果你在此期間承受了傷害，則獲得<nobr>護盾<sprite name=Shield>1</nobr>。
-item_stunpowder,在你進行近戰進攻時，對你的單次攻擊附加<nobr>擊暈<sprite name=Stun></nobr>。
+item_stunpowder,在你進行近戰進攻時，對你的其中一個攻擊附加<nobr>擊暈<sprite name=Stun></nobr>。
 item_sunearring,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>所有你已使用的道具並執行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”。
 item_superhealingpotion,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>7，</nobr>自身”。
 item_swordedgearmor,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>復仇<sprite name=Retaliate>1。</nobr>
 item_telescopiclens,當你進行遠程進攻時，對你的整個攻擊行動輪附加<nobr>+2射程<sprite name=Range></nobr>。
 item_thiefshood,當你執行<nobr>“拾取<sprite name=Loot>1”</nobr>時，改為執行一次<nobr>“拾取<sprite name=Loot>2”</nobr>。
 item_towershield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>2</nobr>。
-item_tremorblade,在你進行近戰進攻時，<sprite name=ConsumeEarth>並對你的單次攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
+item_tremorblade,在你進行近戰進攻時，<sprite name=ConsumeEarth>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_unstableexplosives_1,在你對單個目標使用近戰進攻時，將攻擊改為執行以下步驟：
 item_unstableexplosives_2,所有位於攻擊區域的盟友損失3點生命值。
 item_versatiledagger,當你使用技能卡上半部分的預設行動時，將<nobr>“進攻<sprite name=Attack>2”</nobr>改為<nobr>“進攻<sprite name=Attack>3”</nobr>。
@@ -3283,375 +3283,11 @@ item_wandofstorms,在你的行動輪中，生成氣元素。
 item_wandoftremors,在你的行動輪中，生成土元素。
 
 item_wavecrest,當你受到攻擊時，如果<sprite name=Ice>處於強烈，對攻擊者執行一次“強推<sprite name=Push>2”。
-item_weightednet,當你進行遠程進攻時，對你的單次攻擊附加<nobr>禁足<sprite name=Immobilize></nobr>•。
+item_weightednet,當你進行遠程進攻時，對你的其中一個攻擊附加<nobr>禁足<sprite name=Immobilize></nobr>•。
 
 ================================================================================================================================================
 #endregion item
 ================================================================================================================================================
-================================================================================================================================================
-#region perk
-================================================================================================================================================
-perk,專精點數
-perk_beasttyrant_01,Consistency
-perk_beasttyrant_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_beasttyrant_02,專注
-perk_beasttyrant_02_desc,"將一張<color=""purple"">-1</color>卡替換成一張<color=""orange"">+1</color>卡"
-perk_beasttyrant_03,躍進
-perk_beasttyrant_03_desc,"將一張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+2</color>卡"
-perk_beasttyrant_04,撕裂
-perk_beasttyrant_04_desc,"添加一張<color=""orange"">+1</color>流血<sprite name=Wound>卡"
-perk_beasttyrant_05,蹣跚
-perk_beasttyrant_05_desc,"添加一張<color=""orange"">+1</color>禁足<sprite name=Immobilize>卡"
-perk_beasttyrant_06,恢復
-perk_beasttyrant_06_desc,添加兩張<sprite name=Rolling>治療<sprite name=Heal>1卡
-perk_beasttyrant_07,蒼綠
-perk_beasttyrant_07_desc,添加兩張<sprite name=Rolling> <sprite name=Earth>卡
-perk_beasttyrant_08,堅韌
-perk_beasttyrant_08_desc,忽略劇本負面狀態
-perk_berserker_01,穩定
-perk_berserker_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_berserker_02,除塵
-perk_berserker_02_desc,"移除四張<color=""orange"">+0</color>卡"
-perk_berserker_03,專注
-perk_berserker_03_desc,"將一張<color=""purple"">-1</color>卡替換成一張<color=""orange"">+1</color>卡"
-perk_berserker_04,屠戮
-perk_berserker_04_desc,"將一張<color=""orange"">+0</color>卡替換成一張<sprite name=Rolling> <color=""orange"">+2</color>卡"
-perk_berserker_05,放血
-perk_berserker_05_desc,添加兩張<sprite name=Rolling>流血<sprite name=Wound>卡
-perk_berserker_06,重擊
-perk_berserker_06_desc,添加一張<sprite name=Rolling>擊暈<sprite name=Stun>卡
-perk_berserker_07,壓制
-perk_berserker_07_desc,"添加一張<sprite name=Rolling> <color=""orange"">+1</color>繳械<sprite name=Disarm>卡"
-perk_berserker_08,恢復
-perk_berserker_08_desc,添加兩張<sprite name=Rolling>治療<sprite name=Heal>1卡
-perk_berserker_09,餘燼
-perk_berserker_09_desc,"添加一張<color=""orange"">+2</color> <sprite name=Fire>卡"
-perk_berserker_10,忍耐
-perk_berserker_10_desc,忽略物品負面狀態
-perk_brute_01,穩定
-perk_brute_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_brute_02,專注
-perk_brute_02_desc,"將一張<color=""purple"">-1</color>卡替換成一張<color=""orange"">+1</color>卡"
-perk_brute_03,力量
-perk_brute_03_desc,"添加兩張<color=""orange"">+1</color>卡"
-perk_brute_04,爆發
-perk_brute_04_desc,"添加一張<color=""orange"">+3</color>卡"
-perk_brute_05,衝撞
-perk_brute_05_desc,添加三張<sprite name=Rolling> <nobr>強推<sprite name=Push> 1卡
-perk_brute_06,刺擊
-perk_brute_06_desc,添加兩張<sprite name=Rolling>穿透<sprite name=Pierce> 3卡
-perk_brute_07,重擊
-perk_brute_07_desc,添加一張<sprite name=Rolling>擊暈<sprite name=Stun>卡
-perk_brute_08,鎮靜
-perk_brute_08_desc,添加一張<sprite name=Rolling>繳械<sprite name=Disarm>卡和一張<sprite name=Rolling>混亂<sprite name=Muddle>卡
-perk_brute_09,橫掃
-perk_brute_09_desc,添加一張<sprite name=Rolling>增加目標<sprite name=Target>卡
-perk_brute_10,堡壘
-perk_brute_10_desc,"添加一張<color=""orange"">+1</color>護盾<sprite name=Shield>1，自己卡"
-perk_brute_11,堅韌
-perk_brute_11_desc,"忽略物品負面狀態並添加一張<color=""orange"">+1</color>卡"
-perk_cragheart_01,除塵
-perk_cragheart_01_desc,"移除四張<color=""orange"">+0</color>卡"
-perk_cragheart_02,專注
-perk_cragheart_02_desc,"將一張<color=""purple"">-1</color>卡替換成一張<color=""orange"">+1</color>卡"
-perk_cragheart_03,野性
-perk_cragheart_03_desc,"添加一張<color=""purple"">-2</color>和兩張<color=""orange"">+2</color>"
-perk_cragheart_04,蹣跚
-perk_cragheart_04_desc,"添加一張<color=""orange"">+1</color>禁足<sprite name=Immobilize>卡"
-perk_cragheart_05,迷惑
-perk_cragheart_05_desc,"添加一張<color=""orange"">+2</color>混亂<sprite name=Muddle>卡"
-perk_cragheart_06,衝撞
-perk_cragheart_06_desc,添加兩張<sprite name=Rolling> <nobr>強推<sprite name=Push> 2卡
-perk_cragheart_07,蒼綠
-perk_cragheart_07_desc,添加兩張<sprite name=Rolling> <sprite name=Earth>卡
-perk_cragheart_08,鈷藍
-perk_cragheart_08_desc,添加兩張<sprite name=Rolling> <sprite name=Air>卡
-perk_cragheart_09,忍耐
-perk_cragheart_09_desc,忽略物品負面狀態
-perk_cragheart_10,堅韌
-perk_cragheart_10_desc,忽略劇本負面狀態
-perk_doomstalker_01,穩定
-perk_doomstalker_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_doomstalker_02,野心
-perk_doomstalker_02_desc,"將兩張<color=""orange"">+0</color>卡替換成兩張<color=""orange"">+1</color>卡"
-perk_doomstalker_03,技巧
-perk_doomstalker_03_desc,"添加兩張<sprite name=Rolling> <color=""orange"">+1</color>卡"
-perk_doomstalker_04,迷惑
-perk_doomstalker_04_desc,"添加一張<color=""orange"">+2</color>混亂<sprite name=Muddle>卡"
-perk_doomstalker_05,感染
-perk_doomstalker_05_desc,"添加一張<color=""orange"">+1</color>中毒<sprite name=Poison>"
-perk_doomstalker_06,撕裂
-perk_doomstalker_06_desc,"添加一張<color=""orange"">+1</color>流血<sprite name=Wound>"
-perk_doomstalker_07,蹣跚
-perk_doomstalker_07_desc,"添加一張<color=""orange"">+1</color>禁足<sprite name=Immobilize>卡"
-perk_doomstalker_08,致盲
-perk_doomstalker_08_desc,"添加一張<color=""orange"">+0</color>暈眩<sprite name=Stun>"
-perk_doomstalker_09,橫掃
-perk_doomstalker_09_desc,添加一張<sprite name=Rolling>增加目標<sprite name=Target>卡
-perk_doomstalker_10,堅韌
-perk_doomstalker_10_desc,忽略劇本負面狀態
-perk_elementalist_01,穩定
-perk_elementalist_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_elementalist_02,專注
-perk_elementalist_02_desc,"將一張<color=""purple"">-1</color>卡替換成一張<color=""orange"">+1</color>卡"
-perk_elementalist_03,躍進
-perk_elementalist_03_desc,"將一張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+2</color>卡"
-perk_elementalist_04,引燃
-perk_elementalist_04_desc,"添加三張<color=""orange"">+0</color> <sprite name=Fire>卡"
-perk_elementalist_05,冰凍
-perk_elementalist_05_desc,"添加三張<color=""orange"">+0</color> <sprite name=Ice>卡"
-perk_elementalist_06,風暴
-perk_elementalist_06_desc,"添加三張<color=""orange"">+0</color> <sprite name=Air>卡"
-perk_elementalist_07,地震
-perk_elementalist_07_desc,"添加三張<color=""orange"">+0</color> <sprite name=Earth>卡"
-perk_elementalist_08,熔岩
-perk_elementalist_08_desc,"將兩張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+0</color> <sprite name=Fire>卡和一張<color=""orange"">+0</color> <sprite name=Earth>卡"
-perk_elementalist_09,暴雪
-perk_elementalist_09_desc,"將兩張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+0</color> <sprite name=Ice>卡和一張<color=""orange"">+0</color> <sprite name=Air>卡"
-perk_elementalist_10,推撞
-perk_elementalist_10_desc,添加兩張<sprite name=Rolling> <nobr>強推<sprite name=Push>1卡
-perk_elementalist_11,撕裂
-perk_elementalist_11_desc,"添加一張<color=""orange"">+1</color>流血<sprite name=Wound>卡"
-perk_elementalist_12,致盲
-perk_elementalist_12_desc,"添加一張<color=""orange"">+0</color>暈眩<sprite name=Stun>卡"
-perk_elementalist_13,蔓延
-perk_elementalist_13_desc,"添加一張<color=""orange"">+0</color>增加目標<sprite name=Target>卡"
-perk_mindthief_01,穩定
-perk_mindthief_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_mindthief_02,除塵
-perk_mindthief_02_desc,"移除四張<color=""orange"">+0</color>卡"
-perk_mindthief_03,冥想
-perk_mindthief_03_desc,"將兩張<color=""orange"">+1</color>卡替換成兩張<color=""orange"">+2</color>卡"
-perk_mindthief_04,強化
-perk_mindthief_04_desc,"將一張<color=""purple"">-2</color>卡替換成一張<color=""orange"">+0</color>卡"
-perk_mindthief_05,凍結
-perk_mindthief_05_desc,"添加一張<color=""orange"">+2</color> <sprite name=Ice>卡"
-perk_mindthief_06,技巧
-perk_mindthief_06_desc,"添加兩張<sprite name=Rolling> <color=""orange"">+1</color>卡"
-perk_mindthief_07,吸引
-perk_mindthief_07_desc,添加三張<sprite name=Rolling>拉近<sprite name=Pull>1卡
-perk_mindthief_08,迷惑
-perk_mindthief_08_desc,添加三張<sprite name=Rolling>混亂<sprite name=Muddle>卡
-perk_mindthief_09,斷筋
-perk_mindthief_09_desc,添加兩張<sprite name=Rolling>禁足<sprite name=Immobilize>卡
-perk_mindthief_10,重擊
-perk_mindthief_10_desc,添加一張<sprite name=Rolling>暈眩<sprite name=Stun>卡
-perk_mindthief_11,鎮靜
-perk_mindthief_11_desc,添加一張<sprite name=Rolling>繳械<sprite name=Disarm>卡和一張<sprite name=Rolling>混亂<sprite name=Muddle>卡
-perk_mindthief_12,堅韌
-perk_mindthief_12_desc,忽略劇本負面狀態
-perk_nightshroud_01,穩定
-perk_nightshroud_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_nightshroud_02,除塵
-perk_nightshroud_02_desc,"移除四張<color=""orange"">+0</color>卡"
-perk_nightshroud_03,暮光
-perk_nightshroud_03_desc,"添加一張<color=""purple"">-1</color> <sprite name=Dark>卡"
-perk_nightshroud_04,暗影
-perk_nightshroud_04_desc,"將一張<color=""purple"">-1</color> <sprite name=Dark>卡替換成一張<color=""orange"">+1</color> <sprite name=Dark>卡"
-perk_nightshroud_05,隱蔽
-perk_nightshroud_05_desc,"添加一張<color=""orange"">+1</color>隱身<sprite name=Invisible>卡"
-perk_nightshroud_06,迷惑
-perk_nightshroud_06_desc,添加三張<sprite name=Rolling>混亂<sprite name=Muddle>卡
-perk_nightshroud_07,恢復
-perk_nightshroud_07_desc,添加兩張<sprite name=Rolling>治療<sprite name=Heal>1卡
-perk_nightshroud_08,施咒
-perk_nightshroud_08_desc,添加兩張<sprite name=Rolling>詛咒<sprite name=Curse>卡
-perk_nightshroud_09,橫掃
-perk_nightshroud_09_desc,添加一張<sprite name=Rolling>增加目標<sprite name=Target>卡
-perk_nightshroud_10,強化免疫
-perk_nightshroud_10_desc,"忽略劇本負面狀態並添加兩張<color=""orange"">+1</color>卡"
-perk_plagueherald_01,強化
-perk_plagueherald_01_desc,"將一張<color=""purple"">-2</color>卡替換成一張<color=""orange"">+0</color>卡"
-perk_plagueherald_02,專注
-perk_plagueherald_02_desc,"將一張<color=""purple"">-1</color>卡替換成一張<color=""orange"">+1</color>卡"
-perk_plagueherald_03,躍進
-perk_plagueherald_03_desc,"將一張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+2</color>卡"
-perk_plagueherald_04,技巧
-perk_plagueherald_04_desc,"添加兩張<color=""orange"">+1</color>卡"
-perk_plagueherald_05,凝氣
-perk_plagueherald_05_desc,"添加一張<color=""orange"">+1</color> <sprite name=Air>卡"
-perk_plagueherald_06,腐敗
-perk_plagueherald_06_desc,添加三張<sprite name=Rolling>中毒<sprite name=Poison>卡
-perk_plagueherald_07,施咒
-perk_plagueherald_07_desc,添加兩張<sprite name=Rolling>詛咒<sprite name=Curse>卡
-perk_plagueherald_08,斷筋
-perk_plagueherald_08_desc,添加兩張<sprite name=Rolling>禁足<sprite name=Immobilize>卡
-perk_plagueherald_09,重擊
-perk_plagueherald_09_desc,添加一張<sprite name=Rolling>擊暈<sprite name=Stun>卡
-perk_plagueherald_10,免疫
-perk_plagueherald_10_desc,"忽略劇本負面狀態並添加一張<color=""orange"">+1</color>卡"
-perk_quartermaster_01,穩定
-perk_quartermaster_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_quartermaster_02,除塵
-perk_quartermaster_02_desc,"移除四張<color=""orange"">+0</color>卡"
-perk_quartermaster_03,躍進
-perk_quartermaster_03_desc,"將一張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+2</color>卡"
-perk_quartermaster_04,技巧
-perk_quartermaster_04_desc,"添加兩張<sprite name=Rolling> <color=""orange"">+1</color>卡"
-perk_quartermaster_05,迷惑
-perk_quartermaster_05_desc,添加三張<sprite name=Rolling>混亂<sprite name=Muddle>卡
-perk_quartermaster_06,刺擊
-perk_quartermaster_06_desc,添加兩張<sprite name=Rolling>穿透<sprite name=Pierce> 3卡
-perk_quartermaster_07,重擊
-perk_quartermaster_07_desc,添加一張<sprite name=Rolling>擊暈<sprite name=Stun>卡
-perk_quartermaster_08,橫掃
-perk_quartermaster_08_desc,添加一張<sprite name=Rolling>增加目標<sprite name=Target>卡
-perk_quartermaster_09,創新
-perk_quartermaster_09_desc,"添加一張<color=""orange"">+0</color>刷新單物品卡"
-perk_quartermaster_10,不動要塞
-perk_quartermaster_10_desc,"忽略物品負面狀態並添加兩張<color=""orange"">+1</color>卡"
-perk_sawbones_01,穩定
-perk_sawbones_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_sawbones_02,除塵
-perk_sawbones_02_desc,"移除四張<color=""orange"">+0</color>卡"
-perk_sawbones_03,躍進
-perk_sawbones_03_desc,"將一張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+2</color>卡"
-perk_sawbones_04,巧手
-perk_sawbones_04_desc,"添加一張<sprite name=Rolling> <color=""orange"">+2</color>卡"
-perk_sawbones_05,蹣跚
-perk_sawbones_05_desc,"添加一張<color=""orange"">+1</color>禁足<sprite name=Immobilize>卡"
-perk_sawbones_06,放血
-perk_sawbones_06_desc,添加兩張<sprite name=Rolling>流血<sprite name=Wound>卡
-perk_sawbones_07,致盲
-perk_sawbones_07_desc,添加一張<sprite name=Rolling>擊暈<sprite name=Stun>卡
-perk_sawbones_08,還童
-perk_sawbones_08_desc,添加兩張<sprite name=Rolling>治療<sprite name=Heal>3點卡
-perk_sawbones_09,創新
-perk_sawbones_09_desc,"添加一張<color=""orange"">+0</color>刷新單物品卡"
-perk_scoundrel_01,創新
-perk_scoundrel_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_scoundrel_02,除塵
-perk_scoundrel_02_desc,"移除四張<color=""orange"">+0</color>卡"
-perk_scoundrel_03,強化
-perk_scoundrel_03_desc,"將一張<color=""purple"">-2</color>卡替換成一張<color=""orange"">+0</color>卡"
-perk_scoundrel_04,專注
-perk_scoundrel_04_desc,"將一張<color=""purple"">-1</color>卡替換成一張<color=""orange"">+1</color>卡"
-perk_scoundrel_05,躍進
-perk_scoundrel_05_desc,"將一張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+2</color>卡"
-perk_scoundrel_06,技巧
-perk_scoundrel_06_desc,"添加兩張<sprite name=Rolling> <color=""orange"">+1</color>卡"
-perk_scoundrel_07,刺擊
-perk_scoundrel_07_desc,添加兩張<sprite name=Rolling>穿透<sprite name=Pierce> 3卡
-perk_scoundrel_08,淬毒
-perk_scoundrel_08_desc,添加兩張<sprite name=Rolling>中毒<sprite name=Poison>卡
-perk_scoundrel_09,干擾
-perk_scoundrel_09_desc,添加兩張<sprite name=Rolling>混亂<sprite name=Muddle>卡
-perk_scoundrel_10,朦朧
-perk_scoundrel_10_desc,添加一張<sprite name=Rolling>隱身<sprite name=Invisible>卡
-perk_scoundrel_11,堅韌
-perk_scoundrel_11_desc,忽略劇本負面狀態
-perk_soothsinger_01,穩定
-perk_soothsinger_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_soothsinger_02,協調
-perk_soothsinger_02_desc,"移除一張<color=""purple"">-2</color>卡"
-perk_soothsinger_03,強力和絃
-perk_soothsinger_03_desc,"將兩張<color=""orange"">+1</color>卡替換成一張<color=""orange"">+4</color>卡"
-perk_soothsinger_04,抑制
-perk_soothsinger_04_desc,"將一張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+1</color>禁足<sprite name=Immobilize>卡"
-perk_soothsinger_05,虛弱
-perk_soothsinger_05_desc,"將一張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+1</color>繳械<sprite name=Disarm>卡"
-perk_soothsinger_06,雜音
-perk_soothsinger_06_desc,"將一張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+2</color>流血<sprite name=Wound>卡"
-perk_soothsinger_07,不和諧音
-perk_soothsinger_07_desc,"將一張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+2</color>中毒<sprite name=Poison>卡"
-perk_soothsinger_08,騷音
-perk_soothsinger_08_desc,"將一張<color=""orange"">+0</color>替代成一張<color=""orange"">+2</color>詛咒<sprite name=Curse>卡"
-perk_soothsinger_09,喧鬧聲
-perk_soothsinger_09_desc,"將一張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+3</color>混亂<sprite name=Muddle>卡"
-perk_soothsinger_10,暴動
-perk_soothsinger_10_desc,"將一張<color=""purple"">-1</color>卡替換成一張<color=""orange"">+0</color>擊暈<sprite name=Stun>卡"
-perk_soothsinger_11,重調
-perk_soothsinger_11_desc,"添加三張<sprite name=Rolling> <color=""orange"">+1</color>卡"
-perk_soothsinger_12,施咒
-perk_soothsinger_12_desc,添加兩張<sprite name=Rolling>詛咒<sprite name=Curse>卡
-perk_spellweaver_01,除塵
-perk_spellweaver_01_desc,"移除四張<color=""orange"">+0</color>卡"
-perk_spellweaver_02,專注
-perk_spellweaver_02_desc,"將一張<color=""purple"">-1</color>卡替換成一張<color=""orange"">+1</color>卡"
-perk_spellweaver_03,力量
-perk_spellweaver_03_desc,"添加兩張<color=""orange"">+1</color>卡"
-perk_spellweaver_04,致盲
-perk_spellweaver_04_desc,"添加一張<color=""orange"">+0</color>擊暈<sprite name=Stun>卡"
-perk_spellweaver_05,撕裂
-perk_spellweaver_05_desc,"添加一張<color=""orange"">+1</color>流血<sprite name=Wound>卡"
-perk_spellweaver_06,蹣跚
-perk_spellweaver_06_desc,"添加一張<color=""orange"">+1</color>禁足<sprite name=Immobilize>卡"
-perk_spellweaver_07,鄙夷
-perk_spellweaver_07_desc,"添加一張<color=""orange"">+1</color> 詛咒<sprite name=Curse>卡"
-perk_spellweaver_08,餘燼
-perk_spellweaver_08_desc,"添加一張<color=""orange"">+2</color> <sprite name=Fire>卡"
-perk_spellweaver_09,凍結
-perk_spellweaver_09_desc,"添加一張<color=""orange"">+2</color> <sprite name=Ice>卡"
-perk_spellweaver_10,暴雨
-perk_spellweaver_10_desc,添加一張<sprite name=Rolling> <sprite name=Earth>卡和一張<sprite name=Rolling> <sprite name=Air>卡
-perk_spellweaver_11,鼎盛
-perk_spellweaver_11_desc,添加一張<sprite name=Rolling> <sprite name=Light>卡和一張<sprite name=Rolling> <sprite name=Dark>卡
-perk_summoner_01,穩定
-perk_summoner_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_summoner_02,強化
-perk_summoner_02_desc,"將一張<color=""purple"">-2</color>卡替換成一張<color=""orange"">+0</color>卡"
-perk_summoner_03,專注
-perk_summoner_03_desc,"將一張<color=""purple"">-1</color>卡替換成一張<color=""orange"">+1</color>卡"
-perk_summoner_04,決意
-perk_summoner_04_desc,"添加一張<color=""orange"">+2</color>卡"
-perk_summoner_05,放血
-perk_summoner_05_desc,添加兩張<sprite name=Rolling>流血<sprite name=Wound>卡
-perk_summoner_06,淬毒
-perk_summoner_06_desc,添加兩張<sprite name=Rolling>中毒<sprite name=Poison>卡
-perk_summoner_07,恢復
-perk_summoner_07_desc,添加兩張<sprite name=Rolling>治療<sprite name=Heal>1卡
-perk_summoner_08,火焰
-perk_summoner_08_desc,添加一張<sprite name=Rolling> <sprite name=Fire>卡和一張<sprite name=Rolling>  <sprite name=Air>卡
-perk_summoner_09,埋葬
-perk_summoner_09_desc,添加一張<sprite name=Rolling> <sprite name=Dark>卡和一張<sprite name=Rolling> <sprite name=Earth>卡
-perk_summoner_10,強化免疫
-perk_summoner_10_desc,"忽略劇本負面狀態並添加兩張<color=""orange"">+1</color>卡"
-perk_sunkeeper_01,穩定
-perk_sunkeeper_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_sunkeeper_02,除塵
-perk_sunkeeper_02_desc,"移除四張<color=""orange"">+0</color>卡"
-perk_sunkeeper_03,強化
-perk_sunkeeper_03_desc,"將一張<color=""purple"">-2</color>卡替換成一張<color=""orange"">+0</color>卡"
-perk_sunkeeper_04,躍進
-perk_sunkeeper_04_desc,"將一張<color=""orange"">+0</color>卡替換成一張<color=""orange"">+2</color>卡"
-perk_sunkeeper_05,技巧
-perk_sunkeeper_05_desc,"添加兩張<sprite name=Rolling> <color=""orange"">+1</color>卡"
-perk_sunkeeper_06,恢復
-perk_sunkeeper_06_desc,添加兩張<sprite name=Rolling>治療<sprite name=Heal>1卡
-perk_sunkeeper_07,重擊
-perk_sunkeeper_07_desc,添加一張<sprite name=Rolling>擊暈<sprite name=Stun>卡
-perk_sunkeeper_08,光輝
-perk_sunkeeper_08_desc,添加兩張<sprite name=Rolling> <sprite name=Light>卡
-perk_sunkeeper_09,蹲守
-perk_sunkeeper_09_desc,添加兩張<sprite name=Rolling>護盾<sprite name=Shield>1，自己卡
-perk_sunkeeper_10,不動要塞
-perk_sunkeeper_10_desc,"忽略物品負面狀態並添加兩張<color=""orange"">+1</color>卡"
-perk_sunkeeper_11,堅韌
-perk_sunkeeper_11_desc,忽略劇本負面狀態
-perk_tinkerer_01,穩定
-perk_tinkerer_01_desc,"移除兩張<color=""purple"">-1</color>卡"
-perk_tinkerer_02,強化
-perk_tinkerer_02_desc,"將一張<color=""purple"">-2</color>卡替換成一張<color=""orange"">+0</color>卡"
-perk_tinkerer_03,力量
-perk_tinkerer_03_desc,"添加兩張<color=""orange"">+1</color>卡"
-perk_tinkerer_04,爆發
-perk_tinkerer_04_desc,"添加一張<color=""orange"">+3</color>卡"
-perk_tinkerer_05,餘火
-perk_tinkerer_05_desc,添加兩張<sprite name=Rolling> <sprite name=Fire>卡
-perk_tinkerer_06,迷惑
-perk_tinkerer_06_desc,添加三張<sprite name=Rolling>混亂<sprite name=Muddle>卡
-perk_tinkerer_07,撕裂
-perk_tinkerer_07_desc,"添加一張<color=""orange"">+1</color>流血<sprite name=Wound>卡"
-perk_tinkerer_08,蹣跚
-perk_tinkerer_08_desc,"添加一張<color=""orange"">+1</color>禁足<sprite name=Immobilize>卡"
-perk_tinkerer_09,修繕
-perk_tinkerer_09_desc,"添加一張<color=""orange"">+1</color>治療<sprite name=Heal>2卡"
-perk_tinkerer_10,蔓延
-perk_tinkerer_10_desc,"添加一張<color=""orange"">+0</color>增加目標<sprite name=Target>卡"
-perk_tinkerer_11,堅韌
-perk_tinkerer_11_desc,忽略劇本負面狀態
-================================================================================================================================================
-#endregion perk
 ================================================================================================================================================
 #region personalquest
 ================================================================================================================================================
@@ -3661,7 +3297,7 @@ personalquest_aberrant_slayer_completed,在於每個元素位元面的不同惡�
 personalquest_augmented_abilities_completed,這種力量是你從未設想過的。你相信現在的你可以做到幾乎任何事情，但也沒必要完全確信——你想要自己證明。是時候帶著你新獲得的能力離開黯淡港灣，到世界各地去完成所有你能遇到的事情了。但你很快就會回來：你敢打賭下次回來時，會有更多艾斯泰爾願意為了一點點錢來進一步強化你的力量。
 personalquest_battle_legend_completed,那些你被你擊敗的生物，那些你挫敗的計畫......你所做的一切將被永遠銘記。你敢肯定從來沒有傭兵能像你這麼偉大。為了確保你的傳奇被永遠傳頌，你必須去往更廣闊的世界展現你高超的技藝和故事，所以你離開了黯淡港灣去往更遙遠的地方追尋更宏大的戰鬥。如果運氣好的話，你可能還會碰見一個將你的史詩冒險全部寫入詩歌的吟游詩人......
 personalquest_elemental_samples_completed,這個城市沒被科學家擠滿真是一個奇跡。實際上鑒於探索黯淡港灣和其周邊的危險程度，這並不意外，但這就是這群傭兵發揮作用的時候了。研究結果不言而喻：這裡的元素濃度空前的高，這展現出的可能性於你而言是無止境的。懷著對那些傭兵幫助的感激，你開始準備回到你在荒野的孤塔的長途旅行——你必須儘快找出使用這些力量的最佳方法，不會太久的：很快就將會有其他元素追求者來到黯淡港灣。
-personalquest_eternal_wanderer_completed,這是在夢中也不曾見過的瑰麗美景。作為一名傭兵，你親自踏足了那些人煙罕至的地方——甚至曾與其他位面的生物擦肩而過。置身于這些自然奇觀中，現在的你希望能專注於這些地點本身，而不是途中的戰鬥。作為傭兵的日子已經教會了你如何獨立處理問題，但其他居民會取代你的位置成為新的戰士：你離開了黯淡港灣，去以一種沒有流血與犧牲的方式追尋更多的風景與精力。
+personalquest_eternal_wanderer_completed,這是在夢中也不曾見過的瑰麗美景。作為一名傭兵，你親自踏足了那些人煙罕至的地方——甚至曾與其他位面的生物擦肩而過。置身于這些自然奇觀中，現在的你希望能專注於這些地點本身，而不是途中的戰鬥。作為傭兵的日子已經教會了你如何獨立處理問題，但其他居民會取代你的位置成為新的戰士：你離開了黯淡港灣，去以一種沒有創傷與犧牲的方式追尋更多的風景與精力。
 personalquest_fearless_stand_completed,他們曾嘲笑你是個小不點，是個怪人；你曾被看輕，你曾被羞辱。沒有人會覺得你可以憑藉不屈的意志擊敗那些生物：傲慢者已經為他們的罪行付出了代價。你向黯淡港灣證明即使矮小的人也可以如此強大。你清楚現在你可以回到你原先的生活了，不會再有人來侮辱你了。但你在冥冥中有一個感覺，你不會是最後一個來到這座城市的矮小的，醜陋的戰士。
 personalquest_finding_the_cure_completed,在離開前，你向傭兵團隊表達了最真摯的感謝，然後就趕緊回到了村莊。你當然想知道黯淡港灣背後的謎團，但你現在只想趕快回到家鄉——希望為時不晚。你不想要再看到別人的死亡了。
 personalquest_finding_the_cure_progress_completed_step_0,當你意識到剛剛做了什麼時，你開始全力強迫自己專注於眼前這場戰鬥。隨著最後一隻小妖的倒下，你已經盡可能收集了很多的叢林小惡魔精華——已經足夠去完成你的目標了。你不能再浪費時間了：一旦這邊的戰鬥結束，你必須使用這些精華去找到解藥。
@@ -4325,7 +3961,7 @@ quest_campaign_063_intro_gh_1,一座活火山顯然不是你們尋求寶藏的�
 quest_campaign_063_intro_gh_2,因為好奇在這種不毛之地能找到什麼寶藏，你們做好準備，然後踏上了這段艱難的旅程。
 quest_campaign_063_list,掠奪活火山的寶藏
 quest_campaign_063_name,熔岩坑
-quest_campaign_063_scenario_modifier_1,所有角色開始時處於流血狀態
+quest_campaign_063_scenario_modifier_1,所有角色開始時處於創傷狀態
 quest_campaign_064_desc,找到埋藏在深處的寶藏...
 quest_campaign_064_intro,"等找到方向之後，你們順著一個相當顯眼的隧道繼續向下方遊去，這條隧道的後半段轉向上方延伸，你們不斷上浮，最終上了岸，來到了一個五顏六色的瑰麗洞穴，裡面長滿了各種水晶狀的植物。而且在遠處還有一池散發出炫目藍色光芒的湖水。
 不幸的是，你們還看到一群居住在洞穴中的邪惡生物。發現你們身影的軟泥怪正向你們這邊靠近，他們因為看見到嘴的大餐而興奮不已地抖動著。"
@@ -6224,16 +5860,14 @@ gui_assembly_party_select_hero_tip,選擇任一可用的雇傭兵，將其添加
 gui_assembly_party_select_hero_tip_title,添加角色
 gui_assembly_party_start,你準備好開始了！
 
-gui_attack_modifiers_description,執行一張攻擊技能卡時，為每個目標單獨使用攻擊修正卡
 gui_begin,開始
 
 
 
 gui_bind_item_error_confirmation_title,無法裝備物品
 
-gui_bind_move_item_confirmation,"綁定到<color=#{0}>{1}</color> <size=140%><sprite name=""{2}"" color=#{0}></size>
-<color=#C53F3F>移動綁定的花費{3}：</color> <color=#FCC954><sprite name =""gold_icon_white"" color=#fcc954>{4}</color>"
-gui_bind_move_item_confirmation_title,綁定到 {0}
+
+
 gui_blessings_unavailable,沒有可用的祝福
 gui_buy_enhancement_confirmation_title,購買能力卡強化
 gui_buy_party_confirmation,你確定要解鎖這個玩家團隊嗎？
@@ -6688,7 +6322,7 @@ gui_objective_kill_enemy_lose,如果所有敵軍死亡，則失敗
 gui_objective_kill_x_lose,如果{0}名敵軍死亡，則失敗
 gui_objective_kill_x_lose_filtered,如果{0}個 {1}死亡，則失敗
 gui_objective_kill_x_win,殺死{0}名敵軍獲勝
-gui_objective_kill_x_win_filtered,殺死{0}個 {1}獲勝
+
 gui_objective_loot_x_lose,如果你撿到{0}，則失敗
 gui_objective_loot_x_lose_filtered,如果你撿到{0}個 {1}，則失敗
 gui_objective_loot_x_win,撿到{0}勝利
@@ -6713,21 +6347,17 @@ gui_party,玩家團隊
 gui_party_price,成本：{0}Renown
 gui_party_size,{0}位角色
 gui_pass,Pass
-gui_passive_attributes,被動屬性
-gui_passive_attributes_description,被動屬性允許角色忽略特定的負面影響
+
 
 gui_perk_check_tooltip,"<size=+2><color=#EACF8C> 專精項目 </color> /size>
 通過完成戰鬥目標贏得專精點數<sprite name=""""PerkPoint_Icon"""">。
 每當賺取3個專精點數，您都可以選擇一個專精項目解鎖。"
 gui_perk_modifier_add,添加
-gui_perk_modifier_remove,移除
+
 gui_perk_modifier_replace,將
 gui_perk_modifier_replace_with,替代成
-gui_perks,專精項目
-gui_perks_legend_add,添加:
-gui_perks_legend_quantity,數量:
-gui_perks_legend_remove,移除:
-gui_perks_points,{0}個可用的專精點數
+
+
 gui_perks_tooltip,歡迎來到<b>專精專案</b>頁面。在這裡，您可以使用任何您已獲得的<b>專精項目</b>去添加，刪除或替換現有的<b>攻擊修正卡</b>。看看你的技能卡和物品，並決定什麼<b>攻擊修正卡</b>最適合您的角色，但要小心:一旦使用，<b>專精項目</b>不能撤銷！
 gui_persistent_bonuses,永久福利
 gui_personal_quest_progress_completed,個人任務步驟完成
@@ -6857,9 +6487,8 @@ gui_summoned_allies,召喚物夥伴
 gui_swap_characters_positions_tip,選擇{0}/2位角色以交換位置
 gui_swap_enemy_positions_tip,選擇{0}/2個敵人以交換位置
 gui_swap_position_tip,將{0}的位置與{1}交換
-gui_temple_bless_unavailable,被祝福的雇傭兵
-gui_temple_confirmation,"在下一個任務，<color=#{1}>{0} <sprite name=""{2}"" color=#{1}></color> 獲得 x2 <sprite name=""Bless""><color=#A78634>祝福</color>修正卡"
-gui_temple_confirmation_title,給予佈施
+
+
 gui_temple_devotion_level,您持續的捐款一直是庇護所乃至整個城市的真正福音。這肯定會對這座城市產生明顯的影響，但放心吧，我們總是會充分使用外部的援助。
 gui_tooltip_activebonus_target_selection_137,選擇目標以添加+3攻擊 <sprite name=Attack>。
 gui_tooltip_add_doom,打出一個厄運將移除任何其他場上的厄運並棄置它們。
@@ -7019,8 +6648,7 @@ intro_prosperity,"黯淡港灣的繁榮度受到了你的所作所為的影響�
 增加黯淡港灣的財富等級將解鎖<color=#EACF8C>商人商店的新道具</color>，並將允許你此後創建的新角色提升到不高於當前黯淡港灣財富等級的等級。"
 intro_quest,現在可能是個檢查傭兵的<color=#EACF8C>技能卡和裝備</color>，以確保他們做好了戰鬥準備的時機。在任務描述中，你可以看到你將面臨的敵人。將滑鼠懸停在他們身上來查看他們的詳細資訊。
 intro_reputation,玩家團隊的名聲受到你行為的影響。 名聲將影響商人商店中的<color=#EACF8C>物品的售價</color>以及某些遭遇的結果。善良的行為通常會獲得獎勵，但它們可能沒那麼有趣...如何選擇取決於你。
-intro_temple_1,"每當向巨橡神廟捐贈10個金幣時，傭兵都會受到祝福。
-被祝福的傭兵將在下一個地牢中<color=#EACF8C>獲得兩張額外的x2攻擊修正卡</color>。"
+
 intro_temple_2_splitgold,請記住，每個雇傭兵都有自己的金幣儲備和個人背包，所以請確認在捐款給神廟之前<color=#EACF8C>選擇了正確的雇傭兵頭像</color>。
 ironbeast,鐵獸
 ironbell,鐵鐘堡
@@ -8409,7 +8037,7 @@ recoverlostcards,回手燒牌堆的牌
 redfalcon,紅隼
 redirect,重新導向
 redthorn,瑞德索爾
-refreshitemcards,刷新物品卡牌
+
 relic_4_description,當你到了地圖上的位置附近時，你聽到從叢林深處的吟唱聲，表明方向似乎應該是正確的。
 relic_4_name,庇護所的地穴
 removeconditions,移除角色狀態
@@ -9602,7 +9230,7 @@ shop_thewishingtree,許願樹
 shop_tinkertown,鐵人城
 shop_ugosunguents,烏格膏劑
 shop_wanderingmerchant,流浪商人
-shufflemodifierdeck,洗牌攻擊修正卡
+
 sicklybog,作嘔泥沼
 siegecannon,攻城炮
 sightlesseye,食人盲眼
@@ -9643,8 +9271,7 @@ staybrightfort_descr,這座熙熙攘攘的堡壘守衛著奇波特海灣和通�
 steelconstruct,鋼鐵造物
 stopflying,不能飛行
 stormfall,風暴降臨
-suffer_2damage,損失2點傷害。
-suffer_3damage,損失3點生命值。
+
 summerwell,夏井地
 
 summonsaltar,召喚祭壇

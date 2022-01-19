@@ -4688,7 +4688,7 @@ gui_assembly_party_tip,A party requires a minimum of 2 Mercenaries to start an A
 gui_assembly_remove_hero,"Remove
 Mercenary"
 gui_assembly_select_hero,Select a Mercenary
-gui_attack_modifiers,Attack Modifiers
+
 gui_attack_modifiers_description,"When an Attack Ability is performed, an Attack Modifier is dealt for each individual target"
 gui_autosave,Auto-Save
 gui_autosave_explanation,This game uses an auto-save feature. Please do not turn off your game when you see the auto-save icon.
@@ -5834,7 +5834,7 @@ gui_take_damage_discard,Burn 2 Discarded Cards
 gui_take_damage_tooltip,Choose to lose Health over Burning Cards
 gui_temple_bless_unavailable,Mercenary Blessed
 gui_temple_confirm,Donate
-gui_temple_confirmation,"<color=#{1}>{0} <sprite name=""{2}"" color=#{1}></color> gains x2 <sprite name=""Bless""><color=#A78634>Bless</color> Modifiers for the next Quest"
+olor> gains x2 <sprite name=""Bless""><color=#A78634>Bless</color> Modifiers for the next Quest"
 gui_temple_confirmation_title,Give Donation
 gui_temple_description,"Donate to the Temple of the Great Oak and receive x2 <font=""MarcellusAlt SDF""><color=#A78634>Bless</color></font> <sprite name=""Bless""> Modifiers for the next Quest."
 gui_temple_devotion_level,"Your continued donations have been a true boon to the Sanctuary and to the city as a whole. This will surely have a noticeable impact on the city, but, rest-assured, we could always use additional aid."
@@ -7082,9 +7082,9 @@ overwrite_save_title,Overwrite Local Save
 performs,Performs
 perk,Perk
 perk_beasttyrant_01,Consistency
-perk_beasttyrant_01_desc,"Remove two <color=""purple"">-1</color> cards"
+
 perk_beasttyrant_02,Focus
-perk_beasttyrant_02_desc,"Replace one <color=""purple"">-1</color> card with a <color=""orange"">+1</color> card"
+perk_beasttyrant_02_desc,"Replace one  <color=purple>-1</color> card with a <color=""orange"">+1</color> card"
 perk_beasttyrant_03,Heighten
 perk_beasttyrant_03_desc,"Replace one <color=""orange"">+0</color> card with a <color=""orange"">+2</color> card"
 perk_beasttyrant_04,Lacerate
@@ -7098,11 +7098,11 @@ perk_beasttyrant_07_desc,Add two <sprite name=Rolling>  <sprite name=Earth> card
 perk_beasttyrant_08,Resilient
 perk_beasttyrant_08_desc,Ignore negative scenario effects
 perk_berserker_01,Consistency
-perk_berserker_01_desc,"Remove two <color=""purple"">-1</color> cards"
+
 perk_berserker_02,Dust
 perk_berserker_02_desc,"Remove four <color=""orange"">+0</color> cards"
 perk_berserker_03,Focus
-perk_berserker_03_desc,"Replace one <color=""purple"">-1</color> card with a <color=""orange"">+1</color> card"
+perk_berserker_03_desc,"Replace one  <color=purple>-1</color> card with a <color=""orange"">+1</color> card"
 perk_berserker_04,Overkill
 perk_berserker_04_desc,"Replace one <color=""orange"">+0</color> card with one <sprite name=Rolling> <color=""orange"">+2</color> card"
 perk_berserker_05,Bloodletting
