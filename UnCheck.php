@@ -778,39 +778,6 @@ ability_card_wretchedswarm,驚駭蟲群
 #region adventure_achievement
 ================================================================================================================================================
 
-adventure_achievement_1_1_killbandits,鄰里守望
-adventure_achievement_1_1_killbonerangers_1,全軍突擊！
-adventure_achievement_1_1_killbonerangers_1_desc,殺死10個骷髏弓箭手
-adventure_achievement_1_1_killbonerangers_2,Klaatu Barada... Necktie
-adventure_achievement_1_1_killbonerangers_2_desc,殺死100個骷髏弓箭手
-adventure_achievement_1_1_killcultists_1,我以為他們只會出現在印斯茅斯
-adventure_achievement_1_1_killcultists_2,隱密教團
-adventure_achievement_1_1_killdifferentenemies,骨架收藏家
-
-adventure_achievement_1_1_killlivingbones_1,骨腿子給你打斷！
-
-adventure_achievement_1_1_killlivingbones_2,骨灰都給你揚咯！
-
-adventure_achievement_1_1_killlivingcorpses_1,黎明殺機
-
-adventure_achievement_1_1_killlivingcorpses_2,消逝的光芒
-
-adventure_achievement_1_1_killlivingspirits_1,快去請鬼殺隊來！
-
-adventure_achievement_1_1_killmuddlepoison_desc,殺死50個混亂或中毒的敵人
-adventure_achievement_1_1_killsummonlivingbones,殺，殺，殺光他們！！
-adventure_achievement_1_1_killsummonlivingbones_desc,殺死30個被召喚出來的復生的骷髏
-adventure_achievement_1_1_killvermlingscouts_1,我感覺有老鼠混進來了！
-
-adventure_achievement_1_1_killvermlingscouts_2,你們這些骯髒的老鼠！
-
-adventure_achievement_1_1_killvermlingshamans_1,捉鼠人
-
-adventure_achievement_1_1_killvermlingshamans_2,老鼠終結者
-
-
-
-
 
 adventure_achievement_1_2_killgiantvipers_1,蛇，為什麼非得是蛇？
 adventure_achievement_1_2_killgiantvipers_2,蛇......很危險......你先走。
@@ -840,9 +807,7 @@ adventure_achievement_1_3_killforestimps_2,大威天龍
 adventure_achievement_1_3_killforestimps_2_desc,擊殺200只叢林小惡魔
 adventure_achievement_1_3_unlocklocations,荒蕪之地
 adventure_achievement_1_3_unlocklocations_desc,到達隱居地
-adventure_achievement_1_4_killcavebears_1,老熊當道
 
-adventure_achievement_1_4_killcavebears_2,熊羆之士
 
 adventure_achievement_1_4_killnightdemons_1,晝魘
 
@@ -1024,12 +989,6 @@ adventure_achievement_sunkeeper_2,光明觸摸
 adventure_achievement_sunkeeper_2_desc,執日士治療150點生命
 adventure_achievement_sunkeeper_3,陽光普照
 adventure_achievement_sunkeeper_3_desc,執日士消耗40次光元素
-
-
-adventure_achievement_tinkerer_2,修理時刻
-adventure_achievement_tinkerer_2_desc,機匠使用30次造成負面狀態的技能
-adventure_achievement_tinkerer_3,亡者歸來
-adventure_achievement_tinkerer_3_desc,機匠使用20次回收燒祭卡牌或回收棄牌堆卡牌的技能
 ================================================================================================================================================
 #endregion adventure_achievement
 ================================================================================================================================================
@@ -5088,8 +5047,7 @@ blightedkeep,枯萎堡壘
 bloatedregent,攝政王行屍
 
 bloodford_descr,魔人城戰爭中一場偉大戰役的發生地，有人說這條河每到滿月仍然是紅色的。
-boneranger,骷髏弓箭手
-bonerangerelite,骷髏弓箭手精英
+
 boneshatterpass,碎骨走廊
 boneshatterpass_descr,這個採石場幾乎沒有生命跡象。搖搖欲墜的舊工棚風呼嘯而過，但仍然可以購買一些舊設備。
 boss_addhexesmovedtoattackbufftext,增加暗黑騎士這一輪已經移動的格子數量用以攻擊。
