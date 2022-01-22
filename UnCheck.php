@@ -5641,7 +5641,7 @@ gui_adv_tutorial_commander,隨著指揮官被擊殺，你希望找到他囤積�
 gui_adv_tutorial_commander_title,指揮官被擊殺！
 gui_adv_tutorial_confirm_back_boss_1,Let's Go!
 gui_adv_tutorial_confirm_back_boss_2,啟程
-gui_adv_tutorial_confirm_finish,完成
+
 gui_adv_tutorial_confirm_wayward,開始冒險
 gui_adv_tutorial_cultist,搜遍了總部，你再次失望，發現這裡明顯沒有他們的贓物，不過你在一張被打爛的桌子下找到一個藏著的年輕信徒。你告訴他，他最好的出路是說清楚在哪裡能找到贓物。
 gui_adv_tutorial_cultist_title,那麼去找戰利品......？
@@ -6185,10 +6185,7 @@ gui_player_online,線上的
 gui_playstest_levels,試玩等級
 gui_positive_conditions,正面狀態
 gui_prop_can_be_looted_by,{0}
-gui_quest_completed,完成
 
-gui_quest_completed_unavailable_rewards,沒有更多的獎勵能提供了，您已經完成了這個劇本。
-gui_quest_group_completed,已完成任務數
 gui_quest_group_job,角色職業
 gui_quest_group_relic,聖者遺物
 
@@ -6438,8 +6435,6 @@ intro_cityquest,"你們解鎖了一個<color=#EACF8C>城鎮任務</color>！
 intro_enchantress,在此介面你可以為你所有技能卡進行附魔。首先選擇技能卡，然後選擇附魔槽，就可以將你希望的附魔效果附加到該附魔槽位上。請注意，不同的附魔會對應不同的附魔基礎成本，而且同一張牌附魔次數越多成本越高。當你移除附魔時，其附魔成本將恢復到最初的狀態。
 
 
-intro_itemdesign,"你解鎖了一張新的道具設計圖！
-當你發現一張道具設計圖後，<color=#EACF8C>商店</color>就會開始出售該道具。"
 intro_levelup_1,"恭喜！你升級了！
 每次雇傭兵升級，你都可以<color=#EACF8C>從兩張技能卡中選擇一張</color>。你未選擇的卡將仍可以在下次升級時被選擇。
 同時，升級還會為傭兵解鎖一個新的增益點。"
@@ -6803,8 +6798,8 @@ message_end_quest_story_wingedhorror_5,那種被廣泛應用的能源核心居�
 message_end_quest_travel_amberhill_1,所以城市守衛現在在殺人麼？那絕對不是我們交稅以後想要獲得的那種保護，至少絕對不是我交稅想要的。
 message_end_quest_travel_amberhill_2,幸運的是，琥珀嶺村因他們當地魔法琥珀樹製成的附魔飾品而聞名。
 message_end_quest_travel_amberhill_3,他們給了我一雙很棒的速度之靴，希望在路途上能有所幫助。抽時間去我商店看看吧！
-message_end_quest_travel_bloodford_1,很高興你毫髮無傷的通過了。貿易路線已經恢復運行，而且你回來時我應該存了一些暈眩粉了。
-message_end_quest_travel_bloodford_2,We should get other trade route requests in now, so let‘s keep expanding the network. Before you start... go have a bath, for everyone‘s sake...,,,,,,,,,,,,,
+
+
 message_end_quest_travel_crystalhollow_1,我一直在暢想我能夠在水晶塔洞裡發現的富饒寶藏——那可是傳說中的洞穴啊！
 message_end_quest_travel_crystalhollow_2,這不好。他們大部分只是普通的蘑菇，根本不是魔法品種。
 message_end_quest_travel_crystalhollow_3,但是，在和蜘蛛的戰鬥中我被絆倒了，剛好發現了一個埋了一半的戰戟。它看起來很有力量感，正在我的商店裡出售。
@@ -7341,9 +7336,6 @@ quest_relic_steelring_desc,在石板城廢墟下方的詛咒墓穴內有著一�
 quest_relic_steelring_intro,考古學家將你們指向了南方，短暫的旅途後你們抵達了入口。入口已經被岩石和碎片覆蓋，不過你們也不知道這能不能擋住想要進入的人們，或者裡面的居民們。在移除了足夠的路障後，你們爬進入口，並且立刻感受到皮膚疼痛灼熱。隨著你漸漸深入，疼痛也不斷加劇。你們明白了你們最好加快速度，否則耽擱太久的話這裡也會成為你們的墓穴。
 quest_relic_steelring_list,探尋石板城下方的聖者遺物
 quest_relic_steelring_name,區區一戒指
-quest_relic_steelring_unlock_1,我看到你們已經學會了處理疼痛，所以我覺得你們已經可以接受一個更加危險的任務了。
-quest_relic_steelring_unlock_2,在石板城下方的詛咒墓穴中隱藏著一枚保護之戒，它可以有效幫上我們的任務，但是你需要多加小心。
-quest_relic_steelring_unlock_3,那裡不僅有邪教徒們和不死族，墓穴本身就會損害你的健康。記得帶上額外的治療藥品！
 
 
 quest_story_banditcommander_desc,所有證據都表明強盜頭目就在神殿廢墟，是時候去打到他了。
@@ -8641,10 +8633,8 @@ scenario_travel_blackrockasylum_start_1,我們是不可能回那兒去的，除�
 scenario_travel_blackrockasylum_start_2,我想你只能按照他說的做了。
 scenario_travel_blackrockasylum_success_1,在大地惡魔變回碎石後，避難所的工人們出來搬走那些試圖逃離的人們的屍體。
 scenario_travel_blackrockasylum_success_2,在房間的角落裡，你發現了更多奇怪的水晶。
-scenario_travel_bloodford_room_2,這裡的味道更加糟糕，他們甚至還更多了！
-scenario_travel_bloodford_start_1,好吧，這一陣惡臭只代表一件事：活屍！它們體格健壯，力大無窮，但好在它們行動很慢。
-scenario_travel_bloodford_start_2,哦，他們還很喜歡嘔吐…保持警惕，在遠處進行攻擊，就能保證安全。
-scenario_travel_bloodford_success,隨著最後一個亡靈倒在地板上，這裡的詛咒被解除了。
+
+
 scenario_travel_boneshatterpass_room_2_1,你們走進了下一個房間，看到一個薩維斯人在你們面前漂浮著。
 scenario_travel_boneshatterpass_room_2_2,薩維斯已經忍你們這些小個子很久了。
 scenario_travel_boneshatterpass_room_2_3,你們侵佔了我們的土地，浪費了我們的資源，玷污了我們的神廟。

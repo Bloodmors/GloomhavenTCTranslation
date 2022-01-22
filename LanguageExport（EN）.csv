@@ -1069,7 +1069,7 @@ adventure_achievement_berserker_2,Hard Hitter
 adventure_achievement_berserker_2_desc,The Berserker performs 20 attacks that deal 6+ Damage
 adventure_achievement_berserker_3,"Do you have any potions, or food?"
 adventure_achievement_berserker_3_desc,The Berserker is healed for 200 Health
-
+　
 adventure_achievement_cragheart_1,Earth Elemental
 adventure_achievement_cragheart_1_desc,The Cragheart Consumes 40 Earth Elements
 adventure_achievement_cragheart_2,Rock Star
@@ -9099,7 +9099,7 @@ quest_relic_steelring_intro,"The archaeologists point you south, and after a sho
 quest_relic_steelring_list,Search for the relic under the City of Slate
 quest_relic_steelring_name,Just One Ring
 quest_relic_steelring_unlock_1,"I can see you’ve learned to handle pain, and therefore I think you are ready to take on one of the more dangerous quests."
-quest_relic_steelring_unlock_2,"Hidden in a cursed catacomb beneath the City of Slate is a ring of protection that would aid us greatly in our quests, but beware."
+ring of protection that would aid us greatly in our quests, but beware."
 quest_relic_steelring_unlock_3,"Not only are there Cultists and Undead, but the tomb itself will sap your health. Remember to take extra healing!"
 quest_story_3a_desc,"Yet again, the Brute finds himself in a precarious situation. Guide him out safely, and he'll surely join the Guild."
 quest_story_3a_intro,"The Trainer tells you to head to the Demonsgate graveyard, and there you find a mausoleum with a smashed in front door. Walking down the steps into the gloom below, you follow a trail of broken bones until you hear the sounds of battle. Entering a chamber, the badly wounded Brute is facing off against a number of undead."
