@@ -1069,12 +1069,7 @@ adventure_achievement_berserker_2,Hard Hitter
 adventure_achievement_berserker_2_desc,The Berserker performs 20 attacks that deal 6+ Damage
 adventure_achievement_berserker_3,"Do you have any potions, or food?"
 adventure_achievement_berserker_3_desc,The Berserker is healed for 200 Health
-adventure_achievement_brute_1,Big Choppa
-adventure_achievement_brute_1_desc,The Brute Kills 50 Enemies with Melee Attacks
-adventure_achievement_brute_2,Unkillable
-adventure_achievement_brute_2_desc,The Brute Prevents 50 Attack Damage with Shield condition
-adventure_achievement_brute_3,I'm Still Standing
-adventure_achievement_brute_3_desc,The Brute uses a Heal Ability on himself 30 times
+
 adventure_achievement_cragheart_1,Earth Elemental
 adventure_achievement_cragheart_1_desc,The Cragheart Consumes 40 Earth Elements
 adventure_achievement_cragheart_2,Rock Star
