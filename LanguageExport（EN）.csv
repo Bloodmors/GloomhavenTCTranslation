@@ -2414,40 +2414,11 @@ event_adownedtraveler_pity,"You hand the Savvas the gold, who grimaces as it ris
 
 You feel a rush of energy as you bask in its glow. The Savvas bids you farewell and you wish it a speedy recovery, before you head in opposite directions down the path."
 event_adownedtraveler_scoff,"You leave the Savvas to its fate and continue on. As you walk away, you hear it muttering something under its breath. A painfully icy chill runs down your spine, and you can't help but wonder whether the Savvas cursed you with ice magic..."
-event_afatefulencounter,"With the darkness of night drawing ever closer, you scan your surroundings for shelter from that which lurks within the shadows. You notice a light emanating from a nearby cave. and decide to investigate.
 
-Cautiously moving towards the light, you find that inside a cave sits a lone Orchid in meditation, who seems oblivious to your presence. The glow from the large crystals on her skin illuminate the entirety of the cave.
 
-You see paintings on the cave walls that appear to depict previous quests you have undertaken, even the very journey that took you to this cave. Next to the Orchid lies some chalk, rations and a bag of coins."
-event_afatefulencounter_a,Wait for the Orchid to finish meditating
-event_afatefulencounter_b,Take the coins and leave
-event_afatefulencounter_take_gold,"The light shining from the Orchid's crystals is almost blinding as you edge your way closer and closer to the bag of coins. Somehow you manage to swipe the bags without disturbing the Orchid and hightail it out of the cave.
 
-As you open up the bag you find a small scrap of parchment alongside the coins, with another drawing, this time of you holding the bag in your hands and reading that very note. You wonder if the Orchid could have rewarded you with more than gold had you not stolen from her..."
-event_afatefulencounter_take_muddle,"The light shining from the Orchid's crystals is almost blinding as you edge your way closer and closer to the bag of coins. As you carefully lift up the bag as quietly as you can, you notice a faint drawing on the floor of you taking it and the bolt of lightning hitting you…
 
-You wake up on the floor of the cave the next morning, somewhat singed. Thankfully you are still in one piece, and even still have the coins – along with the worst splitting headache you've ever had."
-event_afatefulencounter_wait,"You wait for the Orchid to finish her meditation. Finally, at the break of dawn, you gaze tired and exhausted at the Orchid as the glow from her crystals begins to fade. She slowly opens her amethyst eyes.
 
-“Greetings travelers, I have been expecting you.” The Orchid announces, smiling coyly as she gathers her belongings. ""You undoubtedly have many questions, but I unfortunately have little time. Before I depart, allow me to read the signs to see what is in store for you...""
-
-Without looking away from you, she gestures to one of the cave paintings – one that you are certain was not there before – depicting this very conversation you are having with the Orchid."
-event_afatefulencounter_wait_a,Continue
-event_afatefulencounter_wait_curse,"The Orchid closes her eyes again and gestures with her other hand to an empty spot on the wall. She whispers something that you can't quite comprehend before the image of a small spider forms.
-
-""The spider is cursed with a lonely existence, working long and hard on her web in solitude. Those that would dare disturb her feel her venom.""
-
-Before you can ask her what she means, she snaps her fingers and disappears, and with her all of the cave paintings – only rough-hewn rock remains. You prepare yourselves for the day's journey, pondering what it was exactly that she meant."
-event_afatefulencounter_wait_gold,"The Orchid closes her eyes again and gestures with her other hand to an empty spot on the wall. She whispers something that you can't quite comprehend before the image of a bag of coins forms.
-
-""Wealth brings joy to many, but the distraction of gold leads to a lack of focus – fortune into misfortune.""
-
-Before you can ask her what she means, she snaps her fingers and disappears, and with her all of the cave paintings – only rough-hewn rock remains. The only thing left of her posessions is the bag of coins she was sat next to. You take it and prepare yourselves for the day's journey, pondering what it was exactly that she meant."
-event_afatefulencounter_wait_xp,"The Orchid closes her eyes again and gestures with her other hand to an empty spot on the wall. She whispers something that you can't quite comprehend before the image of a penitent man forms, with his hands clasped together.
-
-""There is much to be learned from our errors, but do not be consumed by your contrition.""
-
-Before you can ask her what she means, she snaps her fingers and disappears, and with her all of the cave paintings – only rough-hewn rock remains. Perhaps she has great insight, or perhaps it was just nonsense, but you feel as though you have learned something about yourself in this cave – although having stayed up all night will take its toll physically."
 event_ambushaftermath,"There was a massacre here – the bodies of a group of clerics and healers lie strewn across the path. Whoever killed these people appears to be long gone.
 
 They could still have valuables should you choose to loot them, but you also wonder whether the powers that be might smile upon those that would bury them."

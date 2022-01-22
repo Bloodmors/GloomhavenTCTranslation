@@ -2920,7 +2920,7 @@ item_hookedchain,當你進行遠程進攻時，對你的整個攻擊行動附加
 item_hornedhelm,若在你自己的行動輪中移動了4個或者更多格子，對你此行動輪的下一次近戰進攻附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_infernoblade,在你進行近戰進攻時，<sprite name=ConsumeFire>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_ironhelmet,當你受到攻擊時，將敵人抽到的任何x2攻擊修正卡牌視為其抽到了一張+0攻擊修正卡牌。
-item_jaggedsword,在你進行近戰進攻時，對你的其中一個攻擊附加<nobr>創傷<sprite name=Wound></nobr>。
+
 
 item_longspear,在你對單個目標使用近戰進攻時，將攻擊改為執行以下步驟：
 item_luckyeye,在你的行動輪中，你和相鄰的盟友獲得<nobr>強化<sprite name=Strengthen></nobr>。
@@ -3078,7 +3078,7 @@ item_steelring,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr
 item_steelsabatons,若在你自己的行動輪中移動了1個或者更少格子，則你此回合獲得<nobr>護盾<sprite name=Shield>1</nobr>。
 item_stormblade,在你進行近戰進攻時，<sprite name=ConsumeAir>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_studdedleather,在下兩次受到攻擊時，攻擊者獲得劣勢；如果你在此期間承受了傷害，則獲得<nobr>護盾<sprite name=Shield>1</nobr>。
-item_stunpowder,在你進行近戰進攻時，對你的其中一個攻擊附加<nobr>擊暈<sprite name=Stun></nobr>。
+
 item_sunearring,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>所有你已使用的道具並執行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”。
 item_superhealingpotion,在你的行動輪中，執行一次<nobr>“治療<sprite name=Heal>7，</nobr>自身”。
 item_swordedgearmor,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>復仇<sprite name=Retaliate>1。</nobr>
@@ -5173,28 +5173,8 @@ event_adownedtraveler_leave,因為擔心會被伏擊，你換了個方向繞過�
 event_adownedtraveler_pity,"你把金子遞給原生族，它站起來做了個鬼臉並感謝你的憐憫。它手持著一個小型的脈動水晶，隨之一道綠光弄罩著你，你沐浴在綠光裡，渾身顯得綠油油的。
 當你沐浴在綠色的光芒中時，你肝到一股特殊能量在你體內湧動。原生族向你道別，而你希望它能早日康復，然後你回頭，向著前方走去。"
 event_adownedtraveler_scoff,你將原生族留在了原地，讓命運給與其憐憫。當你離開時，你聽到它呼吸聲中夾雜著喃喃自語。一股突如其來的惡寒刺痛著你的皮膚，你忍不住猜想是不是這個原生族是否在用冰魔法詛咒你......
-event_afatefulencounter,"夜幕降臨，群星隱匿，周圍愈發陰暗起來。你四處打量了下，在那深邃的陰影裡，似乎空無一物，但恍惚間又似乎有無窮的惡意目光在注視著你。你的心裡越來越低沉，想不顧一切的逃離這裡。這時你看見附近的洞穴，透出朦朧的亮光，你按下忐忑的意念，決定冒險進洞調查或者躲避。
-小心翼翼地靠近光亮，你發現洞穴裡一名花晶族正在冥想，而光亮正是源自她皮膚上的大水晶，這光亮照亮了整個洞穴。她似乎並沒有覺察到你的到來。
-你打量起四周，發現洞穴壁上有多幅繪畫，似乎正是描繪了你之前進行的任務，甚至有一幅正好描繪了光芒引導你進入洞穴的過程。而在花晶族不遠處，隨意放置著一些粉筆，補給以及一袋子金幣。"
-event_afatefulencounter_a,等待花晶族完成冥想
-event_afatefulencounter_b,拿走硬幣並悄悄離開
-event_afatefulencounter_take_gold,"你越是靠近那袋硬幣，花晶族的水晶散發出的光芒就更為刺眼，眼睛都能感覺到刺痛。但這又有什麼關係，你終究在沒有驚擾她的情況下，輕輕地把袋子揣到懷裡，然後慌不擇路的拼命逃走。
-當你覺得跑的夠遠的時候，你從懷中取出袋子，準備算算自己的收貨。你打開袋子，才發現裡面不止有硬幣，竟然還有一張羊皮卷，而上面就畫著你，一隻手拿著袋子，一隻手拿著一張羊皮卷在仔細地看。命運是如此奇妙，你不經懊惱，有沒有可能花晶族會獎勵你更多的東西，超過你竊取金幣的價值。"
-event_afatefulencounter_take_muddle,"你越是靠近那袋硬幣，花晶族的水晶散發出的光芒就更為刺眼，眼睛都能感覺到刺痛。當你小心翼翼的拿起袋子時，注意到你前面不遠的地面上有一幅模糊的繪畫，似乎描繪的就是你拿起了袋子，再然後一團閃電擊中你的頭......
-第二天清晨，你從昏迷中醒來，能聞到一股焦糊味，頭皮刺疼。好在謝天謝地，你還是個整體，沒有少什麼零件，可能就是體毛少了些，皮膚紅了些，更加慶倖的是，你的硬幣還在  一  你高興地想放聲大笑，突然感覺頭也很疼，就好像有7個小矮子一邊鋸著樹，一邊又跳又唱，還有個女歌手在飆著高音。"
-event_afatefulencounter_wait,"你坐在一旁等待花晶族完成她的冥想。終於......在黎明破曉時分，你從瞌睡中驚醒，用疲倦的眼神凝視著花晶族。她的水晶發出的光芒開始消退，最終歸於沉寂，而她則緩緩睜開紫水晶般的眼眸注視著你，沒有一點驚訝。
-“日安，旅行者們，我一直在等待你們。”花晶族輕聲說道。在她收集完所有物品後，靦腆地微笑了下， “你無疑有很多問題，但遺憾的是我沒有多少時間。在我離開之前，請允許我聆聽啟示，看看有什麼命運在等著你們......”
-她目不轉睛地凝視著你，用手指了指一幅洞穴壁畫 一 你確信之前沒有出現過的一幅 一 描繪了你與花晶族對話的情景。"
-event_afatefulencounter_wait_a,繼續
-event_afatefulencounter_wait_curse,"花晶族人再次閉上雙眼，另一隻手緩緩指向牆壁上的一處空白地方。她低聲吟唱著一些你根本無法理解的字詞，然後在那空白處慢慢浮現出小蜘蛛圖案。
-“蜘蛛，受咒而長生，因孤而怨恨，結千絲而侍陰影，織萬網而守孤獨，凡驚擾者必受其毒。”
-在你向她詢問之前，她打了個響指就消失了，而所有的洞穴壁畫也隨她一起消失了 一 只剩下黑冷的洞穴以及困惑的你。你一邊思索著她的啟示，一邊又得為之後的旅程做準備工作了。"
-event_afatefulencounter_wait_gold,"花晶族人再次閉上雙眼，另一隻手緩緩指向牆壁上的一處空白地方。她低聲吟唱著一些你根本無法理解的字詞，然後在那空白處慢慢浮現出一袋硬幣圖案。
-“財富固然使你快樂，但它也讓你迷失 一 幸運變為不幸。”
-在你向她詢問之前，她打了個響指就消失了，而所有的洞穴壁畫也隨她一起消失了 一 只剩下黑冷的洞穴以及困惑的你，當然還有心心念念的那袋硬幣。你收起袋子，一邊思索著她的啟示，一邊又得為之後的旅程做準備工作了。"
-event_afatefulencounter_wait_xp,"花晶族人再次閉上雙眼，另一隻手緩緩指向牆壁上的一處空白地方。她低聲吟唱著一些你根本無法理解的字詞，然後在那空白處慢慢浮現出一個雙手合十低頭懺悔的男人的圖案。
-“從錯誤中，我們收穫知識，但不可因懊悔而毀棄。”
-在你向她詢問之前，她打了個響指就消失了，而所有的洞穴壁畫也隨她一起消失了 一 只剩下黑冷的洞穴以及困惑的你。也許她是一個睿智的先知般人物，也許只是個裝神弄鬼的神棍，但你細細思索，似乎能洞察自身，獲益匪淺 一 但熬夜和憋尿都傷身啊。"
+
+
 event_ambushaftermath,"這裡發生了一場屠殺——一群牧師和治療師的屍體散落在小路上，而殺死這些人的兇手早已不見蹤影。
 如果你選擇撿屍，應該還有可能找到些貴重物品，但你也在揣測那些無上至尊存在是否會對好心埋葬他們的人施與微笑。"
 event_ambushaftermath_a,掠奪屍體
@@ -5664,7 +5644,7 @@ gui_assembly_error_quest_required_heroes,{0} 必須在玩家團隊中
 gui_assembly_error_quest_required_items,此任務要求{0}物品的所有者裝備該物品並在玩家團隊，才能開始
 gui_assembly_error_quest_required_level_heroe,{0} 必須至少 {1} 級
 gui_assembly_error_quest_required_personal_quest,開始這個任務要求團隊中包含個人任務 {0} 的所有者
-gui_assembly_error_quest_required_starting_village,這個任務要求您首先解鎖路線起點 {0}
+
 gui_assembly_party_description,組織一個雇傭兵團隊開始冒險
 gui_assembly_party_invalid_name,您必須在開始之前先命名玩家團隊
 gui_assembly_party_lock1,"<color=#E6C88AFF>鎖住的</color>
