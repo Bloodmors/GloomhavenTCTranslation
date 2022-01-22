@@ -777,11 +777,7 @@ ability_card_wretchedswarm,驚駭蟲群
 ================================================================================================================================================
 #region adventure_achievement
 ================================================================================================================================================
-adventure_achievement_1_1_killbanditarchers_1,觸發陷阱
 
-adventure_achievement_1_1_killbanditarchers_2,桃心殺手
-adventure_achievement_1_1_killbanditguards_1,收與送
-adventure_achievement_1_1_killbanditguards_2,罪與罰
 adventure_achievement_1_1_killbandits,鄰里守望
 adventure_achievement_1_1_killbonerangers_1,全軍突擊！
 adventure_achievement_1_1_killbonerangers_1_desc,殺死10個骷髏弓箭手
@@ -811,27 +807,11 @@ adventure_achievement_1_1_killvermlingscouts_2,你們這些骯髒的老鼠！
 adventure_achievement_1_1_killvermlingshamans_1,捉鼠人
 
 adventure_achievement_1_1_killvermlingshamans_2,老鼠終結者
-adventure_achievement_1_1_mercskilledbyenemies,人命關天
-adventure_achievement_1_1_mercskilledbyenemies_desc,被敵人殺死的雇傭兵數量達到10個
 
 
 
-adventure_achievement_1_2_damagepoison,黑寡婦
-adventure_achievement_1_2_damagepoison_desc,通過中毒狀態造成40點額外傷害
-adventure_achievement_1_2_dealrangeddamage,神射手
-adventure_achievement_1_2_dealrangeddamage_desc,使用遠端技能造成100點傷害
-adventure_achievement_1_2_inflictcurse,詛咒精通
-adventure_achievement_1_2_inflictcurse_desc,施加20次詛咒
-adventure_achievement_1_2_inflictdisarm,繳械精通
-adventure_achievement_1_2_inflictdisarm_desc,造成20次繳械
-adventure_achievement_1_2_inflictimmobilize,禁足精通
-adventure_achievement_1_2_inflictimmobilize_desc,造成20次禁足
-adventure_achievement_1_2_inflictmuddle,混亂精通
-adventure_achievement_1_2_inflictmuddle_desc,造成20次混亂
-adventure_achievement_1_2_inflictpoison,毒素精通
-adventure_achievement_1_2_inflictpoison_desc,造成20次中毒
-adventure_achievement_1_2_inflictwound,創傷精通
-adventure_achievement_1_2_inflictwound_desc,造成20次創傷
+
+
 adventure_achievement_1_2_killgiantvipers_1,蛇，為什麼非得是蛇？
 adventure_achievement_1_2_killgiantvipers_2,蛇......很危險......你先走。
 adventure_achievement_1_2_killinoxarchers_1,正中靶心！
@@ -841,8 +821,7 @@ adventure_achievement_1_2_killinoxguards_1,決鬥
 adventure_achievement_1_2_killinoxguards_2,角鬥
 adventure_achievement_1_2_killinoxshamans_1,你們的醫生呢？
 adventure_achievement_1_2_killinoxshamans_2,死掉的羚牛才是好羚牛
-adventure_achievement_1_2_moveamount,移動精通
-adventure_achievement_1_2_moveamount_desc,移動300格
+
 adventure_achievement_1_2_pierceshield,唐家霸王槍！
 adventure_achievement_1_2_pierceshield_desc,穿透30點護盾
 adventure_achievement_1_2_reachdemonspinehollow,新的章節在召喚你
@@ -851,12 +830,8 @@ adventure_achievement_1_2_reachfordingbridge,魂斷藍橋
 adventure_achievement_1_2_reachfordingbridge_desc,到達灘橋地
 adventure_achievement_1_2_reachthesloshedsquirrel,去奇波特港的要道
 adventure_achievement_1_2_reachthesloshedsquirrel_desc,到達醉松鼠酒館
-adventure_achievement_1_2_unlocklocations,東部叢林
 
-adventure_achievement_1_2_usebless,祝福精通
-adventure_achievement_1_2_usebless_desc,使用20次祝福
-adventure_achievement_1_2_usestrengthen,強化精通
-adventure_achievement_1_2_usestrengthen_desc,使用20次強化
+
 adventure_achievement_1_3_disarmtrap,有陷阱！
 adventure_achievement_1_3_disarmtrap_desc,拆卸20個陷阱
 adventure_achievement_1_3_killforestimps_1,準備捉妖
@@ -887,14 +862,14 @@ adventure_achievement_1_4_killsundemons_2,暗夜使者
 
 adventure_achievement_1_4_unlocklocations,鬼斧神工
 adventure_achievement_1_4_unlocklocations_desc,到達鷹山頂
-adventure_achievement_1_5_killnightdemonlight,拂曉至尊
-adventure_achievement_1_5_killnightdemonlight_desc,在有光元素充能的時候殺死20個暗夜惡魔
+
+
 adventure_achievement_1_5_killstonegolems_1,小錘40
 adventure_achievement_1_5_killstonegolems_1_desc,殺死10個石魔偶
 adventure_achievement_1_5_killstonegolems_2,大錘80
 adventure_achievement_1_5_killstonegolems_2_desc,殺死50個石魔偶
-adventure_achievement_1_5_killsundemondark,黃昏至尊
-adventure_achievement_1_5_killsundemondark_desc,在黑暗元素充能的時候殺死20個烈光惡魔
+
+
 adventure_achievement_1_5_trapkills,太君，這邊請
 adventure_achievement_1_5_trapkills_desc,用陷阱殺死20個敵人
 adventure_achievement_1_5_unlocklocations,往復旅途
