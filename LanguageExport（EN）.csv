@@ -5774,8 +5774,7 @@ gui_skip_mission,Skip Mission
 gui_skip_movement,Skip Movement
 gui_skip_pull,Skip Pull
 gui_skip_push,Skip Push
-gui_spawner,Spawner
-gui_spawner_information,Next Round
+gui_spawner,Spawnergui_spawner_information,Next Round
 gui_speed_up_tooltip,"<size=+2><color=#EACF8C>Fast Forward</color></size>
 Press to increase animation speed"
 gui_stadia_friends,Friends
@@ -11770,8 +11769,7 @@ scenario_travel_thethorngate_success_3,"They seem scared, but unharmed. You lead
 scenario_travel_toadmoor_start_1,"Drakes, this far east? Something must have made them leave the mountains!"
 scenario_travel_toadmoor_start_2,"Beware their poison, and the walking ones have a ferocious set of bites. Attack from range if you can."
 scenario_travel_toadmoor_success,I expect the harsh winter has driven them to forage further for food. Expect more Drake encounters across the realm.
-scenario_travel_wayfarersrest_start_1,"This is a Bounty mission, which means to succeed you will need to kill a certain number of enemies."
-scenario_travel_wayfarersrest_start_2,"The good news is that the whole battle will take place in this single clearing, the bad news is that enemies will keep spawning until you kill enough."
+
 scenario_travel_wayfarersrest_success,"Good Job, I don’t think they’ll be coming back in a hurry!"
 scenario_travel_wayfarersrest_win_objective,
 scenario_travel_wayward_start_1,"You raise your eyes and see Imps in the clearing, and something you’ve not encountered before."

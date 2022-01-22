@@ -3068,7 +3068,7 @@ item_skullofhatred,在你的行動輪中，<nobr>詛咒<sprite name=Curse></nobr
 item_sphereofmidnight,在你的行動輪結束時，如果與無瑕者相鄰，你可以對其造成兩倍於團隊中傭兵數量的傷害。
 item_spikedshield,當你因為<nobr>攻擊</nobr>而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>復仇<sprite name=Retaliate>2</nobr>。
 item_splintmail,在下四次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
-item_staffofelements,在你的行動輪中，生成任意一個元素。
+
 item_staffofeminence,當你進行遠程進攻時，<sprite name=ConsumeAny>並對你的整個攻擊行動輪附加<nobr>+1進攻<sprite name=Attack></nobr>。
 item_staffofsummoning,在你的行動輪中，操控<nobr>範圍<sprite name=Range>3以內</nobr>的一個召喚物夥伴執行一次“<nobr>移動/移動力<sprite name=Move>3</nobr>”。
 item_staffofxorn,當你進行遠程進攻時，對你的整個攻擊行動附加<nobr>中毒<sprite name=Poison></nobr>和<nobr>混亂<sprite name=Muddle></nobr>。
@@ -6266,8 +6266,8 @@ gui_select_quest,選擇任務
 gui_select_quest_tip,作為主機，為玩家團隊選擇一個任務
 gui_sell_enhancement_confirmation_title,賣出能力卡強化
 gui_skip_ability,跳過技能
-gui_spawner,怪物出生地
-gui_spawner_information,下一輪
+
+
 gui_stadia_friends,朋友們
 gui_start_campaign,開始戰役
 gui_start_multiplayer_wrong_phase_tooltip,開始多人遊戲僅在卡選擇階段或世界地圖上可用
@@ -6887,7 +6887,7 @@ message_end_quest_travel_thethorngate_2,所以作為報復，你剛剛進去把�
 message_end_quest_travel_thethorngate_3,所以，呃，我們要繼續前進！我搞到了一些新鞋子，現已上架！
 message_end_quest_travel_toadmoor_1,你把你的發現告訴了市長，他非常高興並邀請你去他的莊園裡參加熱烈的晚宴。
 message_end_quest_travel_toadmoor_2,雖然這是一個和蟾鳴地一樣無聊的城鎮，但我對於他們送來的首飾的工藝感到驚歎。我推測這也是有魔力的。
-message_end_quest_travel_wayfarersrest_1,我設法和一個當地商人做了交易，把小魔力藥水加入了庫存。你有餘錢了就來找我買一個吧！
+
 message_end_quest_travel_wayward_1,顯然，向路鎮被當地幾周以來的風暴問題困擾了許久。他們很高興你查明了原因。
 message_end_quest_travel_wayward_2,這個鎮子並不安寧，但這可能就是為什麼他們做出了如此精良的鑲釘皮甲！來我的商店看看這套套裝。
 message_end_quest_travel_wayward_3,我問過了，顯而易見一隊薩維斯進入了城鎮。
@@ -8933,9 +8933,8 @@ scenario_travel_thethorngate_success_3,他們雖然很害怕但並未受傷。�
 scenario_travel_toadmoor_start_1,這麼遠的東方也有亞龍？一定有什麼迫使他們來到了離開了山脈！
 scenario_travel_toadmoor_start_2,小心它們的毒素！貿然靠近的人會被狠狠地咬上一口。儘量從遠處進行攻擊。
 scenario_travel_toadmoor_success,我估計是嚴冬迫使它們來到更遠的地方覓食。只怕還會有更多的地方會遭到亞龍攻擊。
-scenario_travel_wayfarersrest_start_1,這是一個賞金任務，這代表你們需要擊殺一定數量的敵人來完成它。
-scenario_travel_wayfarersrest_start_2,好消息是整場戰鬥只會在一塊空地上進行，壞消息是在你擊殺足夠數量前敵人會不斷生成。
-scenario_travel_wayfarersrest_success,做的不錯，我不覺得它們會在短期內捲土重來了！
+
+
 scenario_travel_wayfarersrest_win_objective,0
 scenario_travel_wayward_start_1,你抬起頭看到空地上有一些小妖，還有一些你沒有遇到過的生物。
 scenario_travel_wayward_start_2,疾風惡魔！我早該猜到的，那麼奇怪的天氣變化…
