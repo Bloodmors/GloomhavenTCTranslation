@@ -777,8 +777,6 @@ ability_card_wretchedswarm,驚駭蟲群
 ================================================================================================================================================
 #region adventure_achievement
 ================================================================================================================================================
-
-
 adventure_achievement_1_2_killgiantvipers_1,蛇，為什麼非得是蛇？
 adventure_achievement_1_2_killgiantvipers_2,蛇......很危險......你先走。
 adventure_achievement_1_2_killinoxarchers_1,正中靶心！
@@ -830,7 +828,6 @@ adventure_achievement_1_4_unlocklocations_desc,到達鷹山頂
 adventure_achievement_1_5_killstonegolems_1,小錘40
 
 adventure_achievement_1_5_killstonegolems_2,大錘80
-
 
 
 adventure_achievement_1_5_trapkills,太君，這邊請
@@ -968,7 +965,6 @@ adventure_achievement_soothsinger_2_desc,靈魂歌者增強，祝福或治療盟
 adventure_achievement_soothsinger_3,彪低音
 adventure_achievement_soothsinger_3_desc,靈魂歌者詛咒敵人25次
 
-
 adventure_achievement_summoner_1,坦
 adventure_achievement_summoner_1_desc,召喚師的召喚物受到40點傷害
 adventure_achievement_summoner_2,催眠師
@@ -987,33 +983,15 @@ adventure_achievement_sunkeeper_3_desc,執日士消耗40次光元素
 ============================================================================
 #region campaign_achievement
 ============================================================================
-campaign_achievement_townrecords_chapter_01,章節 1
 campaign_achievement_townrecords_chapter_01_complete,章節文本
-campaign_achievement_townrecords_chapter_01_desc,章節 1
-campaign_achievement_townrecords_chapter_02,章節 2
 campaign_achievement_townrecords_chapter_02_complete,章節文本
-campaign_achievement_townrecords_chapter_02_desc,章節 2
-campaign_achievement_townrecords_chapter_03,章節 3
 campaign_achievement_townrecords_chapter_03_complete,章節文本
-campaign_achievement_townrecords_chapter_03_desc,章節 3
-campaign_achievement_townrecords_chapter_04,章節 4
 campaign_achievement_townrecords_chapter_04_complete,章節文本
-campaign_achievement_townrecords_chapter_04_desc,章節 4
-campaign_achievement_townrecords_chapter_05,章節 5
 campaign_achievement_townrecords_chapter_05_complete,章節文本
-campaign_achievement_townrecords_chapter_05_desc,章節 5
-campaign_achievement_townrecords_chapter_06,章節 6
 campaign_achievement_townrecords_chapter_06_complete,章節文本
-campaign_achievement_townrecords_chapter_06_desc,章節 6
-campaign_achievement_townrecords_chapter_07,章節 7
 campaign_achievement_townrecords_chapter_07_complete,章節文本
-campaign_achievement_townrecords_chapter_07_desc,章節 7
-campaign_achievement_townrecords_chapter_08,章節 8
 campaign_achievement_townrecords_chapter_08_complete,章節文本
-campaign_achievement_townrecords_chapter_08_desc,章節 8
-campaign_achievement_townrecords_chapter_09,章節 9
 campaign_achievement_townrecords_chapter_09_complete,章節文本
-campaign_achievement_townrecords_chapter_09_desc,章節 9
 ============================================================================
 #endregion campaign_achievement
 ============================================================================
@@ -1122,7 +1100,7 @@ command,角色特效口令
 ============================================================================
 enhancement_air,氣元素
 enhancement_anyelement,任意元素
-enhancement_area, 施法範圍
+enhancement_area,施法範圍
 enhancement_dark,暗元素
 enhancement_disarm,繳械
 enhancement_fire,火元素
@@ -7249,7 +7227,7 @@ quest_relic_remotespider_unlock_4,不幸的是，他們一直在騷擾我的部�
 quest_relic_ringofskulls_complete_1,這戒指擁有強大的力量。它可以幫助我們將來的很多戰爭。
 quest_relic_ringofskulls_complete_2,只有我想知道，曾經被困在這裡的那個可憐骷髏是誰麼？
 quest_relic_ringofskulls_desc,找到邪教徒們創造召喚寶物的地點，偷走一件。
-quest_relic_ringofskulls_intro,你們回到了陰涼休息營地，那個你們首次面對邪教徒威脅的地方，並遵照橡木守護者的指示前進。你們北上進入沙漠，在數個小時內發現了一個狂風呼嘯的荒涼峽谷。你們進入峽谷，很驚訝地發現了一座遠古神廟的輪廓，神廟用岩石雕刻而成並裝飾著顱骨。這地方一定沒錯。
+quest_relic_ringofskulls_intro,你們回到了陰涼休息地，那個你們首次面對邪教徒威脅的地方，並遵照橡木守護者的指示前進。你們北上進入沙漠，在數個小時內發現了一個狂風呼嘯的荒涼峽谷。你們進入峽谷，很驚訝地發現了一座遠古神廟的輪廓，神廟用岩石雕刻而成並裝飾著顱骨。這地方一定沒錯。
 quest_relic_ringofskulls_list,學習召喚屬於你自己的骷髏。
 quest_relic_ringofskulls_name,爭議之骨
 quest_relic_ringofskulls_unlock_1,你們已經摧毀了足夠多的召喚骷髏，我們現在可以確定邪教徒們召喚它們的一種方式。
@@ -7392,7 +7370,7 @@ quest_story_doomstalker_2_intro,儘管守衛隊長已承諾調查此事，但末
 quest_story_doomstalker_2_list,調查屠夫的商店
 quest_story_doomstalker_2_name,將死之人
 quest_story_doomstalker_3_desc,這些事襲擊了末日獵手根據地的雇傭兵。去看看誰雇傭了他們。
-quest_story_doomstalker_3_intro,帳本提到了隱藏在陰涼休息營地鎮外一個洞穴中的地牢的方位。你情不自禁的想到烏姆布蘭聯盟的邪教徒們，但幸運的是，這些雇傭兵對神秘和邪惡的事不大感興趣。洞穴外面有一片長方形的枯草——很可能是之前雇傭軍的報酬留下的地方。當你進入洞穴時，你開始聽到喊叫聲和砰砰聲在回蕩。那是戰鬥的聲音。你拿出武器，小心翼翼地前進，發現一群薩維斯憤怒地敲打著地牢的門。“你怎麼敢把我們當成可悲的低等種族對待！”其中一人吼道，然後用冰栓栓住了門。“我們說好了的，你要是不遵守約定就得吃苦頭！”你覺得現在可能不是闖進地牢的最佳時機，但當你後退的時候，你不小心提到了一顆石子。薩維斯們都看向你。“還有背叛者？殺了他！”他們一起把手臂舉過頭頂。你能感覺到空氣中的冷熱起伏，腳下的地面在震動，周圍回蕩著岩石的碎裂聲。洞穴在咆哮塌了下來，壓在你的身上，你眼前一黑。
+quest_story_doomstalker_3_intro,帳本提到了隱藏在陰涼休息地鎮外一個洞穴中的地牢的方位。你情不自禁的想到闇影聯盟的邪教徒們，但幸運的是，這些雇傭兵對神秘和邪惡的事不大感興趣。洞穴外面有一片長方形的枯草——很可能是之前雇傭軍的報酬留下的地方。當你進入洞穴時，你開始聽到喊叫聲和砰砰聲在回蕩。那是戰鬥的聲音。你拿出武器，小心翼翼地前進，發現一群薩維斯憤怒地敲打著地牢的門。“你怎麼敢把我們當成可悲的低等種族對待！”其中一人吼道，然後用冰栓栓住了門。“我們說好了的，你要是不遵守約定就得吃苦頭！”你覺得現在可能不是闖進地牢的最佳時機，但當你後退的時候，你不小心提到了一顆石子。薩維斯們都看向你。“還有背叛者？殺了他！”他們一起把手臂舉過頭頂。你能感覺到空氣中的冷熱起伏，腳下的地面在震動，周圍回蕩著岩石的碎裂聲。洞穴在咆哮塌了下來，壓在你的身上，你眼前一黑。
 quest_story_doomstalker_3_list,調查那些雇傭兵
 quest_story_doomstalker_3_name,跟著帳簿的指示
 quest_story_elementalist_1_desc,説明元素大師弄明白偉大的英雄史華傑爾是如何成為一個兼具魔法攻擊和近戰戰鬥能力的大師的。
@@ -7616,7 +7594,7 @@ quest_travel_eaglecrest_list,鷹山頂附近的森林裡出現了不少惡魔
 quest_travel_eaglecrest_name,綻放之森
 quest_travel_eastgrove_desc,邪教仍在不斷發展壯大，現在它已經完全控制了這個林地社區。
 quest_travel_eastgrove_intro,邪教徒們佔據了東林地外一塊郊區上的地穴，並讓當地的居民屈服于他們的魔法。人們請求你處理掉那些邪教徒們，解救這座城鎮。你在午夜的夜色的掩護下向著地穴前進，計畫著在不知不覺中幹掉那些佔據了地穴的傢伙。
-quest_travel_eastgrove_list,烏姆布蘭聯盟佔領了東林地，把他們趕走。
+quest_travel_eastgrove_list,闇影聯盟佔領了東林地，把他們趕走。
 quest_travel_eastgrove_name,無信者的信仰
 quest_travel_fordingbridge_desc,灘橋地的一個社區報告稱，森林正在燃燒，有熔岩正從地下湧出。
 quest_travel_fordingbridge_intro,從灘橋地傳來的大量報告稱，植被正在燃燒，地形正在變化，甚至那些與世隔絕的地方一夜之間出現了許多小股熔岩。一般來說，這種情況代表一個煉金術士或機匠將要接受調查，但當地人也提到這些地區的顏色似乎發生了變化，這種情況和你在下城區所遇到的很相似。你從惡魔閘口鎮的東南門出發，沿著一條長滿雜草和古老車轍的老公路前行。這一天平安無事過去了，直到你到達村莊的郊外，看到各個方向上都在冒著滾滾濃煙。其中一支煙柱離你很近，以至於你可以爬到附近的山上調查它。你發現了一個通向地下的洞穴入口。在它上面，濃煙從裂縫中滾滾而出。也許你能在裡面找到這些現象的原因？
@@ -7700,13 +7678,10 @@ quest_travel_scurvybay_desc,病灣村有著大量的傭兵，說服他們加入�
 quest_travel_scurvybay_intro,病灣村是一個臭名昭著的強盜和雇傭兵的窩點。他們來自世界各地。這是個暴力的地方，許多臭名昭著的海盜和攔路強盜在這裡開始了他們的生涯——還結束了許多人的性命。你希望那些亡命之徒明白他們所處的危險境地。經過漫長的旅程，在到達病灣村的破爛木質大門前，你停下來把所有的貴重物品都安全地藏起來：沒有必要多冒風險。當你把最後幾枚硬幣塞進襪子時，打鬥聲音向你傳來。你小心翼翼地走近這個城鎮，仔細地看了看。在村子內部，奇波特港民兵組織已經開始進攻，但顯然沒有料到當地居民會拼死反抗。儘管如此，巢靈族給防守者帶來的麻煩還是遠遠超出了他們的承受能力——病灣村輸了。要想贏得那些你迫切需要的戰士的忠心，這可是個絕佳的機會。
 quest_travel_scurvybay_list,贏得病灣村的效忠
 quest_travel_scurvybay_name,巢靈三鏢客
-quest_travel_shaderest_desc,陰涼休息營地被封鎖了，因為晚上又邪教徒在街上遊蕩，殺害任何膽敢反抗他們的人。
-quest_travel_shaderest_intro,你的聯絡人已經告訴你陰涼休息營地被最近興起的烏蘭布姆聯盟邪教所控制。這裡的謠言滿天飛，說邪教徒們能接觸到被禁止的巫術知識，但任何膽敢詢問他們的人都會很快被處理掉。你一路尋找到城鎮東部的一個地穴邊，在這附近可以看到獻祭的跡象，牆壁上畫著邪惡的魔符。你聽到裡面傳來吟唱聲，決定往下冒險…
-quest_travel_shaderest_list,摧毀陰涼休息營地的邪教
-quest_travel_shaderest_name,烏姆布蘭聯盟
-quest_travel_shadowfieldmanor_desc,沙德菲爾德家族請求幫助他們除掉一群聚集在他們地盤上的烏姆布蘭聯盟的邪教分子。
-quest_travel_shadowfieldmanor_intro,你只在嚇唬小孩子的故事中聽說過沙德菲爾德家族。這個隱居在森林深處的家族據說時常舉行奇怪的儀式。然而，你收到了一份援助請求，報告上稱有人發現了烏姆布蘭聯盟的邪教徒，他們正試圖闖入沙德菲爾德家族的地下墓穴裡褻瀆他們的古墓。你來到莊園，穿過鐵門，來到後面的家族墓地。邪教徒們聚集在一個地穴外。隨著你被發現，他們開始召喚骨遊騎兵並命令他們進攻！
-quest_travel_shadowfieldmanor_list,影野莊園的沙德菲爾德家族罕見的發出了求助請求
+quest_travel_shaderest_desc,陰涼休息地被封鎖了，因為晚上又邪教徒在街上遊蕩，殺害任何膽敢反抗他們的人。
+quest_travel_shaderest_intro,你的聯絡人已經告訴你陰涼休息地被最近興起的烏蘭布姆聯盟邪教所控制。這裡的謠言滿天飛，說邪教徒們能接觸到被禁止的巫術知識，但任何膽敢詢問他們的人都會很快被處理掉。你一路尋找到城鎮東部的一個地穴邊，在這附近可以看到獻祭的跡象，牆壁上畫著邪惡的魔符。你聽到裡面傳來吟唱聲，決定往下冒險…
+quest_travel_shaderest_list,摧毀陰涼休息地的邪教
+
 quest_travel_shadowfieldmanor_name,兩害相權取其輕
 quest_travel_shimmeringshallows_desc,在進攻奇波特港時你需要螢光海灘提供海港。從民兵那裡奪回來！
 quest_travel_shimmeringshallows_intro,教官讓你去螢光海灘，因為螢光海灘的海港可以為你提供一個寶貴的進攻路線，為你的援軍攻擊奇波特港。這段旅途讓人精疲力竭，因為地面正在變得越來越濕，沙子越來越多，直到你幾乎陷在沙裡。隨著城鎮的出現，你壓低姿態，尋找最好的地方突襲民兵據點。站在城鎮外面時，你幾乎聽不全民兵的任何一句話。“…現在我來解釋一下。議會讓你駐紮在這裡是因為這個海港是他們的弱點，他們想讓我們都變得更好就難免會遭遇挫折。你是來保護議會的，因為議會預見到了一切危險——就像現在有入侵者在監視我們一樣。”你被發現了！
@@ -7758,7 +7733,7 @@ quest_travel_thecopperoasis_list,把綠洲的魔鼠清理乾淨
 quest_travel_thecopperoasis_name,害蟲防治
 quest_travel_thedome_desc,邪教徒趕走了圓頂的守護者們，那是一群致力於維護圓頂的歷史學家。
 quest_travel_thedome_intro,圓頂曾經是王國最優秀的戰士之間比拼的偉大競技場，但如今它更像是一座紀念過去幾代人的紀念碑。現在有一小群歷史學家居住在那裡，在你到達這座建築附近時，你遇到了他們之中的一員。她告訴你，幾個月前，一些身著黑衣的邪教徒們來到這裡威脅他們，迫使他們離開主建築。從那以後，他們就被禁止進入圓頂。她認為你可以在圓頂的下層找到那些邪教徒們，過去許多戰士的屍體都埋葬在那裡。你照著她的指示，進入了下面的黑暗當中。
-quest_travel_thedome_list,有人見到過烏姆布蘭聯盟的邪教徒們進行奇怪的儀式
+quest_travel_thedome_list,有人見到過闇影聯盟的邪教徒們進行奇怪的儀式
 quest_travel_thedome_name,進入黑暗
 quest_travel_theenclave_desc,在最近幾周的一系列失蹤事件之後，飛地的市長的獵犬們也失蹤了。
 quest_travel_theenclave_intro,你在鎮外見到了飛地的市長，他向你解釋了為什麼這裡亟需你的幫助。當地人報告說最近他們的牲畜、寵物以及其他野生動物似乎都失蹤了，但只有當他自己的獵犬失蹤時，他才覺得該聯繫你了。他說他聽到了從森林裡傳來的清晰的嚎叫聲，並請求你找回那些獵犬。他還教給你訓犬的命令，以防止獵犬們攻擊你。當你走進森林時，能聽到嚎叫聲從附近的空地上傳來。當你靠近聲音的來源時，一個山洞的入口出現在你眼前…你走向入口，爬了進去。
@@ -7940,7 +7915,7 @@ scenario_job_fellhounds_start_2,當你將狗殺死向前推進時，屍體又爬
 scenario_job_fellhounds_start_3,那些狗不對勁，最好避免被咬到。
 scenario_job_fellhounds_start_4,我覺得你已經指出了關鍵點......
 scenario_job_fellhounds_success_1,邪教徒似乎在利用獵犬傳播一種能使人變成不死族的疾病。你最好把這裡的一切都燒了。
-scenario_job_firecult_start_1,火焰惡魔，吐炎龍獸，骨遊騎兵......這些生物可以將村莊夷為平地！不留活口！
+scenario_job_firecult_start_1,火焰惡魔，吐炎龍獸，骷髏弓箭手......這些生物可以將村莊夷為平地！不留活口！
 scenario_job_firecult_success_1,當最後的邪教徒被殺，空氣逐漸冷卻。異教的重擔好像也隨之湮滅。
 scenario_job_firecult_success_2,邪教徒似乎總做一些魯莽且不必要的事情。我懷疑這將是你遇到的唯一一組召喚怪物。
 scenario_job_inox_vermling_forest_intro_01,看來襲擊者們正在為戰利品爭論不休。你讓他們措手不及。
@@ -8887,7 +8862,7 @@ scenario_travel_thecityofslate_start_2,看起來它們的箭頭可能會爆炸�
 scenario_travel_thecityofslate_success,看來他們也會像其他不死族一樣化成灰。現在，讓我們看看考古學家們能給我們什麼獎勵吧！
 scenario_travel_thecopperoasis_start_1,魔鼠在這裡建起了一個簡單的營地，綠洲到處都散落著他們的垃圾。當你進入他們的視野時，他們拿起武器準備攻擊。
 scenario_travel_thecopperoasis_success,隨著最後一隻鼠人的死亡，綠洲再次成為了旅行者的安全之地。
-scenario_travel_thedome_start_1,你當然猜到這裡會有邪教徒，那些穿著烏姆布蘭聯盟服裝的傢伙。但你沒想到的是居然還有暗夜惡魔！
+scenario_travel_thedome_start_1,你當然猜到這裡會有邪教徒，那些穿著闇影聯盟服裝的傢伙。但你沒想到的是居然還有暗夜惡魔！
 scenario_travel_thedome_start_2,他們似乎並不滿足於製造行屍，而是與惡魔勾結。必須阻止他們！
 scenario_travel_thedome_success_1,在最近幾十年的戰鬥結束後，圓頂地恢復了和平。
 scenario_travel_theenclave_hound_objective,如果所有的精英獵犬死亡，則失敗
@@ -8982,9 +8957,9 @@ screechingdepths,尖叫深淵
 scurvybay,病灣村
 scurvybay_descr,通常最好避開一些村莊，這裡可以說是壞血病的港灣。因為海盜和黑衛兵經常光顧，白橡樹國的管理不會冒險向南控制這麼遠。請注意安全。
 secret squirrels,隱秘松鼠
-shaderest,陰涼休息營地
+
 shaderest_descr,一座古老的城市廢墟中的一個小露營地。屏住呼吸，繼續前進：誰知道這裡有什麼惡魔徘徊在這裡？
-shadowfieldmanor,影野莊園
+
 shadowfieldmanor_descr,這座古老的莊園隱藏在茂密的被石化的樹叢中，裡面的行人在外面幾乎看不見。整個晚上都有派對的謠言，清晨有奇怪的吟唱。最好不要在這裡呆太久。
 shadowwolf,陰影狼
 shatterblades,粉碎刀鋒
