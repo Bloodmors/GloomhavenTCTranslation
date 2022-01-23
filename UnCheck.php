@@ -22,7 +22,7 @@
 045_b,<nobr>射程範圍<sprite name=Range>3</nobr>內的一名盟友可以<nobr>回收<sprite name=Recover></nobr>一張他的燒牌堆的卡牌。
 047_b,在一個相鄰的空格內創建一個附加擊暈<sprite name=Stun>的陷阱。
 049_t,召喚戰鬥機器
-051_t,一名相鄰盟友可以<nobr>重置<sprite name=Refresh></nobr>他的一個已磨損的隨身物品<sprite name=InvSmallItem>。
+051_t,一名相鄰盟友可以<nobr>重置<sprite name=Refresh></nobr>他的一個已耗盡的小道具<sprite name=InvSmallItem>。
 052_t_1,消滅目的地區域內當前生命值<nobr>小於或等於5</nobr>的所有敵人。
 052_t_2,每消滅一個敵人獲得<sprite name=XP1>。
 053_b,在你接下來的四個輪次結束時，每輪可以選擇一名<nobr>射程範圍<sprite name=Range>3</nobr>內的盟友<nobr>回收<sprite name=Recover></nobr>一張他的棄牌堆的卡牌。
@@ -162,15 +162,15 @@
 203_t,在你接下來的四次攻擊行動中，附加<nobr>+3攻擊力<sprite name=Attack></nobr>，<nobr>創傷<sprite name=Wound></nobr>，並獲得優勢。
 204_t,當任意盟友受到傷害時，你可以代為損失減少1點的生命值。
 205_t,所有<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友<nobr>重置<sprite name=Refresh></nobr>一個他們的道具。
-206_b,<nobr>重置<sprite name=Refresh></nobr>你所有的已磨損的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
+206_b,<nobr>重置<sprite name=Refresh></nobr>你所有的已耗盡的<nobr>小道具<sprite name=InvSmallItem></nobr>。
 207_b,本回合，你和你的所有<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友為你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
 208_t,每當你執行攻擊行動時，如果你使用道具，就為你的攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
-215_t,<nobr>重置<sprite name=Refresh></nobr>你的一個已磨損的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
+215_t,<nobr>重置<sprite name=Refresh></nobr>你的一個已耗盡的<nobr>小道具<sprite name=InvSmallItem></nobr>。
 216_t,一名相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>他所有的已使用的道具。
 217_b,<nobr>回收<sprite name=Recover></nobr>最多兩張你棄牌堆的卡牌。
 217_t,你或一名相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>一個<nobr>單手道具<sprite name=InvOneHand></nobr>或<nobr>雙手道具<sprite name=InvTwoHands></nobr>。
 219_b,<nobr>回收<sprite name=Recover></nobr>最多兩張你燒牌堆的卡牌。
-219_t,在你的每一個行動輪結束時，你可以棄掉一張牌牌使一名相鄰的盟友<nobr>重置<sprite name=Refresh></nobr>一個他已磨損的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
+219_t,在你的每一個行動輪結束時，你可以棄掉一張牌牌使一名相鄰的盟友<nobr>重置<sprite name=Refresh></nobr>一個他已耗盡的<nobr>小道具<sprite name=InvSmallItem></nobr>。
 221_t,一名相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>他所有的道具。
 223_t,在每回合結束時，<nobr>重置<sprite name=Refresh></nobr>你的一個已使用的道具。
 224_t,你和所有<nobr>射程範圍<sprite name=Range>4以內</nobr>的敵人損失2點生命值。
@@ -181,7 +181,7 @@
 229_b,本回合你的所有攻擊無視目標的護盾。
 230_t,在你接下來的五個行動輪結束時，執行一次“<nobr>治療<sprite name=Heal> 2</nobr>，以所有相鄰的盟友為目標”的行動。
 231_t,消滅一個相鄰的敵人。
-232_b,你和所有相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>所有已磨損的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
+232_b,你和所有相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>所有已耗盡的<nobr>小道具<sprite name=InvSmallItem></nobr>。
 235_b,本回合，所有以你或召喚物夥伴為目標的攻擊獲得劣勢。
 235_t,2只暗影幽狼
 236_b,回收<sprite name=Recover>最多四張你<nobr>燒牌堆的卡牌。</nobr>
@@ -366,8 +366,7 @@
 472_t,如果你在行動中消耗過元素，你可以在行動後令<nobr>射程範圍<sprite name=Range>2以內</nobr>的一個敵人損失1點生命值，或者你執行一次<nobr>“治療<sprite name=Heal>1，射程範圍<sprite name=Range>2”</nobr>行動。
 474_b,執行以下任意一種技能：
 474_t,召喚魔晶球
-477_b,交換任意兩個單位的位置。
-478_b,交換任意兩個敵人的位置。
+
 481_b_1,本回合，在戰熊夥伴行動前，你可以跳過你自己的上半部分行動來為戰熊夥伴的所有攻擊附加<nobr>+3攻擊力<sprite name=Attack></nobr>。
 481_b_2,本回合，在戰熊夥伴行動前，你可以跳過你自己的下半部分行動來為戰熊夥伴的所有移動行動附加<nobr>+3移動力<sprite name=Move></nobr>。
 489_b_1,任意分配你和所有召喚物夥伴所受到的傷害。
@@ -1099,7 +1098,7 @@ command,角色特效口令
 #region enhancement
 ============================================================================
 enhancement_air,氣元素
-enhancement_anyelement,任意元素
+enhancement_anyelement,任意屬性元素
 enhancement_area,施法範圍
 enhancement_dark,暗元素
 enhancement_disarm,繳械
@@ -2798,7 +2797,7 @@ event_road_campaign_9_intro,"當你們正在穿越一片低地的時候，發現
 “唉，運氣不好，”他說道，“我跟兄弟們走散了，之後又倒楣得撞上一頭熊。恐怕連站起來的力氣都沒有。”
 他凝視著你們並哀求說道：“如果你們有的話，能給我一瓶藥水或者其他什麼東西嗎？只要能讓我恢復一點體力走回黯淡港灣就行。”"
 event_road_campaign_9_option_a,幫助這個守衛。
-event_road_campaign_9_option_a_unavailable,未裝備相應的隨身物品
+event_road_campaign_9_option_a_unavailable,未裝備相應的小道具
 event_road_campaign_9_option_b,告訴他你們沒法提供幫助，然後繼續趕路。
 event_road_campaign_9_result_a,你們非常願意滿足他的請求，讓他分享了一些你們所攜帶的補給。他慢慢站起身對你們道謝，然後繼續往黯淡港灣走去，而你們也向著與他相反的方向，繼續前往目的地。
 event_road_campaign_9_result_b,"你們向他表示遺憾和歉意，說你們自已的補給也並不富裕。之後你們迅速離開然後繼續趕路，背後傳來他的叫喊聲。
@@ -2864,7 +2863,7 @@ item_bootsofspeed,在一個回合開始時，當所有技能卡被揭示之後�
 item_brilliantblade,在你進行近戰進攻時，<sprite name=ConsumeLight>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_chainhood,當你與三個或者更多怪物相鄰時，獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 item_chainmail,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
-item_circletofelements,在你的行動輪中，<sprite name=ConsumeAny>並生成任意一個元素。
+item_circletofelements,在你的行動輪中，<sprite name=ConsumeAny>並生成一個任意屬性元素。
 
 item_cloakofphasing,獲得飛行。當處於障礙物格子時，你被視為<nobr>隱身<sprite name=Invisible></nobr>並且你無法攻擊。
 item_cloakofpockets,你可以額外攜帶兩個<sprite name=InvSmallItem>道具。
@@ -2878,7 +2877,7 @@ item_drakescalearmor,你免疫中毒<sprite name=Poison>和創傷<sprite name=Wo
 	item_drakescaleboots,你不受困難地形和危險地形的影響。
 item_drakescalehelm,任何時候，當你獲得混亂<sprite name=Muddle>時，則改為獲得強化<sprite name=Strengthen>。
 
-item_empoweringtalisman,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>自身一個已磨損<sprite name=InvSmallItem>道具。
+
 item_endurancefootwraps,若在你自己的行動輪中的移動了4個或更多格子，則執行一次<nobr>“治療<sprite name=Heal>1，自身”</nobr>行動。
 item_falconfigurine,召喚玉鷹
 item_fleabittenshawl,當敵人進行攻擊目標判定時，你的時序值始終視為99。
@@ -3017,7 +3016,7 @@ item_nightblade,在你進行近戰進攻時，<sprite name=ConsumeDark>並對你
 item_occultdagger,在你攻擊收割者時，獲得<nobr>穿透<sprite name=Pierce>4。</nobr>
 item_orbofdawn,在你的行動輪中，消耗<nobr>暗元素<sprite name=ConsumeDark>並充能<nobr>光元素<sprite name=Light>。
 item_orboftwilight,在你的行動輪中，消耗<nobr>光元素<sprite name=ConsumeLight></nobr>並充能<nobr>暗元素<sprite name=Dark></nobr>。
-item_pendantofdarkpacts,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>自身2個已磨損<sprite name=InvSmallItem>道具。獲得<nobr>詛咒<sprite name=Curse></nobr>。
+item_pendantofdarkpacts,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>自身兩個已磨損<sprite name=InvSmallItem>道具。獲得<nobr>詛咒<sprite name=Curse></nobr>。
 
 item_platemail,在下五次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 
@@ -5336,7 +5335,7 @@ event_thelongdead_search_gained_damage,"你蹲在一局骸骨旁，想找點有�
 你用幾次恰到好處的攻擊戰勝了這些骷髏們，但你也承受了這些骷髏的幾次攻擊。
 不幸的是，骷髏們的武器已經是被腐蝕到不能用的程度，你只能繼續上路，一瘸一拐。"
 event_thelongdead_search_gained_gold,這些骸骨可能曾擁有的大部分物品已經腐爛和生銹了，但你成功找到了一個乾癟的錢袋，它經受住了時間的洗禮！
-event_thelongdead_search_gained_item,這些骸骨可能曾擁有的大部分物品已經腐爛和生銹了，但你成功找到了一個隨身物品，它經受住了時間的洗禮！
+event_thelongdead_search_gained_item,這些骸骨可能曾擁有的大部分物品已經腐爛和生銹了，但你成功找到了一個小道具，它經受住了時間的洗禮！
 event_theoldwell,你在路邊發現了一口老井。有人相信投點硬幣進去會有好運。
 event_theoldwell_a,扔些金幣進去
 event_theoldwell_a_subtext,（失去 ¬LoseSmallGold.GoldAmount¬ 個金幣）
@@ -5449,7 +5448,7 @@ glossary_action,行動是角色和怪物如何在幽暗迷城中進行它們的�
 glossary_addtarget,附加額外攻擊目標。
 glossary_advantage,優勢攻擊：具有優勢的攻擊者將抽取兩張攻擊修正卡並使用其中更好（數值更高）的那張。
 glossary_air,元素充能 - 氣：用氣元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能同一輪次連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
-glossary_any,元素充能 - 任意元素：用你選擇的元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。具有任意元素充能標識的怪物行動時隨機選擇一個元素進行充能。
+glossary_any,元素充能 - 任意屬性元素：用你選擇的元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。具有任意屬性元素充能標識的怪物行動時隨機選擇一個元素進行充能。
 glossary_attack,攻擊：“攻擊 X”技能卡使得單位以基礎值X去攻擊射程內的一個敵人。
 glossary_attackdefault,基礎進攻：放棄使用卡牌的上半區行動，並進行一個“攻擊 2”的行動。此行動依然棄牌。
 glossary_attackersgaindisadvantage,攻擊者陷入劣勢進攻：任意針對這名單位的攻擊將陷入劣勢進攻。
@@ -5474,7 +5473,7 @@ glossary_dothex,這個點顯示了這個效果範圍以後可以被提升，從�
 glossary_earth,元素充能 - 土：用土元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位被一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
 glossary_elite,一個精英怪擁有比非精英怪更高的數值資料，並且精英怪在非精英怪之前行動（因為精英怪和非精英怪時序值相同）。
 glossary_enhancement_air,能力卡強化 - 氣元素
-glossary_enhancement_anyelement,能力卡強化 - 任意元素
+glossary_enhancement_anyelement,能力卡強化 - 任意屬性元素
 glossary_enhancement_area,能力卡強化 - 施法範圍
 glossary_enhancement_bless,能力卡強化 - 祝福
 glossary_enhancement_curse,能力卡強化 - 詛咒
@@ -5518,7 +5517,7 @@ glossary_ice,元素充能 - 冰：用冰元素充滿戰場，可用於在元素�
 glossary_immobilize,禁足：被禁足的單位不能進行任何移動技能。在被影響單位下一輪次結束時，禁足狀態將移除。
 glossary_initiative,時序值：在單位回合的行動階段，使用單位玩家的兩張卡中第一張選擇的卡（高亮卡）的時序值。
 glossary_invisible,隱身：隱身單位不能成為敵軍的目標焦點，但是依然會受到非指向性（不指定目標）的傷害。隱身不影響與盟友的互動。隱身狀態將在被施法單位的下一輪被移除。怪物將隱身單位看作障礙物。
-glossary_invsmallitem,隨身物品背包
+glossary_invsmallitem,小道具背包
 glossary_jump,跳躍：跳躍可以讓玩家在移動路線過程中忽略所有的單位、障礙物、地面效果和陷阱。最後要去的格子將被看作一格正常移動。
 glossary_kill,擊殺：擊殺技能將直接殺死滿足任何擊殺條件的目標，不需要再去減少他們的生命值到0。
 glossary_light,元素充能 - 光：用光元素充滿戰場（僅針對己方玩家），可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合的己方單位被一次性消耗掉。
