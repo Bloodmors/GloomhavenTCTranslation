@@ -49,7 +49,7 @@
 080_t,所有與目標相鄰的敵人<nobr>損失2點生命值，<sprite name=XP1>。</nobr>,,,
 082_t,回收<sprite name=Recover>最多兩張你<nobr>燼牌堆的牌。</nobr>,,,
 084_t_1,則拾取<sprite name=Loot>3，<sprite name=XP1>,,,
-084_t_2,你不能通過此行動拾取超過四個金幣堆和寶藏。,,,
+084_t_2,你不能透過此行動拾取超過四個金幣堆和寶藏。,,,
 085_b,在之後的三次以你為目標的攻擊中，免疫受到的傷害並獲得<nobr>復仇<sprite name=Retaliate>3，</nobr><nobr>射程<sprite name=Range>3。</nobr>,,,
 086_b_1,在<nobr>射程<sprite name=Range>4</nobr>內選擇一個格子。,,,
 086_b_2,指定所有處在選定格子<nobr>射程<sprite name=Range>4</nobr>以內的敵人為目標，並將它們拉近向該格子,,,
@@ -66,7 +66,7 @@
 097_t_2,則獲得<nobr>+2攻擊力<sprite name=Attack>，</nobr><sprite name=XP1>,,,
 098_b,本回合中，之後一次你受到傷害時：免疫此次傷害。,,,
 098_t,附加+X攻擊力<sprite name=Attack>，其中X是目標護盾值的兩倍。,,,
-099_b,拾取<sprite name=Loot>每一個你通過此行動經過的格子。,,,
+099_b,拾取<sprite name=Loot>每一個你透過此行動經過的格子。,,,
 100_t,當目標與<nobr>你的盟友</nobr>相鄰時，施加創傷<sprite name=Wound>並獲得<sprite name=XP1>。,,,
 103_b,本回合，為你的所有以不與任何它的盟友相鄰的敵人為目標的攻擊附加+2攻擊力<sprite name=Attack>。,,,
 104_b,本回合，在你的所有攻擊中獲得優勢。,,,
@@ -754,7 +754,7 @@ ability_card_relentlessoffensive,無情進攻,,,
 ability_card_researchthecure,治癒研究,,,
 ability_card_reservedenergy,加油站,,,
 ability_card_resolutestand,死戰不退,,,
-ability_card_restock,刷新,,,
+ability_card_restock,重置,,,
 ability_card_restorativemist,急救噴霧,,,
 ability_card_revivingether,乙太蘇生,,,
 ability_card_revivingshock,電擊療法,,,
@@ -1528,7 +1528,7 @@ combat_log_consume_activate_active_bonus,{0}消耗{1}以啟動{2},,,
 combat_log_consume_damage,{0}消耗{1}，將{2}應用於攻擊中,,,
 combat_log_consume_damage_noelement,{0}將{1}應用於攻擊中,,,
 combat_log_consume_damage_target,{0}把{1}交易給{2},,,
-combat_log_consume_element,{0}已消耗,,,
+combat_log_consume_element,{0}已磨損,,,
 combat_log_consume_heal,{0}消耗{1}，附加{2}到治療中,,,
 combat_log_consume_heal_noelement,{0}將{1}應用於治療,,,
 combat_log_consume_move,{0}消耗{1}，附加{2}到移動中,,,
@@ -1616,7 +1616,7 @@ compendium_advantageanddisadvantage_3,攻擊時具有劣勢狀態，將抽取兩
 compendium_advantageanddisadvantage_title,優勢和劣勢,,,
 compendium_adventuremode,"在<color=#BA7956><b>黯淡港灣</b></color>的會長模式中，你是惡魔閘口鎮的傭兵領導者。該地區相當危險，各種怪物氾濫成災，人們根本不敢離開安全的村莊。
 
-你的公會所立定的目標是通過消滅困擾這片土地的邪惡力量，來恢復這些村莊之間的貿易路線 一 然後就能賺很多的錢！",,,
+你的公會所立定的目標是透過消滅困擾這片土地的邪惡力量，來恢復這些村莊之間的貿易路線 一 然後就能賺很多的錢！",,,
 compendium_adventuremode_title,會長模式,,,
 compendium_areaeffects_1,某些能力卡上的某些能力或物品卡上的某些能力，允許你在使用能力時指定多個格子。在這種情況下，牌上將顯示能力作用的範圍。你可以旋轉指定區域，在設置中的""控制"" > ""目標控制""選項中查看快速鍵。,,,
 compendium_areaeffects_2,牌上的紅色格子表示能力作用的格子。,,,
@@ -1640,7 +1640,7 @@ compendium_attackeffects_4,"<b>穿刺 X</b>
 無視目標最多 <b>X</b> 點護盾。
 與其他攻擊附加效果不同，穿刺會在傷害結算階段時進行結算，而不是在結算後附加。",,,
 compendium_attackeffects_5,"<b>多重目標</b>
-如果角色用進攻行動觸發多重目標的附加能力，則角色可以在攻擊範圍內選取額外的目標進行攻擊。攻擊行動本身的所有附加能力和條件也適用於額外選擇的目標（多重目標除外，不會重複套用多重目標）。",,,
+如果角色進行進攻能力時觸發多重目標的附加能力，則角色可以在攻擊範圍內選取額外的目標進行攻擊。攻擊行動本身的所有附加能力和條件也適用於額外選擇的目標（多重目標除外，不會重複套用多重目標）。",,,
 compendium_attackeffects_title,攻擊附加效果,,,
 compendium_attackmodifiers_1,"每次進攻時，每一個單獨的攻擊（針對不同目標）都會依照以下順序計算總傷害：
 
@@ -1727,7 +1727,7 @@ compendium_itemslots,"當不在劇本中時，角色可以在各個部位中配�
 每位角色只能配備一個頭部物品，一個身體物品，一個腳部物品，兩個單手物品或一個雙手物品，和數量不超過角色等級一半（向上取整）的小道具物品。",,,
 compendium_itemslots_title,攜帶部位,,,
 compendium_levellingup_1,在會長模式中，當角色擁有其升級所需的經驗值（在其經驗值量表上顯示），並在世界地圖介面時，該角色可以升級。,,,
-compendium_levellingup_2,升級後，他們的最大生命值將會增加，每個等級他們可以從兩張新能力卡中解鎖一張並獲得該能力卡。此能力卡在接下來的旅行中可以被選擇使用。通過解鎖更多的角色能力卡，你可以升級和自訂角色的能力卡牌庫，讓角色能夠更好地互相搭配，或是進行角色之間的組合技，這也考驗著你的策略能力。,,,
+compendium_levellingup_2,升級後，他們的最大生命值將會增加，每個等級他們可以從兩張新能力卡中解鎖一張並獲得該能力卡。此能力卡在接下來的旅行中可以被選擇使用。透過解鎖更多的角色能力卡，你可以升級和自訂角色的能力卡牌庫，讓角色能夠更好地互相搭配，或是進行角色之間的組合技，這也考驗著你的策略能力。,,,
 compendium_levellingup_title,升級,,,
 compendium_loot_1,"<b>拾取 X</b>
 拾取能力允許單位收集在 <b>X</b> 格內的所有金幣和寶箱。這個動作不受怪物或障礙物的影響，但請注意！該能力只會收集視線內的格子。",,,
@@ -1816,7 +1816,7 @@ compendium_obstacles,"障礙物是房間裡的各種裝飾物所佔據的格子�
 
 某些角色能力可以放置或移動障礙物。這樣做時，玩家不允許將場地完全隔開（使某區域無法通過正常移動進入或離開）。",,,
 compendium_obstacles_title,障礙物,,,
-compendium_positiveconditions_1,"單位可以通過特定能力向自己或盟友附加正面效果。
+compendium_positiveconditions_1,"單位可以透過特定能力向自己或盟友附加正面效果。
 正面效果當滿足移除效果的條件時會被移除。",,,
 compendium_positiveconditions_2,"<b>強壯</b>
 如果單位具有強壯狀態，此單位所有攻擊都具有優勢狀態。
@@ -1826,7 +1826,7 @@ compendium_positiveconditions_3,"<b>隱形</b>
 此單位的下一個輪次結束時，移除隱形狀態。
 怪物會將此單位視為障礙物。",,,
 compendium_positiveconditions_title,正面效果,,,
-compendium_restsandrecoveringcards,"丟棄的牌可以通過進行以下類型的休息來回收到手牌中：
+compendium_restsandrecoveringcards,"丟棄的牌可以透過進行以下類型的休息來回收到手牌中：
 
 <b>1. 短休息：</b>
 能力卡選擇階段，你可以進行短休息。隨機焚燒一張棄牌堆中的牌然後將棄牌堆中剩下的牌回收到手牌中。
@@ -1903,10 +1903,10 @@ compendium_takingdamage_title,承受傷害,,,
 compendium_traps,"當單位移動進入包含陷阱的格子時，會觸發陷阱。
 具有飛行或跳躍附加能力的移動則不會觸發陷阱。
 當陷阱被觸發時，它會造成某些附加效果，然後從場地上移除。
-陷阱也可以通過特定動作拆除，將其場地上移除而不會受到其附加效果。
+陷阱也可以透過特定動作拆除，將其場地上移除而不會受到其附加效果。
 
 將滑鼠游標滑入陷阱上來查看該陷阱的附加效果。
-單位還可能通過能力卡在地圖上建立具有特殊效果的陷阱。",,,
+單位還可能透過能力卡在地圖上建立具有特殊效果的陷阱。",,,
 compendium_traps_title,陷阱,,,
 compendium_usingabilites,"在角色的輪次開始時，你會看到你所選擇的兩張能力卡。你現在可以選擇第一個動作並執行，記住！另一張牌的另一半部就會是第二個動作。
 
@@ -1929,8 +1929,8 @@ compendium_usingitems_1,"根據物品卡上指定的條件，在可以使用時�
 如果將負面效果附加到攻擊中，它就會在攻擊後被施加到防禦方上。單位在同一時間可以使用的物品數沒有限制，任何動作都可以使用與之相關的物品。
 
 在使用後，物品卡會有三種不同狀態，用以下圖示表示：",,,
-compendium_usingitems_2,此圖示代表該裝備在使用後會磨損，磨損後物品暫時無法使用，直到通過長休息或使用能力將它重置。,,,
-compendium_usingitems_3,此圖示代表該裝備在使用後會耗盡，長休息無法重置耗盡的物品，耗盡的物品只能通過特定的能力在劇本裡重置。所有物品都會在劇本結束後回收，所以被耗盡的物品是不會消失的。,,,
+compendium_usingitems_2,此圖示代表該物品在使用後會磨損，磨損後物品暫時無法使用，直到你進行了長休息或使用能力將它重置。,,,
+compendium_usingitems_3,此圖示代表該物品在使用後會耗盡，長休息無法重置耗盡的物品，耗盡的物品只能透過特定的能力在劇本裡重置。所有物品都會在劇本結束後回收，所以被耗盡的物品是不會消失的。,,,
 compendium_usingitems_4,如果物品卡上沒有這些圖示，則不會限制在劇本裡可以使用的次數，除非物品卡上有其他說明。,,,
 compendium_usingitems_title,使用攜帶的物品,,,
 condition,狀態,,,
@@ -2060,7 +2060,7 @@ elementalist_weaknesses,"- <indent=%15>如果沒有其他元素充能者搭配�
 elite,精英,,,
 elitecultist,【精英】異教徒,,,
 emerald marauders,翡翠掠奪者,,,
-empty_string,,,
+empty_string,,,,
 enchantressdialogname,女巫,,,
 english,English,,,
 enhancement,能力卡強化,,,
@@ -2134,9 +2134,9 @@ error_choreo_00035,無法處理擊殺,,,
 error_choreo_00036,無法處理治療,,,
 error_choreo_00037,無法處理被治療,,,
 error_choreo_00038,無法處理無效治療,,,
-error_choreo_00039,無法處理行動者刷新物品卡,,,
-error_choreo_00040,無法處理行動者已刷新物品卡,,,
-error_choreo_00041,無法處理選擇刷新的物品,,,
+error_choreo_00039,無法處理行動者重置物品卡,,,
+error_choreo_00040,無法處理行動者已重置物品卡,,,
+error_choreo_00041,無法處理選擇重置的物品,,,
 error_choreo_00042,無法處理選擇目標焦點,,,
 error_choreo_00043,無法處理行動者確認傷害技能,,,
 error_choreo_00044,無法處理已受傷,,,
@@ -3066,7 +3066,7 @@ event_city_campaign_36_option_b,你們盡全力去制止這場衝突。這裡應
 event_city_campaign_36_result_a_a,你抄起一張長椅，打在那個男人的後背上，把他揍得滿地找牙，之後你們徹底加入了這場混戰。你們團隊中的狂戰土顯露出那種純粹的狂怒，在他的推動下，這場鬥毆只能用“史詩級”來形容，簡直變成了一場慘絕人寰的殘殺。,,,
 event_city_campaign_36_result_a_b,你們加入到混戰之中，打破了不少醉鬼的頭，也損壞了不少桌椅。雖然你們曾見過更嚴重的鬥毆事件，不過酒館老闆可不管這些，在混亂結束之後他仍然非常生氣。,,,
 event_city_campaign_36_result_b_a,你們站出來想要制止這場混亂，但是你們團隊中的狂戰士可沒有這種想法，還沒等你們說話，她便沖了上去，痛毆了那個男人。之後狂戰士便進入了狂亂的狀態，你們只得在她平息之後為做出的損壞向酒館老闆賠償。,,,
-event_city_campaign_36_result_b_b,雖然費了一番功夫， 不過你們還是讓那個艾諾克斯冷靜下來，然後通過提供免費的酒水說服了酒館裡其他的客人。酒館老闆看上去總算松了一口氣。,,,
+event_city_campaign_36_result_b_b,雖然費了一番功夫， 不過你們還是讓那個艾諾克斯冷靜下來，然後透過提供免費的酒水說服了酒館裡其他的客人。酒館老闆看上去總算松了一口氣。,,,
 event_city_campaign_37_intro,"當你們完成最近一次冒險回到黯淡港灣的時候，發現城牆上濃煙四起。穿過破碎的城門，你們見到有許多市民正從一場災難性的打擊當中恢復過來，這片景象讓人感到非常絕望。
 
 “是惡魔，”城門邊一個受傷的衛兵對你們說道，“如果他們襲擊的時候，你們在這幫忙那狀況就不會這樣了。不過幸運的是城裡其它地方還是安然無恙的。",,,
@@ -3118,7 +3118,7 @@ event_city_campaign_40_intro,"正當你們在鍋爐街區採購補給的時候�
 event_city_campaign_40_option_a,沖過去救助傷者並且幫忙撲滅大火。,,,
 event_city_campaign_40_option_b,沖過去追趕那個戴兜帽的人影，讓他對這次襲擊做出解釋。,,,
 event_city_campaign_40_result_a_a,你們隊伍中的一些人立刻沖上去開始照顧傷者，給他們的傷口包紮，然後遞上藥水。,,,
-event_city_campaign_40_result_a_b,你們隊伍中的一些人開始通過控制元素來説明滅火，成功阻止了火勢的蔓延，控制了受損的範圍。,,,
+event_city_campaign_40_result_a_b,你們隊伍中的一些人開始透過控制元素來説明滅火，成功阻止了火勢的蔓延，控制了受損的範圍。,,,
 event_city_campaign_40_result_a_c,你們盡力提供幫助，但是因為缺少相應的知識和能力，並沒有幫上太多的忙。,,,
 event_city_campaign_40_result_b,你們迅速沖出去，然後一路狂奔進行追趕。那個人影向著城牆跑去，然後開始爬上樓梯。你們雖然不斷地與他縮小差距，但還是無奈地看著他翻過牆頭，向城外跳去。然而你猛衝上去，抓住了他的袍子，他的身子笨拙地扭動起來，然後從袍子中滑了出來。你們伸頭看向城牆下面，發現那個男人頭先著地砸在地上，之後再也沒有爬起來。,,,
 event_city_campaign_41_intro,"沉陷市集是一塊有著各式破舊房屋，還有許多無法在別處售賣貨物的商人所聚集的區域。所以當一個瘦成皮包骨的魔鼠拿著一個小麻袋向你們靠近時，你們並不驚訝。
@@ -3160,7 +3160,7 @@ event_city_campaign_44_intro,"清晨一陣敲門聲將你們吵醒，應門後�
 他撓了撓頭繼續說道：“看來她已經不在這座城市了。在這種情況下，你們知不知道有什麼人能頂替她，以便協助我完成工作呢?”",,,
 event_city_campaign_44_option_a,提出由你們來幫忙這個鐵匠的工作。,,,
 event_city_campaign_44_option_b,讓他去找元力公會的薩維斯，然後繼續回房間睡覺。,,,
-event_city_campaign_44_result_a_a,儘管現在時間還早，你們還是決定和這個艾諾克斯來到他的鐵匠鋪，通過元素之力給他升起了熊熊大火，協助他完成了工作。他看上去非常開心。,,,
+event_city_campaign_44_result_a_a,儘管現在時間還早，你們還是決定和這個艾諾克斯來到他的鐵匠鋪，透過元素之力給他升起了熊熊大火，協助他完成了工作。他看上去非常開心。,,,
 event_city_campaign_44_result_a_b,你們跟著這個艾諾克斯來到了他的鐵匠鋪，但是你們絲毫沒有操縱和控制火焰的天份，看到這種情形，那個艾諾克斯被嚇得目瞪口呆。,,,
 event_city_campaign_44_result_b,“啊，沒錯，這也是一個可行的辦法，”他說道，“很抱歉佔用了你們寶貴的時間，希望你們那個織魔師朋友一切安好。”,,,
 event_city_campaign_45_intro,"“你們幾個！站住！”
@@ -3203,7 +3203,7 @@ event_city_campaign_48_option_a,在很不情願的情況下，給了他一點錢
 event_city_campaign_48_option_b,拒絕為這封信付錢。,,,
 event_city_campaign_48_result_a_a,你們扔了幾枚金幣給那個小哥，然後接過了信件。裡面除了給你們的信函之外還有一枚表面雕刻著太陽圖案的微章。顯然你們昔日的守日者盟友認為這個東西也許在未來能為你們的冒險旅程提供幫助。但是她沒有說明這個東西究竟該如何使用，從表面看沒發現它有什麼用處。於是你們就把這枚徽章與其他東西一同隨意扔進行李之中。,,,
 event_city_campaign_48_result_a_b,你們掏了一掏口袋，想要拿錢給這個信使，但是口袋裡面空空如也。這個小哥一臉氣憤，於是默默地離開了。,,,
-event_city_campaign_48_result_b,你們煩躁地嘲笑了幾聲，然後把這個小哥從身邊推開。他剛想張嘴抗議之時，仔細想了一想之後還是轉身跑走了。你們通過此事向這位商人展示了你們極其節儉的一面，然後繼續與他討價還價。,,,
+event_city_campaign_48_result_b,你們煩躁地嘲笑了幾聲，然後把這個小哥從身邊推開。他剛想張嘴抗議之時，仔細想了一想之後還是轉身跑走了。你們透過此事向這位商人展示了你們極其節儉的一面，然後繼續與他討價還價。,,,
 event_city_campaign_49_intro,"“你們的朋盟友需官讓我來的。”你們滿面疑惑地看著這個站在門口的瓦拉斯。
 
 “我是從首都來的，平時做些盔甲和武器的生意，”他說道，“我打算和黯淡港灣的軍方簽訂一筆合同，我們的朋友說過你們平時和軍方有工作上的往來。他建議我到城裡之後，先來拜訪你們。”
@@ -3313,7 +3313,7 @@ event_city_campaign_57_option_a,為這封信付錢。,,,
 event_city_campaign_57_option_b,拒絕為這封信付錢。,,,
 event_city_campaign_57_result_a_a,你們拆開信件，發現這是元素大師前盟友寄過來的，它之前乘船去了東方大陸，想要繼續鑽研元素之道。在此期間，它花了一些時間研製了一把威力強大的法杖，並且想和你們分享他的構思。,,,
 event_city_campaign_57_result_a_b,你們掏了一掏口袋，想要拿錢給這個信使，但是口袋裡面空空如也。這個小哥一臉氣憤，於是默默地離開了。,,,
-event_city_campaign_57_result_b,你們煩躁地嘲笑了幾聲，然後把這個小哥從身邊推開。他剛想張嘴抗議之時，仔細想了一想之後還是轉身跑走了。你們通過此事向這位商人展示了你們極其節儉的一面，然後繼續與他討價還價。,,,
+event_city_campaign_57_result_b,你們煩躁地嘲笑了幾聲，然後把這個小哥從身邊推開。他剛想張嘴抗議之時，仔細想了一想之後還是轉身跑走了。你們透過此事向這位商人展示了你們極其節儉的一面，然後繼續與他討價還價。,,,
 event_city_campaign_58_intro,"“他們少說也有五十隻，我對天發誓！他們把我的夥伴逐一撕成粉碎！”
 
 你們向吧台那邊看去，有一幫醉鬼正在嘲笑著一個衣衫襤褸的男子，而他正坐在那幫人的中間講述著故事。
@@ -3635,7 +3635,7 @@ event_city_campaign_9_intro,"徹夜狂飲之後，你們在後巷裡瞎轉，完
 這些東西在沉陷市集能賣個好價錢，或者你們可以把它們交給城鎮守衛團，畢竟他們總是缺少武器與物資供給。",,,
 event_city_campaign_9_option_a,賣了這些東西。,,,
 event_city_campaign_9_option_b,把它們捐獻給城市。,,,
-event_city_campaign_9_result_a,通過幾次不怎麼光彩的交易，你們很快就把這些貨物脫手賣了一個好價錢。誰曾想到一次酒後的閒逛會讓你們發一筆橫財呢？,,,
+event_city_campaign_9_result_a,透過幾次不怎麼光彩的交易，你們很快就把這些貨物脫手賣了一個好價錢。誰曾想到一次酒後的閒逛會讓你們發一筆橫財呢？,,,
 event_city_campaign_9_result_b,你們回到住所，睡了一夜等待酒醒之後，找到了城鎮守衛團的隊長。“這真是個極好的消息！最近，城市遭到了越來越頻繁的襲擊，鐵匠的工作效率就快跟不上我們對武器的需求，你們捐贈的武器正好補上缺口；而如果城市被圍攻的話，這些風乾食物也可以派上用場。你們真的是幫了這座城市一個大忙。,,,
 event_duel,"你聽到叮噹的響聲，聽起來像是前面正在發生一場戰鬥。當你走近的時候，你看到一個石人和一個艾諾克斯人正在激烈的決鬥。
 
@@ -3867,7 +3867,7 @@ event_road_campaign_27_intro,"走在小樹林和陡峭懸崖之間的小路上�
 樹的位置看起來很奇怪，你又警惕又懷疑的看著這個情況。",,,
 event_road_campaign_27_option_a,把路上的樹清除掉。這是最好的法子，也可以幫助其他旅行者。,,,
 event_road_campaign_27_option_b,花點時間在樹的周圍找條路。,,,
-event_road_campaign_27_result_a_a,這些樹木過於龐大和密集，無法通過傳統的方法清除，但是在自然力量的作用下，它們很快就被摧毀並被掃到一旁。,,,
+event_road_campaign_27_result_a_a,這些樹木過於龐大和密集，無法透過傳統的方法清除，但是在自然力量的作用下，它們很快就被摧毀並被掃到一旁。,,,
 event_road_campaign_27_result_a_b,這些樹並不是埋伏的一部分，但清除它們也是非常不容易的。這是一項及其辛苦的工作，當你到達目的地時，你已經精疲力竭了。,,,
 event_road_campaign_27_result_b,你繞過被砍伐的樹木進入到旁邊的灌木叢中，但這也很艱難。灌木叢生長的非常密集，而且裡面有許多荊棘要對付。,,,
 event_road_campaign_28_intro,"沿著土路前行，你們看到一個面容難辨的傭兵正坐在一片草叢中。當你們路過時他向你點頭致意。
@@ -4193,7 +4193,7 @@ event_road_campaign_57_option_b,掩飾你們的不便，並且委婉拒絕它的
 event_road_campaign_57_result_a,"這個薩維斯聚精會神地把自己的手放在你們的額頭上。突然間你們感覺到一股暖意覆蓋全身，而且距離你們十尺之內的濃霧也同時消散了。
 
 “行了。這就能讓你們輕鬆不少。這個效果能夠持續到濃霧完全消散為止。祝你們今天過得愉快。”",,,
-event_road_campaign_57_result_b,"“啊，我明白了，”那個原生族說道，“比起走捷徑，你們更願意通過艱苦的鍛煉來讓自身得到成長。真是值得贊許。”
+event_road_campaign_57_result_b,"“啊，我明白了，”那個原生族說道，“比起走捷徑，你們更願意透過艱苦的鍛煉來讓自身得到成長。真是值得贊許。”
 
 那個薩維斯拍了拍你的後背，“很好，那就開始繼續走吧！說到底這只不過是層霧而已，你們可以挺過去的。”",,,
 event_road_campaign_58_intro,"即便盡了最大的努力，你們還是發現自己在森林裡迷了路。你們以為自己是在走捷徑，結果轉身便迷失了方向。
@@ -4310,7 +4310,7 @@ event_road_campaign_67_intro,"在距離黯淡港灣不遠的大路上，你們�
 
 “哦，有那麼一瞬間我還以為你們是強盜呢，”那個商人說道，“但是我現在看得出你們是來自城裡的傭兵，對吧？真是太好了！關於黯淡港灣傭兵的傳聞我聽過有不少好事呢。雖然傳聞來自那個荒蠻的地方讓人有點難以置信，不過那些傳聞都是真的，對吧？”",,,
 event_road_campaign_67_option_a,向商人提議護送他到黯淡港灣來展示你們的美德。,,,
-event_road_campaign_67_option_b,通過搶劫這個商人來展示你們到底有多麼缺德。,,,
+event_road_campaign_67_option_b,透過搶劫這個商人來展示你們到底有多麼缺德。,,,
 event_road_campaign_67_result_a,"“呃，其實...我，我不想麻煩你們。不過，我是說，好吧，儘管我很想與你們結伴同行，但我不會付你們錢的。說真的要我獨自一人在東方大道上趕路實在是太可怕了。”
 
 你們陪伴他回到城裡，雖然路途沒多遠，但是這名商人看上去非常感激。“我深受感動，先生們，當我回到首都之後一定會告訴每個人黯淡港灣是做生意的安全之地。”",,,
@@ -4748,7 +4748,7 @@ glossary_move,移動： “移動 X”能力卡使得一名單位在地圖上移
 glossary_movedefault,基礎前進：放棄使用卡的底部行動，並進行一個“移動 2”的行動。此行動依然棄牌。,,,
 glossary_muddle,混亂： 混亂的單位將會在他所有的攻擊中陷入攻擊劣勢。混亂狀態在被施法單位下一輪次結束時被移除。,,,
 glossary_noenhancement,這個能力卡以後可以被提升，變得更加強力。,,,
-glossary_permanentlylost,永久焚燒：表示這張卡不能從燼牌堆中通過任何方式回手。,,,
+glossary_permanentlylost,永久焚燒：表示這張卡不能從燼牌堆中透過任何方式回手。,,,
 glossary_persistent,持續性效果獎勵：表示這個效果的持續過程沒有限期或者持續到卡上指定的條件被滿足。,,,
 glossary_pierce,穿透：“穿透 X”攻擊附加效果忽視多達X點的目標護甲值。,,,
 glossary_poison,中毒：敵人在所有對中毒單位的攻擊中附加+1攻擊力。治療技能能醫療中毒狀態但是沒有任何其他效果（例如不回血）。,,,
@@ -4757,7 +4757,7 @@ glossary_push,強推：“強推 X”攻擊附加效果或技能造成目標被�
 glossary_range,射程：“射程 X”的技能代表目標必須在X格距離內。 此外，任何遠端技能都必須在單位的視線範圍內進行。,,,
 glossary_recover,回手（回牌）：使得角色一定數量的棄牌堆（某些技能含燼牌堆）的一些卡回到他們手中。,,,
 glossary_redhex,紅格子顯示了技能效果的攻擊範圍 一 紅格子範圍上的目標將會被技能擊中。,,,
-glossary_refresh,刷新：允許角色重新獲得一定數量乃至所有的“耗用（可通過長休息刷新）”和/或“耗竭（不可通過長休息刷新）”的物品。,,,
+glossary_refresh,重置：允許角色重新獲得一定數量乃至所有的“耗用（可透過長休息重置）”和/或“耗竭（不可透過長休息重置）”的物品。,,,
 glossary_rest,0,,,
 glossary_retaliate,反傷：所有單位反傷射程內的攻擊方將會直接受到X點反傷傷害。如果射程值未指定，那麼僅對相鄰的攻擊方起作用。多個反傷效果將會疊加。,,,
 glossary_round,回合效果獎勵：表示這個效果持續到回合結束。,,,
@@ -4871,9 +4871,9 @@ gui_assembly_items,倉庫中的物品,,,
 gui_assembly_party_description,組織一個傭兵團隊開始冒險,,,
 gui_assembly_party_invalid_name,你必須在開始之前先命名團隊,,,
 gui_assembly_party_lock1,"<color=#E6C88AFF>鎖住的</color>
-通過擊敗第一個Boss解鎖第三個團隊隊員槽",,,
+透過擊敗第一個Boss解鎖第三個團隊隊員槽",,,
 gui_assembly_party_lock2,"<color=#E6C88AFF>鎖住的</color>
-通過擊敗第二個Boss解鎖第四個團隊隊員槽",,,
+透過擊敗第二個Boss解鎖第四個團隊隊員槽",,,
 gui_assembly_party_remove_hero,移除角色,,,
 gui_assembly_party_repeated_name,換一個名字。你不能在兩個不同的團隊上使用相同的名字。,,,
 gui_assembly_party_reveal_character,揭曉傭兵,,,
@@ -4898,7 +4898,7 @@ gui_begin,開始,,,
 gui_bind_equip_item_confirmation,<color=#C53F3F>解除綁定的花費：</color><color=#FCC954><sprite name=""Gold_Icon_White"" color=#FCC954> {0}</color>,,,
 gui_bind_equip_item_confirmation_title,綁定並配備物品,,,
 gui_bind_item,綁定物品,,,
-gui_bind_item_error_confirmation_title,無法裝備物品,,,
+gui_bind_item_error_confirmation_title,無法配備此物品,,,
 gui_bind_item_error_repeated,傭兵每個同名的物品只可以擁有一份,,,
 gui_bind_move_item_confirmation,"已綁定：<color=#{0}>{1}</color><size=140%><sprite name=""{2}"" color=#{0}></size>
 <color=#C53F3F>綁定給{3}的花費：</color><color=#FCC954><sprite name=""gold_icon_white"" color=#fcc954>{4}</color>",,,
@@ -5006,9 +5006,9 @@ gui_confirmation_sell,出售{0},,,
 gui_confirmation_sell_equipped,{0}當前被{1}裝備，無論如何都要出售？,,,
 gui_confirmation_sell_receive,收到：,,,
 gui_confirmation_skip_ftue,"黯淡港灣是一個需要入門學習的遊戲
-在正式開始前，建議你通過整個教學",,,
+在正式開始前，建議你進行整個教學",,,
 gui_confirmation_skip_mission,"黯淡港灣是一個需要入門學習的遊戲
-在正式開始前，建議你通過整個教學",,,
+在正式開始前，建議你進行整個教學",,,
 gui_confirmation_start_adventure,開始一段旅程,,,
 gui_confirmation_turn_off_tutorial,你關閉了教學，將無法繼續它，除非你建立一個新遊戲並重新開始。,,,
 gui_confirmation_turn_off_tutorial_multiplayer,多人遊戲已開始，教學將會關閉。,,,
@@ -5329,12 +5329,12 @@ gui_how_to_play,簡易規則書,,,
 gui_improved_short_rest_active_bonus_tooltip,"在你的下一輪次期間，短休息將會擁有長休息的所有好處：
 -  <indent=%15>選擇焚燒一張棄牌堆的牌排並將所有其他棄牌堆的牌回手。</indent>
 -  <indent=%15>治療自身2滴血。</indent>
--  <indent=%15>刷新所有損耗的物品。</indent>",,,
+-  <indent=%15>重置所有損耗的物品。</indent>",,,
 gui_improved_short_rest_title_tooltip,無法停止的破壞,,,
 gui_improved_short_rest_tooltip,"在這段輪次時，短休息將會擁有長休息的所有好處：
 -  <indent=%15>選擇一個丟棄的牌以焚燒並回收所有其他丟棄的牌。</indent>
 -  <indent=%15>治療2自我。</indent>
--  <indent=%15>刷新所有損耗的物品。</indent>",,,
+-  <indent=%15>重置所有損耗的物品。</indent>",,,
 gui_inox_preview,此外，一群叛逆的艾諾克斯戰士在森林中建立了一個基地，並正在襲擊當地的人口。前往他們的位置，把它們帶走！,,,
 gui_inox_win,隨著艾諾克斯死去，這個區域再次安全的攻擊。希望在剩下之前，你拿起了一個大斧頭？,,,
 gui_inventory,倉庫,,,
@@ -5357,7 +5357,7 @@ gui_item_cards_legs,腳部卡,,,
 gui_item_cards_none,無卡,,,
 gui_item_cards_smallitem,小道具卡,,,
 gui_item_equipped_different_slot,裝備進槽中<color=#F1DBAEFF> {0}</color>,,,
-gui_item_gui_item_slot_smallitem_locked_description,通過將此角色升級到{0}等來解鎖此物品欄位,,,
+gui_item_gui_item_slot_smallitem_locked_description,透過將此角色升級到{0}等來解鎖此物品欄位,,,
 gui_item_gui_item_slot_smallitem_locked_mystery,怎麼解鎖這個槽？,,,
 gui_item_reputation_discount_tooltip,"<color=#{3}><rotate={4}><sprite name=""ReputationLevel_Icon"" color=#{3}></rotate>名聲修正：{2}<sprite name=""Gold_Icon_White"" color=#{3}></color>
 {1}<sprite name=""Gold_Icon_White""> + <color=#{3}><rotate={4}><sprite name=""ReputationLevel_Icon"" color=#{3}></rotate>{2}</color> = <color=#FCC954FF>{0}<sprite name=""Gold_Icon_White"" color=#FCC954FF></color>",,,
@@ -5836,7 +5836,7 @@ gui_passive_attributes,被動能力,,,
 gui_passive_attributes_description,被動能力允許角色無視特定的負面效果,,,
 gui_perform_long_rest,進行長休息,,,
 gui_perk_check_tooltip,"<size=+2><color=#EACF8C>專精</color></size>
-通過完成戰鬥目標贏得專精點數<sprite name=""PerkPoint_Icon"">。
+透過完成戰鬥目標贏得專精點數<sprite name=""PerkPoint_Icon"">。
 每當賺取3點專精點數，你都可以選擇一個專精解鎖。",,,
 gui_perk_modifier_add,加入,,,
 gui_perk_modifier_remove,移除,,,
@@ -5914,8 +5914,8 @@ gui_quest_treasures_reward,{0} Treasure Chest,,,
 gui_ready,準備好！,,,
 gui_ready_town_records,城鎮記錄,,,
 gui_redraw_card,"重抽<color=""red"">（<sprite name=""Attack"" tint=1 >1 目標為自己）",,,
-gui_refresh_items_tip,刷新物品,,,
-gui_refresh_items_title,選擇要刷新的物品,,,
+gui_refresh_items_tip,重置物品,,,
+gui_refresh_items_title,選擇要重置的物品,,,
 gui_refresh_mods,更新Mod,,,
 gui_remove,刪除,,,
 gui_remove_player,移除玩家,,,
@@ -6057,7 +6057,7 @@ gui_tooltip_activebonus_target_selection_137,選擇目標以加入+3攻擊 <spri
 gui_tooltip_add_doom,打出一個厄運將移除任何其他場地上的厄運並丟棄它們。,,,
 gui_tooltip_add_target_modifier,加入目標的攻擊修正卡,,,
 gui_tooltip_add_target_modifier_tip,作為攻擊的一部分，既然你抽到了“附加目標”攻擊修正卡的一部分。在有效的格子中選擇一個額外的目標進行攻擊。,,,
-gui_tooltip_additional_target_effect,<color=#A050E0>{0}：</color>選擇額外的目標。,,,
+gui_tooltip_additional_target_effect,<color=#32E632>{0}：</color>選擇額外的目標。,,,
 gui_tooltip_attack_modifiers,"<color=#F1DBAE>攻擊修正卡牌庫：</color>
 每當角色攻擊時，抽取一張攻擊修正卡，並且將數值修正套用到此次攻擊中。
 右側浮動面板顯示了攻擊修正卡牌庫內，各數值牌的分佈狀況。",,,
@@ -6065,8 +6065,8 @@ gui_tooltip_choose_doom_discard,選擇兩個厄運來打擊目標。另一個將
 gui_tooltip_choose_doom_transfer,選擇將一個厄運來轉移到另一個敵人。另一個將被丟棄。,,,
 gui_tooltip_consuming_available,點擊此處以增強此行動，此過程中將消耗元素。,,,
 gui_tooltip_consuming_clicked,這一行動將被元素增強。可點擊右邊的元素增強按鈕以取消增強並放走元素。,,,
-gui_tooltip_consuming_disabled,該行動可以通過消耗元素來增強。你只能在角色輪次期間並且已經充能了所需的元素時執行此行動。,,,
-gui_tooltip_consuming_unavailable,該行動可以通過消耗元素來增強。首先，使用某些行動來充能所需的元素。,,,
+gui_tooltip_consuming_disabled,該行動可以透過消耗元素來增強。你只能在角色輪次期間並且已經充能了所需的元素時執行此行動。,,,
+gui_tooltip_consuming_unavailable,該行動可以透過消耗元素來增強。首先，使用某些行動來充能所需的元素。,,,
 gui_tooltip_deal_damage,選擇【承受傷害】、【焚燒一張手牌】或【焚燒兩張棄牌堆的牌】。,,,
 gui_tooltip_deal_damage_companion,選擇對{0}的傷害結算方式，焚燒一張{1}的手牌或著兩張棄牌堆的牌。,,,
 gui_tooltip_deal_damage_mandatory_use,如果會承受 <b>1</b> 點以上的傷害，則必須使用,,,
@@ -6251,7 +6251,7 @@ intro_merchant,請記住，每個傭兵都有自己的金幣儲備和個人背�
 intro_perkcheck,獲得三個<color=#EACF8C>專精點數</color>將解鎖一個<color=#EACF8C>專精</color>。專精是非常好用的東西，因為這可以讓你調整傭兵的攻擊修正牌堆。,,,
 intro_perkspanel_1,"幹得不錯！你已經解鎖了一項專精，這玩意兒可是很難得的！
 通關地城和完成所選的戰鬥目標將使傭兵獲得專精點數，收集三點專精點數將<color=#EACF8C>解鎖一個專精 </color>。
-你也可以通過升級傭兵來解鎖一個專精專案。",,,
+你也可以透過升級傭兵來解鎖一個專精專案。",,,
 intro_perkspanel_2,專精使你可以<color=#EACF8C>改變一個傭兵的攻擊修正卡牌庫</color>，包含加入新的強力攻擊修正卡，或者移除那些戰鬥中不斷讓人不爽的負面攻擊修正卡。,,,
 intro_personalquest_1,"個人任務是傭兵<color=#EACF8C>冒險的唯一理由</color>。
 一旦個人任務的目標被完成，傭兵將會退休。
@@ -6314,7 +6314,7 @@ item_drakescaleboots,你不受困難地形和危險地形的影響。,,,
 item_drakescalehelm,任何時候，當你獲得混亂<sprite name=Muddle>時，則改為獲得強壯<sprite name=Strengthen>。,,,
 item_eagleeyegoggles,"【你的<color=#1F9EDC>進攻</color>中】
 本次能力：具有優勢狀態",,,
-item_empoweringtalisman,【你的輪次中】<nobr>重置<sprite name=Refresh></nobr>自身一個已消耗<sprite name=InvSmallItem>小道具。,,,
+item_empoweringtalisman,【你的輪次中】<nobr>重置<sprite name=Refresh></nobr>自身一個已磨損<sprite name=InvSmallItem>小道具。,,,
 item_endurancefootwraps,若在你自己的輪次中的移動了4個或更多格子，則進行一次<nobr>“治療<sprite name=Heal>1，自身”</nobr>行動。,,,
 item_falconfigurine,召喚玉鷹,,,
 item_fleabittenshawl,當敵人進行攻擊目標判定時，你的優先權始終視為 <b>99</b>。,,,
@@ -6516,7 +6516,7 @@ item_orbofdawn,"【你的輪次中】
 消耗<nobr>黑暗元素<sprite name=ConsumeDark>並充能<nobr>光明元素<sprite name=Light>",,,
 item_orboftwilight,"【你的輪次中】
 消耗<nobr>光明元素<sprite name=ConsumeLight></nobr>並充能<nobr>黑暗元素<sprite name=Dark></nobr>",,,
-item_pendantofdarkpacts,【你的輪次中】<nobr>重置<sprite name=Refresh></nobr>自身2個已消耗<sprite name=InvSmallItem>小道具。獲得<nobr>詛咒<sprite name=Curse></nobr>。,,,
+item_pendantofdarkpacts,【你的輪次中】<nobr>重置<sprite name=Refresh></nobr>自身2個已磨損<sprite name=InvSmallItem>小道具。獲得<nobr>詛咒<sprite name=Curse></nobr>。,,,
 item_piercingbow,"【你的遠程<color=#1F9EDC>進攻</color>中】
 本次能力：無視防禦方的<nobr>護盾<sprite name=Shield></nobr>能力",,,
 item_platemail,在下五次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
@@ -6666,21 +6666,21 @@ livingspiritelite,【精英】復生的精神體,,,
 loading_tip_001,儘量選擇承受傷害，損失生命值，而不是選擇焚燒牌來抵擋傷害 一 比起恢復燼牌堆的牌，恢復生命值更容易！,,,
 loading_tip_002,注意陷阱！它們會不定時發光讓你更容易發現它們。,,,
 loading_tip_003,你可以使用強推和拉近能力來強迫敵人觸發陷阱。,,,
-loading_tip_004,你可以通過按住Tab來突顯關卡中的可互動的物件。,,,
-loading_tip_005,你可以通過按住Alt來查看所有傭兵的手牌和物品。,,,
+loading_tip_004,你可以透過按住Tab來突顯關卡中的可互動的物件。,,,
+loading_tip_005,你可以透過按住Alt來查看所有傭兵的手牌和物品。,,,
 loading_tip_006,使用R鍵來旋轉範圍攻擊的攻擊區域，以便與能更好地指定到敵人們的位置。,,,
 loading_tip_007,不要只專注於你自己，也要和你其他的團隊成員一起配合。,,,
 loading_tip_008,卡頂部的移動能力和底部的攻擊能力並不常用，但在某些特殊情況下也不失為一種選擇。,,,
 loading_tip_009,如果你發現當前關卡過難或過於簡單，你可以隨時根據自己的喜好調整難度。,,,
 loading_tip_010,仔細考量在一個回合中是早點行動還是晚點行動 一 有時讓敵人先向你移動會對你更有利。,,,
-loading_tip_011,你可以通過按住Tab來查看相同種類的敵人們之間行動的次序。,,,
-loading_tip_012,你可以通過消耗元素來增強一個技能。在確認技能釋放之前，點擊元素選擇框使用對應元素。,,,
+loading_tip_011,你可以透過按住Tab來查看相同種類的敵人們之間行動的次序。,,,
+loading_tip_012,你可以透過消耗元素來增強一個技能。在確認技能釋放之前，點擊元素選擇框使用對應元素。,,,
 loading_tip_013,當你打開一扇門時，準備好面對更多的敵人！,,,
 loading_tip_014,在出發前選擇好你的團隊 一 一旦出發後，你將無法再更換團隊成員。,,,
 loading_tip_015,對於那些在會長模式中非常艱難的任務，你可以考慮先在寺廟中祈求祝福。,,,
 loading_tip_016,你有機會在會長模式的職業任務中遇到一個寶箱！在完成劇本目標前務必把寶箱收集來！,,,
 loading_tip_017,當裝備新物品時請注意 一 它們將會綁定到那個傭兵身上。如果你想換到其他人身上，則必須支付一些費用解除綁定。,,,
-loading_tip_018,你可以通過完成成就解鎖更多附魔類型，也可以通過探索地圖為每個傭兵解鎖更多的附魔槽。,,,
+loading_tip_018,你可以透過完成成就解鎖更多附魔類型，也可以透過探索地圖為每個傭兵解鎖更多的附魔槽。,,,
 loading_tip_019,會長模式的旅行和職業任務等級將會隨著遊戲的進行而改變。故事和遺物任務往往更難！,,,
 loading_tip_020,不是所有通關劇本的方式都是消滅所有敵人 一 請務必檢查你的劇本目標。,,,
 loading_tip_021,召喚夥伴很有用，但它們往往比較莽撞 一 若想讓它們活下來，就得幫它們吸引火力！,,,
@@ -6709,7 +6709,7 @@ loading_tip_043,詛咒卡有10張的上限，此規則分別適用於傭兵的�
 loading_tip_044,所有的攻擊修正牌堆有一個共用的祝福卡堆上限（10張）。當場地上的祝福卡達到10張上限，試圖向任一攻擊修正牌堆加入第1一張祝福卡，都是無效的！,,,
 loading_tip_045,僅剩下兩張牌在棄牌堆中？短休息將導致你直接出局，但長休息至少能讓你在本回合做一個坦！,,,
 loading_tip_046,遊戲時多喝水，保持水分充足！,,,
-loading_tip_047,你可以通過按住數字鍵1-4來查看對應角色的所有卡。,,,
+loading_tip_047,你可以透過按住數字鍵1-4來查看對應角色的所有卡。,,,
 loading_tip_048,如果一個非攻擊性角色試圖移動到一個位置但路線被阻擋不可達，那麼該角色將不會移動。,,,
 loading_tip_049,你可以選擇讓你的團隊裡有2個、3個或者4個傭兵 一 但如何計算劇本的困難程度取決你帶了多少人。,,,
 loading_tip_050,在道路和城市遭遇中做出的選擇可能會影響世界線的走向，導致新的任務和事件觸發。,,,
@@ -6724,7 +6724,7 @@ loggingcamp_descr,在附近叢林的多次艾諾克斯掠奪之後，這個營�
 longrest_burn,焚燒 <sprite name=Lost><br>一張棄牌堆的牌用以將<br>所有棄牌堆的牌回手。,,,
 longrest_footer,由於選擇長休息，你這一輪<br>不能選擇其他卡。,,,
 longrest_heal,<size=130%><b>治療<sprite name=Heal> 2</b></size><br>目標為自己,,,
-longrest_refresh,刷新<sprite name=Refresh>所有你用盡的物品卡。,,,
+longrest_refresh,重置<sprite name=Refresh>所有你用盡的物品卡。,,,
 loot,拾取,,,
 lostcatacombs,失落的地下墓穴,,,
 lostcrypt,失落的墓室,,,
@@ -6983,7 +6983,7 @@ message_end_quest_story_plagueherald_1_3,不，我們就是為了賺錢。無論
 message_end_quest_story_plagueherald_1_4,實際上，瘟疫使者說它的巢穴會指引踏它前往另一個在古老神廟中的巢穴，那個巢穴中可能會擁有幫助完成解藥的知識 一 我們會跟他一起去。,,,
 message_end_quest_story_plagueherald_1_5,在你問之前我先告訴你，神廟裡充滿了巢穴不需要的失落寶藏。,,,
 message_end_quest_story_plagueherald_1_6,......好。我會去的。但我得拿走所有我找到的寶藏才行。,,,
-message_end_quest_story_plagueherald_2_1,我直接告訴你了。瘟疫使者通過‘食用死掉的蟲子’知道了那邊發生的是事情，然後就在研究中取得了突破？,,,
+message_end_quest_story_plagueherald_2_1,我直接告訴你了。瘟疫使者透過‘食用死掉的蟲子’知道了那邊發生的是事情，然後就在研究中取得了突破？,,,
 message_end_quest_story_plagueherald_2_2,也不完全是吧。巢靈族是大群的昆蟲組成的有感情的集群。在瘟疫使者帶著死去的巢穴昆蟲進去的時候，他們成功地進行了交流。,,,
 message_end_quest_story_plagueherald_2_3,好吧......額。我不該問那個問題。至少我們最後得到它需要的東西了嗎？,,,
 message_end_quest_story_plagueherald_2_4,沒錯，瘟疫使者說現在離咒語的完成已經很近了。那本書中有絕妙的信息。,,,
@@ -7129,7 +7129,7 @@ message_end_quest_travel_schoolofthegreatoak_2,我不理解為什麼一群治療
 message_end_quest_travel_scurvybay_1,通常來說我都是盡力遏制犯罪行為，當然，我還是決定看看這些強盜給你提供了什麼。,,,
 message_end_quest_travel_scurvybay_2,他們只是給我扔了一個烈性炸彈。我還是不確定這到底是個禮物還是禍害。,,,
 message_end_quest_travel_scurvybay_3,不管怎樣，至少它還沒爆炸。它現在在我這裡，但我建議你加快腳步。,,,
-message_end_quest_travel_shaderest_1,我和當地的飾品製造者達成了協定做了一些有趣的護身符。來看看吧，說不定能派上用場。,,,
+message_end_quest_travel_shaderest_1,我和當地的飾品製造者達成了一筆交易，製作了一些有趣的護身符。過來看看吧！說不定有你感興趣的東西。,,,
 message_end_quest_travel_shadowfieldmanor_1,今天早上我收到了快遞包裹，是一個精美的珠寶。但是每次我看它我胃裡都翻江倒海。可能代表你才能找到它的用途！,,,
 message_end_quest_travel_shimmeringshallows_1,在你離開後，我逃到了鎮上，遇到了一個友好的老漁婦。,,,
 message_end_quest_travel_shimmeringshallows_2,真相大白！這個小鎮愛上了釣魚，而她愛上了，誒，愛上了我。我正準備只帶著衣物和...長矛逃跑。,,,
@@ -7230,7 +7230,7 @@ message_start_quest_boss_mercilessoverseer_4,也許你認為守日者的鑰匙�
 message_start_quest_boss_mercilessoverseer_5,難道不值得試一試嘛？,,,
 message_start_quest_boss_sightlesseye_1,夜引者的研究完成了，他告訴我腐化的起源是在其最中心的生物。,,,
 message_start_quest_boss_sightlesseye_2,那會是在南部附近的火山岩石崖嗎？,,,
-message_start_quest_boss_sightlesseye_3,他還認為那些生物能夠通過排泄進行不完全地溝通，如果我們能夠克隆它們，就找找到它們的老巢。,,,
+message_start_quest_boss_sightlesseye_3,他還認為那些生物能夠透過排泄進行不完全地溝通，如果我們能夠克隆它們，就找找到它們的老巢。,,,
 message_start_quest_boss_sightlesseye_4,我認為我從沒聽過比這更噁心的東西,,,
 message_start_quest_boss_sightlesseye_5,我在深淵的恐怖中創造的藥水也許對我們有所幫助，我們應該前往火山岩石崖。,,,
 message_start_quest_boss_undeadcommander_1,你知道嗎？這個憤怒的骷髏人聽起來非常像元素大師一直在研究的一個人物。,,,
@@ -7254,27 +7254,27 @@ message_start_quest_travel_shimmeringshallows_1,我們已經有了軍隊和武�
 message_start_quest_travel_shimmeringshallows_2,從地面發起攻擊簡直是癡人說夢。我們需要走海路接近他們。,,,
 message_start_quest_travel_shimmeringshallows_3,讓我們奪下螢光海灘，這是理事會並不希望看到的情形。,,,
 message_unlock_beasttyrant_1,似乎是學習了能援助你盟友的技能讓野獸霸主加入公會！,,,
-message_unlock_beasttyrant_2,他現在可以通過角色功能表進行加入。,,,
+message_unlock_beasttyrant_2,他現在可以透過角色功能表進行加入。,,,
 message_unlock_berserker_1,你對痛苦的熱愛將狂戰士吸引到了我們的公會！,,,
-message_unlock_berserker_2,她現在可以通過角色功能表進行加入。,,,
+message_unlock_berserker_2,她現在可以透過角色功能表進行加入。,,,
 message_unlock_doomstalker_1,你對陷阱的靈敏運用將末日獵手吸引到了我們的公會！,,,
-message_unlock_doomstalker_2,他現在可以通過角色功能表進行加入。,,,
+message_unlock_doomstalker_2,他現在可以透過角色功能表進行加入。,,,
 message_unlock_elementalist_1,你對元素的掌握吸引了一名新的英雄，元素大師！,,,
-message_unlock_elementalist_2,他們現在可以通過角色功能表進行加入。,,,
+message_unlock_elementalist_2,他們現在可以透過角色功能表進行加入。,,,
 message_unlock_nightshroud_1,你對黑暗元素的運用將夜引者吸引到了我們的公會！,,,
-message_unlock_nightshroud_2,他現在可以通過角色功能表進行加入。,,,
+message_unlock_nightshroud_2,他現在可以透過角色功能表進行加入。,,,
 message_unlock_plagueherald_1,你創造的毒藥量將瘟疫使者吸引到了我們的公會！,,,
-message_unlock_plagueherald_2,他現在可以通過角色功能表進行加入。,,,
+message_unlock_plagueherald_2,他現在可以透過角色功能表進行加入。,,,
 message_unlock_quartermaster_1,你對物品的運用將精數者吸引到了我們的公會！,,,
-message_unlock_quartermaster_2,他現在可以通過角色功能表進行加入。,,,
+message_unlock_quartermaster_2,他現在可以透過角色功能表進行加入。,,,
 message_unlock_sawbones_1,看來有人已經注意到了你可能需要一些説明才能活下去！,,,
-message_unlock_sawbones_2,鋸骨醫者現在可以通過角色功能表進行加入。,,,
+message_unlock_sawbones_2,鋸骨醫者現在可以透過角色功能表進行加入。,,,
 message_unlock_soothsinger_1,你的事蹟吸引了一名新的傭兵，靈魂歌者！,,,
-message_unlock_soothsinger_2,她現在可以通過角色功能表進行加入。,,,
+message_unlock_soothsinger_2,她現在可以透過角色功能表進行加入。,,,
 message_unlock_summoner_1,收集大量的敵人肢體將召喚師吸引到了我們的公會,,,
-message_unlock_summoner_2,她現在可以通過角色功能表進行加入。,,,
+message_unlock_summoner_2,她現在可以透過角色功能表進行加入。,,,
 message_unlock_sunkeeper_1,你對光明元素的運用將守日者吸引到了我們的公會！,,,
-message_unlock_sunkeeper_2,她現在可以通過角色功能表進行加入。,,,
+message_unlock_sunkeeper_2,她現在可以透過角色功能表進行加入。,,,
 millpond,磨塘地,,,
 minderer,減壓器,,,
 mindthief,心靈竊賊,,,
@@ -7930,7 +7930,7 @@ plagueherald_difficulty,中,,,
 plagueherald_role,遠程輸出/輔助,,,
 plagueherald_strengths,"- <indent=%15>能以多個敵人為目標</indent>
 - <indent=%15>有效的遠程能力</indent>
-- <indent=%15>通過使用詛咒和下毒，帶來強有力的debuff能力</indent>",,,
+- <indent=%15>透過使用詛咒和下毒，帶來強有力的debuff能力</indent>",,,
 plagueherald_weaknesses,"- <indent=%15>非常有可能誤傷盟友</indent>
 - <indent=%15>對於單個大目標輸出效率較低</indent>
 - <indent=%15>蟲靈族的交配儀式實在是...</indent>",,,
@@ -7953,7 +7953,7 @@ quartermaster,軍需官,,,
 quartermaster_adventure_description,熟練的魔人族軍需官幫助冒險團隊在戰鬥中最大化他們裝備的效果，並以此聞名。畢竟，一個身邊沒有好劍的戰士算什麼呢？,,,
 quartermaster_difficulty,中,,,
 quartermaster_role,近戰輸出/輔助,,,
-quartermaster_strengths,"- <indent=%15>擁有許多物品刷新技能</indent>
+quartermaster_strengths,"- <indent=%15>擁有許多物品重置技能</indent>
 - <indent=%15>進攻和防禦能力比較平衡</indent>
 - <indent=%15>團隊萬金油（知識點：Jack of all trades）</indent>",,,
 quartermaster_weaknesses,"- <indent=%15>沒有一項能力是大師</indent>
@@ -8067,7 +8067,7 @@ quest_campaign_010_intro,"你感到一陣天旋地轉，眼前的一切變得模
 然而這份安全感並不長久。",,,
 quest_campaign_010_list,進入裂縫,,,
 quest_campaign_010_name,元力位面,,,
-quest_campaign_011_desc,通過摧毀軍方來為潔索菈和商人們獲取黯淡港灣的控制權,,,
+quest_campaign_011_desc,透過摧毀軍方來為潔索菈和商人們獲取黯淡港灣的控制權,,,
 quest_campaign_011_intro,"“所以說，傭兵們，你們準備好將這座城市的命運掌握在自己手中了嗎？”
 
 你們點了點頭表示同意，潔索菈緊接著道：“我的軍隊已經準備萬全，讓我們向幽魂堡進軍吧！”
@@ -8082,7 +8082,7 @@ quest_campaign_011_intro_gh_2,有了這支亡靈大軍，商人們就能帶領�
 quest_campaign_011_intro_gh_3,你走向潔索菈，準備奪下黯淡港灣。,,,
 quest_campaign_011_list,推翻軍方的控制,,,
 quest_campaign_011_name,黯淡港灣廣場 A,,,
-quest_campaign_012_desc,通過推翻軍方和控制黯淡港灣來阻止潔索菈,,,
+quest_campaign_012_desc,透過推翻軍方和控制黯淡港灣來阻止潔索菈,,,
 quest_campaign_012_intro,"你們一路穿過黯淡港灣廣場來到幽暗堡，慌忙地向那些把你們攔在堡壘門前的衛兵解釋著你們身後的威脅，然後飛快地越過他們，尋找著衛兵隊長的身影。
 
 “這的確是個大麻煩，”當你們向他快速地闡明了潔索菈的陰謀之後，他說道，“我們必須立刻探取行動，對抗這個死靈法師!”此時金戈之聲在房間中迴響，緊隨其後的是外面的衛兵的叫喊聲。
@@ -8627,7 +8627,7 @@ quest_campaign_052_name,劇毒酒窖,,,
 quest_campaign_052_outro_gh_1,你們返回住處並將這些零件重新合成了一根法杖。雖然法杖的外觀十分驚悚，你們卻無法辨別它的作用。,,,
 quest_campaign_052_outro_gh_2,不過你們注意到了杖柄上的一些雕刻。在古籍的幫助下你們破譯了雕刻，終於找到了進入一間密室的方法，而這個密室就藏在你們曾搜索過的某個墓室中。看來你們已經找到了下一個目的地了。,,,
 quest_campaign_052_scenario_modifier_1,所有傭兵以兩張詛咒卡開始劇本,,,
-quest_campaign_052_scenario_modifier_2,目標寶箱只能通過拾取<sprite name=Loot>行動獲取。與目標寶箱相鄰的角色可以通過跳過底部行動來執行一個只能用於拾取目標寶箱的拾取<sprite name=Loot>動作。,,,
+quest_campaign_052_scenario_modifier_2,目標寶箱只能透過拾取<sprite name=Loot>行動獲取。與目標寶箱相鄰的角色可以透過跳過底部行動來執行一個只能用於拾取目標寶箱的拾取<sprite name=Loot>動作。,,,
 quest_campaign_053_desc,繼續尋找索恩,,,
 quest_campaign_053_intro,"“索恩的門徒！”幻影急切地說道，“我知道你們將索恩的法杖帶到了這裡以便重鑄其昔日的力量。我是這裡的看守者，肩負重鑄索恩力量的責任。快把損壞的法杖放在鍛造爐上。”
 
@@ -8757,7 +8757,7 @@ quest_campaign_065_list,探索礦井,,,
 quest_campaign_065_name,硫磺礦井,,,
 quest_campaign_065_outro_travel_1,只有等到你們離開礦井，能夠自由呼吸之後，才試著把這些看上去像是某種設計圖的碎紙片拼合起來。,,,
 quest_campaign_065_outro_travel_2,設計圖上有著許多用古代文字所書寫的公式，他們看起來十分複雜難懂。,,,
-quest_campaign_065_outro_travel_3,希望通過足夠的研究，找到合適的製造工具，這樣你們就能重制這個傳說中的鑽頭。,,,
+quest_campaign_065_outro_travel_3,希望透過足夠的研究，找到合適的製造工具，這樣你們就能重制這個傳說中的鑽頭。,,,
 quest_campaign_065_scenario_modifier_1,所有角色以4張詛咒卡開始劇本,,,
 quest_campaign_066_desc,找出老舊齒輪隱藏的秘密,,,
 quest_campaign_066_intro,你們租了一艘小船，然後沿著海岸一路航行，最終找到了標記在地圖上的小海灣。拋下船錨之後，你們踏上了遍佈岩石的海灘，在那裡看到了岩壁上有一個洞口。雖然不知道在裡面會碰到什麼，但你仍然走了進去。,,,
@@ -8795,7 +8795,7 @@ quest_campaign_069_list,找到許願井,,,
 quest_campaign_069_name,不幸之井,,,
 quest_campaign_069_outro_gh_1,幾天後，你聽說那個男子的女兒還是因病去世了。你很慶倖當時沒有將值錢的東西丟進去。,,,
 quest_campaign_069_outro_gh_2,有些傳說終究只是傳說罷了。,,,
-quest_campaign_069_scenario_modifier_1,另一位傭兵可以通過執行一個符合距離的拾取動作從持有玩偶的角色身上拿去玩偶。當持有玩偶的傭兵變為精疲力竭時，玩偶將被掉落在其所在的格子內。,,,
+quest_campaign_069_scenario_modifier_1,另一位傭兵可以透過執行一個符合距離的拾取動作從持有玩偶的角色身上拿去玩偶。當持有玩偶的傭兵變為精疲力竭時，玩偶將被掉落在其所在的格子內。,,,
 quest_campaign_070_desc,看看你是否能解放鬧鬼海灘...,,,
 quest_campaign_070_intro,船長在一個足夠安全的距離拋下船錨，用一艘小艇將你們送到了島上。你們終於安全踏上了沙灘並朝著洞口方向進發。在靠近之後，你們發現入口到處都是惡魔，而你們唯一的選擇就是戰鬥。,,,
 quest_campaign_070_intro_gh_1,鎖鏈島在水手們之間久負惡名，他們都如逃避死亡一般遠離著這座島。據說所有離島嶼太近的船都將被憤怒的復生的精神體襲擊。復生的精神體會將船拖上礁石擱淺，所有擱淺的船將再無音訊。,,,
@@ -9269,7 +9269,7 @@ quest_relic_fleabittenshawl_intro,前往棄物場的一路上平安無事。你�
 quest_relic_fleabittenshawl_list,尋找病灣村垃圾堆,,,
 quest_relic_fleabittenshawl_name,把垃圾拿出去,,,
 quest_relic_fleabittenshawl_unlock_1,我注意到你們曾經面對的不少精英魔鼠帶著含有魔法殘渣的破布。,,,
-quest_relic_fleabittenshawl_unlock_2,通過研究他們，我發現他們主要來自病灣村東北的大型棄物場。,,,
+quest_relic_fleabittenshawl_unlock_2,透過研究他們，我發現他們主要來自病灣村東北的大型棄物場。,,,
 quest_relic_fleabittenshawl_unlock_3,棄物場？你的意思是垃圾堆？,,,
 quest_relic_fleabittenshawl_unlock_4,好，沒錯，這是另外一項，我建議你們訪問該區域來看看能不能找到什麼有用的東西。,,,
 quest_relic_fleabittenshawl_unlock_5,我想我這次會留在家裡！,,,
@@ -9824,8 +9824,7 @@ quest_travel_shaderest_intro,"你的接頭人告訴你陰涼休息地被最近�
 這裡的謠言滿天飛，說異教徒們能接觸到禁忌的死靈法術，但任何敢大聲斥責他們的人都很快就消失了。
 
 你尋著線索來到城鎮東部的一個墓室，在這附近可以看到有某種獻祭的痕跡，牆壁上畫著邪惡的符咒。
-
-這時，你聽到裡面傳來吟唱聲，決定冒險往下一探究竟...,,,
+這時，你聽到裡面傳來吟唱聲，決定冒險往下一探究竟...",,,
 quest_travel_shaderest_list,殺光陰涼休息地的異教徒,,,
 quest_travel_shaderest_name,暗影聯盟,,,
 quest_travel_shadowfieldmanor_desc,暗域家族請求我們幫助他們，除掉一群聚集在他們地盤上的暗影聯盟異教徒。,,,
@@ -11122,9 +11121,9 @@ scenario_puzzle_5a_11,"利用她的能力再試一次吧！
 scenario_puzzle_5a_obj_01,（本回合）透過一次跳躍移動，脫離強盜守衛的攻擊範圍並在這個回合存活下來,,,
 scenario_puzzle_5a_obj_02,（本回合）消耗冰霜元素來提升冰霜新星的能力並擊殺生命值較低的強盜守衛,,,
 scenario_puzzle_5a_obj_03,擊殺剩下的強盜守衛,,,
-scenario_puzzle_5b_01,來見見<color=#a06e4b>機工巧匠</color>！他是團隊中重要的輔助角色，但必要時也可以承擔攻擊多個敵人的任務。
+scenario_puzzle_5b_01,"來見見<color=#a06e4b>機工巧匠</color>！他是團隊中重要的輔助角色，但必要時也可以承擔攻擊多個敵人的任務。
 
-看見那些<color=#C53F3F>復生的骷髏</color>了嗎，這正是我所說的多個敵人！,,,
+看見那些<color=#C53F3F>復生的骷髏</color>了嗎，這正是我所說的多個敵人！",,,
 scenario_puzzle_5b_02,目前他正處於創傷<sprite name=Wound>狀態，這會讓他在每個輪次開始時受到 <b>1</b> 點傷害，因此你需要儘快使用<color=#FFB300>初級治療藥水</color>對他進行治療。,,,
 scenario_puzzle_5b_03,"再來觀察這個房間裡敵人所在的位置，我建議你這個回合儘量晚一些行動。有時採取較慢的順序讓敵人來接近你是更好的選擇，並且還不用冒著被攻擊的風險。
 之後你就可以使用<color=#a06e4b>機工巧匠</color>那名聞遐邇的區域攻擊來同時對多個敵人造成傷害！
@@ -12030,10 +12029,10 @@ scenario_travel_scurvybay_start_4,哦，呃，當然是猜的。,,,
 scenario_travel_scurvybay_success_1,當最後一名民兵倒下時，強盜們都盯著你。他們看起來暫時接受了你，當然，只是暫時。,,,
 scenario_travel_scurvybay_success_2,好吧，他們同意加入我們的復仇行動。幹得不錯，我們有自己的軍隊了。,,,
 scenario_travel_scurvybay_success_3,我們只要給他們整點能揮的鋒利的東西，就能阻止議會的所作所為。,,,
-scenario_travel_shaderest_start_1,啊，異教徒。乍一看他們可能是無害的，但你需要儘快消滅他們，因為他們有能力召喚亡靈。,,,
-scenario_travel_shaderest_start_2,也就是說，如果他們受了致命傷，他們可能就會死去！,,,
-scenario_travel_shaderest_start_3,另外值得注意的是，由於他們正在祈求強大的能量，他們有時被殺死後會爆炸...所以，根據它們的不穩定程度，或許應該離遠點？,,,
-scenario_travel_shaderest_success,這個邪教分支已經不復存在了，但剩下的異教徒依舊活躍在王國的其他地方。這絕對不會是你最後一次見到他們！,,,
+scenario_travel_shaderest_start_1,啊！是異教徒阿。乍看之下他們可能是無害的，但你需要儘快消滅他們，因為他們有召喚亡靈的能力。,,,
+scenario_travel_shaderest_start_2,也就是說，如果他們受了致命傷，他們就會死！,,,
+scenario_travel_shaderest_start_3,但值得一提的事情是，由於他們正在聚集強大的能量，因此被殺死的時候可能會產生爆炸...所以，根據它們的不穩定程度，或許你應該儘量離遠點？,,,
+scenario_travel_shaderest_success,在這附近的邪教分部成員已經被你屠殺殆盡了，但仍舊有異教徒出沒在王國的其他地方，這絕對不會是你最後一次見到他們！,,,
 scenario_travel_shadowfieldmanor_sm1_desc,在每個回合開始時，將黑暗元素移至強烈並將光明元素移至惰化,,,
 scenario_travel_shadowfieldmanor_start_1,據說暗的力量會在森林的這片區域變得強大。同時光的力量會被完全壓制。利用這一點創造優勢吧！,,,
 scenario_travel_shadowfieldmanor_success,異教徒們被趕出了莊園，莊園現在又安全了。但你不確定這到底是好是壞。,,,

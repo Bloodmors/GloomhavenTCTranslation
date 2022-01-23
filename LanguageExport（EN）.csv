@@ -11645,10 +11645,9 @@ scenario_travel_scurvybay_start_4,"Oh I’m, er, imagining of course."
 scenario_travel_scurvybay_success_1,"The bandits stare at you as the last Militia soldier falls. They seem to have accepted you, for now."
 scenario_travel_scurvybay_success_2,"Well, they have agreed to join our cause for revenge. Good work, we have our army."
 scenario_travel_scurvybay_success_3,We just need to get them something sharp to wave about so we can stop this Council doing the thing it’s doing.
-scenario_travel_shaderest_start_1,"Ah, Cultists. They may look relatively harmless at first glance, but you need to eliminate them as soon as possible as they have the ability to raise the undead."
-scenario_travel_shaderest_start_2,"That said, if mortally wounded they can die in the process!"
-scenario_travel_shaderest_start_3,"Also, be aware that due to the powerful energies they are invoking, they sometimes have a tendency to explode when killed... so depending on how volatile they are looking, maybe stand back?"
-scenario_travel_shaderest_success,"This branch of the Cult is no more, but they are still active in other parts of the realm. This won't be the last you’ll see of them!"
+
+
+
 scenario_travel_shadowfieldmanor_sm1_desc,At the Start of each round the Dark Element is set to Strong and the Light Element is set to Inert
 scenario_travel_shadowfieldmanor_start_1,Dark Power has always been said to warp around this area of the forest. It entirely blots out the power of Light too. Use that to your advantage!
 scenario_travel_shadowfieldmanor_success,"The cultists are driven away from the manor, which is now safe again. You are unsure whether this is a good thing or not."

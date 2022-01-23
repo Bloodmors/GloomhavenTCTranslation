@@ -22,7 +22,7 @@
 045_b,<nobr>射程範圍<sprite name=Range>3</nobr>內的一名盟友可以<nobr>回收<sprite name=Recover></nobr>一張他的燒牌堆的卡牌。
 047_b,在一個相鄰的空格內創建一個附加擊暈<sprite name=Stun>的陷阱。
 049_t,召喚戰鬥機器
-051_t,一名相鄰盟友可以<nobr>重置<sprite name=Refresh></nobr>他的一個已消耗的隨身物品<sprite name=InvSmallItem>。
+051_t,一名相鄰盟友可以<nobr>重置<sprite name=Refresh></nobr>他的一個已磨損的隨身物品<sprite name=InvSmallItem>。
 052_t_1,消滅目的地區域內當前生命值<nobr>小於或等於5</nobr>的所有敵人。
 052_t_2,每消滅一個敵人獲得<sprite name=XP1>。
 053_b,在你接下來的四個輪次結束時，每輪可以選擇一名<nobr>射程範圍<sprite name=Range>3</nobr>內的盟友<nobr>回收<sprite name=Recover></nobr>一張他的棄牌堆的卡牌。
@@ -162,26 +162,26 @@
 203_t,在你接下來的四次攻擊行動中，附加<nobr>+3攻擊力<sprite name=Attack></nobr>，<nobr>創傷<sprite name=Wound></nobr>，並獲得優勢。
 204_t,當任意盟友受到傷害時，你可以代為損失減少1點的生命值。
 205_t,所有<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友<nobr>重置<sprite name=Refresh></nobr>一個他們的道具。
-206_b,<nobr>重置<sprite name=Refresh></nobr>你所有的已消耗的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
+206_b,<nobr>重置<sprite name=Refresh></nobr>你所有的已磨損的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
 207_b,本回合，你和你的所有<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友為你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
 208_t,每當你執行攻擊行動時，如果你使用道具，就為你的攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
-215_t,<nobr>重置<sprite name=Refresh></nobr>你的一個已消耗的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
+215_t,<nobr>重置<sprite name=Refresh></nobr>你的一個已磨損的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
 216_t,一名相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>他所有的已使用的道具。
 217_b,<nobr>回收<sprite name=Recover></nobr>最多兩張你棄牌堆的卡牌。
 217_t,你或一名相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>一個<nobr>單手道具<sprite name=InvOneHand></nobr>或<nobr>雙手道具<sprite name=InvTwoHands></nobr>。
 219_b,<nobr>回收<sprite name=Recover></nobr>最多兩張你燒牌堆的卡牌。
-219_t,在你的每一個行動輪結束時，你可以棄掉一張牌牌使一名相鄰的盟友<nobr>重置<sprite name=Refresh></nobr>一個他已消耗的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
+219_t,在你的每一個行動輪結束時，你可以棄掉一張牌牌使一名相鄰的盟友<nobr>重置<sprite name=Refresh></nobr>一個他已磨損的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
 221_t,一名相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>他所有的道具。
 223_t,在每回合結束時，<nobr>重置<sprite name=Refresh></nobr>你的一個已使用的道具。
 224_t,你和所有<nobr>射程範圍<sprite name=Range>4以內</nobr>的敵人損失2點生命值。
 225_b,你和所有目的地區域內的普通級別敵人損失7點生命值。
 226_t,任意相鄰的盟友在執行遠程進攻行動時，為該攻擊獲得<nobr>附加目標<sprite name=Target></nobr>。
 228_b,任意一名盟友可以<nobr>回收<sprite name=Recover></nobr>他所有棄牌堆的卡牌。
-228_t,每當你長休息後，<nobr>重置<sprite name=Refresh></nobr>一個你已消耗的道具。
+228_t,每當你長休息後，<nobr>重置<sprite name=Refresh></nobr>一個你已磨損的道具。
 229_b,本回合你的所有攻擊無視目標的護盾。
 230_t,在你接下來的五個行動輪結束時，執行一次“<nobr>治療<sprite name=Heal> 2</nobr>，以所有相鄰的盟友為目標”的行動。
 231_t,消滅一個相鄰的敵人。
-232_b,你和所有相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>所有已消耗的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
+232_b,你和所有相鄰的盟友可以<nobr>重置<sprite name=Refresh></nobr>所有已磨損的<nobr>隨身物品<sprite name=InvSmallItem></nobr>。
 235_b,本回合，所有以你或召喚物夥伴為目標的攻擊獲得劣勢。
 235_t,2只暗影幽狼
 236_b,回收<sprite name=Recover>最多四張你<nobr>燒牌堆的卡牌。</nobr>
@@ -1021,7 +1021,7 @@ combat_log_consume_activate_active_bonus,{0}消耗{1}以啟動{2}
 combat_log_consume_damage,{0}消耗{1}，將{2}應用於攻擊中
 combat_log_consume_damage_noelement,{0}將{1}應用於攻擊中
 combat_log_consume_damage_target,{0}把{1}交易給{2}
-combat_log_consume_element,{0}已消耗
+combat_log_consume_element,{0}已磨損
 combat_log_consume_heal,{0}消耗{1}，附加{2}到治療中
 combat_log_consume_heal_noelement,{0}將{1}應用於治療
 combat_log_consume_move,{0}消耗{1}，附加{2}到移動中
@@ -2878,7 +2878,7 @@ item_drakescalearmor,你免疫中毒<sprite name=Poison>和創傷<sprite name=Wo
 	item_drakescaleboots,你不受困難地形和危險地形的影響。
 item_drakescalehelm,任何時候，當你獲得混亂<sprite name=Muddle>時，則改為獲得強化<sprite name=Strengthen>。
 
-item_empoweringtalisman,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>自身一個已消耗<sprite name=InvSmallItem>道具。
+item_empoweringtalisman,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>自身一個已磨損<sprite name=InvSmallItem>道具。
 item_endurancefootwraps,若在你自己的行動輪中的移動了4個或更多格子，則執行一次<nobr>“治療<sprite name=Heal>1，自身”</nobr>行動。
 item_falconfigurine,召喚玉鷹
 item_fleabittenshawl,當敵人進行攻擊目標判定時，你的時序值始終視為99。
@@ -3017,7 +3017,7 @@ item_nightblade,在你進行近戰進攻時，<sprite name=ConsumeDark>並對你
 item_occultdagger,在你攻擊收割者時，獲得<nobr>穿透<sprite name=Pierce>4。</nobr>
 item_orbofdawn,在你的行動輪中，消耗<nobr>暗元素<sprite name=ConsumeDark>並充能<nobr>光元素<sprite name=Light>。
 item_orboftwilight,在你的行動輪中，消耗<nobr>光元素<sprite name=ConsumeLight></nobr>並充能<nobr>暗元素<sprite name=Dark></nobr>。
-item_pendantofdarkpacts,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>自身2個已消耗<sprite name=InvSmallItem>道具。獲得<nobr>詛咒<sprite name=Curse></nobr>。
+item_pendantofdarkpacts,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>自身2個已磨損<sprite name=InvSmallItem>道具。獲得<nobr>詛咒<sprite name=Curse></nobr>。
 
 item_platemail,在下五次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
 
@@ -5101,7 +5101,7 @@ elderdrake,上古亞龍
 elite,精英
 elitecultist,異教徒精英
 emerald marauders,翡翠掠奪者
-empty_string,
+
 enchantressdialogname,女巫
 event_abandonedcart,一輛貨車似乎被遺棄在道路一側，它的主人已經無處可尋。貨車的後面大多是一些垃圾，但是好在還有一桶食物，而你正覺得饑腸轆轆......
 event_abandonedcart_a,吃點東西
@@ -5637,10 +5637,6 @@ gui_assembly_party_select_hero_tip_title,添加角色
 gui_assembly_party_start,你準備好開始了！
 
 gui_begin,開始
-
-
-
-gui_bind_item_error_confirmation_title,無法裝備物品
 
 
 
@@ -6814,7 +6810,7 @@ message_end_quest_travel_schoolofthegreatoak_2,我不理解為什麼一群治療
 message_end_quest_travel_scurvybay_1,通常來說我都是盡力遏制犯罪行為，當然，我還是決定看看這些強盜給你提供了什麼。
 message_end_quest_travel_scurvybay_2,他們只是給我扔了一個烈性炸彈。我還是不確定這到底是個禮物還是禍害。
 message_end_quest_travel_scurvybay_3,不管怎樣，至少它還沒爆炸。它現在在我這裡，但我建議你加快腳步。
-message_end_quest_travel_shaderest_1,我和當地的飾品製造者達成了協定做了一些有趣的護身符。來看看吧，說不定能派上用場。
+
 message_end_quest_travel_shadowfieldmanor_1,今天早上我收到了快遞包裹，是一個精美的珠寶。但是每次我看它我胃裡都翻江倒海。可能代表你才能找到它的用途！
 message_end_quest_travel_shimmeringshallows_1,在你離開後，我逃到了鎮上，遇到了一個友好的老漁婦。
 message_end_quest_travel_shimmeringshallows_2,真相大白！這個小鎮愛上了釣魚，而她愛上了，誒，愛上了我。我正準備只帶著衣物和...長矛逃跑。
@@ -8784,10 +8780,10 @@ scenario_travel_scurvybay_start_4,哦，呃，當然是猜的。
 scenario_travel_scurvybay_success_1,當最後一名民兵倒下時，強盜們都盯著你。他們看起來暫時接受了你，當然，只是暫時。
 scenario_travel_scurvybay_success_2,好吧，他們同意加入我們的復仇行動。幹得不錯，我們有自己的軍隊了。
 scenario_travel_scurvybay_success_3,我們只要給他們整點能揮的鋒利的東西，就能阻止議會的所作所為。
-scenario_travel_shaderest_start_1,啊，邪教徒。乍一看他們可能是無害的，但你需要儘快消滅他們，因為他們有能力召喚亡靈。
-scenario_travel_shaderest_start_2,也就是說，如果他們受了致命傷，他們可能就會死去！
-scenario_travel_shaderest_start_3,另外值得注意的是，由於他們正在祈求強大的能量，他們有時被殺死後會爆炸…所以，根據它們的不穩定程度，或許應該離遠點？
-scenario_travel_shaderest_success,這個邪教分支已經不復存在了，但剩下的邪教徒依舊活躍在王國的其他地方。這絕對不會是你最後一次見到他們！
+
+
+
+
 scenario_travel_shadowfieldmanor_sm1_desc,在每回合開始時，將暗元素移至強烈並將光元素移至惰化
 scenario_travel_shadowfieldmanor_start_1,據說暗的力量會在森林的這片區域變得強大。同時光的力量會被完全壓制。利用這一點創造優勢吧！
 scenario_travel_shadowfieldmanor_success,邪教徒們被趕出了莊園，莊園現在又安全了。但你不確定這到底是好是壞。
