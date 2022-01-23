@@ -95,7 +95,7 @@
 127_b,本回合，為你的所有遠程進攻附加+1攻擊力<sprite name=Attack>。
 127_t,你可以將目標強推到含有障礙物的格子中。此時，摧毀該障礙物，你的目標損失2點生命值，你獲得<sprite name=XP1>。
 128_b,本回合，為你的所有近戰進攻附加+2攻擊力<sprite name=Attack>。
-129_b,當<nobr>氣<sprite name=Air></nobr>處於充能狀態時，你接下來六次遠程進攻行動會消耗<nobr>氣<sprite name=ConsumeAir></nobr>並為你的攻擊附加<nobr>+2射程範圍<sprite name=Range></nobr>。
+129_b,當<nobr>氣<sprite name=Air></nobr>處於凝聚狀態時，你接下來六次遠程進攻行動會消耗<nobr>氣<sprite name=ConsumeAir></nobr>並為你的攻擊附加<nobr>+2射程範圍<sprite name=Range></nobr>。
 130_t,指定所有與被摧毀的障礙物相鄰的敵人為目標。
 131_t,影響目的地區域中的所有盟友
 132_b,摧毀你經過的所有障礙物，解除你經過的所有陷阱。
@@ -149,7 +149,7 @@
 179_b,本回合，你和所有相鄰的盟友不受任何傷害。
 184_b,從你的所有移動行動中扣除-1前進<sprite name=Move>。
 185_t,治療一名<nobr>相鄰盟友</nobr>所受的所有傷害。
-187_b,<line-height=110%>在接下來你的五個行動輪結束時，如果<size=150%><voffset=-3><sprite name=Light></voffset></size>不處於激發狀態，充能<size=150%><voffset=-3><sprite name=Light></voffset></size>。
+187_b,<line-height=110%>在接下來你的五個行動輪結束時，如果<size=150%><voffset=-3><sprite name=Light></voffset></size>不處於激發狀態，凝聚<size=150%><voffset=-3><sprite name=Light></voffset></size>。
 190_t,一名相鄰的盟友可以立即執行一個額外的行動輪來打出手牌中的兩張卡牌。
 192_b,所有<nobr>射程範圍<sprite name=Range>5以內</nobr>的盟友<nobr>可以執行</nobr>
 194_b,本回合，所有指定你以及<nobr>射程範圍<sprite name=Range>4以內</nobr>的盟友的攻擊獲得劣勢。
@@ -203,7 +203,7 @@
 270_b,在你接下來的四次攻擊行動之前，執行“<nobr>移動<sprite name=Move> 2</nobr>”。
 271_b,移動到任意一個未被佔用的格子。你不能穿過一扇上鎖的門。
 274_t,如果你處於<nobr>隱身<sprite name=Invisible></nobr>，附加<nobr>擊暈<sprite name=Stun></nobr>並獲得<sprite name=XP1>。
-277_t,<line-height=110%>在接下來你的三個行動輪結束時，如果<size=150%><voffset=-3><sprite name=Dark></voffset></size>不處於激發狀態，充能<size=150%><voffset=-3><sprite name=Dark></voffset></size>。
+277_t,<line-height=110%>在接下來你的三個行動輪結束時，如果<size=150%><voffset=-3><sprite name=Dark></voffset></size>不處於激發狀態，凝聚<size=150%><voffset=-3><sprite name=Dark></voffset></size>。
 279_b,如果你處於<nobr>隱身<sprite name=Invisible></nobr>，在你接下來的四次移動行動之後，執行“<nobr>進攻<sprite name=Attack> 2</nobr>，指定所有相鄰敵人為目標”。
 283_t_1,在你的所有攻擊中獲得優勢。
 283_t_2,你可以指定<nobr>隱身<sprite name=Invisible></nobr>敵人為目標。
@@ -214,7 +214,7 @@
 289_t,為目的地區域的所有單位施加<nobr>中毒<sprite name=Poison></nobr>。
 290_b,從你的所有遠程進攻中扣除<nobr>-1射程範圍<sprite name=Range></nobr>。
 292_t,每當你執行攻擊行動前，你可以對<nobr>射程範圍<sprite name=Range>2以內</nobr>的一名盟友施加<nobr>中毒<sprite name=Poison></nobr>（或者使其損失3點生命值如果該盟友已經<nobr>中毒<sprite name=Poison></nobr>），來為你的整個攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
-298_t,當<nobr>氣<sprite name=Air></nobr>處於充能狀態時，你接下來的六次攻擊可以消耗<nobr>氣<sprite name=ConsumeAir></nobr>來為整個攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
+298_t,當<nobr>氣<sprite name=Air></nobr>處於凝聚狀態時，你接下來的六次攻擊可以消耗<nobr>氣<sprite name=ConsumeAir></nobr>來為整個攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
 300_b,每次你的移動行動後，對所有相鄰單位施加<nobr>中毒<sprite name=Poison></nobr>。
 301_t,移除一個敵人的<nobr>中毒<sprite name=Poison></nobr>並使其<nobr>損失3點生命值。</nobr>
 304_t,對所有<nobr>與指定目標相鄰</nobr>的盟友施加<nobr>中毒<sprite name=Poison></nobr>。
@@ -836,7 +836,7 @@ adventure_achievement_1_5_unlocklocations_desc,到達野尖塔
 adventure_achievement_2_1_healpoisonwound,我不會這樣輕易地狗帶！
 adventure_achievement_2_1_healpoisonwound_desc,治療40次中毒或創傷
 adventure_achievement_2_1_infuseelements,元素基礎
-adventure_achievement_2_1_infuseelements_desc,充能100個元素
+adventure_achievement_2_1_infuseelements_desc,凝聚100個元素
 adventure_achievement_2_1_killearthdemons_1,麻煩礦工
 
 adventure_achievement_2_1_killearthdemons_2,石匠
@@ -925,12 +925,8 @@ adventure_achievement_doomstalker_2,死亡之森
 adventure_achievement_doomstalker_2_desc,末日獵手為30個敵人帶來末日
 adventure_achievement_doomstalker_3,死亡陷阱地牢
 adventure_achievement_doomstalker_3_desc,末日獵手設置20個陷阱
-adventure_achievement_elementalist_1,元素週期表
-adventure_achievement_elementalist_1_desc,元素師消耗100個元素
-adventure_achievement_elementalist_2,天生靈力
-adventure_achievement_elementalist_2_desc,元素師使用技能造成30次負面狀態
-adventure_achievement_elementalist_3,我就想看著這個世界燃燒
-adventure_achievement_elementalist_3_desc,元素師使用30次區域攻擊
+
+
 
 adventure_achievement_nightshroud_1,這是？臨死信息！
 adventure_achievement_nightshroud_1_desc,夜引者使用30次附帶消滅效果的技能
@@ -1056,8 +1052,8 @@ combat_log_healed_poison,移除中毒
 combat_log_healed_wound,並移除創傷
 combat_log_hexes,格子
 combat_log_immune,{0}可防止{1}至{2}
-combat_log_infuse_element,{0}元素正在被充能
-combat_log_infusing_element,{0}正在對{1}元素進行充能
+combat_log_infuse_element,{0}元素正在被凝聚
+combat_log_infusing_element,{0}正在對{1}元素進行凝聚
 combat_log_invulnerable,{0}因免傷而受到了<b><color=#f76767> 0 </color></b>點傷害
 	combat_log_kill,{0}殺死了{1}
 combat_log_long_rest,{0}進行長休息，並燒毀了{1}
@@ -1246,7 +1242,7 @@ error_choreo_00112,無法處理行動技能已觸發
 error_choreo_00113,無法處理出生
 error_choreo_00114,無法處理召喚
 error_choreo_00115,Could not process RevealProp
-error_choreo_00116,無法處理元素充能
+error_choreo_00116,無法處理元素凝聚
 error_choreo_00117,無法處理等待處理
 error_choreo_00118,無法處理清除路徑點及目標
 error_choreo_00119,無法處理召喚物夥伴不再被操控
@@ -3014,8 +3010,8 @@ item_name_wavecrest,波浪項鍊
 item_necklaceofteeth,每當你在自己的行動輪中消滅一個敵人時，執行一次<nobr>“治療<sprite name=Heal>1，</nobr>自身”。
 item_nightblade,在你進行近戰進攻時，<sprite name=ConsumeDark>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_occultdagger,在你攻擊收割者時，獲得<nobr>穿透<sprite name=Pierce>4。</nobr>
-item_orbofdawn,在你的行動輪中，消耗<nobr>暗元素<sprite name=ConsumeDark>並充能<nobr>光元素<sprite name=Light>。
-item_orboftwilight,在你的行動輪中，消耗<nobr>光元素<sprite name=ConsumeLight></nobr>並充能<nobr>暗元素<sprite name=Dark></nobr>。
+item_orbofdawn,在你的行動輪中，消耗<nobr>暗元素<sprite name=ConsumeDark>並凝聚<nobr>光元素<sprite name=Light>。
+item_orboftwilight,在你的行動輪中，消耗<nobr>光元素<sprite name=ConsumeLight></nobr>並凝聚<nobr>暗元素<sprite name=Dark></nobr>。
 item_pendantofdarkpacts,在你的行動輪中，<nobr>重置<sprite name=Refresh></nobr>自身兩個已磨損<sprite name=InvSmallItem>道具。獲得<nobr>詛咒<sprite name=Curse></nobr>。
 
 item_platemail,在下五次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
@@ -4893,8 +4889,8 @@ elementalist_difficulty,非常高
 elementalist_role,遠程輸出
 elementalist_strengths,"- <indent=%15>技能有大量的搭配方式</indent>
 - <indent=%15>非常有效的遠程能力</indent>
-- <indent=%15>善於元素充能</indent>"
-elementalist_weaknesses,"- <indent=%15>如果沒有其他元素充能者搭配會比較弱</indent>
+- <indent=%15>善於元素凝聚</indent>"
+elementalist_weaknesses,"- <indent=%15>如果沒有其他元素凝聚者搭配會比較弱</indent>
 - <indent=%15>可能有的輪次不太能有發揮</indent>
 - <indent=%15>有時技能卡的佈置會讓人頭痛</indent>"
 
@@ -5003,7 +4999,7 @@ atendofturn,在輪次的結束
 attack_area,攻擊範圍
 attackersgaindisadvantage,攻擊者們陷入劣勢進攻
 attacksapply,攻擊中附加
-attacksinfuse,在攻擊中元素充能
+attacksinfuse,在攻擊中元素凝聚
 
 banditcommander,強盜指揮官
 battleboar,豪豬
@@ -5447,8 +5443,8 @@ gloomhaven_street_west_barracks,城西軍營
 glossary_action,行動是角色和怪物如何在幽暗迷城中進行它們的輪次，由一個或多個技能卡組成。
 glossary_addtarget,附加額外攻擊目標。
 glossary_advantage,優勢攻擊：具有優勢的攻擊者將抽取兩張攻擊修正卡並使用其中更好（數值更高）的那張。
-glossary_air,元素充能 - 氣：用氣元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能同一輪次連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
-glossary_any,元素充能 - 任意屬性元素：用你選擇的元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。具有任意屬性元素充能標識的怪物行動時隨機選擇一個元素進行充能。
+glossary_air,元素凝聚 - 氣：用氣元素充滿戰場，可用於在元素凝聚該輪之後的輪次（即單位不能同一輪次連續完成先凝聚後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
+glossary_any,元素凝聚 - 任意屬性元素：用你選擇的元素充滿戰場，可用於在元素凝聚該輪之後的輪次（即單位不能一輪次中連續完成先凝聚後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。具有任意屬性元素凝聚標識的怪物行動時隨機選擇一個元素進行凝聚。
 glossary_attack,攻擊：“攻擊 X”技能卡使得單位以基礎值X去攻擊射程內的一個敵人。
 glossary_attackdefault,基礎進攻：放棄使用卡牌的上半區行動，並進行一個“攻擊 2”的行動。此行動依然棄牌。
 glossary_attackersgaindisadvantage,攻擊者陷入劣勢進攻：任意針對這名單位的攻擊將陷入劣勢進攻。
@@ -5466,11 +5462,11 @@ glossary_consumeice,消耗元素 - 冰
 glossary_consumelight,消耗元素 - 光
 glossary_controlled,被操控的心靈：在這一回合，這個敵軍將會將它的盟友看作敵軍、將它的敵軍看作盟友。
 glossary_curse,詛咒：被詛咒的單位添加一張詛咒(x0)卡進入他們的攻擊修正卡堆。當被抽後，攻擊不造成傷害，並且這張詛咒(x0)卡從攻擊修正卡堆移除。
-glossary_dark,元素充能 - 暗：用暗元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
+glossary_dark,元素凝聚 - 暗：用暗元素充滿戰場，可用於在元素凝聚該輪之後的輪次（即單位不能一輪次中連續完成先凝聚後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
 glossary_disadvantage,劣勢進攻：劣勢進攻的攻擊者將抽取兩張攻擊修正卡，並使用其中更差（數值更低）的那張。
 glossary_disarm,繳械：繳械狀態的單位不能不能釋放任何攻擊技能，繳械狀態在被施法單位下一輪次結束時被移除。
 glossary_dothex,這個點顯示了這個效果範圍以後可以被提升，從而在這個點處增加一個效果範圍格子。
-glossary_earth,元素充能 - 土：用土元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位被一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
+glossary_earth,元素凝聚 - 土：用土元素充滿戰場，可用於在元素凝聚該輪之後的輪次（即單位不能一輪次中連續完成先凝聚後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位被一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
 glossary_elite,一個精英怪擁有比非精英怪更高的數值資料，並且精英怪在非精英怪之前行動（因為精英怪和非精英怪時序值相同）。
 glossary_enhancement_air,能力卡強化 - 氣元素
 glossary_enhancement_anyelement,能力卡強化 - 任意屬性元素
@@ -5508,19 +5504,19 @@ glossary_enhancement_wound,能力卡強化 - 流血
 glossary_enhancementdot,技能可提升標識點：表示這個技能或效果範圍能進行能力卡強化。
 glossary_exhausted,當一個傭兵處於以下兩種情況之一精力耗盡：少於1點生命值；或者當一個回合開始的時候，他們只有不到兩張手牌，並且沒有足夠的卡牌去進行燒祭，用以通過休息去回手棄置堆的卡牌。如果所有傭兵精力耗盡，那麼劇本失敗！
 glossary_fear,強迫所有雇傭兵和他們的召喚物按照時序值次序進行<nobr>“移動<sprite name=Move> 4”</nobr>，路線的終點要盡可能地遠離暗靈叛徒。
-glossary_fire,元素充能 - 火：用火元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
+glossary_fire,元素凝聚 - 火：用火元素充滿戰場，可用於在元素凝聚該輪之後的輪次（即單位不能一輪次中連續完成先凝聚後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
 glossary_flying,飛行：飛行的單位將會在他們的移動期間完全忽視所有單位、障礙物、格子上的地面效果和陷阱，包含他們最後要去的格子。但是最後要去的格子不能被其他單位佔據。當佔據障礙物格子上方的飛行單位停止飛行，這個單位會承受傷害，傷害值等同於單位觸發陷阱，並移動到最近的空格（“空”指沒有任何陷阱、障礙物、單位、打開的門等）。最後這句太難準確翻譯了！
 glossary_greyhex,灰格子顯示著使用者的位置，代表該攻擊範圍為近戰範圍攻擊，因此攻擊範圍只能圍繞著這個格子（使用者）。
 glossary_heal,治療：“治療 X” 技能卡使單位讓在技能射程內的目標回復X點生命值。
 glossary_hitarea,顯示攻擊的效果範圍。紅格子是目標施法範圍，灰格子是近戰範圍攻擊時攻擊者的位置。
-glossary_ice,元素充能 - 冰：用冰元素充滿戰場，可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
+glossary_ice,元素凝聚 - 冰：用冰元素充滿戰場，可用於在元素凝聚該輪之後的輪次（即單位不能一輪次中連續完成先凝聚後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
 glossary_immobilize,禁足：被禁足的單位不能進行任何移動技能。在被影響單位下一輪次結束時，禁足狀態將移除。
 glossary_initiative,時序值：在單位回合的行動階段，使用單位玩家的兩張卡中第一張選擇的卡（高亮卡）的時序值。
 glossary_invisible,隱身：隱身單位不能成為敵軍的目標焦點，但是依然會受到非指向性（不指定目標）的傷害。隱身不影響與盟友的互動。隱身狀態將在被施法單位的下一輪被移除。怪物將隱身單位看作障礙物。
 glossary_invsmallitem,小道具背包
 glossary_jump,跳躍：跳躍可以讓玩家在移動路線過程中忽略所有的單位、障礙物、地面效果和陷阱。最後要去的格子將被看作一格正常移動。
 glossary_kill,擊殺：擊殺技能將直接殺死滿足任何擊殺條件的目標，不需要再去減少他們的生命值到0。
-glossary_light,元素充能 - 光：用光元素充滿戰場（僅針對己方玩家），可用於在元素充能該輪之後的輪次（即單位不能一輪次中連續完成先充能後消耗的操作），可以被後面的當前回合或整個下一回合的己方單位被一次性消耗掉。
+glossary_light,元素凝聚 - 光：用光元素充滿戰場（僅針對己方玩家），可用於在元素凝聚該輪之後的輪次（即單位不能一輪次中連續完成先凝聚後消耗的操作），可以被後面的當前回合或整個下一回合的己方單位被一次性消耗掉。
 glossary_loot,拾取：“拾取 X”技能卡使得單位撿起距離為X的範圍內且在視線內的所有金幣和財寶格子，不受怪物或障礙物影響。
 glossary_lost,燒祭（燒牌）： 表示這張卡牌在使用後將不會進入棄牌堆，因此卡牌不能通過休息回手（但是可以通過某些回手技能卡）。
 glossary_move,移動： “移動 X”技能卡使得一名單位在地圖上移動至多X個格子。
@@ -5668,9 +5664,9 @@ gui_choose_actor_prevent_damage,任何雇傭兵必須燒一張牌牌
 gui_choose_actor_prevent_damage_host_tip,作為主機進行建議，誰應該去燒祭一張技能卡
 gui_choose_actor_prevent_damage_tip_title,否定傷害
 gui_choose_element_consume,選擇要消耗的元素
-gui_choose_element_infuse,選擇1個元素進行充能
+gui_choose_element_infuse,選擇1個元素進行凝聚
 gui_choose_elements_consume,選擇要消耗的{0}元素
-gui_choose_elements_infuse,選擇要充能的{0}元素
+gui_choose_elements_infuse,選擇要凝聚的{0}元素
 gui_choose_item_to_lose,選擇要犧牲的物品
 gui_city_encounter_tooltip,"<size=+4><color=#F3DDABFF>城市遭遇</color></size>
 你們每次到黯淡港灣時，只能完成1個城市遭遇。"
@@ -5757,8 +5753,8 @@ Flaming Fowl 工作室"
 gui_early_access_page_3_title,謝謝！
 gui_early_access_page_4_title,教學和學習遊戲
 gui_easy,容易
-gui_element_infusion_created,{0}元素充能完畢！
-gui_element_infusion_creating,充能中...
+gui_element_infusion_created,{0}元素凝聚完畢！
+gui_element_infusion_creating,凝聚中...
 gui_enable_dlc,Enable DLC
 gui_enable_dlc_confirmation,Once a DLC is enabled on a save it cannot return to its previous settings.
 gui_enchantment_points,技能附魔點數
@@ -5828,7 +5824,7 @@ gui_gift_enemy_stun,下一個劇本的敵人開始時處於暈眩狀態
 gui_gift_enemy_wound,下一個劇本的敵人開始時處於流血狀態
 gui_gift_enhancement,你獲得了一項能力卡強化
 gui_gift_immobilize,你被禁足了
-gui_gift_infusion,下一個劇本開始時戰場會充能{0}元素
+gui_gift_infusion,下一個劇本開始時戰場會凝聚{0}元素
 gui_gift_invisible,您已被賦予隱身狀態
 gui_gift_item_design,您收到了一個物品設計圖。
 gui_gift_lost_gold,您失去了{0}金幣
@@ -6267,14 +6263,14 @@ gui_tooltip_choose_doom_discard,選擇兩個厄運來打擊目標。另一個將
 gui_tooltip_choose_doom_transfer,選擇將一個厄運來轉移到另一個敵人。另一個將被棄置。
 gui_tooltip_consuming_available,點擊此處以增強此行動，此過程中將消耗元素。
 gui_tooltip_consuming_clicked,這一行動將被元素增強。可點擊右邊的元素增強按鈕以取消增強並放走元素。
-gui_tooltip_consuming_disabled,該行動可以通過消耗元素來增強。您只能在角色輪次期間並且已經充能了所需的元素時執行此行動。
-gui_tooltip_consuming_unavailable,該行動可以通過消耗元素來增強。首先，使用某些行動來充能所需的元素。
+gui_tooltip_consuming_disabled,該行動可以通過消耗元素來增強。您只能在角色輪次期間並且已經凝聚了所需的元素時執行此行動。
+gui_tooltip_consuming_unavailable,該行動可以通過消耗元素來增強。首先，使用某些行動來凝聚所需的元素。
 gui_tooltip_deal_damage_companion,選擇對{0}的傷害結算方式，燒祭一張{1}的手牌或著兩張棄牌堆的卡牌。
 
 gui_tooltip_deal_damage_mp,{0}不得不選擇如何承受傷害。
 gui_tooltip_distribute_health,重新分配來自自己和召喚夥伴的傷害。
-gui_tooltip_element_inert,目前沒有任何元素可供使用。元素可以使用某些操作來充能。
-gui_tooltip_element_infusing,元素充能。當前角色的輪次結束後，此元素可供使用。
+gui_tooltip_element_inert,目前沒有任何元素可供使用。元素可以使用某些操作來凝聚。
+gui_tooltip_element_infusing,元素凝聚。當前角色的輪次結束後，此元素可供使用。
 gui_tooltip_element_strong,滿格元素。此元素可用於本回合的其餘部分和整個下一輪。一旦使用掉，其他單位不可再使用。
 gui_tooltip_element_waning,半格元素。該元素可用於本回合的其餘部分。一旦使用掉，其他單位不可再使用。
 gui_tooltip_extra_turn,立即選擇兩張卡牌打出。
@@ -6375,7 +6371,7 @@ immunitysm1,劇本免疫
 immunityto,免疫於
 improvedshortrest,下一回合，短休息將有長休息的福利效果
 infiltrator,潛伏者
-infuse,元素充能
+infuse,元素凝聚
 init,Init.
 innate_shieldbasedonnumberofdeadxspresent,護甲值等於{0}{1}死去{2}的數量
 innate_shieldbasedonnumberofxspresent,護甲值等於 {0} {1} 目前 {2} 的數量
@@ -8529,7 +8525,7 @@ scenario_story_tinkerer_2_success_3,雖然這是異端邪說，但我們也應�
 scenario_story_tinkerer_3_sm1_desc,英雄們獲得<nobr>+1 進攻<sprite name=Attack></nobr>
 scenario_story_tinkerer_3_sm2_desc,英雄們擁有永久<nobr>+1 護盾<sprite name=Shield></nobr>
 scenario_story_tinkerer_3_start_1,這個烈光惡魔似乎有些不同：他對暗夜惡魔有著攻擊性。也許我們可以跟他進行交流？
-scenario_story_tinkerer_3_start_2,它似乎仍然對我們抱有敵意，那麼儘量讓暗夜惡魔遠離他。充能光元素應該可以説明他維持生命。
+scenario_story_tinkerer_3_start_2,它似乎仍然對我們抱有敵意，那麼儘量讓暗夜惡魔遠離他。凝聚光元素應該可以説明他維持生命。
 scenario_story_tinkerer_3_start_3,我應該能在短時間內關閉這些傳送門，在那之前保證它的存活。
 scenario_story_tinkerer_3_success_1,這些暗黑傳送門眨眼之間就不存在了，暗夜惡魔也跟著它們一起消失了。威脅離開之後，這個烈光惡魔變得和緩許多。
 scenario_story_tinkerer_3_success_2,你嘗試著與它交流，但它用手臂做出手勢放出了一道強大的光能。你雖然及時躲避，但還是被閃光亮瞎了眼。
