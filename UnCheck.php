@@ -926,11 +926,11 @@ adventure_achievement_doomstalker_2_desc,末日獵手為30個敵人帶來末日
 adventure_achievement_doomstalker_3,死亡陷阱地牢
 adventure_achievement_doomstalker_3_desc,末日獵手設置20個陷阱
 adventure_achievement_elementalist_1,元素週期表
-adventure_achievement_elementalist_1_desc,元素大師消耗100個元素
+adventure_achievement_elementalist_1_desc,元素師消耗100個元素
 adventure_achievement_elementalist_2,天生靈力
-adventure_achievement_elementalist_2_desc,元素大師使用技能造成30次負面狀態
+adventure_achievement_elementalist_2_desc,元素師使用技能造成30次負面狀態
 adventure_achievement_elementalist_3,我就想看著這個世界燃燒
-adventure_achievement_elementalist_3_desc,元素大師使用30次區域攻擊
+adventure_achievement_elementalist_3_desc,元素師使用30次區域攻擊
 
 adventure_achievement_nightshroud_1,這是？臨死信息！
 adventure_achievement_nightshroud_1_desc,夜引者使用30次附帶消滅效果的技能
@@ -2009,7 +2009,7 @@ event_city_campaign_57_intro,"你們為了購買一些路上所需的乾糧正�
 當你伸手接信的時候，那個信使小哥卻向後退了一小步，“先生們，我可是經過千山萬水才把這封信帶過來的。要想得到它請你們先給我點小費吧。”"
 event_city_campaign_57_option_a,為這封信付錢。
 event_city_campaign_57_option_b,拒絕為這封信付錢。
-event_city_campaign_57_result_a_a,你們拆開信件，發現這是元素大師前盟友寄過來的，它之前乘船去了東方大陸，想要繼續鑽研元素之道。在此期間，它花了一些時間研製了一把威力強大的法杖，並且想和你們分享他的構思。
+event_city_campaign_57_result_a_a,你們拆開信件，發現這是元素師前盟友寄過來的，它之前乘船去了東方大陸，想要繼續鑽研元素之道。在此期間，它花了一些時間研製了一把威力強大的法杖，並且想和你們分享他的構思。
 event_city_campaign_57_result_a_b,你們掏了一掏口袋，想要拿錢給這個信使，但是口袋裡面空空如也。這個小哥一臉氣憤，於是默默地離開了。
 event_city_campaign_57_result_b,你們煩躁地嘲笑了幾聲，然後把這個小哥從身邊推開。他剛想張嘴抗議之時，仔細想了一想之後還是轉身跑走了。你們通過此事向這位商人展示了你們極其節儉的一面，然後繼續與他討價還價。
 event_city_campaign_58_intro,"“他們至少也有五十只，我對天發誓！他們把我的夥伴逐一撕成粉碎！”
@@ -3283,14 +3283,14 @@ quest_campaign_018_list,調查城市的下水道
 
 quest_campaign_019_desc,封印元力位面
 quest_campaign_019_intro,"經過一天的行程，你們在蛇吻河找到了這個傍水而建，雜草叢生的遠古陵墓。
-“碎石者是個很好的夥伴。被巨大的石塊壓死只是作為元素大師必要的風險之一。”在清理完互相交織的藤蔓後，你們走進了地穴。
+“碎石者是個很好的夥伴。被巨大的石塊壓死只是作為元素師必要的風險之一。”在清理完互相交織的藤蔓後，你們走進了地穴。
 “哦，太棒了，”黑爾說道，“如今這些該死的邪教徒真是無處不在。也許他們也在尋找那個元素能爐，又或者他們只是單純的不想讓我們得到。”
 你們疑惑地看著黑爾，她抬起手，指向一處陰影。你們順著所指方向看去，這才發現有一個身披黑袍的身影從陰影中浮現。"
 quest_campaign_019_intro_gh_1,“你現在想幹什麼？”黑爾一臉茫然的盯著你。“你們找到了一個通往元力位面的裂隙，現在打算將它封上？”她歎了口氣。
 quest_campaign_019_intro_gh_2,“好吧，我確實答應過會幫助你們，”黑爾不停拋動著你們取回的水晶球陷入了沉思，“好吧，據你們的描述所說，想要關閉如此巨大的裂縫需要一些額外的準備工作。”
 quest_campaign_019_intro_gh_3,“我可以獨立完成關閉工作，但這會浪費很長時間。而且要是在施咒時被另一側的東西攻擊的話，麻煩就大了。”
 quest_campaign_019_intro_gh_4,如果我能拿到一個元素能爐的話，事情就簡單多了。而且這簡直是一石二鳥，因為我也一直想要一個元素能爐來用於研究。
-quest_campaign_019_intro_gh_5,“我知道多年前有名強大的元素大師擁有一個元素能爐。現在他已經過世了，但我會親自帶你們去他的地穴。因為我覺得讓你們獨自去處理能爐實在是有些不妥。”
+quest_campaign_019_intro_gh_5,“我知道多年前有名強大的元素師擁有一個元素能爐。現在他已經過世了，但我會親自帶你們去他的地穴。因為我覺得讓你們獨自去處理能爐實在是有些不妥。”
 quest_campaign_019_list,關閉裂縫
 
 quest_campaign_019_scenario_modifier_1,所有角色以3張詛咒卡開始劇本
@@ -6626,7 +6626,7 @@ message_end_quest_story_doomstalker_3_2,我找不到與雇主的具體聯繫，�
 message_end_quest_story_doomstalker_3_3,我追蹤了你找到的紋章。這是舊商業區廢棄倉庫的標誌。已經有幾十年沒有人在箱子上見過了。
 message_end_quest_story_doomstalker_3_4,但我們還不能去那。那個倉庫已經切斷了和惡魔閘口鎮的所有聯繫。如果我們獨自闖入的話，沒有任何人能幫我們。
 message_end_quest_story_doomstalker_3_5,在不知道有什麼人、什麼原因和原生族幹了什麼就進攻？這也太冒險了。現在我要去把這些回饋給衛兵隊長。
-message_end_quest_story_elementalist_1_1,元素大師搜索了廢墟並找到了一些來自市長辦公室的舊卷軸。看起來在史華傑爾保衛了城鎮之後，這個定居點陷入了巨額的債務中。
+message_end_quest_story_elementalist_1_1,元素師搜索了廢墟並找到了一些來自市長辦公室的舊卷軸。看起來在史華傑爾保衛了城鎮之後，這個定居點陷入了巨額的債務中。
 message_end_quest_story_elementalist_1_2,這筆錢流向了東方群山裡現代銀燈芯基地附近的一座塔。看起來我們下一步是要去那裡。
 message_end_quest_story_elementalist_2_1,圖書館有很多發黴了的各種魔法書，儘管大部分都只是對魔法粗淺或者虛假的研究，現在只能被燒了暖暖身子了。
 message_end_quest_story_elementalist_2_2,有一本斯萬格的手寫筆記。詳細記錄了來自泥道村的收支帳目，並且提到遠古神廟給予的“神之力量”，還帶張粗略的地圖。
@@ -6913,7 +6913,7 @@ message_start_quest_boss_sightlesseye_2,那會是在南部附近的火山岩石�
 message_start_quest_boss_sightlesseye_3,他還認為那些生物能夠通過排泄進行不完全地溝通，如果我們能夠克隆它們，就找找到它們的老巢。
 message_start_quest_boss_sightlesseye_4,我認為我從沒聽過比這更噁心的東西
 message_start_quest_boss_sightlesseye_5,我在深淵的恐怖中創造的藥水也許對我們有所幫助，我們應該前往火山岩石崖。
-message_start_quest_boss_undeadcommander_1,你知道嗎？這個憤怒的骷髏人聽起來非常像元素大師一直在研究的一個人物。
+message_start_quest_boss_undeadcommander_1,你知道嗎？這個憤怒的骷髏人聽起來非常像元素師一直在研究的一個人物。
 message_start_quest_boss_undeadcommander_2,斯萬格？所以他真的從魔域返回，但隨後卻被詛咒困住了？
 message_start_quest_boss_undeadcommander_3,嗯，聽起來走那條路並調查是最好的選擇。
 message_start_quest_boss_wingedhorror_1,巢靈族和羚牛族似乎在鹽沼地一同工作。沒有了那個村莊的治療資源，學校將盡力阻止巢靈族傳播無盡的災難，防止羚牛族從人類那裡奪回領地。
@@ -6934,27 +6934,15 @@ message_start_quest_travel_shimmeringshallows_1,我們已經有了軍隊和武�
 message_start_quest_travel_shimmeringshallows_2,從地面發起攻擊簡直是癡人說夢。我們需要走海路接近他們。
 message_start_quest_travel_shimmeringshallows_3,讓我們奪下螢光海灘，這是理事會並不希望看到的情形。
 message_unlock_beasttyrant_1,似乎是學習了能援助你盟友的技能讓獸王加入公會！
-message_unlock_beasttyrant_2,他現在可以通過角色功能表進行添加。
 message_unlock_berserker_1,你對痛苦的熱愛將狂戰士吸引到了我們的公會！
-message_unlock_berserker_2,她現在可以通過角色功能表進行添加。
 message_unlock_doomstalker_1,你對陷阱的靈敏運用將末日獵手吸引到了我們的公會！
-message_unlock_doomstalker_2,他現在可以通過角色功能表進行添加。
-message_unlock_elementalist_1,你對元素的掌握吸引了一名新的英雄，元素大師！
-message_unlock_elementalist_2,他們現在可以通過角色功能表進行添加。
 message_unlock_nightshroud_1,你對暗元素的運用將夜引者吸引到了我們的公會！
-message_unlock_nightshroud_2,他現在可以通過角色功能表進行添加。
 message_unlock_plagueherald_1,你創造的毒藥量將瘟疫使者吸引到了我們的公會！
-message_unlock_plagueherald_2,他現在可以通過角色功能表進行添加。
 message_unlock_quartermaster_1,你對道具的運用將精數者吸引到了我們的公會！
-message_unlock_quartermaster_2,他現在可以通過角色功能表進行添加。
 message_unlock_sawbones_1,看來有人已經注意到了你可能需要一些説明才能活下去！
-message_unlock_sawbones_2,鋸骨醫者現在可以通過角色功能表進行添加。
 message_unlock_soothsinger_1,你的事蹟吸引了一名新的傭兵，靈魂歌者！
-message_unlock_soothsinger_2,她現在可以通過角色功能表進行添加。
 message_unlock_summoner_1,收集大量的敵人肢體將召喚師吸引到了我們的公會
-message_unlock_summoner_2,她現在可以通過角色功能表進行添加。
 message_unlock_sunkeeper_1,你對光元素的運用將執日士吸引到了我們的公會！
-message_unlock_sunkeeper_2,她現在可以通過角色功能表進行添加。
 millpond,磨塘地
 minderer,減壓器
 minus,減去
@@ -7368,7 +7356,7 @@ quest_story_doomstalker_3_desc,這些事襲擊了末日獵手根據地的雇傭�
 quest_story_doomstalker_3_intro,帳本提到了隱藏在陰涼休息地鎮外一個洞穴中的地牢的方位。你情不自禁的想到暗影聯盟的邪教徒們，但幸運的是，這些雇傭兵對神秘和邪惡的事不大感興趣。洞穴外面有一片長方形的枯草——很可能是之前雇傭軍的報酬留下的地方。當你進入洞穴時，你開始聽到喊叫聲和砰砰聲在回蕩。那是戰鬥的聲音。你拿出武器，小心翼翼地前進，發現一群薩維斯憤怒地敲打著地牢的門。“你怎麼敢把我們當成可悲的低等種族對待！”其中一人吼道，然後用冰栓栓住了門。“我們說好了的，你要是不遵守約定就得吃苦頭！”你覺得現在可能不是闖進地牢的最佳時機，但當你後退的時候，你不小心提到了一顆石子。薩維斯們都看向你。“還有背叛者？殺了他！”他們一起把手臂舉過頭頂。你能感覺到空氣中的冷熱起伏，腳下的地面在震動，周圍回蕩著岩石的碎裂聲。洞穴在咆哮塌了下來，壓在你的身上，你眼前一黑。
 quest_story_doomstalker_3_list,調查那些雇傭兵
 quest_story_doomstalker_3_name,跟著帳簿的指示
-quest_story_elementalist_1_desc,説明元素大師弄明白偉大的英雄史華傑爾是如何成為一個兼具魔法攻擊和近戰戰鬥能力的大師的。
+quest_story_elementalist_1_desc,説明元素師弄明白偉大的英雄史華傑爾是如何成為一個兼具魔法攻擊和近戰戰鬥能力的大師的。
 quest_story_elementalist_1_intro,斯萬格被稱為他那一代最偉大的英雄之一，傳聞被認為是近戰戰鬥的大師和全元素之力的持有者。作為一個強大的魔法師，元素師熱衷於研究斯萬格是如何駕馭身體和精神力量的，所以想讓我們幫助去調查過去的歷史。斯萬格最著名的英雄事蹟之一是保護泥道村，該村莊位於血色灘地的西北部，所以你們要去的地點就是這裡。 泥道村戰役的故事幾乎是傳奇的，史華傑爾單槍匹馬地對抗整個強盜營，保護了整個城鎮。當你到達泥道村時，該村已經超過一個多世紀一直是廢墟。也許你可以在這裡找到一些有關斯萬格的資訊？
 quest_story_elementalist_1_list,調查歷史上最偉大的冒險者
 quest_story_elementalist_1_name,最偉大的英雄？
@@ -8249,7 +8237,7 @@ scenario_story_elementalist_3_start_2,There is magic at work here, I can feel da
 scenario_story_elementalist_3_start_3,The passage levels out, and you enter into more of a necropolis than a temple.,,,,,,,,,,,,,,
 scenario_story_elementalist_3_start_4,惡魔們？為什麼斯萬格會到這個地方？我們必須調查！
 scenario_story_elementalist_3_success_1,With the Demons dead, and the altars destroyed, the curse is lifted on this place.,,,,,,,,,,,,,
-scenario_story_elementalist_character_fail_objective,如果元素大師精疲力竭，則失敗
+scenario_story_elementalist_character_fail_objective,如果元素師精疲力竭，則失敗
 scenario_story_highcultist_fail_objective,如果機匠或織魔師精疲力竭，則失敗
 scenario_story_highcultist_room_2_1,Passing through the doorway, you are met by unwelcome sight: a Cultist is bathed in demonic power. He turns, and laughs‘,,,,,,,,,,,,,
 scenario_story_highcultist_room_2_2,What do we have here, more foolish adventurers? I have met your kind before: they are dead, and I remain.,,,,,,,,,,,,,
@@ -8546,7 +8534,7 @@ scenario_story_tinkerer_3_start_3,我應該能在短時間內關閉這些傳送�
 scenario_story_tinkerer_3_success_1,這些暗黑傳送門眨眼之間就不存在了，暗夜惡魔也跟著它們一起消失了。威脅離開之後，這個烈光惡魔變得和緩許多。
 scenario_story_tinkerer_3_success_2,你嘗試著與它交流，但它用手臂做出手勢放出了一道強大的光能。你雖然及時躲避，但還是被閃光亮瞎了眼。
 scenario_story_tinkerer_character_fail_objective,如果機匠精疲力竭，則失敗
-scenario_story_undeadcommander_fail_objective,如果元素大師或靈魂歌者精疲力竭，則失敗
+scenario_story_undeadcommander_fail_objective,如果元素師或靈魂歌者精疲力竭，則失敗
 scenario_story_undeadcommander_room_2_1,我花了幾代人時間準備這一刻，尋求著對把我困在這裡的那個人的復仇。
 scenario_story_undeadcommander_room_3_1,是時候殺死那個愛管閒事的吟游詩人的最後一個後人了，梅洛迪。
 scenario_story_undeadcommander_room_3_2,終於在這兒，我們面對面了......

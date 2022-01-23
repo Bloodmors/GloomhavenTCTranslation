@@ -6954,28 +6954,7 @@ message_start_quest_travel_rockfall_3,"Then the Savvas must be nearby, using the
 message_start_quest_travel_shimmeringshallows_1,"We've got the troops and the weapons, but how do we get them to Keyport?"
 message_start_quest_travel_shimmeringshallows_2,"A ground attack would be crazy, we need to get them in via sea."
 message_start_quest_travel_shimmeringshallows_3,"Let's take the port at Shimmering Shallows, the Council won't expect that!"
-message_unlock_beasttyrant_1,It seems embracing abilities that aid your allies has brought the Beast Tyrant to your Guild!
-message_unlock_beasttyrant_2,He is now available to add via the character menu.
-message_unlock_berserker_1,Your love of pain has attracted the Berserker to our Guild!
-message_unlock_berserker_2,She is now available to add via the character menu.
-message_unlock_doomstalker_1,Your intelligent use of traps has brought the Doomstalker to our Guild!
-message_unlock_doomstalker_2,He is now available to add via the character menu.
-message_unlock_elementalist_1,"Your mastery of the Elements has attracted a new Hero, the Elementalist!"
-message_unlock_elementalist_2,They are now available to add via the character menu.
-message_unlock_nightshroud_1,Your use of the Element of Dark has brought the Nightshroud to our Guild!
-message_unlock_nightshroud_2,He is now available to add via the character menu.
-message_unlock_plagueherald_1,The amount of Poison you have created has attracted the Plagueherald to our Guild!
-message_unlock_plagueherald_2,He is now available to add via the character menu.
-message_unlock_quartermaster_1,Your use of Items has brought the Quartermaster to our Guild!
-message_unlock_quartermaster_2,He is now available to add via the character menu.
-message_unlock_sawbones_1,It seems someone has noticed you may need some help staying alive!
-message_unlock_sawbones_2,The Sawbones is now available to add via the character menu.
-message_unlock_soothsinger_1,"Your deeds have attracted a new mercenary, the Soothsinger!"
-message_unlock_soothsinger_2,She is now available to add via the character menu.
-message_unlock_summoner_1,Collecting parts of a wide number of enemies has brought the Summoner to our Guild!
-message_unlock_summoner_2,She is now available to add via the character menu.
-message_unlock_sunkeeper_1,Your use of the Element of Light has brought the Sunkeeper to our Guild!
-message_unlock_sunkeeper_2,She is now available to add via the character menu.
+
 millpond,Millpond
 minderer,Minderer
 mindthief,Mindthief
