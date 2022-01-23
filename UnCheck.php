@@ -2873,7 +2873,7 @@ item_crystalofzenith,在你的行動輪結束時，如果與無瑕者相鄰，�
 item_curiousgear,在你的行動輪中，解除所有<nobr>射程範圍<sprite name=Range>2</nobr>以內的陷阱。
 item_dampeningring,在你的行動輪中，消耗至多2個元素而不產生任何效果。
 item_doomedcompass,在你的行動輪中，強迫一個<nobr>射程範圍<sprite name=Range> 5</nobr>以內的敵人執行一次<nobr>“移動<sprite name=Move>2”</nobr>行動，由你操控移動的方向。
-item_doompowder,【你的進攻中】對你的其中一個攻擊附加<nobr>擊暈<sprite name=Stun></nobr>，<nobr>中毒<sprite name=Poison>，</nobr>和<nobr>詛咒<sprite name=Curse></nobr>。
+item_doompowder,〈你的進攻中〉對你的其中一個攻擊附加<nobr>擊暈<sprite name=Stun></nobr>，<nobr>中毒<sprite name=Poison>，</nobr>和<nobr>詛咒<sprite name=Curse></nobr>。
 item_drakescalearmor,你免疫中毒<sprite name=Poison>和創傷<sprite name=Wound>
 	item_drakescaleboots,你不受困難地形和危險地形的影響。
 item_drakescalehelm,任何時候，當你獲得混亂<sprite name=Muddle>時，則改為獲得強化<sprite name=Strengthen>。
@@ -6327,8 +6327,8 @@ gui_town_records_intro_story_2,你的腦海中醞釀著一個想法，於是您�
 gui_town_unlocked_notification,你已經解鎖了黯淡港灣的城鎮記錄！
 
 
-gui_tutorial_victory_info,"恭喜，你通過了教學，現在是應用你的所學進行戰鬥的時候了！走向【新冒險】來選擇一個玩家團隊並開始。
-有關黯淡港灣規則的更多資訊，請查看主功能表中的【簡明規則書】部分，它在遊戲進行時的暫停功能表中也可找到並查看。
+gui_tutorial_victory_info,"恭喜，你通過了教學，現在是應用你的所學進行戰鬥的時候了！走向〖新冒險〗來選擇一個玩家團隊並開始。
+有關黯淡港灣規則的更多資訊，請查看主功能表中的〖簡明規則書〗部分，它在遊戲進行時的暫停功能表中也可找到並查看。
 祝你好運！"
 gui_unequipped,未被裝備
 

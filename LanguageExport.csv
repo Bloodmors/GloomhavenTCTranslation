@@ -3,7 +3,7 @@
 004_b,本回合中，任何指定一個相鄰盟友的攻擊的目標改為你，無視攻擊範圍。,,,
 007_b,在之後的的6次指定你為目標的攻擊中，獲得<nobr>護盾<sprite name=Shield> *BShield*。</nobr>,,,
 013_b,<nobr>本回合，</nobr>你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack>。</nobr>,,,
-015_b,"【之後三次你受到傷害時】
+015_b,"〈之後三次你受到傷害時〉
 傷害結算階段中：免疫此次傷害",,,
 016_b,如果你的移動路徑為一條直線，執行,,,
 022_t,消滅一個相鄰的被<nobr>暈眩<sprite name=Stun></nobr>的普通階級敵人。,,,
@@ -36,7 +36,7 @@
 060_t,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>最多兩張燼牌堆的牌，然後他們焚燒兩張牌。,,,
 062_t,此外，指定所有在<nobr>主要目標路徑</nobr>上的敵人為目標。,,,
 063_t,<nobr>回收<sprite name=Recover></nobr>所有你<nobr>燼牌堆的牌</nobr>。,,,
-066_b,"【之後兩次你受到傷害時】
+066_b,"〈之後兩次你受到傷害時〉
 傷害結算階段中：免疫此次傷害",,,
 069_t_1,在你之後的的四次攻擊中，<nobr>附加 +*TActive* 攻擊力<sprite name=Attack>。</nobr>,,,
 069_t_1_alt,在你之後的的四次攻擊中，<nobr>附加+2攻擊力<sprite name=Attack>。</nobr>,,,
@@ -232,7 +232,7 @@
 318_b_2,本回合，每有兩名盟友（向下取整）因此效果損失生命值，為你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。,,,
 320_b,如果你當前生命值小於你最大生命值的一半（向上取整），獲得<sprite name=XP1>並執行,,,
 321_t,你可以損失2點生命值來為你的攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。,,,
-322_b,【之後三次你受到傷害時】如果你的生命值將因傷害降低到1點以下，免疫此次傷害。,,,
+322_b,〈之後三次你受到傷害時〉如果你的生命值將因傷害降低到1點以下，免疫此次傷害。,,,
 322_t,如果你當前的生命值小於你最大生命值的一半（向上取整），為你的攻擊附加<nobr>+2攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。,,,
 324_b_1,為你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。,,,
 324_b_2,每當你輪次開始時，損失1點生命值。,,,
@@ -1105,13 +1105,13 @@ adventure_achievement_1_4_killsundemons_2_desc,擊殺 75 隻豔陽惡魔,,,
 adventure_achievement_1_4_unlocklocations,---斧神工,,,
 adventure_achievement_1_4_unlocklocations_desc,---到達鷹山頂,,,
 adventure_achievement_1_5_killnightdemonlight,黎明之主,,,
-adventure_achievement_1_5_killnightdemonlight_desc,【場上有光明元素時】擊殺 20 隻惡夜惡魔,,,
+adventure_achievement_1_5_killnightdemonlight_desc,〈場上有光明元素時〉擊殺 20 隻惡夜惡魔,,,
 adventure_achievement_1_5_killstonegolems_1,---錘40,,,
 adventure_achievement_1_5_killstonegolems_1_desc,擊殺 10 隻石魔偶,,,
 adventure_achievement_1_5_killstonegolems_2,---錘80,,,
 adventure_achievement_1_5_killstonegolems_2_desc,擊殺 50 隻石魔偶,,,
 adventure_achievement_1_5_killsundemondark,夜幕之主,,,
-adventure_achievement_1_5_killsundemondark_desc,【場上有黑暗元素時】擊殺 20 隻豔陽惡魔,,,
+adventure_achievement_1_5_killsundemondark_desc,〈場上有黑暗元素時〉擊殺 20 隻豔陽惡魔,,,
 adventure_achievement_1_5_trapkills,---君，這邊請,,,
 adventure_achievement_1_5_trapkills_desc,---用陷阱擊殺 20 個敵人,,,
 adventure_achievement_1_5_unlocklocations,---復旅途,,,
@@ -1334,7 +1334,7 @@ attackersgaindisadvantage,攻擊方們陷入劣勢進攻,,,
 attacksapply,攻擊中附加,,,
 attacksinfuse,在攻擊中元素充能,,,
 augment,特效賦能,,,
-augment_discardreminder,【再次打出<nobr><color=#A7B3D2>特效賦能</color><sprite name=Augment></nobr>牌時】丟棄此牌。,,,
+augment_discardreminder,〈再次打出<nobr><color=#A7B3D2>特效賦能</color><sprite name=Augment></nobr>牌時〉丟棄此牌。,,,
 augment_onyourmeleeattacks,你的近戰進攻<sprite name=Attack>：,,,
 aura,光環,,,
 banditarcher,強盜弓箭手,,,
@@ -1345,53 +1345,53 @@ banditguardelite,【精英】強盜守衛,,,
 battleboar,豪豬,,,
 battlebot,戰鬥機器,,,
 battlegoal_agressor,好戰者,,,
-battlegoal_agressor_desc,【劇本裡每個回合開始時】場地上都有 1 隻以上的怪物。,,,
+battlegoal_agressor_desc,〈劇本裡每個回合開始時〉場地上都有 1 隻以上的怪物。,,,
 battlegoal_diehard,硬漢,,,
-battlegoal_diehard_desc,【劇本裡】絕不讓你的生命值低於生命值上限的一半。(四捨五入),,,
+battlegoal_diehard_desc,〈劇本裡〉絕不讓你的生命值低於生命值上限的一半。(四捨五入),,,
 battlegoal_dynamo,大力士,,,
-battlegoal_dynamo_desc,【劇本裡擊殺怪物時】造成 4 點以上的過量傷害。,,,
+battlegoal_dynamo_desc,〈劇本裡擊殺怪物時〉造成 4 點以上的過量傷害。,,,
 battlegoal_executioner,行刑者,,,
-battlegoal_executioner_desc,【劇本裡】進行一次進攻就擊殺未受到傷害的怪物。,,,
+battlegoal_executioner_desc,〈劇本裡〉進行一次進攻就擊殺未受到傷害的怪物。,,,
 battlegoal_explorer,探險家,,,
-battlegoal_explorer_desc,【劇本裡你的輪次中】開啟一扇門。,,,
+battlegoal_explorer_desc,〈劇本裡你的輪次中〉開啟一扇門。,,,
 battlegoal_fasthealer,疾速治療師,,,
-battlegoal_fasthealer_desc,【劇本結束時】你的生命值等於生命值上限。,,,
+battlegoal_fasthealer_desc,〈劇本結束時〉你的生命值等於生命值上限。,,,
 battlegoal_hoarder,松鼠症患者,,,
-battlegoal_hoarder_desc,【劇本裡】收集 5 個以上的金幣。,,,
+battlegoal_hoarder_desc,〈劇本裡〉收集 5 個以上的金幣。,,,
 battlegoal_hunter,獵人,,,
-battlegoal_hunter_desc,【劇本裡】擊殺 1 隻以上的菁英怪物。,,,
+battlegoal_hunter_desc,〈劇本裡〉擊殺 1 隻以上的菁英怪物。,,,
 battlegoal_indigent,窮人,,,
-battlegoal_indigent_desc,【劇本裡】沒收集過金幣或是寶藏。,,,
+battlegoal_indigent_desc,〈劇本裡〉沒收集過金幣或是寶藏。,,,
 battlegoal_layabout,懶惰鬼,,,
-battlegoal_layabout_desc,【劇本裡】獲得 7 點以下的經驗。,,,
+battlegoal_layabout_desc,〈劇本裡〉獲得 7 點以下的經驗。,,,
 battlegoal_masochist,受虐狂,,,
-battlegoal_masochist_desc,【劇本結束時】你的生命值在 2 點以下。,,,
+battlegoal_masochist_desc,〈劇本結束時〉你的生命值在 2 點以下。,,,
 battlegoal_neutralizer,和事佬,,,
-battlegoal_neutralizer_desc,【劇本裡你或你召喚物的輪次中】觸發或拆除一個陷阱。,,,
+battlegoal_neutralizer_desc,〈劇本裡你或你召喚物的輪次中〉觸發或拆除一個陷阱。,,,
 battlegoal_opener,起始者,,,
-battlegoal_opener_desc,【劇本裡】最先擊殺怪物。,,,
+battlegoal_opener_desc,〈劇本裡〉最先擊殺怪物。,,,
 battlegoal_pacifist,和平主義者,,,
-battlegoal_pacifist_desc,【劇本裡】擊殺 3 隻以下的怪物。,,,
+battlegoal_pacifist_desc,〈劇本裡〉擊殺 3 隻以下的怪物。,,,
 battlegoal_plunderer,掠奪者,,,
-battlegoal_plunderer_desc,【劇本裡】收集 1 個以上的寶箱。,,,
+battlegoal_plunderer_desc,〈劇本裡〉收集 1 個以上的寶箱。,,,
 battlegoal_professional,專家,,,
-battlegoal_professional_desc,【劇本裡】使用(等級 + 2)次以上的物品。,,,
+battlegoal_professional_desc,〈劇本裡〉使用(等級 + 2)次以上的物品。,,,
 battlegoal_protector,守護者,,,
-battlegoal_protector_desc,【劇本裡】沒有任何盟友精疲力竭。,,,
+battlegoal_protector_desc,〈劇本裡〉沒有任何盟友精疲力竭。,,,
 battlegoal_purist,純粹主義者,,,
-battlegoal_purist_desc,【劇本裡】不使用任何物品。,,,
+battlegoal_purist_desc,〈劇本裡〉不使用任何物品。,,,
 battlegoal_sadist,虐待狂,,,
-battlegoal_sadist_desc,【劇本裡】擊殺 5 隻以上的怪物。,,,
+battlegoal_sadist_desc,〈劇本裡〉擊殺 5 隻以上的怪物。,,,
 battlegoal_scrambler,躁進者,,,
-battlegoal_scrambler_desc,【劇本裡】休息動作只進行短休息。,,,
+battlegoal_scrambler_desc,〈劇本裡〉休息動作只進行短休息。,,,
 battlegoal_straggler,隨興者,,,
-battlegoal_straggler_desc,【劇本裡】休息動作只進行長休息。,,,
+battlegoal_straggler_desc,〈劇本裡〉休息動作只進行長休息。,,,
 battlegoal_streamliner,流暢操作者,,,
-battlegoal_streamliner_desc,【劇本結束時】手牌與棄牌堆中的牌，總和 5 張以上。,,,
+battlegoal_streamliner_desc,〈劇本結束時〉手牌與棄牌堆中的牌，總和 5 張以上。,,,
 battlegoal_workhorse,菁英部隊,,,
-battlegoal_workhorse_desc,【劇本裡】獲得 13 點以上的經驗。,,,
+battlegoal_workhorse_desc,〈劇本裡〉獲得 13 點以上的經驗。,,,
 battlegoal_zealot,狂熱者,,,
-battlegoal_zealot_desc,【劇本結束時】手牌與棄牌堆中的牌，總和 3 張以下。,,,
+battlegoal_zealot_desc,〈劇本結束時〉手牌與棄牌堆中的牌，總和 3 張以下。,,,
 beartrap,陷阱,,,
 beasttyrant,野獸霸主,,,
 beasttyrant_adventure_description,超越他們基本本能的魔鼠發現，如果在荒野中的野獸身上應用他們的意念，他們會受益多多。野獸霸主們可以聚集帶著尖牙、獸爪和禽爪的驚人的軍隊，這讓他們在戰鬥中成為強大的對手,,,
@@ -4611,8 +4611,8 @@ ftue_13,"記住你可以帶著<color=#EACF8C>最多四個傭兵</color>開始一
 ftue_2,"在螢幕左側你會看到<color=#EACF8C>團隊面板</color>。這裡你將看到你團隊中傭兵的基本資訊。
 點擊第一位角色空位以打開<color=#EACF8C>角色選擇面板</color>。",,,
 ftue_2.2,點擊<color=#EACF8C>第一位角色空位</color>以打開角色選擇面板,,,
-ftue_3,使用<color=#EACF8C>角色選擇面板</color>，你可以查看目前團隊的傭兵或僱用新傭兵到你的團隊中。現在它看起來像<color=#BA7956>銅頸山脈</color>一樣一無所有，所以最好趕快點擊<color=#EACF8C>【僱傭新傭兵】</color>以建立你的第一位角色！,,,
-ftue_3.2,點擊<color=#EACF8C>【僱傭新傭兵】</color>以建立一位角色,,,
+ftue_3,使用<color=#EACF8C>角色選擇面板</color>，你可以查看目前團隊的傭兵或僱用新傭兵到你的團隊中。現在它看起來像<color=#BA7956>銅頸山脈</color>一樣一無所有，所以最好趕快點擊<color=#EACF8C>〖僱傭新傭兵〗</color>以建立你的第一位角色！,,,
+ftue_3.2,點擊<color=#EACF8C>〖僱傭新傭兵〗</color>以建立一位角色,,,
 ftue_4,"下一步你將選擇一個<color=#EACF8C>起始角色職業</color>。
 每位角色擁有獨特的技能和遊戲方式。隨著你的等級提升，可獲取新能力卡並解鎖更多角色職業。
 點擊角色頭像以瞭解他們的更多資訊並選擇任意一名成為你的第一位傭兵！",,,
@@ -5293,17 +5293,17 @@ gui_house_rules,自改規則,,,
 gui_house_rules_advantage,優勢或劣勢,,,
 gui_house_rules_advantage_original,原始：可能在具有優勢狀態下抽到""失手"",,,
 gui_house_rules_advantage_original_tooltip,"在有優勢或是劣勢狀態下進行攻擊時：
-【如果只抽到一張有""連抽""圖示的攻擊修正卡】進行以下判定
+〔如果只抽到一張有""連抽""圖示的攻擊修正卡〕進行以下判定
 * 在具有優勢狀態時，兩張攻擊修正卡都將套用至攻擊中。
 * 在具有劣勢狀態時，只有沒有""連抽""圖示的攻擊修正卡套用至攻擊中。
 - 另一種狀況
-【如果兩張都是有""連抽""圖示的攻擊修正卡】就持續抽卡直到出現沒有""連抽""圖示的攻擊修正卡為止，然後進行以下判定
+〔如果兩張都是有""連抽""圖示的攻擊修正卡〕就持續抽卡直到出現沒有""連抽""圖示的攻擊修正卡為止，然後進行以下判定
 * 在具有優勢狀態時，全部的攻擊修正卡都將套用至攻擊中。
 * 在具有劣勢狀態時，只有沒有""連抽""圖示的攻擊修正卡套用至攻擊中。",,,
 gui_house_rules_advantage_variant,<color=#ED1F18>【推薦】</color>變體：不會在具有優勢狀態下抽到""失手"",,,
 gui_house_rules_advantage_variant_tooltip,"在具有優勢或是劣勢狀態下進行攻擊時：
-【如果第一張攻擊修正卡有""連抽""圖示】就持續抽卡直到出現沒有""連抽""圖示的攻擊修正卡為止。
-【不論第一張攻擊修正卡是否有""連抽""圖示】再抽一張攻擊修正卡，此卡無論是否有""連抽""圖示都將忽視此圖示效果，然後進行以下判定
+〔如果第一張攻擊修正卡有""連抽""圖示〕就持續抽卡直到出現沒有""連抽""圖示的攻擊修正卡為止。
+〔不論第一張攻擊修正卡是否有""連抽""圖示〕再抽一張攻擊修正卡，此卡無論是否有""連抽""圖示都將忽視此圖示效果，然後進行以下判定
 * 在具有優勢狀態時，選擇最佳的兩張攻擊修正卡套用至攻擊中。
 * 在具有劣勢狀態時，選擇兩張最糟且沒有""連抽""圖示的攻擊修正卡套用至攻擊中。",,,
 gui_house_rules_attack_modifiers,攻擊修正卡,,,
@@ -6067,7 +6067,7 @@ gui_tooltip_consuming_available,點擊此處以增強此行動，此過程中將
 gui_tooltip_consuming_clicked,這一行動將被元素增強。可點擊右邊的元素增強按鈕以取消增強並放走元素。,,,
 gui_tooltip_consuming_disabled,該行動可以透過消耗元素來增強。你只能在角色輪次期間並且已經充能了所需的元素時執行此行動。,,,
 gui_tooltip_consuming_unavailable,該行動可以透過消耗元素來增強。首先，使用某些行動來充能所需的元素。,,,
-gui_tooltip_deal_damage,選擇【承受傷害】、【焚燒一張手牌】或【焚燒兩張棄牌堆的牌】。,,,
+gui_tooltip_deal_damage,選擇〖承受傷害〗、〖焚燒一張手牌〗或〖焚燒兩張棄牌堆的牌〗。,,,
 gui_tooltip_deal_damage_companion,選擇對{0}的傷害結算方式，焚燒一張{1}的手牌或著兩張棄牌堆的牌。,,,
 gui_tooltip_deal_damage_mandatory_use,如果會承受 <b>1</b> 點以上的傷害，則必須使用,,,
 gui_tooltip_deal_damage_mp,{0}不得不選擇如何承受傷害。,,,
@@ -6142,9 +6142,9 @@ gui_tutorial_01_instructions,岩石心這一回合只有兩張能力卡。你現
 gui_tutorial_01_title,近戰進攻和移動,,,
 gui_tutorial_exit,退出教學,,,
 gui_tutorial_victory,勝利！,,,
-gui_tutorial_victory_info,"恭喜，你通過了教學，現在是應用你的所學進行戰鬥的時候了！走向""新冒險""來選擇一個團隊並開始。
+gui_tutorial_victory_info,"恭喜，你通過了教學，現在是應用你的所學進行戰鬥的時候了！走向〖新冒險〗來選擇一個玩家團隊並開始。
 
-有關黯淡港灣規則的更多資訊，請查看主功能表中的""簡易規則書""部分，它在遊戲進行時的暫停功能表中也可找到並查看。
+有關黯淡港灣規則的更多資訊，請查看主功能表中的〖簡明規則書〗部分，它在遊戲進行時的暫停功能表中也可找到並查看。
 
 祝你好運！",,,
 gui_undo,取消,,,
@@ -6272,101 +6272,101 @@ ironbell,鐵鐘堡,,,
 ironbell_descr,這座小堡壘擁有鐵鐘the Iron Bell，這是一種數百年來未使用的古老警報系統。它被用來警告奇波特港有掠奪者從南部沼澤中上來。,,,
 ironwoodcamp,鐵木營地,,,
 item,物品,,,
-item_amuletoflife,"【你的輪次中】
+item_amuletoflife,"〈你的輪次中〉
 <nobr>自身治療<sprite name=Heal> <b>1</b> </nobr>",,,
-item_ancientdrill,【你的近戰<color=#1F9EDC>進攻</color>中】對你的整個攻擊行動附加<nobr>+2進攻<sprite name=Attack></nobr>和<nobr>2穿透<sprite name=Pierce></nobr>。,,,
+item_ancientdrill,〈你的近戰<color=#1F9EDC>進攻</color>中〉對你的整個攻擊行動附加<nobr>+2進攻<sprite name=Attack></nobr>和<nobr>2穿透<sprite name=Pierce></nobr>。,,,
 item_balancedblade,當你使用能力卡頂部的預設行動時，將<nobr>“進攻<sprite name=Attack>2”</nobr>改為<nobr>“進攻<sprite name=Attack>4”</nobr>。,,,
 item_battleaxe,在你對單個目標進行近戰進攻時，將攻擊改為執行以下步驟：,,,
 item_blackcard_1,選擇一個相鄰的非精英或精英敵人。,,,
 item_blackcard_2,你對目標敵人的所有攻擊均獲得<nobr>+1進攻<sprite name=Attack></nobr>。,,,
 item_blackcard_activetext,{0}所有對被選中的敵人的攻擊獲得<nobr>+1進攻<sprite name=Attack></nobr>。,,,
-item_blackcenser,【你的輪次中】<nobr>混亂<sprite name=Muddle></nobr><nobr>射程範圍<sprite name=Range>2</nobr>以內的所有敵人。,,,
-item_blackknife,【你的近戰<color=#1F9EDC>進攻</color>中】對你的其中一個攻擊施加<nobr>詛咒<sprite name=Curse></nobr>。,,,
-item_blinkingcape,【你的輪次中】進行一次<nobr>“移動<sprite name=Move>4，</nobr><nobr>跳躍<sprite name=Jump>”</nobr>。,,,
-item_bloodyaxe,【你的近戰<color=#1F9EDC>進攻</color>中】損失2點生命值並對整個攻擊輪次<nobr>+1進攻<sprite name=Attack></nobr>。,,,
-item_bootsofdashing,"【你的<color=#1F9EDC>前進</color>中】
+item_blackcenser,〈你的輪次中〉<nobr>混亂<sprite name=Muddle></nobr><nobr>射程範圍<sprite name=Range>2</nobr>以內的所有敵人。,,,
+item_blackknife,〈你的近戰<color=#1F9EDC>進攻</color>中〉對你的其中一個攻擊施加<nobr>詛咒<sprite name=Curse></nobr>。,,,
+item_blinkingcape,〈你的輪次中〉進行一次<nobr>“移動<sprite name=Move>4，</nobr><nobr>跳躍<sprite name=Jump>”</nobr>。,,,
+item_bloodyaxe,〈你的近戰<color=#1F9EDC>進攻</color>中〉損失2點生命值並對整個攻擊輪次<nobr>+1進攻<sprite name=Attack></nobr>。,,,
+item_bootsofdashing,"〈你的<color=#1F9EDC>前進</color>中〉
 本次能力：<nobr><b>+3</b> <sprite name=Move></nobr>",,,
 item_bootsoflevitation,獲得飛行。,,,
 item_bootsofquickness,在一個回合開始時，當所有能力卡被揭示之後，你可以選擇讓你的優先權增加或者減少20點。,,,
 item_bootsofspeed,在一個回合開始時，當所有能力卡被揭示之後，你可以選擇讓你的優先權增加或者減少10點。,,,
-item_bootsofsprinting,"【你的<color=#1F9EDC>前進</color>中】
+item_bootsofsprinting,"〈你的<color=#1F9EDC>前進</color>中〉
 本次能力：<nobr><b>+4</b> <sprite name=Move></nobr>",,,
-item_bootsofstriding,"【你的<color=#1F9EDC>前進</color>中】
+item_bootsofstriding,"〈你的<color=#1F9EDC>前進</color>中〉
 本次能力：<nobr><b>+2</b> <sprite name=Move></nobr>",,,
-item_brilliantblade,【你的近戰<color=#1F9EDC>進攻</color>中】<sprite name=ConsumeLight>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
+item_brilliantblade,〈你的近戰<color=#1F9EDC>進攻</color>中〉<sprite name=ConsumeLight>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
 item_chainhood,當你與三個或者更多怪物相鄰時，獲得<nobr>護盾<sprite name=Shield>1</nobr>,,,
 item_chainmail,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
-item_circletofelements,"【你的輪次中】
+item_circletofelements,"〈你的輪次中〉
 <sprite name=ConsumeAny>並充能任意一個元素",,,
-item_cloakofinvisibility,"【你的輪次中】
+item_cloakofinvisibility,"〈你的輪次中〉
 自身附加<nobr>隱形<sprite name=Invisible></nobr>",,,
 item_cloakofphasing,獲得飛行。當處於障礙物格子時，你被視為<nobr>隱形<sprite name=Invisible></nobr>並且你無法攻擊。,,,
 item_cloakofpockets,你可以額外攜帶兩個<sprite name=InvSmallItem>小道具。,,,
 item_comfortableshoes,當你使用能力卡底部的預設行動時，將<nobr>“移動<sprite name=Move>2”</nobr>改為<nobr>“移動<sprite name=Move>3”</nobr>。,,,
 item_crystalofzenith,在你的輪次結束時，如果與無瑕者相鄰，你可以對其造成兩倍於團隊中傭兵數量的傷害。,,,
-item_curiousgear,【你的輪次中】拆除所有<nobr>射程範圍<sprite name=Range>2</nobr>以內的陷阱。,,,
-item_dampeningring,【你的輪次中】消耗最多2個元素而不產生任何效果。,,,
-item_doomedcompass,【你的輪次中】強迫一個<nobr>射程範圍<sprite name=Range> 5</nobr>以內的敵人進行一次<nobr>“移動<sprite name=Move>2”</nobr>行動，由你操控移動的方向。,,,
-item_doompowder,"【你的<color=#1F9EDC>進攻</color>中】
+item_curiousgear,〈你的輪次中〉拆除所有<nobr>射程範圍<sprite name=Range>2</nobr>以內的陷阱。,,,
+item_dampeningring,〈你的輪次中〉消耗最多2個元素而不產生任何效果。,,,
+item_doomedcompass,〈你的輪次中〉強迫一個<nobr>射程範圍<sprite name=Range> 5</nobr>以內的敵人進行一次<nobr>“移動<sprite name=Move>2”</nobr>行動，由你操控移動的方向。,,,
+item_doompowder,"〈你的<color=#1F9EDC>進攻</color>中〉
 對你的其中一個攻擊附加<nobr>暈眩<sprite name=Stun></nobr>，<nobr>中毒<sprite name=Poison>，</nobr>和<nobr>詛咒<sprite name=Curse></nobr>",,,
 item_drakescalearmor,你免疫中毒<sprite name=Poison>和創傷<sprite name=Wound>,,,
 item_drakescaleboots,你不受困難地形和危險地形的影響。,,,
 item_drakescalehelm,任何時候，當你獲得混亂<sprite name=Muddle>時，則改為獲得強壯<sprite name=Strengthen>。,,,
-item_eagleeyegoggles,"【你的<color=#1F9EDC>進攻</color>中】
+item_eagleeyegoggles,"〈你的<color=#1F9EDC>進攻</color>中〉
 本次能力：具有優勢狀態",,,
-item_empoweringtalisman,【你的輪次中】<nobr>重置<sprite name=Refresh></nobr>自身一個已磨損<sprite name=InvSmallItem>小道具。,,,
+item_empoweringtalisman,〈你的輪次中〉<nobr>重置<sprite name=Refresh></nobr>自身一個已磨損<sprite name=InvSmallItem>小道具。,,,
 item_endurancefootwraps,若在你自己的輪次中的移動了4個或更多格子，則進行一次<nobr>“治療<sprite name=Heal>1，自身”</nobr>行動。,,,
 item_falconfigurine,召喚玉鷹,,,
 item_fleabittenshawl,當敵人進行攻擊目標判定時，你的優先權始終視為 <b>99</b>。,,,
-item_frigidblade,【你的近戰<color=#1F9EDC>進攻</color>中】<sprite name=ConsumeIce>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
+item_frigidblade,〈你的近戰<color=#1F9EDC>進攻</color>中〉<sprite name=ConsumeIce>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
 item_fueledfalchion,在你對單個目標進行近戰進攻時，該攻擊目標以及所有與其相鄰的敵人損失1點生命值。,,,
-item_giantremotespider,"【你的輪次中】
+item_giantremotespider,"〈你的輪次中〉
 <nobr>“拾取<sprite name=Loot>1”</nobr>",,,
 item_halberd,在你執行單一目標的近戰進攻行動時，你可以攻擊兩格以內的任意一個敵人。,,,
 item_hawkhelm,當你進行遠程進攻時，對你的整個攻擊輪次附加<nobr>+1射程<sprite name=Range></nobr>。,,,
-item_heartofthebetrayer,【你的輪次中】強迫一個<nobr>射程範圍<sprite name=Range> 3以內</nobr>的敵人進行一次<nobr>進攻<sprite name=Attack>+0</nobr>，<nobr>射程範圍<sprite name=Range>+0</nobr>行動，由你操控整個行動。,,,
-item_heatershield,"<size=80%>【你受到攻擊的傷害時】</size>
+item_heartofthebetrayer,〈你的輪次中〉強迫一個<nobr>射程範圍<sprite name=Range> 3以內</nobr>的敵人進行一次<nobr>進攻<sprite name=Attack>+0</nobr>，<nobr>射程範圍<sprite name=Range>+0</nobr>行動，由你操控整個行動。,,,
+item_heatershield,"<size=80%>〈你受到攻擊的傷害時〉</size>
 傷害結算階段中：自身具有<nobr>護盾<sprite name=Shield> <b>1</b></nobr> 能力",,,
 item_heavybasinet,你免疫暈眩<sprite name=Stun>和混亂<sprite name=Muddle>,,,
 item_heavygreaves,你免疫所有由敵人和劇本機制所造成的強制移動行動,,,
-item_helixring,【你的輪次中】<sprite name=ConsumeLight><sprite name=ConsumeDark>並進行一次<nobr>“治療<sprite name=Heal>25，自身”</nobr>。,,,
+item_helixring,〈你的輪次中〉<sprite name=ConsumeLight><sprite name=ConsumeDark>並進行一次<nobr>“治療<sprite name=Heal>25，自身”</nobr>。,,,
 item_helmofthemountain,當你受到攻擊時，如果<sprite name=Earth>處於強烈，則對攻擊方施加<sprite name=Immobilize>。,,,
-item_hidearmor,"【之後兩次你受到攻擊的傷害時】
+item_hidearmor,"〈之後兩次你受到攻擊的傷害時〉
 傷害結算階段中：自身具有<nobr>護盾<sprite name=Shield> <b>1</b></nobr> 能力",,,
 item_hookedchain,當你進行遠程進攻時，對你的整個攻擊行動附加<nobr>拉近<sprite name=Pull>2</nobr>。,,,
 item_hornedhelm,若在你自己的輪次中移動了4個或者更多格子，對你此輪次的下一次近戰進攻附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
-item_infernoblade,"【你的近戰<color=#1F9EDC>進攻</color>中】
+item_infernoblade,"〈你的近戰<color=#1F9EDC>進攻</color>中〉
 <sprite name=ConsumeFire>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>",,,
 item_ironhelmet,當你受到攻擊時，將敵人抽到的任何<color=orange><b>x2</b></color>攻擊修正卡視為其抽到了一張+0攻擊修正卡。,,,
-item_jaggedsword,"【你的近戰<color=#1F9EDC>進攻</color>中】
+item_jaggedsword,"〈你的近戰<color=#1F9EDC>進攻</color>中〉
 其中一個攻擊：具有施加<nobr>創傷<sprite name=Wound></nobr>的附加能力",,,
-item_leatherarmor,"【你受到攻擊時自動發動】
+item_leatherarmor,"〈你受到攻擊時自動發動〉
 攻擊方抽取攻擊修正卡時：具有劣勢狀態",,,
 item_longspear,在你對單個目標進行近戰進攻時，將攻擊改為執行以下步驟：,,,
-item_luckyeye,【你的輪次中】你和相鄰的盟友獲得<nobr>強壯<sprite name=Strengthen></nobr>。,,,
+item_luckyeye,〈你的輪次中〉你和相鄰的盟友獲得<nobr>強壯<sprite name=Strengthen></nobr>。,,,
 item_magmawaders,無視危險地形的傷害。每個輪次中首次進入危險地形時，你可以立即進行一次“治療2，自身”。,,,
-item_majorcurepotion,【你的輪次中】移除自身的所有負面狀態。此物品可以在你處於<nobr>暈眩<sprite name=Stun></nobr>狀態時使用。,,,
-item_majorhealingpotion,"【你的輪次中】
+item_majorcurepotion,〈你的輪次中〉移除自身的所有負面狀態。此物品可以在你處於<nobr>暈眩<sprite name=Stun></nobr>狀態時使用。,,,
+item_majorhealingpotion,"〈你的輪次中〉
 <nobr>自身治療<sprite name=Heal> <b>5</b> </nobr>",,,
-item_majormanapotion,"【你的輪次中】
+item_majormanapotion,"〈你的輪次中〉
 充能任意兩個元素",,,
-item_majorpowerpotion,"【你的<color=#1F9EDC>進攻</color>中】
+item_majorpowerpotion,"〈你的<color=#1F9EDC>進攻</color>中〉
 本次能力：<nobr><b>+2</b> <sprite name=Attack></nobr>",,,
-item_majorstaminapotion,"【你的輪次中】
+item_majorstaminapotion,"〈你的輪次中〉
 從你的棄牌堆中<nobr>回收<sprite name=Recover></nobr>最多兩張牌",,,
-item_maskofterror,"【你的近戰<color=#1F9EDC>進攻</color>中】
+item_maskofterror,"〈你的近戰<color=#1F9EDC>進攻</color>中〉
 附加<nobr>強推<sprite name=Push>1</nobr>",,,
-item_minorcurepotion,"【你的輪次中】
+item_minorcurepotion,"〈你的輪次中〉
 移除自身一個負面狀態。此物品可以在你處於<nobr>暈眩<sprite name=Stun></nobr>狀態時使用",,,
-item_minorhealingpotion,"【你的輪次中】
+item_minorhealingpotion,"〈你的輪次中〉
 <nobr>自身治療<sprite name=Heal> <b>3</b> </nobr>",,,
-item_minormanapotion,"【你的輪次中】
+item_minormanapotion,"〈你的輪次中〉
 充能任意一個元素",,,
-item_minorpowerpotion,"【你的<color=#1F9EDC>進攻</color>中】
+item_minorpowerpotion,"〈你的<color=#1F9EDC>進攻</color>中〉
 本次能力：<nobr><b>+1</b> <sprite name=Attack></nobr>",,,
-item_minorstaminapotion,"【你的輪次中】
+item_minorstaminapotion,"〈你的輪次中〉
 從你的棄牌堆中<nobr>回收<sprite name=Recover></nobr>最多一張牌",,,
-item_moonearring,"【你的輪次中】
+item_moonearring,"〈你的輪次中〉
 將你所有已磨損的物品<nobr>重置<sprite name=Refresh></nobr>",,,
 item_mountainhammer,Item_MountainHammer PLACEHOLDER,,,
 item_mountainhammer_1,召喚戰爭英靈,,,
@@ -6509,82 +6509,82 @@ item_name_wavecrest,波浪項鍊,,,
 item_name_weightednet,投網,,,
 item_name_wingedshoes,飛翼鞋,,,
 item_necklaceofteeth,每當你在自己的輪次中消滅一個敵人時，進行一次<nobr>“治療<sprite name=Heal>1，</nobr>自身”。,,,
-item_nightblade,"【你的近戰<color=#1F9EDC>進攻</color>中】
+item_nightblade,"〈你的近戰<color=#1F9EDC>進攻</color>中〉
 <sprite name=ConsumeDark>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>",,,
 item_occultdagger,在你攻擊收割者時，獲得<nobr>穿透<sprite name=Pierce>4。</nobr>,,,
-item_orbofdawn,"【你的輪次中】
+item_orbofdawn,"〈你的輪次中〉
 消耗<nobr>黑暗元素<sprite name=ConsumeDark>並充能<nobr>光明元素<sprite name=Light>",,,
-item_orboftwilight,"【你的輪次中】
+item_orboftwilight,"〈你的輪次中〉
 消耗<nobr>光明元素<sprite name=ConsumeLight></nobr>並充能<nobr>黑暗元素<sprite name=Dark></nobr>",,,
-item_pendantofdarkpacts,【你的輪次中】<nobr>重置<sprite name=Refresh></nobr>自身2個已磨損<sprite name=InvSmallItem>小道具。獲得<nobr>詛咒<sprite name=Curse></nobr>。,,,
-item_piercingbow,"【你的遠程<color=#1F9EDC>進攻</color>中】
+item_pendantofdarkpacts,〈你的輪次中〉<nobr>重置<sprite name=Refresh></nobr>自身2個已磨損<sprite name=InvSmallItem>小道具。獲得<nobr>詛咒<sprite name=Curse></nobr>。,,,
+item_piercingbow,"〈你的遠程<color=#1F9EDC>進攻</color>中〉
 本次能力：無視防禦方的<nobr>護盾<sprite name=Shield></nobr>能力",,,
 item_platemail,在下五次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
-item_poisondagger,"【你的近戰<color=#1F9EDC>進攻</color>中】
+item_poisondagger,"〈你的近戰<color=#1F9EDC>進攻</color>中〉
 其中一個攻擊：具有施加<nobr>中毒<sprite name=Poison></nobr>的附加能力",,,
 item_powercore,Item_PowerCore PLACEHOLDER,,,
 item_protectivecharm,你免疫中毒<sprite name=Poison>和創傷<sprite name=Wound>,,,
 item_reapingscythe,在你對單個目標進行近戰進攻時，將攻擊改為執行以下步驟：,,,
-item_remotespider,【你的輪次中】對所有相鄰的敵人施加<nobr>中毒<sprite name=Poison></nobr>。,,,
-item_resonantcrystal,"【你的輪次中】
+item_remotespider,〈你的輪次中〉對所有相鄰的敵人施加<nobr>中毒<sprite name=Poison></nobr>。,,,
+item_resonantcrystal,"〈你的輪次中〉
 摧毀一個相鄰的障礙物",,,
 item_ringofbrutality,在你的輪次結束時，從手牌中打出一張牌並立即執行卡的頂部行動。,,,
 item_ringofhaste,在你的輪次結束時，從手牌中打出一張牌並立即執行卡的底部行動。,,,
 item_ringofskulls,召喚骷髏,,,
 item_robesofevocation,在你進行攻擊時，<sprite name=ConsumeAny>並對你的整個攻擊輪次攻擊附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
-item_robesofsummoning,【你的輪次中】進行一次<nobr>“治療<sprite name=Heal>2，目標為召喚物夥伴”。,,,
-item_rocketboots,"【你的<color=#1F9EDC>前進</color>中】
+item_robesofsummoning,〈你的輪次中〉進行一次<nobr>“治療<sprite name=Heal>2，目標為召喚物夥伴”。,,,
+item_rocketboots,"〈你的<color=#1F9EDC>前進</color>中〉
 本次能力：<nobr><b>+3</b> <sprite name=Move></nobr> 並 具有<nobr>跳躍<sprite name=Jump>的附加能力</nobr>",,,
 item_sacrificialrobes,在你進行遠程進攻時，損失3點生命值並對整個攻擊輪次附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
-item_scrollofhealing,【你的輪次中】進行一次<nobr>“治療<sprite name=Heal>3，<nobr></nobr>範圍<sprite name=Range>5”</nobr>。,,,
+item_scrollofhealing,〈你的輪次中〉進行一次<nobr>“治療<sprite name=Heal>3，<nobr></nobr>範圍<sprite name=Range>5”</nobr>。,,,
 item_scrollofpower,在一名盟友進行攻擊時，對其整個攻擊輪次附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
-item_scrollofstamina,【你的輪次中】<nobr>範圍<sprite name=Range>5</nobr>以內的一名盟友可以<nobr>回收<sprite name=Recover></nobr>最多兩張在其棄牌堆中的牌。,,,
+item_scrollofstamina,〈你的輪次中〉<nobr>範圍<sprite name=Range>5</nobr>以內的一名盟友可以<nobr>回收<sprite name=Recover></nobr>最多兩張在其棄牌堆中的牌。,,,
 item_secondchancering,在你的輪次結束時，從手牌中打出兩張牌並按照新主導卡的優先權來進行一個額外的輪次（新的優先權必須比你當前優先權高）,,,
 item_secondskin,移除你攻擊修正牌堆裡的兩張-1卡。,,,
 item_serenesandals,當你使用能力卡底部的預設行動時，將<nobr>“移動<sprite name=Move>2”</nobr>改為<nobr>“移動<sprite name=Move>4”</nobr>。,,,
 item_shadowarmor,當敵人即將對你造成傷害時，取消該次傷害。,,,
 item_shoesofhappiness,若在你自己的輪次中移動了6個或者更多格子，則獲得<sprite name=XP1>。,,,
 item_skullbaneaxe,在你對行屍，復生的精神體或骷髏進行近戰進攻時，對你的其中一個攻擊附加<nobr>+5進攻<sprite name=Attack></nobr>。,,,
-item_skullofhatred,【你的輪次中】<nobr>詛咒<sprite name=Curse></nobr>所有相鄰的敵人。,,,
+item_skullofhatred,〈你的輪次中〉<nobr>詛咒<sprite name=Curse></nobr>所有相鄰的敵人。,,,
 item_sphereofmidnight,在你的輪次結束時，如果與無瑕者相鄰，你可以對其造成兩倍於團隊中傭兵數量的傷害。,,,
 item_spikedshield,當你因為<nobr>攻擊</nobr>而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>復仇<sprite name=Retaliate>2</nobr>。,,,
 item_splintmail,在下四次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
-item_staffofelements,"【你的輪次中】
+item_staffofelements,"〈你的輪次中〉
 充能任意一個元素",,,
 item_staffofeminence,當你進行遠程進攻時，<sprite name=ConsumeAny>並對你的整個攻擊輪次附加<nobr>+1進攻<sprite name=Attack></nobr>。,,,
-item_staffofsummoning,【你的輪次中】操控<nobr>範圍<sprite name=Range>3以內</nobr>的一個召喚物夥伴進行一次“<nobr>移動/前進<sprite name=Move>3</nobr>”。,,,
+item_staffofsummoning,〈你的輪次中〉操控<nobr>範圍<sprite name=Range>3以內</nobr>的一個召喚物夥伴進行一次“<nobr>移動/前進<sprite name=Move>3</nobr>”。,,,
 item_staffofxorn,當你進行遠程進攻時，對你的整個攻擊行動附加<nobr>中毒<sprite name=Poison></nobr>和<nobr>混亂<sprite name=Muddle></nobr>。,,,
-item_starearring,【你的輪次中】<nobr>重置<sprite name=Refresh></nobr>所有你已使用的物品，進行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”，並<nobr>回收<sprite name=Recover></nobr>最多兩張在你棄牌堆中的牌。,,,
+item_starearring,〈你的輪次中〉<nobr>重置<sprite name=Refresh></nobr>所有你已使用的物品，進行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”，並<nobr>回收<sprite name=Recover></nobr>最多兩張在你棄牌堆中的牌。,,,
 item_steamarmor,在下五次受到以你為目標所造成的傷害時，獲得<nobr>護盾<sprite name=Shield>1。</nobr>,,,
 item_steelring,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>4</nobr>。,,,
 item_steelsabatons,若在你自己的輪次中移動了1個或者更少格子，則你此回合獲得<nobr>護盾<sprite name=Shield>1</nobr>。,,,
-item_stormblade,【你的近戰<color=#1F9EDC>進攻</color>中】<sprite name=ConsumeAir>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
+item_stormblade,〈你的近戰<color=#1F9EDC>進攻</color>中〉<sprite name=ConsumeAir>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
 item_studdedleather,在下兩次受到攻擊時，攻擊方獲得劣勢；如果你在此期間承受了傷害，則獲得<nobr>護盾<sprite name=Shield>1</nobr>。,,,
-item_stunpowder,"【你的近戰<color=#1F9EDC>進攻</color>中】
+item_stunpowder,"〈你的近戰<color=#1F9EDC>進攻</color>中〉
 其中一個攻擊：具有施加<nobr>暈眩<sprite name=Stun></nobr>的附加能力",,,
-item_sunearring,【你的輪次中】<nobr>重置<sprite name=Refresh></nobr>所有你已使用的物品並進行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”。,,,
-item_superhealingpotion,【你的輪次中】進行一次<nobr>“治療<sprite name=Heal>7，</nobr>自身”。,,,
+item_sunearring,〈你的輪次中〉<nobr>重置<sprite name=Refresh></nobr>所有你已使用的物品並進行一次<nobr>“治療<sprite name=Heal>3，</nobr>自身”。,,,
+item_superhealingpotion,〈你的輪次中〉進行一次<nobr>“治療<sprite name=Heal>7，</nobr>自身”。,,,
 item_swordedgearmor,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1</nobr>和<nobr>復仇<sprite name=Retaliate>1。</nobr>,,,
 item_telescopiclens,當你進行遠程進攻時，對你的整個攻擊輪次附加<nobr>+2射程<sprite name=Range></nobr>。,,,
 item_thiefshood,當你執行<nobr>“拾取<sprite name=Loot>1”</nobr>時，改為進行一次<nobr>“拾取<sprite name=Loot>2”</nobr>。,,,
 item_towershield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>2</nobr>。,,,
-item_tremorblade,【你的近戰<color=#1F9EDC>進攻</color>中】<sprite name=ConsumeEarth>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
+item_tremorblade,〈你的近戰<color=#1F9EDC>進攻</color>中〉<sprite name=ConsumeEarth>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。,,,
 item_unstableexplosives_1,在你對單個目標進行近戰進攻時，將攻擊改為執行以下步驟：,,,
 item_unstableexplosives_2,所有位於攻擊區域的盟友損失3點生命值。,,,
 item_versatiledagger,當你使用能力卡頂部的預設行動時，將<nobr>“進攻<sprite name=Attack>2”</nobr>改為<nobr>“進攻<sprite name=Attack>3”</nobr>。,,,
 item_volatilebomb,在你對單個目標進行遠程進攻時，將攻擊改為執行以下步驟：,,,
 item_wallshield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>4</nobr>。,,,
-item_wandofbrilliance,【你的輪次中】充能光明元素。,,,
-item_wandofdarkness,【你的輪次中】充能黑暗元素。,,,
-item_wandoffrost,【你的輪次中】充能冰霜元素。,,,
-item_wandofinfernos,【你的輪次中】充能火焰元素。,,,
-item_wandofstorms,【你的輪次中】充能空氣元素。,,,
-item_wandoftremors,【你的輪次中】充能大地元素。,,,
-item_warhammer,"【你的近戰<color=#1F9EDC>進攻</color>中】
+item_wandofbrilliance,〈你的輪次中〉充能光明元素。,,,
+item_wandofdarkness,〈你的輪次中〉充能黑暗元素。,,,
+item_wandoffrost,〈你的輪次中〉充能冰霜元素。,,,
+item_wandofinfernos,〈你的輪次中〉充能火焰元素。,,,
+item_wandofstorms,〈你的輪次中〉充能空氣元素。,,,
+item_wandoftremors,〈你的輪次中〉充能大地元素。,,,
+item_warhammer,"〈你的近戰<color=#1F9EDC>進攻</color>中〉
 本次能力：具有施加<nobr>暈眩<sprite name=Stun></nobr>的附加能力",,,
 item_wavecrest,當你受到攻擊時，如果<sprite name=Ice>處於強烈，對攻擊方進行一次“強推<sprite name=Push>2”。,,,
 item_weightednet,當你進行遠程進攻時，對你的其中一個攻擊附加<nobr>禁足<sprite name=Immobilize></nobr>•。,,,
-item_wingedshoes,"【你的<color=#1F9EDC>前進</color>中】
+item_wingedshoes,"〈你的<color=#1F9EDC>前進</color>中〉
 本次能力：具有<nobr>跳躍<sprite name=Jump></nobr>的附加能力",,,
 jadefalcon,玉鷹,,,
 jekserah,潔索菈,,,
@@ -6884,9 +6884,9 @@ message_end_quest_story_7c_2,"左側的面板可以選擇團隊的陣容，並�
 
 但請注意：劇本的難度會隨著團隊中角色的數量而改變。除非你曾經玩過<color=#BA7956>黯淡港灣</color>，否則建議選擇 <b>2</b> 位傭兵就好，以避免你陷入選擇障礙的困擾！",,,
 message_end_quest_story_7c_3,當攜帶物品時，該物品會與傭兵進行綁定。雖然你可以付出一定的代價來解除，但請儘量直接將適合的物品配給傭兵。,,,
-message_end_quest_story_7c_4,為了幫助你在完成基礎訓練後繼續提升技術，我提供了一系列訓練任務讓你去完成。這些訓練任務可以透過點擊螢幕底部的【訓練官】就能夠看到了。,,,
+message_end_quest_story_7c_4,為了幫助你在完成基礎訓練後繼續提升技術，我提供了一系列訓練任務讓你去完成。這些訓練任務可以透過點擊螢幕底部的〖訓練官〗就能夠看到了。,,,
 message_end_quest_story_7c_5,完成這些挑戰你就會獲得更多的金幣以供公會發展、發掘新的地點並能接取更多的任務、有時甚至會有回收強力遺物的任務！,,,
-message_end_quest_story_7c_6,你可以透過點擊螢幕底部的【商人】來我的商店看看。現在已經陳列了許多的商品，雖然都是一些基礎物品，但隨著你繼續探索和恢復通往更多村莊的貿易路線，就會有更多的物品加入商品列表裡面！,,,
+message_end_quest_story_7c_6,你可以透過點擊螢幕底部的〖商人〗來我的商店看看。現在已經陳列了許多的商品，雖然都是一些基礎物品，但隨著你繼續探索和恢復通往更多村莊的貿易路線，就會有更多的物品加入商品列表裡面！,,,
 message_end_quest_story_7c_7,是說，你能不能去西南邊的海岸，重新開啟我以前貿易的香料之路？,,,
 message_end_quest_story_7c_8,我以前曾和兩個地區的城鎮有過貿易：西邊的血色灘地...,,,
 message_end_quest_story_7c_9,...和西南邊的旅者棲地。,,,
@@ -12591,31 +12591,31 @@ trap,陷阱,,,
 treasure_chest_tooltip,寶箱,,,
 tutorial_2_help_004,選擇踐踏,,,
 tutorial_2_help_005,選擇順手牽羊,,,
-tutorial_2_help_006,點擊【結束選擇】繼續,,,
+tutorial_2_help_006,點擊〖結束選擇〗繼續,,,
 tutorial_2_help_007,選擇順手牽羊的底部,,,
 tutorial_2_help_008,選擇閃爍的大門格子,,,
-tutorial_2_help_009,點擊【開門】以確認移動,,,
+tutorial_2_help_009,點擊〖開門〗以確認移動,,,
 tutorial_2_help_010,將滑鼠游標滑入螢幕頂部優先權序列中的強盜守衛頭像,,,
 tutorial_2_help_011_1,選擇強盜守衛旁邊閃爍的格子,,,
-tutorial_2_help_011_2,點擊【確認移動】以繼續,,,
+tutorial_2_help_011_2,點擊〖確認移動〗以繼續,,,
 tutorial_2_help_012,選擇踐踏的頂部,,,
 tutorial_2_help_013,選擇強盜守衛作為攻擊目標,,,
-tutorial_2_help_014,點擊【確認目標】進行攻擊！,,,
-tutorial_2_help_015,點擊【結束野蠻人的輪次】以繼續,,,
+tutorial_2_help_014,點擊〖確認目標〗進行攻擊！,,,
+tutorial_2_help_015,點擊〖結束野蠻人的輪次〗以繼續,,,
 tutorial_2_help_016,選擇承受傷害,,,
-tutorial_2_help_018_1,點擊【短休息】,,,
-tutorial_2_help_018_2,點擊【是】以繼續,,,
+tutorial_2_help_018_1,點擊〖短休息〗,,,
+tutorial_2_help_018_2,點擊〖是〗以繼續,,,
 tutorial_2_help_020,選擇嘲諷戰吼,,,
 tutorial_2_help_021_1,選擇踐踏,,,
-tutorial_2_help_021_2,點擊【結束選擇】以繼續,,,
+tutorial_2_help_021_2,點擊〖結束選擇〗以繼續,,,
 tutorial_2_help_023_1,選擇踐踏的頂部,,,
 tutorial_2_help_023_2,選擇強盜守衛作為攻擊目標,,,
-tutorial_2_help_023_3,點擊【確認目標】以進行攻擊,,,
-tutorial_2_help_024_1,點擊嘲諷戰吼的【基礎前進】,,,
+tutorial_2_help_023_3,點擊〖確認目標〗以進行攻擊,,,
+tutorial_2_help_024_1,點擊嘲諷戰吼的〖基礎前進〗,,,
 tutorial_2_help_024_2,選擇閃爍的包含金幣的格子,,,
-tutorial_2_help_024_3,點擊【確認移動】以繼續,,,
-tutorial_2_help_024_4,點擊【跳過移動】以跳過剩下的步數,,,
-tutorial_2_help_024_5,點擊【結束野蠻人的輪次】以繼續,,,
+tutorial_2_help_024_3,點擊〖確認移動〗以繼續,,,
+tutorial_2_help_024_4,點擊〖跳過移動〗以跳過剩下的步數,,,
+tutorial_2_help_024_5,點擊〖結束野蠻人的輪次〗以繼續,,,
 tutorial_2_text_001,"歡迎！會長。我是公會的訓練官，我將引導你建立自己的傭兵公會。
 首先，第一個教學我們將帶你瞭解<color=#a06e4b>野蠻人</color>。",,,
 tutorial_2_text_002_1,在我們執行動作之前，你可能會想要熟悉如何調整戰場的視角，就讓我們來看看如何控制視角的變化吧！,,,
@@ -12708,7 +12708,7 @@ tutorial_2_text_024_3,"但，等等......看看<nobr><color=#32E632>嘲諷戰吼
 tutorial_2_text_024_4,"這是<color=#FADC99>基礎動作</color>！中央優先權的左側和右側是兩個<color=#FADC99>基礎動作</color>按鈕。
 
 這些按鈕能讓角色進行基礎的<color=#1F9EDC>進攻</color><sprite name=Attack> <b>2</b> 來取代頂部動作或基礎的<color=#1F9EDC>前進</color><sprite name=Move> <b>2</b>來取代底部動作。",,,
-tutorial_2_text_024_5,由於你只需要讓</color><color=#a06e4b>野蠻人</color>移動一格就能到達包含金幣的格子，我們可以使用下面的【跳過移動】跳過剩下的步數。,,,
+tutorial_2_text_024_5,由於你只需要讓</color><color=#a06e4b>野蠻人</color>移動一格就能到達包含金幣的格子，我們可以使用下面的〖跳過移動〗跳過剩下的步數。,,,
 tutorial_2_text_025_1,幹得漂亮！你不僅擊敗了...孤身一人的<color=#C53F3F>強盜守衛</color>，你甚至拿走了他的金幣！,,,
 tutorial_2_text_025_2,基礎知識你都知道了，現在是時候讓你體驗一些更危險的情況了！,,,
 twohexobstacle,兩格障礙物,,,
