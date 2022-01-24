@@ -9527,10 +9527,8 @@ quest_travel_thecityofslate_desc,"The ancient ruined City of Slate was once an a
 quest_travel_thecityofslate_intro,"You reach the outskirts of the city, and it feels more like a giant tomb in the desert than the centre of a once powerful empire. The archaeologists who once thrived here have long gone, and you soon see why as you pass burned corpses, peppered with arrows. Who has done this?"
 quest_travel_thecityofslate_list,Clear the Undead from the Ruins
 quest_travel_thecityofslate_name,Relic Hunters
-quest_travel_thecopperoasis_desc,"The Copper Oasis was an area for travellers to refill their canteens after a trek across the Deadlands, but a pack of Vermlings have now made it their home. It is time they were made to leave."
-quest_travel_thecopperoasis_intro,"You trek for a number of days across the Deadlands, an area with little life or beauty. Climbing atop a stony outcropping, you see the Oasis in the distance, at odds with the desolation around it. The next morning you arrive at the edge of the woodland, and immediately hear the chittering and highly nasal tones of Vermlings. It is time to make this place safe for travellers once more."
-quest_travel_thecopperoasis_list,Cleanse the Oasis of Vermling presence
-quest_travel_thecopperoasis_name,Pest Control
+
+
 quest_travel_thedome_desc,"Cultists have driven out the keepers of the Dome, a group of historians dedicated to looking after the structure."
 quest_travel_thedome_intro,"The Dome was once a great arena for contests between the realm’s best fighters, but has since become more of a monument to the values of past generations. A small group of historians now reside there, and it is one of them that you meet on reaching the vicinity of the structure. She informs you that a number of months ago, some dark-clad cultists arrived and threatened them, forcing them to move away from the main structures. Ever since, they have been barred access. She believes the cultists can be found in the lower levels of the Dome, where many of the past contestant’s bodies were interred. You follow her directions, into the darkness below."
 quest_travel_thedome_list,Cultists from the Umbran League have been seen performing strange rites

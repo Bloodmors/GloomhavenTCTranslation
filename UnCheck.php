@@ -7706,10 +7706,8 @@ quest_travel_thecityofslate_desc,古老的石板城廢墟曾經是每一個考�
 quest_travel_thecityofslate_intro,當到達城市的週邊時，你感覺這裡更像是一座沙漠中的巨大墳墓，而不是曾經強極一時帝國的中心。曾經在這裡的考古學家早已離去，在你經過那些佈滿箭矢的燒焦屍體時，你很快明白了其中的原因。這到底是誰幹的？
 quest_travel_thecityofslate_list,清除廢墟中的亡靈
 quest_travel_thecityofslate_name,遺跡獵人
-quest_travel_thecopperoasis_desc,黃銅綠洲是旅行者在穿越死亡之地後補給水份的地方，但現在一群魔鼠在這裡定居了。是時候把它們趕走了。
-quest_travel_thecopperoasis_intro,你在死亡之地跋涉了幾天，那是一塊缺少生命和美景的土地。在爬上一塊露出地面的石頭後，你看到了遠處的綠洲，它與周圍的荒涼形成鮮明的對比。第二天早晨，當你到達森林的邊緣時，幾乎在瞬間就聽到了魔鼠的嘰嘰喳喳聲和尖銳的鼻音。是時候讓這塊綠洲恢復安全了。
-quest_travel_thecopperoasis_list,把綠洲的魔鼠清理乾淨
-quest_travel_thecopperoasis_name,害蟲防治
+
+
 quest_travel_thedome_desc,邪教徒趕走了圓頂的守護者們，那是一群致力於維護圓頂的歷史學家。
 quest_travel_thedome_intro,圓頂曾經是王國最優秀的戰士之間比拼的偉大競技場，但如今它更像是一座紀念過去幾代人的紀念碑。現在有一小群歷史學家居住在那裡，在你到達這座建築附近時，你遇到了他們之中的一員。她告訴你，幾個月前，一些身著黑衣的邪教徒們來到這裡威脅他們，迫使他們離開主建築。從那以後，他們就被禁止進入圓頂。她認為你可以在圓頂的下層找到那些邪教徒們，過去許多戰士的屍體都埋葬在那裡。你照著她的指示，進入了下面的黑暗當中。
 quest_travel_thedome_list,有人見到過暗影聯盟的邪教徒們進行奇怪的儀式
@@ -9071,9 +9069,9 @@ thecityofslate,石板城
 thecityofslate_descr,這片區域只是名字上是一座城而已，一片荒涼，曾經的大都市遺跡隨風飄散。
 thecolorless,無色石人
 theconjuredcoppice,受法林地
-thecopperoasis,黃銅綠洲
+
 thecopperoasis_descr,黃銅綠洲坐落在荒涼的暴風地的荒原的中心，由一小群機工巧匠們經營。他們出售在沙灘上發現的各式各樣的物品。
-thedeadlands,死亡之地
+
 thedeadlands_descr,曾經是史詩般戰鬥的地點，死亡之地現在寂靜無聲。仍然可以看到從土壤中探出的骨頭碎片，據說晚上這些死者在這片土地上漫遊。
 thedepthsofdespair,絕望深淵
 thedome,圓頂地
