@@ -4173,42 +4173,10 @@ event_shadowsonthewall_offering,"The shadows dance excitedly as you make the off
 event_shadowsonthewall_take,"The shadows freeze in place as you take the coins from the urn, before taking the loose form of a menacing face which sends a chill down your spine. In the blink of an eye, the shadows and the smooth wall vanish, leaving behind only the rough cliff face with no sign of the urn you took the gold from.
 
 You continue down the path with a bad feeling niggling away at the back of your mind..."
-event_strungup,"Up ahead you see a Quatryl suspended from a tree by his ankles, above a smoldering pile of broken laboratory equipment. As you approach he notices you and cries out:
 
-'Hey, you there, travelers! Help a poor alchemist out, would you?'"
-event_strungup_a,Ask him what happened
-event_strungup_askhim,"I was brewing up some potions using an untested catalyst...'
 
-He gestures towards the assortment of broken vials and tubes on the floor beneath him.
 
-'...when the mixture reacted rather explosively and set off my Net Shooter! Next thing I know I'm hanging upside down from this tree! Any chance you could cut me down?'"
-event_strungup_askhim_a,Attempt to help him
-event_strungup_askhim_b,Rob him
-event_strungup_askhim_c,Leave him be
-event_strungup_b,Attempt to help him
-event_strungup_c,Rob him
-event_strungup_d,Leave him be
-event_strungup_helphim,"You cut the rope and the Quatryl manages to land gracefully on the ground.
 
-'Thank you kindly! Not too many folks travelling in these parts nowadays, was scared I'd be up there for days, or worse still...'
-
-You bid each other farewell and continue down the road."
-event_strungup_helphim_gained,"You cut the rope and the Quatryl manages to land gracefully on the ground.
-
-'Thank you kindly! Not too many folks travelling in these parts nowadays, was scared I'd be up there for days, or worse still...'
-
-He reaches into one of the many pouches fastened about his waist and pulls out a small handful of coins.
-
-'Here, a small token of my appreciation!'
-
-You bid each other farewell and continue down the road."
-event_strungup_leave,The ensnared Quatryl unleashes a torrent of insults and profanities as you coldly turn and walk away without helping.
-event_strungup_robhim,"The ensnared Quatryl unleashes a torrent of insults and profanities as you search through the debris on the ground below him.
-
-The equipment appears to have been ruined by a recent experiment gone wrong, and you find nothing of use. You leave the fuming Quatryl to his fate."
-event_strungup_robhim_gained,"The ensnared Quatryl unleashes a torrent of insults and profanities as you search through his pack on the ground below him.
-
-The equipment appears to have been ruined by a recent experiment gone wrong, but you do find an intact potion before leaving the fuming Quatryl to his fate."
 event_strungup_unavailable,We will not steal from a fellow Quatryl!
 event_the womanofthewoods,"As you continue along your path, an old woman steps out of the trees and blocks your path. She is dressed in ragged clothing, and has a rusty necklace around her neck.
 
