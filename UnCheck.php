@@ -394,15 +394,6 @@
 ================================================================================================================================================
 #region ability
 ================================================================================================================================================
-ability_card_acceleratedend,終幕臨近
-ability_card_airbornetoxin,毒雲
-ability_card_amomentspeace,片刻安寧
-ability_card_amputate,致殘打擊
-ability_card_ancientward,遠古守護
-ability_card_angelicascension,天使飛升
-ability_card_angelofdeath,降死天使
-ability_card_armorofthenight,暗夜之甲
-
 ability_card_bagofholding,百寶袋
 ability_card_banefulhex,邪惡符咒
 ability_card_battlefieldmedicine,戰地醫療
@@ -510,21 +501,15 @@ ability_card_energizingtonic,強心電擊
 ability_card_enervatingwound,北冥神功
 ability_card_engulfingradiance,光輝化身
 ability_card_enhancementfield,強化領域
-ability_card_epidemic,傳染病
+
 ability_card_eternalequilibrium,明鏡止水
 ability_card_etherealmanifestation,靈能具現
 ability_card_etherealvines,靈能藤蔓
-ability_card_euthanize,安樂死
-ability_card_explosivepunch,爆炸拳
-ability_card_expose,暴露
-ability_card_eyeofthehurricane,颶風之眼
-ability_card_eyesofthenight,暗夜之眼
+
 
 ability_card_fellingswoop,俯衝突襲
-ability_card_feralinstincts,野性本能
-ability_card_fetidflurry,腥臭碎雪
 
-ability_card_flightofflame,火焰快遞
+ability_card_fetidflurry,腥臭碎雪
 
 ability_card_flurryofblades,刀扇
 ability_card_focusedaggression,聚焦攻擊
@@ -540,11 +525,11 @@ ability_card_frighteningcurse,恐懼詛咒
 
 ability_card_frigidtorrent,寒霜奔流
 ability_card_fromthebrink,刀口舔血
-ability_card_frozenmind,冰凍之心
+
 ability_card_gatheringdoom,厄運彙集
 ability_card_gentlemansanger,紳士之怒
 ability_card_giantclub,巨兵俱樂部
-ability_card_gloomdarts,蝕心鏢
+
 ability_card_gloriousbolt,輝煌脈衝
 
 ability_card_graspingthevoid,攫取虛空
@@ -555,7 +540,7 @@ ability_card_grimsustenance,可怕的食物
 ability_card_grislytrauma,裂創殘傷
 ability_card_gruesomeadvantage,四面楚歌
 ability_card_hammerblow,錘擊
-ability_card_hamstring,斷筋
+
 ability_card_handofthesurgeon,神醫妙手
 ability_card_hastenedstep,小步雙打
 
@@ -601,7 +586,7 @@ ability_card_masterphysician,主治醫師
 ability_card_maul,打傷
 ability_card_medicalpack,醫療包
 ability_card_melodyandharmony,和諧協奏
-ability_card_meteor,流星
+
 ability_card_mightybond,強韌聯結
 ability_card_mobileresponse,移動回應
 ability_card_mobilizingaxiom,動員
@@ -611,13 +596,12 @@ ability_card_naturalremedy,自然補救措施
 ability_card_natureshunger,自然饑渴
 
 ability_card_negativeenergy,反能量
-ability_card_nightfall,黃昏
+
 ability_card_nightmareserenade,夢魘小夜曲
 ability_card_nightmarishaffliction,夢魘折磨
 ability_card_nimbleknife,龍頭刀
 ability_card_obsidianshards,黑曜石飛礫
 ability_card_oozingmanifestation,泥漿具現
-
 
 ability_card_otherworldlyrage,異界之怒
 ability_card_oversizedpack,超大包裹
@@ -671,7 +655,6 @@ ability_card_righteousstrength,正義力量
 ability_card_risingmomentum,愈戰愈勇
 
 
-ability_card_rockyend,砂岩葬
 ability_card_rotmaggots,腐爛蛆蟲
 
 ability_card_saplife,生命汲取
@@ -6433,7 +6416,7 @@ message_complete_achievement_1_1_beasttyrantreachlevel2_4,作為回報，他們�
 message_complete_achievement_1_1_berserkerreachlevel2_1,我們得到消息稱監督者已經回到了黯淡港灣。
 message_complete_achievement_1_1_berserkerreachlevel2_2,他很危險，並且他曾與狂戰士部落有過聯繫，所以我將讓她負責調查。你們需要找到並幹掉他。
 message_complete_achievement_1_1_brutereachlevel2_1,一個老朋友聯繫蠻徒幫他做一筆商隊護衛的任務，去看看吧。
-message_complete_achievement_1_1_cragheartreachlevel2_1,到了岩石心開始朝覲他們這片地區的神聖薩維斯聖地的時候了。風之神殿也在那裡。
+
 message_complete_achievement_1_1_doomstalkerreachlevel2_1,末日獵手遺憾地發現他在南盾村外的佈置在上次任務中被破壞了，他想把那些人揪出來。
 message_complete_achievement_1_1_doomstalkerreachlevel2_2,城市守衛沒辦法搞定嗎？
 message_complete_achievement_1_1_doomstalkerreachlevel2_3,我已經讓衛兵隊長去調查了，但他說他有更棘手的問題要處理。
@@ -6473,7 +6456,7 @@ message_complete_achievement_1_1_summonerreachlevel2_4,聽起來有點糟。我�
 message_complete_achievement_1_1_sunkeeperreachlevel2_1,執日士告訴我，她希望用她的新能力在大路上做點好事。
 message_complete_achievement_1_1_sunkeeperreachlevel2_2,我在最近被襲擊的旅者棲地附近發現了一個魔鼠的營地，他們可能需要我們的説明。
 message_complete_achievement_1_1_sunkeeperreachlevel2_3,但他們要怎麼付錢呢？...我搞不懂！
-message_complete_achievement_1_1_tinkererreachlevel2_1,機匠一直在研究惡魔學的起源，以希望找到打敗惡魔們的方法。他現在找到了一個值得調查的地方。
+
 message_complete_achievement_1_1_unlocklocations_1,你們往西南的開始做的非常好，我們又收到了更多的小鎮向我們求助，一直到海岸都有！
 message_complete_achievement_1_1_unlocklocations_2,呃，老大，一個艾斯泰爾女人想見你。她說她可能能幫我們...
 message_complete_achievement_1_1_unlocklocations_3,你在幹嘛......重建秩序，驅逐黑暗，保護弱者，我覺得值得。

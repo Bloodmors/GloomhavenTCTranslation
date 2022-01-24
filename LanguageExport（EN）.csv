@@ -400,14 +400,7 @@ Key,English [en-GB]
 abandonedcatacombs,Abandoned Catacombs
 abandonedfarm,Abandoned Farm
 abandonedfarm_descr,"An abandoned farm lies just off the main road from Keyport. The smell of woodsmoke lingers here, and much of the roof has collapsed, but a few of the rooms are still habitable for a night."
-ability_card_acceleratedend,Accelerated End
-ability_card_airbornetoxin,Airborne Toxin
-ability_card_amomentspeace,A Moment's Peace
-ability_card_amputate,Amputate
-ability_card_ancientward,Ancient Ward
-ability_card_angelicascension,Angelic Ascension
-ability_card_angelofdeath,Angel of Death
-ability_card_armorofthenight,Armor of the Night
+
 
 ability_card_bagofholding,Bag of Holding
 ability_card_banefulhex,Baneful Hex
@@ -515,20 +508,16 @@ ability_card_energizingtonic,Energizing Strike
 ability_card_enervatingwound,Enervating Wound
 ability_card_engulfingradiance,Engulfing Radiance
 ability_card_enhancementfield,Enhancement Field
-ability_card_epidemic,Epidemic
+
 ability_card_eternalequilibrium,Eternal Equilibrium
 ability_card_etherealmanifestation,Ethereal Manifestation
 ability_card_etherealvines,Ethereal Vines
-ability_card_euthanize,Euthanize
-ability_card_explosivepunch,Explosive Punch
-ability_card_expose,Expose
-ability_card_eyeofthehurricane,Eye of the Hurricane
-ability_card_eyesofthenight,Eyes of the Night
+
 
 ability_card_fellingswoop,Felling Swoop
-ability_card_feralinstincts,Feral Instincts
+
 ability_card_fetidflurry,Fetid Flurry
-ability_card_flightofflame,Flight of Flame
+ability_card_flightofflame,
 ability_card_flintlock,Flintlock
 ability_card_flurryofblades,Flurry of Blades
 ability_card_focusedaggression,Focused Aggression
@@ -544,11 +533,11 @@ ability_card_frighteningcurse,Frightening Curse
 
 ability_card_frigidtorrent,Frigid Torrent
 ability_card_fromthebrink,From the Brink
-ability_card_frozenmind,Frozen Mind
+ability_card_frozenmind,
 ability_card_gatheringdoom,Gathering Doom
 ability_card_gentlemansanger,Gentleman's Anger
 ability_card_giantclub,Giant Club
-ability_card_gloomdarts,Gloom Darts
+
 ability_card_gloriousbolt,Glorious Bolt
 
 ability_card_graspingthevoid,Grasping the Void
@@ -559,7 +548,7 @@ ability_card_grimsustenance,Grim Sustenance
 ability_card_grislytrauma,Grisly Trauma
 ability_card_gruesomeadvantage,Gruesome Advantage
 ability_card_hammerblow,Hammer Blow
-ability_card_hamstring,Hamstring
+
 ability_card_handofthesurgeon,Hand of the Surgeon
 ability_card_hastenedstep,Hastened Step
 
@@ -605,7 +594,7 @@ ability_card_masterphysician,Master Physician
 ability_card_maul,Maul
 ability_card_medicalpack,Medical Pack
 ability_card_melodyandharmony,Melody and Harmony
-ability_card_meteor,Meteor
+ability_card_meteor,
 ability_card_mightybond,Mighty Bond
 ability_card_mobileresponse,Mobile Response
 ability_card_mobilizingaxiom,Mobilizing Axiom
@@ -615,7 +604,7 @@ ability_card_naturalremedy,Natural Remedy
 ability_card_natureshunger,Nature's Hunger
 
 ability_card_negativeenergy,Negative Energy
-ability_card_nightfall,Nightfall
+
 ability_card_nightmareserenade,Nightmare Serenade
 ability_card_nightmarishaffliction,Nightmarish Affliction
 ability_card_nimbleknife,Nimble Knife
@@ -674,7 +663,7 @@ ability_card_righteousstrength,Righteous Strength
 ability_card_risingmomentum,Rising Momentum
 ability_card_rockslide,Rock Slide
 
-ability_card_rockyend,Rocky End
+
 ability_card_rotmaggots,Rot Maggots
 
 ability_card_saplife,Sap Life
@@ -6425,7 +6414,7 @@ message_complete_achievement_1_1_beasttyrantreachlevel2_4,"In response, they wil
 message_complete_achievement_1_1_berserkerreachlevel2_1,We’ve received word that the Overseer has returned to Gloomhaven.
 message_complete_achievement_1_1_berserkerreachlevel2_2,"He’s dangerous, and he’s got history with the Berserker's clan, so I’m letting her lead the investigation. You need to find him and take him down."
 message_complete_achievement_1_1_brutereachlevel2_1,"An old friend has contacted the Brute with regards to a caravan guard mission he needs help with, go check it out."
-message_complete_achievement_1_1_cragheartreachlevel2_1,It is time for the Cragheart to start their pilgrimage to the holy Savvas shrines in the area. The Temple of the Winds can be found here.
+
 message_complete_achievement_1_1_doomstalkerreachlevel2_1,The Doomstalker has unfortunately heard that his settlement outside South Shield was attacked during our last mission. He’d like to track down those responsible.
 message_complete_achievement_1_1_doomstalkerreachlevel2_2,Can’t the City Guard handle this?
 message_complete_achievement_1_1_doomstalkerreachlevel2_3,"I’ve already asked the Guard Captain to look into it, but he says he’s got more important problems to worry about."
@@ -6455,7 +6444,7 @@ message_complete_achievement_1_1_sawbonesreachlevel2_1,I’ve heard that the cob
 message_complete_achievement_1_1_sawbonesreachlevel2_2,"While strange, it’s consistent enough to make me suspicious of magical foul-play."
 message_complete_achievement_1_1_sawbonesreachlevel2_3,"The Sawbones has already told me about the reports. He’s asked if we can investigate – for free, seeing as it would be his sacred duty as a healer of The Great Oak."
 message_complete_achievement_1_1_sawbonesreachlevel2_4,"And you agreed!? Of course you did. Well, it is always easier to extort people for their life savings once they’re grateful to you I suppose. Let’s go. "
-message_complete_achievement_1_1_scoundrelreachlevel2_1,"I woke up this morning and found a letter outside the front door. It's for the Scoundrel, and asks for a rendezvous in the forest. Can I not be the middle man in future please?"
+
 message_complete_achievement_1_1_soothsingerreachlevel2_1,"The Soothsinger asked my advice on places she could go to get inspiration for a few new songs, and I suggested visiting one of the less bloodthirsty Bandit gangs."
 message_complete_achievement_1_1_soothsingerreachlevel2_2,There is a group up near Gibbet Hill who might be able to help out.
 message_complete_achievement_1_1_spellweaverreachlevel2_1,"We have received a missive for the Spellweaver from the Aesther community, asking for help investigating a disturbance in the magical equilibrium in the Eastern Forest. "
@@ -6467,7 +6456,7 @@ message_complete_achievement_1_1_summonerreachlevel2_4,That sounds bad. We shoul
 message_complete_achievement_1_1_sunkeeperreachlevel2_1,The Sunkeeper has advised me that she wishes to use her newly found abilities to do good in the land.
 message_complete_achievement_1_1_sunkeeperreachlevel2_2,I’ve identified a Vermling Camp near Wayfarer’s Rest that has recently been attacked which may need our help.
 message_complete_achievement_1_1_sunkeeperreachlevel2_3,But how will they pay us?.. I don’t understand!
-message_complete_achievement_1_1_tinkererreachlevel2_1,The Tinkerer has been studying the origins of Demonology in an effort to try and help defeat them. He's identified somewhere we should investigate.
+
 message_complete_achievement_1_1_unlocklocations_1,"You've made a good start on heading South West, and we've got a few more towns contacting us for help, all the way to the coast!"
 message_complete_achievement_1_1_unlocklocations_2,"Err, boss, there is an Aesther woman here who wants to see you. She says she might be able to help us..."
 message_complete_achievement_1_1_unlocklocations_3,"What you are doing... reconnecting people, driving back the darkness, and preserving the weak, I deem it worthy."
