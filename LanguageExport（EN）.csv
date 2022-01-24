@@ -9477,10 +9477,8 @@ quest_travel_sweetwater_desc,"Sweetwater’s sewers have gone sour, learn why."
 quest_travel_sweetwater_intro,"You had only heard of Sweetwater from travelers and townspeople as an idyllic town overflowing with greenery and fresh springs. So when reports of missing villagers started coming in, you weren’t expecting more than a few rogue imps, maybe a murderer at worst. But as you near the city, the smell hits you first. Entering the village, your footsteps begin to squelch in the sewage coursing through the streets. Even the village's famous fresh springs have turned toxic. Sweetwater’s mayor is adamant the sewers are also the cause of the disappearances, and reluctantly you agree to investigate for him. There’s no way the two could be related… is there?"
 quest_travel_sweetwater_list,Investigate Sweetwater’s Sewers
 quest_travel_sweetwater_name,Sickly Sweet
-quest_travel_templeoftheacorn_desc,"A fledgling shrine to the Great Oak was overrun by a pack of ravenous wild dogs, who scared away or killed all the followers. The Cragheart wants to help recover the holy shrine."
-quest_travel_templeoftheacorn_intro,"As you near the location of the Temple, you hear the baying of Hounds coming from within. The local area is littered with bones and shreds of clothing, you are glad you were not here to see the carnage when the pack attacked. The smell coming from the tombs is unpleasant: with a lack of food available, it seems the dogs have resorted to eating the long-dead. You need to be careful of infection while fighting!"
-quest_travel_templeoftheacorn_list,Help the Cragheart drive the wild dogs from the Temple
-quest_travel_templeoftheacorn_name,The Hounds of Despair
+
+
 quest_travel_thebarrencoast_desc,The northern section of the coastal forest is teeming with feral Inox Tribes. Cut through to join up with the trade hub on the western shore.
 quest_travel_thebarrencoast_intro,"The walk from the Temple changes from desert to scrubland, and then you reach the edge of the western forest. Initially glad to be out of the sun’s baking heat, your relief changes to worry when the gloomy jungle seems to loom in from all sides. Soon the path passes by crude signs daubed with blood. You prepare yourself for visitors!"
 quest_travel_thebarrencoast_list,Carve a route through the forest
