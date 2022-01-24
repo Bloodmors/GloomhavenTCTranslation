@@ -493,7 +493,7 @@ ability_card_digpit,挖洞
 
 ability_card_disappearingwounds,移除傷口
 ability_card_disorientingdirge,迷亂挽歌
-ability_card_disorientingflash,閃光彈
+
 ability_card_disorientingroar,迷失咆哮
 ability_card_dividedmind,心靈分裂
 ability_card_divineintervention,我身作盾
@@ -531,7 +531,7 @@ ability_card_feralinstincts,野性本能
 ability_card_fetidflurry,腥臭碎雪
 
 ability_card_flightofflame,火焰快遞
-ability_card_flintlock,燧發槍
+
 ability_card_flurryofblades,刀扇
 ability_card_focusedaggression,聚焦攻擊
 ability_card_footsnare,套足縛鎖
@@ -623,7 +623,7 @@ ability_card_nightmarishaffliction,夢魘折磨
 ability_card_nimbleknife,龍頭刀
 ability_card_obsidianshards,黑曜石飛礫
 ability_card_oozingmanifestation,泥漿具現
-ability_card_openwound,放血
+
 
 ability_card_otherworldlyrage,異界之怒
 ability_card_oversizedpack,超大包裹
@@ -5842,8 +5842,7 @@ gui_level_up_outside_gloomhaven,你們必須返回黯淡港灣升級
 gui_levelup_choose_card,將1個新卡添加到{0}的卡牌堆上
 gui_levelup_new_cards_tooltip,"<color=#CEAD5A>進一步的技能卡</color>是那些不使其成為雇傭兵掌握技能卡集的人。
 升級後，可以將1個鎖定卡添加到掌握的技能卡中"
-gui_levelup_received_cards,"您剛收到<sprite name=""Card_Icon""> <color=#CEAD5A> {0}新技能卡！</color>
-選擇<color=#CEAD5A>一個</color>永久添加到雇傭兵的卡牌堆"
+
 gui_levelup_wealth_button_tooltip,升級以匹配當前的黯淡港灣財富等級。
 gui_linked_quest_choose_tooltip,繼續{0}或返回黯淡港灣
 gui_linked_quest_headquarters_choice,回到黯淡港灣
@@ -6472,8 +6471,7 @@ message_complete_achievement_1_1_sawbonesreachlevel2_4,你同意了！？你肯�
 message_complete_achievement_1_1_scoundrelreachlevel2_1,今早起來我在門外發現了一封信。給惡棍的，要求在叢林裡會面。我以後能不能不要再成為中間人了？
 message_complete_achievement_1_1_soothsingerreachlevel2_1,靈魂歌者問了我什麼地方可以給她的新歌一些靈感，我推薦了一個不太嗜血的強盜團夥。
 message_complete_achievement_1_1_soothsingerreachlevel2_2,絞架嶺附近有一個小隊可能能幫幫忙。
-message_complete_achievement_1_1_spellweaverreachlevel2_1,艾斯泰爾的織魔師給了我們一封信，想要我們幫忙調查東部森林中魔力平衡受到的擾動。
-message_complete_achievement_1_1_spellweaverreachlevel2_2,我會把它標記在你的地圖上。
+
 message_complete_achievement_1_1_summonerreachlevel2_1,召喚師報告了一次向路鎮外發生的...“介面轉移”，他希望我們調查一下。
 message_complete_achievement_1_1_summonerreachlevel2_2,介面轉移？那是啥東西？
 message_complete_achievement_1_1_summonerreachlevel2_3,“不相容的兩個介面之間發生了一次不可能的聯繫，必須研究一下”這是我問她的時候她的原話。
@@ -7423,7 +7421,6 @@ quest_story_soothsinger_3_name,The Retaliator‘s Refrain
 quest_story_spellweaver_1_desc,Who or what is creating an imbalance in the fabric of magic?
 quest_story_spellweaver_1_intro,The Aesther community has contacted the Spellweaver and asked for her help in investigating a disturbance in magic in the Eastern forest. They are suitably confused about the cause itself, but apparently Magic Power has been enhanced in a small localised area. After staying the night in the Sloshed Squirrel, the Spellweaver leads the party into the forest. As you head closer and closer to the location, the Spellweaver notices a tingling in her fingers. Nothing visibly changes, but it gets stronger as you progress. Reaching a clearing, you deduce that this must be wherever the event took place. It seems the magic has attracted other magical beings to the area: it is swarming with Imps!,,,,,,,,,,
 quest_story_spellweaver_1_list,The Spellweaver needs to investigate strange magical occurrences
-quest_story_spellweaver_1_name,An Imbalance in the Elements
 
 quest_story_spellweaver_2_desc,Head to the Emerald Knaves base and investigate who or what has been summoning demons.
 quest_story_spellweaver_2_intro,You set off from Eastgrove towards the area of the forest controlled by the Emerald Knaves. The Spellweaver can again feel something amiss with the magic in this area, but it is much less vivid, as if the summoning was done a time ago. You quietly take down a couple of the Bandits scouting the area's perimeter, but soon you are spotted. You‘ll have to get through some more before you reach the hideout itself.,,,,,,,,,,,,
