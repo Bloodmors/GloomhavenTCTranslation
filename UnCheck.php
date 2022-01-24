@@ -654,7 +654,6 @@ ability_card_restorativemist,急救噴霧
 ability_card_righteousstrength,正義力量
 ability_card_risingmomentum,愈戰愈勇
 
-
 ability_card_rotmaggots,腐爛蛆蟲
 
 ability_card_saplife,生命汲取
@@ -764,11 +763,11 @@ adventure_achievement_1_2_killinoxshamans_2,死掉的羚牛才是好羚牛
 adventure_achievement_1_2_pierceshield,唐家霸王槍！
 adventure_achievement_1_2_pierceshield_desc,穿透30點護盾
 adventure_achievement_1_2_reachdemonspinehollow,新的章節在召喚你
-adventure_achievement_1_2_reachdemonspinehollow_desc,到達下城區
+
 adventure_achievement_1_2_reachfordingbridge,魂斷藍橋
-adventure_achievement_1_2_reachfordingbridge_desc,到達灘橋地
+
 adventure_achievement_1_2_reachthesloshedsquirrel,去奇波特港的要道
-adventure_achievement_1_2_reachthesloshedsquirrel_desc,到達醉松鼠酒館
+
 
 adventure_achievement_1_3_disarmtrap,有陷阱！
 adventure_achievement_1_3_disarmtrap_desc,拆卸20個陷阱
@@ -777,7 +776,6 @@ adventure_achievement_1_3_killforestimps_1_desc,擊殺20只叢林小惡魔
 adventure_achievement_1_3_killforestimps_2,大威天龍
 adventure_achievement_1_3_killforestimps_2_desc,擊殺200只叢林小惡魔
 adventure_achievement_1_3_unlocklocations,荒蕪之地
-adventure_achievement_1_3_unlocklocations_desc,到達隱居地
 
 adventure_achievement_1_4_killnightdemons_1,晝魘
 
@@ -796,7 +794,6 @@ adventure_achievement_1_4_killsundemons_1,夜魘
 adventure_achievement_1_4_killsundemons_2,暗夜使者
 
 adventure_achievement_1_4_unlocklocations,鬼斧神工
-adventure_achievement_1_4_unlocklocations_desc,到達鷹山頂
 
 
 adventure_achievement_1_5_killstonegolems_1,小錘40
@@ -807,7 +804,6 @@ adventure_achievement_1_5_killstonegolems_2,大錘80
 adventure_achievement_1_5_trapkills,太君，這邊請
 adventure_achievement_1_5_trapkills_desc,用陷阱殺死20個敵人
 adventure_achievement_1_5_unlocklocations,往復旅途
-adventure_achievement_1_5_unlocklocations_desc,到達野尖塔
 adventure_achievement_2_1_healpoisonwound,我不會這樣輕易地狗帶！
 adventure_achievement_2_1_healpoisonwound_desc,治療40次中毒或創傷
 adventure_achievement_2_1_infuseelements,元素基礎
@@ -1555,7 +1551,7 @@ error_waypoint_00012,無法處理設置板塊處理器
 ============================================================================
 #region event city
 ============================================================================
-event_city_campaign_10_intro,"在睡獅酒館放鬆的晚上，一個尖嘴猴腮的男人找上了你並伸出了手。手心中是一對蒼白的骰子，上面佈滿粗糙的劃痕。
+event_city_campaign_10_intro,"在沉睡獅子酒館放鬆的晚上，一個尖嘴猴腮的男人找上了你並伸出了手。手心中是一對蒼白的骰子，上面佈滿粗糙的劃痕。
 “你好呀，我的朋友。看起來你似乎可以讓氣氛變得更活躍一點。想跟我玩個骰子嗎？我相信我們可以讓事情變得更有趣。”他的另一隻手拍了拍身側的錢袋。"
 event_city_campaign_10_option_a,和他玩一場遊戲。可能是個遊戲的好時候。
 event_city_campaign_10_option_b,拒絕這個骰子遊戲。
@@ -1578,7 +1574,7 @@ event_city_campaign_12_option_a,向餡餅屈服，承認失敗。
 event_city_campaign_12_option_b,戰勝痛苦，活出強大。
 event_city_campaign_12_result_a,你放下手中的餡餅，向水手們認輸。他們興奮地吼叫著，鼓勵式地拍打著你的背。不幸的是，你的胃裡受此顛簸，就像裡面藏著一隻翻江倒海的傢伙一樣，很快你吃的所有餡餅都從嘴裡噴射出來，這讓聚集在你周圍的人群非常噁心和反感。
 event_city_campaign_12_result_b,你發出一陣野性的吼聲，繼續埋頭狂吃。一塊又一塊的餡餅在你面前消失，你的意志力突破天際，最終水手們被迫認輸。然而，你甚至無法站起來與你的對手握手，而你的腿也像注了水銀，你的胃感覺非常糟糕。你已經贏得了榮譽和獎金，但你現在最想做的就是找塊涼快地兒躺下來，等待這漫長的艱難時光過去。
-event_city_campaign_13_intro,"你正穿過沉默之橋，準備前往睡獅酒館吃點東西時，在橋上你看到一個智元族人站在一輛小車前，車上裝滿了小碟食物和奇特的裝置。
+event_city_campaign_13_intro,"你正穿過沉默之橋，準備前往沉睡獅子酒館吃點東西時，在橋上你看到一個智元族人站在一輛小車前，車上裝滿了小碟食物和奇特的裝置。
 “來嘗嘗東方的美味吧！”智元族吆喝著，“用科學強化的食物！超出你想像的味道！”"
 event_city_campaign_13_option_a,駐足並品嘗食物
 event_city_campaign_13_option_b,繼續走你的路，去吃不太需要冒險的飯菜。
@@ -1635,7 +1631,7 @@ event_city_campaign_19_result_a_a,你們前往新市集，挑選了一個精美�
 event_city_campaign_19_result_a_b,你們挑選了一個貴重的花瓶作為婚慶賀禮，但是看上去卻沒有引起新娘和他父親的注意，當然你們到最後也沒找到可以當面送上這件賀禮的時機。
 event_city_campaign_19_result_b_a,你們在前往會場的路上挑選了一套不起眼的銀器作為賀禮。當你們到達的時候，新娘的父親帶著鄙視的眼神瞄向你們，然後和旁邊的人低頭竊竊私語著什麼。也許那封請柬其實是送錯了地方才會來到你們的手上。
 event_city_campaign_19_result_b_b,你們只是茫茫賓客中的一員，每個人都在歡聲笑語之中享受著，你們所挑選的賀禮根本沒有人會注意。
-event_city_campaign_1_intro,"你們決定在睡獅酒館放鬆一下，可是還沒進入放鬆狀態，一個虎背熊腰的男人突然撞上你們的桌子，把酒菜打翻在地。
+event_city_campaign_1_intro,"你們決定在沉睡獅子酒館放鬆一下，可是還沒進入放鬆狀態，一個虎背熊腰的男人突然撞上你們的桌子，把酒菜打翻在地。
 推倒那個男人的是一個比他還要高大的羚牛族，“你他媽說我的角怎麼了？”這個羚牛族怒吼說道。那個男人站起身來把衣服上的碎玻璃拍掉，“我說看到你的角就讓我感覺想吐！”
 這個羚牛族咆哮著，緊接著就一頭沖向那個男人，接連又撞翻了好幾張桌子。這時，整個酒館已經滿是咒駡與衝突，畢竟，當一個人酒意正酣，最不想碰到的就是有人打翻了他的酒杯。"
 event_city_campaign_1_option_a,加入這場騷亂。你可不會對打翻你們酒菜的侮辱視若無睹。
@@ -1644,9 +1640,9 @@ event_city_campaign_1_option_a_b,拒絕賠償
 event_city_campaign_1_option_b,你們盡全力去制止這場衝突。這裡應該是個體面有序的地方。
 event_city_campaign_1_result_a,沒有什麼能比打破幾個醉鬼的腦袋更令人興奮了。這場騷亂變成了一種完美的放鬆方式。很可惜，酒館老闆並不這麼認為，他氣勢洶洶要你們為造成的損失給出賠償。
 event_city_campaign_1_result_b,當你們控制住這個被激怒的羚牛族之後，並提出為其中幾個好戰份子更換他們的酒水，這時你們才稍稍控制住了場面。有些非人類種族的顧客仍焦躁不安是可以理解的，不過酒館老闆還是感謝了你們的幫忙並且賠償了你們被打翻的酒菜。
-event_city_campaign_1_result_c,睡獅酒館基本上等於你在黯淡港灣的家，所以你們認為賠償損失並保持和老闆的良好關係是明智的投資。
+event_city_campaign_1_result_c,沉睡獅子酒館基本上等於你在黯淡港灣的家，所以你們認為賠償損失並保持和老闆的良好關係是明智的投資。
 event_city_campaign_1_result_d,也許其他食客沒有推倒那堵牆或者放火燒樓梯，而這或許代表你們下次來這裡時將不太受到歡迎，但你們並沒有挑起戰鬥，所以你們也不需要為此付出代價！
-event_city_campaign_20_intro,"當你們在睡獅酒館裡放鬆休息的時候，一個衣著光鮮的男人靠近了你們的桌子，臉上帶著一抹假笑。
+event_city_campaign_20_intro,"當你們在沉睡獅子酒館裡放鬆休息的時候，一個衣著光鮮的男人靠近了你們的桌子，臉上帶著一抹假笑。
 “啊，你們就是最近人人都在談論的那夥傭兵，是不是？我是格雷邁恩老爺，我有一件棘手的事情想和你們談談。我能坐下嗎？”
 你們向身旁的椅子做了個手勢，他用了一個微微的怪笑來做回應，然後坐下來說道：“我今天晚上準備從我的倉庫運出一些高價的貨物，而且我有理由相信城裡某些不招人喜歡的東西想要來偷走它們。我希望能夠雇傭你們作保鏢，以確保運送工作能順利進行。”"
 event_city_campaign_20_option_a,同意護送貨物。這應該是一筆快錢。
@@ -1690,7 +1686,7 @@ event_city_campaign_25_option_b,來不及做反應，只有眼看著花瓶倒地
 event_city_campaign_25_result_a_a,你們迅速沖上前去用胳膊抱住了花瓶，緊緊抓住並且保持了平衡，避免了悲劇的發生。這個瓦拉斯老人松了一口氣，然後提出付錢給你，請你們一路上幫忙抬著花瓶把它送到目的地。
 event_city_campaign_25_result_a_b,否則:你們沖上前想要接住這個花瓶，但是它對你們來說實在太過巨大，它從你們的手中滑出，然後倒在地上摔成粉碎。這個瓦拉斯憤怒地要你們為打碎的花瓶賠償，你們不得已只好儘量付給他一點錢。
 event_city_campaign_25_result_b,你們無助地看著花瓶從這個瓦拉斯的手中傾斜滑落，然後撞在堅硬的地面上碎成稀巴爛。這個瓦拉斯滿臉焦慮又帶著一絲憤怒。你們同情地看了他一眼，然後離開這裡繼續去忙自己的事情。
-event_city_campaign_26_intro,"你們習慣性地在冒險結束之後回到睡獅酒館點上一杯美酒好好享受。這時，你注意到酒館的燈似乎有些奇怪。
+event_city_campaign_26_intro,"你們習慣性地在冒險結束之後回到沉睡獅子酒館點上一杯美酒好好享受。這時，你注意到酒館的燈似乎有些奇怪。
 一開始你以為這是自己的幻覺而已，不過當你聚精會神地觀察了一會兒後，發現燈光確實在忽明忽暗地閃爍著。這種科技玩意兒，比起普通的燃氣燈來說，就是有那麼一點不靠譜。
 就在這時，酒館的燈突然徹底罷工，——熄滅了，整個房間裡一片漆黑。"
 event_city_campaign_26_option_a,自告奮勇去修理電燈。只要有一點機械知識，修好這些燈不成問題。
@@ -1709,7 +1705,7 @@ event_city_campaign_27_option_b,不採取任何行動，他們吊死小偷的做
 event_city_campaign_27_result_a_a,你們保持著沉著冷靜，站出來嘗試說服憤怒的群眾。雖然費了一番功夫，不過他們終於同意將這個盜賊交給執法機關，成功阻止了事態向著更加混亂的方向發展。
 event_city_campaign_27_result_a_b,你們好心地站出來請求群眾們不要這樣做，當你們發現這不管用的時候，沒辦法只得轉而使用武力。雖然你們最後阻止了他們吊死小偷，但是每個人看上去都忿忿不平，不過你們心裡面很清楚這麼做是正確的。
 event_city_campaign_27_result_b,你們看著這個男人拖著小偷從你們身邊經過，向著絞刑架走去。那名男子帶著一捆粗繩， 把繩子的.頭綁在那個魔鼠盜賊的脖子上；然後將繩子的另一端扔過絞刑架的橫樑，之後開始用力的拉扯，那個無助的魔鼠不停地被拉高，先是踮起腳來，然後整個身體被拖離地面。魔鼠小偷開始痛苦地扭動，眼中充滿了驚恐，但是不久之後，他漸漸不再動彈。那個男子把繩子一端綁住，讓小偷毫無生氣的屍體就這樣在空中吊著。圍觀的人群慢慢四散離開，許多人還走到絞刑架前吐口水，然後才回去繼續工作。
-event_city_campaign_28_intro,"啊，睡獅酒館，在清剿完陰冷潮濕的地牢之後，點上一杯酒放鬆心情，驅散身上的疲勞，沒什麼地方比這裡更為適合。
+event_city_campaign_28_intro,"啊，沉睡獅子酒館，在清剿完陰冷潮濕的地牢之後，點上一杯酒放鬆心情，驅散身上的疲勞，沒什麼地方比這裡更為適合。
 正在你們休息的時候，一個渾身疤痕的羚牛族向你們靠過來。她坐在你們桌旁，然後把一張紙向你們這邊推過來。
 “有些對你們事蹟很感興趣的人想要雇傭你們從軍營裡偷出一個值錢的雕像，”她語氣平淡地說道，“詳細的情況都寫在紙上，事成之後兩天在後巷裡面和我碰頭吧。”"
 event_city_campaign_28_option_a,接下這份神秘的工作，你們一定能不負所托。
@@ -1769,7 +1765,7 @@ event_city_campaign_33_option_b,帶著“變態”的好奇心，遠遠地觀察
 event_city_campaign_33_result_a_a,你們沖上前去把小女孩從這個恐怖的區域拉了出來。但她還是瘋狂地叫喊著，你們團隊的艾斯泰爾成員集中注意力將手放到小女孩的額頭上。過了一會，叫喊聲逐漸停歇，小女孩便站起來，然後帶著不安跑開了。
 event_city_campaign_33_result_a_b,你們沖上前去儘快將小女孩從黑沙之中拖了出來，但是她的情況非常糟糕。不管你們如何幫助她，小女孩也只是不停地叫喊著。
 event_city_campaign_33_result_b,你們不由自主地想要看看這個小女孩到底會怎麼樣。她的皮膚漸漸變得蒼白，然後一片片脫落下來。之後她停止叫喊，然後咳出黑色的膽汁。她試著站起來，但是她的腿卻變成了塵土。在最後她發出了一聲令人憐憫的聲音之後，便倒在黑沙之上，揚起了一片沙塵。 在沙塵消散之後，小女孩如同從來沒有存在過一樣，消失得無影無蹤。
-event_city_campaign_34_intro,"在睡獅酒館一夜狂歡之後，你來到街上，注意到一個可疑的人影，他身披黑袍偷偷摸摸地往窄巷裡走去。
+event_city_campaign_34_intro,"在沉睡獅子酒館一夜狂歡之後，你來到街上，注意到一個可疑的人影，他身披黑袍偷偷摸摸地往窄巷裡走去。
 你之前聽過報告，知道城裡有一個自稱為渡鴉的邪教組織，經常幹些恐怖的勾當。也許這就是渡鴉組織的一員。"
 event_city_campaign_34_option_a,跟上這個人影，嘗試找出渡鴉組織的老巢。
 event_city_campaign_34_option_b,立刻上去和他對峙，把他送交執法機關。
@@ -1785,7 +1781,7 @@ event_city_campaign_35_option_b,護送這些巢靈族去新市集並且幫他們
 event_city_campaign_35_result_a,你們迅速地給他們指了一指前往沉陷市集的方向，感覺他們一定能在那裡找到想要的東西。幾個巢靈族嘰嘰喳喳的交談了幾句，然後給了你們一枚金幣。
 event_city_campaign_35_result_b_a,你:你們陪著這幾個巢靈族一路來到了新市集，在這裡很容易就找到了一名名聲良好的香料商人，不過要讓巢靈族和香料商人互相信任可就沒那麼容易。在最後，通過瘟疫瘟疫使者盟友的幫助，他們終於達成了一致，然後簽訂了合同。
 event_city_campaign_35_result_b_b,你們帶著這幾個巢靈族來到了新市集，但即便你們做出了最大的努力，也仍舊沒能找到一個願意與他們交易的香料商人。最後牠們兩手空空離開了。
-event_city_campaign_36_intro,"你們決定在睡獅酒館放鬆一下，可是還沒進入放鬆狀態，一個虎背熊腰的男人突然撞上你們的桌子，把酒菜打翻在地。
+event_city_campaign_36_intro,"你們決定在沉睡獅子酒館放鬆一下，可是還沒進入放鬆狀態，一個虎背熊腰的男人突然撞上你們的桌子，把酒菜打翻在地。
 推倒那個男人的是一個比他還要高大的羚牛族，“你他媽說我的角怎麼了？”這個羚牛族怒吼說道。那個男人站起身來把衣服上的碎玻璃拍掉，“我說看到你的角就讓我感覺想吐！”
 這個羚牛族咆哮著，緊接著就一頭沖向那個男人，接連又撞翻了好幾張桌子。這時，整個酒館已經滿是咒駡與衝突，畢竟，當一個人酒意正酣，最不想碰到的就是有人打翻了他的酒杯。"
 event_city_campaign_36_option_a,加入這場騷亂。你可不會對打翻你們酒菜的侮辱視若無睹。
@@ -1880,11 +1876,11 @@ event_city_campaign_45_result_a,"那個衛兵敲了敲他的筆記本，臉上�
 “非常好，”他說道，“我知道你們已經好一陣子沒有見過她了，但是你們所提供的資訊還是有很大的説明。希望你們今天一切順利。”"
 event_city_campaign_45_result_b,"這個衛兵看著他的筆記本撓了撓頭。
 “好吧，很難說這些資訊有用，”他歎口氣說道，“不過我還是要感謝你們能抽出時間配合調查。如果你們記起或者得到什麼新消息的話，請務必告訴我。”"
-event_city_campaign_46_intro,"你們迫不及待地打算去睡獅酒館痛飲一個晚上，不過你們跨進大門的時候，發現一個熟悉的薩維斯身影坐在你們常用的桌子旁。它站了起來並張開雙臂來迎接你們，它正是之前和你們一起冒險的岩石心戰友。
+event_city_campaign_46_intro,"你們迫不及待地打算去沉睡獅子酒館痛飲一個晚上，不過你們跨進大門的時候，發現一個熟悉的薩維斯身影坐在你們常用的桌子旁。它站了起來並張開雙臂來迎接你們，它正是之前和你們一起冒險的岩石心戰友。
 “啊！朋友們！很高興看到你們，”它說道，“坐下，來，和我喝一杯吧！”"
 event_city_campaign_46_option_a,跟岩石心老盟友一起喝酒。
 event_city_campaign_46_option_b,勸它繼續過自己的生活。
-event_city_campaign_46_result_a,一杯之後又接了五杯，五杯之後又來了許多杯。你們在睡獅酒館度過了快活熱鬧的一夜。當你們站起來向它告別的時候，它的眼中帶著一絲悲哀。它告訴你們自從離開了這個團隊之後，自己再也沒找到能和它如此親近的夥伴，並感謝你們一直以來彼此能保持著良好的友誼關係。
+event_city_campaign_46_result_a,一杯之後又接了五杯，五杯之後又來了許多杯。你們在沉睡獅子酒館度過了快活熱鬧的一夜。當你們站起來向它告別的時候，它的眼中帶著一絲悲哀。它告訴你們自從離開了這個團隊之後，自己再也沒找到能和它如此親近的夥伴，並感謝你們一直以來彼此能保持著良好的友誼關係。
 event_city_campaign_46_result_b,因為沒法回到自己的族群，也沒法融入這個人類主導的城市，它想和你們這群別具一格的傭兵繼續維繫友誼。然而，它很清楚自己的冒險生涯已經結束，現在應該去尋找新的容身之地。可悲的是，它承認自已現在還沒找到真正的歸宿，對此甚至是毫無頭緒，但是，它最終還是慢慢地站了起來，離開了酒館。
 event_city_campaign_47_intro,"在黯淡港灣廣場附近開逛的時候，你們注意到一個不尋常的場面。一群衛兵正拽著一個身穿破舊袍子的魔鼠往幽魂堡走去。你們走近一點，認出她就是你之前那個亂心賊戰友。
 “嘶嘶~~，”她叫到，“你們這是幹什麼？我是主動來找你們的！我告訴你們這座城鎮的水被下了毒，結果你們的回應就是把我關起來？”
@@ -1959,7 +1955,7 @@ event_city_campaign_54_option_b,看起來當人群分心的時候是個下手偷
 event_city_campaign_54_result_a,你們盡情觀賞了那個靈魂歌者的演唱會。發現她甚至還為你們寫了幾首歌，內容是關於之前你們團隊與她一齊在黯淡港灣附近冒險的事蹟。
 event_city_campaign_54_result_b_a,這些土包子只顧聽音樂，完全忘了管好自己的錢包。不像你們，既欣賞了美妙的音樂，又帶著鼓鼓的錢包離開。
 event_city_campaign_54_result_b_b,你們在演唱會上肆無忌憚地進行偷竊，但是因為缺少足夠的技巧，你們沒能從任何觀眾身上偷到東西。幸好這也沒有什麼損失，因為你們至少可以欣賞到這個靈魂歌者美妙的歌聲。
-event_city_campaign_55_intro,"當你們正在睡獅酒館品嘗冷飲的時候，一個挺著肥胖身材的瓦拉斯女人走了過來，並低頭看著你們說道，“啊，他們說得沒錯，我的確在這裡找到了你們。
+event_city_campaign_55_intro,"當你們正在沉睡獅子酒館品嘗冷飲的時候，一個挺著肥胖身材的瓦拉斯女人走了過來，並低頭看著你們說道，“啊，他們說得沒錯，我的確在這裡找到了你們。
 “今天，有一幫土裡土氣的花晶族來到了鑄幣神廟，說希望和城裡的商人做生意。其中一個身背弓箭，愁眉滿臉的花晶族男人說道，你們會願意幫他們做擔保人。
 “你也知道，在這種荒蠻之地，我們時刻都要提防著，怕被別人下套或者是被別人出賣之類的，但是如果你們認為這些花晶族值得信任的話，也許商人公會可以考慮與他們做生意。”"
 event_city_campaign_55_option_a,為這些花晶族做擔保。
@@ -2064,7 +2060,7 @@ event_city_campaign_66_result_a,"這可是大筆錢， 他看上去非常感激�
 “太好了，我就知道你們為了朋友可為其兩肋插刀，真是值得信賴。這些錢足夠我處理好那些麻煩事，然後我就可以真正開始自由的生活。”
 他遞給你們一瓶藥水，然後再次感謝你們的幫助。"
 event_city_campaign_66_result_b,你們斷然拒絕幫這個鋸骨醫者還債，並且對他說，躲開債主的唯一方法就是坐船穿過大海，去到東方大陸，以逃離他們的魔掌。他一開始也有些猶豫，但是當你們向他描述大海那頭的大陸有著各種未知的冒險，這個鋸骨醫者最終點頭同意了。你們連夜把他送上船，離開了黯淡港灣，心裡不禁祈禱著，以後再也不要碰到這種事情了。
-event_city_campaign_67_intro,"你們正打算在睡獅酒館點上幾杯酒好好放鬆一下，這時有一個羚牛族女人和幾個高大的人類忽然街進酒館，向你們坐的桌子走了過來。
+event_city_campaign_67_intro,"你們正打算在沉睡獅子酒館點上幾杯酒好好放鬆一下，這時有一個羚牛族女人和幾個高大的人類忽然街進酒館，向你們坐的桌子走了過來。
 “呵，你們一定是那個小王八蛋的擔保人了。”那個羚牛族女人說道。“我們是來討債的。”
 看到你們默默地看著她，那個羚牛族女人繼續開口說道：“就是那個留著灰色小鬍子的男人。穿著有巨橡圖案的衣服。那個男人說如果他還不了錢，你們會幫他還的。”
 她拍了拍身邊掛著的斧頭：“現在很明顯他已經逃離了這座城市，你們最好乖乖還錢，要不然場面就不那麼好看了。”"
@@ -2111,7 +2107,7 @@ event_city_campaign_71_result_a,"你鬆開手，這個鐵球從手中飛出，�
 你聳了聳肩跳入河中，順著光芒的指引潛到河底，在那裡發現了一個半邊已陷入河底石頭之中的木裂箱子。你把箱子打撈回河岸邊，打開之後發現裡面有一根表面刻著奇異花紋的金屬棒。你剛把它拿起來，那個金屬圓球立刻便向你飛過來，然後把自己鑲在金屬棒的末端。"
 event_city_campaign_71_result_b,當你一跳進冰冷又漆黑的河中，那個金屬圓球立刻停止了震動，也不再拉著你遊動。你向它之前拖拽的方向又遊了幾分鐘，不過最終意識到自己是在做無用功。於是你一籌莫展，渾身濕透地從河裡遊回岸邊。
 event_city_campaign_72_intro,"那根鑲了金屬圓球的金屬棒——你們得到它已經好陣子了，閒暇的時候，你們會拿它出來仔細端詳著上面刻畫的花紋。你們也曾經試著把它帶到大學裡進行研究，但是大學裡的學者也對此一無所知。
-這天你又在睡獅酒館裡無聊地打量著這根東西，突然感到有人拍了拍你的肩膀。你們回頭看見一個像是強盜的老頭，他骯髒的臉上露出扭曲的壞笑：“他們都叫我老魚，你們拿的那根東西是一把鑰匙，朋友們——這是一把非常非常古老的鑰匙。”
+這天你又在沉睡獅子酒館裡無聊地打量著這根東西，突然感到有人拍了拍你的肩膀。你們回頭看見一個像是強盜的老頭，他骯髒的臉上露出扭曲的壞笑：“他們都叫我老魚，你們拿的那根東西是一把鑰匙，朋友們——這是一把非常非常古老的鑰匙。”
 還沒等你們發問，他便從懷裡掏出一根類似的金屬棒，頂端鑲了一個黑色的金屬圓球。“你看，它們是一對的，老魚我知道它們是拿來開啟某個門的。朋友們，那是一個藏滿寶藏的墳墓，來吧，來吧，老魚我會給你們帶路的。”"
 event_city_campaign_72_option_a,跟上這個一身怪味的強盜老頭。
 event_city_campaign_72_option_b,拒絕跟這老頭走。這整件事聞上去有一股......陰謀的腥臭味。
@@ -2156,7 +2152,7 @@ event_city_campaign_77_option_b,和他說你們已經不幹那種事了，而且
 event_city_campaign_77_result_a_a,“就知道你們會答應，我就是喜歡你們這些視財如命的亡命之徒！趕緊走吧，在路上我會跟你解釋一下我們要怎樣發家致富。”
 event_city_campaign_77_result_a_b,“喔，不好意思…”雷德尼克結結巴巴地說，“從背後看起來你們很像…沒什麼，認錯人而已，忘了我剛才說的話吧。”
 event_city_campaign_77_result_b,真是太可惜了，”雷德尼克搖了搖頭說，“那我還是找另外一幫對賺大錢感興趣的傭兵吧。”
-event_city_campaign_78_intro,"你們對這種事已經習以為常，一個緊張不安的男子走進睡獅酒館站到你們的桌前，你們懶洋洋地打量著他。
+event_city_campaign_78_intro,"你們對這種事已經習以為常，一個緊張不安的男子走進沉睡獅子酒館站到你們的桌前，你們懶洋洋地打量著他。
 “我，呃，我聽說你們也許能幫我，”他開口說道，“我正在屍骸森林裡，呃，做些工作，突然我和夥伴們被魔鼠襲擊，我勉強逃了出來，不過我的夥伴就沒那麼幸運了。”
 “他們其中一個帶著一件很值錢的東西——是我們在，呃，工作中找到的一件神器。它對我來說十分重要，所以我一定要取回它。於是我跟蹤那些魔鼠回到了他們的老巢，我跟你保證那裡有許多值錢的東西。我告訴你們具體地點，那裡的東西你們隨便拿，只要把那個神器帶回來給我就行。”"
 event_city_campaign_78_option_a,接下這項工作。
@@ -2208,7 +2204,7 @@ event_city_campaign_82_result_a,"“那麼，下一次吧，這個有可能會�
 "
 event_city_campaign_82_result_b,"“我就知道！”他們興奮的咯咯笑著，然後遞給你一張紙條。
 你打開了這張紙條，上面寫著幾行字。
-“你有足夠的勇氣來面對蟲群嗎？”旁邊粗略地畫著一個建築物，看起來像是睡獅酒館。
+“你有足夠的勇氣來面對蟲群嗎？”旁邊粗略地畫著一個建築物，看起來像是沉睡獅子酒館。
 你抬頭看的時候，那群孩子已經走遠了。"
 event_city_campaign_8_intro,"你們在新市集上聞逛時，注意到一個瓦拉斯攤販的貨架上顯眼位置擺放著一張奇異的海圖。
 “啊！我看到你們對它很感興趣！“那個瓦拉斯攤販一邊小心翼翼地將海圖拿起來，一邊對你們說道，“有人曾對我說過，這張海圖記錄著一個埋藏著無數寶藏的藏寶地點！比你們以前所見過的任何寶藏都來得令人驚歎！”
@@ -2704,12 +2700,12 @@ event_road_campaign_64_option_b,武裝起來，做好防禦戒備並且從這個
 event_road_campaign_64_result_a,你們的理智敵不過自身的好奇心，你們靠近了這支頭骨長矛，這看上去和辛-拉集團宣告殺人的手法非常相像。突然之間，一群身披黑衣的武士憑空出現在你們面前，他們一言不發就舉起那細長的彎刀向你們發起了攻擊。因為他們這次的襲擊太過出其不意，所以你們在戰鬥中的表現十分不佳，雖然最後還是將他們擊退，但是你們渾身是傷，精疲力竭而且士氣十分低落。
 event_road_campaign_64_result_b,你們認出這支長矛頭骨正是辛-拉集團的標誌，於是武裝起來並且準備從這裡撤退，不過沒走多遠，你們就注意到一群身披黑衣的惡棍從後方向你們追了過來。你們轉入防禦陣型，準備作戰，這場戰鬥打得異常艱苦，不過最後你們還是殺光了所有惡棍，希望他們不會再來找你們麻煩。
 event_road_campaign_65_intro,"當你們翻過一座山嶺的時候，看到一群腐食鳥從東面飛起然後四散而去。牠們一定是在那裡吃了一頓大餐，你們決定過去調查一下。
-沒走多久，你們發現了一具男性屍體躺在地上，屍身已經發黴腐壞。屍體的臉部血肉模糊，但是你注意到屍首的脖子上有一條獨特的鏈子，你還記得睡獅酒館那個委託人對其兄弟的描述。這很可能就是那人的兄弟。"
+沒走多久，你們發現了一具男性屍體躺在地上，屍身已經發黴腐壞。屍體的臉部血肉模糊，但是你注意到屍首的脖子上有一條獨特的鏈子，你還記得沉睡獅子酒館那個委託人對其兄弟的描述。這很可能就是那人的兄弟。"
 event_road_campaign_65_option_a,埋葬這具男屍，然後把鏈子帶回去給他的兄弟。
 event_road_campaign_65_option_b,拿走鏈子並且向那個委託人隱瞞關於他兄弟的事。
 event_road_campaign_65_result_a,"因為你們不想就這樣把委託人兄弟的屍體留在太陽底下等待腐爛，所以花了一些時間挖了一個坑， 之後把屍體妥善安葬。
 當你們把這條鏈子交給委託人的時候，他感到悲痛萬分，不過這也是人知常情，最終委託人還是感謝你們讓他知道了事情的真相。"
-event_road_campaign_65_result_b,鳥吃到了腐肉，你拿走了鏈子，這就是共贏，除了那個睡獅酒館裡的委託人。不過他應該明白不要去相信傭兵。
+event_road_campaign_65_result_b,鳥吃到了腐肉，你拿走了鏈子，這就是共贏，除了那個沉睡獅子酒館裡的委託人。不過他應該明白不要去相信傭兵。
 event_road_campaign_66_intro,"遠方地平線上所泛起的塵士表明一大群羚牛族突擊隊正在靠近。然而牠們的數量實在太多，這讓你們無處躲藏。
 “你們這些活在城裡的雜碎！”一個領頭的羚牛族靠近的同時向你們喊道，“現在我們要去攻打你們的城市，把它從這片大陸上抹去。你們覺得怎麼樣？”
 當拔出武器準備作戰之際，你們首先想到就是，如果他們要想攻城的話，那麼還得再帶多一點兵力才行。然而，在你們發起進攻之前，天空突然變得黯淡，你還以為那是一片雲朵。但是當你抬頭望去，一條巨大的亞龍正對著你們俯衝下來。"
@@ -3088,7 +3084,7 @@ quest_campaign_002_desc,從強盜頭領那取回潔索菈的文件
 quest_campaign_002_intro,"你們將腳邊橫七豎八的屍體踢開，向著地下墓穴更深之處前進，死亡與腐肉的惡臭隨著不斷深入而愈加濃烈。伴隨著模糊不清的交談聲，你們在這迷宮般的墓穴之中摸索前行，最後闖進了一個滿是強盜的小房間。與此同時，無數鋒利的箭都已經搭在弦上瞄向了你。
 顯然他們正在守護著某些東西，看來你來對地方了。"
 quest_campaign_002_list,擊殺強盜指揮。
-quest_campaign_002_outro_gh_1,你們和潔索菈在沉睡獅子酒店裡再次碰面，把文書交給她的同時收取了之前商定好的報酬。
+quest_campaign_002_outro_gh_1,你們和潔索菈在沉睡獅子酒館裡再次碰面，把文書交給她的同時收取了之前商定好的報酬。
 quest_campaign_002_outro_gh_2,“你們知道，”她在酒館的嘈雜聲中對你們低聲耳語，“如果你們感興趣的話，我這裡還有其他任務可以交給你去做。匕首叢林的一個羚牛族部落劫持了我去往首都的物資車。”
 quest_campaign_002_outro_gh_3,“我和軍方說過，但他們什麼都沒做，”她啐了一口，“我可以告訴你們這個營地的方位。如果你們替我前去殺雞儆猴的話，我會再付給你們更多報酬。”
 quest_campaign_002_outro_gh_4,她把一張簡陋的森林地圖擺在桌上並起身離開，身上的首飾隨著走動叮噹作響。“事情完成後再來找我吧。”
@@ -3299,7 +3295,7 @@ quest_campaign_024_name,回音洞穴
 quest_campaign_024_outro_travel_1,神秘聲音將你們指引回洞穴的入口以示友好。現在已經脫離了它的影響範圍，你們必須做個決定。
 quest_campaign_024_outro_travel_2,你們可以答應它的要求，或是先去調查清楚神秘聲音究竟是何物，而不是貿然幫助一個你們還無法理解的力量。
 quest_campaign_025_desc,完成關於“有翼野獸”的研究
-quest_campaign_025_intro,"找不到一點關於巨大有翼野獸的蹤跡，讓你們不禁開始懷疑這一路艱辛是否值得。你們已經數次停下腳步，思考要不要轉身回到黯淡港灣，回到沉睡獅子酒店溫暖的爐火前。
+quest_campaign_025_intro,"找不到一點關於巨大有翼野獸的蹤跡，讓你們不禁開始懷疑這一路艱辛是否值得。你們已經數次停下腳步，思考要不要轉身回到黯淡港灣，回到沉睡獅子酒館溫暖的爐火前。
 但你們開始聽到一些奇怪的動靜。你們的耳朵在寒風之中捕捉到了一個尖銳的聲音。聲音並不大——也許只是狂風穿過縫隙的聲音。但確實是真實存在的聲音。你們繼續前行，看到了一群兇殘的野獸，它們白色的毛皮于漫天大雪融為了一體。"
 quest_campaign_025_intro_travel_1,銅頸山脈可不是一個氣候宜人的地方。越過銅頸山脈後，隨著行程逐漸靠北，天氣狀況也逐漸變得惡劣。
 quest_campaign_025_intro_travel_2,寒風刺骨。行囊也愈發沉重。
@@ -3855,7 +3851,7 @@ quest_campaign_076_desc,唔姆，如果你覺得你配得上他的話......
 quest_campaign_076_intro,"你們在山腳下不斷尋找了幾個小時，卻沒有一點收穫。然而就在此時，你們聽見了微弱的嗡嗡聲。
 隨著你們不斷地靠近懸崖，嗡嗡聲也在逐漸變大。巢靈族將巢穴建在了岩石之中，而你們要做的就是將它們挖出來。"
 quest_campaign_076_intro_gh_1,“所以，你們真覺得自己可以勝任這份工作？你們真覺得自己的記憶足夠嫺熟到讓你們過上一個漫長而豐富的生活，而不是慘死於某個幸運的魔鼠刀下？”
-quest_campaign_076_intro_gh_2,一個臉上有著十字刀疤的老人，用他的獨眼盯著你們。他來到睡獅酒館並坐在了你們的對面。你們從沒見過他，但還是充滿信心的回答了他提出的問題。
+quest_campaign_076_intro_gh_2,一個臉上有著十字刀疤的老人，用他的獨眼盯著你們。他來到沉睡獅子酒館並坐在了你們的對面。你們從沒見過他，但還是充滿信心的回答了他提出的問題。
 quest_campaign_076_intro_gh_3,“哈哈哈！好吧，最起碼你們有勇氣，”他笑道，“非常難得，但還遠遠不夠。”
 quest_campaign_076_intro_gh_4,“從首都來的消息說，有一大群巢靈族正在東方大道上屠殺平民。我們還沒弄清原因，但我們認為他們的巢穴就在位於守望山脈邊緣的南方地區。”
 quest_campaign_076_intro_gh_5,“但問題是，我們找不到勇士或是莽夫前去那裡清剿它們。”
@@ -3864,7 +3860,7 @@ quest_campaign_076_intro_travel_1,你們面對挑戰從不退縮，於是啟程�
 quest_campaign_076_list,你有足夠的勇氣面對蟲群嗎？
 quest_campaign_076_name,巢靈族巢穴
 quest_campaign_076_outro_gh_1,然而，當你回到黯淡港灣，來到當初約定好的地方尋找那個老頭時，卻怎麼也找不到他。
-quest_campaign_076_outro_gh_2,你問遍了睡獅酒館裡的所有的人，奇怪的是似乎沒有任何人記得曾經見過這個老頭。
+quest_campaign_076_outro_gh_2,你問遍了沉睡獅子酒館裡的所有的人，奇怪的是似乎沒有任何人記得曾經見過這個老頭。
 quest_campaign_076_outro_gh_3,經過幾個小時的尋找，你們開始懷疑整件事情說不定都是一場夢而已。但那些巢靈族確實存在，這一點是毋庸置疑的。
 quest_campaign_076_outro_gh_4,也許那個老混蛋只是不想付你們工錢而逃之夭夭。你們做的這麼辛苦，到頭來卻是一場空，那個老混蛋最好不要再次出現在你們面前。
 quest_campaign_076_scenario_modifier_1,所有角色在場景開始前先棄掉三張技能卡，作為場景效果。
@@ -4022,7 +4018,7 @@ quest_campaign_092_desc,用鮮血...償還鋸骨醫者的債
 quest_campaign_092_intro,"“這是你們最後的機會了，”她說道，“趕快付錢，否則你們別想活著走出這個巷子。”
 即使這一次她帶上了打手，但她說的話還是如第一次所說的那樣搞笑，你們忍不住笑出了聲。她居然以為帶上這幫無賴就能勒索你們呢。
 “很好，我看已經沒有繼續商量的必要了。”這時，身邊的無賴們掏出了武器並且做好架勢準備發起進攻。你們已經迫不及待想要給他們展示一下自己的實力，好讓他們知道威脅你們是一件多麼可笑的事情。"
-quest_campaign_092_intro_travel_1,你們若無其事的繞到睡獅酒館後面的小巷裡，發現那個羚牛族女人和一群無賴正在等著你們。
+quest_campaign_092_intro_travel_1,你們若無其事的繞到沉睡獅子酒館後面的小巷裡，發現那個羚牛族女人和一群無賴正在等著你們。
 quest_campaign_092_list,在後巷與羚牛族人會面
 quest_campaign_092_name,喧嘩的後巷
 quest_campaign_093_desc,找出“數不盡的財富”究竟是什麼...
@@ -5052,7 +5048,7 @@ dungeon_exit_tooltip,出口格子
 eaglecrest,鷹山頂
 eaglecrest_descr,鷹山頂村被Vineyards葡萄園所包圍，這個葡萄園接壤著荒蕪地帶更陡峭的北部邊緣。專家物品商店價格很高，但在可以找到罕見的商品。
 earthbrand,大地劍
-eastgrove,東林地
+eastgrove,東樹林
 eastgrove_descr,這個低調的（unassuming）小村莊依偎在一個漂亮的叢林林間空地上。
 easy,簡單
 elderdrake,上古亞龍
@@ -6023,8 +6019,6 @@ gui_objective_reach_position_lose,如果{0}敵人到達地牢出口，則失敗
 gui_objective_reach_position_win,帶著{0}名雇傭兵到達地牢出口
 gui_objective_reach_round_lose,遊戲進行到第{0}回合，則失敗
 
-
-
 gui_on_death_adjacent,On death: 進攻<sprite name=Attack> {0}。針對所有鄰近的敵人。
 gui_opt_control_controller,映射控制器
 gui_opt_control_controller_highlight_hexes,高亮的格子
@@ -6162,7 +6156,6 @@ gui_select_quest_tip,作為主機，為玩家團隊選擇一個任務
 gui_sell_enhancement_confirmation_title,賣出能力卡強化
 gui_skip_ability,跳過技能
 
-
 gui_stadia_friends,朋友們
 gui_start_campaign,開始戰役
 gui_start_multiplayer_wrong_phase_tooltip,開始多人遊戲僅在卡選擇階段或世界地圖上可用
@@ -6176,7 +6169,6 @@ gui_summoned_allies,召喚物夥伴
 gui_swap_characters_positions_tip,選擇{0}/2位角色以交換位置
 gui_swap_enemy_positions_tip,選擇{0}/2個敵人以交換位置
 gui_swap_position_tip,將{0}的位置與{1}交換
-
 
 gui_temple_devotion_level,您持續的捐款一直是庇護所乃至整個城市的真正福音。這肯定會對這座城市產生明顯的影響，但放心吧，我們總是會充分使用外部的援助。
 gui_tooltip_activebonus_target_selection_137,選擇目標以添加+3攻擊 <sprite name=Attack>。
@@ -6306,8 +6298,6 @@ intro_cityquest,"你們解鎖了一個<color=#EACF8C>城鎮任務</color>！
 你可以通過點擊城鎮地圖按鈕或點擊日誌中的新任務查看。"
 intro_enchantress,在此介面你可以為你所有技能卡進行附魔。首先選擇技能卡，然後選擇附魔槽，就可以將你希望的附魔效果附加到該附魔槽位上。請注意，不同的附魔會對應不同的附魔基礎成本，而且同一張牌附魔次數越多成本越高。當你移除附魔時，其附魔成本將恢復到最初的狀態。
 
-
-
 intro_linkedquest,"你偶爾會遇到系列任務。
 遊戲鼓勵你一個接一個地完成系列任務。通過直接開始系列任務，你將<color=#EACF8C>避免觸發道路遭遇（它們往往會走向負面的效果）</color>。
 如果你願意，你可以通過點擊地圖上的位置返回黯淡港灣。
@@ -6394,7 +6384,7 @@ longrest_burn,燒祭 <sprite name=Lost> <br>一張棄牌堆的卡牌用以將<br
 longrest_footer,由於選擇長休息，你這一輪<br>不能選擇其他卡牌。
 longrest_heal,<size=130%><b>治療<sprite name=Heal> 2</b></size><br>目標為自己
 longrest_refresh,刷新<sprite name=Refresh>所有你用盡的物品卡。
-loot,拾取
+
 lostcatacombs,失落的地下墓穴
 lostcrypt,失落的地穴
 lowtown,低鎮
@@ -6402,7 +6392,7 @@ lowtown_descr,低鎮收容了大戰期間難民的後代。 他們之中有些�
 lurkerking,潛伏者之王
 manasphere,魔法圓球
 marcellussc-regular sdf,MarcellusSC-Regular
-medium,中
+
 medpack,不能燒祭醫療包卡以避免傷害。當這個卡以任何原因被棄置時，它將回到鋸骨者的牌堆裡。
 meledps,近程輸出
 melesupport,近程輔助
@@ -6428,7 +6418,7 @@ message_complete_achievement_1_1_nightshroudreachlevel2_1,現在夜引者已經�
 message_complete_achievement_1_1_nightshroudreachlevel2_2,他想要怎麼研究他們？
 message_complete_achievement_1_1_nightshroudreachlevel2_3,殺掉，然後解剖他們的屍體。
 message_complete_achievement_1_1_nightshroudreachlevel2_4,哦，“那種”研究？
-message_complete_achievement_1_1_nightshroudreachlevel2_5,是的。首先他提議去火州城收集靈魂異變體。
+message_complete_achievement_1_1_nightshroudreachlevel2_5,是的。首先他提議去柴火葬場收集靈魂異變體。
 message_complete_achievement_1_1_plagueheraldreachlevel2_1,瘟疫使者已經在研究如何最好地治癒惡魔閘口鎮中的疾病了，並且認為已經取得了突破性的進展。
 message_complete_achievement_1_1_plagueheraldreachlevel2_2,"你確定你指的是那些喜歡傳染東西的，被美化了的蟲群麼？
 "
@@ -6473,14 +6463,14 @@ message_complete_achievement_1_2_reachthesloshedsquirrel_1,我在......醉松鼠
 message_complete_achievement_1_2_reachthesloshedsquirrel_2,看起來去往琥珀嶺村的旅行者都失蹤了，整個鎮子都被封鎖了。
 message_complete_achievement_1_2_reachthesloshedsquirrel_3,或許值得我們去看看，看看能不能幫忙，或者呃，賺點錢？
 message_complete_achievement_1_2_unlocklocations_1,我們到達了海岸！這是重建領域聯繫的第一步。
-message_complete_achievement_1_2_unlocklocations_2,我也被東方叢林的一些前哨聯繫過。我們可以去那找點活幹。
+message_complete_achievement_1_2_unlocklocations_2,我也被東部森林的一些前哨聯繫過。我們可以去那找點活幹。
 message_complete_achievement_1_2_unlocklocations_3,我將把它加入下一組要完成的成就中！
 message_complete_achievement_1_3_unlocklocations_1,我們穿過叢林的路途非常棒，我有了更多的連絡人，這次是從北邊的荒地來的。
 message_complete_achievement_1_3_unlocklocations_2,儘管如此，我聽說過龍與惡魔的流言。這不是膽小的人能來的地方！
 message_complete_achievement_1_4_unlocklocations_1,我們已經充分探索了荒地，已經開始受到來自更北方的The Great Forest的消息了。
 message_complete_achievement_1_4_unlocklocations_2,讓我們尋找更北方的前哨。從他們那肯定能買到好裝備！
 message_complete_achievement_1_4_unlocklocations_3,現在我們的最後目標就是到達叢林深處的野尖塔。
-message_complete_achievement_1_5_unlocklocations_1,做的很好！所有荒涼海岸、東方叢林，荒地直到The Great North Forest的小鎮都已經聯繫到了。我們行會的歷史翻過了第一頁！
+message_complete_achievement_1_5_unlocklocations_1,做的很好！所有貧瘠海岸、東部森林，荒地直到The Great North Forest的小鎮都已經聯繫到了。我們行會的歷史翻過了第一頁！
 message_complete_achievement_1_5_unlocklocations_2,看起來邊境的村莊已經團結起來準備獎勵我們一大筆金幣了！
 
 
@@ -6624,7 +6614,7 @@ message_end_quest_story_soothsinger_3_1,這花了我點時間，但我們還是�
 message_end_quest_story_soothsinger_3_2,顯然，他是被某個跟靈魂歌者有過節的骸骨冠軍精英雇傭的。
 message_end_quest_story_soothsinger_3_3,她是那位將他封印在夏井地北方塔樓中的吟游詩人的後裔。
 message_end_quest_story_soothsinger_3_4,但那座塔沒有任何辦法能進去，上面有魔法封印。
-message_end_quest_story_spellweaver_1_1,那個強盜穿著翡翠盜團的裝備，來自東林地附近。我會查一查他們的行動基地。
+message_end_quest_story_spellweaver_1_1,那個強盜穿著翡翠盜團的裝備，來自東樹林附近。我會查一查他們的行動基地。
 message_end_quest_story_spellweaver_2_1,聽說你碰到的困難以後，橡樹守護者給了一些建議。
 message_end_quest_story_spellweaver_2_2,在我們神廟的圖書館裡，記載著一些神殿，在危急時刻，你可以在祈求它的恩賜。我覺得現在已經到時候了。
 message_end_quest_story_spellweaver_2_3,我會把我知道的地方都標在地圖上，但你在得到恩賜前得向它證明你的價值。
@@ -6664,7 +6654,6 @@ message_end_quest_travel_amberhill_1,所以城市守衛現在在殺人麼？那�
 message_end_quest_travel_amberhill_2,幸運的是，琥珀嶺村因他們當地魔法琥珀樹製成的附魔飾品而聞名。
 message_end_quest_travel_amberhill_3,他們給了我一雙很棒的速度之靴，希望在路途上能有所幫助。抽時間去我商店看看吧！
 
-
 message_end_quest_travel_crystalhollow_1,我一直在暢想我能夠在水晶塔洞裡發現的富饒寶藏——那可是傳說中的洞穴啊！
 message_end_quest_travel_crystalhollow_2,這不好。他們大部分只是普通的蘑菇，根本不是魔法品種。
 message_end_quest_travel_crystalhollow_3,但是，在和蜘蛛的戰鬥中我被絆倒了，剛好發現了一個埋了一半的戰戟。它看起來很有力量感，正在我的商店裡出售。
@@ -6673,7 +6662,7 @@ message_end_quest_travel_drakefirefarm_1,龍火地的農民拿取了附近奇特
 message_end_quest_travel_drakefirefarm_2,我並沒有親自使用過，但他們似乎...威力很大。我相信你會愛上它的。
 message_end_quest_travel_eaglecrest_1,我今天收到了來自鷹山頂一個機匠工坊的包裹，明顯是羚牛族付款寄給我們的光學瞄準鏡。
 message_end_quest_travel_eaglecrest_2,我不知道這是一個謝禮，還是有關你戰鬥實力的刻薄聲明？
-message_end_quest_travel_eastgrove_1,你知道東林地曾經有一支遠古皇家守衛的分隊麼？我也不知道，但我商店裡現在可以給你提供一套板甲！
+message_end_quest_travel_eastgrove_1,你知道東樹林曾經有一支遠古皇家守衛的分隊麼？我也不知道，但我商店裡現在可以給你提供一套板甲！
 message_end_quest_travel_fordingbridge_1,碎骨走廊的東南方向曾是最偉大的鞋匠的家園，但看起來灘橋地作為中間的休息點，那裡人學會了一些他們的手藝。
 message_end_quest_travel_fordingbridge_2,我搞到了一雙有意思的鞋子，現在已經上架了。
 message_end_quest_travel_hammerholm_1,榔頭地的鐵匠對你的工作感到非常高興！我在商店裡上架了一些新裝備！
@@ -6860,7 +6849,7 @@ minderer,減壓器
 minus,減去
 mistfellcopse,沉霧矮林
 mistfellcopse_descr,這片小林地可以欣賞到黯淡港灣從延伸出的東方大道的美景。垃圾和燃燒的餘燼向其他人證明瞭這個地方曾被使用過。
-moneytoken,錢幣
+
 monolith,巨石
 monstrousrat,巨鼠
 move_straightline,這個移動必須在一條直線上。
@@ -6875,10 +6864,9 @@ nailsphere,釘刺圓球
 nasitra,楠斯厝
 nasitra_descr,從魔人族語言得名，本意為“甜水”，它以從守望山脈脈流下的清澈河流而得名，是從凱爾地區到大海的駁船的樞紐。楠斯厝也以其高品質的魔杖而聞名。
 
-no,否
 nomadcamp,遊牧營地
 nomadcamp_descr,在沙漠的南邊，一個小小的魔人族營地空寂無人。這是一片被沙漠沙化的地方，是流浪的遊牧民族用來駐足遮蔽連炎熱氣的地方。
-normal,普通的
+
 objective_tile_tooltip,作為達成目標的一部分，請站在這裡。
 obsidianbluff,火山岩石崖
 obsidianbluff_descr,從高山上的有利位置，你可以欣賞到凱爾地區和北部沙漠的美景。
@@ -7169,7 +7157,7 @@ quest_relic_staffofxorn_intro,從海岸北上前往羚牛族巢穴，你們好�
 quest_relic_staffofxorn_list,摧毀索恩的探求者
 quest_relic_staffofxorn_name,尋找法杖
 quest_relic_staffofxorn_unlock_1,當敵人們陷入中毒或者混亂時會更易於處理，不是麼？顯然你們不是唯一發現這一點的。
-quest_relic_staffofxorn_unlock_2,荒涼海岸附近的一個羚牛族部落最近成為了一個真正的麻煩。他們加入了一個試圖復活一個名為“索恩”的遠古力量的教派。
+quest_relic_staffofxorn_unlock_2,貧瘠海岸附近的一個羚牛族部落最近成為了一個真正的麻煩。他們加入了一個試圖復活一個名為“索恩”的遠古力量的教派。
 quest_relic_staffofxorn_unlock_3,據傳他們擁有很多用來打敗敵人的法杖，這個部落需要在它不可抑制前被處理掉。
 quest_relic_steamarmor_complete_1,我們報告說煉金術師曾經用他的護甲嘗試對抗這裡隨處可見的石魔偶和惡魔，看起來這東西並沒有成功。
 quest_relic_steamarmor_complete_2,看守首領告訴我們我們可以把護甲留下來當報酬。
@@ -7222,7 +7210,7 @@ quest_story_berserker_3_intro,兩條假線索以後，你們確信這是時候�
 quest_story_berserker_3_list,摧毀監督者的行動
 quest_story_berserker_3_name,進入黑暗的洞穴裡
 quest_story_brute_1_desc,薩默特地區周圍的道路還是經常被叢林裡的魔鼠襲擊，這也代表幹守衛這個活的報酬絕對少不了。
-quest_story_brute_1_intro,有些人認為你與魔鼠的友誼有一點點奇怪，但是你從小就瞭解司卡波威特。作為一個遊歷全國的大商人，他不是最誠實的那一個，但他總能在你們部落的香料和護衛生意中大賺一筆。今天你要和他一起再去一次荒涼海岸。雖然自從你們重新開闢了道路，減少了野生魔鼠襲擊，對他來說這仍然不安全。旅途的大部分時間都是安然無事，你聽到森林裡傳來了嚎叫聲，當你們正在談論過去的時光。獵犬...但是誰或什麼東西把它們趕到路邊的?
+quest_story_brute_1_intro,有些人認為你與魔鼠的友誼有一點點奇怪，但是你從小就瞭解司卡波威特。作為一個遊歷全國的大商人，他不是最誠實的那一個，但他總能在你們部落的香料和護衛生意中大賺一筆。今天你要和他一起再去一次貧瘠海岸。雖然自從你們重新開闢了道路，減少了野生魔鼠襲擊，對他來說這仍然不安全。旅途的大部分時間都是安然無事，你聽到森林裡傳來了嚎叫聲，當你們正在談論過去的時光。獵犬...但是誰或什麼東西把它們趕到路邊的?
 quest_story_brute_1_list,和一個老朋友在薩默特地區附近進行日常的守衛巡邏工作。
 quest_story_brute_1_name,老夥計們
 
@@ -7312,7 +7300,7 @@ quest_story_mindthief_3_intro,強盜們將你的巢穴作為了他們的運營�
 quest_story_mindthief_3_list,從強盜手中奪回你的巢穴！
 quest_story_mindthief_3_name,回歸
 quest_story_nightshroud_1_desc,夜引者想要調查怨靈被摧毀時的殘留物。
-quest_story_nightshroud_1_intro,自從你上次掃清了火州城後，駐守在這裡的守衛時刻保持警惕，害怕建築外和這個區域的墳墓裡傳來的聲音。夜引者帶著團隊離開火州城，在勇敢地穿越了幾次小規模沙塵暴後來到了附近一個人跡罕至的地穴。他用一些碎石堵住入口，只留下一條小縫，然後擠了進去。你跟著他不知目的地前進，在穿越了幾個蜿蜒曲折的通道之後，你來到了一個似乎是主墓室的地方，剛進去時房間裡似乎什麼都沒有，但是不一會兒詭異的鬼魂從棺材裡升了起來，然後你身後的門“嘭”地一下猛地關上！
+quest_story_nightshroud_1_intro,自從你上次掃清了柴火葬場後，駐守在這裡的守衛時刻保持警惕，害怕建築外和這個區域的墳墓裡傳來的聲音。夜引者帶著團隊離開柴火葬場，在勇敢地穿越了幾次小規模沙塵暴後來到了附近一個人跡罕至的地穴。他用一些碎石堵住入口，只留下一條小縫，然後擠了進去。你跟著他不知目的地前進，在穿越了幾個蜿蜒曲折的通道之後，你來到了一個似乎是主墓室的地方，剛進去時房間裡似乎什麼都沒有，但是不一會兒詭異的鬼魂從棺材裡升了起來，然後你身後的門“嘭”地一下猛地關上！
 quest_story_nightshroud_1_list,幫助夜引者研究怨靈
 quest_story_nightshroud_1_name,偷偷溜走
 
@@ -7487,8 +7475,8 @@ quest_travel_eaglecrest_intro,顯然你沒有完全殺光那些河漲地邊的�
 quest_travel_eaglecrest_list,鷹山頂附近的森林裡出現了不少惡魔
 quest_travel_eaglecrest_name,綻放之森
 quest_travel_eastgrove_desc,邪教仍在不斷發展壯大，現在它已經完全控制了這個林地社區。
-quest_travel_eastgrove_intro,邪教徒們佔據了東林地外一塊郊區上的地穴，並讓當地的居民屈服于他們的魔法。人們請求你處理掉那些邪教徒們，解救這座城鎮。你在午夜的夜色的掩護下向著地穴前進，計畫著在不知不覺中幹掉那些佔據了地穴的傢伙。
-quest_travel_eastgrove_list,暗影聯盟佔領了東林地，把他們趕走。
+quest_travel_eastgrove_intro,邪教徒們佔據了東樹林外一塊郊區上的地穴，並讓當地的居民屈服于他們的魔法。人們請求你處理掉那些邪教徒們，解救這座城鎮。你在午夜的夜色的掩護下向著地穴前進，計畫著在不知不覺中幹掉那些佔據了地穴的傢伙。
+quest_travel_eastgrove_list,暗影聯盟佔領了東樹林，把他們趕走。
 quest_travel_eastgrove_name,無信者的信仰
 quest_travel_fordingbridge_desc,灘橋地的一個社區報告稱，森林正在燃燒，有熔岩正從地下湧出。
 quest_travel_fordingbridge_intro,從灘橋地傳來的大量報告稱，植被正在燃燒，地形正在變化，甚至那些與世隔絕的地方一夜之間出現了許多小股熔岩。一般來說，這種情況代表一個煉金術士或機匠將要接受調查，但當地人也提到這些地區的顏色似乎發生了變化，這種情況和你在下城區所遇到的很相似。你從惡魔閘口鎮的東南門出發，沿著一條長滿雜草和古老車轍的老公路前行。這一天平安無事過去了，直到你到達村莊的郊外，看到各個方向上都在冒著滾滾濃煙。其中一支煙柱離你很近，以至於你可以爬到附近的山上調查它。你發現了一個通向地下的洞穴入口。在它上面，濃煙從裂縫中滾滾而出。也許你能在裡面找到這些現象的原因？
@@ -7558,7 +7546,7 @@ quest_travel_rockfall_list,薩維斯正在攻擊落石村
 quest_travel_rockfall_name,大漩渦之心
 quest_travel_sahmyrt_desc,薩默特地區周圍的森林裡到處都是魔鼠，你得清出一條路來。
 quest_travel_sahmyrt_intro,向西前往薩默特地區是一段漫長而艱難的旅程，在穿過一條寬闊的河流後，你到達了森林的邊緣，就在大河的東邊。幾乎就在你靠近森林的瞬間，聽到了嘰嘰喳喳和憤怒的呼喊聲，還有幾支箭從矮樹叢中射出。與其處理這種遊擊的戰術，你決定深入森林，破壞他們在該地區的一個主要村莊。
-quest_travel_sahmyrt_list,到達香料之都薩默特
+
 quest_travel_sahmyrt_name,香料之路
 quest_travel_saltmarshflats_desc,通往光明堡的唯一道路要經過鹽沼地，你必須殺出一條血路。
 quest_travel_saltmarshflats_intro,與人們的常識的恰恰相反，鹽沼地實際上是一片無人居住、被森林覆蓋的鹽沼，而不是鹽鋪成的平原。雖然鹽沼不同與普通平原那樣一馬平川，但這片土地同樣容易產生洪水和淤泥氾濫的情況，許多旅行者因此被淹死和吞沒。一個被遺忘已久的巫師給這裡留下了遺贈，他在平原上修建了一條被魔法保護的小路。在此期間，各種各樣的法師為鹽沼地的建設做出了貢獻，這是一個因其位置而得名的村莊。既然知道了小路是穿過平原的唯一秘密頻道，也知道了巢靈族對其他城市做了什麼，你在通往這個村莊的路上做好了最壞的打算。當小路進入你的視野時，你最擔心的事情得到了證實：火炮的閃光和巢靈族的臭味從定居點的郊區傳到你的大腦裡。當你到達村莊的大門時，你最後一次為即將到來的戰鬥做好準備。
@@ -7641,8 +7629,8 @@ quest_travel_thehole_name,冰之神廟
 
 
 quest_travel_thepyre_desc,居住在南方人類堡壘的最後一批守衛帶著有亡靈和怪物進攻他們的流言逃來了。是時候調查了。
-quest_travel_thepyre_intro,火州城是過去300年來人類所建造的堡壘，它標誌著人類在南方的進展。幾年前這裡還有人居住，但現在人們都把這座城市與鬼故事聯繫在一起。你在沙暴中到達了火州城。這裡空無一人，但你感覺不到任何不對勁的地方。風越刮越猛，你只好躲入地下，在一座古老的墳墓裡紮營。你在半夜突然被骨頭的劈啪聲驚醒，但還有更令人不安的東西：鎖鏈的哢嗒聲。
-quest_travel_thepyre_list,調查關於火州城中沙漠幽靈的報告
+quest_travel_thepyre_intro,柴火葬場是過去300年來人類所建造的堡壘，它標誌著人類在南方的進展。幾年前這裡還有人居住，但現在人們都把這座城市與鬼故事聯繫在一起。你在沙暴中到達了柴火葬場。這裡空無一人，但你感覺不到任何不對勁的地方。風越刮越猛，你只好躲入地下，在一座古老的墳墓裡紮營。你在半夜突然被骨頭的劈啪聲驚醒，但還有更令人不安的東西：鎖鏈的哢嗒聲。
+quest_travel_thepyre_list,調查關於柴火葬場中沙漠幽靈的報告
 quest_travel_thepyre_name,憤怒的燈神
 quest_travel_theshiftingsands_desc,為你們前往南方的旅途準備補給。
 quest_travel_theshiftingsands_intro,穿過南部沙漠到河邊的路途是很漫長的。你們知道如果缺少休息和補給你肯定活不下去，於是你們在途中的第一個前哨站停了下來，那是一個位於移動沙地的小型考古挖掘點。考古學家們很高興你們能來，他們對你們在埋葬戰壕裡的經歷特別感興趣。在這個涼爽的夜晚，你們聽到了來自沙漠的故事，並瞭解到了一些不可思議的事情：這個前哨最近在一個破碎的罐子裡發現了一些奇怪的牙齒，它很可能來自於建造戰壕的同一個失落文明。這是與附近營地的一些遊民一起發現的，他們聲稱在穿越沙漠的旅途中見過類似的文物。 當作戰的尖叫聲喚醒你們時，你們正躺在帳篷裡過夜，腦袋裡充滿了問題。 在戰鬥造成混亂中，你們分散了。 保護好自己！
@@ -8519,7 +8507,7 @@ scenario_travel_eaglecrest_start_1,啊，這些友善的羚牛族沒有告訴我
 scenario_travel_eaglecrest_success_1,在這些惡魔死後，這塊地方的小妖逃走了，羚牛族也回到了他們的家園。
 scenario_travel_eaglecrest_success_2,我希望這是我們最後一次遇見烈光惡魔，但我知道我們不太可能如願。
 scenario_travel_eastgrove_room_3,這裡是最後一塊邪教徒居住的地方。殺死它們，這些生物就會消失。
-scenario_travel_eastgrove_start_1,這座洞穴被惡魔和靈魂守衛著，但你必須冒險前去幫助東林地的居民。
+scenario_travel_eastgrove_start_1,這座洞穴被惡魔和靈魂守衛著，但你必須冒險前去幫助東樹林的居民。
 scenario_travel_eastgrove_success_1,當最後的邪教徒死亡後，他們對惡魔和靈魂的控制被打破了，地穴陷入了一片死寂。
 scenario_travel_fordingbridge_room_3_1,洞穴深處的溫度顯然比其他地方高，因為岩壁上有熔化的岩石。
 scenario_travel_fordingbridge_room_3_2,小心，看起來地面上有些地方非常燙，很危險。
@@ -8954,8 +8942,7 @@ target_selfandalladjacentallies,Target self and all adjacent allies
 
 target_twohexinstead,目標為所有最多兩個格子遠instead的敵軍
 tatteredwolf,殺破狼
-teleport,傳送
-templeoftheacorn,橡子寺
+
 terrainhotcoals,熱碳
 terrainrubble,碎石
 terrainthorns,荊棘
@@ -8970,7 +8957,7 @@ the iron fellowship,鐵匠協會
 thealtarofbones,骷髏祭壇
 thearmoury,軍械庫
 theashenbondretreat,灰系靜修所
-thebarrencoast,荒涼海岸
+
 thebarrencoast_descr,薩默特地區以北的一段很長的海岸線，沒有任何可見的生命。休息一下，欣賞美景，繼續前行。
 thebetrayer,暗靈叛徒
 theblacktomb,黑暗墓穴
@@ -8998,12 +8985,12 @@ themournlighthideout,憂光隱匿所
 thenecropolis,死靈城
 theossuary,骨罐
 theputridpit,爛坑
-thepyre,火州城
+
 thesecludedbarracks,隱蔽軍營
 theshiftingsands,移動沙地
 theshiftingsands_descr,熱風吹過沙丘。小心不要迷路，因為周圍景觀通常會在一夜之間發生變化。
 theshootinggallery,射擊台
-thesloshedsquirrel,醉松鼠酒館
+
 thethorngate,荊棘門
 thethorngate_descr,森林西部邊緣的這片區域被命名為荊棘門，樹木幾乎都在歡迎旅行者進入它們的樹蔭中。這裡是這世界平和的部分。
 thetwilightchambers,暮光大廳
