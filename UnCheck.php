@@ -10,11 +10,9 @@
 022_t,消滅一個相鄰的被<nobr>擊暈<sprite name=Stun></nobr>的普通級別敵人。
 023_b,你可以將所有的<nobr>前進<sprite name=Move></nobr>能力轉化為等值的<nobr>進攻<sprite name=Attack></nobr>行動。
 026_b,本回合中，你對處於<nobr>繳械<sprite name=Disarm></nobr>，<nobr>禁足<sprite name=Immobilize></nobr>，<nobr>擊暈<sprite name=Stun></nobr>狀態敵人的攻擊附加<nobr>+3攻擊力<sprite name=Attack>。</nobr>
-030_t_1,在相鄰的一個空格內創建一個造成6點傷害的陷阱。
-030_t_2,當敵人觸發陷阱時獲得<sprite name=XP2>。
-031_t,召喚分身誘餌
 
-040_b,本輪中，你以及所有相鄰的盟友在所有攻擊中附加<nobr>+1攻擊力<sprite name=Attack>。</nobr>
+
+
 043_b_1,一名在你<nobr>射程<sprite name=Range>2</nobr>以內的盟友可以<nobr>回收<sprite name=Recover></nobr>一張其棄牌堆的卡牌。
 043_b_2,則最多兩張棄牌。
 043_t,在一個相鄰的空格內創建一個2點傷害的附加中毒<sprite name=Poison>的陷阱。
@@ -35,8 +33,8 @@
 058_t,損失2點生命值。
 060_b,在你<nobr>射程範圍<sprite name=Range>3</nobr>以內的一名盟友可以從他的職業牌堆中選擇一張符合當前等級的卡牌加入手牌，此效果持續到劇本結束。
 060_t,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>最多兩張燒牌堆的卡牌，然後他們燒祭兩張牌。
-062_t,此外，指定所有在<nobr>主要目標路徑</nobr>上的敵人為目標。
-063_t,<nobr>回收<sprite name=Recover></nobr>所有你<nobr>燒牌堆的卡牌</nobr>。
+
+
 
 069_t_1,在你接下來的四次攻擊中，<nobr>附加 +*TActive* 攻擊力<sprite name=Attack>。</nobr>
 069_t_1_alt,在你接下來的四次攻擊中，<nobr>附加+2攻擊力<sprite name=Attack>。</nobr>
@@ -4967,19 +4965,15 @@ addrange,增加射程
 addsong,額外的戰歌容量
 addtarget,增加目標數
 adjacentalliesandenemies2damage,在目標旁邊的所有敵軍和盟友受到2點傷害。
-affect_alladjacentallies,作用於所有相鄰的盟友
-affect_alladjacentsummonedallies,作用於所有相鄰的召喚物夥伴
-affect_allallies,作用于所有盟友
-affect_allalliesmovedthrough,作用於所有移動經過的盟友
+
 affect_allallieswithin,作用於以下範圍內的盟友：
-affect_allsummonedallies,作用於所有召喚物夥伴
+
 affect_anyoneally,作用于任意單名盟友
 affect_oneadjacentally,作用於單個相鄰的盟友
 affect_oneallywithinrange3,作用於以下範圍內的單名盟友： <nobr>射程<sprite name=Range> 3</nobr>
-affect_selfandalladjacentallies,作用於自身和所有相鄰的盟友
-affect_selfandallallies,作用於自身和所有盟友
+
 affect_selfandallalliesinrange2,作用於自身和以下範圍內的所有盟友：<nobr>射程<sprite name=Range> 2</nobr>
-affect_selfandallsummonedallies,作用於自身和所有召喚物夥伴
+
 allconditions,所有狀態
 allenemies2damage,所有敵軍遭受2點傷害。
 amberhill,琥珀嶺村
@@ -5047,7 +5041,7 @@ curseshort,詛咒
 darkrider,暗黑騎師
 decayingsepulcher,腐朽墳墓
 decayingtombs,腐朽陵墓
-decoy,分身誘餌
+
 demonsgate_descr,該地區的核心城鎮，惡魔閘口的城牆在與魔人族的戰爭中堅守。許多人在戰爭中來到這裡避難，他們的家人從未離開。一個為你的旅行尋找裝備的好地方，但需要為此付費。
 demonspinehollow,魔脊洞穴
 demonspinehollow_descr,被石化的森林的這一區域被認為會因看到惡魔、小鬼甚至無頭騎士而受到詛咒。 它看起來足夠安全，但也許它聞起來不太對。
@@ -5488,7 +5482,7 @@ glossary_move,移動： “移動 X”技能卡使得一名單位在地圖上移
 glossary_movedefault,基本移動：放棄使用卡牌的下半區行動，並進行一個“移動 2”的行動。此行動依然棄牌。
 glossary_muddle,混亂： 混亂的單位將會在他所有的攻擊中陷入攻擊劣勢。混亂狀態在被施法單位下一輪次結束時被移除。
 glossary_noenhancement,這個技能卡以後可以被提升，變得更加強力。
-glossary_permanentlylost,永久燒祭：表示這張卡牌不能從燒牌堆中通過任何方式回手。
+
 glossary_persistent,持續性效果獎勵：表示這個效果的持續過程沒有限期或者持續到卡上指定的條件被滿足。
 glossary_pierce,穿透：“穿透 X”攻擊效果忽視多達X點的目標護甲值。
 glossary_poison,中毒：敵軍在所有對中毒單位的攻擊中附加+1攻擊力。治療技能能醫療中毒狀態但是沒有任何其他效果（例如不回血）。
@@ -6192,7 +6186,7 @@ gui_scenario_mod_trigger_start_round,回合的開始
 gui_scenario_mod_trigger_start_turn,輪次的開始
 gui_scenario_unknown,"該地區尚未被探索過。
 你敢去無視野地偵察這片地方嗎？"
-gui_scenariogoldcollected,從這個劇本中收集到的金幣數。
+gui_scenariogoldcollected,從這個劇本裡收集到的金幣數。
 gui_scernario_failed,劇本失敗
 gui_select_character,選擇角色
 gui_select_characters,選擇角色
@@ -8802,8 +8796,8 @@ scenario_travel_theburiedtrenches_success_2,南部的一條河流為這個水庫
 scenario_travel_thecityofslate_start_1,好吧，這對我來說可是新東西…拿著火焰弓的亡靈？
 scenario_travel_thecityofslate_start_2,看起來它們的箭頭可能會爆炸。如果可以，請儘量分散開來。
 scenario_travel_thecityofslate_success,看來他們也會像其他不死族一樣化成灰。現在，讓我們看看考古學家們能給我們什麼獎勵吧！
-scenario_travel_thecopperoasis_start_1,魔鼠在這裡建起了一個簡單的營地，綠洲到處都散落著他們的垃圾。當你進入他們的視野時，他們拿起武器準備攻擊。
-scenario_travel_thecopperoasis_success,隨著最後一隻鼠人的死亡，綠洲再次成為了旅行者的安全之地。
+
+
 scenario_travel_thedome_start_1,你當然猜到這裡會有邪教徒，那些穿著暗影聯盟服裝的傢伙。但你沒想到的是居然還有暗夜惡魔！
 scenario_travel_thedome_start_2,他們似乎並不滿足於製造行屍，而是與惡魔勾結。必須阻止他們！
 scenario_travel_thedome_success_1,在最近幾十年的戰鬥結束後，圓頂地恢復了和平。
@@ -8884,7 +8878,7 @@ scenarioability_68_immunetoallexceptheal,只可被<nobr>治療<sprite name=Heal>
 scenarioability_70_immunetokill,免疫即死
 scenarioability_70_removelivingspirit,每當惡魔死亡時，玩家可以移除地圖上的一個怨靈。
 scenarioability_75_activatespawner,你可以跳過你的下半部分行動來挖掘一個相鄰的墓穴。
-scenarioability_84_preventdamage,在本劇本中可使用兩次，當水晶即將受到一次傷害時，一位傭兵可以燒祭一張手牌使水晶免疫該傷害。
+scenarioability_84_preventdamage,在本劇本裡可使用兩次，當水晶即將受到一次傷害時，一位傭兵可以燒祭一張手牌使水晶免疫該傷害。
 scenarioability_87_1oozeshield,所有的軟泥怪攻擊你時，你獲得護盾<sprite name=Shield>2
 scenarioability_87_2poisonimmunity,你免疫中毒<sprite name=Poison>
 scenarioability_88_lurkerclawmovedebuff,持有利爪的傭兵從所有移動行動中<nobr>-2移動力<sprite name=Move>。
@@ -8984,8 +8978,8 @@ swiftscars,速行車
 swordlodge,藏劍房
 taloncamp,禽爪營地
 target,目標數
-target_alladjacentallies,目標為所有相鄰的盟友
-target_alladjacentenemies,目標為所有相鄰的敵軍
+
+
 target_allallies,目標為所有盟友
 target_allalliesandenemies,目標為所有的盟友和敵軍
 target_allallieswithin,目標為所有在以下範圍內盟友：

@@ -11665,8 +11665,8 @@ scenario_travel_theburiedtrenches_success_2,"A southern river feeds this reservo
 scenario_travel_thecityofslate_start_1,"Well, this is new to me... Undead with flaming bows?"
 scenario_travel_thecityofslate_start_2,It looks as if their arrow heads may be explosive. Try and split up if possible!
 scenario_travel_thecityofslate_success,"It seems they return to the dust like any other Undead. Now, let’s see what the archaeologists can reward us with!"
-scenario_travel_thecopperoasis_start_1,"The Vermlings have made a simple camp here, and the Oasis is littered with their rubbish. As you step into view, they grab their weapons and attack."
-scenario_travel_thecopperoasis_success,"With the last Vermling dead, the Oasis is a safe place for travellers once more."
+
+rmling dead, the Oasis is a safe place for travellers once more."
 scenario_travel_thedome_start_1,"You certainly expected to find Cultists down here, of course in the garb of the Umbran League. What you didn’t expect were Night Demons!"
 scenario_travel_thedome_start_2,"It seems they are not content with raising the dead, but are now in collusion with Demons. They must be stopped!"
 scenario_travel_thedome_success_1,Peace returns to the Dome after its most recent battle for decades is now over.
