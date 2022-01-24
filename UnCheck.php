@@ -5641,14 +5641,8 @@ gui_completed_personal_quest_progress_tip_male,{0}已經邁出了朝著<color=#E
 gui_completed_personal_quest_tip_female,{0}已經<color=#EACF8C>完成了她的個人任務</color>，人物並沒有任何動機再去探索那些充滿怪物的廢墟
 gui_completed_personal_quest_tip_male,{0}已經<color=#EACF8C>完成了他的個人任務</color>，人物並沒有任何動機再去探索那些充滿怪物的廢墟
 
-
-
-
-
-gui_confirmation_enable_perk,獲得{0}個{1}/{2}
-gui_confirmation_enable_perk_warning,一旦應用，就無法移除一個專精項目
 gui_confirmation_end_session,返回單人模式繼續遊戲
-gui_confirmation_levelup_card,將此卡添加到您的可用技能卡中？
+
 gui_confirmation_perk_missing_remove_condition,鎖定的專精項目
 gui_confirmation_perk_missing_remove_condition_warning,此專精項目不能被選擇，因為您的牌堆中沒有必需的攻擊修正卡。
 gui_confirmation_restart_message,當前回合的所有進度都將丟失。所有雇傭兵都將返回技能卡選擇階段。
@@ -5843,12 +5837,9 @@ gui_leave,離開
 gui_level,等級
 gui_level_editor_multiple_levels_same_name,具有相同名稱的多個關卡。在自訂關卡目錄中保存一個副本。
 gui_level_up_outside_gloomhaven,你們必須返回黯淡港灣升級
-gui_levelup,{0}級！
-gui_levelup_available_cards,<color=#CEAD5A>{0}</color>技能卡可用了！
-gui_levelup_button,升級！
-gui_levelup_character,已達到{0}級
+
+
 gui_levelup_choose_card,將1個新卡添加到{0}的卡牌堆上
-gui_levelup_new_cards,進一步的技能卡
 gui_levelup_new_cards_tooltip,"<color=#CEAD5A>進一步的技能卡</color>是那些不使其成為雇傭兵掌握技能卡集的人。
 升級後，可以將1個鎖定卡添加到掌握的技能卡中"
 gui_levelup_received_cards,"您剛收到<sprite name=""Card_Icon""> <color=#CEAD5A> {0}新技能卡！</color>
@@ -6242,13 +6233,10 @@ gui_tooltip_helpbox improved_short_rest_title,<color=#B52828>無法停止的破�
 gui_tooltip_item_single_target_tip,選擇一個目標以使用該物品。
 gui_tooltip_item_single_target_title,單目標物品。
 gui_tooltip_not_enough_targets_selected,沒有選擇足夠的目標
-gui_tooltip_player_disarmed,"{0}被<color=#A050E0>繳械</color> <size=180%><sprite name=""HoverDisarmed""></size>了。"
-gui_tooltip_player_immobilized,"{0}被<color=#A050E0>禁足</color> <size=180%><sprite name=""HoverImmobilized""></size>了。"
-gui_tooltip_player_sleeping,"{0}陷入<color=#A050E0>睡眠</color> <size=180%><sprite name=""HoverSleeping""></size>狀態了。"
+
 gui_tooltip_player_starting_placement,雇傭兵數量必須在入口房間之間均勻分配。
 gui_tooltip_player_starting_placement_companion_summons,必須放置{0}一遍有一個相鄰的空格子來召喚他們的夥伴。
-gui_tooltip_player_stunned,"{0}陷入<color=#A050E0>暈眩</color><size=180%><sprite name=""HoverStunned""></size>狀態了。"
-gui_tooltip_player_wounded,"{0}陷入<color=#A050E0>流血</color><size=180%><sprite name=""HoverWounded""></size>狀態了。"
+
 gui_tooltip_remove_conditions,移除自己的所有負面狀態。
 gui_tooltip_select_destroy_obstacle,選擇要摧毀的一個障礙。
 gui_tooltip_select_destroy_obstacles,選擇要摧毀的幾個障礙。
@@ -6343,13 +6331,7 @@ intro_cityquest,"你們解鎖了一個<color=#EACF8C>城鎮任務</color>！
 intro_enchantress,在此介面你可以為你所有技能卡進行附魔。首先選擇技能卡，然後選擇附魔槽，就可以將你希望的附魔效果附加到該附魔槽位上。請注意，不同的附魔會對應不同的附魔基礎成本，而且同一張牌附魔次數越多成本越高。當你移除附魔時，其附魔成本將恢復到最初的狀態。
 
 
-intro_levelup_1,"恭喜！你升級了！
-每次雇傭兵升級，你都可以<color=#EACF8C>從兩張技能卡中選擇一張</color>。你未選擇的卡將仍可以在下次升級時被選擇。
-同時，升級還會為傭兵解鎖一個新的增益點。"
-intro_levelup_2,"雇傭兵升級時，<color=#EACF8C>團隊等級</color>也會提升。團隊等級將影響地牢中敵人的強度、陷阱的傷害和拾取物的價值。
-等等，你該不會以為提升團隊等級會讓遊戲變得越來越簡單吧？"
-intro_levelup_3,"新的技能卡已經添加到傭兵的技能卡介面中。
-如果你打算在下一個地牢中使用它，<color=#EACF8C>別忘了裝備上</color>！"
+
 intro_linkedquest,"你偶爾會遇到系列任務。
 遊戲鼓勵你一個接一個地完成系列任務。通過直接開始系列任務，你將<color=#EACF8C>避免觸發道路遭遇（它們往往會走向負面的效果）</color>。
 如果你願意，你可以通過點擊地圖上的位置返回黯淡港灣。
@@ -6358,7 +6340,7 @@ intro_merchant,請記住，每個雇傭兵都有自己的金幣儲備和個人�
 intro_perkspanel_1,"幹得不錯！你已經解鎖了一項專精專案，這玩意兒可是很難得的！
 通關地牢和完成所選的戰鬥目標將使傭兵獲得專精點，收集三個專精點數將<color=#EACF8C>解鎖一個專精項目 </color>。
 你也可以通過升級雇傭兵來解鎖一個專精專案。"
-intro_perkspanel_2,專精項目使你可以<color=#EACF8C>改變一個傭兵的攻擊修正牌堆</color>，包含添加新的強力修正卡，或者移除那些戰鬥中不斷讓人不爽的負面修正卡。
+
 intro_personalquest_1,"個人任務是傭兵<color=#EACF8C>冒險的唯一理由</color>。
 一旦個人任務的目標被完成，傭兵將會退休。
 <color=#EACF8C>注意</color>——當傭兵退休後，他們將不再是可用於遊戲的角色。"
@@ -6794,7 +6776,7 @@ message_end_quest_travel_theburiedtrenches_1,古代文明的廢墟難道只是�
 message_end_quest_travel_theburiedtrenches_2,我在水庫附近發現了一對脛甲，把它從奇怪的黏液裡拖出來了。
 message_end_quest_travel_theburiedtrenches_3,他們比看起來的要...重！但也保養的很好。重就等於結實耐用，不是嗎？有機會就來看看。
 message_end_quest_travel_thecityofslate_1,第一個從城市裡挖出來的東西是一個帶有治療能力的護身符，現已上架。話說你想過為什麼很多屍體的口袋裡會有一瓶治療藥水？
-message_end_quest_travel_thecopperoasis_1,一些當地的羚牛族人給了我一些重捕網，也許你能在戰鬥中用上他們。
+
 message_end_quest_travel_thedome_1,好像歷史學家發現了一批邪教徒使用過的儀式刀具，容易讓人聯想到血腥的東西。不過我相信這東西能在像你這樣的人手中派上用場...
 message_end_quest_travel_theenclave_1,市長說他的一隻狗脖子上有個奇怪的護身符，不知道這個護身符能不能幫助你查明發生了什麼。
 message_end_quest_travel_theenclave_2,我從來沒見過它像這樣，但它好像有神奇的屬性，你要不來試試？
@@ -8980,11 +8962,11 @@ taloncamp,禽爪營地
 target,目標數
 
 
-target_allallies,目標為所有盟友
-target_allalliesandenemies,目標為所有的盟友和敵軍
+
+
 target_allallieswithin,目標為所有在以下範圍內盟友：
 target_allallieswithinrange,目標為所有射程內的盟友
-target_allenemies,目標為所有敵軍
+
 target_allenemiesadjacenttoanyonesummonedally,目標為所有相鄰於任何一個召喚物夥伴的敵軍
 target_allenemiesadjacenttoenemieswith,目標為所有敵軍所有相鄰於以下的敵軍：
 target_allenemiesatexactly,目標為所有在一下給定範圍的敵軍：
@@ -8993,12 +8975,11 @@ target_allenemiesmovedthrough,目標為所有移動經過的敵軍
 target_allenemieswithin,目標為所有在以下範圍內敵軍：
 target_allenemieswithinrange,目標為所有射程內敵軍
 target_cannolongerfly,目標不再能飛行。
-target_oneadjacentalliedplayer,目標為一個相鄰的盟友雇傭兵
-target_oneadjacentenemy,目標為一個相鄰的敵軍
+
+
 target_oneenemywithallattacks,目標為一個with all attacks的敵軍
 target_selfandalladjacentallies,Target self and all adjacent allies
-target_selfandallallieswithin,目標為自身和所有盟友
-target_selfandallallieswithinrange,目標為自身和所有射程內的盟友
+
 target_twohexinstead,目標為所有最多兩個格子遠instead的敵軍
 tatteredwolf,殺破狼
 teleport,傳送

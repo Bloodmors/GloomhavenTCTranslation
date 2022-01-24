@@ -5950,9 +5950,7 @@ intro_equipmentpanel,"In the Equipment Panel you'll find the <color=#EACF8C>diff
 If the item slot is displayed in grey, it means you currently have no items of that type."
 intro_itemdesign,"You've found a new Item Design!
 When you find an Item Design the item becomes <color=#EACF8C>available in the Merchant's Shop</color>."
-intro_levelup_1,"Good job on Levelling Up!
-Each time a Mercenary levels up you'll <color=#EACF8C>choose one of two new, more powerful Ability Cards</color>. The Card you don't choose will still be available to pick the next time the Merc Level's Up.
-Levelling Up also unlock a new Perk for the Mercenary."
+
 intro_levelup_2,"As the Mercenaries in the party Level Up, so will the <color=#EACF8C>Party's general Level</color>. This value is used to determine enemy strength, trap damage and the value of Loot in Dungeons.
 You didn't expect things to get easier, did you?"
 intro_levelup_3,"The new Ability Card has been added to the Merc's Ability Panel.
