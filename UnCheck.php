@@ -13,10 +13,10 @@
 
 043_b_1,一名在你<nobr>射程<sprite name=Range>2</nobr>以內的盟友可以<nobr>回收<sprite name=Recover></nobr>一張其棄牌堆的卡牌。
 043_b_2,則最多兩張棄牌。
-043_t,在一個相鄰的空格內創建一個2點傷害的附加中毒<sprite name=Poison>的陷阱。
-044_t,你接下來的4次治療能力附加<nobr>+2治療值<sprite name=Heal>。</nobr>
+
+
 045_b,<nobr>射程範圍<sprite name=Range>3</nobr>內的一名盟友可以<nobr>回收<sprite name=Recover></nobr>一張他的燒牌堆的卡牌。
-047_b,在一個相鄰的空格內創建一個附加擊暈<sprite name=Stun>的陷阱。
+
 049_t,召喚戰鬥機器
 051_t,一名相鄰盟友可以<nobr>重置<sprite name=Refresh></nobr>他的一個已耗盡的小道具<sprite name=InvSmallItem>。
 052_t_1,消滅目的地區域內當前生命值<nobr>小於或等於5</nobr>的所有敵人。
@@ -286,7 +286,7 @@
 380_b,此敵人在它的每個行動輪開始時損失2點生命值。
 381_b,當指定該敵人為目標時，所有盟友為他們的攻擊附加<nobr>+1攻擊力<sprite name=Attack></nobr>。
 382_b,當此敵人死亡時，所有與它相鄰的敵人損失3點生命值。
-382_t_1,在相鄰的一個空格內創建一個造成3點傷害的陷阱。
+
 382_t_2,當此陷阱觸發時，所有與它相鄰的敵人損失2點生命值。
 382_t_3,當敵人踩中陷阱時獲得<sprite name=XP2>。
 383_b,當此敵人死亡時，強迫所有與它相鄰的敵人執行一次“<nobr>移動<sprite name=Move>1</nobr>”行動，並由你操控移動的方向。
@@ -1023,7 +1023,7 @@ combat_log_healed_poison,移除中毒
 combat_log_healed_wound,並移除創傷
 combat_log_hexes,格子
 combat_log_immune,{0}可防止{1}至{2}
-combat_log_infuse_element,{0}元素正在被凝聚
+
 combat_log_infusing_element,{0}正在對{1}元素進行凝聚
 combat_log_invulnerable,{0}因免傷而受到了<b><color=#f76767> 0 </color></b>點傷害
 	combat_log_kill,{0}殺死了{1}
@@ -4806,9 +4806,7 @@ scenario_campaign_095_success_5,隨後，它再次放出一道脈衝。
 ================================================================================================================================================
 #region 角色介紹
 ================================================================================================================================================
-
 beasttyrant_adventure_description,超越他們基本本能的魔鼠發現，如果在荒野中的野獸身上應用他們的意念，他們會受益多多。獸王們可以聚集帶著尖牙、獸爪和禽爪的驚人的軍隊，這讓他們在戰鬥中成為強大的對手
-beasttyrant_difficulty,中
 beasttyrant_role,近戰輸出/召喚
 beasttyrant_strengths,"- <indent=%15>開始就有一頭強力的熊夥伴</indent>
 - <indent=%15>與所有盟友召喚物合作地很好</indent>
@@ -4826,7 +4824,6 @@ beasttyrantbear_tooltip,"<b><size=120%><sprite name=""Heal"">： {0}   <sprite n
 <line-height=100%>獸王特有“口令”行動，它允許熊去代替獸王執行技能卡。"
 
 berserker_adventure_description,狂羚戰士們是那些已經投身於他們的力量和憤怒的艾諾克斯戰士。狂羚戰士將會竭盡全力保護她的朋友們的安全，甚至不惜犧牲她自己的生命。她的技能圍繞著高輸出，通過自我傷害將輸出推到更高的數值。這使她成為一個極其危險的戰鬥人員，無論是對她的敵人還是她自己
-berserker_difficulty,高
 berserker_role,近戰輸出
 berserker_strengths,"- <indent=%15>所有最高傷害輸出角色中的一個</indent>
 - <indent=%15>越瀕臨死亡越強</indent>
@@ -4836,7 +4833,6 @@ berserker_weaknesses,"- <indent=%15>沒有幫助盟友的技能</indent>
 - <indent=%15>情緒有憤怒管理問題</indent>"
 
 doomstalker_adventure_description,奧根末日獵手們被安排在Gloomhaven周圍的荒野中守衛各個奧根定居點的安全。奧根平靜的頭腦讓末日獵手成為一個優秀的弓箭獵人，他從來箭無虛發。
-doomstalker_difficulty,中
 doomstalker_role,遠程輸出/輔助
 doomstalker_strengths,"- <indent=%15>高遠程輸出</indent>
 - <indent=%15>厄運技能帶來大量額外的攻擊效果</indent>
@@ -4859,7 +4855,6 @@ elementalist_weaknesses,"- <indent=%15>如果沒有其他元素凝聚者搭配�
 - <indent=%15>有時技能卡的佈置會讓人頭痛</indent>"
 
 nightshroud_adventure_description,夜引者們擁有穿過被眼睛忽視的世界的能力，他們把自己隱藏在陰影中，是致命的行者，能使用刀刃和隱形去處決任何目標。除了與其他種族協作去正經收集資訊，夜引者們更喜歡去用他們冰冷、帶著死氣的手指來撬得信息。
-nightshroud_difficulty,中
 nightshroud_role,近戰輸出
 nightshroud_strengths,"- <indent=%15>強有力的單體輸出技能</indent>
 - <indent=%15>可使用隱身去避開傷害</indent>
@@ -4869,7 +4864,6 @@ nightshroud_weaknesses,"- <indent=%15>貧乏的遠端技能選擇</indent>
 - <indent=%15>存在交友困難</indent>"
 
 plagueherald_adventure_description,無論是受了誤導還是對其他種族生理上的忽視，瘟疫使者們相信疾病在整個社會的傳播將加強這個社會，並推動它朝著更偉大的方向發展。若與瘟疫使者做盟友應該警惕，他們在戰場兩邊都傳播腐爛和死亡的能力是一個可怕的東西。
-plagueherald_difficulty,中
 plagueherald_role,遠程輸出/輔助
 plagueherald_strengths,"- <indent=%15>能以多個敵人為目標</indent>
 - <indent=%15>有效的遠程能力</indent>
@@ -4879,7 +4873,6 @@ plagueherald_weaknesses,"- <indent=%15>非常有可能誤傷盟友</indent>
 - <indent=%15>蟲靈族的交配儀式實在是...</indent>"
 
 quartermaster_adventure_description,熟練的魔人族軍需官幫助冒險團隊在戰鬥中最大化他們裝備的效果，並以此聞名。畢竟，一個身邊沒有好劍的戰士算什麼呢？
-quartermaster_difficulty,中
 quartermaster_role,近戰輸出/輔助
 quartermaster_strengths,"- <indent=%15>擁有許多物品刷新技能</indent>
 - <indent=%15>進攻和防禦能力比較平衡</indent>
@@ -4889,7 +4882,6 @@ quartermaster_weaknesses,"- <indent=%15>沒有一項能力是大師</indent>
 - <indent=%15>總是帶著太多行李</indent>"
 
 sawbones_adventure_description,橡樹教的追隨者們是宗教治療師，他們盡最大努力抵禦發生在大城市的瘟疫和死亡。 然而，與外人的看法相反，他們的治療方法其實並沒有多麼神奇，因為任何一個帶著條有壞疽的腿來找他們的人心裡都很清楚。在鋸骨者砍下一條條肢體的慘叫聲中，這份職業的神秘感會蕩然無存。
-sawbones_difficulty,低
 sawbones_role,近戰輸出/輔助
 sawbones_strengths,"- <indent=%15>效果拔群的治療師</indent>
 - <indent=%15>擁有一個合理的近戰輸出 </indent>
@@ -4899,7 +4891,6 @@ sawbones_weaknesses,"- <indent=%15>非常可憐的遠程進攻輸出</indent>
 - <indent=%15>作為一個醫生，不能很好地理解醫療衛生</indent>"
 
 soothsinger_adventure_description,奎瓦卓們不僅是工程師中的大師，而且他們令人讚歎的巧手允許他們變成傑出的吟游詩人。這些“靈魂歌者”們能夠幫助他們的盟友去獲得偉大的功績，他們在他們的魯特琴輕撫一曲就讓他們的敵人士氣低下。 他們的戰歌系統的作用與心靈竊賊的賦能特效相似，她在大的團隊特別強力，但是擁有較低的傷害輸出。
-soothsinger_difficulty,高
 soothsinger_role,遠程輔助
 soothsinger_strengths,"- <indent=%15>遠距離、強有力的Buff技能</indent>
 - <indent=%15>技能卡下半區有著多樣的選擇</indent>
@@ -4909,7 +4900,6 @@ soothsinger_weaknesses,"- <indent=%15>可憐的傷害輸出</indent>
 - <indent=%15>古怪的時尚品味</indent>"
 
 summoner_adventure_description,隨著正確的貫注精神，一個高維族召喚師可以穿過空間邊界面拉取任何她想要的東西。無限的可能伴隨著無限的邊界面應運而生。這樣的行為可能會非常費力，但是召喚師卻發現運輸生物或初始靈能更容易。
-summoner_difficulty,中
 summoner_role,召喚/輔助
 summoner_strengths,"- <indent=%15>很長的召喚物名單</indent>
 - <indent=%15>對於所有盟友的輔助技能</indent>
@@ -4958,7 +4948,7 @@ atendofturn,在輪次的結束
 
 attack_area,攻擊範圍
 attackersgaindisadvantage,攻擊者們陷入劣勢進攻
-attacksapply,攻擊中附加
+
 attacksinfuse,在攻擊中元素凝聚
 
 banditcommander,強盜指揮官
@@ -5749,23 +5739,23 @@ gui_gift_enemy_strengthen,下一個劇本的敵人開始時被強化
 gui_gift_enemy_stun,下一個劇本的敵人開始時處於暈眩狀態
 gui_gift_enemy_wound,下一個劇本的敵人開始時處於流血狀態
 gui_gift_enhancement,你獲得了一項能力卡強化
-gui_gift_immobilize,你被禁足了
-gui_gift_infusion,下一個劇本開始時戰場會凝聚{0}元素
-gui_gift_invisible,您已被賦予隱身狀態
+
+
+
 gui_gift_item_design,您收到了一個物品設計圖。
 gui_gift_lost_gold,您失去了{0}金幣
-gui_gift_muddle,您陷入混亂狀態了
+
 gui_gift_negative_condition,您遭受到未知的負面狀態
 gui_gift_none,我沒有什麼能給您
 gui_gift_perk,您收到了一個專精項目
-gui_gift_poison,您中毒了
+
 gui_gift_positive_condition,您獲得了一個積極的效果
 gui_gift_rounds_duration,在下一個劇本的第一回合
 gui_gift_several_rounds_duration,在{0}回合期間內
-gui_gift_strengthen,您得到了強化
-gui_gift_stun,您陷入暈眩狀態了
+
+
 gui_gift_win_gold,您獲得了{0}個金幣
-gui_gift_wound,您陷入流血狀態了
+
 gui_gift_xp,您獲得了{0} 點XP
 gui_guild_enchantress,魔女
 gui_guild_enhancer,Enchantress
@@ -6733,8 +6723,7 @@ message_end_quest_travel_summerwell_4,顯然，薩維斯離開去尋找群山間
 message_end_quest_travel_sweetwater_1,幸運的是甜水地並不是完全由下水道組成的，所以一旦村民開始瘋狂刷洗我就可以在遠處觀察。
 message_end_quest_travel_sweetwater_2,我竟然在灌木叢中找到了一個堅固的頭盔。雖然它有一股比邪教徒的桌子還臭的味道，但我還是把它帶上了。
 message_end_quest_travel_sweetwater_3,很明顯這頭盔以前物有所主，但那個妹子追我時滑倒在一攤污水中，所以這算得上是幸運頭盔 。有機會就來我的商店看看它吧。
-message_end_quest_travel_templeoftheacorn_1,謝謝你淨化了被卑鄙獵犬褻瀆的神廟！我們的同伴會馬上過去重新讓神廟恢復正常運作。
-message_end_quest_travel_templeoftheacorn_2,作為謝禮，我們會向你的傭兵提供我們的強力恢復藥水。
+
 message_end_quest_travel_thebarrencoast_1,我們現在和沿海的貿易商人有了聯繫，代表我們可以拿到海外的貨品了。有個炫酷的帶翼頭盔你可能感興趣，來看看吧！
 message_end_quest_travel_theburiedtrenches_1,古代文明的廢墟難道只是沒有了怪物嘛？當然我在你離開後又回去了，你得慶幸我這麼做了。
 message_end_quest_travel_theburiedtrenches_2,我在水庫附近發現了一對脛甲，把它從奇怪的黏液裡拖出來了。
@@ -6839,7 +6828,7 @@ message_unlock_berserker_1,你對痛苦的熱愛將狂戰士吸引到了我們�
 message_unlock_doomstalker_1,你對陷阱的靈敏運用將末日獵手吸引到了我們的公會！
 message_unlock_nightshroud_1,你對暗元素的運用將夜引者吸引到了我們的公會！
 message_unlock_plagueherald_1,你創造的毒藥量將瘟疫使者吸引到了我們的公會！
-message_unlock_quartermaster_1,你對道具的運用將精數者吸引到了我們的公會！
+
 message_unlock_sawbones_1,看來有人已經注意到了你可能需要一些説明才能活下去！
 message_unlock_soothsinger_1,你的事蹟吸引了一名新的傭兵，靈魂歌者！
 message_unlock_summoner_1,收集大量的敵人肢體將召喚師吸引到了我們的公會
@@ -8719,11 +8708,7 @@ scenario_travel_sweetwater_start_3,它們看起來就像是會動的污水！
 scenario_travel_sweetwater_success_1,隨著生物的死亡，腐化消散了，污水又開始正常流動。在曾經被腐化的地方，變質的泉水從下水道牆壁的裂縫中滲出。
 scenario_travel_sweetwater_success_2,我認為這種腐化的根源在更深的地方。洗一洗，我們得進一步調查。
 scenario_travel_sweetwater_success_3,不管這種腐化是什麼，我都不會再靠近下水道了。
-scenario_travel_templeoftheacorn_sm1_desc,所有敵人的攻擊都附帶中毒
-scenario_travel_templeoftheacorn_start_1,這些野狗看起來好像都得病了，請注意它們的攻擊都附帶中毒。
-scenario_travel_templeoftheacorn_start_2,我敢肯定，如果你支撐得夠久，他們就會夾著尾巴逃走。
-scenario_travel_templeoftheacorn_success_1,發現自己無法擊垮你的決心，剩下的獵犬潛入陰影，離開墳墓，分散到遠處的沙漠裡了。
-scenario_travel_templeoftheacorn_success_2,有毒的獵犬甚至比普通獵犬更糟糕…..為什麼人們不能像我一樣養只貓呢？
+
 scenario_travel_thebarrencoast_start_1,不出所料，灌木叢中沖出幾隻怒氣衝衝的羚牛族人。你試著和他們溝通，但無濟於事。他們做好了攻擊準備。
 scenario_travel_thebarrencoast_start_2,看來我的一些沒那麼有教養的表親要來找你的麻煩了。把羚牛族當作大號的憤怒的人類就好——他們並不太難被放倒，除非他們帶著他們的薩滿一起。
 scenario_travel_thebarrencoast_success,在這個部落被擊敗後，就沒有什麼東西攔在你離開森林的道路上了。你繼續出發前往荒蕪海岸。

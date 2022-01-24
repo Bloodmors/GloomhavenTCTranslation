@@ -6808,8 +6808,7 @@ message_end_quest_travel_summerwell_4,"Apparently, the Savvas have left for an a
 message_end_quest_travel_sweetwater_1,"Fortunately Sweetwater isn’t all sewer, so I had a poke around once the villagers had scrubbed the town down."
 message_end_quest_travel_sweetwater_2,"I managed to find a solid helmet in a bush. It stunk worse than a Cultist’s table, but I couldn’t pass it up."
 message_end_quest_travel_sweetwater_3,"Apparently it had an owner, but she slipped on some stray sewage chasing me, so I guess it's a lucky helmet. It’s in my store when you get a chance."
-message_end_quest_travel_templeoftheacorn_1,Thank you for cleansing the temple of those vile Hounds! Our followers will soon return and get the site functional again.
-message_end_quest_travel_templeoftheacorn_2,"As a token of our thanks, we will supply your merchant with our powerful healing potions."
+
 message_end_quest_travel_thebarrencoast_1,"We are now linked with the coastal traders, which means I have some access to items from across the sea. Something you might be interested in is a cool winged Helm, come have a look!"
 message_end_quest_travel_theburiedtrenches_1,"Ruins from an ancient civilisation, just freed of monsters? Of course I went back after you left, and you better be glad I did."
 message_end_quest_travel_theburiedtrenches_2,"I spotted a pair of greaves near the reservoir, and pulled them out of some questionable goo."
@@ -11632,10 +11631,9 @@ scenario_travel_sweetwater_success_1,"With the creatures dead, the Rot shrivels 
 scenario_travel_sweetwater_success_2,"I think the source of this rot runs deeper. Have a wash, and we’ll investigate further."
 scenario_travel_sweetwater_success_3,"Whatever this rot is, I’m not going anywhere near a sewer again."
 scenario_travel_templeoftheacorn_sm1_desc,All enemies have Poison added to their Attacks
-scenario_travel_templeoftheacorn_start_1,These dogs look diseased. Be aware they have POISON on all their attacks.
-scenario_travel_templeoftheacorn_start_2,"I’m pretty sure that if you can survive long enough, they’ll turn tail and run."
-scenario_travel_templeoftheacorn_success_1,"Unable to break your resolve, the remaining hounds slink into the shadows and leave the tomb, scattering into the desert beyond."
-scenario_travel_templeoftheacorn_success_2,Poisonous Hounds are even worse than normal Hounds... why don’t people just own a cat like I do?
+
+
+
 scenario_travel_thebarrencoast_start_1,"As expected, out of the bushes stomp some very angry-looking Inox. You try to communicate with them, but to no avail. They prepare to attack."
 scenario_travel_thebarrencoast_start_2,"It seems some of my less cultured cousins are going to mess with your day. Treat Inox as big angry humans — they aren’t too difficult to take down, unless they bring their Shaman along."
 scenario_travel_thebarrencoast_success,"With the tribe defeated, your path from the forest is no longer barred. You continue to the Barren Coast."
