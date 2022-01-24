@@ -3064,15 +3064,8 @@ item_unstableexplosives_2,所有位於攻擊區域的盟友損失3點生命值�
 item_versatiledagger,當你使用技能卡上半部分的預設行動時，將<nobr>“進攻<sprite name=Attack>2”</nobr>改為<nobr>“進攻<sprite name=Attack>3”</nobr>。
 item_volatilebomb,在你對單個目標使用遠程進攻時，將攻擊改為執行以下步驟：
 item_wallshield,當你因為攻擊而受到傷害時，對此次攻擊獲得<nobr>護盾<sprite name=Shield>4</nobr>。
-item_wandofbrilliance,在你的行動輪中，生成光元素。
-item_wandofdarkness,在你的行動輪中，生成暗元素。
-item_wandoffrost,在你的行動輪中，生成冰元素。
-item_wandofinfernos,在你的行動輪中，生成火元素。
-item_wandofstorms,在你的行動輪中，生成氣元素。
-item_wandoftremors,在你的行動輪中，生成土元素。
 
 item_wavecrest,當你受到攻擊時，如果<sprite name=Ice>處於強烈，對攻擊者執行一次“強推<sprite name=Push>2”。
-item_weightednet,當你進行遠程進攻時，對你的其中一個攻擊附加<nobr>禁足<sprite name=Immobilize></nobr>•。
 ================================================================================================================================================
 #endregion item
 ================================================================================================================================================
