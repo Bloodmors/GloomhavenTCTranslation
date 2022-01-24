@@ -11,8 +11,6 @@
 023_b,你可以將所有的<nobr>前進<sprite name=Move></nobr>能力轉化為等值的<nobr>進攻<sprite name=Attack></nobr>行動。
 026_b,本回合中，你對處於<nobr>繳械<sprite name=Disarm></nobr>，<nobr>禁足<sprite name=Immobilize></nobr>，<nobr>擊暈<sprite name=Stun></nobr>狀態敵人的攻擊附加<nobr>+3攻擊力<sprite name=Attack>。</nobr>
 
-
-
 043_b_1,一名在你<nobr>射程<sprite name=Range>2</nobr>以內的盟友可以<nobr>回收<sprite name=Recover></nobr>一張其棄牌堆的卡牌。
 043_b_2,則最多兩張棄牌。
 043_t,在一個相鄰的空格內創建一個2點傷害的附加中毒<sprite name=Poison>的陷阱。
@@ -33,8 +31,6 @@
 058_t,損失2點生命值。
 060_b,在你<nobr>射程範圍<sprite name=Range>3</nobr>以內的一名盟友可以從他的職業牌堆中選擇一張符合當前等級的卡牌加入手牌，此效果持續到劇本結束。
 060_t,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>最多兩張燒牌堆的卡牌，然後他們燒祭兩張牌。
-
-
 
 069_t_1,在你接下來的四次攻擊中，<nobr>附加 +*TActive* 攻擊力<sprite name=Attack>。</nobr>
 069_t_1_alt,在你接下來的四次攻擊中，<nobr>附加+2攻擊力<sprite name=Attack>。</nobr>
@@ -84,8 +80,6 @@
 
 120_t,所有與目標相鄰的單位損失1點生命值。
 121_t,在你接下來的四次遠程進攻行動中，獲得附加目標<sprite name=Target>。
-
-
 
 
 124_b_3,<nobr> 2點生命值，<sprite name=XP1></nobr>
@@ -672,10 +666,10 @@ ability_card_researchthecure,治癒研究
 ability_card_reservedenergy,加油站
 ability_card_restock,刷新
 ability_card_restorativemist,急救噴霧
-ability_card_revivingshock,電擊療法
+
 ability_card_righteousstrength,正義力量
 ability_card_risingmomentum,愈戰愈勇
-ability_card_rockslide,土石流
+
 
 ability_card_rockyend,砂岩葬
 ability_card_rotmaggots,腐爛蛆蟲

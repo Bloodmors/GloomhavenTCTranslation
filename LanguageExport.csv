@@ -758,7 +758,7 @@ ability_card_resolutestand,死戰不退,,,
 ability_card_restock,重置,,,
 ability_card_restorativemist,急救噴霧,,,
 ability_card_revivingether,乙太蘇生,,,
-ability_card_revivingshock,電擊療法,,,
+ability_card_revivingshock,衝擊治療,,,
 ability_card_ridethewind,乘風,,,
 ability_card_righteousstrength,正義力量,,,
 ability_card_risingmomentum,愈戰愈勇,,,
@@ -5829,8 +5829,8 @@ gui_passive_attributes,被動能力,,,
 gui_passive_attributes_description,被動能力允許角色無視特定的負面效果,,,
 gui_perform_long_rest,進行長休息,,,
 gui_perk_check_tooltip,"<size=+2><color=#EACF8C>專精</color></size>
-透過完成戰鬥目標贏得專精點數<sprite name=""PerkPoint_Icon"">。
-每當賺取3點專精點數，你都可以選擇一個專精解鎖。",,,
+透過完成戰鬥目標獲得專精點數<sprite name=""PerkPoint_Icon"">。
+每當賺取3點專精點數，你就可以選擇一個專精學習。",,,
 gui_perk_modifier_add,加入,,,
 gui_perk_modifier_remove,移除,,,
 gui_perk_modifier_replace,將,,,
@@ -5839,7 +5839,7 @@ gui_perks,專精列表,,,
 gui_perks_legend_add,加入：,,,
 gui_perks_legend_quantity,數量：,,,
 gui_perks_legend_remove,移除：,,,
-gui_perks_points,{0} 個可用的專精,,,
+gui_perks_points,可學習 {0} 個專精,,,
 gui_perks_tooltip,歡迎來到專精項目面板。在這裡，你可以使用任何你已獲得的<b>專精</b>去加入，刪除或替換現有的攻擊修正卡。看看你的能力卡和物品，並決定什麼攻擊修正卡最適合你的角色，但要小心：一旦使用，<b>專精</b>不能取消！,,,
 gui_persistent_bonuses,永久福利,,,
 gui_personal_quest_completed,個人任務完成！,,,
@@ -6242,7 +6242,7 @@ intro_linkedquest,"你偶爾會遇到系列任務。
 請記住，在黯淡港灣之外，你無法購買或銷售物品，也無法升級、建立新的傭兵或讓當前的角色退休。",,,
 intro_merchant,請記住，每個傭兵都有自己的金幣儲備和個人背包，所以請確認你在購買物品之前<color=#EACF8C>選擇了正確的傭兵頭像</color>。,,,
 intro_perkcheck,獲得三個<color=#EACF8C>專精點數</color>將解鎖一個<color=#EACF8C>專精</color>。專精是非常好用的東西，因為這可以讓你調整傭兵的攻擊修正牌堆。,,,
-intro_perkspanel_1,"幹得不錯！你已經解鎖了一項專精，這玩意兒可是很難得的！
+intro_perkspanel_1,"幹得不錯！你已經解鎖了一個專精，這玩意兒可是很難得的！
 通關地城和完成所選的戰鬥目標將使傭兵獲得專精點數，收集三點專精點數將<color=#EACF8C>解鎖一個專精 </color>。
 你也可以透過升級傭兵來解鎖一個專精專案。",,,
 intro_perkspanel_2,"專精讓你可以<color=#EACF8C>改變一個傭兵的攻擊修正卡牌庫</color>
