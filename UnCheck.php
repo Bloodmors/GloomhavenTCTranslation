@@ -6301,13 +6301,12 @@ gui_assembly_party_start,你準備好開始了！
 gui_begin,開始
 
 gui_blessings_unavailable,沒有可用的祝福
-gui_buy_enhancement_confirmation_title,購買能力卡強化
+
 gui_buy_party_confirmation,你確定要解鎖這個玩家團隊嗎？
 
 gui_cancel_sending_error_report,取消錯誤報告......請稍候
 gui_cancel_town_records,取消城鎮記錄
-gui_card_cannot_be_enhanced,此技能卡<color=#C53F3FFF>不能被提升</color>
-gui_card_fully_enhanced,這種技能卡已被<color=#5FD6E5>完全提升</color>
+
 gui_card_not_enhanced,此技能卡<color=#FCC951>沒有提升過</color>
 gui_card_section_burnt,已燒祭的
 gui_card_section_burnt_tooltip,燒牌堆的技能卡
@@ -6434,10 +6433,9 @@ gui_enhancement_cards_enhanced,"所有<sprite name=""Card_Icon""> 技能卡都�
 gui_enhancement_cost_card_level,卡牌級別
 gui_enhancement_cost_existing,現有的技能卡提升
 gui_enhancement_cost_original,原價
-gui_enhancement_filter,技能卡提升：<color=white>{0}</color>
 
 gui_enhancements_tooltip,此頁面允許您為所有技能卡添加提升功能。選擇技能卡，然後選擇提升槽，然後將要添加到該槽的提升功能。請注意，不同的提升功能成本為不同的基礎金額，並且該成本由卡上已經上的提升次數和它的技能卡類型進行了修改。當您移除提升時，可以恢復其原始成本。
-gui_enhancements_unavailable,沒有可進行的提升
+
 gui_enter_village,進入村莊
 gui_error_load_checkpoint_button,重置存檔到檢查點
 gui_error_main_menu_button,轉到主選單
