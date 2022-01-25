@@ -731,7 +731,7 @@ ability_card_volatileconsumption,元素環繞
 ability_card_volatileflame,不穩定火焰
 ability_card_wardingdagger,防身匕首
 ability_card_watchitburn,烈火刀法
-ability_card_weaponofpurity,純潔附魔
+ability_card_weaponofpurity,純潔提升
 ability_card_wildanimation,野性狂熱
 ability_card_wildcommand,狂野號令
 ability_card_willingsacrifice,自願獻祭
@@ -3419,7 +3419,7 @@ quest_campaign_008_intro_travel_1,你們按照秘密連絡人的吩咐，趁著�
 quest_campaign_008_list,追捕潔索菈
 
 quest_campaign_008_outro_gh_1,“她已經逃出了我的情報範圍，”城市衛兵隊的阿姬絲聳了聳肩答道。當你們繼續追問時，她說道：“我們也想確保她不會再次製造出更多麻煩，可是她已經逃出了黯淡港灣，因為沒有她去向的相關情報，所以我可不想在那個危機四伏的荒野上瞎找。”
-quest_campaign_008_outro_gh_2,“也許你們的運氣會更好，說不定能在城裡找到艾斯泰爾的附魔師，”阿姬絲給你們建議著，“若你們能夠得到她的幫助，那必定能夠窺測到那個膽小鬼的藏身之處。”
+quest_campaign_008_outro_gh_2,“也許你們的運氣會更好，說不定能在城裡找到艾斯泰爾的提升師，”阿姬絲給你們建議著，“若你們能夠得到她的幫助，那必定能夠窺測到那個膽小鬼的藏身之處。”
 quest_campaign_009_desc,克服“邪惡的陰謀詭計”，獲得“相當可觀的報酬”
 quest_campaign_009_intro,無視阿姬絲的警告，你們出發前往鑽石礦井。“邪惡的陰謀詭計”，這聽起來的確值得你們擔憂，但是“相當可觀的報酬”這句話帶來的欲望一瞬間便壓過了它。
 quest_campaign_009_list,為潔索菈找到鑽石
@@ -3463,9 +3463,9 @@ quest_campaign_013_intro_gh_3,巨橡的教義向來有一項傳統，他們會�
 quest_campaign_013_intro_gh_4,庇護所的教徒為你們指出神廟所在的方向，於是你們出發前往神殿。有了清晰的方向，旅途也將變得輕鬆。
 quest_campaign_013_list,找到潔索菈
 
-quest_campaign_014_desc,尋找艾斯泰爾附魔師
+quest_campaign_014_desc,尋找艾斯泰爾提升師
 quest_campaign_014_intro,地圓畫得非常清楚。你們根據指引來到了銅頸山脈冰蓋的最深處，找到了一個黑暗狹長的洞窟。入口處有大量的狼群腳印，看上去令人感到非常不安，但你們仍舊堅定不移的走了進去。
-quest_campaign_014_intro_gh_1,既然需要一名附魔師，那就去找到他。根據情報所述，有一名艾斯泰爾人在鍋爐街區出沒，據此你們找到了一所被遺棄的名叫“曲骨”的廢棄酒館。
+quest_campaign_014_intro_gh_1,既然需要一名提升師，那就去找到他。根據情報所述，有一名艾斯泰爾人在鍋爐街區出沒，據此你們找到了一所被遺棄的名叫“曲骨”的廢棄酒館。
 quest_campaign_014_intro_gh_2,推開門，你們發現屋內的情景和外部一模一樣：隨處可見的蜘蛛網，歪斜的凳子，還有積滿灰塵的破玻璃杯。當你們踏入大門後，你個半透明的女子突然出現在你們的眼前：“傭兵們，你們為什麼要來這裡？這裡不歡迎你們，而且你們打擾了我的研究。”
 quest_campaign_014_intro_gh_3,"你連忙解釋了自己的來意，可那名女子的眉頭卻皺的更深了。
 “噢！看看這名神奇的艾斯泰爾女子。她可以實現我們所有的願望。她只需要輕輕一揮手，就算是在不切實際的夢想也能成真。”她失意地歎了一口氣，然後真的做了個揮揮手的動作後說道，“別來煩我了。”"
@@ -3482,7 +3482,7 @@ quest_campaign_014_outro_gh_4,“要不然你們很可能會被吸進一個冰�
 quest_campaign_014_outro_gh_5,“我真是猜不透。是誰有如此能力能做到這種程度？”黑爾朝著左邊走了一步後再次消失不見。
 quest_campaign_014_outro_gh_6,由於不想坐在那些破爛的板凳上，你們站著等待了感覺有數個小時之久。期間你們時不時的呼喊幾聲，但沒有得到任何回應。
 quest_campaign_014_outro_gh_7,“噢！你們還在啊。”你們轉過身，發現黑爾正在房間的中央。“很好，要是你們不介意的話，我正想拿你們做個實驗。”她向你們靠了過來，你們被嚇得連退幾步，一不小心摔倒在一張桌子上，將桌子壓得破碎不堪。“喲，別像個小孩子一樣。我能保證這會很安全的。”
-quest_campaign_014_outro_gh_8,黑爾解釋說她想試著將那些從另一個位面帶來的原始能量附魔到這個小法球中，讓攜帶法球的人得到能力增強。然而附魔的過程需要大量的金錢支援。
+quest_campaign_014_outro_gh_8,黑爾解釋說她想試著將那些從另一個位面帶來的原始能量提升到這個小法球中，讓攜帶法球的人得到能力增強。然而提升的過程需要大量的金錢支援。
 quest_campaign_014_outro_gh_9,“現在你們已經為我的研究提供了幫助，我想我也應該做出回報，”黑爾歎了一口氣，“那麼，你們究竟想要什麼？”
 quest_campaign_014_scenario_modifier_1,所有角色以3張額外的 -1 攻擊修正卡牌開始劇本
 quest_campaign_015_desc,探索埋藏古廟中的秘密
@@ -4548,7 +4548,7 @@ quest_relic_sacrificialrobes_intro,從隱居地的基地出發，你們向南進
 quest_relic_sacrificialrobes_list,調查邪教徒們和弓箭手在一起做什麼。
 quest_relic_sacrificialrobes_name,獵者終被獵
 quest_relic_sacrificialrobes_unlock_1,看起來你你們直在有效率地使用遠程進攻，我們已經確定了一個可能會幫上你的遺物的位置。
-quest_relic_sacrificialrobes_unlock_2,我聽聞一群邪教徒們曾經招募過一批強盜弓箭手，並且試圖用附魔的衣服增強他們的遠程進攻。
+quest_relic_sacrificialrobes_unlock_2,我聽聞一群邪教徒們曾經招募過一批強盜弓箭手，並且試圖用提升的衣服增強他們的遠程進攻。
 quest_relic_sacrificialrobes_unlock_3,聽起來很值得去看看，我會標在你們的地圖上。
 quest_relic_secondskin_complete_1,好吧，令人不快...
 quest_relic_secondskin_complete_2,瓦拉斯會很樂意拿回這個原型，並設法複製其初始設計。
@@ -5230,7 +5230,7 @@ scenario_campaign_022_start_1,“你太遲了，蠢貨，”其中一名邪教�
 scenario_campaign_022_success_1,隨著惡魔祭壇的粉碎，惡魔消失，神器周圍的保護屏障終於消散。
 scenario_campaign_022_success_2,你接近神廟的中心，想伸手去拿容器卻停了下來。 你感覺到這東西散發出一股強大的黑暗氣息，而在這神器背後，也感受到了一種深沉而又悲傷的情感。
 scenario_campaign_022_success_3,這件神器已經被腐蝕了，它似乎意識到了這一事實。 所有這些感覺都作為警告在你的腦海中閃現。 它可以用於大惡。 但是你會使用這個邪惡的神器還是阻止它？
-scenario_campaign_022_success_4,經過一番努力，你用一塊厚布包住容器放進你的包裡。 也許最好將它帶給附魔師而不是自己弄壞它。
+scenario_campaign_022_success_4,經過一番努力，你用一塊厚布包住容器放進你的包裡。 也許最好將它帶給提升師而不是自己弄壞它。
 scenario_campaign_023_objective_1,同時佔據所有壓力板
 scenario_campaign_023_room_2_1,你穿過機械室，找到向你左右延伸的走廊。
 scenario_campaign_023_room_2_2,你會聽到來自兩個方向的警報聲。 你要分開隊伍成員來關閉它。
@@ -6416,9 +6416,9 @@ gui_element_infusion_created,{0}元素凝聚完畢！
 gui_element_infusion_creating,凝聚中...
 gui_enable_dlc,Enable DLC
 gui_enable_dlc_confirmation,Once a DLC is enabled on a save it cannot return to its previous settings.
-gui_enchantment_points,技能附魔點數
-gui_enchantment_points_tooltip,"<size=+2><color=#EACF8C>技能附魔點數</color></size>
-每次黯淡港灣財富等級增加時，賺取一定的技能附魔點數<sprite name=""Enchantress_Icon"">。 您可以在想要提升的技能卡上使用附魔點數。一旦技能卡被附魔，您可以對技能進行和卡上槽數一致的能力卡強化。"
+gui_enchantment_points,技能提升點數
+gui_enchantment_points_tooltip,"<size=+2><color=#EACF8C>技能提升點數</color></size>
+每次黯淡港灣財富等級增加時，賺取一定的技能提升點數<sprite name=""Enchantress_Icon"">。 您可以在想要提升的技能卡上使用提升點數。一旦技能卡被提升，您可以對技能進行和卡上槽數一致的能力卡強化。"
 gui_encounter_received,你收到了
 gui_end_extra_turn,結束額外的輪次
 gui_end_pull,結束拉近
@@ -6797,7 +6797,7 @@ gui_quest_reward_consumeitem,在劇本開始時每人消耗1個 {0}
 gui_quest_reward_consumeitem_combined,消耗1個 {0}
 gui_quest_reward_discard,在劇本開始時每人棄置{0}張卡牌
 gui_quest_reward_discard_combined,棄置{0}張卡牌
-gui_quest_reward_enchantmentpoints,每人{0}附魔點數
+gui_quest_reward_enchantmentpoints,每人{0}提升點數
 gui_quest_reward_enhancementslots,獲得{0}提升槽
 gui_quest_reward_globalachievement,獲得全域成就
 gui_quest_reward_goldeach,每人{0}金幣
@@ -6806,7 +6806,7 @@ gui_quest_reward_partyachievement,獲得玩家團隊成就
 
 
 
-gui_quest_reward_unlockenhancer,解鎖技能附魔師
+gui_quest_reward_unlockenhancer,解鎖技能提升師
 gui_quest_select_blocked,當一個完成了個人任務的雇傭兵在團隊中時，你不能開始任務。
 gui_quest_selected_by_host,<color=#FCC954FF>此任務已由主機選擇。</color>
 gui_quest_starting_location_missing,這個任務需要一個起點村莊
@@ -7029,7 +7029,7 @@ instead,代替
 
 intro_cityquest,"你們解鎖了一個<color=#EACF8C>城鎮任務</color>！
 你可以通過點擊城鎮地圖按鈕或點擊日誌中的新任務查看。"
-intro_enchantress,在此介面你可以為你所有技能卡進行附魔。首先選擇技能卡，然後選擇附魔槽，就可以將你希望的附魔效果附加到該附魔槽位上。請注意，不同的附魔會對應不同的附魔基礎成本，而且同一張牌附魔次數越多成本越高。當你移除附魔時，其附魔成本將恢復到最初的狀態。
+intro_enchantress,在此介面你可以為你所有技能卡進行提升。首先選擇技能卡，然後選擇提升槽，就可以將你希望的提升效果附加到該提升槽位上。請注意，不同的提升會對應不同的提升基礎成本，而且同一張牌提升次數越多成本越高。當你移除提升時，其提升成本將恢復到最初的狀態。
 
 intro_linkedquest,"你偶爾會遇到系列任務。
 遊戲鼓勵你一個接一個地完成系列任務。通過直接開始系列任務，你將<color=#EACF8C>避免觸發道路遭遇（它們往往會走向負面的效果）</color>。
@@ -7077,7 +7077,7 @@ loading_tip_014,在出發前選擇好你的玩家團隊——一旦出發後，�
 loading_tip_015,對於那些在公會模式中非常艱難的任務，你可以考慮先在寺廟中祈求祝福。
 loading_tip_016,你有機會在公會模式的職業任務中遇到一個寶箱！在完成劇本目標前務必把寶箱撿起來！
 loading_tip_017,當裝備新物品時請注意——它們將會綁定到那個雇傭兵身上。如果你想換到其他人身上，則必須支付一些費用解綁。
-loading_tip_018,你可以通過完成成就解鎖更多附魔類型，也可以通過探索地圖為每個雇傭兵解鎖更多的附魔槽。
+loading_tip_018,你可以通過完成成就解鎖更多提升類型，也可以通過探索地圖為每個雇傭兵解鎖更多的提升槽。
 loading_tip_019,公會模式的旅行和職業任務等級將會隨著遊戲的進行而改變。故事和遺物任務往往更難！
 loading_tip_021,召喚夥伴很有用，但它們往往比較莽撞 —— 若想讓它們活下來，就得幫它們吸引火力！
 loading_tip_022,如果你不確定你將行動得過早還是過晚，請考慮挑選兩張不管行動早晚都能發揮效用的牌。
@@ -7378,7 +7378,7 @@ message_end_quest_story_wingedhorror_3,城市衛兵還找回了更多的紅爪�
 message_end_quest_story_wingedhorror_4,至於恐懼魔的分泌物，那些固體塊曾用作學校防禦的能量源。它不是構建魔法的關鍵要素，但它還是能用的。
 message_end_quest_story_wingedhorror_5,那種被廣泛應用的能源核心居然是那種......但我猜你看不出這是惡魔嘴巴裡的東西。我會幫你把這些儲藏起來：我們比學校更需要能源核心。
 message_end_quest_travel_amberhill_1,所以城市守衛現在在殺人麼？那絕對不是我們交稅以後想要獲得的那種保護，至少絕對不是我交稅想要的。
-message_end_quest_travel_amberhill_2,幸運的是，琥珀嶺村因他們當地魔法琥珀樹製成的附魔飾品而聞名。
+message_end_quest_travel_amberhill_2,幸運的是，琥珀嶺村因他們當地魔法琥珀樹製成的提升飾品而聞名。
 message_end_quest_travel_amberhill_3,他們給了我一雙很棒的速度之靴，希望在路途上能有所幫助。抽時間去我商店看看吧！
 
 message_end_quest_travel_crystalhollow_1,我一直在暢想我能夠在水晶塔洞裡發現的富饒寶藏——那可是傳說中的洞穴啊！

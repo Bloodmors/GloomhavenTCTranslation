@@ -5929,7 +5929,7 @@ intro_battlegoals,"Before entering a Dungeon, each Mercenary must <color=#EACF8C
 fully completing it and the Scenario will earn the character the rewards shown."
 intro_cityquest,"You've unlocked a <color=#EACF8C>City Quest</color>!
 You can access it by clicking on Gloomhaven, the City Map button or clicking on the new Quest in the Log."
-intro_enchantress,"This screen allows you to add Enhancements to all of your abilities. Select the Ability, then the Enhancement Slot, and then the Enhancement you wish to add to that slot. Be aware that different Enhancements cost a different base amount, and that cost is modified by the number of Enhancements already on the card and the type of ability it is. When you remove an Enhancement, you recover its full original cost."
+
 intro_equipmentpanel,"In the Equipment Panel you'll find the <color=#EACF8C>different types of items</color> a Mercenary can carry. Clicking on an item slot will display all the items of that type the Mercenary owns.
 If the item slot is displayed in grey, it means you currently have no items of that type."
 intro_itemdesign,"You've found a new Item Design!
