@@ -910,10 +910,6 @@ adventure_achievement_plagueherald_2_desc,瘟疫使者使用20次詛咒技能
 adventure_achievement_plagueherald_3,超級傳播者
 adventure_achievement_plagueherald_3_desc,瘟疫使者使用30次範圍攻擊
 
-
-
-
-
 adventure_achievement_sawbones_1,不想死就跟上我！
 adventure_achievement_sawbones_1_desc,鋸骨醫者在沒有盟友精疲力竭的情況下贏得10場劇本
 adventure_achievement_sawbones_2,乾淨的健康帳單
@@ -2713,7 +2709,7 @@ event_road_campaign_66_result_a,"你們終於認出那條巨型生物正是上�
 event_road_campaign_66_result_b,"他們被頭頂這條巨型生物分散了注意力，你們趁機向這群數量眾多的羚牛族發起了攻擊。然而，當這條巨龍向混戰之中的人群噴出火焰的時候，戰事突然就變得非常…灼熱。直到這一刻你們終於認出牠就是那條上古亞龍。牠降落在你們面前，雖然羚牛族四散而逃，但你們也受了嚴重的燒傷。
 牠一臉無辜地對著你們說道，“很抱歉，我只是想過來幫忙而已。”"
 event_road_campaign_67_intro,"在距離黯淡港灣不遠的大路上，你們遇到一個商人，他駕著馬車向城裡駛去。
-“哦，有那麼一瞬間我還以為你們是強盜呢，”那個商人說道，“但是我現在看得出你們是來自城裡的傭兵，對吧？真是太好了！關於黯淡港灣傭兵的傳聞我聽過有不少好事呢。雖然傳聞來自那個荒蠻的地方讓人有點難以置信，不過那些傳聞都是真的，對吧？”"
+“噢！有那麼一瞬間我還以為你們是強盜呢，”那個商人說道，“但是我現在看得出你們是來自城裡的傭兵，對吧？真是太好了！關於黯淡港灣傭兵的傳聞我聽過有不少好事呢。雖然傳聞來自那個荒蠻的地方讓人有點難以置信，不過那些傳聞都是真的，對吧？”"
 event_road_campaign_67_option_a,向商人提議護送他到黯淡港灣來展示你們的美德。
 event_road_campaign_67_option_b,通過搶劫這個商人來展示你們到底有多麼缺德。
 event_road_campaign_67_result_a,"“呃，其實…我，我不想麻煩你們。不過，我是說，好吧，儘管我很想與你們結伴同行，但我不會付你們錢的。說真的要我獨自一人在東方大道上趕路實在是太可怕了。”
@@ -2726,7 +2722,7 @@ event_road_campaign_68_option_a,拿走你想要的東西然後離開。
 event_road_campaign_68_option_b,讓商人冷靜下來，然後告訴他不是所有傭兵都是嗜血的盜賊。
 event_road_campaign_68_result_a,"你們從他的馬車上翻找有價值的東西，在這個過程中，那個商人在旁邊一言不發。雖然他的貨物裡沒有多少值錢的東西，但是他的態度如此合作，這讓你們感到十分愉悅。
 當你們拿完之後，繼續踏上旅程，而那個商人也駕車往城裡走去。"
-event_road_campaign_68_result_b,"“哦，什麼，真的嗎？”商人滿臉狐疑地看著你們，“好吧，真的是太尷尬了，我必須為剛才愚昧的揣測向你們道歉才是。你們可要知道，有時前往這些荒蠻之地，免不了會做出最壞的打算。”
+event_road_campaign_68_result_b,"“噢！什麼，真的嗎？”商人滿臉狐疑地看著你們，“好吧，真的是太尷尬了，我必須為剛才愚昧的揣測向你們道歉才是。你們可要知道，有時前往這些荒蠻之地，免不了會做出最壞的打算。”
 “等到我回去之後， 我一定會告訴別人黯淡港灣裡並非每個都是罪犯。”他一邊壓帽向你們致意，一邊趕著馬車繼續前行。"
 event_road_campaign_69_intro,"沿著小路前行，你們被一群突然出現在左側的惡魔嚇了一跳，同時牠們越過山丘向你們沖了過來。但是事情有些古怪。與你們平常交手的惡魔比起來，牠們的步伐實在是太慢了，而且體型也太過瘦弱了。
 當牠們沖下半山腰時，這些惡魔突然停了下來打量著你們。發現你們並非善者之後，便轉身而逃。"
@@ -3106,7 +3102,7 @@ item_bootsofspeed,在一個回合開始時，當所有技能卡被揭示之後�
 
 item_brilliantblade,在你進行近戰進攻時，<sprite name=ConsumeLight>並對你的其中一個攻擊附加<nobr>+2進攻<sprite name=Attack></nobr>。
 item_chainhood,當你與三個或者更多怪物相鄰時，獲得<nobr>護盾<sprite name=Shield>1。</nobr>
-item_chainmail,在下三次受到以你為目標所造成的傷害時，各獲得<nobr>護盾<sprite name=Shield>1。</nobr>
+
 item_circletofelements,在你的行動輪中，<sprite name=ConsumeAny>並生成一個任意屬性元素。
 
 item_cloakofphasing,獲得飛行。當處於障礙物格子時，你被視為<nobr>隱身<sprite name=Invisible></nobr>並且你無法攻擊。
@@ -3411,7 +3407,7 @@ quest_campaign_007_name,活力洞窟
 quest_campaign_007_outro_gh_1,你們先搖響門鈴，之後又等了好幾分鐘才走進那扇歪斜的大門。屋裡完全看不到黑爾的身影，你們喊了幾聲之後決定在原地等她。這次等待的時間比你們預想的久了不少。
 quest_campaign_007_outro_gh_2,黑爾終於出現在那張破爛吧台的另一側，她一臉驚訝的看著你們。“你們拿的是齧咬根嗎？哈，你說巧不巧，我的存貨在上個星期用完了，我正想去采一些回來呢。”
 quest_campaign_007_outro_gh_3,"你們面面相覷。
-“哦，是我派你們去採集的，是嗎？”黑爾撓了撓頭，“對了，窺蹤占卜，我想起來了。把那些齧咬根給我。”
+“噢！是我派你們去採集的，是嗎？”黑爾撓了撓頭，“對了，窺蹤占卜，我想起來了。把那些齧咬根給我。”
 "
 quest_campaign_007_outro_gh_4,你們把滿滿一袋子的齧咬根交給了她。“你們在說明一下她詳細的特徵？潔索菈？瓦拉斯女性，大概這麼高嗎？涉獵死靈法術的商人是嗎？穿著一身紅袍和戴著大量珠寶首飾對嗎？找起來應該不會太難。”
 quest_campaign_007_outro_gh_5,黑爾帶著齧咬根一同消失了，隨後你們聽到樓上房間傳來了輕微的撞擊聲。
@@ -3472,7 +3468,7 @@ quest_campaign_014_intro,地圓畫得非常清楚。你們根據指引來到了�
 quest_campaign_014_intro_gh_1,既然需要一名附魔師，那就去找到他。根據情報所述，有一名艾斯泰爾人在鍋爐街區出沒，據此你們找到了一所被遺棄的名叫“曲骨”的廢棄酒館。
 quest_campaign_014_intro_gh_2,推開門，你們發現屋內的情景和外部一模一樣：隨處可見的蜘蛛網，歪斜的凳子，還有積滿灰塵的破玻璃杯。當你們踏入大門後，你個半透明的女子突然出現在你們的眼前：“傭兵們，你們為什麼要來這裡？這裡不歡迎你們，而且你們打擾了我的研究。”
 quest_campaign_014_intro_gh_3,"你連忙解釋了自己的來意，可那名女子的眉頭卻皺的更深了。
-“哦，看看這名神奇的艾斯泰爾女子。她可以實現我們所有的願望。她只需要輕輕一揮手，就算是在不切實際的夢想也能成真。”她失意地歎了一口氣，然後真的做了個揮揮手的動作後說道，“別來煩我了。”"
+“噢！看看這名神奇的艾斯泰爾女子。她可以實現我們所有的願望。她只需要輕輕一揮手，就算是在不切實際的夢想也能成真。”她失意地歎了一口氣，然後真的做了個揮揮手的動作後說道，“別來煩我了。”"
 quest_campaign_014_intro_gh_4,"但你們一動不動。她也只是凝視著你們。
 “唔姆，與其繼續這樣打擾我，不如幫我做點事情吧。你們幫了我，那我也許也會幫你們，這就是做人處事之道，對吧？”那名女子轉身走向一條已經毀壞的樓梯，但沒走幾步就消失不見了。"
 quest_campaign_014_intro_gh_5,"“我需要你們去銅頸山脈的冰霜洞窟找到一個水晶球。”那名女子的聲音從你們正前方傳來，如同她根本沒有離開過一樣。“將它帶給我，說不定我也會幫助你們。”
@@ -3485,7 +3481,7 @@ quest_campaign_014_outro_gh_3,“這可真有趣，”她似乎完全沒有注�
 quest_campaign_014_outro_gh_4,“要不然你們很可能會被吸進一個冰霜之地，在那種地方你們還來不及呼吸就會被凍成一座冰雕。又或者會發生更糟糕的事也說不定。”
 quest_campaign_014_outro_gh_5,“我真是猜不透。是誰有如此能力能做到這種程度？”黑爾朝著左邊走了一步後再次消失不見。
 quest_campaign_014_outro_gh_6,由於不想坐在那些破爛的板凳上，你們站著等待了感覺有數個小時之久。期間你們時不時的呼喊幾聲，但沒有得到任何回應。
-quest_campaign_014_outro_gh_7,“哦，你們還在啊。”你們轉過身，發現黑爾正在房間的中央。“很好，要是你們不介意的話，我正想拿你們做個實驗。”她向你們靠了過來，你們被嚇得連退幾步，一不小心摔倒在一張桌子上，將桌子壓得破碎不堪。“喲，別像個小孩子一樣。我能保證這會很安全的。”
+quest_campaign_014_outro_gh_7,“噢！你們還在啊。”你們轉過身，發現黑爾正在房間的中央。“很好，要是你們不介意的話，我正想拿你們做個實驗。”她向你們靠了過來，你們被嚇得連退幾步，一不小心摔倒在一張桌子上，將桌子壓得破碎不堪。“喲，別像個小孩子一樣。我能保證這會很安全的。”
 quest_campaign_014_outro_gh_8,黑爾解釋說她想試著將那些從另一個位面帶來的原始能量附魔到這個小法球中，讓攜帶法球的人得到能力增強。然而附魔的過程需要大量的金錢支援。
 quest_campaign_014_outro_gh_9,“現在你們已經為我的研究提供了幫助，我想我也應該做出回報，”黑爾歎了一口氣，“那麼，你們究竟想要什麼？”
 quest_campaign_014_scenario_modifier_1,所有角色以3張額外的 -1 攻擊修正卡牌開始劇本
@@ -3521,7 +3517,7 @@ quest_campaign_018_list,調查城市的下水道
 quest_campaign_019_desc,封印元力位面
 quest_campaign_019_intro,"經過一天的行程，你們在蛇吻河找到了這個傍水而建，雜草叢生的遠古陵墓。
 “碎石者是個很好的夥伴。被巨大的石塊壓死只是作為元素師必要的風險之一。”在清理完互相交織的藤蔓後，你們走進了地穴。
-“哦，太棒了，”黑爾說道，“如今這些該死的邪教徒真是無處不在。也許他們也在尋找那個元素能爐，又或者他們只是單純的不想讓我們得到。”
+“噢！太棒了，”黑爾說道，“如今這些該死的邪教徒真是無處不在。也許他們也在尋找那個元素能爐，又或者他們只是單純的不想讓我們得到。”
 你們疑惑地看著黑爾，她抬起手，指向一處陰影。你們順著所指方向看去，這才發現有一個身披黑袍的身影從陰影中浮現。"
 quest_campaign_019_intro_gh_1,“你現在想幹什麼？”黑爾一臉茫然的盯著你。“你們找到了一個通往元力位面的裂隙，現在打算將它封上？”她歎了口氣。
 quest_campaign_019_intro_gh_2,“好吧，我確實答應過會幫助你們，”黑爾不停拋動著你們取回的水晶球陷入了沉思，“好吧，據你們的描述所說，想要關閉如此巨大的裂縫需要一些額外的準備工作。”
@@ -3773,7 +3769,7 @@ quest_campaign_042_list,摧毀神秘聲音
 quest_campaign_042_name,奇聲幻域
 quest_campaign_043_desc,協助黑爾給予你水下呼吸的能力
 quest_campaign_043_intro,這地圖並不怎麼樣，但依舊指引你來到了來到了洞穴的入口處。從洞穴深處傳來了清晰的嘶嘶聲。既然黑爾希望你們儘量帶回更多鱗片，那麼是時候大開殺戒了。
-quest_campaign_043_intro_gh_1,“哦，所以你們真覺得我可以幫你們水下呼吸？你們真是可愛啊，”黑爾滿懷憤怒的盯著你們，“你們以為我是誰啊，真的是無所不能的嗎？我甚至連從哪入手都不知道！”
+quest_campaign_043_intro_gh_1,“噢！所以你們真覺得我可以幫你們水下呼吸？你們真是可愛啊，”黑爾滿懷憤怒的盯著你們，“你們以為我是誰啊，真的是無所不能的嗎？我甚至連從哪入手都不知道！”
 quest_campaign_043_intro_gh_2,黑爾轉過身開始彳亍。“沒錯，你們需要亞龍鱗片——它能夠在水中濾出空氣。而且......如果考慮到水元素的獨特性......”
 quest_campaign_043_intro_gh_3,你們現在早已習慣了她這樣的行為，所以耐心地等著她回來。你們等了一個小時左右。
 quest_campaign_043_intro_gh_4,“好吧是的。你們激起了我的興趣。我接受你們的請求。給我帶來一些亞龍鱗片，我再看看能做些什麼。據我所知在匕首叢林的北部邊界有一個亞龍巢穴。我會給你們畫張地圖的。”
@@ -4431,7 +4427,7 @@ quest_job_vermling_cave_intro_03,魔鼠部落的確染了怪病，但需要注�
 quest_job_vermling_cave_list,魔鼠部落染上了一種傳染病
 quest_job_vermling_cave_name,細菌！
 quest_job_vermling_cave_outro,我相信你暴露的時間還不至於讓你感染這病，但你必須馬上離開！
-quest_relic_ancientdrill_complete_1,哇哦，看起來裡面裝著一個衝擊鑽。我是不是該試試做個複製品出來？
+quest_relic_ancientdrill_complete_1,哇噢！看起來裡面裝著一個衝擊鑽。我是不是該試試做個複製品出來？
 quest_relic_ancientdrill_desc,探明機匠礦工的經歷，並復原他的鑽頭。
 quest_relic_ancientdrill_intro,你循著教官給你的地圖往南盾村的東方前進。你花了幾個小時淌過沼澤地和重重河流，終於你在遠處看見一排巍峨的山脈。隨著你逐漸靠近山脈，你在一個大洞窟入口處發現了一處古老的探險營地，這是機匠大師在他的最後一次探險中留下的嗎？你緩步進入洞窟尋求真相。
 quest_relic_ancientdrill_list,找到古董鑽頭
@@ -4626,7 +4622,7 @@ quest_story_beasttyrant_3_intro,出了落石村，獸王似乎比平時更加活
 quest_story_beasttyrant_3_list,發現了第二處腐化的源頭
 quest_story_beasttyrant_3_name,落石村
 quest_story_berserker_1_desc,監督者現在在哪？
-quest_story_berserker_1_intro,自從公會接到監工回到黯淡港灣的消息以來，你們所有人就籠罩著一種沉重的氣氛，教官一直強調他的危險和消滅他的必要性。有傳言說監工現在在磨塘地外的一個強盜營地，所以你現要去那裡，路上會由狂戰士帶領。旅程不長，你們很快就要面對強盜通常喜歡的木柵欄和毛皮帳篷。然而，你很快就會注意到這個搖搖欲墜的基地裡的人並不是強盜，而是守衛。當你們靠近大門時，一個警衛笨拙地走近你，大聲命令道：“哦，迷路了吧。這個舊營地正在被城市守衛調查。狂戰士走到他跟前，看著他的眼睛，猛地刺傷了他。此時其他的衛兵們拔出劍，向你們逼近過來......
+quest_story_berserker_1_intro,自從公會接到監工回到黯淡港灣的消息以來，你們所有人就籠罩著一種沉重的氣氛，教官一直強調他的危險和消滅他的必要性。有傳言說監工現在在磨塘地外的一個強盜營地，所以你現要去那裡，路上會由狂戰士帶領。旅程不長，你們很快就要面對強盜通常喜歡的木柵欄和毛皮帳篷。然而，你很快就會注意到這個搖搖欲墜的基地裡的人並不是強盜，而是守衛。當你們靠近大門時，一個警衛笨拙地走近你，大聲命令道：“噢！迷路了吧。這個舊營地正在被城市守衛調查。狂戰士走到他跟前，看著他的眼睛，猛地刺傷了他。此時其他的衛兵們拔出劍，向你們逼近過來......
 quest_story_berserker_1_list,狂戰士一定是找到了一位老朋友
 quest_story_berserker_1_name,公務
 
@@ -5057,7 +5053,7 @@ quest_travel_thehole_name,冰之神廟
 quest_travel_thepyre_desc,居住在南方人類堡壘的最後一批守衛帶著有亡靈和怪物進攻他們的流言逃來了。是時候調查了。
 quest_travel_thepyre_intro,柴火葬場是過去300年來人類所建造的堡壘，它標誌著人類在南方的進展。幾年前這裡還有人居住，但現在人們都把這座城市與鬼故事聯繫在一起。你在沙暴中到達了柴火葬場。這裡空無一人，但你感覺不到任何不對勁的地方。風越刮越猛，你只好躲入地下，在一座古老的墳墓裡紮營。你在半夜突然被骨頭的劈啪聲驚醒，但還有更令人不安的東西：鎖鏈的哢嗒聲。
 quest_travel_thepyre_list,調查關於柴火葬場中沙漠幽靈的報告
-quest_travel_thepyre_name,憤怒的燈神
+
 quest_travel_theshiftingsands_desc,為你們前往南方的旅途準備補給。
 quest_travel_theshiftingsands_intro,穿過南部沙漠到河邊的路途是很漫長的。你們知道如果缺少休息和補給你肯定活不下去，於是你們在途中的第一個前哨站停了下來，那是一個位於移動沙地的小型考古挖掘點。考古學家們很高興你們能來，他們對你們在埋葬戰壕裡的經歷特別感興趣。在這個涼爽的夜晚，你們聽到了來自沙漠的故事，並瞭解到了一些不可思議的事情：這個前哨最近在一個破碎的罐子裡發現了一些奇怪的牙齒，它很可能來自於建造戰壕的同一個失落文明。這是與附近營地的一些遊民一起發現的，他們聲稱在穿越沙漠的旅途中見過類似的文物。 當作戰的尖叫聲喚醒你們時，你們正躺在帳篷裡過夜，腦袋裡充滿了問題。 在戰鬥造成混亂中，你們分散了。 保護好自己！
 quest_travel_theshiftingsands_list,前往南方
@@ -6082,7 +6078,7 @@ elite,精英
 elitecultist,異教徒精英
 emerald marauders,翡翠掠奪者
 
-enchantressdialogname,女巫
+enchantressdialogname,魔女
 
 extraturn,額外輪次
 faestones,精靈之石
@@ -6782,7 +6778,7 @@ gui_perk_modifier_replace_with,替代成
 
 
 gui_perks_tooltip,歡迎來到<b>專精專案</b>頁面。在這裡，您可以使用任何您已獲得的<b>專精項目</b>去添加，刪除或替換現有的<b>攻擊修正卡</b>。看看你的技能卡和物品，並決定什麼<b>攻擊修正卡</b>最適合您的角色，但要小心:一旦使用，<b>專精項目</b>不能撤銷！
-gui_persistent_bonuses,永久福利
+
 gui_personal_quest_progress_completed,個人任務步驟完成
 gui_player_connecting,連接......
 gui_player_die_banner,{0}已經死了
@@ -7154,7 +7150,7 @@ message_complete_achievement_1_1_mindthiefreachlevel2_1,心靈竊賊從惡魔閘
 message_complete_achievement_1_1_nightshroudreachlevel2_1,現在夜引者已經牢牢地成為了團隊一員，他暗示我說想要研究大陸中的一些更稀有的敵人。
 message_complete_achievement_1_1_nightshroudreachlevel2_2,他想要怎麼研究他們？
 message_complete_achievement_1_1_nightshroudreachlevel2_3,殺掉，然後解剖他們的屍體。
-message_complete_achievement_1_1_nightshroudreachlevel2_4,哦，“那種”研究？
+message_complete_achievement_1_1_nightshroudreachlevel2_4,噢！“那種”研究？
 message_complete_achievement_1_1_nightshroudreachlevel2_5,是的。首先他提議去柴火葬場收集靈魂異變體。
 message_complete_achievement_1_1_plagueheraldreachlevel2_1,瘟疫使者已經在研究如何最好地治癒惡魔閘口鎮中的疾病了，並且認為已經取得了突破性的進展。
 message_complete_achievement_1_1_plagueheraldreachlevel2_2,"你確定你指的是那些喜歡傳染東西的，被美化了的蟲群麼？
@@ -7184,12 +7180,6 @@ message_complete_achievement_1_1_sunkeeperreachlevel2_1,執日士告訴我，她
 message_complete_achievement_1_1_sunkeeperreachlevel2_2,我在最近被襲擊的旅者棲地附近發現了一個魔鼠的營地，他們可能需要我們的説明。
 message_complete_achievement_1_1_sunkeeperreachlevel2_3,但他們要怎麼付錢呢？...我搞不懂！
 
-message_complete_achievement_1_1_unlocklocations_1,你們往西南的開始做的非常好，我們又收到了更多的小鎮向我們求助，一直到海岸都有！
-message_complete_achievement_1_1_unlocklocations_2,呃，老大，一個艾斯泰爾女人想見你。她說她可能能幫我們...
-message_complete_achievement_1_1_unlocklocations_3,你在幹嘛......重建秩序，驅逐黑暗，保護弱者，我覺得值得。
-message_complete_achievement_1_1_unlocklocations_4,我會讓你變得更強。來我的帳篷，我們一起提高你的戰士實力。你解鎖的城鎮越多，你就會變得越強。
-message_complete_achievement_1_1_unlocklocations_5,很好，她直取重點！
-message_complete_achievement_1_1_unlocklocations_6,一個女巫！小心，她的服務都不便宜。現在我們已經解鎖了更多的世界，為更危險的東西做好準備。但也別擔心，獎勵也會更加豐富。我也給你解鎖了更多可以完成的成就。
 message_complete_achievement_1_2_reachdemonspinehollow_1,在更詳細地查看了低鎮周圍之後，我們發現了一些堆在森林裡的奇怪晶體。
 message_complete_achievement_1_2_reachdemonspinehollow_2,他們散發著強烈的土魔力光環，看起來它們就是導致魔鼠舉止奇怪，以及這裡魔力增強的原因。
 message_complete_achievement_1_2_reachdemonspinehollow_3,我們收到了很多有關南方灘橋地小鎮周圍的魔力偏差的相似的報告。
@@ -7247,7 +7237,7 @@ message_end_quest_story_darkrider_3,你表現得....一反常態的好。你感�
 message_end_quest_story_darkrider_4,我在騎士的空鎧甲旁邊發現的這頂頭盔。我不知道這頂頭盔是哪來的，它明明沒有頭，不過我會用半價把這頂頭盔賣給你。
 message_end_quest_story_darkrider_5,有趣。看起來我們介面內大部分的惡魔都來源於“黑暗騎士”。既然我們給他幹掉了，他的邪惡將再無容身之處。
 message_end_quest_story_darkrider_6,唔姆。也許我將不得不看看那個園藝所——這聽起來可以光明正大地掙錢...
-message_end_quest_story_darkrider_7,哦，對。與此同時，我會回去爭取一些簡單的擊殺合約，比如說幹掉有三個胳膊的亡靈骷髏兵。必須有人為下次來自其他位面的怒火做好準備...
+message_end_quest_story_darkrider_7,噢！對。與此同時，我會回去爭取一些簡單的擊殺合約，比如說幹掉有三個胳膊的亡靈骷髏兵。必須有人為下次來自其他位面的怒火做好準備...
 message_end_quest_story_doomstalker_1_1,血跡通向了一個正在返回惡魔閘口鎮的商人所用的大篷車。那個大篷車經常為欺誠市集的一個屠宰店供應生肉。
 message_end_quest_story_doomstalker_1_2,顯而易見這對於為商店運輸生肉來說是一個非常遠的路，對吧？
 message_end_quest_story_doomstalker_1_3,我不認為他們偷花晶族的牲畜只是為了出售腐壞的肉，即使是在欺誠市集這樣的地方。
@@ -7414,7 +7404,7 @@ message_end_quest_travel_kailej_2,我向鐵匠詢問什麼武器是她認為我�
 message_end_quest_travel_kailej_3,一直到那天晚些時候有人搭訕我之前，我都不認為它能幹些什麼，結果那次我跑的比平時都快，如果你不想要的話，我估計會自己穿。
 message_end_quest_travel_keyport_1,所以，好像這是我們欠奇波特港城的。
 message_end_quest_travel_keyport_2,"在你離開後，我去了市政廳，看看他們打算如何補償我們，你能相信他們不打算給我們錢嗎？他們只是咕噥著說什麼 ""永遠感恩""。"
-message_end_quest_travel_keyport_3,哦，我手指向了牆上一個非常精美的斧頭。明顯它見證了這座城市的歷史，但看在我們拯救了城市的份上，它在我的店裡了。有機會就來看看吧！
+message_end_quest_travel_keyport_3,噢！我手指向了牆上一個非常精美的斧頭。明顯它見證了這座城市的歷史，但看在我們拯救了城市的份上，它在我的店裡了。有機會就來看看吧！
 message_end_quest_travel_lowtown_1,我覺得低鎮恐怕不是那麼前衛的地方，我找不到什麼能加到商店裡面的東西。
 message_end_quest_travel_lowtown_2,我不知道你什麼意思，這些鉤鎖在戰鬥中會很有用。近戰範圍內的敵人可以拖拽過來，然後來一下狠的！
 message_end_quest_travel_lowtown_3,他們只是把一些裝有土豆的箱子堆在一起。
@@ -7485,8 +7475,7 @@ message_end_quest_travel_thehole_1,神廟揭示了兩個附近的元素富集點
 message_end_quest_travel_thehole_2,你很有可能可以在這些地點發現薩維斯，以及他們從哪裡收集的水晶。
 message_end_quest_travel_thehole_3,我們應該前往這些地點並且讓惡魔祭壇失效。我在地圖上已經標記好了那些地點。
 message_end_quest_travel_thehole_4,其中一個考古學家對於天氣的改變非常高興，於是她把去年挖掘出來的古代盾牌送給了我。看起來盾牌保養的很好！
-message_end_quest_travel_thepyre_1,看起來是不死生物安息之所被褻瀆導致了他們的出沒，現在他們已經重新安息了。軍隊留下了一些隨心人員重新守衛這個墓穴。
-message_end_quest_travel_thepyre_2,有個好消息是我知道哪個軍需官可以幫助我們得到鎖子甲的補給，不要告訴他的頭兒就行！
+
 message_end_quest_travel_theshiftingsands_1,我無法抵擋充滿古老而稀有文物的採掘場的誘惑。那裡的東西比他們所告訴你的要多得多，你懂的。
 message_end_quest_travel_theshiftingsands_2,我見到了一個非常帥氣的斗篷，但我剛把斗篷披上我就飄起來了，搞了我兩個小時才回到地面。現在我甚至連馬都不敢上了。
 message_end_quest_travel_theshiftingsands_3,我穿上這個斗篷，你就連我是死是活都發現不了。但我肯定這還是有點用的。現在它在我的商店裡上架了，就是穿的時候小心些。
@@ -8492,7 +8481,7 @@ scenario_travel_hammerholm_start_2,這幫強盜擁有強大的魔法，我看到
 scenario_travel_hammerholm_start_3,如果可以的話，儘量無視那些不死族，你必須先殺光這些強盜來阻止儀式！
 scenario_travel_hammerholm_success_1,隨著這些魔法使用者的死亡，傳送門關上了，召喚出來的亡靈都化成了塵埃。
 scenario_travel_hammerholm_success_2,他們的力量消失了，對這座城市的控制也被打破了！
-scenario_travel_houndhill_room_2_1,哇哦，真不敢相信這麼醜的傢伙居然也有朋友。
+scenario_travel_houndhill_room_2_1,哇噢！真不敢相信這麼醜的傢伙居然也有朋友。
 scenario_travel_houndhill_room_2_2,他們一個也不能跑，你必須把他們都幹掉！
 scenario_travel_houndhill_start_1,那個巢靈族好像在指揮那些士兵…
 scenario_travel_houndhill_start_2,哇哦。想像一下被一群蟲子呼來喝去！
@@ -8627,7 +8616,7 @@ scenario_travel_scurvybay_room_2_1,巢靈族和這裡的薩維斯混在了一起
 scenario_travel_scurvybay_start_1,這整件事有點…美妙的錯誤。就像是在搞稅務欺詐一樣。
 scenario_travel_scurvybay_start_2,是的，這太諷刺了。你今天竟然要和強盜們並肩作戰！
 scenario_travel_scurvybay_start_3,等等…你怎麼知道稅務欺詐是什麼樣子的？
-scenario_travel_scurvybay_start_4,哦，呃，當然是猜的。
+scenario_travel_scurvybay_start_4,噢！呃，當然是猜的。
 scenario_travel_scurvybay_success_1,當最後一名民兵倒下時，強盜們都盯著你。他們看起來暫時接受了你，當然，只是暫時。
 scenario_travel_scurvybay_success_2,好吧，他們同意加入我們的復仇行動。幹得不錯，我們有自己的軍隊了。
 scenario_travel_scurvybay_success_3,我們只要給他們整點能揮的鋒利的東西，就能阻止議會的所作所為。
@@ -8711,7 +8700,7 @@ scenario_travel_theenclave_hound_objective,如果所有的精英獵犬死亡，�
 scenario_travel_theenclave_sm1_desc,所有動物永久被增強
 scenario_travel_theenclave_start_1,在第一個洞穴裡，你找到了被鎖在籠子裡面的市長的獵犬，並迅速釋放了他們，你使用了市長教你的辦法，以確保獵犬們不攻擊你。
 scenario_travel_theenclave_start_2,就在這時，強盜們從另一個山洞裡進來了。
-scenario_travel_theenclave_start_3,“你是誰？哦，混蛋，他們把獵犬放出來了，快把他們捉住！”
+scenario_travel_theenclave_start_3,“你是誰？噢！混蛋，他們把獵犬放出來了，快把他們捉住！”
 scenario_travel_theenclave_start_4,強盜和其他動物闖進了洞穴。看來你得拼個你死我活了。
 scenario_travel_theenclave_start_5,這裡所有的動物都表現得很奇怪。我想他們被注射了什麼東西。你最好保護好那些獵犬——如果它們沒活下來，市長會不高興的！
 scenario_travel_theenclave_success_1,似乎強盜們在試著對那些動物們施展某些奇怪的元素魔法，這也是動物們都獲得了強化的原因。
@@ -8725,10 +8714,8 @@ scenario_travel_thehole_start_2,更多的惡魔。並且這扇門看上去…像
 scenario_travel_thehole_start_3,我認為這是一個薩維斯的遠古安保系統。你們需要站到這個房間的所有壓力板上來打開下一扇門。
 scenario_travel_thehole_start_4,好吧。讓我們把所以房間清理乾淨，看看這些薩維斯到底在這找什麼。
 scenario_travel_thehole_success,神殿再次回歸寂靜，你們花了一些時間四處調查線索。
-scenario_travel_thepyre_start_1,哦，天啊。你喚醒了一些怨靈，也就是那些突然暴斃或者帶著不幸死去的靈魂。
-scenario_travel_thepyre_start_2,不過真的有死亡是幸福的嗎？
-scenario_travel_thepyre_start_3,….怨靈對傷害具有抗性，你們發現附加穿刺的攻擊會更加有效。由於他們是飛行單位，因此陷阱也是無效的。
-scenario_travel_thepyre_success,隨著太陽升起，那些亡靈重新回到地底，而你們也離開了陰森恐怖的墳墓。你們將石頭堆在入口，這樣就沒人能再次喚醒這些不安分的死者了。
+
+
 scenario_travel_theshiftingsands_room_3_1,這些潛伏者在離海洋這麼遠的地方做什麼？難道真沒有安全的地方了麼？！
 scenario_travel_theshiftingsands_room_3_2,潛伏者是個聰明而又危險的種族…它們為了這些牙齒不計一切代價一定是有原因的。
 scenario_travel_theshiftingsands_start_1,這裡明明沒有出現腐化。究竟是什麼將這些墮落小妖吸引至此呢？
@@ -8882,28 +8869,18 @@ sweetwater,甜水地
 swiftscars,速行車
 swordlodge,藏劍房
 taloncamp,禽爪營地
-target,目標數
-
-
 
 
 target_allallieswithin,目標為所有在以下範圍內盟友：
-target_allallieswithinrange,目標為所有射程內的盟友
-
 target_allenemiesadjacenttoanyonesummonedally,目標為所有相鄰於任何一個召喚物夥伴的敵軍
 target_allenemiesadjacenttoenemieswith,目標為所有敵軍所有相鄰於以下的敵軍：
 target_allenemiesatexactly,目標為所有在一下給定範圍的敵軍：
 target_allenemiesatexactlyrange,目標為所有在給定射程距離敵軍
-target_allenemiesmovedthrough,目標為所有移動經過的敵軍
 target_allenemieswithin,目標為所有在以下範圍內敵軍：
-target_allenemieswithinrange,目標為所有射程內敵軍
 target_cannolongerfly,目標不再能飛行。
-
-
 target_oneenemywithallattacks,目標為一個with all attacks的敵軍
 target_selfandalladjacentallies,Target self and all adjacent allies
 
-target_twohexinstead,目標為所有最多兩個格子遠instead的敵軍
 tatteredwolf,殺破狼
 
 terrainhotcoals,熱碳

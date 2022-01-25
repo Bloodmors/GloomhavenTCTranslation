@@ -6452,12 +6452,8 @@ message_complete_achievement_1_1_sunkeeperreachlevel2_1,The Sunkeeper has advise
 message_complete_achievement_1_1_sunkeeperreachlevel2_2,I’ve identified a Vermling Camp near Wayfarer’s Rest that has recently been attacked which may need our help.
 message_complete_achievement_1_1_sunkeeperreachlevel2_3,But how will they pay us?.. I don’t understand!
 
-message_complete_achievement_1_1_unlocklocations_1,"You've made a good start on heading South West, and we've got a few more towns contacting us for help, all the way to the coast!"
-message_complete_achievement_1_1_unlocklocations_2,"Err, boss, there is an Aesther woman here who wants to see you. She says she might be able to help us..."
-message_complete_achievement_1_1_unlocklocations_3,"What you are doing... reconnecting people, driving back the darkness, and preserving the weak, I deem it worthy."
-message_complete_achievement_1_1_unlocklocations_4,"I shall grant you access to my Enhancements. Come visit my tent, and together we shall improve your warriors' prowess. The more towns you unlock, the more powerful you can become."
-message_complete_achievement_1_1_unlocklocations_5,"Well, she was straight to the point!"
-message_complete_achievement_1_1_unlocklocations_6,"An Enchantress! Be aware, her services don't come cheap. Now we have unlocked more of the world, prepare for the danger to increase. But don't worry, the rewards will follow suit. I've also unlocked some more Achievements to aim for."
+
+
 message_complete_achievement_1_2_reachdemonspinehollow_1,"After looking in more detail into the area around LowTown, we have found some strange crystals piled up in the forest."
 message_complete_achievement_1_2_reachdemonspinehollow_2,"They emit an incredibly strong aura of Earth Magic, and look to have been the cause of the weird behaviour of the Vermlings, as well as the enhanced magical power in the area."
 message_complete_achievement_1_2_reachdemonspinehollow_3,We are getting reports of similar magical deviations around the town of Fordingbridge to the South.
@@ -6818,8 +6814,7 @@ message_end_quest_travel_thehole_1,"The Temple indicates two elemental focal sit
 message_end_quest_travel_thehole_2,"It is likely you will find the Savvas at these locations, as well as where they are collecting their crystals from."
 message_end_quest_travel_thehole_3,We should head to these locations and disable the altars. I’ve marked the locations on your map.
 message_end_quest_travel_thehole_4,One of the archaeologists was so happy for the weather to have changed that she sent me an ancient shield she excavated last year. It looks to be in pretty good condition!
-message_end_quest_travel_thepyre_1,"It seems that defiling the undead’s resting place was the cause of the haunting, and now they have been re-laid to rest. Military forces have left a small retinue guarding the keep again."
-message_end_quest_travel_thepyre_2,The good news for us is that I know a Quartermaster who can get us a supply of Chainmail... just don’t tell his commander!
+
 message_end_quest_travel_theshiftingsands_1,"I couldn’t resist the allure of a digsite full of rare and ancient artifacts. There was a lot more there than they told you, you know."
 message_end_quest_travel_theshiftingsands_2,"I came across a very striking cloak, but I floated into the air as I put it on. It took me two hours to get down… and now I’m even scared of getting up on a horse!"
 message_end_quest_travel_theshiftingsands_3,"You’ll never catch me dead in that cloak again, but I’m sure it has its uses. It’s in my store — just be careful putting it on."
@@ -9497,10 +9492,8 @@ quest_travel_themarches_intro,"As you head North from Demonsgate, the path gradu
 Entering one of these thickets, you hear the howls of wolves on the wind, and strange high pitched grunts urging them on. It seems they have picked up your scent. You prepare for battle."
 quest_travel_themarches_list,Unlock the Marches Trade Route
 quest_travel_themarches_name,The March North
-quest_travel_thepyre_desc,The last guards inhabiting one of the southern human fortresses fled with tales of undead and Djinns attacking them. It's time to investigate.
-quest_travel_thepyre_intro,"The Pyre is a human-built fortress of the past 300 years that marked the extent of the Human progress south in the lands. Inhabited until a few years ago, it is now associated with ghost stories and old wives' tales. You reach the tower in a sandstorm. It is deserted, but you cannot sense anything untoward. As the wind strengthens, you are forced underground for shelter, and make camp in an old tomb. You are suddenly woken in the middle of the night by the sounds of clacking bones and something altogether more unsettling: rattling chains."
-quest_travel_thepyre_list,Investigate reports of desert ghosts in The Pyre
-quest_travel_thepyre_name,The Angry Djinns
+
+
 quest_travel_theshiftingsands_desc,Collect supplies for your journey southwards.
 quest_travel_theshiftingsands_intro,"The trek through the southern desert to the river is a long one. Knowing you won’t survive it without rest or supplies, you stop at the first outpost on the way, a small archaeological dig site in The Shifting Sands. The archaeologists are overjoyed to have you, and are especially interested in your experience inside the Buried Trenches. You spend the cool evening trading tales from the desert, and learn something incredible: this outpost recently unearthed some strange teeth inside a broken pot, and believe it comes from the same lost civilisation that built the Buried Trenches. The discovery was made alongside some nomads from a camp nearby, who have claimed they saw similar artifacts on the journey through the desert. You lay down in your tents for the night, your head full of possibilities and questions, when the screams of battle wake you. In the chaos, you are separated. Defend yourselves!"
 quest_travel_theshiftingsands_list,Travel South
@@ -11666,9 +11659,7 @@ scenario_travel_thehole_start_2,More Demons. Also the door looks... locked?
 scenario_travel_thehole_start_3,I believe it’s an ancient Savvas security system. You’ll need to stand on all pressure pads in a room to open the next door.
 scenario_travel_thehole_start_4,Okay. Let’s clear out all the rooms and see what the Savvas wanted here.
 scenario_travel_thehole_success,"The Temple is quiet once more, and you take your time looking around for clues."
-scenario_travel_thepyre_start_1,"Oh dear, you have awoken some Living Spirits, the souls of those who died suddenly and unhappily."
-scenario_travel_thepyre_start_2,Isn’t all death unhappy?
-scenario_travel_thepyre_start_3,"… Spirits have a resistance to damage, so you'll find attacks with Pierce more effective. They also fly, so the Traps won't help!"
+
 scenario_travel_thepyre_success,"As the sun rises, the undead fall to the ground and you leave the tomb and its terrors. You then pile up stones over the entrance, so that no one else awakens the restless dead."
 scenario_travel_theshiftingsands_room_3_1,What are Lurkers doing so far from the sea? Is nowhere safe!?
 scenario_travel_theshiftingsands_room_3_2,Lurkers are a dangerous and intelligent race… there must be a reason they are going to such lengths for these teeth.
