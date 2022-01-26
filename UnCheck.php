@@ -2,7 +2,6 @@
 ================================================================================================================================================
 #region ability
 ================================================================================================================================================
-
 004_b,本回合中，任何指定一個相鄰盟友的攻擊的目標改為你，無視攻擊範圍。
 007_b,在接下來的6次指定你為目標的攻擊中，獲得<nobr>護盾<sprite name=Shield> *BShield*。</nobr>
 013_b,<nobr>本回合，</nobr>你的所有攻擊附加<nobr>+1攻擊力<sprite name=Attack>。</nobr>
@@ -11,10 +10,6 @@
 023_b,你可以將所有的<nobr>前進<sprite name=Move></nobr>能力轉化為等值的<nobr>進攻<sprite name=Attack></nobr>行動。
 026_b,本回合中，你對處於<nobr>繳械<sprite name=Disarm></nobr>，<nobr>禁足<sprite name=Immobilize></nobr>，<nobr>擊暈<sprite name=Stun></nobr>狀態敵人的攻擊附加<nobr>+3攻擊力<sprite name=Attack>。</nobr>
 
-043_b_1,一名在你<nobr>射程<sprite name=Range>2</nobr>以內的盟友可以<nobr>回收<sprite name=Recover></nobr>一張其棄牌堆的卡牌。
-043_b_2,則最多兩張棄牌。
-
-045_b,<nobr>射程範圍<sprite name=Range>3</nobr>內的一名盟友可以<nobr>回收<sprite name=Recover></nobr>一張他的燒牌堆的卡牌。
 
 051_t,一名相鄰盟友可以<nobr>重置<sprite name=Refresh></nobr>他的一個已耗盡的小道具<sprite name=InvSmallItem>。
 052_t_1,消滅目的地區域內當前生命值<nobr>小於或等於5</nobr>的所有敵人。
@@ -1059,7 +1054,7 @@ command,角色特效口令
 ============================================================================
 enhancement_air,氣元素
 enhancement_anyelement,任意屬性元素
-enhancement_area,施法範圍
+
 enhancement_dark,暗元素
 enhancement_disarm,繳械
 enhancement_fire,火元素
@@ -1067,24 +1062,26 @@ enhancement_ice,冰元素
 enhancement_immobilize,禁足
 enhancement_light,光元素
 enhancement_muddle,混亂
-enhancement_plusattack,提升攻擊
-enhancement_plusheal,提升治療
-enhancement_plusmove,提升移動
-enhancement_pluspierce,提升穿透
-enhancement_pluspull,提升拉近
-enhancement_pluspush,提升強推
-enhancement_plusrange,提升射程
-enhancement_plusretaliate,提升反傷
-enhancement_plusretaliaterange,提升反傷射程
-enhancement_plusshield,提升護盾
-enhancement_plustarget,提升目標數
 enhancement_poison,中毒
 enhancement_strengthen,強化
-enhancement_summonattack,召喚物攻擊力
-enhancement_summonhp,召喚生命值
-enhancement_summonmove,召喚物移動力
-enhancement_summonrange,召喚物射程
 enhancement_wound,創傷
+
+glossary_enhancement_air,能力卡強化 - 氣元素
+glossary_enhancement_anyelement,能力卡強化 - 任意屬性元素
+glossary_enhancement_bless,能力卡強化 - 祝福
+glossary_enhancement_curse,能力卡強化 - 詛咒
+glossary_enhancement_dark,能力卡強化 - 暗元素
+glossary_enhancement_disarm,能力卡強化 - 繳械
+glossary_enhancement_earth,能力卡強化 - 土元素
+glossary_enhancement_fire,能力卡強化 - 火元素
+glossary_enhancement_ice,能力卡強化 - 冰元素
+glossary_enhancement_immobilize,能力卡強化 - 禁足
+glossary_enhancement_jump,能力卡強化 - 跳躍
+glossary_enhancement_light,能力卡強化 - 光元素
+glossary_enhancement_muddle,能力卡強化 - 混亂
+glossary_enhancement_poison,能力卡強化 - 中毒
+glossary_enhancement_strengthen,能力卡強化 - 強化
+glossary_enhancement_wound,能力卡強化 - 流血
 ============================================================================
 #endregion enhancement
 ============================================================================
@@ -1157,7 +1154,7 @@ error_choreo_00063,無法處理增加回血量
 error_choreo_00064,無法處理附加增益效果
 error_choreo_00065,無法處理增加射程
 error_choreo_00066,無法處理攻擊者陷入劣勢進攻
-error_choreo_00067,無法處理反傷
+error_choreo_00067,無法處理復仇
 error_choreo_00068,無法處理隱身狀態
 error_choreo_00069,無法處理強化狀態
 error_choreo_00070,無法處理優勢狀態
@@ -6143,39 +6140,7 @@ glossary_disarm,繳械：繳械狀態的單位不能不能釋放任何攻擊技�
 glossary_dothex,這個點顯示了這個效果範圍以後可以被提升，從而在這個點處增加一個效果範圍格子。
 glossary_earth,元素凝聚 - 土：用土元素充滿戰場，可用於在元素凝聚該輪之後的輪次（即單位不能一輪次中連續完成先凝聚後消耗的操作），可以被後面的當前回合或整個下一回合行動的單位被一次性消耗掉，所有同類敵方單位看做一個共同體消耗元素（含精英、非精英、及有人名的）。
 glossary_elite,一個精英怪擁有比非精英怪更高的數值資料，並且精英怪在非精英怪之前行動（因為精英怪和非精英怪時序值相同）。
-glossary_enhancement_air,能力卡強化 - 氣元素
-glossary_enhancement_anyelement,能力卡強化 - 任意屬性元素
-glossary_enhancement_area,能力卡強化 - 施法範圍
-glossary_enhancement_bless,能力卡強化 - 祝福
-glossary_enhancement_curse,能力卡強化 - 詛咒
-glossary_enhancement_dark,能力卡強化 - 暗元素
-glossary_enhancement_disarm,能力卡強化 - 繳械
-glossary_enhancement_earth,能力卡強化 - 土元素
-glossary_enhancement_fire,能力卡強化 - 火元素
-glossary_enhancement_ice,能力卡強化 - 冰元素
-glossary_enhancement_immobilize,能力卡強化 - 禁足
-glossary_enhancement_jump,能力卡強化 - 跳躍
-glossary_enhancement_light,能力卡強化 - 光元素
-glossary_enhancement_muddle,能力卡強化 - 混亂
-glossary_enhancement_noenhancement,能力卡強化 - 無
-glossary_enhancement_plusattack,能力卡強化 - 攻擊+1
-glossary_enhancement_plusheal,能力卡強化 - 治療+1
-glossary_enhancement_plusmove,能力卡強化 - 移動+1
-glossary_enhancement_pluspierce,能力卡強化 - 穿透+1
-glossary_enhancement_pluspull,能力卡強化 - 拉近+1
-glossary_enhancement_pluspush,能力卡強化 - 強推+1
-glossary_enhancement_plusrange,能力卡強化 - 射程+1
-glossary_enhancement_plusretaliate,能力卡強化 - 反傷值+1
-glossary_enhancement_plusretaliaterange,能力卡強化 - 反傷距離+1
-glossary_enhancement_plusshield,能力卡強化 - 護甲+1
-glossary_enhancement_plustarget,能力卡強化 - 施法目標+1
-glossary_enhancement_poison,能力卡強化 - 中毒
-glossary_enhancement_strengthen,能力卡強化 - 強化
-glossary_enhancement_summonattack,能力卡強化 - 召喚物攻擊力
-glossary_enhancement_summonhp,能力卡強化 - 召喚生命值
-glossary_enhancement_summonmove,能力卡強化 - 召喚移動力
-glossary_enhancement_summonrange,能力卡強化 - 召喚射程
-glossary_enhancement_wound,能力卡強化 - 流血
+
 glossary_enhancementdot,技能可提升標識點：表示這個技能或效果範圍能進行能力卡強化。
 glossary_exhausted,當一個傭兵處於以下兩種情況之一精力耗盡：少於1點生命值；或者當一個回合開始的時候，他們只有不到兩張手牌，並且沒有足夠的卡牌去進行燒祭，用以通過休息去回手棄置堆的卡牌。如果所有傭兵精力耗盡，那麼劇本失敗！
 glossary_fear,強迫所有雇傭兵和他們的召喚物按照時序值次序進行<nobr>“移動<sprite name=Move> 4”</nobr>，路線的終點要盡可能地遠離暗靈叛徒。
@@ -6307,12 +6272,9 @@ gui_buy_party_confirmation,你確定要解鎖這個玩家團隊嗎？
 gui_cancel_sending_error_report,取消錯誤報告......請稍候
 gui_cancel_town_records,取消城鎮記錄
 
-gui_card_not_enhanced,此技能卡<color=#FCC951>沒有提升過</color>
-gui_card_section_burnt,已燒祭的
-gui_card_section_burnt_tooltip,燒牌堆的技能卡
 gui_card_section_burnt_tooltip_descr,使用右下角的焚燒圖示的技能卡在使用後被燒祭，並且可能無法通過休息恢復。它們通常僅可用一次，但可以用一些特定的恢復技能卡恢復。
-gui_card_section_discarded,已棄置的
-gui_card_section_discarded_tooltip,棄牌堆的技能卡
+
+
 gui_card_section_discarded_tooltip_descr,在使用後，沒有焚燒圖示的技能卡被棄置，並且將在該角色的卡列表中呈現出灰色。通過執行休息，可以在場景中再次回手棄置的卡。
 gui_change_party,改變玩家團隊
 gui_character_retired,{0}退休了！
@@ -6731,24 +6693,6 @@ gui_objective_deal_x_damage_lose,如果造成{0}點傷害，則失敗
 gui_objective_deal_x_damage_lose_filtered,如果{1}遭受{0}點傷害，則失敗
 gui_objective_deal_x_damage_win,造成{0}點傷害勝利
 gui_objective_deal_x_damage_win_filtered,對{1}造成{0}點傷害勝利
-gui_objective_filter_actor_enemy,敵軍
-gui_objective_filter_actor_player,雇傭兵
-gui_objective_filter_actor_summon,盟友
-gui_objective_kill_bosses_lose,如果所有的boss死亡，則失敗
-gui_objective_kill_bosses_win,殺死所有的boss
-gui_objective_kill_enemy_lose,如果所有敵軍死亡，則失敗
-
-gui_objective_kill_x_lose,如果{0}名敵軍死亡，則失敗
-gui_objective_kill_x_lose_filtered,如果{0}個 {1}死亡，則失敗
-gui_objective_kill_x_win,殺死{0}名敵軍獲勝
-
-gui_objective_loot_x_lose,如果你撿到{0}，則失敗
-gui_objective_loot_x_lose_filtered,如果你撿到{0}個 {1}，則失敗
-gui_objective_loot_x_win,撿到{0}勝利
-gui_objective_loot_x_win_filtered,撿到{0} 個{1}勝利
-gui_objective_reach_position_lose,如果{0}敵人到達地牢出口，則失敗
-gui_objective_reach_position_win,帶著{0}名雇傭兵到達地牢出口
-gui_objective_reach_round_lose,遊戲進行到第{0}回合，則失敗
 
 gui_on_death_adjacent,On death: 進攻<sprite name=Attack> {0}。針對所有鄰近的敵人。
 gui_opt_control_controller,映射控制器
@@ -6764,7 +6708,6 @@ gui_party,玩家團隊
 gui_party_price,成本：{0}Renown
 gui_party_size,{0}位角色
 gui_pass,Pass
-
 
 gui_perk_check_tooltip,"<size=+2><color=#EACF8C> 專精項目 </color> /size>
 通過完成戰鬥目標贏得專精點數<sprite name=""""PerkPoint_Icon"""">。
@@ -6785,9 +6728,6 @@ gui_player_online,線上的
 gui_playstest_levels,試玩等級
 gui_positive_conditions,正面狀態
 gui_prop_can_be_looted_by,{0}
-
-gui_quest_group_job,角色職業
-gui_quest_group_relic,遺物
 
 gui_quest_locked,這個任務被鎖定了
 gui_quest_reward_addmodifiers,獲得{0}張攻擊修正卡
@@ -7639,7 +7579,7 @@ redthorn,瑞德索爾
 relic_4_description,當你到了地圖上的位置附近時，你聽到從叢林深處的吟唱聲，表明方向似乎應該是正確的。
 relic_4_name,庇護所的地穴
 removeconditions,移除角色狀態
-retaliate,反傷
+
 riversrise,河漲地
 road_event_a_dagger_in_the_chest,盒中的短劍
 road_event_a_discarded_flask,一個被遺棄的燒瓶
