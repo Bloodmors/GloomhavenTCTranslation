@@ -43,17 +43,16 @@
 087_t_1,目標為和你在相同房間的敵人
 087_t_2,所有和你在相同房間的盟友損失2點生命值。
 088_b,你接下來4次指定不與任何盟友相鄰的敵軍的攻擊附加<nobr>+2攻擊力<sprite name=Attack>。</nobr>
-088_t,+2進攻<sprite name=Attack></nobr>且當目標與任何盟友相鄰時獲得<sprite name=XP1>。
+
 090_t,你的下一次在隱形<sprite name=Invisible></nobr>時的攻擊，翻倍攻擊值並獲得<sprite name=XP2>。
-091_t,當目標不與任何它的盟友相鄰時獲得<nobr>+2攻擊力<sprite name=Attack></nobr>並且獲得<sprite name=XP1>。
-092_t,解除一個相鄰的陷阱。
+
 097_b_1,強迫一名相鄰的敵人執行
 097_b_2,由你操控行動，並停留在一個相鄰的格子。
 097_t_1,每一個與目標相鄰的盟友使你獲得<nobr>+1攻擊力<sprite name=Attack>。</nobr>
 097_t_2,則獲得<nobr>+2攻擊力<sprite name=Attack>，</nobr><sprite name=XP1>
 
 098_t,附加+X攻擊力<sprite name=Attack>，其中X是目標護盾值的兩倍。
-099_b,拾取<sprite name=Loot>每一個你通過此行動經過的格子。
+
 100_t,當目標與<nobr>你的盟友</nobr>相鄰時，附加創傷<sprite name=Wound>並獲得<sprite name=XP1>。
 103_b,本回合，為你的所有以不與任何它的盟友相鄰的敵人為目標的攻擊附加+2攻擊力<sprite name=Attack>。
 104_b,本回合，在你的所有攻擊中獲得優勢。
@@ -68,15 +67,9 @@
 113_b,消滅一個當前生命值小於或等於3的相鄰的敵人。
 114_b,本回合，強迫一個相鄰的敵人來執行它的行動輪。此時它將敵人（玩家）視作盟友，將盟友視作敵人，並由你操控它的行動。
 115_t,為你的所有攻擊附加<nobr>中毒<sprite name=Poison></nobr>和<nobr>創傷<sprite name=Wound></nobr>。
-116_b,在接下來六次受到近戰進攻時，獲得<nobr>復仇<sprite name=Retaliate>*BRetaliate*。</nobr>
-118_b,在相鄰的兩個空格內分別創建兩個占一格的障礙物。
-
-120_t,所有與目標相鄰的單位損失1點生命值。
-121_t,在你接下來的四次遠程進攻行動中，獲得附加目標<sprite name=Target>。
-
 
 124_b_3,<nobr> 2點生命值，<sprite name=XP1></nobr>
-125_t,<nobr>混亂<sprite name=Muddle></nobr>目的地區域內的所有單位。
+
 127_b,本回合，為你的所有遠程進攻附加+1攻擊力<sprite name=Attack>。
 127_t,你可以將目標強推到含有障礙物的格子中。此時，摧毀該障礙物，你的目標損失2點生命值，你獲得<sprite name=XP1>。
 128_b,本回合，為你的所有近戰進攻附加+2攻擊力<sprite name=Attack>。
@@ -127,7 +120,7 @@
 173_b,本回合，所有<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友附加<nobr>+X攻擊力</nobr>到他們的所有攻擊中，X是<nobr>射程範圍<sprite name=Range>2以內</nobr>所有盟友的數目。
 173_t_1,召喚鼠王
 173_t_2,X是<nobr>鼠王</nobr>當前生命值的一半（向上取整）。
-175_t,在接下來的五次受到近戰進攻時，獲得<nobr>復仇<sprite name=Retaliate>*TRetaliate*。</nobr>
+
 177_t,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>一張他燒牌堆的卡牌。
 178_t_1,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>兩張他棄牌堆的卡牌。
 178_t_2,則最多三張棄牌堆的卡牌，<sprite name=XP1>。
@@ -987,10 +980,7 @@ combat_log_damage,{0}造成了{1}點傷害{2}至{3}
 combat_log_damaged,{0}受到{1}的傷害
 combat_log_delaytargets,{0}尋找路徑至{1}
 combat_log_delaytrap,{0}尋找路徑來{1}通過陷阱
-combat_log_destroy_prop,{0}摧毀了一個{1}
-combat_log_destroy_props,{0}摧毀了{1}
-combat_log_disarm_prop,{0}解除了一個{1}
-combat_log_disarm_props,{0}解除了{1}
+
 combat_log_discard_cards,丟棄{0}張卡牌
 combat_log_discard_cards_name,丟棄{0}
 combat_log_doom,{0}對{1}施加了厄運
@@ -4324,10 +4314,8 @@ quest_campaign_095_scenario_modifier_1,所有在水地格子結束行動輪的�
 quest_campaign_1_desc,黑塚的說明
 quest_campaign_1_intro,黑塚的前言
 quest_campaign_1_list,黑塚的名單
-quest_job_aneyeforaneye_desc,邪教徒們襲擊了一個強盜營地，並帶走了許多住在那裡的人。一個強盜弓箭手想要報仇。
-quest_job_aneyeforaneye_intro,不尋常的是，有個高級強盜弓箭手想找你幫忙。在她外出執行任務期間，邪教徒襲擊了她的營地，她的朋友們被邪教徒殺害、綁架。她的強盜團現已不復存在，她只想讓這些殺害她朋友們的邪教徒付出血的代價。你在邪教徒巢穴的入口處遇見了她，已經有幾個守衛倒在了她的腳邊。你和她一起進入邪教徒巢穴完成任務。
-quest_job_aneyeforaneye_list,幫這個強盜弓箭手報仇
-quest_job_aneyeforaneye_name,以眼還眼
+
+
 quest_job_callofthewild_desc,該地區野獸的襲擊人類事件越來越多，跟蹤他們的蹤跡，並拿下他們的巢穴。
 quest_job_callofthewild_intro,隨著文明的發展，它經常與自然界發生碰撞，有時這些碰撞會導致很多人死亡。這是其中的一種情況，從受害者身上所有的咬痕和爪痕可以清楚地瞭解到這件事的起因。你被雇來追蹤造成這種情況的野生動物，這很容易，線索指向附近山坡上的一個洞穴入口。
 quest_job_callofthewild_list,野生動物一直在當地造成嚴重破壞
@@ -7661,11 +7649,7 @@ scenario_job_1_1_undead_bandit_crypt_start_1,強盜們派出了不死族，然�
 scenario_job_1_1_undead_bandit_crypt_success,你擊敗了另一群強盜，但是你感到他們正在變得越來越無法無天。
 scenario_job_1_1_undead_crypt_start_1,這個墓室裡充滿了異色瘴氣，你意識到儘快完成工作、回到飽含新鮮空氣的室外才是明智的選擇。
 scenario_job_1_1_undead_crypt_success,不死族消失了，但空氣中仍飄散著他們的氣息。幸運的是，消除氣味並不在你的工作範疇內。你離開了墓室並返程前去領取你應得的報酬。
-scenario_job_aneyeforaneye_sm1_desc,所有英雄在戰役開始時處於中毒狀態
-scenario_job_aneyeforaneye_start_1,在第一個房間裡，有許多異教徒將強盜“轉化”為了不死族。這裡充斥著令人作嘔的氣味。
-scenario_job_aneyeforaneye_start_2,我知道異教徒都很卑鄙，可是這次真是讓我覺得噁心。是時候送他們下地獄了！
-scenario_job_aneyeforaneye_success_1,隨著最後一個敵人死亡，強盜弓箭手也無力地跪倒在地。
-scenario_job_aneyeforaneye_success_2,謝謝你的幫助......至少我已經報了仇。收下吧，這是你應得的報酬。
+
 scenario_job_callofthewild_start_1,在進入洞穴，穿過洞中長廊時，你捕捉帶空氣中依舊飄散著的血腥味，地上則四處散落著吃剩的骨頭。
 scenario_job_callofthewild_start_2,通道打開之後，你看到了一群各式各樣的生物群居在一起。或許是因為這裡富饒的環境使它們能夠共存？
 scenario_job_callofthewild_success_1,隨著野獸們的死亡，洞穴內終於安靜下來，附近的一切又恢復了正常。

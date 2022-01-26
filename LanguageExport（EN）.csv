@@ -8713,10 +8713,8 @@ quest_campaign_1_desc,Black Barrow Description
 quest_campaign_1_intro,Black Barrow Intro
 quest_campaign_1_list,Black Barrow List
 quest_campaign_1_name,Black Barrow
-quest_job_aneyeforaneye_desc,Cultists raided a bandit camp and took away many of those living there. A Bandit Archer wants revenge.
-quest_job_aneyeforaneye_intro,"Unusually, you have been contacted by a high ranking Bandit Archer looking for your services. Whilst out on a job, Cultists attacked her camp and killed or abducted many of her friends. Her bandit crew is now disbanded, but she wants revenge on the Cultists who killed them all. You meet her at the entrance of the Cultist’s lair, where she has already taken down a couple of their guards. You head inside with her to finish the job."
-quest_job_aneyeforaneye_list,Help a Bandit archer enact her revenge
-quest_job_aneyeforaneye_name,An Eye for an Eye
+
+
 quest_job_callofthewild_desc,"Wild animal attacks have increased in the area, follow their trail and take down the den of creatures."
 quest_job_callofthewild_intro,"As civilisation advances, it often collides with nature, and sometimes those collisions leave lots of people dead. This is one of those cases, although the cause is clear to see from all the bite and claw marks on the victims. You have been paid to track down the wild animals that did this, and it is easy enough: the trail leads to a cave entrance in a nearby hillside."
 quest_job_callofthewild_list,Wild creatures have been causing havoc in the local area
