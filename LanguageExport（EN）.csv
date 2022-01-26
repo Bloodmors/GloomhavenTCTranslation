@@ -6932,8 +6932,8 @@ mudview_descr,"At the confluence of three rivers sits Mudview, a community of bo
 mystically,Mystic Ally
 nailsphere,Nail Sphere
 narratordialogname,Narrator
-nasitra,Nasitra
-nasitra_descr,"Translated from the Valrath for 'Sweetwater', it was named for the clear river flowing down from the Watcher mountains, and is a hub for the barges that travel down from Kailehj to the sea. Nasitra is also famed for its high quality wands."
+
+
 nightdemon,Night Demon
 nightdemonelite,Night Demon Elite
 nightshroud,Nightshroud
@@ -8796,10 +8796,8 @@ quest_job_thestoneman_desc,A sentient golem needs your help.
 quest_job_thestoneman_intro,"You have been contacted by a Tinkerer about a strange character he found while exploring an ancient tomb. Apparently one of the Golems left to defend the tomb had become sentient, and instead of flattening the Tinkerer, he conversed with him. However, the fame of this stone man spread around the area, and now a group of Bandits are heading to the location to destroy the Golem and take his parts away for research. You head to the location in the woods, and are introduced to the golem just as the Bandits attack. There is no time for pleasantries."
 quest_job_thestoneman_list,Protect a new lifeform from destruction
 quest_job_thestoneman_name,The Stone Man
-quest_job_thevaultsofpus_desc,"Cultists have broken into the mausoleums of a local graveyard, and have begin to raise the dead."
-quest_job_thevaultsofpus_intro,"This job is one of those that no adventurer likes, but it pays the bills. Head to a graveyard, find the crypt with the smashed front door, venture down, and kill whatever you find there."
-quest_job_thevaultsofpus_list,A local graveyard has been defiled by Cultists
-quest_job_thevaultsofpus_name,Vaults of Pus
+
+
 quest_job_twotribes_desc,A Bandit Gang and Inox Tribe are in open warfare. You have been employed to remove both parties.
 quest_job_twotribes_intro,"After meeting a local community leader, you are informed that two factions in the area have gradually been escalating a gangland feud. The Bandit gang has been looting local shrines and selling counterfeit goods, while the Inox tribe has been threatening anyone who passes through the local forest with trade. In the end, something had to give. After numerous assassination attempts and small incidents in pubs and inns, the two factions have picked a location in a forest to settle it. You are asked to crash the party and eliminate both groups, leaving no survivors. You head off to the proposed spot, and no one is keeping it secret. I mean, who would want to walk in on open warfare?"
 quest_job_twotribes_list,A local gangland feud has escalated to all-out war
@@ -8934,9 +8932,9 @@ quest_relic_sacrificialrobes_desc,Perhaps a group of Cultists have invented an i
 quest_relic_sacrificialrobes_intro,"Starting at the base of the Hermitage, you head south into the forest. You're wary that archers are particularly good at laying traps, so it is slow going. As the sun begins to fall, you spot a clearing with what seems to be Archery gear laid out. It lies next to a strange stone structure, and you can see Archers and Cultists in the area. This must be the place."
 quest_relic_sacrificialrobes_list,Investigate stories of Cultists and Archers working together
 quest_relic_sacrificialrobes_name,Hunting The Hunters
-quest_relic_sacrificialrobes_unlock_1,"It looks like you’ve been using Ranged attacks pretty effectively, and I’ve tracked down the location of a relic that might help you be even stronger."
-quest_relic_sacrificialrobes_unlock_2,"I’ve heard that a group of Cultists have been recruiting Bandit Archers, and are trying to magically enhance clothing to improve their Ranged attacks."
-quest_relic_sacrificialrobes_unlock_3,"Certainly sounds like it is worth checking out, I’ll mark it on your map."
+_1,"It looks like you’ve been using Ranged attacks pretty effectively, and I’ve tracked down the location of a relic that might help you be even stronger."
+ and are trying to magically enhance clothing to improve their Ranged attacks."
+t, I’ll mark it on your map."
 quest_relic_secondskin_complete_1,"Well, that was unpleasant…"
 quest_relic_secondskin_complete_2,The Valrath is happy to get his prototype back and has already managed to replicate his initial design.
 quest_relic_secondskin_complete_3,Which we will be keeping?
@@ -10463,7 +10461,7 @@ scenario_job_thestoneman_start_1,The Bandits charge out of the forest. They have
 scenario_job_thestoneman_success_1,"The remaining Bandits have decided their payday isn’t big enough after all, they’d rather stay alive, and so they retreat into the forest."
 scenario_job_thevaultsofpus_sm1_desc,All Heroes start Poisoned
 scenario_job_thevaultsofpus_start_1,You enter the crypt and see Cultists hastily trying to raise an army of undead... but apparently the family buried here were of the larger persuasion.
-scenario_job_thevaultsofpus_success_1,"The crypt is safe once more. Perhaps in future, the owners might put a stronger padlock on the door. One can only hope."
+the owners might put a stronger padlock on the door. One can only hope."
 scenario_job_twotribes_start_1,You arrive to the sounds of pitched battle. The confrontation has already begun.
 scenario_job_twotribes_start_2,"There are a lot of troops on both sides, and the fight is taking place on multiple fronts."
 scenario_job_twotribes_start_3,"You’ll need to both stay out of combat if you can, while continuing through the forest!"
@@ -11951,7 +11949,7 @@ thedome,The Dome
 theeerieglade,The Eerie Glade
 theenclave,The Enclave
 thegloom,The Gloom
-thehermitage,The Hermitage
+
 thehiddengarrison,The Hidden Garrison
 thehole,The Hole
 thehole_descr,"This opening in the cliff face seems safe enough, but at the rear of the cave is a deep, perfectly circular hole. Scraping noises can be heard from deep below. If you are sleeping here, best keep a watch."

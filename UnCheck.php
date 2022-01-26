@@ -10,7 +10,6 @@
 023_b,你可以將所有的<nobr>前進<sprite name=Move></nobr>能力轉化為等值的<nobr>進攻<sprite name=Attack></nobr>行動。
 026_b,本回合中，你對處於<nobr>繳械<sprite name=Disarm></nobr>，<nobr>禁足<sprite name=Immobilize></nobr>，<nobr>擊暈<sprite name=Stun></nobr>狀態敵人的攻擊附加<nobr>+3攻擊力<sprite name=Attack>。</nobr>
 
-
 051_t,一名相鄰盟友可以<nobr>重置<sprite name=Refresh></nobr>他的一個已耗盡的小道具<sprite name=InvSmallItem>。
 052_t_1,消滅目的地區域內當前生命值<nobr>小於或等於5</nobr>的所有敵人。
 052_t_2,每消滅一個敵人獲得<sprite name=XP1>。
@@ -120,7 +119,6 @@
 173_b,本回合，所有<nobr>射程範圍<sprite name=Range>2以內</nobr>的盟友附加<nobr>+X攻擊力</nobr>到他們的所有攻擊中，X是<nobr>射程範圍<sprite name=Range>2以內</nobr>所有盟友的數目。
 173_t_1,召喚鼠王
 173_t_2,X是<nobr>鼠王</nobr>當前生命值的一半（向上取整）。
-
 177_t,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>一張他燒牌堆的卡牌。
 178_t_1,一名相鄰的盟友可以<nobr>回收<sprite name=Recover></nobr>兩張他棄牌堆的卡牌。
 178_t_2,則最多三張棄牌堆的卡牌，<sprite name=XP1>。
@@ -4396,10 +4394,7 @@ quest_job_thestoneman_desc,一個巨石魔像需要你的説明。
 quest_job_thestoneman_intro,一個機匠聯繫了你，說他在探索古墓時發現了一個奇怪的生物。墓穴中的一個巨石魔像已經被喚醒了，但它並沒有把機匠踩扁，而是與他進行了交流。但是現在已經有太多人知道這巨石魔像的存在，一群強盜正前往該地點準備摧毀巨石魔像，並將它的部件帶走進行研究。你前往樹林中機匠所說的那個地點，當你正向巨石魔像介紹自己的時候，強盜來襲。沒有時間寒暄了。
 quest_job_thestoneman_list,保護巨石魔像不被破壞
 quest_job_thestoneman_name,石頭人
-quest_job_thevaultsofpus_desc,邪教徒闖入了當地墓地的陵墓，並開始復活死者。
-quest_job_thevaultsofpus_intro,這個工作是冒險家都不喜歡的工作之一，不過報酬尚可。前往墓地，找到那個前門被砸碎的墓穴，向深處進發，並將那裡掃蕩乾淨。
-quest_job_thevaultsofpus_list,當地的一個墓地被邪教徒污染了
-quest_job_thevaultsofpus_name,膿液墓穴
+
 quest_job_twotribes_desc,一個強盜團夥和羚牛族部落正在進行公開的戰爭。你被雇來消除雙方的衝突。
 quest_job_twotribes_intro,在與當地社區領袖會面後，你被告知該地區的兩個派別已經逐漸升級為幫派鬥爭。強盜團夥一直在搶劫當地的神廟並出售假貨，而羚牛族部落則一直在威脅路過森林的當地人進行交易。 這些事情都是要付出代價的，在經歷了無數次大的小的摩擦後，兩派決定在在從林中的一個地點徹底解決問題。你被要求去消滅兩派，不留活口。你向約定好的地點出發，不需要做任何保密措施。我的意思是，會有哪個傻子想摻和進幫派鬥爭當中？
 quest_job_twotribes_list,當地部族的爭鬥已經升級為全面戰爭
@@ -4453,12 +4448,12 @@ quest_relic_drakescaleboots_unlock_3,那幫羚牛族好像就是臭名昭著的�
 quest_relic_drakescaleboots_unlock_4,也許。。我是說，我肯定，鐵鐘堡的村民們會很樂意看到你為民除害的。
 quest_relic_drakescalehelm_complete_1,好，他肯定是碰巧把他的箱子拿回來了，雖然裡面弄濕了一點。
 quest_relic_drakescalehelm_complete_2,顯然他所言不虛，這頂頭盔棒極了！
-quest_relic_drakescalehelm_desc,説明凱爾地區的一個商人拿回寶箱。
-quest_relic_drakescalehelm_intro,你們來到了凱爾地區的商鋪，前臺堆滿了各種各樣的武器和盔甲，但也沒有什麼比你現在的裝備更好的玩意。商人向你打招呼並將你引入店內。“他們是從下水道上來的。”他一邊解釋一邊指著地板上的一個洞，這個洞顯然是從下面鋸開的。“軟泥怪我有理由相信，他們還沒有轉移贓物，因為黑市上有我的人，而他們還沒有發現貨。如果你現在追下去，你也許還能追蹤到他們的蹤跡！”。你接受了他的建議，爬下一條看起來像用手挖出來的不穩固隧道。隧道很快分成了兩條岔路，你們意識到你們必須兩條路都試試來抓捕罪犯。在爬行了大約三十分鐘後，其中一條通道通向一個遍佈塵土的古老儲藏室，裡面有一些令人不快的軟泥怪。另一條出口通向主下水道，而當你們爬出來時，警報響了起來！
+quest_relic_drakescalehelm_desc,説明凱萊伊地區的一個商人拿回寶箱。
+quest_relic_drakescalehelm_intro,你們來到了凱萊伊地區的商鋪，前臺堆滿了各種各樣的武器和盔甲，但也沒有什麼比你現在的裝備更好的玩意。商人向你打招呼並將你引入店內。“他們是從下水道上來的。”他一邊解釋一邊指著地板上的一個洞，這個洞顯然是從下面鋸開的。“軟泥怪我有理由相信，他們還沒有轉移贓物，因為黑市上有我的人，而他們還沒有發現貨。如果你現在追下去，你也許還能追蹤到他們的蹤跡！”。你接受了他的建議，爬下一條看起來像用手挖出來的不穩固隧道。隧道很快分成了兩條岔路，你們意識到你們必須兩條路都試試來抓捕罪犯。在爬行了大約三十分鐘後，其中一條通道通向一個遍佈塵土的古老儲藏室，裡面有一些令人不快的軟泥怪。另一條出口通向主下水道，而當你們爬出來時，警報響了起來！
 quest_relic_drakescalehelm_list,找到商人丟失的貨品
 quest_relic_drakescalehelm_name,狹路相逢
 quest_relic_drakescalehelm_unlock_1,我發現最近你的雇傭兵在戰鬥中被混亂狀態所擾，我派出去幾名斥候去找點兒有用的裝備。
-quest_relic_drakescalehelm_unlock_2,凱爾地區的一名羚牛族商人告訴我他有一頂稀有的，用龍鱗製成的頭盔。不過價格嘛，我流下了貧窮的淚水。
+quest_relic_drakescalehelm_unlock_2,凱萊伊地區的一名羚牛族商人告訴我他有一頂稀有的，用龍鱗製成的頭盔。不過價格嘛，我流下了貧窮的淚水。
 quest_relic_drakescalehelm_unlock_3,然而，他今天給我送來一封信，信上說他的商店被一幫從下水道裡蹦出來的強盜洗劫一番。
 quest_relic_drakescalehelm_unlock_4,那幫強盜搶走了他商店裡的一個寶箱，裡面就有那頂頭盔，如果你能幫他搶回寶箱，你就可以留著那頂頭盔。
 quest_relic_endurancefootwraps_complete_1,方丈很高興原生族從附近被驅離了。
@@ -4532,9 +4527,7 @@ quest_relic_sacrificialrobes_desc,也許一堆邪教徒們創造了一件可以�
 quest_relic_sacrificialrobes_intro,從隱居地的基地出發，你們向南進入叢林。你們熟知弓箭手們特別擅長佈設陷阱，所以你們步步為營緩慢推進。落日西沉，你們發現了一片丟滿弓箭手裝備的空地。空地邊上有一座奇怪的建築物，你還能看到區域內的邪教徒和弓箭手們。就是這地方了。
 quest_relic_sacrificialrobes_list,調查邪教徒們和弓箭手在一起做什麼。
 quest_relic_sacrificialrobes_name,獵者終被獵
-quest_relic_sacrificialrobes_unlock_1,看起來你你們直在有效率地使用遠程進攻，我們已經確定了一個可能會幫上你的遺物的位置。
-quest_relic_sacrificialrobes_unlock_2,我聽聞一群邪教徒們曾經招募過一批強盜弓箭手，並且試圖用提升的衣服增強他們的遠程進攻。
-quest_relic_sacrificialrobes_unlock_3,聽起來很值得去看看，我會標在你們的地圖上。
+
 quest_relic_secondskin_complete_1,好吧，令人不快...
 quest_relic_secondskin_complete_2,瓦拉斯會很樂意拿回這個原型，並設法複製其初始設計。
 quest_relic_secondskin_complete_3,我們要留下哪個？
@@ -4723,7 +4716,7 @@ quest_story_nightshroud_3_intro,在離開水晶穀的路上，夜引者解釋了
 quest_story_nightshroud_3_list,幫助夜引者研究潛伏者
 quest_story_nightshroud_3_name,打碎冰塊
 quest_story_plagueherald_1_desc,瘟疫使者也許發現了一種非常規的，不怎麼衛生的手段來幫助惡魔閘口鎮保護它自己...
-quest_story_plagueherald_1_intro,到瘟疫使者的巢穴的旅途比你預期的要長得多，當你到達被它稱之為家的楠斯厝的廢棄下水道時，沙子和汗水幾乎填滿了你身上的每一個縫隙。瘟疫使者似乎一點也不介意這裡的環境，甚至可以說它在整個旅程中都在快樂地嗡嗡作響。進入下水道後，你感到如釋重負，因為你終於擺脫了沙漠的沙塵和酷熱。然而，當你意識到你站在一個從上到下滿是昆蟲和污水的房間裡時，這種寬慰很快就被沖淡了，即使這些下水道已經被廢棄了。瘟疫使者的類人形態消散成一小團昆蟲，整個房間充滿了蟲子的腿和扇動翅膀的嗡嗡聲。在幾分鐘後，蟲群再次安靜下來，瘟疫先驅在你面前變回人形。“我們必須走，”它說，他說話時就像嘴裡叼著憤怒的蜜蜂。當你轉身離開這噩夢般的房間，再次面對沙漠時，一支箭刺穿了你面前地板上的一隻昆蟲，房間裡的蟲子全部消失了，除了瘟疫使者。
+quest_story_plagueherald_1_intro,到瘟疫使者的巢穴的旅途比你預期的要長得多，當你到達被它稱之為家的南溪啜的廢棄下水道時，沙子和汗水幾乎填滿了你身上的每一個縫隙。瘟疫使者似乎一點也不介意這裡的環境，甚至可以說它在整個旅程中都在快樂地嗡嗡作響。進入下水道後，你感到如釋重負，因為你終於擺脫了沙漠的沙塵和酷熱。然而，當你意識到你站在一個從上到下滿是昆蟲和污水的房間裡時，這種寬慰很快就被沖淡了，即使這些下水道已經被廢棄了。瘟疫使者的類人形態消散成一小團昆蟲，整個房間充滿了蟲子的腿和扇動翅膀的嗡嗡聲。在幾分鐘後，蟲群再次安靜下來，瘟疫先驅在你面前變回人形。“我們必須走，”它說，他說話時就像嘴裡叼著憤怒的蜜蜂。當你轉身離開這噩夢般的房間，再次面對沙漠時，一支箭刺穿了你面前地板上的一隻昆蟲，房間裡的蟲子全部消失了，除了瘟疫使者。
 quest_story_plagueherald_1_list,把好消息帶給蟲巢
 quest_story_plagueherald_1_name,忙碌的蟲巢
 
@@ -4746,9 +4739,9 @@ quest_story_quartermaster_2_desc,看看惡魔閘口鎮的金庫裡發生了什�
 quest_story_quartermaster_2_intro,惡魔閘口鎮金庫坐落於這座城市華麗的歷史建築之下，很少有普通市民見過它。議會利用這個古老的空間來儲存最重要的資產，其中包含了為城市衛兵隊準備的備用裝備。但現在，你只看到一堵奇特的石牆。按照軍需官的指示，你將金庫鑰匙放入牆中央的簡單插孔中。牆左右兩邊的兩個矩形向裡面陷了進去，然後消失了，露出了兩條短而相同的走廊。你在每個走廊的盡頭都發現了壓力板。你站在上面，什麼也沒發生。你轉身朝身後看去，但隨即被一種低沉的隆隆聲所吸引，因為走廊底部的牆都移開了，你看到的是古老的壯麗場面和金庫主室的可疑氣味。可能是你在想像，也可能是黑暗中真的發出了嘶嘶聲…
 quest_story_quartermaster_2_list,調查這個金庫
 quest_story_quartermaster_2_name,歡迎金庫獵人
-quest_story_quartermaster_3_desc,這個竊賊的足跡導向凱爾地區的一個神秘洞穴...
-quest_story_quartermaster_3_intro,凱爾地區的南部定居點坐落在黯淡港灣的沙漠中，但它的木制建築和簡單的道路所代表的遠不止這些。粗糙、乾淨的下水道和路邊手工挖掘的運河一樣，如果你仔細聽，還能聽到潺潺的流水。羚牛族活動的範圍很廣，但當你正在尋找附近的“被詛咒的”洞穴的消息傳開時，當地人紛紛對你敬而遠之。最終，一個看上去很年邁的老羚牛族為你提供了簡單的指示。不久，你就在凱爾地區的郊區找到了洞口，一部分是靠著模糊的指示，另一部分是靠洞口周圍粘稠物的氣味。然而，洞穴的岩石上面似乎有圖案。再仔細一看，你會發現它的雕刻很有裝飾性。當你冒險進去時，你發現自己置身於一個令人驚訝的錯綜複雜的洞穴群中。空氣中充滿了腐朽的氣息——這些洞穴已經被遺棄了好一段時間了。爪子在石頭上的摩擦聲迫使你專注于前方的隧道，那裡充滿了…叢林小惡魔？在你對面的牆上是一扇華麗的門，兩側是成堆的屍骨和屍體，他們手裡還拿著守衛隊發放的裝備。你發誓你在門的那頭看見了樹…
-quest_story_quartermaster_3_list,下到被詛咒的凱爾地區洞穴
+quest_story_quartermaster_3_desc,這個竊賊的足跡導向凱萊伊地區的一個神秘洞穴...
+quest_story_quartermaster_3_intro,凱萊伊地區的南部定居點坐落在黯淡港灣的沙漠中，但它的木制建築和簡單的道路所代表的遠不止這些。粗糙、乾淨的下水道和路邊手工挖掘的運河一樣，如果你仔細聽，還能聽到潺潺的流水。羚牛族活動的範圍很廣，但當你正在尋找附近的“被詛咒的”洞穴的消息傳開時，當地人紛紛對你敬而遠之。最終，一個看上去很年邁的老羚牛族為你提供了簡單的指示。不久，你就在凱萊伊地區的郊區找到了洞口，一部分是靠著模糊的指示，另一部分是靠洞口周圍粘稠物的氣味。然而，洞穴的岩石上面似乎有圖案。再仔細一看，你會發現它的雕刻很有裝飾性。當你冒險進去時，你發現自己置身於一個令人驚訝的錯綜複雜的洞穴群中。空氣中充滿了腐朽的氣息——這些洞穴已經被遺棄了好一段時間了。爪子在石頭上的摩擦聲迫使你專注于前方的隧道，那裡充滿了…叢林小惡魔？在你對面的牆上是一扇華麗的門，兩側是成堆的屍骨和屍體，他們手裡還拿著守衛隊發放的裝備。你發誓你在門的那頭看見了樹…
+quest_story_quartermaster_3_list,下到被詛咒的凱萊伊地區洞穴
 quest_story_quartermaster_3_name,不在抱有幻想的
 quest_story_sawbones_1_desc,魔脊洞穴的鞋匠經常意外受傷，找出原因
 quest_story_sawbones_1_intro,再一次踏上了去魔脊洞穴路，你松了一口氣，發現月夜下的村莊十分寧靜。然而，一種沉重的、受傷的寂靜籠罩著這個小鎮，苦難的氛圍和一股你發誓你認得的微弱而令人不安的味道佐證了現狀。你們來到村鎮大廳，這裡已經成了一處臨時醫院。在裡面，許多鎮民們痛苦的在堅硬的床上打滾扭動。有些人的鞋帶系到一起，他們的頭上滿是綻裂的傷口；有些人失去了整個四肢，怪罪著他們的皮革剪刀。一個村民甚至雙腿骨折，腳被困在系的緊的不可思議的鞋子裡。你找到當地的醫生，他告訴你這些人在制鞋的時候嚴重受傷了。“我們經常能聽到外面的森林傳來誦經的聲音，”這個醫生告訴你們。“我只是認為這是一些村民在祈禱好運降臨。”你對這個老人搖了搖頭，備好了武器，向他詢問去森林的路。你打開了城市大廳的門，卻發現這門不可思議的輕。一個瘋狂的叢林小惡魔從門背後出現，飛了進來，你們能做的就是在和它們扭打出去，關上大廳的門，拿下這些噁心人的玩意。你認出了這股味道——小妖身軀散發的黑魔法的味道。現在在村鎮大廳外面，你可以聽見四周傳來的墮落妖精的歌聲...
@@ -4908,7 +4901,7 @@ quest_travel_ironwoodcamp_intro,幾個星期前，鐵木營地的工作就被迫
 quest_travel_ironwoodcamp_list,伐木營地被野生動物佔據了
 quest_travel_ironwoodcamp_name,荒野裡的猛獸
 quest_travel_kailej_desc,羚牛族有你所需要的答案，救下他們。
-quest_travel_kailej_intro,你向東南方向的凱爾地區的羚牛族定居點旅出發，感到令人壓抑的沙漠的熱量減輕了。雖然周圍的環境仍不像北方的森林那樣綠色且潮濕，但南方的山脈提供了能讓小河流淌的環境。雖然有些乾旱，但南方並不像一些人認為的那樣毫無生機——許多動物從你身邊經過。即使羚牛族是從北方來的，你也可以看到它們在這活動的身影。當你在黃昏時分到達時，你發現凱爾地區的土路被廢棄了——只剩下那些腐化生物留下的氣味難聞、顏色令人作嘔的物質。你看到小屋門的木板之間有動靜，所以你決定前去調查。當你準備伸手去敲門時，一聲巨響從你旁邊的下水道裡傳來——羚牛族似乎開鑿了下水道系統。當第一個墮落小妖從洞裡擠出來的時候，你抽出了你的武器，但羚牛族的戰吼淹沒了你：這兒倖存的羚牛族正在你的身邊聚集。
+quest_travel_kailej_intro,你向東南方向的凱萊伊地區的羚牛族定居點旅出發，感到令人壓抑的沙漠的熱量減輕了。雖然周圍的環境仍不像北方的森林那樣綠色且潮濕，但南方的山脈提供了能讓小河流淌的環境。雖然有些乾旱，但南方並不像一些人認為的那樣毫無生機——許多動物從你身邊經過。即使羚牛族是從北方來的，你也可以看到它們在這活動的身影。當你在黃昏時分到達時，你發現凱萊伊地區的土路被廢棄了——只剩下那些腐化生物留下的氣味難聞、顏色令人作嘔的物質。你看到小屋門的木板之間有動靜，所以你決定前去調查。當你準備伸手去敲門時，一聲巨響從你旁邊的下水道裡傳來——羚牛族似乎開鑿了下水道系統。當第一個墮落小妖從洞裡擠出來的時候，你抽出了你的武器，但羚牛族的戰吼淹沒了你：這兒倖存的羚牛族正在你的身邊聚集。
 quest_travel_kailej_list,保護羚牛族定居點
 quest_travel_kailej_name,生活污水之夜
 quest_travel_keyport_desc,你召集了你的盟友，抓住了民兵。是時候面對議會了。
@@ -4931,9 +4924,9 @@ quest_travel_mudview_desc,三河匯社區將會是對抗奇波特港的強大助
 quest_travel_mudview_intro,當你冒險前往三河匯社區時，鎮長就在門口迎接你。她知道來自奇波特港的威脅，但仍在猶豫要不要支持你。在你追問原因過後，她最終解釋道，三河匯社區一直飽受邪教徒的困擾，他們就躲在城鎮郊區的一些廢墟裡。市長請求你去除掉這個危險，你希望她能更公開地支持你。城鎮外的灌木叢讓你感覺很平常，但當你靠近邪教徒的藏身之處時，發現風裡帶著一股明顯的惡臭——惡魔。
 quest_travel_mudview_list,贏得三河匯社區的效忠
 quest_travel_mudview_name,陷在泥裡
-quest_travel_nasitra_desc,土匪佔領了通往楠斯厝的主橋，闖入他們在地穴裡的藏身之處，然後想辦法突圍。
-quest_travel_nasitra_intro,你在遠處就能看到楠斯厝的火炬的光芒，但主橋處於一片黑暗之中。從正面向橋上突擊橋太過愚蠢，於是你在橋墩的底部找到了一個未被使用的入口。你悄悄地進入了這條通道，向上走去，你可不會放過裡面的任何一個傢伙。
-quest_travel_nasitra_list,打破強盜對楠斯厝的圍攻
+quest_travel_nasitra_desc,土匪佔領了通往南溪啜的主橋，闖入他們在地穴裡的藏身之處，然後想辦法突圍。
+quest_travel_nasitra_intro,你在遠處就能看到南溪啜的火炬的光芒，但主橋處於一片黑暗之中。從正面向橋上突擊橋太過愚蠢，於是你在橋墩的底部找到了一個未被使用的入口。你悄悄地進入了這條通道，向上走去，你可不會放過裡面的任何一個傢伙。
+quest_travel_nasitra_list,打破強盜對南溪啜的圍攻
 quest_travel_nasitra_name,兵臨城下
 quest_travel_nomadcamp_desc,遊民可能知道得更多......
 quest_travel_nomadcamp_intro,在認定前往遊牧營地這件事值得你多花點兒時間後，你沿著考古學家在流沙鎮給你的方向前行。就好像沙漠是無窮無盡的一般，被撕裂的白色織物碎片在沙丘之間閃爍。 隨著你的前進，血液飛濺和撕碎的床單也成為了沙漠的點綴。 在乾燥的風中，戰鬥的聲音清晰無誤的傳到你耳邊，你回應了它們的呼喚，抄起了你的武器。 剩下的遊民站在被屠殺的戰友身旁，拿著劍和長矛向著羚牛族戰士和伏擊者發起猛烈攻擊。 在被發現後，你被一個羚牛族戰士大聲挑釁，這促使著入侵者們向你發起攻擊。 遊民倖存者趁著敵人分心的時候紛紛逃走了。 現在你別無退路了。
@@ -5888,7 +5881,7 @@ plagueherald_weaknesses,"- <indent=%15>非常有可能誤傷盟友</indent>
 - <indent=%15>對於單個大目標輸出效率較低</indent>
 - <indent=%15>蟲靈族的交配儀式實在是...</indent>"
 
-quartermaster_adventure_description,熟練的魔人族軍需官幫助冒險團隊在戰鬥中最大化他們裝備的效果，並以此聞名。畢竟，一個身邊沒有好劍的戰士算什麼呢？
+quartermaster_adventure_description,熟練的瓦拉斯軍需官幫助冒險團隊在戰鬥中最大化他們裝備的效果，並以此聞名。畢竟，一個身邊沒有好劍的戰士算什麼呢？
 quartermaster_role,近戰輸出/輔助
 quartermaster_strengths,"- <indent=%15>擁有許多物品刷新技能</indent>
 - <indent=%15>進攻和防禦能力比較平衡</indent>
@@ -6021,7 +6014,7 @@ darkrider,暗黑騎師
 decayingsepulcher,腐朽墳墓
 decayingtombs,腐朽陵墓
 
-demonsgate_descr,該地區的核心城鎮，惡魔閘口的城牆在與魔人族的戰爭中堅守。許多人在戰爭中來到這裡避難，他們的家人從未離開。一個為你的旅行尋找裝備的好地方，但需要為此付費。
+demonsgate_descr,該地區的核心城鎮，惡魔閘口的城牆在與瓦拉斯的戰爭中堅守。許多人在戰爭中來到這裡避難，他們的家人從未離開。一個為你的旅行尋找裝備的好地方，但需要為此付費。
 demonspinehollow,魔脊洞穴
 demonspinehollow_descr,被石化的森林的這一區域被認為會因看到惡魔、小鬼甚至無頭騎士而受到詛咒。 它看起來足夠安全，但也許它聞起來不太對。
 demonsummonaltar,死靈祭壇
@@ -6982,8 +6975,8 @@ ironbell,鐵鐘堡
 ironbell_descr,這座小堡壘擁有鐵鐘the Iron Bell，這是一種數百年來未使用的古老警報系統。它被用來警告奇波特港有掠奪者從南部沼澤中上來。
 ironwoodcamp,鐵木營地
 jadefalcon,玉鷹
-kailej,凱爾地區
-kailej_descr,凱爾地區的魔人城是南部沙漠中的寶石。它的塔和山尖可以在數英里外看到，對向南旅行穿越暴風地的人們來說是一個很受歡迎的歇腳點。
+kailej,凱萊伊地區
+kailej_descr,凱萊伊地區的魔人城是南部沙漠中的寶石。它的塔和山尖可以在數英里外看到，對向南旅行穿越暴風地的人們來說是一個很受歡迎的歇腳點。
 keyport,奇波特港
 keyport_descr,奇波特港是西海的主要貿易樞紐，日漸富強。有傳言說商人公會計畫在當地發動政變，為了預防起見，光明的駐軍得到了加強。
 kill_allnormalenemiesintargetedarea,殺死目的地區域內的所有非精英怪
@@ -7233,7 +7226,7 @@ message_end_quest_story_plagueherald_3_4,但鑒於城市守衛已經被滲透成
 message_end_quest_story_quartermaster_1_1,我不確定不死行屍是怎麼進入魔鼠巢穴的，但起碼我們現在能調查惡魔閘口鎮的金庫了。
 message_end_quest_story_quartermaster_1_2,為啥你就不能帶我去個好點的地方？
 message_end_quest_story_quartermaster_1_3,我還告知了惡魔閘口鎮有關監察者的死訊。我懷疑他們有話想問低鎮守衛軍。
-message_end_quest_story_quartermaster_2_1,我研究了你從金庫帶回來的綠色物質。它只在凱爾地區被發現過，在一個當地人認為被施了魔法的山洞裡。
+message_end_quest_story_quartermaster_2_1,我研究了你從金庫帶回來的綠色物質。它只在凱萊伊地區被發現過，在一個當地人認為被施了魔法的山洞裡。
 message_end_quest_story_quartermaster_2_2,先是一個空空如也的古代金庫，現在又是一個被詛咒的山洞......
 message_end_quest_story_quartermaster_2_3,你知道我們是已經收了錢的，對吧？
 message_end_quest_story_quartermaster_2_4,那也不代表我會喜歡它。
@@ -7325,7 +7318,7 @@ message_end_quest_travel_ironbell_1,你走了以後我匆忙進了鐵鐘堡想�
 message_end_quest_travel_ironbell_2,當我告訴其中一個鐵匠時，她看著我... 然後給了我鋼鐵鎧靴。
 message_end_quest_travel_ironbell_3,我懂了。如果你能使用那些東西的話，我商店裡有賣的。
 message_end_quest_travel_ironwoodcamp_1,Ironwood公司對你的工作非常滿意，並把新盾牌的設計圖發給了我。有機會就來看看它吧！
-message_end_quest_travel_kailej_1,在你離開後我去了趟凱爾地區，我認為一個戰士部族必須有些稱手的武器。
+message_end_quest_travel_kailej_1,在你離開後我去了趟凱萊伊地區，我認為一個戰士部族必須有些稱手的武器。
 message_end_quest_travel_kailej_2,我向鐵匠詢問什麼武器是她認為我應該會使用的，她遞給我一個精美的戒指，那傷害可高了！
 message_end_quest_travel_kailej_3,一直到那天晚些時候有人搭訕我之前，我都不認為它能幹些什麼，結果那次我跑的比平時都快，如果你不想要的話，我估計會自己穿。
 message_end_quest_travel_keyport_1,所以，好像這是我們欠奇波特港城的。
@@ -7339,7 +7332,7 @@ message_end_quest_travel_millpond_2,誰能說的定呢？也許你能找到它�
 message_end_quest_travel_mudview_1,孩子，我很高興能留在琥珀嶺村的牆壁裡。
 message_end_quest_travel_mudview_2,不管怎樣，你走後我還是把巢靈族的斗篷給盤下來了。
 message_end_quest_travel_mudview_3,它聞起來很奇怪，甚至還有一兩個蟲子在裡面，但它的儲存空間還是很大的。
-message_end_quest_travel_nasitra_1,楠斯厝以美麗的珠寶而聞名，我採購了一些魔力月亮耳環，可能會對你有所幫助。
+message_end_quest_travel_nasitra_1,南溪啜以美麗的珠寶而聞名，我採購了一些魔力月亮耳環，可能會對你有所幫助。
 message_end_quest_travel_nomadcamp_1,在你離開後我又逛了逛營地，心懷感激的人們往往是最慷慨的。
 message_end_quest_travel_nomadcamp_2,其中一個倖存者給了我一個戒指作為謝禮，我很高興能戴著它。
 message_end_quest_travel_nomadcamp_3,我甚至沒有意識到我奮力攻擊他們作為回應，我百分百確定是戒指讓我這樣做的。
@@ -7512,15 +7505,13 @@ mudview_descr,三河匯社區坐落在三條河流的交匯處，這是一個靠
 mystically,神秘嘉賓
 nailsphere,釘刺圓球
 
-nasitra,楠斯厝
-nasitra_descr,從魔人族語言得名，本意為“甜水”，它以從守望山脈脈流下的清澈河流而得名，是從凱爾地區到大海的駁船的樞紐。楠斯厝也以其高品質的魔杖而聞名。
 
 nomadcamp,遊牧營地
-nomadcamp_descr,在沙漠的南邊，一個小小的魔人族營地空寂無人。這是一片被沙漠沙化的地方，是流浪的遊牧民族用來駐足遮蔽連炎熱氣的地方。
+nomadcamp_descr,在沙漠的南邊，一個小小的瓦拉斯營地空寂無人。這是一片被沙漠沙化的地方，是流浪的遊牧民族用來駐足遮蔽連炎熱氣的地方。
 
 objective_tile_tooltip,作為達成目標的一部分，請站在這裡。
 obsidianbluff,火山岩石崖
-obsidianbluff_descr,從高山上的有利位置，你可以欣賞到凱爾地區和北部沙漠的美景。
+obsidianbluff_descr,從高山上的有利位置，你可以欣賞到凱萊伊地區和北部沙漠的美景。
 oldhut,老舊小屋
 ondeath,論死亡
 onehexobstacle,一格的障礙物
@@ -7576,7 +7567,7 @@ road_event_a_fateful_encounter,命中註定的遭遇
 road_event_a_shortcut,一個捷徑？
 road_event_abandoned_cart,被拋棄的貨車
 road_event_ambush_aftermath,伏擊餘波
-road_event_bloody_valrath,Bloody 魔人族
+road_event_bloody_valrath,Bloody 瓦拉斯
 road_event_broken_cart,壞掉的貨車
 road_event_duel,決鬥
 road_event_rope_bridge,吊橋
@@ -7595,7 +7586,7 @@ rockfall_descr,這個薩維斯村莊坐落在守望山脈的山坡上。這是�
 rocksingle,岩石
 rocktriple,大岩石
 sahmyrt,薩默特地區
-sahmyrt_descr,薩默特地區的魔人族港口將香料和貨物運往西方帝國。這有一個充滿活力的黑市，出售從戰爭中被捕的人類間諜處繳獲的商品，也許你可以買到一些有用的東西。
+sahmyrt_descr,薩默特地區的瓦拉斯港口將香料和貨物運往西方帝國。這有一個充滿活力的黑市，出售從戰爭中被捕的人類間諜處繳獲的商品，也許你可以買到一些有用的東西。
 saltmarshflats,鹽沼地
 saltmarshflats_descr,奇波特港東北部的平地在炎熱的夏季會非常忙碌，工人們會來這裡制鹽。然而，在每年的這個時候，它是一個荒涼的地方。
 sandbox_scenario_description,沙箱劇本測試用例
@@ -7714,7 +7705,7 @@ scenario_job_thestoneman_start_1,強盜們沖出了森林。他們帶了獵犬�
 scenario_job_thestoneman_success_1,剩下的強盜們認為這些報酬還沒有足夠大到讓他們犧牲性命去幹一票，所以他們撤回到了叢林中。
 scenario_job_thevaultsofpus_sm1_desc,所有英雄開始時處於中毒狀態
 scenario_job_thevaultsofpus_start_1,你進入了墓穴看到邪教徒們匆忙地試圖召喚一支不死族軍隊......但顯然埋葬在這裡地家族擁有更強大地信仰。
-scenario_job_thevaultsofpus_success_1,墓穴恢復了安全。或許在將來，它的主人們會在門上裝一個更結實的掛鎖。我們只能希望如此。
+
 scenario_job_twotribes_start_1,你到達了激戰聲發出的地方。很顯然對戰已經開始了。
 scenario_job_twotribes_start_2,雙方都有很多軍隊，他們在多條戰線上進行戰鬥。
 scenario_job_twotribes_start_3,如果可以的話，你需要繼續穿過叢林的同時遠離戰鬥！
@@ -8432,7 +8423,7 @@ scenario_travel_kailej_start_1,這和甜水地的情況差不多。
 scenario_travel_kailej_start_2,有了這些羚牛族人，這可能會是場公平的戰鬥。只要我們不靠近下水道的話。
 scenario_travel_kailej_start_3,奪回這個定居點。你知道要怎麼做。
 scenario_travel_kailej_success_1,最後一隻深淵的恐怖痛苦的逃回了下水道，羚牛族大聲呼喊著，慶祝他們的勝利。他們同樣稱讚了你的勇敢。
-scenario_travel_kailej_success_2,凱爾地區的首領說，這條河的源頭在山上的水晶塔洞裡。
+scenario_travel_kailej_success_2,凱萊伊地區的首領說，這條河的源頭在山上的水晶塔洞裡。
 scenario_travel_kailej_success_3,如果我們承諾能夠摧毀這塊腐化的源頭，他就會阻止任何跟蹤我們的人。這聽起來很不錯吧？
 scenario_travel_keyport_room_2_1,這是最後一塊炮兵陣地了！
 scenario_travel_keyport_room_2_2,我們不能允許議會功虧一簣。殺了他們！
@@ -8492,8 +8483,8 @@ scenario_travel_nomadcamp_start_1,我可不認為你有什麼辦法能讓我離�
 scenario_travel_nomadcamp_start_2,羚牛族和潛伏者鬼混在一起？這可有夠令人擔憂。
 scenario_travel_nomadcamp_start_3,好吧，我想我們應該拯救這些遊民，這樣他們就可以付錢給你 —— 呃，我是說幫助我們解開這個謎團！
 scenario_travel_nomadcamp_success_1,當最後一個羚牛族人的血滲進沙子裡的時候，遊民們帶著他們的感謝和情報向你們走來。
-scenario_travel_nomadcamp_success_2,他們說潛伏者和羚牛族做了筆交易：幫他們從遊民那裡收回牙齒，他們就不再攻擊凱爾地區。
-scenario_travel_nomadcamp_success_3,看起來這些牙齒現在是我們的了，但對凱爾地區的攻擊卻從來沒有停歇。
+scenario_travel_nomadcamp_success_2,他們說潛伏者和羚牛族做了筆交易：幫他們從遊民那裡收回牙齒，他們就不再攻擊凱萊伊地區。
+scenario_travel_nomadcamp_success_3,看起來這些牙齒現在是我們的了，但對凱萊伊地區的攻擊卻從來沒有停歇。
 scenario_travel_obsidianbluff_room_3_1,暗夜惡魔？真的嗎？
 scenario_travel_obsidianbluff_room_3_2,我想知道腐化是怎麼創造出這些惡魔的…它有時甚至可能會產生一個——
 scenario_travel_obsidianbluff_room_3_3,不。
@@ -8610,7 +8601,7 @@ scenario_travel_theburiedtrenches_start_1,好吧，毫無疑問的是，這些�
 scenario_travel_theburiedtrenches_start_2,我還以為軟泥怪只是些醉鬼瞎編出來的怪物，看來我又錯了！
 scenario_travel_theburiedtrenches_start_3,腐化的源頭可能在更深處。向前推進，看看那些軟泥怪們——它們擴散得很快。
 scenario_travel_theburiedtrenches_success_1,雖然腐化被清除了，但惡臭依舊沒有消散，水也仍然渾濁。
-scenario_travel_theburiedtrenches_success_2,南部的一條河流為這個水庫提供水源。它經過凱爾地區的一個羚牛族定居點，所以我們要朝那個方向前進。
+scenario_travel_theburiedtrenches_success_2,南部的一條河流為這個水庫提供水源。它經過凱萊伊地區的一個羚牛族定居點，所以我們要朝那個方向前進。
 scenario_travel_thecityofslate_start_1,好吧，這對我來說可是新東西…拿著火焰弓的亡靈？
 scenario_travel_thecityofslate_start_2,看起來它們的箭頭可能會爆炸。如果可以，請儘量分散開來。
 scenario_travel_thecityofslate_success,看來他們也會像其他不死族一樣化成灰。現在，讓我們看看考古學家們能給我們什麼獎勵吧！
@@ -8838,7 +8829,7 @@ thedepthsofdespair,絕望深淵
 thedome,圓頂地
 theeerieglade,詭異沼澤
 theenclave,飛地
-thehermitage,隱居地
+
 thehiddengarrison,隱蔽守衛
 thehole,崖洞
 thehole_descr,崖壁上的這個洞口似乎很安全，但在洞穴的後段是一個深的，完全圓形的洞。可以從下方深處聽到刮擦聲。如果你在這裡睡覺，最好保持警惕。
@@ -9004,7 +8995,6 @@ unlocktemple,解鎖寺廟
 unlocktrainer,解鎖教官
 v_sync_quality_every_second_v_blank,垂直行掃描每秒60幀
 v_sync_quality_every_v_blank, 垂直行掃描每秒30幀
-vaultsofpus,膿液墓穴
 venomstone,毒液石
 viciousjackal,惡豺
 villager,村民
@@ -9013,7 +9003,7 @@ warhawk,戰鷹
 warriorspirit,戰爭英靈
 
 wayward,向路鎮
-wayward_descr,作為許多冒險的起點，向路鎮是商人在Gloomhaven和惡魔閘口鎮之間旅行的中轉站。魔人族帝國的許多稀有香料和絲綢都經過這裡，給小鎮帶來了異國情調。
+wayward_descr,作為許多冒險的起點，向路鎮是商人在Gloomhaven和惡魔閘口鎮之間旅行的中轉站。瓦拉斯帝國的許多稀有香料和絲綢都經過這裡，給小鎮帶來了異國情調。
 wildspire,野尖塔
 wildspire_descr,高聳在林木間的是一座由舊木頭和樹枝製成的塔，搖搖欲墜的。它似乎是一個魔鼠建築。誰知道他們必須交易著什麼？
 windtotem,風圖騰
