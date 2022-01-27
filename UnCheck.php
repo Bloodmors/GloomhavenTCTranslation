@@ -45,11 +45,8 @@
 
 090_t,你的下一次在隱形<sprite name=Invisible></nobr>時的攻擊，翻倍攻擊值並獲得<sprite name=XP2>。
 
-
 097_t_1,每一個與目標相鄰的盟友使你獲得<nobr>+1攻擊力<sprite name=Attack>。</nobr>
 097_t_2,則獲得<nobr>+2攻擊力<sprite name=Attack>，</nobr><sprite name=XP1>
-
-098_t,附加+X攻擊力<sprite name=Attack>，其中X是目標護盾值的兩倍。
 
 100_t,當目標與<nobr>你的盟友</nobr>相鄰時，附加創傷<sprite name=Wound>並獲得<sprite name=XP1>。
 
@@ -741,7 +738,6 @@ adventure_achievement_1_2_killinoxshamans_2,死掉的羚牛才是好羚牛
 
 adventure_achievement_1_2_pierceshield,唐家霸王槍！
 adventure_achievement_1_2_pierceshield_desc,穿透30點護盾
-adventure_achievement_1_2_reachdemonspinehollow,新的章節在召喚你
 
 adventure_achievement_1_2_reachfordingbridge,魂斷藍橋
 
@@ -862,12 +858,6 @@ adventure_achievement_beasttyrant_2,動物語專家
 adventure_achievement_beasttyrant_2_desc,獸王使用30次召喚技能。
 adventure_achievement_beasttyrant_3,尖牙利爪
 adventure_achievement_beasttyrant_3_desc,獸王的戰熊夥伴造成100點傷害
-adventure_achievement_berserker_1,區區小傷，不足掛齒
-adventure_achievement_berserker_1_desc,狂戰士對她自己造成100點傷害
-adventure_achievement_berserker_2,重斧出擊
-adventure_achievement_berserker_2_desc,狂戰士使出20次造成6點以上傷害的攻擊
-adventure_achievement_berserker_3,有藥嗎？食物也成
-adventure_achievement_berserker_3_desc,狂戰士被治療200點生命值
 
 adventure_achievement_doomstalker_1,竊魂者
 adventure_achievement_doomstalker_1_desc,末日獵手秒殺10次滿血的敵人。
@@ -875,7 +865,6 @@ adventure_achievement_doomstalker_2,死亡之森
 adventure_achievement_doomstalker_2_desc,末日獵手為30個敵人帶來末日
 adventure_achievement_doomstalker_3,死亡陷阱地牢
 adventure_achievement_doomstalker_3_desc,末日獵手設置20個陷阱
-
 
 
 adventure_achievement_nightshroud_1,這是？臨死信息！
@@ -3064,7 +3053,7 @@ ftue_9.2,使用下方的“商人”按鈕以<color=#EACF8C>進入商人的店�
 ================================================================================================================================================
 #region item
 ================================================================================================================================================
-item_ancientdrill,在你進行近戰進攻時，對你的整個攻擊行動附加<nobr>+2進攻<sprite name=Attack></nobr>和<nobr>2穿透<sprite name=Pierce></nobr>。
+
 item_balancedblade,當你使用技能卡上半部分的預設行動時，將<nobr>“進攻<sprite name=Attack>2”</nobr>改為<nobr>“進攻<sprite name=Attack>4”</nobr>。
 item_battleaxe,在你對單個目標使用近戰進攻時，將攻擊改為執行以下步驟：
 item_blackcard_1,選擇一個相鄰的非精英或精英敵人。
@@ -3105,7 +3094,7 @@ item_frigidblade,在你進行近戰進攻時，<sprite name=ConsumeIce>並對你
 item_fueledfalchion,在你對單個目標使用近戰進攻時，該攻擊目標以及所有與其相鄰的敵人損失1點生命值。
 item_giantremotespider,在你的行動輪中，執行一次<nobr>“拾取<sprite name=Loot>1”</nobr> 。
 item_halberd,在你執行單一目標的近戰進攻行動時，你可以攻擊兩格以內的任意一個敵人。
-item_hawkhelm,當你進行遠程進攻時，對你的整個攻擊行動輪附加<nobr>+1射程<sprite name=Range></nobr>。
+
 item_heartofthebetrayer,在你的行動輪中，強迫一個<nobr>射程範圍<sprite name=Range> 3以內</nobr>的敵人執行一次<nobr>進攻<sprite name=Attack>+0</nobr>，<nobr>射程範圍<sprite name=Range>+0</nobr>行動，由你操控整個行動。
 
 item_heavybasinet,你免疫擊暈<sprite name=Stun>和混亂<sprite name=Muddle>
@@ -4738,12 +4727,12 @@ quest_story_quartermaster_3_desc,這個竊賊的足跡導向凱萊伊地區的�
 quest_story_quartermaster_3_intro,凱萊伊地區的南部定居點坐落在黯淡港灣的沙漠中，但它的木制建築和簡單的道路所代表的遠不止這些。粗糙、乾淨的下水道和路邊手工挖掘的運河一樣，如果你仔細聽，還能聽到潺潺的流水。羚牛族活動的範圍很廣，但當你正在尋找附近的“被詛咒的”洞穴的消息傳開時，當地人紛紛對你敬而遠之。最終，一個看上去很年邁的老羚牛族為你提供了簡單的指示。不久，你就在凱萊伊地區的郊區找到了洞口，一部分是靠著模糊的指示，另一部分是靠洞口周圍粘稠物的氣味。然而，洞穴的岩石上面似乎有圖案。再仔細一看，你會發現它的雕刻很有裝飾性。當你冒險進去時，你發現自己置身於一個令人驚訝的錯綜複雜的洞穴群中。空氣中充滿了腐朽的氣息——這些洞穴已經被遺棄了好一段時間了。爪子在石頭上的摩擦聲迫使你專注于前方的隧道，那裡充滿了…叢林小惡魔？在你對面的牆上是一扇華麗的門，兩側是成堆的屍骨和屍體，他們手裡還拿著守衛隊發放的裝備。你發誓你在門的那頭看見了樹…
 quest_story_quartermaster_3_list,下到被詛咒的凱萊伊地區洞穴
 quest_story_quartermaster_3_name,不在抱有幻想的
-quest_story_sawbones_1_desc,魔脊洞穴的鞋匠經常意外受傷，找出原因
-quest_story_sawbones_1_intro,再一次踏上了去魔脊洞穴路，你松了一口氣，發現月夜下的村莊十分寧靜。然而，一種沉重的、受傷的寂靜籠罩著這個小鎮，苦難的氛圍和一股你發誓你認得的微弱而令人不安的味道佐證了現狀。你們來到村鎮大廳，這裡已經成了一處臨時醫院。在裡面，許多鎮民們痛苦的在堅硬的床上打滾扭動。有些人的鞋帶系到一起，他們的頭上滿是綻裂的傷口；有些人失去了整個四肢，怪罪著他們的皮革剪刀。一個村民甚至雙腿骨折，腳被困在系的緊的不可思議的鞋子裡。你找到當地的醫生，他告訴你這些人在制鞋的時候嚴重受傷了。“我們經常能聽到外面的森林傳來誦經的聲音，”這個醫生告訴你們。“我只是認為這是一些村民在祈禱好運降臨。”你對這個老人搖了搖頭，備好了武器，向他詢問去森林的路。你打開了城市大廳的門，卻發現這門不可思議的輕。一個瘋狂的叢林小惡魔從門背後出現，飛了進來，你們能做的就是在和它們扭打出去，關上大廳的門，拿下這些噁心人的玩意。你認出了這股味道——小妖身軀散發的黑魔法的味道。現在在村鎮大廳外面，你可以聽見四周傳來的墮落妖精的歌聲...
-quest_story_sawbones_1_list,魔脊洞穴的奇怪傷害是什麼造成的?
+quest_story_sawbones_1_desc,惡魔脊柱空谷的鞋匠經常意外受傷，找出原因
+quest_story_sawbones_1_intro,再一次踏上了去惡魔脊柱空谷路，你松了一口氣，發現月夜下的村莊十分寧靜。然而，一種沉重的、受傷的寂靜籠罩著這個小鎮，苦難的氛圍和一股你發誓你認得的微弱而令人不安的味道佐證了現狀。你們來到村鎮大廳，這裡已經成了一處臨時醫院。在裡面，許多鎮民們痛苦的在堅硬的床上打滾扭動。有些人的鞋帶系到一起，他們的頭上滿是綻裂的傷口；有些人失去了整個四肢，怪罪著他們的皮革剪刀。一個村民甚至雙腿骨折，腳被困在系的緊的不可思議的鞋子裡。你找到當地的醫生，他告訴你這些人在制鞋的時候嚴重受傷了。“我們經常能聽到外面的森林傳來誦經的聲音，”這個醫生告訴你們。“我只是認為這是一些村民在祈禱好運降臨。”你對這個老人搖了搖頭，備好了武器，向他詢問去森林的路。你打開了城市大廳的門，卻發現這門不可思議的輕。一個瘋狂的叢林小惡魔從門背後出現，飛了進來，你們能做的就是在和它們扭打出去，關上大廳的門，拿下這些噁心人的玩意。你認出了這股味道——小妖身軀散發的黑魔法的味道。現在在村鎮大廳外面，你可以聽見四周傳來的墮落妖精的歌聲...
+quest_story_sawbones_1_list,惡魔脊柱空谷的奇怪傷害是什麼造成的?
 	quest_story_sawbones_1_name,將會出現意外
 
-quest_story_sawbones_2_desc,魔脊洞穴的邪教徒日記裡提到在黑石瘋人院有一個更強大的儀式，阻止它
+quest_story_sawbones_2_desc,惡魔脊柱空谷的邪教徒日記裡提到在黑石瘋人院有一個更強大的儀式，阻止它
 quest_story_sawbones_2_intro,你的黑石瘋人院之旅一切順利。你為途中未經地震而感欣慰。相反，一座高大雄偉的建築了出現在遠處，在你到來之前，依偎在群山之邊已有許久歲月。當你抵達時，兩名老僧尼精神矍鑠地向你打招呼。“繪畫班，”當你詢問他們是否看到過奇異之事時，其中一名尼姑回應到。“提起這事，他們只是隨身帶了些紅色顏料”僧尼領你去看看繪畫班，當你們抵達時，你發現房間裡有一群人類邪教徒和羚牛族戰士，房間的牆上繪滿了血色符號。一名邪教徒注意到你，然後呵呵一笑。“你想加入我們嗎，雇傭兵？”僧尼讓你入內。隨即身後的門扉關閉。“在此能和你的朋友們相逢，真替你高興。”僧尼們離開時對你如此說道。“不久，我將會讓你出來。”僧尼們一離開聽力範圍，邪教徒們就抄起了他們的武器。“歡迎參加派對。”其中一人怒吼道。
 quest_story_sawbones_2_list,停止黑石瘋人院裡的儀式
 quest_story_sawbones_2_name,監獄繪畫派對
@@ -4857,8 +4846,8 @@ quest_travel_crystalhollow_desc,這裡就是河流的源頭，找到是什麼污
 quest_travel_crystalhollow_intro,當你沿著古老的山路跋涉到水晶塔洞時，你會驚訝地發現，乾燥的高溫很快就變成了冷冽的寒風。這塊土地的主要水源之一，許多神奇的傳說和惡作劇都圍繞著這座古老的洞穴發生，傳說有個花晶族人曾在這裡夜以繼日的冥想，最終她身上的晶體成為冰，覆蓋住了她的身體。這些冰在她歸為塵土之後依然存在。故事裡提到她的魔法就保存在這片冰中，為她發誓要保護的所有人創造了源源不斷的水源。但當你進入洞穴時沒有感覺到任何魔法的氣息。融化的冰覆蓋著每一個表面，甚至流水的聲音似乎都是“錯誤的”。你把你的武器和火把握得更緊了些，準備冒險進去摧毀腐化…
 quest_travel_crystalhollow_list,摧毀腐化的源頭
 quest_travel_crystalhollow_name,不眠洞窟
-quest_travel_demonspinehollow_desc,已經好幾個月沒人見到有人從魔脊洞穴出來了，從那片森林裡傳來的唯一的消息就是妖精們把村民嚇得目瞪口呆。
-quest_travel_demonspinehollow_intro,當你朝東南方向穿過荒蕪地帶時，話題聊到了那些你聽過的關於魔脊洞穴的故事，妖精和小妖詛咒旅行者和迷惑他們的牲畜的傳說，這一切聽起來遙不可及！當到達森林邊緣時，你產生了一種奇怪的感覺。這裡的色彩好像更加鮮豔，你還能聽到翅膀拍打的聲音。當然，這些只是你的想像…
+quest_travel_demonspinehollow_desc,已經好幾個月沒人見到有人從惡魔脊柱空谷出來了，從那片森林裡傳來的唯一的消息就是妖精們把村民嚇得目瞪口呆。
+quest_travel_demonspinehollow_intro,當你朝東南方向穿過荒蕪地帶時，話題聊到了那些你聽過的關於惡魔脊柱空谷的故事，妖精和小妖詛咒旅行者和迷惑他們的牲畜的傳說，這一切聽起來遙不可及！當到達森林邊緣時，你產生了一種奇怪的感覺。這裡的色彩好像更加鮮豔，你還能聽到翅膀拍打的聲音。當然，這些只是你的想像…
 quest_travel_demonspinehollow_list,詢問老婦人關於森林裡的神奇生物的傳說
 quest_travel_demonspinehollow_name,童話故事
 quest_travel_drakefirefarm_desc,龍火地附近的貿易已經停止了，那裡的莊稼死亡，牲畜患病。附近森林的一片區域已經被確認為是腐化的源頭。解決這個問題應該可以重啟龍火地的貿易。
@@ -4987,11 +4976,6 @@ quest_travel_sweetwater_intro,你只從遊客和鎮上的人那裡聽說過甜�
 quest_travel_sweetwater_list,調查甜水地的下水道
 quest_travel_sweetwater_name,又甜又膩
 
-
-quest_travel_thebarrencoast_desc,海岸森林的北部全是原始的羚牛族部落。抄近路前往西海岸的貿易中心。
-quest_travel_thebarrencoast_intro,你們從神廟出發，一路上景色從沙漠變成了灌木叢，接著你就到了西部森林的邊緣。一開始，你很高興擺脫了炙熱的太陽，但當叢林中的陰影似乎從四面八方隱現時，你剛放下的心又懸了起來。沒過多久路上就出現了沾有血跡的粗糙記號。準備接敵！
-quest_travel_thebarrencoast_list,殺出一條穿過森林的血路
-quest_travel_thebarrencoast_name,海岸大道
 quest_travel_theburiedtrenches_desc,有什麼東西正在污染這地方的水，把它找出來。
 quest_travel_theburiedtrenches_intro,為了找到甜水地的腐化的源頭，你冒險來到了南部沙漠。它的沙丘雜亂無章、無窮無盡、咄咄逼人，在你面前，就像被你汗水浸濕的衣服一樣，使你感到身上的裝備好像更沉重了些。雖然看起來沒什麼特色，但沙子所覆蓋著的神秘的地下水庫，一年四季為附近所有的定居點提供水源，包含甜水地在內。這些水庫是一個曾盛極一時的文明留下的，但現在只剩地面上的廢墟還在講述它們的故事。當你接近入口並爬下水溝時，空氣突然變得寒冷。你很快就發現自己在黑暗的石頭走廊裡渴望著火把的溫暖光芒——但當你點燃火把時，你又不渴望了…
 quest_travel_theburiedtrenches_list,追蹤腐化的源頭
@@ -6008,7 +5992,7 @@ decayingsepulcher,腐朽墳墓
 decayingtombs,腐朽陵墓
 
 demonsgate_descr,該地區的核心城鎮，惡魔閘口的城牆在與瓦拉斯的戰爭中堅守。許多人在戰爭中來到這裡避難，他們的家人從未離開。一個為你的旅行尋找裝備的好地方，但需要為此付費。
-demonspinehollow,魔脊洞穴
+
 demonspinehollow_descr,被石化的森林的這一區域被認為會因看到惡魔、小鬼甚至無頭騎士而受到詛咒。 它看起來足夠安全，但也許它聞起來不太對。
 demonsummonaltar,死靈祭壇
 denoffiends,惡魔巢穴
@@ -6219,7 +6203,7 @@ gui_assemble_party_new_character_desc,"一個新的雇傭兵已被添加到名�
 點擊高亮的雇傭兵標誌來揭曉新的角色！"
 gui_assembly_error_quest_min_heroe,這個任務必需要<color=#C53F3F>一個雇傭兵</color>才能開始
 gui_assembly_error_quest_min_heroes,任務至少需要<color=#C53F3F> {0} 個雇傭兵 </color>才能開始
-gui_assembly_error_quest_required_heroes,{0} 必須在玩家團隊中
+
 gui_assembly_error_quest_required_items,此任務要求{0}物品的所有者裝備該物品並在玩家團隊，才能開始
 gui_assembly_error_quest_required_level_heroe,{0} 必須至少 {1} 級
 gui_assembly_error_quest_required_personal_quest,開始這個任務要求團隊中包含個人任務 {0} 的所有者
@@ -6850,23 +6834,6 @@ gui_tooltip_not_enough_targets_selected,沒有選擇足夠的目標
 gui_tooltip_player_starting_placement,雇傭兵數量必須在入口房間之間均勻分配。
 gui_tooltip_player_starting_placement_companion_summons,必須放置{0}一遍有一個相鄰的空格子來召喚他們的夥伴。
 
-gui_tooltip_remove_conditions,移除自己的所有負面狀態。
-gui_tooltip_select_destroy_obstacle,選擇要摧毀的一個障礙。
-gui_tooltip_select_destroy_obstacles,選擇要摧毀的幾個障礙。
-gui_tooltip_select_discard_card,選擇要棄置的一張技能卡。
-gui_tooltip_select_discard_card_title,棄置一張牌。
-gui_tooltip_select_discard_cards,選擇要棄置的{0}張技能卡。
-gui_tooltip_select_discard_cards_title,棄置{0}張卡。
-gui_tooltip_select_lose_card,選擇燒祭1張技能卡。
-gui_tooltip_select_lose_cards,選擇燒祭{0}張技能卡。
-gui_tooltip_select_recover_card,選擇回手1張棄牌堆的卡牌。
-gui_tooltip_select_recover_cards,選擇回手{0}張棄牌堆的卡牌。
-gui_tooltip_select_recover_discarded_card,選擇回手1張棄牌堆的卡牌。
-gui_tooltip_select_recover_discarded_cards,選擇回手{0}張棄牌堆的卡牌。
-gui_tooltip_select_recover_increase_card,選擇1張卡添加到可用卡牌。
-gui_tooltip_select_recover_lost_card,選擇回手1張被燒祭的卡。
-gui_tooltip_select_recover_lost_cards,選擇回手{0}張被燒祭的卡。
-
 gui_tooltip_shields,護甲：一個帶護甲的角色減少X點所受到的攻擊。護甲值可以疊加。護甲僅適用於技能卡的“攻擊”傷害，不會阻止其他形式的傷害。
 
 gui_tooltip_single_target,選擇一個單體目標。
@@ -7076,7 +7043,7 @@ message_complete_achievement_1_1_quartermasterreachlevel2_2,他們搶了多少�
 message_complete_achievement_1_1_quartermasterreachlevel2_3,基本搶完了，足夠武裝一小只軍隊...軍需官已經受惡魔閘口鎮的委託前來調查，
 message_complete_achievement_1_1_quartermasterreachlevel2_4,我們直接往那走，但金庫的守衛已經被殺乾淨了——而且那些賊還偷了金庫的鑰匙。
 message_complete_achievement_1_1_quartermasterreachlevel2_5,我聽說低鎮有金庫的備用鑰匙。我們可以去那。
-message_complete_achievement_1_1_sawbonesreachlevel2_1,我聽說魔脊洞穴的鞋匠一家的店裡最近發生了很多怪事。
+message_complete_achievement_1_1_sawbonesreachlevel2_1,我聽說惡魔脊柱空谷的鞋匠一家的店裡最近發生了很多怪事。
 message_complete_achievement_1_1_sawbonesreachlevel2_2,雖然有些奇怪，但這仍足夠讓我懷疑是魔法戲法。
 message_complete_achievement_1_1_sawbonesreachlevel2_3,鋸骨醫者已經跟我說過了。他問我們能不能調查一下——無償的那種，因為這是他作為巨橡的治療者的神聖職責。
 message_complete_achievement_1_1_sawbonesreachlevel2_4,你同意了！？你肯定同意了。好吧，對我來說，一旦人們對你心存感激，敲詐他們的積蓄總是更容易些。我們走吧。
@@ -7228,7 +7195,7 @@ message_end_quest_story_quartermaster_3_2,這個神器同樣耐人尋味。這�
 message_end_quest_story_quartermaster_3_3,寫著：“死亡的愉悅隨著脖子折斷而開始。來吧，讓你的身體為我所用吧。”
 message_end_quest_story_quartermaster_3_4,不管我還是軍需官都對此一無所知。我們需要解決這個問題再去通......呃，在去找到庫存以前。這可能會指引我們找到偷我們東西的小偷。
 message_end_quest_story_sawbones_1_1,在女巫神奇地去除了她能去掉的所有血液之後，我終於見到了邪教徒的書的真面目。看起來這實際上是一本日記。
-message_end_quest_story_sawbones_1_2,什麼東西？意思是她怒氣衝天地詛咒了小鎮，只因為他前任是魔脊洞穴來的？
+message_end_quest_story_sawbones_1_2,什麼東西？意思是她怒氣衝天地詛咒了小鎮，只因為他前任是惡魔脊柱空谷來的？
 message_end_quest_story_sawbones_1_3,挺接近了。實際上，當地的一個鞋匠毀掉了她最心愛的靴子。但當地受到的詛咒其實只是副作用。如果日記是可信的，這個儀式是一個強化咒語，針對的是在黑石瘋人院內發生的更邪惡的事情。
 message_end_quest_story_sawbones_1_4,太好了。所以我們不管拯救什麼小鎮，最後都會以直達監獄告終。
 message_end_quest_story_sawbones_2_1,好吧，這確實很奇怪。傭兵的獻祭自盡肯定跟我們以前見過的不一樣。
@@ -7296,7 +7263,7 @@ message_end_quest_travel_amberhill_3,他們給了我一雙很棒的速度之靴�
 message_end_quest_travel_crystalhollow_1,我一直在暢想我能夠在水晶塔洞裡發現的富饒寶藏——那可是傳說中的洞穴啊！
 message_end_quest_travel_crystalhollow_2,這不好。他們大部分只是普通的蘑菇，根本不是魔法品種。
 message_end_quest_travel_crystalhollow_3,但是，在和蜘蛛的戰鬥中我被絆倒了，剛好發現了一個埋了一半的戰戟。它看起來很有力量感，正在我的商店裡出售。
-message_end_quest_travel_demonspinehollow_1,我過去一直認為小妖神話是一堆廢話，但顯然那是魔脊洞穴身名在外的原因。是石匠，不是小妖。來看看商店裡的新靴子吧
+message_end_quest_travel_demonspinehollow_1,我過去一直認為小妖神話是一堆廢話，但顯然那是惡魔脊柱空谷身名在外的原因。是石匠，不是小妖。來看看商店裡的新靴子吧
 message_end_quest_travel_drakefirefarm_1,龍火地的農民拿取了附近奇特植物的孢子做了一些粉末炸彈。
 message_end_quest_travel_drakefirefarm_2,我並沒有親自使用過，但他們似乎...威力很大。我相信你會愛上它的。
 message_end_quest_travel_eaglecrest_1,我今天收到了來自鷹山頂一個機匠工坊的包裹，明顯是羚牛族付款寄給我們的光學瞄準鏡。
@@ -7373,7 +7340,6 @@ message_end_quest_travel_sweetwater_1,幸運的是甜水地並不是完全由下
 message_end_quest_travel_sweetwater_2,我竟然在灌木叢中找到了一個堅固的頭盔。雖然它有一股比邪教徒的桌子還臭的味道，但我還是把它帶上了。
 message_end_quest_travel_sweetwater_3,很明顯這頭盔以前物有所主，但那個妹子追我時滑倒在一攤污水中，所以這算得上是幸運頭盔 。有機會就來我的商店看看它吧。
 
-message_end_quest_travel_thebarrencoast_1,我們現在和沿海的貿易商人有了聯繫，代表我們可以拿到海外的貨品了。有個炫酷的帶翼頭盔你可能感興趣，來看看吧！
 message_end_quest_travel_theburiedtrenches_1,古代文明的廢墟難道只是沒有了怪物嘛？當然我在你離開後又回去了，你得慶幸我這麼做了。
 message_end_quest_travel_theburiedtrenches_2,我在水庫附近發現了一對脛甲，把它從奇怪的黏液裡拖出來了。
 message_end_quest_travel_theburiedtrenches_3,他們比看起來的要...重！但也保養的很好。重就等於結實耐用，不是嗎？有機會就來看看。
@@ -7472,7 +7438,7 @@ message_start_quest_travel_shimmeringshallows_1,我們已經有了軍隊和武�
 message_start_quest_travel_shimmeringshallows_2,從地面發起攻擊簡直是癡人說夢。我們需要走海路接近他們。
 message_start_quest_travel_shimmeringshallows_3,讓我們奪下螢光海灘，這是理事會並不希望看到的情形。
 message_unlock_beasttyrant_1,似乎是學習了能援助你盟友的技能讓獸王加入公會！
-message_unlock_berserker_1,你對痛苦的熱愛將狂戰士吸引到了我們的公會！
+
 message_unlock_doomstalker_1,你對陷阱的靈敏運用將末日獵手吸引到了我們的公會！
 message_unlock_nightshroud_1,你對暗元素的運用將夜引者吸引到了我們的公會！
 message_unlock_plagueherald_1,你創造的毒藥量將瘟疫使者吸引到了我們的公會！
@@ -8468,10 +8434,9 @@ scenario_travel_mudview_success_1,在這只巢靈族被殺掉後，它的身體�
 scenario_travel_mudview_success_2,我沒在這麼深入人類領地的地方見過多少巢靈族...
 scenario_travel_mudview_success_3,它似乎在為那個狡猾的議會工作…我是說那些腐敗的政客。
 scenario_travel_mudview_success_4,不管它在這裡做什麼，它都把市長嚇得不清，甚至為我們攻擊奇波特港提供補給和安全路線。
-scenario_travel_nasitra_sm1_desc,所有敵人開始時處於繳械狀態
-scenario_travel_nasitra_start_1,看起來你出其不意地襲擊了這支弓箭手隊伍，在他們重新集結之前盡可能多造成點傷害。
-scenario_travel_nasitra_start_2,你得殺死足夠多的人才能突圍。沖啊！
-scenario_travel_nasitra_success,呼，這可真是場惡戰，但對敵人橋的圍攻已經被成功化解了。我們就快到海岸了！
+
+
+
 scenario_travel_nomadcamp_start_1,我可不認為你有什麼辦法能讓我離潛伏者不到十英尺，更不用說和一個...
 scenario_travel_nomadcamp_start_2,羚牛族和潛伏者鬼混在一起？這可有夠令人擔憂。
 scenario_travel_nomadcamp_start_3,好吧，我想我們應該拯救這些遊民，這樣他們就可以付錢給你 —— 呃，我是說幫助我們解開這個謎團！
@@ -8584,9 +8549,6 @@ scenario_travel_sweetwater_success_1,隨著生物的死亡，腐化消散了，�
 scenario_travel_sweetwater_success_2,我認為這種腐化的根源在更深的地方。洗一洗，我們得進一步調查。
 scenario_travel_sweetwater_success_3,不管這種腐化是什麼，我都不會再靠近下水道了。
 
-scenario_travel_thebarrencoast_start_1,不出所料，灌木叢中沖出幾隻怒氣衝衝的羚牛族人。你試著和他們溝通，但無濟於事。他們做好了攻擊準備。
-scenario_travel_thebarrencoast_start_2,看來我的一些沒那麼有教養的表親要來找你的麻煩了。把羚牛族當作大號的憤怒的人類就好——他們並不太難被放倒，除非他們帶著他們的薩滿一起。
-scenario_travel_thebarrencoast_success,在這個部落被擊敗後，就沒有什麼東西攔在你離開森林的道路上了。你繼續出發前往荒蕪海岸。
 scenario_travel_theburiedtrenches_room_3_1,這看起來和我們在甜水地那發現的腐化一樣，但它似乎不是腐化的源頭。
 scenario_travel_theburiedtrenches_room_3_2,它和甜水地的腐化一樣臭。你覺得這些生物會穿越腐化嗎？
 scenario_travel_theburiedtrenches_room_3_3,也許吧...但它們肯定是有聯繫的。完成水庫清理工作後，我們將進行進一步調查。

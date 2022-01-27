@@ -914,7 +914,7 @@ adventure_achievement_1_2_killinoxshamans_2,Dienox
 adventure_achievement_1_2_killinoxshamans_2_desc,Kill 100 Inox Shamans
 adventure_achievement_1_2_moveamount,Move Mastery
 adventure_achievement_1_2_moveamount_desc,Move 300 Hexes
-adventure_achievement_1_2_pierceshield,Stick 'em with the pointy end
+adventure_achievement_1_2_pierceshield,
 adventure_achievement_1_2_pierceshield_desc,Pierce 30 points of Shield
 adventure_achievement_1_2_reachdemonspinehollow,A New Chapter Awaits
 adventure_achievement_1_2_reachdemonspinehollow_desc,Reach Low Town
@@ -1052,13 +1052,7 @@ adventure_achievement_beasttyrant_2,If I could Talk to the Animals
 adventure_achievement_beasttyrant_2_desc,The Beast Tyrant uses a Summon Ability 30 times
 adventure_achievement_beasttyrant_3,Red in Tooth and Claw
 adventure_achievement_beasttyrant_3_desc,The Beast Tyrant's Bear does 100 Damage
-adventure_achievement_berserker_1,Just a Flesh Wound
-adventure_achievement_berserker_1_desc,The Berserker deals herself 100 damage
-adventure_achievement_berserker_2,Hard Hitter
-adventure_achievement_berserker_2_desc,The Berserker performs 20 attacks that deal 6+ Damage
-adventure_achievement_berserker_3,"Do you have any potions, or food?"
-adventure_achievement_berserker_3_desc,The Berserker is healed for 200 Health
-　
+
 adventure_achievement_cragheart_1,Earth Elemental
 adventure_achievement_cragheart_1_desc,The Cragheart Consumes 40 Earth Elements
 adventure_achievement_cragheart_2,Rock Star
@@ -5526,8 +5520,7 @@ gui_party_size,{0} Heroes
 gui_partygold,Gold coins owned by the party.
 gui_partygold_tooltip,"Gold coins owned by the party.
 Total: {0}"
-gui_partylevel,"<size=+4><color=#F1DBAE>Party Level</color></color></size>
-This is calculated by taking the average character level in the party, dividing by 2 and rounding up. This is then used to determine the level of enemies, the damage of traps and the value of loot in the Scenario."
+
 gui_partyprosperity,Gloomhaven Wealth
 gui_partyprosperity_tooltip,"<size=+4><color=#F1DBAE>Gloomhaven Wealth - Level {0}</color></color></size>
 Gloomhaven's Wealth unlocks new items in the Merchant's shop and allows you to create new characters with a level equal to or lower than the current Gloomhaven Wealth Level.
@@ -6038,7 +6031,7 @@ item_minorhealingpotion,"During your turn, perform a <nobr>""Heal <sprite name=H
 item_minormanapotion,"During your turn, create any element."
 item_minorpowerpotion,"During your attack, add <nobr>+1 Attack <sprite name=Attack></nobr> to your entire Attack action."
 item_minorstaminapotion,"During your turn, <nobr>Recover <sprite name=Recover></nobr> up to one of your discarded cards."
-item_moonearring,"During your turn, <nobr>Refresh <sprite name=Refresh></nobr> all of your spent items."
+
 item_mountainhammer,Item_MountainHammer PLACEHOLDER
 item_mountainhammer_1,Summon Warrior Spirit
 item_mountainhammer_2,HP: 4 Move: 1
@@ -6463,9 +6456,8 @@ message_complete_achievement_1_2_reachfordingbridge_3,"Apparently they have a pr
 message_complete_achievement_1_2_reachthesloshedsquirrel_1,I was.. doing some 'important business' in The Sloshed Squirrel and I heard some worrying news from the patrons.
 message_complete_achievement_1_2_reachthesloshedsquirrel_2,"It seems travellers to Amberhill have been going missing, and the whole town is in lockdown."
 message_complete_achievement_1_2_reachthesloshedsquirrel_3,"Probably worth our while going to check it out and see if we can help or err, make some money?"
-message_complete_achievement_1_2_unlocklocations_1,We've reached the coast! That's the first part of the realm reconnected.
-message_complete_achievement_1_2_unlocklocations_2,I've also been contacted by some outposts in the Eastern forest. We should start to look there for work too.
-message_complete_achievement_1_2_unlocklocations_3,I'll add that to the next set of Achievements to attain!
+
+
 message_complete_achievement_1_3_unlocklocations_1,"We're a good way through the forest now, and I've had more contacts come in, this time, from the Badlands to the north."
 message_complete_achievement_1_3_unlocklocations_2,"Beware though, I've heard rumours of Drakes and Demons. It's not a place for the faint of heart!"
 message_complete_achievement_1_4_unlocklocations_1,"The Badlands is well explored now, and we are starting to receive messages from the Great Forest even further north."
@@ -9451,10 +9443,6 @@ quest_travel_sweetwater_list,Investigate Sweetwater’s Sewers
 quest_travel_sweetwater_name,Sickly Sweet
 
 
-quest_travel_thebarrencoast_desc,The northern section of the coastal forest is teeming with feral Inox Tribes. Cut through to join up with the trade hub on the western shore.
-quest_travel_thebarrencoast_intro,"The walk from the Temple changes from desert to scrubland, and then you reach the edge of the western forest. Initially glad to be out of the sun’s baking heat, your relief changes to worry when the gloomy jungle seems to loom in from all sides. Soon the path passes by crude signs daubed with blood. You prepare yourself for visitors!"
-quest_travel_thebarrencoast_list,Carve a route through the forest
-quest_travel_thebarrencoast_name,The Coast Road
 quest_travel_theburiedtrenches_desc,"Something is polluting the region’s water, find it."
 quest_travel_theburiedtrenches_intro,"Hoping to confront the source of the Rot in Sweetwater, you have ventured to the southern desert. Its dunes sprawl, endless and overbearing, before you as your sweat-soaked clothes makes your gear feel even heavier. Though it appears featureless, the sands cover mysterious underground reservoirs, which provide water in all seasons for all nearby settlements, Sweetwater included. These reservoirs were left by a once-great civilisation, but only the ruins above ground tell their story. As you approach the entrance and climb down into the Trenches themselves, the air cools dramatically. You soon find yourself craving a torch’s warm glow in the dark stone corridor — but once your torch is lit, you wish it wasn’t..."
 quest_travel_theburiedtrenches_list,Track the source of the Rot
@@ -11499,9 +11487,8 @@ scenario_travel_mudview_success_2,I haven’t seen many Harrowers this deep in h
 scenario_travel_mudview_success_3,It seemed to be working for that dodgy council… talk about corrupted politicians.
 scenario_travel_mudview_success_4,"Whatever it was doing here, it spooked the mayor into providing supplies and safe routes to help us attack Keyport."
 scenario_travel_nasitra_sm1_desc,All Enemies start Disarmed
-scenario_travel_nasitra_start_1,"Looks like you’ve taken this detachment of archers by surprise, do as much damage as you can before they regroup."
-scenario_travel_nasitra_start_2,You’ll need to kill enough of them to break the siege. Charge!!
-scenario_travel_nasitra_success,"Phew, that was a major battle, but the siege on the Bridge is now lifted. We’re almost at the coast!"
+
+but the siege on the Bridge is now lifted. We’re almost at the coast!"
 scenario_travel_nomadcamp_start_1,"I don’t think there’s anything you could do to get me within ten feet of a Lurker, let alone work with one..."
 scenario_travel_nomadcamp_start_2,Inox and Lurkers working together? This is worrying.
 scenario_travel_nomadcamp_start_3,"Well, I suppose we should save these nomads so they can pay u— er, help us solve this mystery of course!"
