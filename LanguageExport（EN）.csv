@@ -39,7 +39,7 @@ Key,English [en-GB]
 069_t_1,"On your next four attacks, <nobr>add +*TActive* Attack <sprite name=Attack>.</nobr>"
 069_t_1_alt,"On your next four attacks, <nobr>add +2 Attack <sprite name=Attack>.</nobr>"
 069_t_2,Add +2 Attack <sprite name=Attack> instead.
-071_t,Summon Mystic Ally
+071_t,
 076_b_1,where X is half of that ally's maximum hit point value <nobr>(rounded down).</nobr>
 076_b_2,X is that ally's maximum hit point value instead.
 079_b,"On the next five melee attacks targeting you, gain <nobr>Retaliate <sprite name=Retaliate> *BRetaliate*.</nobr>"
@@ -53,7 +53,7 @@ Key,English [en-GB]
 086_b_2,Target all enemies within <nobr>Range <sprite name=Range> 4</nobr> of the chosen hex and pull them toward it
 087_t_1,Target all enemies in the same room as you
 087_t_2,All allies in the same room as you suffer 2 damage.
-088_b,"On your next four attacks targeting enemies adjacent to none of their allies, add <nobr>+2 Attack <sprite name=Attack>.</nobr>"
+four attacks targeting enemies adjacent to none of their allies, add <nobr>+2 Attack <sprite name=Attack>.</nobr>"
 088_t,Add <nobr>+2 Attack <sprite name=Attack></nobr> and gain <sprite name=XP1> when the target is adjacent to any <nobr>of your allies.</nobr>
 090_t,"On your next attack while <nobr>INVISIBLE <sprite name=Invisible></nobr>, double the value of the attack and gain <sprite name=XP2>."
 091_t,Add <nobr>+2 Attack <sprite name=Attack></nobr> and gain <sprite name=XP1> when the target is adjacent to none of its allies.
@@ -90,9 +90,11 @@ Key,English [en-GB]
 124_b_1,All adjacent allies and enemies suffer <nobr>*BDamage1* damage</nobr>.
 124_b_2,All adjacent allies and enemies suffer <nobr>*BDamage2* damage</nobr>.
 124_b_3,"<nobr>2 damage instead, <sprite name=XP1></nobr>"
-125_t,<nobr>MUDDLE <sprite name=Muddle></nobr> all allies and enemies in the targeted area.
+
 127_b,Add +1 Attack <sprite name=Attack> to all of your ranged attacks this round.
-127_t,"You may push the target into hexes containing obstacles. In each case, destroy the obstacle, the target suffers 2 damage, and you gain <sprite name=XP1>."
+
+the obstacle, the target suffers 2 damage, and you gain <sprite name=XP1>."
+
 128_b,Add +2 Attack <sprite name=Attack> to all of your melee attacks this round.
 129_b,"On your next six ranged Attack actions while <nobr>Air <sprite name=Air></nobr> is currently infused, consume <nobr>Air <sprite name=ConsumeAir></nobr> to add <nobr>+2 Range <sprite name=Range></nobr> to the entire Attack action."
 130_t,Target all enemies adjacent to the destroyed obstacle
@@ -896,22 +898,8 @@ adventure_achievement_1_2_inflictpoison,Poison Mastery
 adventure_achievement_1_2_inflictpoison_desc,Inflict Poison 20 times
 adventure_achievement_1_2_inflictwound,Wound Mastery
 adventure_achievement_1_2_inflictwound_desc,Inflict Wound 20 times
-adventure_achievement_1_2_killgiantvipers_1,"Snakes, why did it have to be snakes?"
-adventure_achievement_1_2_killgiantvipers_1_desc,Kill 20 Giant Vipers
-adventure_achievement_1_2_killgiantvipers_2,Asps... Very dangerous... You go first.
-adventure_achievement_1_2_killgiantvipers_2_desc,Kill 200 Giant Vipers
-adventure_achievement_1_2_killinoxarchers_1,Bullseye!
-adventure_achievement_1_2_killinoxarchers_1_desc,Kill 10 Inox Archers
-adventure_achievement_1_2_killinoxarchers_2,One Hundred and Eighty! (Minus 80)
-adventure_achievement_1_2_killinoxarchers_2_desc,Kill 100 Inox Archers
-adventure_achievement_1_2_killinoxguards_1,En Garde
-adventure_achievement_1_2_killinoxguards_1_desc,Kill 10 Inox Guards
-adventure_achievement_1_2_killinoxguards_2,Lock Horns
-adventure_achievement_1_2_killinoxguards_2_desc,Kill 100 Inox Guards
-adventure_achievement_1_2_killinoxshamans_1,Which Doctor?
-adventure_achievement_1_2_killinoxshamans_1_desc,Kill 10 Inox Shamans
-adventure_achievement_1_2_killinoxshamans_2,Dienox
-adventure_achievement_1_2_killinoxshamans_2_desc,Kill 100 Inox Shamans
+
+
 adventure_achievement_1_2_moveamount,Move Mastery
 adventure_achievement_1_2_moveamount_desc,Move 300 Hexes
 adventure_achievement_1_2_pierceshield,
@@ -928,21 +916,20 @@ adventure_achievement_1_2_usebless,Bless Mastery
 adventure_achievement_1_2_usebless_desc,Use Bless 20 times
 adventure_achievement_1_2_usestrengthen,Strength Mastery
 adventure_achievement_1_2_usestrengthen_desc,Use Strengthen 20 times
-adventure_achievement_1_3_disarmtrap,It's a trap!
+
 adventure_achievement_1_3_disarmtrap_desc,Disarm 20 traps
 adventure_achievement_1_3_killforestimps_1,Imp-aled
 adventure_achievement_1_3_killforestimps_1_desc,Kill 20 Forest Imps
 adventure_achievement_1_3_killforestimps_2,Imp-losion
 adventure_achievement_1_3_killforestimps_2_desc,Kill 200 Forest Imps
-adventure_achievement_1_3_unlocklocations,The Badlands
+adventure_achievement_1_3_unlocklocations,
 adventure_achievement_1_3_unlocklocations_desc,Reach The Hermitage
 adventure_achievement_1_4_killcavebears_1,Gentle Ben
 adventure_achievement_1_4_killcavebears_1_desc,Kill 10 Cave Bears
 adventure_achievement_1_4_killcavebears_2,Grizzly Adams
 adventure_achievement_1_4_killcavebears_2_desc,Kill 50 Cave Bears
-adventure_achievement_1_4_killnightdemons_1,Lightmare
-adventure_achievement_1_4_killnightdemons_1_desc,Kill 10 Night Demons
-adventure_achievement_1_4_killnightdemons_2,Lightbringer
+
+
 adventure_achievement_1_4_killnightdemons_2_desc,Kill 75 Night Demons
 adventure_achievement_1_4_killrendingdrakes_1,Clever Girls
 adventure_achievement_1_4_killrendingdrakes_1_desc,Kill 10 Rending Drakes
@@ -960,18 +947,14 @@ adventure_achievement_1_4_unlocklocations,The Great Wild
 adventure_achievement_1_4_unlocklocations_desc,Reach Eaglecrest
 adventure_achievement_1_5_killnightdemonlight,Champion of Dawn
 adventure_achievement_1_5_killnightdemonlight_desc,Kill 20 Night Demons while Light is Infused
-adventure_achievement_1_5_killstonegolems_1,Sledgehammer
-adventure_achievement_1_5_killstonegolems_1_desc,Kill 10 Stone Golems
-adventure_achievement_1_5_killstonegolems_2,Bulldozer
-adventure_achievement_1_5_killstonegolems_2_desc,Kill 50 Stone Golems
+
 adventure_achievement_1_5_killsundemondark,Champion of Twilight
 adventure_achievement_1_5_killsundemondark_desc,Kill 20 Sun Demons while Dark is Infused
-adventure_achievement_1_5_trapkills,Walk this way
+dventure_achievement_1_5_trapkills,Walk this way
 adventure_achievement_1_5_trapkills_desc,Kill 20 Enemies with Traps
 adventure_achievement_1_5_unlocklocations,Journey there and back again
 adventure_achievement_1_5_unlocklocations_desc,Reach Wildspire
-adventure_achievement_2_1_healpoisonwound,I'm not dead yet!
-adventure_achievement_2_1_healpoisonwound_desc,Heal Poison or Wound 40 times
+
 adventure_achievement_2_1_infuseelements,Elementary
 adventure_achievement_2_1_infuseelements_desc,Infuse 100 Elements
 adventure_achievement_2_1_killearthdemons_1,Miner Inconvenience
@@ -6715,7 +6698,7 @@ message_end_quest_travel_bloodford_2,"We should get other trade route requests i
 message_end_quest_travel_crystalhollow_1,I’ve always imagined the riches I would find inside the Crystal Hollow.. the cave of legends!
 message_end_quest_travel_crystalhollow_2,"It wasn’t great. Most of it was just mushrooms, and not even the magic kind."
 message_end_quest_travel_crystalhollow_3,"But, a fight with a spider led me to fall o— er, discover a half-buried halberd. It seems pretty hefty, and it’s in my store."
-message_end_quest_travel_demonspinehollow_1,"I always thought tales of Imps were a load of cobblers, but apparently that’s what Demonspine Hollow is known for. Cobblers that is, not Imps, Come have a look at the new Boots in stock."
+
 message_end_quest_travel_drakefirefarm_1,The farmers of Drake Fire Farm have taken the spores of some of the strange plants nearby and made some powder bombs.
 message_end_quest_travel_drakefirefarm_2,"I’ve not tried them myself, but they seem… unpleasant. I’m sure you’ll love them."
 message_end_quest_travel_eaglecrest_1,"I received a parcel from Eaglecrest today, from one of the Tinkerer shops there. Apparently a group of Inox paid to ship us a Telescopic Sight."
@@ -9304,10 +9287,7 @@ quest_travel_crystalhollow_desc,"This is the river’s source, find what is poll
 quest_travel_crystalhollow_intro,"It’s surprising how quickly the arid heat turns to cold wind as you trek up the old mountain paths to the Crystal Hollow. One of the main water sources in the land, many legends of magic and mischief revolve around the ancient cave, but the cave’s titular myth tells of an Orchid who spent so long in meditation that her crystals became ice and engulfed her body, and were left behind after she died and faded away. The story claims that magic survives in this ice, creating an endless supply of water for all those she swore to protect. But when you enter the cave, there is no magic to be felt. Melting ice coats every surface, and even the sound of flowing water seems… wrong. Keeping your weapons close and your torches closer, you venture inside to destroy the Rot for good..."
 quest_travel_crystalhollow_list,Finally destroy the rot
 quest_travel_crystalhollow_name,Not so Sleepy Hollow
-quest_travel_demonspinehollow_desc,"No one has been seen from Demonspine Hollow for months, and the only information coming from that part of the forest is of fairy folk scaring villagers witless."
-quest_travel_demonspinehollow_intro,"As you head south-east across the Marches, conversation switches to what you have heard from Demonspine Hollow. Stories of Fairies and Imps cursing travellers and bewitching their livestock, it all sounds very far fetched! As you reach the edge of the forest, there is a strange feel to the world. Colours seem more vibrant here, and you catch sounds of fluttering wings. Surely, it’s just your imagination..."
-quest_travel_demonspinehollow_list,Investigate the old wives' tales of magical creatures in the forest
-quest_travel_demonspinehollow_name,Fairy Tales
+
 quest_travel_drakefirefarm_desc,"Trade from the area around Drake Fire Farm has come to halt, with crops dying and livestock diseased. An area of the nearby forest has been identified as a source of the rot. Removing the problem should reopen the trade."
 quest_travel_drakefirefarm_intro,"As you reach the arable land around Drake Fire Farm, the smell hits you: a combination of rotten eggs and an overly sweet smell of flowers. You see unpleasant twisted plants growing from the verges of the path, and in the distance a copse of woodland has strange silhouettes of gnarled trees. You set off in that direction. The smell gets stronger the closer you get to the copse, and the trees ooze a strange black sap which drips and steams onto the floor. As you reach a clearing in the forest, you notice movement ahead. Whatever is causing this taint resides here."
 quest_travel_drakefirefarm_list,The forest around Drake Fire Farm has become twisted and diseased. Go and investigate
@@ -11374,10 +11354,7 @@ scenario_travel_crystalhollow_start_3,Stop. Don’t even say those words.
 scenario_travel_crystalhollow_success_1,"As the last Ooze dribbles into a puddle, the Rot around the cave crumbles away and the water clears."
 scenario_travel_crystalhollow_success_2,"But the rotten stench stays, and streaks of black are still visible in the water..."
 scenario_travel_crystalhollow_success_3,"It appears this wasn’t the source. We’ll have to travel further south, and hopefully we’ll learn of the Lurkers’ plans on the way."
-scenario_travel_demonspinehollow_start_1,"As you pass through a clearing, hounds burst out of the undergrowth followed by high pitched laughing. It seems the villagers were right!"
-scenario_travel_demonspinehollow_start_2,Imps! We never believed the elders of my clan when they said they used to deal with fairies.
-scenario_travel_demonspinehollow_start_3,"The world must be in dire straights if they have become this brazen. Beware their magic, an Imp’s curse is not to be taken lightly!"
-scenario_travel_demonspinehollow_start_4,"Also, some scenarios have branching paths. In this case it seems there are two routes. Ensure you always investigate all doors — you may need to split the party."
+
 scenario_travel_demonspinehollow_success,"With the Imps and Hounds dead, the colours of the forest return to normal, and you head on towards the village."
 scenario_travel_drakefirefarm_start_1,"I’ve been hearing rumours of Night Demons prowling areas to the north, but this is the first time I’ve seen them in the flesh."
 scenario_travel_drakefirefarm_start_2,"They use the power of the Dark, Light will help you defeat them!"
