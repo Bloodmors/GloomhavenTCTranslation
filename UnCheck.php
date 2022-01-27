@@ -841,12 +841,6 @@ adventure_achievement_soothsinger_2_desc,靈魂歌者增強，祝福或治療盟
 adventure_achievement_soothsinger_3,彪低音
 adventure_achievement_soothsinger_3_desc,靈魂歌者詛咒敵人25次
 
-adventure_achievement_summoner_1,坦
-adventure_achievement_summoner_1_desc,召喚師的召喚物受到40點傷害
-adventure_achievement_summoner_2,催眠師
-adventure_achievement_summoner_2_desc,召喚師使用30次操控技能
-adventure_achievement_summoner_3,杜立德醫生
-adventure_achievement_summoner_3_desc,召喚師增強30次召喚物夥伴
 adventure_achievement_sunkeeper_1,引路明燈
 adventure_achievement_sunkeeper_1_desc,執日士抽取x2攻擊修正卡並命中40次
 adventure_achievement_sunkeeper_2,光明觸摸
@@ -5740,7 +5734,7 @@ scenario_campaign_095_success_5,隨後，它再次放出一道脈衝。
 beasttyrant_adventure_description,超越他們基本本能的魔鼠發現，如果在荒野中的野獸身上應用他們的意念，他們會受益多多。獸王們可以聚集帶著尖牙、獸爪和禽爪的驚人的軍隊，這讓他們在戰鬥中成為強大的對手
 beasttyrant_role,近戰輸出/召喚
 beasttyrant_strengths,"- <indent=%15>開始就有一頭強力的熊夥伴</indent>
-- <indent=%15>與所有盟友召喚物合作地很好</indent>
+- <indent=%15>與所有你的召喚物合作地很好</indent>
 - <indent=%15>大量群體技能</indent>"
 beasttyrant_weaknesses,"- <indent=%15>熊精疲力盡時會很弱</indent>
 - <indent=%15>應該遠離近戰肉搏</indent>
