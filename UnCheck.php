@@ -45,16 +45,14 @@
 
 090_t,你的下一次在隱形<sprite name=Invisible></nobr>時的攻擊，翻倍攻擊值並獲得<sprite name=XP2>。
 
-097_b_1,強迫一名相鄰的敵人執行
-097_b_2,由你操控行動，並停留在一個相鄰的格子。
+
 097_t_1,每一個與目標相鄰的盟友使你獲得<nobr>+1攻擊力<sprite name=Attack>。</nobr>
 097_t_2,則獲得<nobr>+2攻擊力<sprite name=Attack>，</nobr><sprite name=XP1>
 
 098_t,附加+X攻擊力<sprite name=Attack>，其中X是目標護盾值的兩倍。
 
 100_t,當目標與<nobr>你的盟友</nobr>相鄰時，附加創傷<sprite name=Wound>並獲得<sprite name=XP1>。
-103_b,本回合，為你的所有以不與任何它的盟友相鄰的敵人為目標的攻擊附加+2攻擊力<sprite name=Attack>。
-104_b,本回合，在你的所有攻擊中獲得優勢。
+
 105_t_1,如果你的目標與任意一個<nobr>你的盟友</nobr>相鄰，為攻擊附加<nobr>+3攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。
 105_t_2,如果你的目標不與任何<nobr>它的盟友</nobr>相鄰，為你的攻擊附加<nobr>+3攻擊力<sprite name=Attack></nobr>並獲得<sprite name=XP1>。
 106_b,如果你的敵人處於<nobr>繳械<sprite name=Disarm></nobr>，<nobr>禁足<sprite name=Immobilize></nobr>，或<nobr>擊暈<sprite name=Stun></nobr>狀態。在接下來的六次攻擊中，為你的攻擊<nobr>附加+2攻擊/攻擊力<sprite name=Attack>。</nobr>
@@ -392,10 +390,9 @@ ability_card_blacktides,黑潮
 ability_card_bladedboomerang,劍刃回力標
 ability_card_blinddestruction,蔽目破滅
 ability_card_blisteringvortex,燥熱渦流
-ability_card_bloodhunger,渴血
+
 ability_card_bloodtransfusion,輸血
-ability_card_bloodysaw,血鋸
-ability_card_bluntforce,蓄力重擊
+
 ability_card_boilingarc,爆沸火弧
 ability_card_bondedmight,連結軍勢
 ability_card_boomingproclamation,爆烈宣言
@@ -421,7 +418,7 @@ ability_card_changetempo,變奏
 ability_card_chimericformula,嵌合方程
 ability_card_clawsofthenight,暗夜之爪
 ability_card_cleansingforce,淨化之力
-ability_card_cleartheway,掃清路障
+
 ability_card_cleavingaxe,新月斧劈
 ability_card_cloakofshade,影遁
 ability_card_commandingpresence,存在支配
@@ -469,7 +466,6 @@ ability_card_divineintervention,我身作盾
 ability_card_domination,主宰
 ability_card_donoharm,慈悲為懷
 ability_card_doomedbreeze,厄運微息
-ability_card_duelistsadvance,上前單挑
 
 ability_card_earthenspikes,土力尖峰
 ability_card_earthensteed,土制駿馬
@@ -528,7 +524,6 @@ ability_card_hammerblow,錘擊
 ability_card_handofthesurgeon,神醫妙手
 ability_card_hastenedstep,小步雙打
 
-ability_card_hiddendaggers,袖裡藏匕
 ability_card_holdbackthepain,止痛
 ability_card_holystrike,聖潔重擊
 ability_card_hornedmajesty,號角之主
@@ -643,7 +638,7 @@ ability_card_rotmaggots,腐爛蛆蟲
 ability_card_saplife,生命汲取
 ability_card_scalesofjustice,正義仲裁
 ability_card_scatteredterror,散佈恐懼
-ability_card_sentientgrowth,感知增長
+
 ability_card_shadowpuppets,影子木偶
 ability_card_shapingtheaether,靈能賦形
 ability_card_sharednightmare,共用噩夢
@@ -2046,7 +2041,7 @@ event_city_campaign_67_option_a,還錢給這群無賴。
 event_city_campaign_67_option_b,拒絕還錢，你們可不會被人威脅。
 event_city_campaign_67_result_a_a,你們歎了口氣，無奈地幫鋸骨醫者還清了欠款，還有那些附加的利息。雖然感覺很糟糕，但是幸好那些惡棍看上去心滿意足地離開了。不管怎麼說，這件事總算告一段落。
 event_city_campaign_67_result_a_b,你們看到自己沒有這麼多錢之後，決定換一種方式來解決此事。
-event_city_campaign_67_result_b,"你們不屑地笑著，並且對他們擺了擺手。你們可不會掏出這麼大筆錢來給這些土匪。不幸的是，這個羚牛族女人感到非常不高興。
+event_city_campaign_67_result_b,"你們不屑地笑著，並且對他們擺了擺手。你們可不會掏出這麼大筆錢來給這些強盜。不幸的是，這個羚牛族女人感到非常不高興。
 “那你們就用血來償還吧！”那個羚牛族女人喊道，“到後巷來找我們，就讓你們看看我是怎麼對付那些不合作的傢伙的！”"
 event_city_campaign_68_intro,"嘩嘩的流水聲將你們從半夜之中吵醒。在房間的一角， 你們看到水流正不斷地從召喚師的法杖頂端湧出，這根法杖正是你們之前在旅途中所撿到的。
 你們跳下床鋪踏過地板上的水窪，拿起法杖仔細地研究，但是你根本毫無頭緒。它好像是憑空就能變出流水，也許是將水從另一個維度傳送過來。你撓了撓頭，不知道如何是好。"
@@ -2804,16 +2799,16 @@ event_ambushaftermath_a,掠奪屍體
 event_ambushaftermath_b,埋葬屍體
 event_ambushaftermath_bury2,不知何故，你得到一種啟示，儘管你埋葬死者的意圖是好的，但你首先掠奪他們的事實在某種程度上否定了這一善行。
 event_ambushaftermath_bury_bless,你感到埋葬這些可憐的靈魂是正確的。你對你的善行感到心滿意足，繼續前進。
-event_ambushaftermath_bury_disarm,就在你準備挖掘時，你聽到了一根枯枝被踩斷的哢嗒聲。你抬頭一看，發現自己已經被一小群以逸待勞的土匪包圍——這是一次伏擊！無處可逃，別無選擇，你只能與他們拼死一戰了。
+event_ambushaftermath_bury_disarm,就在你準備挖掘時，你聽到了一根枯枝被踩斷的哢嗒聲。你抬頭一看，發現自己已經被一小群以逸待勞的強盜包圍——這是一次伏擊！無處可逃，別無選擇，你只能與他們拼死一戰了。
 event_ambushaftermath_c,離開
-event_ambushaftermath_fight,"儘管土匪人數眾多且讓你有些措手不及，但他們最終會明白，你可比他們伏擊的前一組人要厲害的多。當剩下的人轉身逃跑時，你注意到其中一個土匪背著小包東西，裡面應該是他們之前伏擊後搜刮的少量戰利品。
-你決定立刻離開，不準備看看土匪會不會帶著增援回來！"
+event_ambushaftermath_fight,"儘管強盜人數眾多且讓你有些措手不及，但他們最終會明白，你可比他們伏擊的前一組人要厲害的多。當剩下的人轉身逃跑時，你注意到其中一個強盜背著小包東西，裡面應該是他們之前伏擊後搜刮的少量戰利品。
+你決定立刻離開，不準備看看強盜會不會帶著增援回來！"
 event_ambushaftermath_leave,殺了這些人的兇手隨時都有可能回來，而你也不太想遭遇同樣的命運——你最終匆匆離開了這個地區。
 event_ambushaftermath_loot,屍體已經被搜刮的乾乾淨淨了，比你的口袋都要乾淨，根本就沒有什麼值錢東西留下了。
 event_ambushaftermath_loot_a,埋葬屍體
 event_ambushaftermath_loot_b,離開
-event_ambushaftermath_loot_disarm,就在你摸屍尋找財物時，你聽到了一根枯枝被踩斷的哢嗒聲。你抬頭一看，發現自己已經被一小群以逸待勞的土匪包圍——這是一次伏擊！無處可逃，別無選擇，你只能與他們拼死一戰了。
-event_ambushaftermath_loot_disarm_a,攻擊土匪
+event_ambushaftermath_loot_disarm,就在你摸屍尋找財物時，你聽到了一根枯枝被踩斷的哢嗒聲。你抬頭一看，發現自己已經被一小群以逸待勞的強盜包圍——這是一次伏擊！無處可逃，別無選擇，你只能與他們拼死一戰了。
+event_ambushaftermath_loot_disarm_a,攻擊強盜
 event_ambushaftermath_loot_gold,所有的裝備都是殘破的狀態不堪使用，而任何有價值的東西很可能已經被殺死這些人的兇手洗劫一空。好在，在你孜孜不倦的努力摸索下，在其中一名死者的口袋裡找到了少量黃金！
 event_ambushaftermath_loot_item,所有的裝備都是殘破的狀態不堪使用，而任何有價值的東西很可能已經被殺死這些人的兇手洗劫一空。不過，你終歸找到了一件可能對你有用的道具，兇手們畢竟不如你這麼仔細認真！
 event_ashortcut,當你疲于在這茂密的森林中穿行乏味的路線時，你考慮選擇一條能直接穿過這有著錯綜複雜樹枝的小路，以大大縮短你旅程的時間。你注意到前面的灌木叢後面有一小塊空地，可能是一條穿過這茂密森林的捷徑。
@@ -3168,7 +3163,7 @@ item_name_frigidblade,寒冰之刃
 item_name_fueledfalchion,燃燒大劍
 item_name_giantremotespider,巨型遙控蜘蛛
 item_name_halberd,戰戟
-item_name_hawkhelm,雄鷹頭盔
+
 item_name_heartofthebetrayer,背叛者之心
 item_name_heavybasinet,重型鋼盔
 item_name_helixring,雙生環戒
@@ -4319,7 +4314,7 @@ quest_job_callofthewild_intro,隨著文明的發展，它經常與自然界發�
 quest_job_callofthewild_list,野生動物一直在當地造成嚴重破壞
 quest_job_callofthewild_name,野性的呼喚
 quest_job_chapter_1_1_bandit_forest_desc,該區域有強盜出沒。但強盜並不多，因此獎勵少得可憐。
-quest_job_chapter_1_1_bandit_forest_intro,你走進附近的一片從林，沿著足跡來到土匪營地。他們並不難找。儘管這不會是你面對的最危險的敵人，但你仍然應該保持警惕。畢竟運氣可是個反復無常的女人！
+quest_job_chapter_1_1_bandit_forest_intro,你走進附近的一片從林，沿著足跡來到強盜營地。他們並不難找。儘管這不會是你面對的最危險的敵人，但你仍然應該保持警惕。畢竟運氣可是個反復無常的女人！
 quest_job_chapter_1_1_bandit_forest_list,一小群強盜正在附近搶劫
 quest_job_chapter_1_1_bandit_forest_name,四處遊蕩的強盜們
 quest_job_chapter_1_1_undead_bandit_crypt_desc,一群暴徒在當地的一個地穴中召喚了不死族。必須在趕在這些不死族變得過於強大之前把他們除掉。
@@ -4924,10 +4919,8 @@ quest_travel_mudview_desc,三河匯社區將會是對抗奇波特港的強大助
 quest_travel_mudview_intro,當你冒險前往三河匯社區時，鎮長就在門口迎接你。她知道來自奇波特港的威脅，但仍在猶豫要不要支持你。在你追問原因過後，她最終解釋道，三河匯社區一直飽受邪教徒的困擾，他們就躲在城鎮郊區的一些廢墟裡。市長請求你去除掉這個危險，你希望她能更公開地支持你。城鎮外的灌木叢讓你感覺很平常，但當你靠近邪教徒的藏身之處時，發現風裡帶著一股明顯的惡臭——惡魔。
 quest_travel_mudview_list,贏得三河匯社區的效忠
 quest_travel_mudview_name,陷在泥裡
-quest_travel_nasitra_desc,土匪佔領了通往南溪啜的主橋，闖入他們在地穴裡的藏身之處，然後想辦法突圍。
-quest_travel_nasitra_intro,你在遠處就能看到南溪啜的火炬的光芒，但主橋處於一片黑暗之中。從正面向橋上突擊橋太過愚蠢，於是你在橋墩的底部找到了一個未被使用的入口。你悄悄地進入了這條通道，向上走去，你可不會放過裡面的任何一個傢伙。
-quest_travel_nasitra_list,打破強盜對南溪啜的圍攻
-quest_travel_nasitra_name,兵臨城下
+
+
 quest_travel_nomadcamp_desc,遊民可能知道得更多......
 quest_travel_nomadcamp_intro,在認定前往遊牧營地這件事值得你多花點兒時間後，你沿著考古學家在流沙鎮給你的方向前行。就好像沙漠是無窮無盡的一般，被撕裂的白色織物碎片在沙丘之間閃爍。 隨著你的前進，血液飛濺和撕碎的床單也成為了沙漠的點綴。 在乾燥的風中，戰鬥的聲音清晰無誤的傳到你耳邊，你回應了它們的呼喚，抄起了你的武器。 剩下的遊民站在被屠殺的戰友身旁，拿著劍和長矛向著羚牛族戰士和伏擊者發起猛烈攻擊。 在被發現後，你被一個羚牛族戰士大聲挑釁，這促使著入侵者們向你發起攻擊。 遊民倖存者趁著敵人分心的時候紛紛逃走了。 現在你別無退路了。
 quest_travel_nomadcamp_list,跟遊民們談談
@@ -7598,7 +7591,7 @@ sarala-regular sdf,Sarala-Regular
 scabwitdialogname,斯甘威
 
 scenario_crypt_banditarcher_descr_0,你聽到了一些傳言稱有一夥強盜在某個地方訓練他們的弓箭手
-scenario_crypt_banditcultist_descr_0,土匪們和當地的一些邪教徒達成了合作關係，看來我們得去調查一趟了
+scenario_crypt_banditcultist_descr_0,強盜們和當地的一些邪教徒達成了合作關係，看來我們得去調查一趟了
 scenario_crypt_banditcultist_descr_1,邪教徒們受雇於當地的一個強盜團夥，只是他們合夥的基地
 scenario_crypt_bossbanditcommander_descr_0,所有強盜的蹤跡都指向了這裡，準備戰鬥！
 scenario_crypt_bossbanditcommander_descr_1,這就是強盜指揮官的所在
@@ -7748,9 +7741,9 @@ scenario_relic_drakescaleboots_start_1,鞋子就在那邊的寶箱裡，搶過�
 scenario_relic_drakescaleboots_start_2,營地在叢林深處，很難逃脫
 scenario_relic_drakescaleboots_start_3,跑起來，別停下！
 scenario_relic_drakescaleboots_success_1,儘管你逃出叢林時已經上氣不接下氣，但鞋子現在是你的了。
-scenario_relic_drakescalehelm_room_2_1,房間裡一片混亂，一群被打得夠嗆的土匪正徒勞地嘗試著夠到洞穴深處的寶箱。
+scenario_relic_drakescalehelm_room_2_1,房間裡一片混亂，一群被打得夠嗆的強盜正徒勞地嘗試著夠到洞穴深處的寶箱。
 scenario_relic_drakescalehelm_room_2_2,裡面的潛伏者對於侵略者非常不快！
-scenario_relic_drakescalehelm_room_2_3,你最好的選擇是利用土匪作為誘餌將潛伏者們引出來，但是別忘了拿寶箱裡的東西！
+scenario_relic_drakescalehelm_room_2_3,你最好的選擇是利用強盜作為誘餌將潛伏者們引出來，但是別忘了拿寶箱裡的東西！
 scenario_relic_drakescalehelm_sm1_desc,0
 scenario_relic_drakescalehelm_start_1,該死，現在有人正從我們的隧道裡出來，這活兒真是一場災難！
 scenario_relic_drakescalehelm_start_2,別叫喚了，我們的任務是防守這個據點，看見他們正在回收寶箱了嗎，把嘴閉上撂倒他們！
@@ -7810,7 +7803,7 @@ scenario_relic_sacrificialrobes_room_2_2,並且看上去，弓箭手在此事中
 scenario_relic_sacrificialrobes_room_3_1,那邊似乎有一件沒穿過的衣物，咱們該拿上它了。
 scenario_relic_sacrificialrobes_room_3_2,為了治癒研究
 scenario_relic_sacrificialrobes_sm1_desc,所有角色遠程進攻附加<nobr>+1 攻擊力 <sprite name=Attack></nobr>
-scenario_relic_sacrificialrobes_start_1,你得進來看看這裡面發生了什麼，這一切看起來很可疑...土匪為什麼會和邪教徒合作？
+scenario_relic_sacrificialrobes_start_1,你得進來看看這裡面發生了什麼，這一切看起來很可疑...強盜為什麼會和邪教徒合作？
 scenario_relic_sacrificialrobes_start_2,事實上，我注意到在這個區域裡有個魔法光環會讓遠程進攻變得更加致命，這是...？
 scenario_relic_sacrificialrobes_success_1,幹得好，斗篷是我們的了！
 scenario_relic_secondskin_room_2_1,消滅他們，別讓他們跑了！
@@ -8951,7 +8944,7 @@ town_records_scenario073complete_14,這就是所謂的大災變......
 town_records_scenario073complete_15,“故事還不完整，”多明尼克說道，“但它是一個開端。它解答了我諸多的問題，但我還有更多的疑問。如果我手上有更多的線索，到時我會再通知你們的。”
 town_records_scenario073complete_2,“才過了這麼短的時間就再次見到你們使我感覺有點不可思議。很明顯你們前不久才把‘指引法典’交給我，但通常來說我需要花費更長的時間來研究這本書以使我能將那個艾斯泰爾人的故事撰寫出來，不......我們現在面臨著一個大麻煩。”
 town_records_scenario073complete_3,像平常一樣，多明尼克帶著你們來到了後室，但是當多明尼克打開房門的時候，你們看到整個房間一片狼藉，桌子被翻倒在地，被撕毀的書籍散落一地。
-town_records_scenario073complete_4,“他們帶走了所有東西，”多明尼克歎了口氣，“他們帶走了法典，還有我的書......簡直就是一幫土匪。”
+town_records_scenario073complete_4,“他們帶走了所有東西，”多明尼克歎了口氣，“他們帶走了法典，還有我的書......簡直就是一幫強盜。”
 town_records_scenario073complete_5,他注意到你們既迷茫又憂心的神情，然後接著說道：“他們自稱是守夜人，說我碰到了不該去碰的東西。就在你們離開沒多久，當我正在醉心研究法典的時候，他們全副武裝沖了進來。他們說自己是負責保護‘指引法典’的安全，沒收了法典的副本，並且檢查是否還有其他抄本，最終搶走了我正在撰寫的那本黯淡港灣歷史。”
 town_records_scenario073complete_6,多明尼克將一本被毀的書摔在地上。“簡直令 人髮指！守夜人？以巨橡之名，那些守夜人以為自己是誰呀？放屁！我看是原始人還差不多！看看他們是怎樣對待這些書的呀！”
 town_records_scenario073complete_7,多明尼克閉上眼睛，深深吸了一口氣，然後臉上露出了一絲微笑。“不過， 現在我們有兩件事情要做的。第一件事就是我們一定要把那些書搶回來。首先要聯繫我的眼線，也許還要做一些調查。查明那些該死的守夜人真正的身份，然後找出他們的藏身之處，最後就需要你們去把他們殺個精光。”

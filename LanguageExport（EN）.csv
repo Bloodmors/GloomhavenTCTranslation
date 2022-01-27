@@ -58,12 +58,12 @@ Key,English [en-GB]
 090_t,"On your next attack while <nobr>INVISIBLE <sprite name=Invisible></nobr>, double the value of the attack and gain <sprite name=XP2>."
 091_t,Add <nobr>+2 Attack <sprite name=Attack></nobr> and gain <sprite name=XP1> when the target is adjacent to none of its allies.
 092_t,Disarm one adjacent trap.
-097_b_1,Force one adjacent enemy to perform
+
 097_b_2,"with you controlling the action, and ending in a hex adjacent to you."
 097_t_1,Add <nobr>+1 Attack <sprite name=Attack></nobr> for each of your allies adjacent to the target.
 097_t_2,"Add <nobr>+2 Attack <sprite name=Attack></nobr> instead, <sprite name=XP1>."
 098_b,"The next time you suffer damage this round, suffer no damage instead."
-098_t,Add +X Attack <sprite name=Attack> where X is double the Shield value of the target.
+
 099_b,Loot <sprite name=Loot> every hex you enter with this action.
 100_t,Add WOUND <sprite name=Wound> and gain <sprite name=XP1> when the target is adjacent to any <nobr>of your allies.</nobr>
 103_b,Add +2 Attack <sprite name=Attack> to all your attacks this round targeting enemies adjacent to none of their allies.
@@ -418,8 +418,8 @@ ability_card_blinddestruction,Blind Destruction
 ability_card_blisteringvortex,Blistering Vortex
 ability_card_bloodhunger,Blood Hunger
 ability_card_bloodtransfusion,Blood Transfusion
-ability_card_bloodysaw,Bloody Saw
-ability_card_bluntforce,Blunt Force
+
+
 ability_card_boilingarc,Boiling Arc
 ability_card_bondedmight,Bonded Might
 ability_card_boomingproclamation,Booming Proclamation
@@ -445,7 +445,7 @@ ability_card_changetempo,Change Tempo
 ability_card_chimericformula,Chimeric Formula
 ability_card_clawsofthenight,Claws of the Night
 ability_card_cleansingforce,Cleansing Force
-ability_card_cleartheway,Clear the Way
+
 ability_card_cleavingaxe,Cleaving Axe
 ability_card_cloakofshade,Cloak of Shade
 ability_card_commandingpresence,Commanding Presence
@@ -493,7 +493,7 @@ ability_card_divineintervention,Divine Intervention
 ability_card_domination,Domination
 ability_card_donoharm,Do No Harm
 ability_card_doomedbreeze,Doomed Breeze
-ability_card_duelistsadvance,Duelist's Advance
+
 
 ability_card_earthenspikes,Earthen Spikes
 ability_card_earthensteed,Earthen Steed
@@ -552,7 +552,7 @@ ability_card_hammerblow,Hammer Blow
 ability_card_handofthesurgeon,Hand of the Surgeon
 ability_card_hastenedstep,Hastened Step
 
-ability_card_hiddendaggers,Hidden Daggers
+
 ability_card_holdbackthepain,Hold Back the Pain
 ability_card_holystrike,Holy Strike
 ability_card_hornedmajesty,Horned Majesty
@@ -669,7 +669,7 @@ ability_card_rotmaggots,Rot Maggots
 ability_card_saplife,Sap Life
 ability_card_scalesofjustice,Scales of Justice
 ability_card_scatteredterror,Scattered Terror
-ability_card_sentientgrowth,Sentient Growth
+
 ability_card_shadowpuppets,Shadow Puppets
 ability_card_shapingtheaether,Shaping the Ether
 ability_card_sharednightmare,Shared Nightmare
@@ -6083,7 +6083,7 @@ item_name_frigidblade,Frigid Blade
 item_name_fueledfalchion,Fueled Falchion
 item_name_giantremotespider,Giant Remote Spider
 item_name_halberd,Halberd
-item_name_hawkhelm,Hawk Helm
+
 item_name_heartofthebetrayer,Heart of the Betrayer
 item_name_heatershield,Heater Shield
 item_name_heavybasinet,Heavy Basinet
@@ -9379,10 +9379,8 @@ quest_travel_mudview_desc,Mudview would be a strong ally in the battle against K
 quest_travel_mudview_intro,"As you venture towards Mudview, the town’s Mayor greets you at the gate. She is aware of the threat from Keyport, but remains hesitant to support your cause. After you push for a reason, she eventually reveals that Mudview has been plagued by Cultists holed up in some ruins on the town outskirts. The Mayor dispatches you to remove this danger, and you hope to make her more open to lending you support in the process. The undergrowth outside the town feels uncomfortably ordinary to you, but as you approach the main hideout, the wind carries an unmistakable stench — Demons."
 quest_travel_mudview_list,Earn Mudview's allegiance
 quest_travel_mudview_name,Stuck In The Mud
-quest_travel_nasitra_desc,"Bandits have taken the main bridge into Nasitra, break into their hideout in the crypts below the bridge and break the siege."
-quest_travel_nasitra_intro,"At distance you can see the torchlight from the city of Nasitra, but the main bridge is in darkness. It would be foolhardy to assault the bridge from above, so you scout out an unused entrance at the base of one the main supports. You quietly enter a passageway and head upwards, knowing you should get the drop on whoever you find inside."
-quest_travel_nasitra_list,Break the Bandit siege on Nasitra
-quest_travel_nasitra_name,Under Siege
+
+
 quest_travel_nomadcamp_desc,The Nomads may know more...
 quest_travel_nomadcamp_intro,"Deciding it is worth the extra time to travel to the nomad camp, you travel in the direction given to you by the archaeologists at the Shifting Sands. Just as the desert feels as though it will never end, shards of torn white fabric glint among the dunes. As you advance, blood spatters and shredded bedskins join the decoration. The unmistakable sounds of battle reach you on the dry wind, and you answer their call, weapons drawn. Standing over their slaughtered comrades, the remaining nomads lash out with sword and spear at Inox and Lurker warriors. Your discovery is broadcasted by an Inox warrior roaring a challenge, prompting the invaders to turn toward you. Sensing the distraction, the nomad survivors flee as their assailants advance. There is no way out now."
 quest_travel_nomadcamp_list,Speak to the Nomads
