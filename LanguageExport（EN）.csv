@@ -409,23 +409,18 @@ ability_card_banefulhex,Baneful Hex
 ability_card_battlefieldmedicine,Battlefield Medicine
 ability_card_beaconoflight,Beacon of Light
 ability_card_bedsidemanner,Bedside Manner
-ability_card_bitinggnats,Biting Gnats
-ability_card_bitingwind,Biting Wind
-ability_card_blackarrow,Black Arrow
-ability_card_blackfire,Black Fire
-ability_card_blackknives,Black Knives
-ability_card_blacktides,Black Tides
+
 ability_card_bladedboomerang,Bladed Boomerang
 ability_card_blinddestruction,Blind Destruction
 ability_card_blisteringvortex,Blistering Vortex
-ability_card_bloodhunger,Blood Hunger
-ability_card_bloodtransfusion,Blood Transfusion
+
+
 
 
 ability_card_boilingarc,Boiling Arc
-ability_card_bondedmight,Bonded Might
+
 ability_card_boomingproclamation,Booming Proclamation
-ability_card_boostershot,Booster Shot
+
 ability_card_borrowedessence,Borrowed Essence
 ability_card_bounceback,Bounce Back
 ability_card_brainleech,Brain Leech
@@ -513,7 +508,7 @@ ability_card_enhancementfield,Enhancement Field
 
 ability_card_eternalequilibrium,Eternal Equilibrium
 ability_card_etherealmanifestation,Ethereal Manifestation
-ability_card_etherealvines,Ethereal Vines
+
 
 
 ability_card_fellingswoop,Felling Swoop
@@ -526,7 +521,7 @@ ability_card_focusedaggression,Focused Aggression
 ability_card_footsnare,Foot Snare
 
 ability_card_forcefulswipe,Forceful Swipe
-ability_card_forgedferocity,Forged Ferocity
+
 ability_card_formlesspower,Formless Power
 ability_card_fortifiedposition,Fortified Position
 ability_card_foulwind,Foul Wind
@@ -580,9 +575,9 @@ ability_card_lashout,Lash Out
 ability_card_lavaeruption,Lava Eruption
 ability_card_layonhands,Lay on Hands
 ability_card_leadtoslaughter,Lead to Slaughter
-ability_card_leatherywings,Leathery Wings
+
 ability_card_livingmountain,Living Mountain
-ability_card_livingnight,Living Night
+ability_card_livingnight,
 ability_card_longcon,Long Con
 ability_card_lumberingbash,Lumbering Bash
 ability_card_lurkingruin,Lurking Ruin
@@ -597,7 +592,7 @@ ability_card_maul,Maul
 ability_card_medicalpack,Medical Pack
 ability_card_melodyandharmony,Melody and Harmony
 ability_card_meteor,
-ability_card_mightybond,Mighty Bond
+
 ability_card_mobileresponse,Mobile Response
 ability_card_mobilizingaxiom,Mobilizing Axiom
 ability_card_mobilizingmeasure,Mobilizing Measure
@@ -721,15 +716,12 @@ ability_card_tribalsigil,Tribal Sigil
 ability_card_tuningtheoutcome,Tuning the Outcome
 ability_card_tyrannicalforce,Tyrannical Force
 ability_card_undertheskin,Under the Skin
-ability_card_unendingchant,Unending Chant
-ability_card_unendingdominance,Unending Dominance
+
 ability_card_unseendread,Unseen Dread
 
 ability_card_unstoppablecharge,Unstoppable Charge
-ability_card_unwaveringhand,Unwavering Hand
-ability_card_unwaveringmandate,Unwavering Mandate
-ability_card_vaccine,Vaccine
-ability_card_vengeance,Vengeance
+
+
 ability_card_venomousally,Venomous Ally
 ability_card_viciousally,Vicious Ally
 ability_card_viciousblood,Vicious Blood
@@ -740,12 +732,12 @@ ability_card_vitalcharge,Vital Charge
 ability_card_vitalstrike,Vital Strike
 ability_card_voiceofthenight,Voice of the Night
 ability_card_volatileconsumption,Volatile Consumption
-ability_card_volatileflame,Volatile Flame
-ability_card_wardingdagger,Warding Dagger
+
+
 ability_card_watchitburn,Watch It Burn
 ability_card_weaponofpurity,Weapon of Purity
-ability_card_wildanimation,Wild Animation
-ability_card_wildcommand,Wild Command
+
+ability_card_wildcommand,
 ability_card_willingsacrifice,Willing Sacrifice
 ability_card_wingedcongregation,Winged Congregation
 ability_card_wingsofthenight,Wings of the Night
@@ -955,28 +947,7 @@ adventure_achievement_1_5_trapkills_desc,Kill 20 Enemies with Traps
 adventure_achievement_1_5_unlocklocations,Journey there and back again
 adventure_achievement_1_5_unlocklocations_desc,Reach Wildspire
 
-adventure_achievement_2_1_infuseelements,Elementary
-adventure_achievement_2_1_infuseelements_desc,Infuse 100 Elements
-adventure_achievement_2_1_killearthdemons_1,Miner Inconvenience
-adventure_achievement_2_1_killearthdemons_1_desc,Kill 10 Earth Demons
-adventure_achievement_2_1_killearthdemons_2,Stone Mason
-adventure_achievement_2_1_killearthdemons_2_desc,Kill 75 Earth Demons
-adventure_achievement_2_1_killflamedemons_1,Snuff Out
-adventure_achievement_2_1_killflamedemons_1_desc,Kill 10 Flame Demons
-adventure_achievement_2_1_killflamedemons_2,Reduce to Ashes
-adventure_achievement_2_1_killflamedemons_2_desc,Kill 75 Flame Demons
-adventure_achievement_2_1_killfrostdemons_1,Cold Shoulder
-adventure_achievement_2_1_killfrostdemons_1_desc,Kill 10 Frost Demons
-adventure_achievement_2_1_killfrostdemons_2,Freezer Burn
-adventure_achievement_2_1_killfrostdemons_2_desc,Kill 75 Frost Demons
-adventure_achievement_2_1_killsavvasicestorms_1,Ice to Meet You
-adventure_achievement_2_1_killsavvasicestorms_1_desc,Kill 10 Savvas Icestorms
-adventure_achievement_2_1_killsavvasicestorms_2,I'm Melting!
-adventure_achievement_2_1_killsavvasicestorms_2_desc,Kill 50 Savvas Icestorms
-adventure_achievement_2_1_killsavvaslavaflows_1,Nice to Heat You
-adventure_achievement_2_1_killsavvaslavaflows_1_desc,Kill 10 Savvas Lavaflows
-adventure_achievement_2_1_killsavvaslavaflows_2,You're Fired!
-adventure_achievement_2_1_killsavvaslavaflows_2_desc,Kill 50 Savvas Lavaflows
+
 adventure_achievement_2_1_killwinddemons_1,Stormchaser
 adventure_achievement_2_1_killwinddemons_1_desc,Kill 10 Wind Demons
 adventure_achievement_2_1_killwinddemons_2,Reap the Whirlwind

@@ -60,10 +60,10 @@
 
 131_t,影響目的地區域中的所有盟友
 
-134_t_1,在<nobr>射程範圍<sprite name=Range> 4</nobr>以內，在三個空格上創建三個單格的障礙物。
+134_t_1,在<nobr>射程範圍<sprite name=Range> 4</nobr>以內，在三個空格上創建三個障礙物。
 134_t_2,所有與創造出的障礙物相鄰的單位損失2點生命值。
 136_t_1,消滅一個<nobr>射程範圍<sprite name=Range> 4以內</nobr>的普通級別敵人。
-136_t_2,在敵人死亡的格子中創建一個單格的障礙物。
+136_t_2,在敵人死亡的格子中創建一個障礙物。
 -----
 137_b,在你接下來的四次近戰進攻時，盡可能地摧毀一個相鄰的障礙物來為你的攻擊附加<nobr>+3 攻擊力<sprite name=Attack></nobr>。
 138_t,在一個相鄰的空格中創建一個2點傷害的附加擊暈<sprite name=Stun>的陷阱
@@ -366,20 +366,13 @@ ability_card_banefulhex,邪惡符咒
 ability_card_battlefieldmedicine,戰地醫療
 ability_card_beaconoflight,聖光信標
 ability_card_bedsidemanner,住院留觀
-ability_card_bitinggnats,叮人小蟲
-ability_card_bitingwind,叮刺妖風
-ability_card_blackarrow,黑箭
-ability_card_blackfire,黑炎
-ability_card_blackknives,黑刃
-ability_card_blacktides,黑潮
+
 ability_card_bladedboomerang,劍刃回力標
 ability_card_blinddestruction,蔽目破滅
 ability_card_blisteringvortex,燥熱渦流
 
-ability_card_bloodtransfusion,輸血
-
 ability_card_boilingarc,爆沸火弧
-ability_card_bondedmight,連結軍勢
+
 ability_card_boomingproclamation,爆烈宣言
 ability_card_boostershot,腎上腺素
 ability_card_borrowedessence,暫借菁華
@@ -469,8 +462,6 @@ ability_card_enhancementfield,強化領域
 
 ability_card_eternalequilibrium,明鏡止水
 ability_card_etherealmanifestation,靈能具現
-ability_card_etherealvines,靈能藤蔓
-
 
 ability_card_fellingswoop,俯衝突襲
 
@@ -481,7 +472,7 @@ ability_card_focusedaggression,聚焦攻擊
 ability_card_footsnare,套足縛鎖
 
 ability_card_forcefulswipe,強力重擊
-ability_card_forgedferocity,虛張聲勢
+
 ability_card_formlesspower,無形之力
 ability_card_fortifiedposition,強化列陣
 ability_card_foulwind,森森妖風
@@ -534,9 +525,9 @@ ability_card_lashout,掊擊
 ability_card_lavaeruption,熔岩爆發
 ability_card_layonhands,聖療術
 ability_card_leadtoslaughter,屠宰
-ability_card_leatherywings,皮革翅膀
+
 ability_card_livingmountain,活體山脈
-ability_card_livingnight,躍動之夜
+
 ability_card_longcon,欺詐
 ability_card_lumberingbash,樹幹猛擊
 ability_card_lurkingruin,毀滅舞步
@@ -551,7 +542,6 @@ ability_card_maul,打傷
 ability_card_medicalpack,醫療包
 ability_card_melodyandharmony,和諧協奏
 
-ability_card_mightybond,強韌聯結
 ability_card_mobileresponse,移動回應
 ability_card_mobilizingaxiom,動員
 ability_card_mobilizingmeasure,動員措施
@@ -674,15 +664,12 @@ ability_card_tribalsigil,部落魔召
 ability_card_tuningtheoutcome,調整結果
 ability_card_tyrannicalforce,暴虐力量
 ability_card_undertheskin,皮下穿刺
-ability_card_unendingchant,無休止的詠唱
-ability_card_unendingdominance,永恆支配
+
 ability_card_unseendread,看不見的恐懼
 
 ability_card_unstoppablecharge,不可阻擋的衝鋒
-ability_card_unwaveringhand,堅毅援助
-ability_card_unwaveringmandate,堅定使命
-ability_card_vaccine,疫苗
-ability_card_vengeance,復仇
+
+
 ability_card_venomousally,劇毒夥伴
 
 ability_card_viciousally,惡毒夥伴
@@ -694,12 +681,12 @@ ability_card_vitalcharge,致命衝鋒
 ability_card_vitalstrike,致命一擊
 ability_card_voiceofthenight,暗夜之聲
 ability_card_volatileconsumption,元素環繞
-ability_card_volatileflame,不穩定火焰
-ability_card_wardingdagger,防身匕首
+
+
 ability_card_watchitburn,烈火刀法
 ability_card_weaponofpurity,純潔提升
-ability_card_wildanimation,野性狂熱
-ability_card_wildcommand,狂野號令
+
+
 ability_card_willingsacrifice,自願獻祭
 ability_card_wingedcongregation,帶翼的會眾
 ability_card_wingsofthenight,暗夜之翼
@@ -717,7 +704,6 @@ ability_card_wretchedswarm,驚駭蟲群
 adventure_achievement_1_2_reachfordingbridge,魂斷藍橋
 adventure_achievement_1_2_reachthesloshedsquirrel,去奇波特港的要道
 
-
 adventure_achievement_1_4_killrendingdrakes_1,歐皇
 adventure_achievement_1_4_killrendingdrakes_2,風水輪流轉
 adventure_achievement_1_4_killspittingdrakes_1,無牙仔？
@@ -727,20 +713,7 @@ adventure_achievement_1_4_killsundemons_1,夜魘
 adventure_achievement_1_4_killsundemons_2,暗夜使者
 adventure_achievement_1_4_unlocklocations,鬼斧神工
 
-
 adventure_achievement_1_5_unlocklocations,往復旅途
-
-adventure_achievement_2_1_killearthdemons_1,麻煩礦工
-
-adventure_achievement_2_1_killearthdemons_2,石匠
-
-adventure_achievement_2_1_killflamedemons_1,掐滅
-
-adventure_achievement_2_1_killflamedemons_2,化為灰燼
-
-adventure_achievement_2_1_killfrostdemons_1,冷眼相待
-
-adventure_achievement_2_1_killfrostdemons_2,冰櫃短路
 
 adventure_achievement_2_1_killsavvasicestorms_1,很高興冰到你
 
@@ -757,7 +730,7 @@ adventure_achievement_2_1_killwinddemons_2,求風得風
 adventure_achievement_2_1_preventdamagearmor,鐵匠的老主顧
 adventure_achievement_2_1_preventdamagearmor_desc,使用護甲，護盾類道具減免40點傷害
 adventure_achievement_2_1_summonkills,就決定是你了！
-adventure_achievement_2_1_summonkills_desc,你的召喚物殺死50個敵人
+
 adventure_achievement_3_1_drawnegativeattackmods,這把我點了
 adventure_achievement_3_1_drawnegativeattackmods_desc,抽到50張 -1 攻擊修正卡
 adventure_achievement_3_1_killancientartillery_1,軍火庫
@@ -773,7 +746,6 @@ adventure_achievement_3_1_killcityarchers_2,員警故事
 adventure_achievement_3_1_killcityguards_1,法外狂徒張三
 
 adventure_achievement_3_1_killcityguards_2,這個要判幾年？
-
 
 adventure_achievement_3_1_movexdistance,快跑，隨便朝哪兒跑都行！
 adventure_achievement_3_1_movexdistance_desc,執行30次超過4格的移動行動。
@@ -6833,7 +6805,7 @@ intro_quest,現在可能是個檢查傭兵的<color=#EACF8C>技能卡和裝備</
 intro_reputation,玩家團隊的名聲受到你行為的影響。 名聲將影響商人商店中的<color=#EACF8C>物品的售價</color>以及某些遭遇的結果。善良的行為通常會獲得獎勵，但它們可能沒那麼有趣...如何選擇取決於你。
 
 intro_temple_2_splitgold,請記住，每個雇傭兵都有自己的金幣儲備和個人背包，所以請確認在捐款給神廟之前<color=#EACF8C>選擇了正確的雇傭兵頭像</color>。
-ironbeast,鐵獸
+
 ironbell,鐵鐘堡
 ironbell_descr,這座小堡壘擁有鐵鐘the Iron Bell，這是一種數百年來未使用的古老警報系統。它被用來警告奇波特港有掠奪者從南部沼澤中上來。
 ironwoodcamp,鐵木營地
@@ -8706,8 +8678,6 @@ thevaleoffangs,韋爾的爪牙
 theveiledcamp,隱藏營地
 thewickedwilds,邪惡荒野
 
-thornshooter,荊棘射手
-threehexobstacle,三格障礙物
 times,次
 toadmoor,蟾鳴地
 town_records_firstretirement_1,“這麼說，你們想為所有在黯淡港灣退休的傭兵建一個資料庫？”一位蓄有鬍鬚的瘦小男子愁眉苦臉地問道，“在我看來你們還真是有些自大，不過我記得在某個書架上我還有多餘的記錄本。”
@@ -8824,7 +8794,7 @@ town_records_scenario077complete_7,之後“幽影”就在觀望著，等待著
 town_records_scenario077complete_8,“黯......”多明尼克喃喃自語道。“每當我覺得能觸到事情真相的最深處時，就會有新的東西浮現出來。”
 town_records_scenario077complete_9,他一屁股坐倒在椅子上。“這聽起來不太妙。我猜那個艾斯泰爾人說服了兩軍領袖讓他們停止戰爭，免得讓‘黯’的計畫如願以償，然而守夜人組織似乎堅信‘黯’有朝一日會回來不由分說地將我們全部毀滅。我現在真的不知道該怎麼想才對呢。”
 transferdooms,轉移厄運
-twohexobstacle,兩格障礙物
+
 ui_augment_group_tooltip_cgflurry,損失 X 生命值以在這次攻擊增加 X 點攻擊力。
 ui_augment_group_tooltip_cgmaw,損失 X 生命值以在這次攻擊增加 X 點攻擊力。
 ui_augment_group_tooltip_cgreckless,損失 X 生命值以在這次攻擊增加 X 個目標數。
