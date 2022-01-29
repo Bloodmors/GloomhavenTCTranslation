@@ -399,173 +399,8 @@ the obstacle, the target suffers 2 damage, and you gain <sprite name=XP1>."
 738,Summon normal Deep Terror in a hex adjacent to the target
 741,Stone Golem suffers *Damage1* damage.
 744,Stone Golem suffers *Damage2* damage.
-abandonedcatacombs,Abandoned Catacombs
-abandonedfarm,Abandoned Farm
-abandonedfarm_descr,"An abandoned farm lies just off the main road from Keyport. The smell of woodsmoke lingers here, and much of the roof has collapsed, but a few of the rooms are still habitable for a night."
 
 
-ability_card_bagofholding,Bag of Holding
-ability_card_banefulhex,Baneful Hex
-ability_card_battlefieldmedicine,Battlefield Medicine
-ability_card_beaconoflight,Beacon of Light
-ability_card_bedsidemanner,Bedside Manner
-
-ability_card_bladedboomerang,Bladed Boomerang
-ability_card_blinddestruction,Blind Destruction
-ability_card_blisteringvortex,Blistering Vortex
-
-
-
-
-ability_card_boilingarc,Boiling Arc
-
-ability_card_boomingproclamation,Booming Proclamation
-
-ability_card_borrowedessence,Borrowed Essence
-ability_card_bounceback,Bounce Back
-ability_card_brainleech,Brain Leech
-ability_card_brightaegis,Bright Aegis
-ability_card_brilliantflash,Brilliant Flash
-ability_card_brilliantprayer,Brilliant Prayer
-ability_card_brutalmomentum,Brutal Momentum
-ability_card_burial,Burial
-ability_card_burningflash,Burning Flash
-ability_card_burningoil,Burning Hatred
-ability_card_calltoaction,Call to Action
-ability_card_camouflage,Camouflage
-ability_card_captivatingperformance,Captivating Performance
-ability_card_cataclysm,Cataclysm
-ability_card_catastrophicbomb,Catastrophic Bomb
-ability_card_cautiousadvance,Cautious Advance
-ability_card_chainlightning,Chain Lightning
-ability_card_changetempo,Change Tempo
-ability_card_chimericformula,Chimeric Formula
-ability_card_clawsofthenight,Claws of the Night
-ability_card_cleansingforce,Cleansing Force
-
-ability_card_cleavingaxe,Cleaving Axe
-ability_card_cloakofshade,Cloak of Shade
-ability_card_commandingpresence,Commanding Presence
-ability_card_concealeddominance,Concealed Dominance
-ability_card_concentratedrage,Concentrated Rage
-ability_card_conjuredaid,Conjured Aid
-ability_card_continualsupply,Continual Supply
-ability_card_converttheflock,Convert the Flock
-ability_card_corruptingembrace,Corrupting Embrace
-ability_card_craniumoverload,Cranium Overload
-ability_card_crashingwave,Crashing Wave
-
-ability_card_creepingcurse,Creeping Curse
-ability_card_cripplingbow,Crippling Bow
-ability_card_cripplingchorus,Crippling Chorus
-ability_card_cripplingnoose,Crippling Noose
-ability_card_cripplingpoison,Crippling Poison
-
-ability_card_crushinghammer,Crushing Hammer
-ability_card_crystallizingblast,Crystallizing Blast
-ability_card_culltheweak,Cull the Weak
-ability_card_curativeaerosol,Curative Aerosol
-ability_card_curativemixture,Curative Mixture
-ability_card_dancingshadows,Dancing Shadows
-ability_card_dangerouscontraption,Dangerous Contraption
-ability_card_darkcloud,Dark Cloud
-ability_card_darkenedskies,Darkened Skies
-ability_card_darkfrenzy,Dark Frenzy
-ability_card_daybreak,Daybreak
-ability_card_dazingwound,Dazing Wound
-ability_card_dazzlingcharge,Dazzling Charge
-ability_card_defensiveditty,Defensive Ditty
-ability_card_defensivestance,Defensive Stance
-ability_card_defianceofdeath,Defiance of Death
-ability_card_detonation,Detonation
-ability_card_devilhorns,Devil Horns
-ability_card_digpit,Dig Pit
-
-ability_card_disappearingwounds,Disappearing Wounds
-ability_card_disorientingdirge,Disorienting Dirge
-ability_card_disorientingflash,
-ability_card_disorientingroar,Disorienting Roar
-ability_card_dividedmind,Divided Mind
-ability_card_divineintervention,Divine Intervention
-ability_card_domination,Domination
-ability_card_donoharm,Do No Harm
-ability_card_doomedbreeze,Doomed Breeze
-
-
-ability_card_earthenspikes,Earthen Spikes
-ability_card_earthensteed,Earthen Steed
-ability_card_echoingaria,Echoing Aria
-ability_card_elementalaegis,Elemental Aegis
-ability_card_empoweringcommand,Empowering Command
-ability_card_empoweringvoid,Empowering Void
-ability_card_encompassingshadow,Encompassing Shadow
-ability_card_endlessspikes,Endless Spikes
-ability_card_energizingstrike,Energizing Strike
-ability_card_energizingtonic,Energizing Strike
-ability_card_enervatingwound,Enervating Wound
-ability_card_engulfingradiance,Engulfing Radiance
-ability_card_enhancementfield,Enhancement Field
-
-ability_card_eternalequilibrium,Eternal Equilibrium
-ability_card_etherealmanifestation,Ethereal Manifestation
-
-
-
-ability_card_fellingswoop,Felling Swoop
-
-ability_card_fetidflurry,Fetid Flurry
-ability_card_flightofflame,
-ability_card_flintlock,Flintlock
-ability_card_flurryofblades,Flurry of Blades
-ability_card_focusedaggression,Focused Aggression
-ability_card_footsnare,Foot Snare
-
-ability_card_forcefulswipe,Forceful Swipe
-
-ability_card_formlesspower,Formless Power
-ability_card_fortifiedposition,Fortified Position
-ability_card_foulwind,Foul Wind
-ability_card_freshkill,Fresh Kill
-ability_card_frighteningcurse,Frightening Curse
-
-ability_card_frigidtorrent,Frigid Torrent
-ability_card_fromthebrink,From the Brink
-ability_card_frozenmind,
-ability_card_gatheringdoom,Gathering Doom
-ability_card_gentlemansanger,Gentleman's Anger
-ability_card_giantclub,Giant Club
-
-ability_card_gloriousbolt,Glorious Bolt
-
-ability_card_graspingthevoid,Grasping the Void
-ability_card_graspingvermin,Grasping Vermin
-ability_card_gravelvortex,Gravel Vortex
-ability_card_grimbargain,Grim Bargain
-ability_card_grimsustenance,Grim Sustenance
-ability_card_grislytrauma,Grisly Trauma
-ability_card_gruesomeadvantage,Gruesome Advantage
-ability_card_hammerblow,Hammer Blow
-
-ability_card_handofthesurgeon,Hand of the Surgeon
-ability_card_hastenedstep,Hastened Step
-
-
-ability_card_holdbackthepain,Hold Back the Pain
-ability_card_holystrike,Holy Strike
-ability_card_hornedmajesty,Horned Majesty
-ability_card_hostiletakeover,Hostile Takeover
-ability_card_howlingbolts,Howling Bolts
-ability_card_icespikes,Ice Spikes
-ability_card_illuminatethetarget,Illuminate the Target
-ability_card_impalingspear,Impaling Spear
-ability_card_impendingend,Impending End
-ability_card_inescapablefate,Inescapable Fate
-ability_card_inexorablemomentum,Inexorable Momentum
-ability_card_infernalvortex,Infernal Vortex
-ability_card_inspiringanthem,Inspiring Anthem
-ability_card_inspiringsanctity,Inspiring Sanctity
-ability_card_interplanarmastery,Interplanar Mastery
-ability_card_interveningapparitions,Intervening Apparitions
 
 ability_card_ironbulwark,Iron Bulwark
 ability_card_jawsofdeath,Jaws of Death
@@ -610,7 +445,7 @@ ability_card_oozingmanifestation,Oozing Manifestation
 ability_card_openwound,Open Wound
 
 ability_card_otherworldlyrage,Otherworldly Rage
-ability_card_oversizedpack,Oversized Pack
+
 ability_card_painsend,Pain's End
 ability_card_paralyzingbite,Paralyzing Bite
 ability_card_patchfur,Patch Fur
@@ -653,7 +488,7 @@ ability_card_relentlessally,Relentless Ally
 ability_card_relentlessoffensive,Relentless Offensive
 ability_card_researchthecure,Research the Cure
 ability_card_reservedenergy,Reserved Energy
-ability_card_restock,Restock
+
 ability_card_restorativemist,Restorative Mist
 
 ability_card_righteousstrength,Righteous Strength
